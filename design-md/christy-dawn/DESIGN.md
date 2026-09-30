@@ -4,6 +4,10 @@ name: "Christy Dawn"
 source_url: "https://christydawn.com"
 captured_at: "2026-09-28T04:15:45.522062+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Christy Dawn's public CSS evidence points to a warm, earth-toned palette built
   from unbleached linens (#faf8f4, #f9f7f3, #fbf8f4), clay and rust browns
@@ -167,6 +171,12 @@ This is a recommended breakpoint scheme, not a measured site behavior:
 Touch targets should be at minimum 44×44px for buttons and size-selector chips. Nav-bar is expected to collapse into a hamburger/drawer pattern below 1024px, and search should convert to a full-screen overlay on mobile — both proposed, unverified interaction patterns.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS extraction only; no rendered page, computed layout, or interaction was directly observed. The dark background (`#0d0e07`) was found on a selector with truncated/obscured context, so its assignment to "footer" is an inference, not a confirmed usage. Neutral roles (ink, muted, hairline, surface-soft, surface-card) are grouped from repeated palette values rather than explicit CSS variable names. Font sizes for display/heading tokens are converted from rem custom properties assuming a 16px root and may not match actual rendered sizes if the root font-size differs. Hover/focus states beyond `.btn-lg.rust:hover` were not present in evidence and are proposed by analogy. Mobile navigation, search overlay, and size-selector interaction patterns are proposed, not observed. Availability and licensing of the custom fonts (ajensonpro-lt, garamond-premier-pro family, Maison Neue Book) were not verified and should be confirmed before implementation. Spacing and rounded scales beyond the observed `0px` border-radius are proposed defaults, not extracted values.

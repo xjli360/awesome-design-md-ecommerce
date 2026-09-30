@@ -4,6 +4,10 @@ name: "CarPro"
 source_url: "https://carpro.global/"
 captured_at: "2026-09-29T03:58:57.551136+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   CarPro's public site presents a stark, high-contrast industrial identity built almost entirely on black, white, and a narrow set of saturated accents. Buttons use a faceted, clipped-corner shape (polygon clip-path) rather than rounded corners, rendered in pure black (#000000) and white (#ffffff) with a red (#ff2400) border variant used for secondary/PPF-related calls to action. A muted gray system (#a5a7ac, #383c42, #525252, #cfd1d5, #dcdde2) supports body copy, hairlines, and card surfaces against the white canvas, while isolated accent hues — cyan (#00bbff), green (#32c82e), and a warm gold (#b4904d) — appear in the palette and are treated here as inferred category or status accents (e.g. coating/ceramic callouts, availability states) rather than confirmed UI roles, since no selector evidence ties them to a specific component. Typography is set in the site's custom "Basier Square" webfont (delivered via Next.js font-loading classes) with a system fallback chain; only the button label styling (12px, weight 500, uppercase, 0.6px tracking, line-height 2) is directly observed in CSS, so all other type sizes below are proposed extrapolations sized for a technical, product-driven detailing brand. The resulting interpretation favors sharp geometric buttons, tight uppercase labels, and a monochrome-first surface system accented sparingly by the observed hues.
 
@@ -139,6 +143,13 @@ components:
 Recommended, not measured: mobile up to 599px (single-column stacking, nav collapses to the `Button_ButtonMenu__P0bV2`-style trigger), tablet 600–959px (2-column product grids), desktop 960–1439px (3–4 column grids, full nav visible), wide 1440px+ (max-width container matching the observed `.Button_container__9dhh0` 12-column grid with 15px gutters). Touch targets should stay at or above 44px height; the observed `ButtonMenu` is 55px tall, which comfortably meets this. Collapse the PRODUCTS mega-menu into an accordion below 960px. All breakpoint values are proposed conventions, not extracted from media queries in the supplied CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This interpretation is built from a partial CSS extract (button components, color list, one font-loader reference, and page text) rather than a full stylesheet or rendered DOM audit. Only `button-md` typography values are directly observed; all other type scale sizes, weights, and line-heights are proposed and unverified. Semantic color roles (body text, hairlines, surface tiers) are inferred by matching neutral shades to plausible UI functions, not confirmed via labeled selectors. The accent hues (#00bbff, #32c82e, #b4904d) have no confirmed component association and are treated as inferred category/status accents only. No hover, focus, active, error, or loading states beyond the button hover rule were observed. Mobile/responsive layout, breakpoints, and grid collapse behavior are proposed conventions, not measured from live rendering. The "Basier Square" webfont is referenced only through Next.js–generated class identifiers (`__basierSquare_635c71` / `__basierSquare_Fallback_635c71`); its licensing, full weight range, and rendering fallback behavior were not verified. "Times" appears in the extracted font list but no CSS rule ties it to a specific element, so it was not used in the typography tokens above.

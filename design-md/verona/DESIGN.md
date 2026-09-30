@@ -4,6 +4,10 @@ name: "Verona"
 source_url: "https://www.veronaappliances.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep-forest teal (#0c4242) poured over a near-white canvas (#f9f9f9) — that single, unexpected color pairing is what separates Verona's digital presence from the stainless-steel monotony of most appliance showrooms. The teal carries heritage weight: it reads as the enameled finish on a vintage Italian range, and the site extends this logic by pairing it with terracotta (#d8613c) accent moments and warm greige (#cfcabe) dividers that feel lifted from a Tuscan kitchen wall. Typography splits cleanly between Cardo, a high-contrast serif used for display headings and editorial moments, and Inter for all navigational and body work — the contrast between old-world serifs and a crisp geometric sans mirrors the brand's pitch of professional Italian engineering made accessible for residential kitchens. Buttons and CTAs land in `{rounded.xs}` rectangles, almost square-cornered, reinforcing the precision-appliance identity; product cards carry a gentle `{rounded.sm}` and sit on `{colors.surface-card}` white with a single `{colors.hairline}` border — no drop shadows, no gradient chrome, just enough structure to frame a range photograph. The muted sage palette (`{colors.sage}`, `{colors.meadow}`, `{colors.mint-soft}`) threads through secondary navigation, filter pills, and lifestyle-photography overlays, keeping the page atmosphere cool without going clinical. A navy accent (`{colors.navy}`) surfaces in footer links and legal-weight text, while the terracotta (`{colors.terracotta}`) fires only on promotional banners, sale badges, and the occasional hover state — used sparingly enough that each appearance reads as heat, not noise. Spacing is generous: `{spacing.section}` between page blocks, `{spacing.xl}` gutters on product grids, and a 1440px max-width container that prevents the wide, landscape-format hero images from losing their cinematic framing.
 
@@ -498,6 +502,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

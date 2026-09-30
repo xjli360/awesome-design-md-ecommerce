@@ -4,6 +4,10 @@ name: "AllPosters"
 source_url: "https://www.allposters.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Half a million thumbnails stacked in a relentless four- to five-column grid — AllPosters is a catalog machine that trusts the artwork to do all visual heavy lifting. The surrounding chrome is deliberately minimal: the near-black #313131 carries every text element against a white (#ffffff) canvas, so that saturated movie stills, fine-art reproductions, and photographic prints read without competition from the interface. There are no editorial curves, no aspirational lifestyle photography — just image density, price, and an Add to Cart button, a pragmatic directness that acknowledges the central tension of a store selling reproductions of other people's art: the UI cannot afford ego. Primary calls-to-action reach for a catalog-red, a hue with the same instinctive urgency as a sale sticker, calibrated for a price-competitive mass-market poster trade where impulse drives conversion. Hard-edge frames (`{rounded.none}`) on product image tiles echo the physical experience of a gallery wall or a poster bin; buttons pick up only the lightest radius at `{rounded.xs}` — enough to signal interactivity without breaking the utilitarian register. The search bar is the functional center of gravity: with a catalog too large to browse linearly, a prominent full-width field anchored in the nav header carries more UX weight than any hero image. A left-rail filter sidebar on desktop handles secondary refinement across subject, style, color, orientation, and format — collapsing to a drawer on mobile. Typography runs on Arial-based system stacks at modest weights, letting the massive inventory render at maximum performance without a custom font load. Price figures appear at a larger bolder weight ({typography.price-display}) to anchor purchase decisions in the card grid, while product titles stay small and quiet ({typography.product-title}), deferring to the image above them. The overall effect is deliberate anti-aestheticism: AllPosters occupies the utilitarian end of the art retail spectrum, and every interface decision reinforces that position.
 
@@ -347,6 +351,14 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "No Idea Records"
 source_url: "https://www.noidearecords.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A record store that feels like a basement show flyer stapled to a telephone pole — #103948 (deep teal) and #bc5631 (burnt orange) are the two poles of voltage, the teal serving as primary ink on a #fcfcfc canvas, the orange used sparingly for price tags, sold-out badges, and the occasional accent line that says "this matters." The site runs Josefin Sans at display sizes with its geometric, almost stencil-like letterforms, then drops into Rubik for body copy — a switch that feels like going from the marquee to the liner notes. Borders are thin (#ebeced hairline), corners are mostly sharp ({rounded.none} on cards, {rounded.xs} on buttons), and the whole thing reads like a zine that happens to sell vinyl: product titles are set in display weight, prices in a smaller muted body, and the only real ornament is the orange badge that tells you something is sold out. There is no hero video, no carousel, no newsletter popup — just a grid of records, a search bar, and the quiet confidence that if you're here, you already know what you want. The #121212 footer anchors the page with the weight of a stage monitor.
 
@@ -290,6 +294,13 @@ components:
 - Category filters (if present) collapse to a dropdown below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

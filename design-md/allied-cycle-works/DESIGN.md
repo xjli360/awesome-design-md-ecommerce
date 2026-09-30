@@ -4,6 +4,10 @@ name: "Allied Cycle Works"
 source_url: "https://alliedcycleworks.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep blue #1878b9 anchors the brand — not as a sky or water reference, but as a deliberate industrial accent that signals precision engineering against a near-white #fafafa canvas. The palette is lean: a single red #e22120 used sparingly for sale badges or urgent markers, a near-black #121212 for body text, and a middle gray #dedede for structural dividers and secondary backgrounds. There are no gradients, no decorative color blocks — the brand trusts the geometry of carbon frames and the clarity of product photography to carry visual interest. Typography runs at modest sizes with generous line-height, letting spec sheets and build details breathe without crowding. Buttons are flat rectangles with {rounded.sm} corners, never pills — the brand avoids friendly curves in favor of a machined, deliberate feel. The Shopify checkout flow introduces a second blue (#1878b9 again as the primary CTA color), keeping the purchase experience visually continuous with the rest of the site. The overall impression is of a workshop catalog translated to screen: clean, unadorned, and confident in the object itself.
 
@@ -410,6 +414,14 @@ components:
 - Secondary navigation (breadcrumbs, pagination) collapses to single-line truncation below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

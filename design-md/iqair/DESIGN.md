@@ -4,6 +4,10 @@ name: "IQAir"
 source_url: "https://www.iqair.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Numbers do the talking — oversized AQI digits rendered in a six-step gradient, from healthy green (#009966) through hazardous maroon (#7E0023), are IQAir's most recognizable visual element, turning particulate matter readings into a single glanceable signal that users consult the way weather apps display temperature. The homepage leads not with a product hero shot but with a live global air quality map, an unusual inversion where data infrastructure is the flagship feature and the physical purifiers are secondary. Against this emphasis on real-time intelligence, the structural palette is deliberately spare: a medium-bright Swiss blue (~#0082c8) anchors calls-to-action and logo marks, white canvas dominates surface area, and dark charcoal ink handles all body copy — leaving the AQI color ramp free to carry the brand's entire emotional range without visual competition. Type runs in system sans-serif stacks with no detected proprietary typeface; sizes lean large for legibility in data-dense contexts, a 16px body baseline with generous 1.6 line height keeping AQI tables scannable. Component shapes are conservatively rounded (`{rounded.sm}` on cards, `{rounded.xs}` on data chips) to communicate precision rather than softness. Product cards present the iconic HyperHEPA purifiers on white with a thin `{colors.hairline}` border, letting engineering form speak without lifestyle overlay. Navigation structures a dual-layer system — a slim global utility bar above a wider product and category row — reflecting the brand's split identity between a consumer purifier shop and a professional air quality data platform used by governments and research institutions worldwide. The visual grammar adds up to something closer to scientific instrumentation than consumer lifestyle: cleaner than Dyson, more data-present than Coway, the aesthetic equivalent of a medical-grade instrument calibrated to live in a living room.
 
@@ -330,6 +334,13 @@ components:
 - Category tab row scrolls horizontally on mobile rather than wrapping to two lines
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

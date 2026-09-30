@@ -4,6 +4,10 @@ name: "Gruv"
 source_url: "https://www.gruv.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep purple #6b45ff — the meta-theme color and the brand's most distinctive signature — anchors a movie-and-TV marketplace that feels like a midnight video-store crawl digitized. The extracted palette is a noisy mix of checkout-widget blues (#003087, #012169 from PayPal, #4285f4 from Google Pay), payment accents (#ff5f00 from Klarna, #eb001b from Mastercard), and a long tail of orange-gold gradients (#f48120 through #d05b2e) that likely power sale badges and price-drop indicators. Against this cacophony, the purple holds: it appears in the page's `<meta theme-color>` and as #6b45ff and #6b50ff in the extracted list, suggesting a primary that's neither a generic blue nor a gray. The brand runs Titling_Gothic_FB_Wide — a condensed, squared-off gothic that reads as industrial and shelf-ready, like titles on a Blu-ray spine. The canvas is likely white (#ffffff) with a near-black ink (#231f20) for body copy, and the hairline (#dedede) keeps the grid clean. The orange cluster (#f48120–#d05b2e) is almost certainly the secondary accent for deals, discounts, and "sale" flags — a warm, urgent counterpoint to the cool purple primary. The overall mood is high-contrast, direct, and promotional: a storefront that knows it's selling entertainment, not curating it.
 
@@ -302,6 +306,13 @@ components:
 - The hero banner's text and CTA stack vertically, with the image (if any) moving below the text.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

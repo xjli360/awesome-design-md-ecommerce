@@ -4,6 +4,10 @@ name: "Heritage Guitars"
 source_url: "https://www.heritageguitars.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Heritage Guitars never left the building. When Gibson relocated to Nashville in 1984, five craftsmen stayed behind in the original Kalamazoo, Michigan factory and continued hand-building guitars the same way — that founding refusal to follow the industry is the organizing logic behind every visual decision on the site. An antique gold (#9f8a46) — closer to worn brass than shining chrome — carries all primary calls to action and the brand's most visible hover states; it is the color of aged instrument hardware rather than a premium marketing badge. The canvas is warm cream (#f8f4e9), not clinical white, and the deepest surfaces read as rich near-black brown (#231e18) that evokes oiled mahogany rather than a tech-product's neutral charcoal. ff-tisa-web-pro, a high-contrast humanist serif, runs at every typographic scale — the stack never reaches for a sans-serif even at caption sizes, positioning every line of copy as part of the same deliberate editorial register as a vintage instrument catalog. A muted blue-gray (#b0c5cb) surfaces at tertiary moments — gallery borders, specification table headers, secondary badge strokes — providing cool relief against the dominant warm amber-and-cream register. The orange-red accent (#df5334) is reserved for urgency signals: in-stock alerts, limited-run callouts, and error states. Corner radii are minimal throughout; product cards carry just `{rounded.xs}` to `{rounded.sm}` clipping, hero images run edge-to-edge without rounding, and primary buttons hold `{rounded.sm}` — enough to soften without reading as consumer-casual. Section spacing is generous at `{spacing.section}` between major content areas while the product grid maintains tight gutters so guitar silhouettes can dominate the frame. The overall palette reads like the inside of a vintage instrument case: amber-lit, substantial, and distinctly Midwestern in its absence of coastal minimalism or luxury-brand cool.
 
@@ -345,6 +349,13 @@ components:
 - Spec table: side-by-side with gallery on desktop PDP → stacked below gallery on tablet and mobile with horizontal scroll enabled
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

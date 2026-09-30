@@ -22,63 +22,13 @@
     }
   ],
   "colors": {
-    "#000000": {
-      "count": 140,
-      "sources": [
-        "https://www.republicofcats.com/",
-        "https://www.republicofcats.com/builder-assets/published-css/main-49fab36.z.css"
-      ]
-    },
-    "#ffffff": {
-      "count": 132,
-      "sources": [
-        "https://www.republicofcats.com/",
-        "https://www.republicofcats.com/builder-assets/published-css/main-49fab36.z.css"
-      ]
-    },
     "#1d1d1b": {
       "count": 41,
       "sources": [
         "https://www.republicofcats.com/"
       ]
     },
-    "#f4e476": {
-      "count": 18,
-      "sources": [
-        "https://www.republicofcats.com/"
-      ]
-    },
-    "#64acb3": {
-      "count": 8,
-      "sources": [
-        "https://www.republicofcats.com/"
-      ]
-    },
-    "#1e0300": {
-      "count": 8,
-      "sources": [
-        "https://www.republicofcats.com/"
-      ]
-    },
-    "#ff6d55": {
-      "count": 7,
-      "sources": [
-        "https://www.republicofcats.com/"
-      ]
-    },
-    "#ffdc3f": {
-      "count": 5,
-      "sources": [
-        "https://www.republicofcats.com/"
-      ]
-    },
     "#e294c4": {
-      "count": 4,
-      "sources": [
-        "https://www.republicofcats.com/"
-      ]
-    },
-    "#f2c930": {
       "count": 4,
       "sources": [
         "https://www.republicofcats.com/"
@@ -90,16 +40,10 @@
         "https://www.republicofcats.com/"
       ]
     },
-    "#e5c700": {
-      "count": 3,
+    "#ffffff": {
+      "count": 132,
       "sources": [
         "https://www.republicofcats.com/"
-      ]
-    },
-    "#666666": {
-      "count": 3,
-      "sources": [
-        "https://www.republicofcats.com/builder-assets/published-css/main-49fab36.z.css"
       ]
     },
     "#e4f1f2": {
@@ -114,63 +58,45 @@
         "https://www.republicofcats.com/"
       ]
     },
+    "#ffdc3f": {
+      "count": 5,
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "#ff6d55": {
+      "count": 7,
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
     "#efeef0": {
       "count": 2,
       "sources": [
         "https://www.republicofcats.com/"
       ]
     },
-    "#1c1c15": {
-      "count": 2,
+    "#64acb3": {
+      "count": 8,
       "sources": [
         "https://www.republicofcats.com/"
       ]
     },
-    "#f2c2c2": {
-      "count": 2,
+    "#f2c930": {
+      "count": 4,
       "sources": [
         "https://www.republicofcats.com/"
       ]
     },
-    "#e8d10b": {
-      "count": 2,
-      "sources": [
-        "https://www.republicofcats.com/"
-      ]
-    },
-    "#5fa7ae": {
-      "count": 1,
-      "sources": [
-        "https://www.republicofcats.com/"
-      ]
-    },
-    "#fee40a": {
-      "count": 1,
-      "sources": [
-        "https://www.republicofcats.com/"
-      ]
-    },
-    "#ffee5e": {
-      "count": 1,
-      "sources": [
-        "https://www.republicofcats.com/"
-      ]
-    },
-    "#0098db": {
-      "count": 1,
+    "#666666": {
+      "count": 3,
       "sources": [
         "https://www.republicofcats.com/builder-assets/published-css/main-49fab36.z.css"
       ]
     }
   },
   "font_families": {
-    "Arial": [
-      "https://www.republicofcats.com/builder-assets/published-css/main-49fab36.z.css"
-    ],
     "DM Sans": [
-      "https://www.republicofcats.com/"
-    ],
-    "arial": [
       "https://www.republicofcats.com/"
     ],
     "sans-serif": [
@@ -335,10 +261,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Republic of Cats | Tailored Cat Food",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-300",
   "tokens": {
     "colors.primary": {
+      "value": "#ffdc3f",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -346,6 +273,7 @@
       ]
     },
     "colors.primary-dark": {
+      "value": "#1d1d1b",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -353,6 +281,7 @@
       ]
     },
     "colors.ink": {
+      "value": "#1d1d1b",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -360,14 +289,15 @@
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.republicofcats.com/",
-        "https://www.republicofcats.com/builder-assets/published-css/main-49fab36.z.css"
+        "https://www.republicofcats.com/"
       ]
     },
     "colors.body": {
+      "value": "#1d1d1b",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -375,6 +305,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#666666",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -382,6 +313,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#efeef0",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -389,6 +321,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#e4f1f2",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -396,6 +329,7 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#c9e4ea",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -403,6 +337,7 @@
       ]
     },
     "colors.on-primary": {
+      "value": "#1d1d1b",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -410,14 +345,15 @@
       ]
     },
     "colors.on-dark": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.republicofcats.com/",
-        "https://www.republicofcats.com/builder-assets/published-css/main-49fab36.z.css"
+        "https://www.republicofcats.com/"
       ]
     },
     "colors.accent-teal": {
+      "value": "#64acb3",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -425,6 +361,7 @@
       ]
     },
     "colors.accent-coral": {
+      "value": "#ff6d55",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -432,6 +369,7 @@
       ]
     },
     "colors.accent-pink": {
+      "value": "#e294c4",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -439,6 +377,7 @@
       ]
     },
     "colors.accent-gold": {
+      "value": "#f2c930",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -446,6 +385,7 @@
       ]
     },
     "colors.navy": {
+      "value": "#0a313e",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -453,110 +393,369 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "DM Sans, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "DM Sans, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "DM Sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "DM Sans, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "DM Sans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "DM Sans, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "DM Sans, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 700,
+        "lineHeight": 1.19,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.primary-dark}",
+        "textColor": "{colors.on-dark}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "itemPadding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.lg}",
+        "padding": "{spacing.lg}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "accentColor": "{colors.primary}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.navy}",
+        "textColor": "{colors.on-dark}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-gold}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.plan-quiz-step": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "accentColor": "{colors.accent-teal}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "rounded": "{rounded.lg}",
+        "padding": "{spacing.xl}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#1d1d1b": {
+        "selector": "body",
+        "property": "color",
+        "declaration": "#1d1d1b",
+        "url": "https://www.republicofcats.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8c0326e67c8ef5333ee795121c9d8f045f5da14a66cfde7c90875accbaffe0a"
+      },
+      "#e294c4": {
+        "selector": "a",
+        "property": "color",
+        "declaration": "#e294c4",
+        "url": "https://www.republicofcats.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8c0326e67c8ef5333ee795121c9d8f045f5da14a66cfde7c90875accbaffe0a"
+      },
+      "#0a313e": {
+        "selector": "#lp-pom-box-58",
+        "property": "background",
+        "declaration": "rgba(10,49,62,1)",
+        "url": "https://www.republicofcats.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8c0326e67c8ef5333ee795121c9d8f045f5da14a66cfde7c90875accbaffe0a"
+      },
+      "#ffffff": {
+        "selector": "#lp-pom-root",
+        "property": "background",
+        "declaration": "rgba(255,255,255,1)",
+        "url": "https://www.republicofcats.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8c0326e67c8ef5333ee795121c9d8f045f5da14a66cfde7c90875accbaffe0a"
+      },
+      "#e4f1f2": {
+        "selector": "#lp-pom-block-611",
+        "property": "background",
+        "declaration": "rgba(228,241,242,1)",
+        "url": "https://www.republicofcats.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8c0326e67c8ef5333ee795121c9d8f045f5da14a66cfde7c90875accbaffe0a"
+      },
+      "#c9e4ea": {
+        "selector": "#lp-pom-block-46",
+        "property": "background",
+        "declaration": "rgba(201,228,234,1)",
+        "url": "https://www.republicofcats.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8c0326e67c8ef5333ee795121c9d8f045f5da14a66cfde7c90875accbaffe0a"
+      },
+      "#ffdc3f": {
+        "selector": "#lp-pom-button-50",
+        "property": "background",
+        "declaration": "rgba(255,220,63,1)",
+        "url": "https://www.republicofcats.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8c0326e67c8ef5333ee795121c9d8f045f5da14a66cfde7c90875accbaffe0a"
+      },
+      "#ff6d55": {
+        "selector": "#lp-pom-block-190",
+        "property": "background",
+        "declaration": "rgba(255,109,85,1)",
+        "url": "https://www.republicofcats.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8c0326e67c8ef5333ee795121c9d8f045f5da14a66cfde7c90875accbaffe0a"
+      },
+      "#efeef0": {
+        "selector": "#lp-pom-block-34",
+        "property": "background",
+        "declaration": "rgba(239,238,240,1)",
+        "url": "https://www.republicofcats.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8c0326e67c8ef5333ee795121c9d8f045f5da14a66cfde7c90875accbaffe0a"
+      },
+      "#64acb3": {
+        "selector": "#lp-pom-button-489",
+        "property": "color",
+        "declaration": "#64acb3",
+        "url": "https://www.republicofcats.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8c0326e67c8ef5333ee795121c9d8f045f5da14a66cfde7c90875accbaffe0a"
+      },
+      "#f2c930": {
+        "selector": "#lp-pom-button-50:hover",
+        "property": "background",
+        "declaration": "rgba(242,201,48,1)",
+        "url": "https://www.republicofcats.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8c0326e67c8ef5333ee795121c9d8f045f5da14a66cfde7c90875accbaffe0a"
+      },
+      "#666666": {
+        "selector": "div.lp-pom-root .lp-pom-form-field.legacy select",
+        "property": "border",
+        "declaration": "1px solid #666",
+        "url": "https://www.republicofcats.com/builder-assets/published-css/main-49fab36.z.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "49fab3607f8264610a9fc3169c94da647620b48de19f96d8ecf5c0885102df5d"
+      }
+    },
+    "font_families": {
+      "DM Sans": {
+        "selector": "#lp-pom-button-593",
+        "property": "font-family",
+        "declaration": "DM Sans",
+        "url": "https://www.republicofcats.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8c0326e67c8ef5333ee795121c9d8f045f5da14a66cfde7c90875accbaffe0a"
+      },
+      "sans-serif": {
+        "selector": ".lp-pom-body",
+        "property": "font-family",
+        "declaration": "Arial,sans-serif",
+        "url": "https://www.republicofcats.com/builder-assets/published-css/main-49fab36.z.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "49fab3607f8264610a9fc3169c94da647620b48de19f96d8ecf5c0885102df5d"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

@@ -4,6 +4,10 @@ name: "DSPTCH"
 source_url: "https://www.dsptch.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A brand built on the tension between raw utility and a single, unignorable red — #d20000, the color of a warning light on industrial machinery, of a tactical flashlight's low-battery indicator, of the exact moment a system demands attention. This red is the brand's only color voltage; it appears on the primary CTA, on sale badges, on the "Add to Cart" button, and nowhere else in the UI. The rest of the palette is a study in grayscale: #222222 for ink, #404040 for body text, #4f4f4f for muted states, #f4f4f2 and #f2f2f2 for surfaces, and #e6e6e6 for hairlines. The canvas is pure white (#ffffff). The typography system is equally restrained — Trade Gothic Next and IBM Plex Mono dominate, the latter a nod to code, to specs, to the kind of technical documentation that accompanies a precision tool. Headlines are set in Trade Gothic Next at 700 weight, tight tracking, no serifs, no sentiment. Body copy runs IBM Plex Mono at 400 weight, 14px, 1.5 line height — it reads like a product spec sheet, not a lifestyle blog. Corners are sharp: {rounded.none} on cards, {rounded.xs} on buttons, {rounded.sm} on inputs. There is no pill shape, no softness, no warmth. The nav bar is a thin strip of {colors.canvas} with {colors.ink} text, 60px tall, no background color, no shadow — just a floating utility belt. Product cards are flat white rectangles with a single hairline border (#e6e6e6), no elevation, no hover lift. The brand trusts the product photography — bags, cases, straps shot against white or concrete — to do all the emotional work. The design system is a toolbelt, not a living room.
 
@@ -305,6 +309,13 @@ components:
 - Search bar moves from a dedicated header row on desktop to a hidden toggle on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

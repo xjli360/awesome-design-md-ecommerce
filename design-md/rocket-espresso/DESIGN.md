@@ -4,6 +4,10 @@ name: "Rocket Espresso"
 source_url: "https://www.rocket-espresso.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Against four grades of gray — #58595b, #a7a9ac, #9ca3af, #eeeeee — one saturated crimson (#b92c32) does all the work: every primary call-to-action, every active state, every hot-metal accent on a palette otherwise held to near-monochrome restraint. The typeface system layers two modern grotesques — ABCMonumentGrotesk for editorial weight and display presence, aktiv-grotesk for body rhythm — with Eurostile appearing in precision-data roles, a nod to the same mid-century European industrial design vernacular that names the brand itself. Buttons hold {rounded.none} everywhere; nothing softens to a pill or an {rounded.md} card corner; even product thumbnails sit inside hard-edged frames. The visual posture is that of a machine you service rather than a product you consume: labelled ports, engraved knobs, hand-polished steel reproduced in flat UI through high-contrast grids, thin-rule separators at {colors.hairline}, and spec sheets that read more like engineering documents than marketing copy. Navigation is restrained — a white {colors.canvas} horizontal bar with no mega-menus, just direct links to machine families and support — keeping the browsing experience as uncluttered as the machines themselves. Product cards surface model names at large display scale in ABCMonumentGrotesk Bold, with secondary specs (boiler type, group count, bar rating) rendered in Eurostile uppercase at caption size against {colors.surface-soft}, creating a two-register hierarchy that separates desire from technical verification. The overall grammar runs deliberately cool: no lifestyle gradients, no warm-filter photography overlays, no rounded hero blobs — just machines photographed clean on white, dimensioned, named, and configured.
 
@@ -327,6 +331,13 @@ components:
 - `machine-configurator` moves from fixed side panel to a bottom sheet on mobile, triggered by a sticky crimson "Configure" bar anchored above the viewport bottom
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

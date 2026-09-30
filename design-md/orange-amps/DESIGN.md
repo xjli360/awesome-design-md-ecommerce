@@ -4,6 +4,10 @@ name: "Orange Amps"
 source_url: "https://www.orangeamps.com"
 captured_at: "2026-09-28T09:14:50.741242+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The evidence shows a high-contrast, functional Shopify storefront built on a
   near-black-on-white foundation (#272727 on #ffffff) with a single saturated
@@ -181,6 +185,12 @@ This table is a design recommendation only; no actual responsive CSS or
 media-query breakpoints were included in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This interpretation is built from static CSS custom properties and a text

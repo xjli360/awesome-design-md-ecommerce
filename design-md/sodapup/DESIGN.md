@@ -4,6 +4,10 @@ name: "SodaPup"
 source_url: "https://sodapup.com"
 captured_at: "2026-09-28T10:12:37.406698+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   SodaPup is a Shopify-based DTC storefront for durable dog-enrichment
   products (lick mats, chew toys, treat dispensers) sold under several
@@ -172,6 +176,12 @@ Recommended, not measured from live rendering:
 Touch targets should be at least 44×44px for buttons and nav icons; the country/currency selector (very long list observed in page text) should collapse into a searchable dropdown on small screens rather than a full inline list. None of this reflow behavior was captured in the supplied static CSS/text and is a recommendation only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Evidence is static CSS/text extraction only; no rendered screenshots, computed layout, or interaction states (hover/focus/active, cart drawer, mobile menu) were observed.

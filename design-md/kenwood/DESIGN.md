@@ -4,6 +4,10 @@ name: "Kenwood"
 source_url: "https://kenwood.com"
 captured_at: "2026-09-28T04:29:57.408056+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The extracted evidence for kenwood.com is dominated by CSS reset rules
   (normalize.css, main.css) rather than finished brand styling, so this
@@ -47,7 +51,7 @@ typography:
   body-sm: {fontFamily: "sans-serif", fontSize: "14px", fontWeight: 400, lineHeight: 1.5, letterSpacing: "0px"}
   caption: {fontFamily: "sans-serif", fontSize: "12px", fontWeight: 400, lineHeight: 1.4, letterSpacing: "0.25px"}
   button-md: {fontFamily: "sans-serif", fontSize: "14px", fontWeight: 600, lineHeight: 1.2, letterSpacing: "0.5px"}
-  spec-mono: {fontFamily: "\"Courier New\", monospace", fontSize: "13px", fontWeight: 400, lineHeight: 1.4, letterSpacing: "0px"}
+  spec-mono: {fontFamily: "monospace", fontSize: "13px", fontWeight: 400, lineHeight: 1.4, letterSpacing: "0px"}
 rounded:
   none: 0px
   xs: 2px
@@ -144,7 +148,7 @@ components:
 
 **product-card** — A white card with a light hairline border for AV receivers, speakers, and accessories, pairing a title-md heading with muted body copy. Image aspect ratio and hover elevation are proposed, not observed.
 
-**spec-table** — A category-specific component for technical specification blocks (power output, connectivity, dimensions), using the Courier New/monospace stack to visually distinguish numeric spec data from prose, on a light `surface-soft` gray background.
+**spec-table** — A category-specific component for technical specification blocks (power output, connectivity, dimensions), using the observed monospace fallback to visually distinguish numeric spec data from prose, on a light `surface-soft` gray background.
 
 **badge** — A small pill using the muted slate accent (#47617a) for status labels such as "New" or "Hi-Res Audio," with white caption text. Color choice is inferred, not confirmed brand usage.
 
@@ -166,6 +170,10 @@ Proposed breakpoints (not measured from live layout):
 Touch targets should be at least 44×44px; navigation and search are assumed to collapse into an off-canvas or hamburger pattern below tablet width. This table is a recommendation for implementation, not an observation of Kenwood's actual responsive markup or breakpoints.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+- **Evidence correction:** A font found only in a legacy `_font-family` browser hack was removed; the remaining observed fallback family is used.
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -54,57 +54,22 @@
     }
   ],
   "colors": {
-    "#ffffff": {
-      "count": 84,
+    "#000000": {
+      "count": 4,
       "sources": [
-        "https://www.valerion.com/_next/static/immutable/chunks/1q4z2-4t9vxms.css",
-        "https://www.valerion.com/_next/static/immutable/chunks/25ewdk32jdtfl.css",
-        "https://www.valerion.com/#computed-style-snapshot"
-      ]
-    },
-    "#b3b3b3": {
-      "count": 20,
-      "sources": [
-        "https://www.valerion.com/#computed-style-snapshot"
-      ]
-    },
-    "#00e5e3": {
-      "count": 17,
-      "sources": [
-        "https://www.valerion.com/#computed-style-snapshot"
-      ]
-    },
-    "#f2f2f2": {
-      "count": 12,
-      "sources": [
-        "https://www.valerion.com/#computed-style-snapshot"
+        "https://www.valerion.com/"
       ]
     },
     "#00000000": {
       "count": 5,
       "sources": [
-        "https://www.valerion.com/_next/static/immutable/chunks/25ewdk32jdtfl.css"
+        "https://www.valerion.com/"
       ]
     },
-    "#000000": {
-      "count": 4,
+    "#ffffff": {
+      "count": 84,
       "sources": [
-        "https://www.valerion.com/",
-        "https://www.valerion.com/_next/static/immutable/chunks/25ewdk32jdtfl.css",
-        "https://www.valerion.com/_next/static/immutable/chunks/1u9i8u0w0q-oo.css",
-        "https://www.valerion.com/#computed-style-snapshot"
-      ]
-    },
-    "#00000080": {
-      "count": 4,
-      "sources": [
-        "https://www.valerion.com/_next/static/immutable/chunks/25ewdk32jdtfl.css"
-      ]
-    },
-    "#121212": {
-      "count": 2,
-      "sources": [
-        "https://www.valerion.com/#computed-style-snapshot"
+        "https://www.valerion.com/_next/static/immutable/chunks/1q4z2-4t9vxms.css"
       ]
     },
     "#007aff": {
@@ -119,24 +84,40 @@
         "https://www.valerion.com/_next/static/immutable/chunks/25ewdk32jdtfl.css"
       ]
     },
-    "#00000040": {
-      "count": 1,
+    "#00000080": {
+      "count": 4,
       "sources": [
-        "https://www.valerion.com/_next/static/immutable/chunks/1u9i8u0w0q-oo.css"
+        "https://www.valerion.com/_next/static/immutable/chunks/25ewdk32jdtfl.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 12,
+      "sources": [
+        "https://www.valerion.com/#computed-style-snapshot"
+      ]
+    },
+    "#00e5e3": {
+      "count": 17,
+      "sources": [
+        "https://www.valerion.com/#computed-style-snapshot"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 20,
+      "sources": [
+        "https://www.valerion.com/#computed-style-snapshot"
+      ]
+    },
+    "#121212": {
+      "count": 2,
+      "sources": [
+        "https://www.valerion.com/#computed-style-snapshot"
       ]
     }
   },
   "font_families": {
-    "awolDm": [
-      "https://www.valerion.com/"
-    ],
     "awolPPNeueMontreal": [
-      "https://www.valerion.com/",
-      "https://www.valerion.com/#computed-style-snapshot"
-    ],
-    "awolPPNeueMontreal Fallback": [
-      "https://www.valerion.com/",
-      "https://www.valerion.com/#computed-style-snapshot"
+      "https://www.valerion.com/"
     ]
   },
   "css_rules": [
@@ -218,10 +199,11 @@
       "sha256": "f4f0d7d4d5794c7d182e2a7d373d7ba361b955c48db957e74b8ade10dbb8331a"
     }
   ],
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "remaining-20260929",
   "tokens": {
     "colors.primary": {
+      "value": "#00e5e3",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -229,25 +211,23 @@
       ]
     },
     "colors.ink": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.valerion.com/_next/static/immutable/chunks/1q4z2-4t9vxms.css",
-        "https://www.valerion.com/_next/static/immutable/chunks/25ewdk32jdtfl.css",
-        "https://www.valerion.com/#computed-style-snapshot"
+        "https://www.valerion.com/_next/static/immutable/chunks/1q4z2-4t9vxms.css"
       ]
     },
     "colors.canvas": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.valerion.com/",
-        "https://www.valerion.com/_next/static/immutable/chunks/25ewdk32jdtfl.css",
-        "https://www.valerion.com/_next/static/immutable/chunks/1u9i8u0w0q-oo.css",
-        "https://www.valerion.com/#computed-style-snapshot"
+        "https://www.valerion.com/"
       ]
     },
     "colors.body": {
+      "value": "#f2f2f2",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -255,6 +235,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#b3b3b3",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -262,6 +243,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#00000026",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -269,13 +251,15 @@
       ]
     },
     "colors.surface-soft": {
-      "value_status": "observed_in_css",
+      "value": "#00000040",
+      "value_status": "derived_opacity",
       "role_status": "inferred",
       "sources": [
-        "https://www.valerion.com/_next/static/immutable/chunks/1u9i8u0w0q-oo.css"
+        "https://www.valerion.com/"
       ]
     },
     "colors.surface-card": {
+      "value": "#121212",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -283,16 +267,15 @@
       ]
     },
     "colors.on-primary": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.valerion.com/",
-        "https://www.valerion.com/_next/static/immutable/chunks/25ewdk32jdtfl.css",
-        "https://www.valerion.com/_next/static/immutable/chunks/1u9i8u0w0q-oo.css",
-        "https://www.valerion.com/#computed-style-snapshot"
+        "https://www.valerion.com/"
       ]
     },
     "colors.accent-secondary": {
+      "value": "#007aff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -300,6 +283,7 @@
       ]
     },
     "colors.scrim": {
+      "value": "#00000080",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -307,117 +291,361 @@
       ]
     },
     "colors.transparent": {
+      "value": "#00000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.valerion.com/_next/static/immutable/chunks/25ewdk32jdtfl.css"
+        "https://www.valerion.com/"
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "awolPPNeueMontreal, sans-serif",
+        "fontSize": "64px",
+        "fontWeight": 600,
+        "lineHeight": 1.05,
+        "letterSpacing": "-1px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "awolPPNeueMontreal, sans-serif",
+        "fontSize": "40px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "awolPPNeueMontreal, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "-0.02em"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "awolPPNeueMontreal, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 500,
+        "lineHeight": "1.33em",
+        "letterSpacing": "-0.03em"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "awolPPNeueMontreal, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 500,
+        "lineHeight": 1.4,
+        "letterSpacing": "-0.02em"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "awolPPNeueMontreal, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 500,
+        "lineHeight": 1.4,
+        "letterSpacing": "-0.01em"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "awolPPNeueMontreal, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "-0.02em"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.transparent}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "dividerColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.base} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "accentColor": "{colors.primary}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "overlayColor": "{colors.scrim}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.muted}",
+        "dividerColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "placeholderColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.spec-comparison-table": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "headerColor": "{colors.primary}",
+        "textColor": "{colors.ink}",
+        "dividerColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#000000": {
+        "selector": "body",
+        "property": "background",
+        "declaration": "#000",
+        "url": "https://www.valerion.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8ddead5322f888dbf37d4ee5c202aea949ea2dfe95742f1493e25c89a19ecfe4"
+      },
+      "#00000000": {
+        "selector": ".bprogress .spinner-icon",
+        "property": "border",
+        "declaration": "solid var(--bprogress-spinner-border-size) transparent",
+        "url": "https://www.valerion.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8ddead5322f888dbf37d4ee5c202aea949ea2dfe95742f1493e25c89a19ecfe4"
+      },
+      "#ffffff": {
+        "selector": "body",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://www.valerion.com/_next/static/immutable/chunks/1q4z2-4t9vxms.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "5bf4442a2f2302e7c1a564b0983c00023b4de92f7d9962dad94137a97f7787d7"
+      },
+      "#007aff": {
+        "selector": ":root",
+        "property": "--swiper-theme-color",
+        "declaration": "#007aff",
+        "url": "https://www.valerion.com/_next/static/immutable/chunks/25ewdk32jdtfl.css",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "d7501273c6df451c314e34ad5a4dbc7e802c58e7a1df1673a1cd8a4f27ae5f8a"
+      },
+      "#00000026": {
+        "selector": ".swiper-3d .swiper-slide-shadow",
+        "property": "background",
+        "declaration": "#00000026",
+        "url": "https://www.valerion.com/_next/static/immutable/chunks/25ewdk32jdtfl.css",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "d7501273c6df451c314e34ad5a4dbc7e802c58e7a1df1673a1cd8a4f27ae5f8a"
+      },
+      "#00000080": {
+        "selector": ".swiper-3d .swiper-slide-shadow-left",
+        "property": "background-image",
+        "declaration": "linear-gradient(270deg,#00000080,#0000)",
+        "url": "https://www.valerion.com/_next/static/immutable/chunks/25ewdk32jdtfl.css",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "d7501273c6df451c314e34ad5a4dbc7e802c58e7a1df1673a1cd8a4f27ae5f8a"
+      },
+      "#f2f2f2": {
+        "selector": ".sample-10-a",
+        "property": "color",
+        "declaration": "rgb(242, 242, 242)",
+        "url": "https://www.valerion.com/#computed-style-snapshot",
+        "snapshot": "rendered-style-5.css",
+        "sha256": "746b86b19394380015f45ca227c01dfb623dcd5bee672db1cafe84c160a74ee0"
+      },
+      "#00e5e3": {
+        "selector": ".sample-18-a",
+        "property": "background-color",
+        "declaration": "rgb(0, 229, 227)",
+        "url": "https://www.valerion.com/#computed-style-snapshot",
+        "snapshot": "rendered-style-5.css",
+        "sha256": "746b86b19394380015f45ca227c01dfb623dcd5bee672db1cafe84c160a74ee0"
+      },
+      "#b3b3b3": {
+        "selector": ".sample-23-p",
+        "property": "color",
+        "declaration": "rgb(179, 179, 179)",
+        "url": "https://www.valerion.com/#computed-style-snapshot",
+        "snapshot": "rendered-style-5.css",
+        "sha256": "746b86b19394380015f45ca227c01dfb623dcd5bee672db1cafe84c160a74ee0"
+      },
+      "#121212": {
+        "selector": ".sample-25-h3",
+        "property": "color",
+        "declaration": "rgb(18, 18, 18)",
+        "url": "https://www.valerion.com/#computed-style-snapshot",
+        "snapshot": "rendered-style-5.css",
+        "sha256": "746b86b19394380015f45ca227c01dfb623dcd5bee672db1cafe84c160a74ee0"
+      }
+    },
+    "font_families": {
+      "awolPPNeueMontreal": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"awolPPNeueMontreal\"",
+        "url": "https://www.valerion.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8ddead5322f888dbf37d4ee5c202aea949ea2dfe95742f1493e25c89a19ecfe4"
+      }
+    }
+  },
+  "derived_colors": {
+    "#00000040": {
+      "base": "#000000",
+      "status": "proposed_opacity",
+      "alpha": 0.25098039215686274
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

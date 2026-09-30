@@ -14,26 +14,14 @@
     }
   ],
   "colors": {
+    "#00000000": {
+      "count": 1,
+      "sources": [
+        "https://www.makerwine.com/"
+      ]
+    },
     "#ffffff": {
       "count": 9,
-      "sources": [
-        "https://www.makerwine.com/"
-      ]
-    },
-    "#fffcfa": {
-      "count": 3,
-      "sources": [
-        "https://www.makerwine.com/"
-      ]
-    },
-    "#193f61": {
-      "count": 2,
-      "sources": [
-        "https://www.makerwine.com/"
-      ]
-    },
-    "#cccccc": {
-      "count": 1,
       "sources": [
         "https://www.makerwine.com/"
       ]
@@ -46,6 +34,12 @@
     },
     "#000000": {
       "count": 1,
+      "sources": [
+        "https://www.makerwine.com/"
+      ]
+    },
+    "#193f61": {
+      "count": 2,
       "sources": [
         "https://www.makerwine.com/"
       ]
@@ -74,31 +68,19 @@
         "https://www.makerwine.com/"
       ]
     },
+    "#fffcfa": {
+      "count": 3,
+      "sources": [
+        "https://www.makerwine.com/"
+      ]
+    },
     "#fff8f3": {
       "count": 1,
       "sources": [
         "https://www.makerwine.com/"
       ]
     },
-    "#f7ece5": {
-      "count": 1,
-      "sources": [
-        "https://www.makerwine.com/"
-      ]
-    },
-    "#fff2e9": {
-      "count": 1,
-      "sources": [
-        "https://www.makerwine.com/"
-      ]
-    },
     "#d9ead3": {
-      "count": 1,
-      "sources": [
-        "https://www.makerwine.com/"
-      ]
-    },
-    "#fff1e9": {
       "count": 1,
       "sources": [
         "https://www.makerwine.com/"
@@ -116,25 +98,7 @@
         "https://www.makerwine.com/"
       ]
     },
-    "#ffefe5": {
-      "count": 1,
-      "sources": [
-        "https://www.makerwine.com/"
-      ]
-    },
-    "#eef7ff": {
-      "count": 1,
-      "sources": [
-        "https://www.makerwine.com/"
-      ]
-    },
     "#f6f6f5": {
-      "count": 1,
-      "sources": [
-        "https://www.makerwine.com/"
-      ]
-    },
-    "#060606": {
       "count": 1,
       "sources": [
         "https://www.makerwine.com/"
@@ -164,12 +128,6 @@
         "https://www.makerwine.com/"
       ]
     },
-    "#264f13": {
-      "count": 1,
-      "sources": [
-        "https://www.makerwine.com/"
-      ]
-    },
     "#11172b": {
       "count": 1,
       "sources": [
@@ -184,25 +142,22 @@
     }
   },
   "font_families": {
-    "Arial": [
+    "FF DIN Pro": [
       "https://www.makerwine.com/"
     ],
     "Blacker Pro": [
       "https://www.makerwine.com/"
     ],
-    "FF DIN Pro": [
-      "https://www.makerwine.com/"
-    ],
-    "Georgia": [
+    "Arial": [
       "https://www.makerwine.com/"
     ],
     "sans-serif": [
       "https://www.makerwine.com/"
     ],
-    "serif": [
+    "Georgia": [
       "https://www.makerwine.com/"
     ],
-    "system-ui": [
+    "serif": [
       "https://www.makerwine.com/"
     ]
   },
@@ -229,10 +184,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Maker Wine | Premium Canned Wine | By Diverse, Small Producers",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-300",
   "tokens": {
     "colors.primary": {
+      "value": "#193f61",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -240,6 +196,7 @@
       ]
     },
     "colors.primary-deep": {
+      "value": "#0c3254",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -247,6 +204,7 @@
       ]
     },
     "colors.secondary": {
+      "value": "#2a679e",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -254,6 +212,7 @@
       ]
     },
     "colors.accent": {
+      "value": "#f05c5c",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -261,6 +220,7 @@
       ]
     },
     "colors.accent-deep": {
+      "value": "#d35252",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -268,6 +228,7 @@
       ]
     },
     "colors.ink": {
+      "value": "#11172b",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -275,6 +236,7 @@
       ]
     },
     "colors.body": {
+      "value": "#333333",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -282,6 +244,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#5f626c",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -289,6 +252,7 @@
       ]
     },
     "colors.canvas": {
+      "value": "#fffcfa",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -296,6 +260,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#fff8f3",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -303,6 +268,7 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#f6f6f5",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -310,6 +276,7 @@
       ]
     },
     "colors.surface-alt": {
+      "value": "#f0f0f1",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -317,6 +284,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#dcd9d8",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -324,6 +292,7 @@
       ]
     },
     "colors.border": {
+      "value": "#d0d3d8",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -331,6 +300,7 @@
       ]
     },
     "colors.tint-peach": {
+      "value": "#ffebde",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -338,6 +308,7 @@
       ]
     },
     "colors.tint-sky": {
+      "value": "#e4f5ff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -345,6 +316,7 @@
       ]
     },
     "colors.tint-green": {
+      "value": "#d9ead3",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -352,6 +324,7 @@
       ]
     },
     "colors.sale": {
+      "value": "#dd0000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -359,6 +332,7 @@
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -366,110 +340,473 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Blacker Pro', Georgia, serif",
+        "fontSize": "56px",
+        "fontWeight": 600,
+        "lineHeight": 1.05,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "'Blacker Pro', Georgia, serif",
+        "fontSize": "36px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "'FF DIN Pro', Arial, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "'FF DIN Pro', Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "'FF DIN Pro', Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "'FF DIN Pro', Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 500,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "'FF DIN Pro', Arial, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 600,
+        "lineHeight": 1,
+        "letterSpacing": "0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.border}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "borderBottom": "1px solid {colors.hairline}",
+        "padding": "{spacing.base} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "headlineTypography": "{typography.display-xl}",
+        "subTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-alt}",
+        "borderColor": "{colors.border}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.maker-story-card": {
+      "value": {
+        "backgroundColor": "{colors.tint-peach}",
+        "textColor": "{colors.ink}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "rounded": "{rounded.lg}",
+        "padding": "{spacing.lg}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#00000000": {
+        "selector": ".carousel .control-arrow:before,.carousel.carousel-slider .control-arrow:before",
+        "property": "border-bottom",
+        "declaration": "8px solid transparent",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      },
+      "#ffffff": {
+        "selector": ".carousel .control-prev.control-arrow:before",
+        "property": "border-right",
+        "declaration": "8px solid #fff",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      },
+      "#333333": {
+        "selector": ".carousel .thumb.selected,.carousel .thumb:hover",
+        "property": "border",
+        "declaration": "3px solid #333",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      },
+      "#000000": {
+        "selector": ".carousel .slide .legend",
+        "property": "background",
+        "declaration": "#000",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      },
+      "#193f61": {
+        "selector": "html",
+        "property": "--theme-ui-colors-brandprimary",
+        "declaration": "#193F61",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      },
+      "#0c3254": {
+        "selector": "html",
+        "property": "--theme-ui-colors-brandprimarydark",
+        "declaration": "#0C3254",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      },
+      "#2a679e": {
+        "selector": "html",
+        "property": "--theme-ui-colors-brandsecondary",
+        "declaration": "#2A679E",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      },
+      "#f05c5c": {
+        "selector": "html",
+        "property": "--theme-ui-colors-brandtertiary",
+        "declaration": "#F05C5C",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      },
+      "#d35252": {
+        "selector": "html",
+        "property": "--theme-ui-colors-brandtertiarydark",
+        "declaration": "#D35252",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      },
+      "#fffcfa": {
+        "selector": "html",
+        "property": "--theme-ui-colors-backgroundlight",
+        "declaration": "#FFFCFA",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      },
+      "#fff8f3": {
+        "selector": "html",
+        "property": "--theme-ui-colors-backgroundmedium",
+        "declaration": "#FFF8F3",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      },
+      "#d9ead3": {
+        "selector": "html",
+        "property": "--theme-ui-colors-backgroundsuccess",
+        "declaration": "#D9EAD3",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      },
+      "#ffebde": {
+        "selector": "html",
+        "property": "--theme-ui-colors-backgroundbridaldark",
+        "declaration": "#FFEBDE",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      },
+      "#e4f5ff": {
+        "selector": "html",
+        "property": "--theme-ui-colors-backgroundholidayblue",
+        "declaration": "#E4F5FF",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      },
+      "#f6f6f5": {
+        "selector": "html",
+        "property": "--theme-ui-colors-backgroundvirtualeventshero",
+        "declaration": "#F6F6F5",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      },
+      "#f0f0f1": {
+        "selector": "html",
+        "property": "--theme-ui-colors-greylight",
+        "declaration": "#F0F0F1",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      },
+      "#d0d3d8": {
+        "selector": "html",
+        "property": "--theme-ui-colors-greymedium",
+        "declaration": "#D0D3D8",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      },
+      "#5f626c": {
+        "selector": "html",
+        "property": "--theme-ui-colors-greydark",
+        "declaration": "#5F626C",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      },
+      "#dd0000": {
+        "selector": "html",
+        "property": "--theme-ui-colors-error",
+        "declaration": "#DD0000",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      },
+      "#11172b": {
+        "selector": "html",
+        "property": "--theme-ui-colors-text",
+        "declaration": "#11172B",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      },
+      "#dcd9d8": {
+        "selector": ".css-1ovrjqv .slick-dots li button:before",
+        "property": "background-color",
+        "declaration": "#dcd9d8",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      }
+    },
+    "font_families": {
+      "FF DIN Pro": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "FF DIN Pro",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      },
+      "Blacker Pro": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Blacker Pro",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      },
+      "Arial": {
+        "selector": "html",
+        "property": "font-family",
+        "declaration": "FF DIN Pro,Arial,system-ui,sans-serif",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      },
+      "sans-serif": {
+        "selector": "html",
+        "property": "font-family",
+        "declaration": "FF DIN Pro,Arial,system-ui,sans-serif",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      },
+      "Georgia": {
+        "selector": ".css-14k12q",
+        "property": "font-family",
+        "declaration": "Blacker Pro,Georgia,serif",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      },
+      "serif": {
+        "selector": ".css-14k12q",
+        "property": "font-family",
+        "declaration": "Blacker Pro,Georgia,serif",
+        "url": "https://www.makerwine.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ed80429e3b3779f918ee4be6b9db4c05624db569c4b1b5d920f2e6dc357169e8"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

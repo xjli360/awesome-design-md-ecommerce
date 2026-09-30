@@ -4,6 +4,10 @@ name: "Detroit City Sports"
 source_url: "https://www.detroitcitysports.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A saturated #003399 navy — closer to a championship-ring sapphire than a corporate blue — stakes the entire visual identity against the graduated grays and off-whites that form the rest of the palette. Detroit City Sports deals in authenticated signatures and certified memorabilia, and that cobalt acts as a trust signal: the official color of the city's teams rendered in digital form, standing in for the Red Wings, the Pistons, the Tigers, and the Lions all at once. Against it, #ff0000 red fires as a second accent — used sparingly for sale pricing, alert states, and the occasional clearance badge — keeping the palette within the narrow chromatic range of actual Detroit jersey colors rather than straying into invented territory.
 
@@ -376,6 +380,13 @@ components:
 - Footer columns stack single-column on mobile with a top border separating each column group
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

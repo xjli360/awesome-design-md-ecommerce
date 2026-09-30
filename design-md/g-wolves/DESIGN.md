@@ -4,6 +4,10 @@ name: "G-Wolves"
 source_url: "https://www.g-wolves.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A high-performance gaming-mouse brand that builds its entire visual identity around the dark, matte chassis of its own hardware — #282828 is the anchor, a deep charcoal that reads as anodized aluminum or textured ABS plastic, not a background. The brand uses #dedede (a warm silver-gray) for body copy and secondary text, creating a low-contrast, almost monochromatic reading experience that prioritizes the product photography of lightweight honeycomb shells and custom PCB layouts over typographic hierarchy. The third extracted color, #121212, is a near-black reserved for the footer, mega-menu backgrounds, and heavy structural containers — it pushes the canvas into true darkness, making the product shots of white and pastel-colored mice glow. The type system runs Epilogue at display sizes (a geometric sans with sharp, squared-off terminals that echo the angular cutouts of the Hati and Skoll series) and Instrument Sans for body and UI (a more neutral, slightly warmer companion). Buttons are pill-shaped but not soft — the {rounded.full} on CTAs reads as a deliberate industrial detail, like a machined aluminum switch cap. There are no gradients, no decorative flourishes, no hero illustrations: the brand trusts the raw engineering of its mice — screw placements, paracord cables, PTFE feet — as the only ornament. The Shopify checkout button (#282828 on #dedede) and the product-card grid (white on #282828) invert the palette depending on context, but the core tension is always the same: a dark, dense frame around a precise, illuminated object.
 
@@ -509,6 +513,13 @@ components:
 - Cart drawer collapses to full-screen overlay on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

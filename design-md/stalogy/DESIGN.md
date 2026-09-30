@@ -4,6 +4,10 @@ name: "Stalogy"
 source_url: "https://stalogy.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Where most notebook brands sell atmosphere, Stalogy sells method — the name itself is an engineered compound, collapsing "Standard" and "Technology" into a single word, and that compression shows in every design decision on the site. The signature canvas is not white but #f4f4e9, a warm cream hovering between office paper and engineering drafting stock, giving product pages the faint warmth of something freshly laid on a light table rather than rendered on a screen. Four categorical accent colors — blue (#0099ff), green (#00cc33), yellow (#ffcc33), and red (#ff0033) — function as pure taxonomy rather than decoration: each hard-coded to a product family, operating less like brand colors and more like industrial standards markings that help specifiers navigate a dense catalogue with no ambiguity.
 
@@ -373,6 +377,13 @@ components:
 - Category-rule stripes maintain full container width at all breakpoints; height stays fixed at 3px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

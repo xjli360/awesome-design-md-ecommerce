@@ -4,6 +4,10 @@ name: "Tubby Todd"
 source_url: "https://tubbytodd.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Bath-water amber — #f59e0b held at the saturated edge of honey — does almost all the emotional work on Tubby Todd's site. It is the announcement bar, the primary CTA, the star fill, the skin-concern selector's active state; the near-black ink stack (#141414 anchoring to #1f1f1f) and a cool near-white canvas recede entirely so that single warm frequency can register as safe warmth rather than commercial urgency. The secondary amber #fbbf24 appears in decorative fills and hover states, letting the palette breathe without introducing a second hue. Every typographic decision runs through Inter — no custom letterforms, no secondary face, no display serif to signal premium heritage — which is a deliberate wager: legibility at body scale matters more to a new parent speed-reading an ingredient list at 2 AM than typographic personality does. Inter at 700 weight in display sizes reads sturdy without hardness; at 400 weight in body copy it disappears, letting clinical ingredient claims and benefit callouts land without friction. {rounded.full} pill shapes govern primary CTAs and skin-concern filter tags, borrowing the same formal vocabulary as the product shapes — squeeze-tube nozzles, dropper bottles — while {rounded.md} product cards and ingredient callouts feel grounded and grid-stable. The overall spatial logic is generous: {spacing.section} vertical padding between content blocks keeps the page from reading dense or clinical even when ingredient lists and benefit badges stack. Sensitive-skin concern filtering appears as a row of amber-active / soft-surface-inactive pills — the only interface element using the primary color as a selection indicator rather than a purchase prompt, which trains the user to read {colors.primary} as "selected and safe" rather than "buy now." The footer inverts to the near-black #141414 field, a hard reset from the warm ambient temperature above the fold, anchoring navigation and legal copy without competing with product photography.
 
@@ -369,6 +373,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

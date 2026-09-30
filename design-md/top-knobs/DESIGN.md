@@ -4,6 +4,10 @@ name: "Top Knobs"
 source_url: "https://topknobs.com"
 captured_at: "2026-09-28T10:14:44.177925+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Top Knobs presents itself as a premium decorative hardware manufacturer, and the
   extracted evidence reflects a Magento-based storefront built on a large neutral
@@ -146,6 +150,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be at least 44px in the collapsed mobile nav and on finish-swatch elements. The mega-menu (implied by the long collections/products taxonomy) should collapse into an accordion on mobile. No actual responsive CSS or JS behavior was captured in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered layout, computed styles, or interaction states were observed. Color role assignments (primary, accent, link, success) are inferred from convention and hue plausibility, not from labeled brand tokens. Typography sizes beyond the 13px button value are proposed, not measured, including all display and body sizing. The presence of "Perpetua Titling MT" in the font list does not confirm it is used for any specific visible heading—its display role here is inferred from brand tone. Border-radius values beyond the 2px flipbook button are proposed defaults, not confirmed. Hover, focus, active, error, and disabled states were not observed and are labeled proposed throughout. Mobile/responsive layout, breakpoints, and touch behavior were not observed and are recommendations only. Font licensing and web-availability of "Perpetua Titling MT" were not verified and may require a fallback or licensed alternative in production.

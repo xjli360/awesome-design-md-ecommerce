@@ -4,6 +4,10 @@ name: "Allen & Heath"
 source_url: "https://www.allen-heath.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A professional audio engineering brand that uses a single, unapologetic dark gray — `#313131` — as its primary identity color, a choice that signals the brand’s refusal to perform for consumer aesthetics. This near-black ink runs through every primary button, navigation bar, and product badge, creating a system where the only visual drama comes from the gear itself: brushed aluminum faders, backlit channel strips, and the red glow of a recording light. The typography stack is a pragmatic sans-serif cascade — `-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif` — with no custom brand typeface, reinforcing the idea that the interface should disappear behind the work. Corners are tight: primary buttons use `{rounded.sm}` (8px), product cards use `{rounded.md}` (12px), and the only `{rounded.full}` token appears on small badge indicators, not on interactive elements. The canvas is pure white (`#ffffff`), and the body text sits at `#3f3f3f`, a softer ink that keeps long technical documentation readable. There is no gradient, no decorative illustration, no brand mascot — the design system is a clean, dark-on-light chassis built to hold high-density control surfaces, spec tables, and firmware download links. The brand’s visual authority comes from restraint: `#313131` is the only color that ever feels like a primary, and it never needs to be louder than the product it frames.
 
@@ -384,6 +388,14 @@ components:
 - Footer links collapse from a multi-column layout to a single vertical stack on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

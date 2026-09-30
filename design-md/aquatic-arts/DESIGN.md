@@ -4,6 +4,10 @@ name: "Aquatic Arts"
 source_url: "https://aquaticarts.com"
 captured_at: "2026-09-28T04:18:21.701453+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Aquatic Arts presents as a Shopify-themed livestock storefront built on a light,
   high-key palette. The CSS custom-property block exposes a clear brand system:
@@ -140,6 +144,12 @@ components:
 Recommended, not measured: mobile <480px single-column stacking with 44px minimum touch targets; tablet 481–1024px two-column product grids; desktop >1024px multi-column grids with persistent nav. Nav should collapse to a hamburger/drawer below ~1024px, consistent with the "--colorDrawers" tokens present in the CSS. Buttons and inputs should maintain at least 40–44px hit height regardless of breakpoint.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

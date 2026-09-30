@@ -4,6 +4,10 @@ name: "ButcherBox"
 source_url: "https://butcherbox.com"
 captured_at: "2026-09-28T04:33:36.316675+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The observed palette centers on a warm off-white canvas (#fbfaf9, #f3f0ec) paired with a saturated red (#b81504) that appears explicitly as a background-color paired with white text in the extracted CSS, supporting its role as the primary call-to-action color for a meat-focused meal kit brand. Text relies on a CSS custom property named --color-charcoal-green-800, which is inferred (not directly hex-confirmed) to correspond to the dark end of an adjacent neutral-green ramp (#f6f7f7 through #050a08); we map this to #1c2623 as the primary ink color. A secondary green ramp (#bfecdc to #00945f) and a gold tone (#dfa70f) are present but their exact usage is unobserved, so they are treated as inferred accent/badge candidates evoking freshness and quality claims common to prepared-meat marketing. A blue ramp (#1773b0, #1990c6, #136f99) appears tied to a Shopify accelerated-checkout widget rather than confirmed brand identity, so it is excluded from primary brand roles. Typography combines a condensed display face, Bebas Neue, for bold headline treatment with Lato for body copy and Poppins for intermediate UI labeling; all fallback to sans-serif. Layout, spacing, and interaction states below are proposed conventions for a meal-kit e-commerce experience, not measured site behavior.
 
@@ -150,6 +154,13 @@ The following breakpoint table is a recommendation for implementation and is not
 Touch targets for button-primary/secondary and tabbed-selector items should maintain a minimum 44px tap height (proposed). Navigation and tab lists should collapse into a horizontally scrollable or accordion pattern below tablet width (proposed, not observed).
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived solely from static CSS extraction and a fixed color/selector snapshot; no live rendering, computed styles, or interaction states (hover, focus, active, disabled) were observed beyond the two explicit `:hover` background-color rules captured for the Shopify payment button. The mapping of `--color-charcoal-green-800` to a specific hex value (#1c2623) is inferred from ramp position, not directly confirmed. Blue tones (#1773b0, #1990c6, #136f99, etc.) are likely tied to a third-party Shopify checkout widget rather than core brand identity, and their exclusion from primary roles is a judgment call. All font sizes, weights, spacing values, rounded-corner values, and the responsive breakpoint table are proposed conventions, not measured from the live site. Mobile navigation patterns, hero content, and footer structure were not present in the supplied evidence and are marked as proposed. Availability, licensing, and hosting terms for Bebas Neue, Lato, and Poppins were not verified.

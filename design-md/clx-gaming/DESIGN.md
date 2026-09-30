@@ -4,6 +4,10 @@ name: "CLX Gaming"
 source_url: "https://www.clxgaming.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Dark as a powered-down chassis before the LEDs ignite — CLX Gaming's digital storefront opens on #080707, a near-black canvas that swallows ambient light and forces every product render, every spec callout, every CTA to earn its photons. The primary voltage is a saturated emerald (#17b26a) that traces the path from configurator buttons to checkout confirmation, cooled by lighter mints (#73e2a7, #aaf0c7) on success states and progress indicators. This green isn't decorative; it maps directly to the build-flow funnel — "Customize," "Add to Cart," "Complete Build" — each step lit in the same hue so the eye never loses the thread. A secondary indigo spectrum (#6172f3 through #1a1c4c) surfaces on informational badges, spec-comparison highlights, and the loyalty program tier markers, giving the interface a second axis of color without competing for CTA dominance. A hot-pink warning band (#ff6476) fires on out-of-stock alerts and clearance flags, injecting urgency into an otherwise controlled palette. Typography loads via JavaScript bundles, rendering undetectable in static extraction, but the live site runs a geometric sans in the vein of industry-standard gaming faces — tight letter-spacing on headlines, weight 700+ for display, and all-caps transforms on category labels and badge text. Corners stay sharp: `{rounded.xs}` on input fields, `{rounded.none}` or `{rounded.xs}` on buttons, because beveled edges read as precision-machined in a hardware context. Spacing is generous vertically (`{spacing.section}` between hero and product grid) but compressed horizontally within product cards, mimicking the density of a spec sheet. The overall composition treats the viewport like a showcase chassis — matte-black panels, green accent lighting, and components mounted with mechanical precision.
 
@@ -430,6 +434,13 @@ components:
 - Hero CTAs stack vertically on mobile with full-width buttons
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

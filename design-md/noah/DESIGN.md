@@ -4,6 +4,10 @@ name: "Noah"
 source_url: "https://noahny.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The deep-sea navy of #1d1e45 sits at Noah's foundation like the hull of the wooden sailboats that appear on its hangtags and seasonal graphics — an indigo so dark it reads black at arm's length yet opens up to something distinctly maritime under direct light. From that anchor color the brand pivots hard: #ed1c24 punches through on campaign headers and sale callouts with the bluntness of a protest banner, while #a45cec surfaces as an unexpected seasonal accent that refuses the usual streetwear chromatic vocabulary. Brendan Babenzien built Noah as a deliberate counterweight to the hype machine — small batches, above-cost pricing transparency, and terse copy that says what it means. That restraint lives in the typography: Archivo, a grotesque with sturdy humanist counters, runs at tight tracking and full uppercase for display, natural case for body, choosing legibility over showmanship. Primary CTAs sit on the navy field with white reverse type rather than reaching for the red, reserving #ed1c24 for moments of genuine urgency — clearance, limited availability, editorial callouts. Cards are borderless on a near-white (#fefefe) canvas with hairlines at #dedede; the product grid breathes without theatrical padding. Corner radii stay minimal — product cards carry 4px — the brand's workwear and military references demand nothing rounder. Buttons hold at {rounded.xs} rather than the pill shapes dominant in consumer DTC. The footer is dense with text links, newsletter capture, and a short mission statement that other brands bury in an "About" modal; Noah puts it in plain sight because the position is the product. Muted gray (#888888) handles secondary metadata — fabrication notes, country of origin, restocking caveats — while the dark-canvas (#121212) powers login and cart drawer surfaces, shifting the experience into near-black without a full dark-mode toggle. Purple (#a45cec) appears selectively on seasonal drop badges, never as structural chrome. The result reads more like a journal with a commerce layer than a commerce site with a journal layer.
 
@@ -331,6 +335,13 @@ components:
 - Hero CTA pair shifts from horizontal row (desktop) to vertical stack (mobile)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

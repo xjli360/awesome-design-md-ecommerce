@@ -4,6 +4,10 @@ name: "Aimé Leon Dore"
 source_url: "https://aimeleondore.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Where other streetwear labels foreground the logo, Aimé Leon Dore foregrounds the photograph — the garment in natural light, on a real body, against a near-neutral background — with Sohne holding caption and navigation text at near-whisper weights along the periphery. The site operates at a deliberate quietness: canvas white (#ffffff) carries the editorial spreads, near-black (#181818) anchors CTAs and primary text, and the grays (#c4c4c4, #dedede) handle dividers and disabled states without ever demanding attention. A powder blue (#5bbad5) and its lighter complement (#aadddd) appear as accent tokens — colors pulled from vintage New Balance colorways the brand helped redefine — surfacing in seasonal product highlights and favicon identity rather than structural UI. The orange-red (#e42c00) functions as a signal color: sale markup, alert badge, the occasional editorial callout that punctures the otherwise achromatic surface.
 
@@ -343,6 +347,14 @@ components:
 - Footer: 4–5 column grid → 2-column grid (tablet) → single-column accordion with expand/collapse chevrons (mobile); near-black background holds full-width at all breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

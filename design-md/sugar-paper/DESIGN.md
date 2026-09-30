@@ -4,6 +4,10 @@ name: "Sugar Paper"
 source_url: "https://sugarpaper.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Periwinkle (#899df1) does the unexpected work here — in a stationery category that reaches for blush and cream by reflex, Sugar Paper's brand voltage is a soft blue-violet that reads simultaneously dreamy and precise. The chromatic story assembles in three washes: the periwinkle pairs against a warm blush surface (#feede3) and a cool mint field (#dff1ed), three watercolor registers that float above a near-black ink (#242833) — warmer than pure #000000 — and a hairline gray (#dedede) that borders without announcing itself. Monotype Baskerville carries every headline and editorial moment; this is a deliberate reach for the publishing shelf, not the gift-shop card rack. The serif's old-style structure gives product names and planner categories a typographic authority that Proxima Nova, deployed at the UI layer for prices, navigation, and form labels, deliberately withholds. The split is consistent and readable: Baskerville invites; Proxima Nova transacts. Sweet Sans Pro appears at small scale for badge copy and uppercase category callouts, bridging the two registers without collapsing their tension. Corners are uniformly soft throughout — pill shapes ({rounded.full}) for filter chips and collection tags, {rounded.md} for editorial planner cards, {rounded.sm} for primary buttons — the only hard corners are in the body grid. Product photography follows the palette logic: flat lays on blush and mint paper fields, notebooks photographed open to show interior ruled pages, the physical grain of the goods echoing the warm ink tones in the type. The brand's editorial confidence shows in its willingness to set long Baskerville display strings against low-contrast soft surfaces — legibility yields slightly to mood, which is the right trade for a brand whose products are about slowing down and writing things by hand.
 
@@ -318,6 +322,13 @@ The footer reverses to the deepest black (#121212) — the only fully dark surfa
 - Footer column layout: four columns on desktop, two on tablet, one on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

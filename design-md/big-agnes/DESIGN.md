@@ -4,6 +4,10 @@ name: "Big Agnes"
 source_url: "https://www.bigagnes.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, confident red (#990000) anchors Big Agnes — not as a call-to-action accent but as the brand's entire visual gravity, appearing in the site's theme-color meta tag, the header logo, and the primary button state. This is the red of a well-worn camp chair, of a tent fly at dusk, of a brand that names itself after a woman who refused to be left behind on a mountain. The palette draws from the outdoors without mimicking nature: a slate blue-gray (#6b6f81) for body text, a crisp navy (#00529c) for secondary actions and link states, and a warm off-white (#ededed) for surface-soft backgrounds that keep the experience from feeling cold. Product photography carries the weight — tents, sleeping bags, and pads are shown in use against granite, pine, and sky, so the UI stays restrained. Typography runs Archivo, a geometric sans-serif with a slight industrial edge, set at moderate weights (400–600) that never compete with the imagery. Buttons are squared-off with a 4px radius ({rounded.xs}), a deliberate departure from the pill-shaped friendliness of consumer marketplaces; the geometry says "equipment," not "app." Cards use a softer 12px radius ({rounded.md}) for product imagery, while the navigation bar sits at 80px tall with a white canvas and a thin hairline (#dedede) separating it from the page. The checkout flow introduces a marigold accent (#ffcb67) for progress indicators and a muted green (#1b6109) for in-stock badges — small functional signals that break the red-gray-blue trinity without diluting it. The overall mood is serious but not solemn, technical but not cold, built for people who read gear specs by headlamp.
 
@@ -376,6 +380,14 @@ components:
 - Product image galleries collapse to a single-column swipeable carousel on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

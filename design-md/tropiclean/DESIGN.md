@@ -4,6 +4,10 @@ name: "TropiClean"
 source_url: "https://tropiclean.com"
 captured_at: "2026-09-28T10:34:04.084210+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   TropiClean's storefront CSS exposes a Shopify-based theme built on IBM as the shared heading and body font family, with generic sans-serif fallbacks and no confirmed proprietary webfont license. The observed palette centers on a deep forest green (#154c38 and near-variants like #005430, #184c3b) paired with a high-contrast lime-green accent (#bcec7a and siblings such as #b5ea6c, #afe85e), which is inferred here as the brand's primary/accent pairing given their repetition and separation from the extensive neutral gray scale (#f4f4f4 through #202223) used for surfaces, hairlines, and body text. A cluster of coral/orange tones (#ec523e, #fe8b58, #ff8a4e) is treated as a secondary "warm" accent for promotional or trending badges, consistent with the page's "Trending on TikTok" and bundle-callout content. Payment-network colors (Mastercard reds/oranges, PayPal/Amex blues) were excluded from brand roles as they are third-party iconography, not brand tokens. Button styling evidence shows an explicit CSS reset zeroing border-radius on raw `button` elements, suggesting a squared, no-radius default for primary actions; a rounded scale is still provided for cards and inputs as a proposed, unverified convention. Overall the interpretation favors a clean, high-trust, ingredient-forward grooming brand: dark green authority, lime-green energy, and generous neutral whitespace.
 
@@ -145,6 +149,12 @@ Recommended, not measured — the source CSS included fluid-typography custom pr
 Touch targets should be at least 44px in height for buttons and nav items on mobile; the mega-menu's "By Problem"/"By Category" submenu structure implies an accordion or drawer collapse pattern on small screens, which is proposed and not confirmed by captured interaction CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered layout, JavaScript-driven interactions, or actual breakpoint values were observed. Semantic color-role assignments (primary vs. accent vs. warm-accent) are inferred from repetition and contrast within the supplied hex list, not from confirmed CSS variable resolution (e.g., `--btn-bg-color` values were referenced but never resolved to a literal hex in the evidence). Payment-icon colors (Mastercard/PayPal/Amex-like hexes) were deliberately excluded from brand roles. All pixel sizes in the typography scale, all `rounded` values besides the button reset, and all spacing values are proposed defaults, not measured from the site. The "Montserrat" font appears in the raw font-family evidence but its actual application (vs. IBM) could not be confirmed and was excluded from the primary type stack. Mobile menu behavior, carousel/slider mechanics, and card grid structure are described only as plausible Shopify-theme conventions. No custom font licensing or hosting was verified.

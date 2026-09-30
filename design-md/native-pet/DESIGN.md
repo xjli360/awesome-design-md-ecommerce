@@ -4,6 +4,10 @@ name: "Native Pet"
 source_url: "https://nativepet.com"
 captured_at: "2026-09-28T09:04:59.712748+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Native Pet's storefront evidence centers on a Shopify theme with CSS custom
   properties defining a bright, clinical-but-playful palette: a saturated
@@ -135,6 +139,13 @@ components:
 Recommended breakpoints (not measured): mobile ≤599px, tablet 600–959px, desktop ≥960px, wide ≥1440px. Nav collapses to a hamburger/off-canvas menu below tablet, consistent with the `html[data-menu='open']` state hook found in CSS. Touch targets should be a minimum 44×44px for buttons and badges. Product grids likely reflow from a multi-column desktop layout to 1–2 columns on mobile; the reviews carousel (`--slide-size` variables) suggests horizontal scroll/snap on narrow viewports. This section is a recommendation only, not observed site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/token extraction and a text excerpt, not a rendered browser session — no live layout, animation, hover state, or actual mobile breakpoint was observed. Color-to-role mapping beyond the explicit `:root` and `oke-*` variables (e.g., which of the ~40 additional palette swatches map to specific badges, category tags, or icons) is inferred from plausibility, not confirmed selectors. Spacing and rounded scales beyond the confirmed `100px`/pill radius are proposed conventions, not measured values. Font availability, weights, and licensing for Adieu, F37 Ginger Soft, and Suisse Intl Mono were not verified; fallbacks are generic. Component states (hover, focus, disabled, error) are proposed patterns only.

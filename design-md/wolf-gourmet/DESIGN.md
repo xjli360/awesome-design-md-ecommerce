@@ -4,6 +4,10 @@ name: "Wolf Gourmet"
 source_url: "https://www.subzero-wolf.com/wolf-gourmet"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Dusted violet steel — that's the first impression. Where most premium appliance brands lean on industrial chrome or cautious navy, Wolf Gourmet's digital presence anchors itself on an unexpected dusty purple (#5b5378) that reads like oxidized metal under warm light. The palette descends through deeper indigos (#494260, #2d293c) as if the user were moving from a sunlit counter into the shadow behind a commercial range hood. Museo Sans carries everything at ExtraLight to Medium weights — never bold enough to compete with product photography, always crisp enough to survive against those dark-purple grounds. The typographic restraint is surgical: headlines breathe at 200-weight thinness while CTAs firm up to 500, creating a clear hierarchy without ever shouting. Red (#af272e) appears sparingly as the unmistakable Wolf signature — a controlled burst on "Shop Now" badges and warning states that references the iconic red knob on every Wolf range. A secondary warm gold (#da9735) and dark teal (#00393b) provide seasonal or editorial flexibility without diluting the purple core. Corner radii stay tight — `{rounded.xs}` to `{rounded.sm}` at most — reflecting the machine-precision edges of die-cast housings and stainless steel bezels. Cards and product tiles sit on a near-white canvas (#f7f7f7) with generous `{spacing.section}` between content blocks, letting each appliance own its viewport the way a single blender owns a marble countertop. The overall rhythm is slow and confident: large product hero images, minimal animation, and typography that defers to the object.
 
@@ -398,6 +402,13 @@ components:
 - Footer columns collapse into expandable accordion sections with `{spacing.md}` between headers
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

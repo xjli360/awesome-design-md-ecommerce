@@ -4,6 +4,10 @@ name: "Off Road Warehouse"
 source_url: "https://offroadwarehouse.com"
 captured_at: "2026-09-28T10:19:38.129615+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Off Road Warehouse's storefront runs on a Magento-based theme with Tailwind
   utility classes layered on top. The only strongly attested brand color is
@@ -171,6 +175,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets for buttons and nav items should target a minimum 44px height, consistent with `.btn` padding scale (`{spacing.md} {spacing.lg}`). Mobile category and account menus are assumed to collapse into a slide-out or accordion pattern; this is a UX recommendation only, not an observed interaction.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

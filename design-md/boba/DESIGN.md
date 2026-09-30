@@ -4,6 +4,10 @@ name: "Boba"
 source_url: "https://boba.com"
 captured_at: "2026-09-28T10:16:50.819544+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Boba's observed palette centers on warm, muted neutrals — off-white canvas
   (#f4efe9), warm parchment (#ede5db, #f1eae2), and soft sage (#a2beb2, #84a999)
@@ -169,6 +173,14 @@ This is a proposed, non-measured breakpoint recommendation:
 Touch targets should be a minimum 44×44px for nav icons (cart, search, account) referenced in the page text ("Open cart," "Open search bar"). Navigation should collapse into a hamburger/off-canvas menu below tablet width; this behavior is standard for the observed Shopify theme structure but was not directly measured.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This design interpretation is derived from static CSS custom properties, a color list, and page text extracted from a single crawl; no rendered layout, computed styles, or interaction states were observed. The mapping of Raleway to headings and Nunito Sans to body text is inferred from the presence of these families in the font list combined with typical heading/body CSS variable patterns (`--FONT-STACK-HEADING`, `--FONT-STACK-BODY`); the actual variable values were not present in the supplied evidence. Baskerville and Pacifico appear in the font list but their usage context (e.g., logo, special promotions) is unconfirmed and they are excluded from the core type scale. All rounded and spacing scale values beyond the observed `--header-height: 63px` are proposed conventions, not measured. Hover, focus, active, and error states for buttons and inputs are not observed and are marked proposed by omission. Mobile menu behavior, cart drawer interaction, and product-grid responsive breakpoints were not observed and are recommendations only. Licensing and self-hosting status of Raleway, Nunito Sans, Baskerville, and Pacifico were not verified.

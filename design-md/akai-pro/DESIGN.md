@@ -4,6 +4,10 @@ name: "Akai Pro"
 source_url: "https://www.akaipro.com"
 captured_at: "2026-09-28T04:08:29.710730+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The observed evidence centers on a high-contrast, performance-gear palette: a
   saturated crimson (#c20439) as the sole brand accent, paired with near-black
@@ -164,6 +168,14 @@ Recommended, not measured, breakpoints:
 Touch targets should be at least 44×44px, exceeding the raw 20px button font-size, via the padding values defined in `spacing.md`/`spacing.lg`. Navigation collapse, carousel swipe behavior, and card-grid column counts are proposed conventions and were not observed in the supplied static CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

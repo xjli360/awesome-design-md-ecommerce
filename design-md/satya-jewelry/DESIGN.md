@@ -4,6 +4,10 @@ name: "Satya Jewelry"
 source_url: "https://www.satyajewelry.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Gold at #c9a557 — a warm saffron-amber that sits halfway between a marigold and a wedding band — is not an accent in Satya's visual language but the ceremonial axis around which an entire column of fired-earth tones rotates. Every primary call-to-action, price emphasis, and hover state draws from this single hue, with #ab8229 deepening it under press and #f5e6c4 dissolving it into near-transparency on disabled states. The canvas family runs warm rather than white: #fcfbf9 carries the base, #f9f3ef softens product-image backgrounds, and #f1ede6 lends depth to nested surface blocks — three near-whites that never feel clinical or medical. Against these, the ink hierarchy descends through a column of fired-clay tones: near-black #3c322a for primary copy, #554438 for body text, and #605953 for muted annotations, with the meta theme color #9d806c functioning as navigational chrome and secondary label fill.
 
@@ -359,6 +363,13 @@ components:
 - Product card image-to-text ratio stays consistent across breakpoints; grid column count drives card width
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

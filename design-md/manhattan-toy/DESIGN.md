@@ -4,6 +4,10 @@ name: "Manhattan Toy"
 source_url: "https://manhattantoy.com"
 captured_at: "2026-09-28T04:23:40.848132+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The evidence shows a warm, muted neutral palette (--color-foreground: 93 88 81 → #5d5851) set against a white background (--color-background: 255 255 255), with a secondary warm charcoal (#3e3b36) appearing in the raw color list. Grays (#999999, #dedede, #e5e5e5, #333333) recur in utility UI—SKU labels, slider controls (.flickity-button background #ffffffbf, text #333)—suggesting a restrained, text-forward system rather than a saturated brand palette. A single soft blue (#a0d9e4) appears among the extracted colors and is treated here as an inferred accent for badges or highlights, since no CSS rule ties it to a specific role. The many additional bright hues (payment-network reds, blues, greens) are third-party checkout icons, not brand colors, and are excluded from the design system. Typography uses Nunito for body/UI text (confirmed via font-family evidence) with system monospace stacks reserved for code-like or tabular fragments (inferred, not confirmed in visible copy). Heading sizes are driven by CSS custom properties (--text-h1..h6, --title-lg/xl) built on a spacing-unit scale; exact pixel values are not resolvable from static extraction, so all typographic sizes below are proposed approximations consistent with the ratios implied by the --sp-* tokens. The overall interpretation favors a soft, editorial, baby-goods aesthetic: warm neutrals, generous whitespace, and minimal chroma reserved for small functional accents.
 
@@ -128,6 +132,12 @@ Recommended, not measured, breakpoints:
 Touch targets should be at least 44×44px for primary buttons and nav icons. Navigation is expected to collapse into a drawer/menu below `md`; this behavior is proposed based on common Shopify theme conventions and is not directly observed in the supplied CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/color/font extraction only; no rendered page, interaction states (hover/focus/active), or mobile layouts were observed. Semantic role assignments (e.g., treating #5d5851 as "primary" and #3e3b36 as "ink") are inferred from variable naming (`--color-foreground`) and frequency, not confirmed brand documentation. Numeric type scale values (font sizes for display/title/body tokens) are proposed approximations of the `--text-h*`/`--title-*` custom-property scale, since the underlying `--sp-*` unit values were not resolvable from the supplied evidence. The single accent blue (#a0d9e4) and its use as a "badge" color is speculative — no selector ties it to a UI role. Nunito's licensing/self-hosting status and any additional weights are not verified beyond its appearance in the font-family list. Bright multi-hue colors (payment network icons: Visa, Mastercard, PayPal-adjacent brands) were deliberately excluded from the design system as third-party assets, not site branding.

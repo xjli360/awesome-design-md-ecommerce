@@ -4,6 +4,10 @@ name: "Ostrya"
 source_url: "https://ostryaequipment.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A dark, weather-bitten canvas for outdoor equipment, where #1c1b1b ink swallows most of the screen and #4469af — a cold, alpine blue — cuts through as the single primary voltage. The site reads like a field notebook: body text in Open Sans at 16px sits on #f2f2f2 surface-soft panels, while #363636 muted text and #d9d9d9 hairline strokes keep hierarchy crisp without shouting. Product imagery dominates — the brand trusts full-bleed hero shots of tents and packs against #121212 backgrounds, letting gear speak over copy. Buttons carry {rounded.sm} corners and the primary blue (#4469af) flips to #c8232c (a sharp red) for sale badges and urgency markers, a two-tone system that feels like trail signage. The typography stack leans on Unica77LLWeb-Regular for display — a clean, Swiss-inspired sans that avoids outdoor-brand cliché — with monospace for technical specs. There is no gradient, no glassmorphism, no decorative flourish; every pixel earns its place through utility. The footer collapses into a single column of #a1a1a1 links on #1c1b1b, and the cart drawer uses #ff2626 for remove actions, a red that matches the urgency of a forgotten stove. This is a system built for people who read weather reports and pack by weight — not for browsing.
 
@@ -321,6 +325,13 @@ components:
 - Accordion-style product details replace tabbed layout below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

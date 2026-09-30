@@ -4,6 +4,10 @@ name: "Retrouvai"
 source_url: "https://www.retrouvai.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Retrouvai plants its flag with a forest-sage primary (#5a8c6b) — a gambit almost never seen in fine jewelry, where nearly every competitor reaches for black, champagne, or millennial pink — and builds its entire visual vocabulary outward from that single botanical decision. The brand name derives from the French *retrouver*, to rediscover, and the palette enacts that etymology at every level: the ink is not #000000 but #0c271c, a hunter green so dark it barely registers as color until placed against the warm cream canvas (#f8f6f0), which is richer and more ambered than clinical white, giving stone photography the same glow as light through aged linen. Accents arrive in antique gold (#cfb56b) — closer to aged book binding than fresh bullion — and a terracotta copper (#c5682e) that delivers editorial warmth without reading as seasonal. Secondary emotional tones include a dusty blush (#f9dee5) and muted mauve (#af7b88) reserved for campaign imagery; a muted navy (#282d74) anchors focus states and selected UI elements. Corners run a deliberate split: form inputs and product cards take {rounded.sm} (6px), collection filter tags and editorial badges are fully pill-shaped ({rounded.full}), and primary CTAs hold a flat sharp corner — the geometry of something precision-made rather than friendly-rounded. Spacing breathes with intention; section breaks stack at 64px and the product grid gives each piece room to be examined rather than scrolled past. The typographic system was not extractable (fonts load via JavaScript), but the editorial positioning of "Modern Heirlooms" points to a weight-400 display serif for collection headings and a quiet geometric sans for prose and UI labels — the combination that distinguishes heirloom craft from trend-cycle fashion.
 
@@ -358,6 +362,13 @@ components:
 - Footer: single stacked column on mobile; two-column grid on tablet; four-column grid on desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

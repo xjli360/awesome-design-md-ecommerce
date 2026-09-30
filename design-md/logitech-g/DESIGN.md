@@ -4,6 +4,10 @@ name: "Logitech G"
 source_url: "https://www.logitechg.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A high-voltage gaming gear brand that runs on a near-black chassis (#1b1b1b) and a single neon-blue accent (#00b8fc) that reads as cold cathode, not friendly sky. The palette is deliberately sparse — three grays (#d7d7d7, #f2f2f2, #1b1b1b) and two electric accents (#00fdcf, #00b8fc) — creating a system where the accent color becomes the sole visual event on every page. Buttons and interactive elements use `{rounded.sm}` (8px) rather than pills, preserving a tool-like precision that matches the brand's peripheral hardware. The site's Japanese title (ロジクール G -先進のゲーミングギアと周辺機器) signals a global-first approach, with product photography doing the heavy lifting of texture and material feel. The green accent (#20a50a) appears sparingly as a status indicator, never as a primary action color. This is a brand that trusts its hardware photography and its single electric blue to communicate speed and precision — no gradients, no decorative flourishes, just dark canvas and one bright signal.
 
@@ -424,6 +428,13 @@ components:
 - Hero content reduces font size and padding on mobile, with CTA stacking vertically if needed
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

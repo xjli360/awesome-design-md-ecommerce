@@ -4,6 +4,10 @@ name: "WWAKE"
 source_url: "https://www.wwake.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Lavender where there should be champagne — WWAKE deploys #9681ff as the primary CTA voltage, a choice that would read as wrong on almost any other fine jewelry site and reads completely right here. Wing Yau's NYC studio makes pieces that are more structural than sentimental (segmented opal drops, mismatched stacking rings, bezel-set arrangements that prioritize geometry over flash), and the digital system follows: a near-black canvas (#17171c) several stops deeper than the soft charcoals competitors prefer, Unica as the house grotesque, and zero border-radius on buttons and input fields. The purple family spans five values — pale #cbc0ff and #bbaeff for disabled and ambient states, the brand-true #9681ff, the active hover #7e65ff, and the deep anchor #5c5092 — meaning the entire interactive hierarchy can be built within a single hue family using tint and saturation rather than importing a contrasting accent. Coral (#ff6464) enters as punctuation: sale badges, error borders, the occasional editorial hover that snaps attention. The monospace stack in the extraction suggests a secondary type register for SKUs, price formatting, or cart line items, creating a deliberate tension between the refined display grotesque and something more mechanical and utilitarian. Unica at low weight (300) for display headlines stays architectural without reading formal, and the uppercase tracking on button and badge labels — 0.08–0.10em — gives small text the spatial confidence to hold against product photography. Components use {rounded.full} strictly for pills and swatches, {rounded.none} everywhere structural, which enforces a clear vocabulary: organic only at the smallest scale, hard-edged everywhere else. The dark footer mirrors the dark hero, wrapping product grids in a continuous near-black ground so that each collection page reads as a lit vitrine rather than a retail shelf.
 
@@ -358,6 +362,13 @@ components:
 - Announcement bar truncates to a single scrolling marquee line on narrow viewports if copy overflows
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

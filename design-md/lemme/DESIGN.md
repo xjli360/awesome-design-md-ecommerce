@@ -4,6 +4,10 @@ name: "Lemme"
 source_url: "https://lemmelive.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A vitamin and supplement brand that wraps functional wellness in a pastel-lavender glow, anchored by `#f7f1f9` — a chalky lilac that reads more like a powdered-sugar dusting than a medical aisle. The brand's true voltage comes from `#a5f057`, an electric lime-green that appears on CTAs, badges, and accent elements, creating a jolt of unexpected energy against the soft violet canvas. Type pairs Recoleta — a warm, serifed display face with generous curves — against Assistant, a clean sans-serif for body copy, giving the system a hybrid personality: editorial warmth meets clinical clarity. Product cards use `{rounded.lg}` corners and sit on `#f4f4f6` surfaces, while the primary ink `#272d45` (a deep navy) provides contrast without the harshness of pure black. The checkout flow and trust badges introduce `#3b31ce` and `#0e7a82` — a deep indigo and teal — suggesting a sub-brand or payment-partner layer. What makes Lemme distinctive is the tension between `#f7f1f9`'s softness and `#a5f057`'s neon punch: the brand feels like a wellness studio that happens to sell pills, not a supplement company trying to look clinical. The `{rounded.full}` pill shape appears on primary buttons and ingredient badges, reinforcing the product form factor itself.
 
@@ -438,6 +442,13 @@ components:
 - Product description accordion collapses all sections by default on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

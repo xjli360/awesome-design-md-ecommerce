@@ -4,6 +4,10 @@ name: "Dacor"
 source_url: "https://www.dacor.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Brushed graphite rendered as light — that is the first impression Dacor's digital surface delivers. A single dominant charcoal (#313131) swallows the canvas on hero panels and product stages, forcing stainless-steel ranges and matte-black cooktops into sharp photographic relief the way a museum spots a sculpture against a dark wall. Where most appliance sites default to clinical white grids, Dacor inverts the convention: dark backgrounds dominate above the fold, and white space enters only when spec tables and configurator panels demand functional contrast. Typography runs entirely on system stacks — no custom web font ships in the initial paint, keeping load times tight and letting the oversized product imagery do the emotional work. Display headlines land around 40–48px at weight 300–400, deliberately light in stroke so they never compete with the hardware glamour shots they caption; the effect is closer to an architectural specification sheet than a retail page. Buttons sit in `{rounded.none}` or barely-there 2–4px radii (`{rounded.xs}`), reinforcing a precision-instrument aesthetic: hard edges, no playful pills, no consumer-marketplace softness. The navigation stacks product categories — Ranges, Cooktops, Wall Ovens, Ventilation, Refrigeration — inside a full-width mega-menu that drops over a semi-opaque `{colors.scrim}` backdrop, creating a cinematic curtain effect. Product cards present each appliance in a clean `{colors.surface-card}` tile with a generous `{spacing.lg}` internal gutter, a thin `{colors.hairline}` border, and a model-number caption in `{typography.caption}` weight 500. Accent color is almost absent from the default palette; the site relies on a monochromatic charcoal-to-white gradient for hierarchy, reserving color for interactive focus states and error validation. This restraint means the photography palette — warm kitchen scenes, copper pots, marble countertops — supplies all the warmth the interface withholds.
 
@@ -441,6 +445,13 @@ components:
 - Comparison: bottom-sheet drawer on mobile → sticky bar on desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

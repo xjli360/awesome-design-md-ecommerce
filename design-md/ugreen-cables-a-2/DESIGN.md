@@ -4,6 +4,10 @@ name: "Ugreen"
 source_url: "https://www.ugreen.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Ugreen plants its brand name directly in its primary color: #007934 saturates every call-to-action button, active nav indicator, compatibility tag border, and trust icon — the hex is the brand statement, legible before any logo loads. Against a near-white canvas of #f8f8f8 sectioned by #e9eaeb hairlines, that green reads with the precision of a signal light, never competing with the product photography it frames. Metropolis drives all type — a geometric sans whose near-equal stroke widths match the clean-line engineering language that cables, adapters, and charging hubs demand. Display headers hold at 700 weight and 40px; body copy breathes at 400/16px between spec tables and feature callouts.
 
@@ -385,6 +389,13 @@ components:
 - Product card spec-chip strip truncates to three chips on mobile with a "show more" text expander
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

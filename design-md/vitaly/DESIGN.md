@@ -4,6 +4,10 @@ name: "Vitaly"
 source_url: "https://www.vitalydesign.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   GerstnerProgramm — a typeface named after the Swiss grid theorist Karl Gerstner — runs the display hierarchy at vitalydesign.com, a choice that announces the brand's machine-precision ethos before the first product image resolves. The palette is a studied exercise in high-contrast cold: near-black #121212 on off-white #f1f1f1 canvas, with pure #0000ff surfacing as the electric accent for interactive states and hover underlines. That uncompromising blue carries the same material logic as the stainless steel and brass in the product catalog — it is not softened, not tinted, not friendly. A deep charcoal #242833 backs the navigation header and dark-surface sections where editorial photography needs a harder field, and the pair of reds (#ff0000, #dc0000) handle promotional and sale indicators with zero typographic decoration. Mid-tones #dedede and #d3d3d3 form the hairline and subtle surface tier, keeping the grid readable without introducing warmth. Neue Haas Grotesk Display Pro steps in at title and section-header scale, continuing a Swiss grotesk lineage that Assistant carries into UI body copy. Schengen Core appears at logo and wordmark scale, a bespoke or licensed face that gives the brand mark a geometry distinct from the text hierarchy. Radius discipline across the interface is near-zero: product cards sit at 0–2px, buttons are sharp-cornered rectangles, and no pill shape exists in the component set. Grid density shifts abruptly between editorial hero sections — single-image full-bleed — and collection pages that run three-up or four-up product rows at desktop. The absence of soft radii and the refusal of decorative drop shadows make the interface feel like a hardware product catalog — which, given that each piece is machined from industrial material, is the intended reading.
 
@@ -390,6 +394,13 @@ components:
 - Footer four-column grid collapses to single-column stacked accordion on mobile with expand/collapse chevrons
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

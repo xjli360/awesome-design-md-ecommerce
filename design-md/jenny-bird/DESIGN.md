@@ -4,6 +4,10 @@ name: "Jenny Bird"
 source_url: "https://jenny-bird.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The #ffcf2a marigold-gold that saturates Jenny Bird's primary CTA buttons and category labels is not an accent — it is a temperature match for the brand's actual vermeil and brass castings, so browsing the site carries the ambient warmth of looking into a lit jewelry case. Against deep near-black (#1c1d1d) headers and a rich dark navy (#272d45) used in editorial modules, the yellow reads as actual metal rather than UI color. The contrast it achieves with {colors.on-primary} (#1c1d1d) text is high enough for accessibility without sacrificing warmth — a rare quality in a saturated yellow. Typography divides into two entirely distinct voices: Sabon LT Pro and EB Garamond carry the editorial register — product campaigns, collection introductions, brand storytelling — at 400 weight so the serif sits open and press-cut rather than heavy; Avenir and Avenir Light manage the transactional layer across navigation, filters, price strings, and form inputs, with letter-spacing at 0.05–0.1em to preserve legibility at small sizes. The pairing is disciplined and asymmetric — the serif vocabulary signals artisanal provenance without antiquarian styling, while the humanist sans keeps conversion flows modern and uncluttered. A secondary teal (#0e7a82) appears exclusively on sale indicators and promotional badges, cool-toned against the warm primary so that commercial urgency reads at a different chromatic frequency than brand warmth — they coexist without competing. The periwinkle-slate (#676986) functions as a structural neutral: filter chips, metadata labels, secondary navigation states — quieter than {colors.muted} (#707070) but more distinctive than generic gray. Rounded corners are deliberately minimal: {rounded.xs} on badges and chips, {rounded.sm} on input fields and buttons, {rounded.none} on full-bleed images — the system stays close to architectural and jewelry-cabinet-precise, never soft or bubble-like. Product cards rest on pale gray ({colors.surface-soft}, #f4f4f6), image-led in a 3:4 portrait ratio with product name below in Sabon LT Pro and price in Avenir — the font-family switch within a single card encodes the brand's dual register even at the micro level. The footer reverses the entire palette to {colors.surface-dark} (#1c1d1d) with pale hairlines and {colors.on-dark} type, a deliberate tonal shift that closes the editorial loop and signals the brand's fluency in its own visual language.
 
@@ -336,6 +340,13 @@ components:
 - Footer columns collapse to a single-column accordion on mobile; each section heading becomes a tap-to-expand toggle
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

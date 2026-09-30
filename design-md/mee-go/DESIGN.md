@@ -4,6 +4,10 @@ name: "Mee-go"
 source_url: "https://mee-go.co.uk"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, confident blue (#003399) anchors Mee-go as the single brand voltage across a site that sells pushchairs, car seats, and nursery furniture — a category where trust and safety are the real products. That primary blue, paired with a secondary #003388, appears on every primary CTA, navigation bar, and product badge, creating a consistent visual anchor that reads as dependable without feeling cold. The palette is unusually large for a DTC brand — the extracted list runs to 27+ colors — but the core is disciplined: a warm off-white canvas (#e3ddd8) softens what could be a sterile blue-and-white scheme, while accents like #cd2653 (a muted crimson) and #f0b849 (a warm gold) appear on sale badges and promotional ribbons. Typography leans on Montserrat for headings and Open Sans for body copy, both at moderate weights (400–600) that avoid the heavy-handedness of traditional parenting brands. Product cards use soft corners ({rounded.md} ~12px) and generous whitespace, with the primary blue reserved for the "Add to Cart" button and the checkout flow. The site's voice is straightforward and reassuring — no whimsy, no pastels — treating the purchase of a car seat or cot with the seriousness it deserves while the warm beige canvas keeps the experience from feeling clinical.
 
@@ -318,6 +322,13 @@ components:
 - Search bar collapses to an icon on mobile, expanding to full-width on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

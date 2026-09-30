@@ -4,6 +4,10 @@ name: "Phonica Records"
 source_url: "https://www.phonicarecords.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A record shop that treats its homepage like a crate-digging session — a dense, monochrome grid of album covers where the only color comes from the vinyl itself. The canvas is pure white (`#ffffff`), the ink is near-black (`#111111`), and the entire experience is built around letting the artwork breathe. There are no hero carousels, no lifestyle photography, no brand illustrations — just a relentless cascade of square sleeves, each one a portal to a product page that reads like a Discogs listing crossed with a zine. The typography is a single utilitarian sans-serif stack, set small and tight, with tracklists rendered in a monospaced font that whispers "I buy my records from a proper shop, not an algorithm." The only structural color is the muted gray of the top nav (`#666666`) and the hairline-thin borders (`#e0e0e0`) that separate rows without shouting. The search bar is a simple outlined rectangle (`{rounded.sm}`), not a pill — this is a shop for people who know what they want. The footer is a wall of text: shipping policies, payment icons, a mailing list signup, and a map link to the Soho store. The entire site feels like it was built by someone who loves records more than they love design trends — and that is exactly the point.
 
@@ -385,6 +389,13 @@ components:
 - Filter and sort controls collapse into a single "Filter & Sort" button on mobile, opening a modal overlay.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

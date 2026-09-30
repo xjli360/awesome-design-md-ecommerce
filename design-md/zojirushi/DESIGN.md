@@ -4,6 +4,10 @@ name: "Zojirushi"
 source_url: "https://www.zojirushi.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Steam rising from a perfectly sealed lid — that image anchors everything Zojirushi puts on screen. The site runs a Bootstrap 4 utility layer with almost zero custom theming, letting product photography of stainless steel vacuum bottles, Neuro Fuzzy rice cookers, and bread machines carry the entire visual story. Primary CTAs land in #0062cc, a standard-issue blue that gains specificity only through context: it sits next to product images saturated with brushed metal, matte black housings, and the warm amber glow of #d39e00 "Add to Cart" highlight states. Typography stays invisible on purpose — the system font stack (`-apple-system`, `BlinkMacSystemFont`, `Helvetica Neue`, `Arial`) at moderate weights lets 300-dpi product renders and spec tables dominate the viewport. Card corners stay sharp at `{rounded.xs}` or `{rounded.none}`, echoing the precision-machined edges of the products themselves; the only soft radius appears on pill badges (`{rounded.full}`) marking "New" arrivals or "Best Seller" flags. A near-black ink (#1d2124) grounds dense specification grids — wattage, capacity, dimensions — that Japanese appliance buyers expect to scan without decoration. The canvas breathes through a cool gray surface system (#ececf6 panels, #dae0e5 hairlines) that reads clinical rather than cozy, appropriate for a brand whose value proposition is engineering reliability over lifestyle aspiration. Navigation runs horizontally with category mega-menus (Rice Cookers, Water Boilers, Thermal, Bread, Coffee) and a recipe content hub that integrates cooking guidance directly into product pages. The #d39e00 gold accent — used for promotional banners, sale badges, and hover states — is the closest thing to a signature brand color on screen, connecting to Zojirushi's elephant-mark heritage of warmth within precision.
 
@@ -439,6 +443,13 @@ components:
 - Category cards shift from 4-across grid to horizontal scroll strip on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

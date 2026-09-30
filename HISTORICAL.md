@@ -1,0 +1,1928 @@
+# Historical inspiration archive
+
+These documents have not passed current source revalidation. Do not use their numeric tokens as measured site specifications. Prefer [recommended references](./RECOMMENDED.md).
+
+- [1-2-3-4 Go! Records](./design-md/1-2-3-4-go-records/DESIGN.md) — unverified historical tokens
+- [101 Films](./design-md/101-films/DESIGN.md) — unverified historical tokens
+- [123inkjets](./design-md/123inkjets/DESIGN.md) — unverified historical tokens
+- [12x12 Cardstock Shop](./design-md/12x12-cardstock-shop/DESIGN.md) — unverified historical tokens
+- [18 East](./design-md/18-east/DESIGN.md) — unverified historical tokens
+- [1944 Militaria](./design-md/1944-militaria/DESIGN.md) — unverified historical tokens
+- [20x200](./design-md/20x200/DESIGN.md) — unverified historical tokens
+- [4AD](./design-md/4ad/DESIGN.md) — unverified historical tokens
+- [8BitDo](./design-md/8bitdo/DESIGN.md) — unverified historical tokens
+- [A24 Shop](./design-md/a24-shop/DESIGN.md) — unverified historical tokens
+- [Aardvark Jewellery](./design-md/aardvark-jewellery/DESIGN.md) — unverified historical tokens
+- [Aarke](./design-md/aarke/DESIGN.md) — unverified historical tokens
+- [Abbio](./design-md/abbio/DESIGN.md) — unverified historical tokens
+- [Abby & Finn](./design-md/abby-and-finn/DESIGN.md) — unverified historical tokens
+- [Abcam](./design-md/abcam/DESIGN.md) — unverified historical tokens
+- [Absolut Art](./design-md/absolut-art/DESIGN.md) — unverified historical tokens
+- [AC Direct](./design-md/ac-direct/DESIGN.md) — unverified historical tokens
+- [Accu-Scope](./design-md/accu-scope/DESIGN.md) — unverified historical tokens
+- [Acoustic Sounds](./design-md/acoustic-sounds/DESIGN.md) — unverified historical tokens
+- [Act + Acre](./design-md/act-acre/DESIGN.md) — unverified historical tokens
+- [Activist Skincare](./design-md/activist-skincare/DESIGN.md) — unverified historical tokens
+- [Adele Dejak](./design-md/adele-dejak/DESIGN.md) — unverified historical tokens
+- [AEMC Instruments](./design-md/aemc-instruments/DESIGN.md) — unverified historical tokens
+- [Aer](./design-md/aer/DESIGN.md) — unverified historical tokens
+- [Aera](./design-md/aera/DESIGN.md) — unverified historical tokens
+- [AeroGarden](./design-md/aerogarden/DESIGN.md) — unverified historical tokens
+- [Aesop](./design-md/aesop/DESIGN.md) — unverified historical tokens
+- [AG1](./design-md/ag1/DESIGN.md) — unverified historical tokens
+- [AGA](./design-md/aga/DESIGN.md) — unverified historical tokens
+- [Agendio](./design-md/agendio/DESIGN.md) — unverified historical tokens
+- [AGFA (American Genre Film Archive)](./design-md/agfa-american-genre-film-archive/DESIGN.md) — unverified historical tokens
+- [Agmes](./design-md/agmes/DESIGN.md) — unverified historical tokens
+- [AimControllers](./design-md/aimcontrollers/DESIGN.md) — unverified historical tokens
+- [Aimé Leon Dore](./design-md/aime-leon-dore/DESIGN.md) — unverified historical tokens
+- [Air & Hydraulic Equipment](./design-md/air-and-hydraulic-equipment/DESIGN.md) — unverified historical tokens
+- [Akko](./design-md/akko/DESIGN.md) — unverified historical tokens
+- [Alen](./design-md/alen/DESIGN.md) — unverified historical tokens
+- [Alfa Forni](./design-md/alfa-forni/DESIGN.md) — unverified historical tokens
+- [Alibris](./design-md/alibris/DESIGN.md) — unverified historical tokens
+- [Alice, Ever After Books](./design-md/alice-ever-after-books/DESIGN.md) — unverified historical tokens
+- [Alienware](./design-md/alienware/DESIGN.md) — unverified historical tokens
+- [Alighieri](./design-md/alighieri/DESIGN.md) — unverified historical tokens
+- [All the Anime](./design-md/all-the-anime/DESIGN.md) — unverified historical tokens
+- [All-Clad](./design-md/all-clad/DESIGN.md) — unverified historical tokens
+- [Allbirds](./design-md/allbirds/DESIGN.md) — unverified historical tokens
+- [Allen & Heath](./design-md/allen-and-heath/DESIGN.md) — unverified historical tokens
+- [Allied Cycle Works](./design-md/allied-cycle-works/DESIGN.md) — unverified historical tokens
+- [AllPosters](./design-md/allposters/DESIGN.md) — unverified historical tokens
+- [Almine Rech](./design-md/almine-rech/DESIGN.md) — unverified historical tokens
+- [Alo Yoga](./design-md/alo-yoga/DESIGN.md) — unverified historical tokens
+- [Alpine Home Air](./design-md/alpine-home-air/DESIGN.md) — unverified historical tokens
+- [Alto](./design-md/alto/DESIGN.md) — unverified historical tokens
+- [Amazfit](./design-md/amazfit/DESIGN.md) — unverified historical tokens
+- [AmiAmi](./design-md/amiami/DESIGN.md) — unverified historical tokens
+- [Amigo Games](./design-md/amigo-games/DESIGN.md) — unverified historical tokens
+- [Amika](./design-md/amika/DESIGN.md) — unverified historical tokens
+- [Amoeba Music](./design-md/amoeba-music/DESIGN.md) — unverified historical tokens
+- [Amour Vert](./design-md/amour-vert/DESIGN.md) — unverified historical tokens
+- [AMVR](./design-md/amvr/DESIGN.md) — unverified historical tokens
+- [Ana Luisa](./design-md/ana-luisa/DESIGN.md) — unverified historical tokens
+- [Anamese](./design-md/anamese/DESIGN.md) — unverified historical tokens
+- [AndaSeat](./design-md/andaseat/DESIGN.md) — unverified historical tokens
+- [Andrew Prokos](./design-md/andrew-prokos/DESIGN.md) — unverified historical tokens
+- [Anime Corner Store](./design-md/anime-corner-store/DESIGN.md) — unverified historical tokens
+- [Anine Bing](./design-md/anine-bing/DESIGN.md) — unverified historical tokens
+- [Aniplex+ USA](./design-md/aniplex-usa/DESIGN.md) — unverified historical tokens
+- [Anita Dongre](./design-md/anita-dongre/DESIGN.md) — unverified historical tokens
+- [Anita Ko](./design-md/anita-ko/DESIGN.md) — unverified historical tokens
+- [Anker](./design-md/anker/DESIGN.md) — unverified historical tokens
+- [Anna Sheffield](./design-md/anna-sheffield/DESIGN.md) — unverified historical tokens
+- [Annabelle's Book Club LA](./design-md/annabelle-s-book-club-la/DESIGN.md) — unverified historical tokens
+- [Anne Pro](./design-md/anne-pro/DESIGN.md) — unverified historical tokens
+- [Anoma](./design-md/anoma/DESIGN.md) — unverified historical tokens
+- [Anova Culinary](./design-md/anova-culinary/DESIGN.md) — unverified historical tokens
+- [Anycubic](./design-md/anycubic/DESIGN.md) — unverified historical tokens
+- [Anzie](./design-md/anzie/DESIGN.md) — unverified historical tokens
+- [AOC](./design-md/aoc/DESIGN.md) — unverified historical tokens
+- [Apex](./design-md/apex/DESIGN.md) — unverified historical tokens
+- [APMEX](./design-md/apmex/DESIGN.md) — unverified historical tokens
+- [Apostrophe Puzzles](./design-md/apostrophe-puzzles/DESIGN.md) — unverified historical tokens
+- [Applied Industrial Technologies](./design-md/applied-industrial-technologies/DESIGN.md) — unverified historical tokens
+- [Appointed](./design-md/appointed/DESIGN.md) — unverified historical tokens
+- [Arbelos Films](./design-md/arbelos-films/DESIGN.md) — unverified historical tokens
+- [Arcade1Up](./design-md/arcade1up/DESIGN.md) — unverified historical tokens
+- [Arctic](./design-md/arctic/DESIGN.md) — unverified historical tokens
+- [Arctic Spas](./design-md/arctic-spas/DESIGN.md) — unverified historical tokens
+- [Areaware](./design-md/areaware/DESIGN.md) — unverified historical tokens
+- [Arena](./design-md/arena/DESIGN.md) — unverified historical tokens
+- [Aritzia](./design-md/aritzia/DESIGN.md) — unverified historical tokens
+- [Armada Skis](./design-md/armada-skis/DESIGN.md) — unverified historical tokens
+- [Arpin Philately](./design-md/arpin-philately/DESIGN.md) — unverified historical tokens
+- [Arrae](./design-md/arrae/DESIGN.md) — unverified historical tokens
+- [Arrow Films](./design-md/arrow-films/DESIGN.md) — unverified historical tokens
+- [Art & Fable Puzzle Company](./design-md/art-and-fable-puzzle-company/DESIGN.md) — unverified historical tokens
+- [Art.com](./design-md/art-com/DESIGN.md) — unverified historical tokens
+- [Artemer](./design-md/artemer/DESIGN.md) — unverified historical tokens
+- [Article](./design-md/article/DESIGN.md) — unverified historical tokens
+- [Artifact Uprising](./design-md/artifact-uprising/DESIGN.md) — unverified historical tokens
+- [Artisul](./design-md/artisul/DESIGN.md) — unverified historical tokens
+- [ArtPhotoLimited](./design-md/artphotolimited/DESIGN.md) — unverified historical tokens
+- [Artspace](./design-md/artspace/DESIGN.md) — unverified historical tokens
+- [Asko](./design-md/asko/DESIGN.md) — unverified historical tokens
+- [Asmodee](./design-md/asmodee/DESIGN.md) — unverified historical tokens
+- [Astrid & Miyu](./design-md/astrid-and-miyu/DESIGN.md) — unverified historical tokens
+- [Asus](./design-md/asus/DESIGN.md) — unverified historical tokens
+- [Atdec](./design-md/atdec/DESIGN.md) — unverified historical tokens
+- [Athletic Greens (AG1)](./design-md/athletic-greens-ag1/DESIGN.md) — unverified historical tokens
+- [Atoms](./design-md/atoms/DESIGN.md) — unverified historical tokens
+- [Attic Books](./design-md/attic-books/DESIGN.md) — unverified historical tokens
+- [Attn: Grace](./design-md/attn-grace/DESIGN.md) — unverified historical tokens
+- [Audio-Technica](./design-md/audio-technica-vinyl-ac-2/DESIGN.md) — unverified historical tokens
+- [Audiobooks.com](./design-md/audiobooks-com/DESIGN.md) — unverified historical tokens
+- [Aukey](./design-md/aukey/DESIGN.md) — unverified historical tokens
+- [AURA Hair Care](./design-md/aura-hair-care/DESIGN.md) — unverified historical tokens
+- [Aurate New York](./design-md/aurate-new-york/DESIGN.md) — unverified historical tokens
+- [Aurora](./design-md/aurora/DESIGN.md) — unverified historical tokens
+- [Aurora Corp](./design-md/aurora-corp/DESIGN.md) — unverified historical tokens
+- [Authentic Provence](./design-md/authentic-provence/DESIGN.md) — unverified historical tokens
+- [Autographia](./design-md/autographia/DESIGN.md) — unverified historical tokens
+- [AutomationDirect](./design-md/automationdirect/DESIGN.md) — unverified historical tokens
+- [Automic Gold](./design-md/automic-gold/DESIGN.md) — unverified historical tokens
+- [Autonomous.ai](./design-md/autonomous-ai/DESIGN.md) — unverified historical tokens
+- [Autonomous.ai (Chairs)](./design-md/autonomous-ai-chairs/DESIGN.md) — unverified historical tokens
+- [Avanti](./design-md/avanti/DESIGN.md) — unverified historical tokens
+- [AverMedia](./design-md/avermedia/DESIGN.md) — unverified historical tokens
+- [Avery](./design-md/avery/DESIGN.md) — unverified historical tokens
+- [Awe Inspired](./design-md/awe-inspired/DESIGN.md) — unverified historical tokens
+- [Ayuna](./design-md/ayuna/DESIGN.md) — unverified historical tokens
+- [B Yoga](./design-md/b-yoga/DESIGN.md) — unverified historical tokens
+- [B&K Precision](./design-md/b-and-k-precision/DESIGN.md) — unverified historical tokens
+- [B4Adventure](./design-md/b4adventure/DESIGN.md) — unverified historical tokens
+- [Baby Brezza](./design-md/baby-brezza/DESIGN.md) — unverified historical tokens
+- [Baby Einstein](./design-md/baby-einstein/DESIGN.md) — unverified historical tokens
+- [Bach Brass](./design-md/bach-brass/DESIGN.md) — unverified historical tokens
+- [Back to the Roots](./design-md/back-to-the-roots/DESIGN.md) — unverified historical tokens
+- [Baden Sports](./design-md/baden-sports/DESIGN.md) — unverified historical tokens
+- [Bagatiba](./design-md/bagatiba/DESIGN.md) — unverified historical tokens
+- [Baker Creek Heirloom Seeds](./design-md/baker-creek-heirloom-seeds/DESIGN.md) — unverified historical tokens
+- [Bala](./design-md/bala/DESIGN.md) — unverified historical tokens
+- [Balmuda](./design-md/balmuda/DESIGN.md) — unverified historical tokens
+- [Balolo](./design-md/balolo/DESIGN.md) — unverified historical tokens
+- [Baltic Watches](./design-md/baltic-watches/DESIGN.md) — unverified historical tokens
+- [Bambo Nature](./design-md/bambo-nature/DESIGN.md) — unverified historical tokens
+- [Bambu Lab](./design-md/bambu-lab/DESIGN.md) — unverified historical tokens
+- [Bananagrams](./design-md/bananagrams/DESIGN.md) — unverified historical tokens
+- [Bandai Namco Store](./design-md/bandai-namco-store/DESIGN.md) — unverified historical tokens
+- [Bannor Toys](./design-md/bannor-toys/DESIGN.md) — unverified historical tokens
+- [Banquet Records](./design-md/banquet-records/DESIGN.md) — unverified historical tokens
+- [BAPE](./design-md/bape/DESIGN.md) — unverified historical tokens
+- [Barebones Living](./design-md/barebones-living/DESIGN.md) — unverified historical tokens
+- [Barefaced](./design-md/barefaced/DESIGN.md) — unverified historical tokens
+- [Barefoot Books](./design-md/barefoot-books/DESIGN.md) — unverified historical tokens
+- [Barefoot Sound](./design-md/barefoot-sound/DESIGN.md) — unverified historical tokens
+- [Bario Neal](./design-md/bario-neal/DESIGN.md) — unverified historical tokens
+- [Barker Air & Hydraulics](./design-md/barker-air-and-hydraulics/DESIGN.md) — unverified historical tokens
+- [Barlow Tyrie](./design-md/barlow-tyrie/DESIGN.md) — unverified historical tokens
+- [Baronfig](./design-md/baronfig/DESIGN.md) — unverified historical tokens
+- [Barton Watch Bands](./design-md/barton-watch-bands/DESIGN.md) — unverified historical tokens
+- [Baseus](./design-md/baseus/DESIGN.md) — unverified historical tokens
+- [Battle Beaver Customs](./design-md/battle-beaver-customs/DESIGN.md) — unverified historical tokens
+- [BaubleBar](./design-md/baublebar/DESIGN.md) — unverified historical tokens
+- [Bauman Rare Books](./design-md/bauman-rare-books/DESIGN.md) — unverified historical tokens
+- [BDI USA](./design-md/bdi-usa/DESIGN.md) — unverified historical tokens
+- [Be Quiet!](./design-md/be-quiet/DESIGN.md) — unverified historical tokens
+- [Beached](./design-md/beached/DESIGN.md) — unverified historical tokens
+- [Beacon Hill Books](./design-md/beacon-hill-books/DESIGN.md) — unverified historical tokens
+- [Beard & Blade](./design-md/beard-and-blade/DESIGN.md) — unverified historical tokens
+- [Beardbrand](./design-md/beardbrand/DESIGN.md) — unverified historical tokens
+- [Beast Health](./design-md/beast-health/DESIGN.md) — unverified historical tokens
+- [Beauty of Joseon](./design-md/beauty-of-joseon/DESIGN.md) — unverified historical tokens
+- [Because](./design-md/because/DESIGN.md) — unverified historical tokens
+- [Beckett](./design-md/beckett/DESIGN.md) — unverified historical tokens
+- [Beckett Simonon](./design-md/beckett-simonon/DESIGN.md) — unverified historical tokens
+- [Beekeeper's Naturals](./design-md/beekeeper-s-naturals/DESIGN.md) — unverified historical tokens
+- [BeginAgain](./design-md/beginagain/DESIGN.md) — unverified historical tokens
+- [Being Frenshe](./design-md/being-frenshe/DESIGN.md) — unverified historical tokens
+- [Believe Diapers](./design-md/believe-diapers/DESIGN.md) — unverified historical tokens
+- [Belkin](./design-md/belkin/DESIGN.md) — unverified historical tokens
+- [Bellroy](./design-md/bellroy/DESIGN.md) — unverified historical tokens
+- [Bellroy (Work)](./design-md/bellroy-work/DESIGN.md) — unverified historical tokens
+- [Bellzi](./design-md/bellzi/DESIGN.md) — unverified historical tokens
+- [Benchmark Scientific](./design-md/benchmark-scientific/DESIGN.md) — unverified historical tokens
+- [BenQ](./design-md/benq/DESIGN.md) — unverified historical tokens
+- [Bernd Goeckler](./design-md/bernd-goeckler/DESIGN.md) — unverified historical tokens
+- [Bernell Hydraulics](./design-md/bernell-hydraulics/DESIGN.md) — unverified historical tokens
+- [Bethesda Gear](./design-md/bethesda-gear/DESIGN.md) — unverified historical tokens
+- [Better Life](./design-md/better-life/DESIGN.md) — unverified historical tokens
+- [Better World Books](./design-md/better-world-books/DESIGN.md) — unverified historical tokens
+- [Betterway](./design-md/betterway/DESIGN.md) — unverified historical tokens
+- [Bevel](./design-md/bevel/DESIGN.md) — unverified historical tokens
+- [Bezier Games](./design-md/bezier-games/DESIGN.md) — unverified historical tokens
+- [BFI Shop](./design-md/bfi-shop/DESIGN.md) — unverified historical tokens
+- [Biblio](./design-md/biblio/DESIGN.md) — unverified historical tokens
+- [Big Agnes](./design-md/big-agnes/DESIGN.md) — unverified historical tokens
+- [Big Green Egg](./design-md/big-green-egg/DESIGN.md) — unverified historical tokens
+- [BigBadToyStore](./design-md/bigbadtoystore/DESIGN.md) — unverified historical tokens
+- [Bigjigs Toys](./design-md/bigjigs-toys/DESIGN.md) — unverified historical tokens
+- [Bigscreen Beyond](./design-md/bigscreen-beyond/DESIGN.md) — unverified historical tokens
+- [Billie](./design-md/billie/DESIGN.md) — unverified historical tokens
+- [Billy Reid](./design-md/billy-reid/DESIGN.md) — unverified historical tokens
+- [Bilt Guitars](./design-md/bilt-guitars/DESIGN.md) — unverified historical tokens
+- [Bio-Kleen](./design-md/bio-kleen/DESIGN.md) — unverified historical tokens
+- [Bio-Rad Laboratories](./design-md/bio-rad-laboratories/DESIGN.md) — unverified historical tokens
+- [Bio-Techne](./design-md/bio-techne/DESIGN.md) — unverified historical tokens
+- [BioLite](./design-md/biolite/DESIGN.md) — unverified historical tokens
+- [Bippy](./design-md/bippy/DESIGN.md) — unverified historical tokens
+- [Bird + Stone](./design-md/bird-stone/DESIGN.md) — unverified historical tokens
+- [Birmingham Pen Co.](./design-md/birmingham-pen-co/DESIGN.md) — unverified historical tokens
+- [Bisley](./design-md/bisley/DESIGN.md) — unverified historical tokens
+- [Bissell](./design-md/bissell/DESIGN.md) — unverified historical tokens
+- [Bite](./design-md/bite/DESIGN.md) — unverified historical tokens
+- [Black Crows](./design-md/black-crows/DESIGN.md) — unverified historical tokens
+- [Black Lapel](./design-md/black-lapel/DESIGN.md) — unverified historical tokens
+- [Blackstone](./design-md/blackstone/DESIGN.md) — unverified historical tokens
+- [Blackwing](./design-md/blackwing/DESIGN.md) — unverified historical tokens
+- [Blendtec](./design-md/blendtec/DESIGN.md) — unverified historical tokens
+- [Blizzard Gear](./design-md/blizzard-gear/DESIGN.md) — unverified historical tokens
+- [Blomberg](./design-md/blomberg/DESIGN.md) — unverified historical tokens
+- [Bloom Nutrition](./design-md/bloom-nutrition/DESIGN.md) — unverified historical tokens
+- [Bloomscape](./design-md/bloomscape/DESIGN.md) — unverified historical tokens
+- [Blowout Cards](./design-md/blowout-cards/DESIGN.md) — unverified historical tokens
+- [Blu Atlas](./design-md/blu-atlas/DESIGN.md) — unverified historical tokens
+- [Blue Kazoo](./design-md/blue-kazoo/DESIGN.md) — unverified historical tokens
+- [Blue Nile](./design-md/blue-nile/DESIGN.md) — unverified historical tokens
+- [Blue Note Shop](./design-md/blue-note-shop/DESIGN.md) — unverified historical tokens
+- [Blue Orange Games](./design-md/blue-orange-games/DESIGN.md) — unverified historical tokens
+- [Blue Underground](./design-md/blue-underground/DESIGN.md) — unverified historical tokens
+- [Blueair](./design-md/blueair/DESIGN.md) — unverified historical tokens
+- [Blueland](./design-md/blueland/DESIGN.md) — unverified historical tokens
+- [BlueRidge](./design-md/blueridge/DESIGN.md) — unverified historical tokens
+- [BlueStar](./design-md/bluestar/DESIGN.md) — unverified historical tokens
+- [Bluestockings](./design-md/bluestockings/DESIGN.md) — unverified historical tokens
+- [BodyGuardz](./design-md/bodyguardz/DESIGN.md) — unverified historical tokens
+- [Boiron](./design-md/boiron/DESIGN.md) — unverified historical tokens
+- [Boka](./design-md/boka/DESIGN.md) — unverified historical tokens
+- [Boll & Branch](./design-md/boll-and-branch/DESIGN.md) — unverified historical tokens
+- [BoltsandNuts.com](./design-md/boltsandnuts-com/DESIGN.md) — unverified historical tokens
+- [Bond Manufacturing](./design-md/bond-manufacturing/DESIGN.md) — unverified historical tokens
+- [Bonobos](./design-md/bonobos/DESIGN.md) — unverified historical tokens
+- [Book of the Month](./design-md/book-of-the-month/DESIGN.md) — unverified historical tokens
+- [BookOff USA](./design-md/bookoff-usa/DESIGN.md) — unverified historical tokens
+- [Books Are Magic](./design-md/books-are-magic/DESIGN.md) — unverified historical tokens
+- [Books of Wonder](./design-md/books-of-wonder/DESIGN.md) — unverified historical tokens
+- [Boomkat](./design-md/boomkat/DESIGN.md) — unverified historical tokens
+- [Boon](./design-md/boon/DESIGN.md) — unverified historical tokens
+- [Bosch](./design-md/bosch/DESIGN.md) — unverified historical tokens
+- [Boss Fight Studio](./design-md/boss-fight-studio/DESIGN.md) — unverified historical tokens
+- [Boulies](./design-md/boulies/DESIGN.md) — unverified historical tokens
+- [Brainfeeder](./design-md/brainfeeder/DESIGN.md) — unverified historical tokens
+- [Branch Basics](./design-md/branch-basics/DESIGN.md) — unverified historical tokens
+- [Branch Furniture](./design-md/branch-furniture/DESIGN.md) — unverified historical tokens
+- [Branch Furniture (Chairs)](./design-md/branch-furniture-chairs/DESIGN.md) — unverified historical tokens
+- [Brave Star](./design-md/brave-star/DESIGN.md) — unverified historical tokens
+- [Breeo](./design-md/breeo/DESIGN.md) — unverified historical tokens
+- [Breitling](./design-md/breitling/DESIGN.md) — unverified historical tokens
+- [Brent Neale](./design-md/brent-neale/DESIGN.md) — unverified historical tokens
+- [Breville](./design-md/breville/DESIGN.md) — unverified historical tokens
+- [Brew](./design-md/brew/DESIGN.md) — unverified historical tokens
+- [Bright Starts](./design-md/bright-starts/DESIGN.md) — unverified historical tokens
+- [Bright Stripes](./design-md/bright-stripes/DESIGN.md) — unverified historical tokens
+- [Brilliant Earth](./design-md/brilliant-earth/DESIGN.md) — unverified historical tokens
+- [Brine](./design-md/brine/DESIGN.md) — unverified historical tokens
+- [Briogeo](./design-md/briogeo/DESIGN.md) — unverified historical tokens
+- [Brita](./design-md/brita/DESIGN.md) — unverified historical tokens
+- [Bromic Heating](./design-md/bromic-heating/DESIGN.md) — unverified historical tokens
+- [Brooklinen](./design-md/brooklinen/DESIGN.md) — unverified historical tokens
+- [Brooks](./design-md/brooks/DESIGN.md) — unverified historical tokens
+- [Brown Jordan](./design-md/brown-jordan/DESIGN.md) — unverified historical tokens
+- [Bryan Anthonys](./design-md/bryan-anthonys/DESIGN.md) — unverified historical tokens
+- [Bubble](./design-md/bubble/DESIGN.md) — unverified historical tokens
+- [Buck Mason](./design-md/buck-mason/DESIGN.md) — unverified historical tokens
+- [Buffet Crampon](./design-md/buffet-crampon/DESIGN.md) — unverified historical tokens
+- [Buffy](./design-md/buffy/DESIGN.md) — unverified historical tokens
+- [Bull Moose](./design-md/bull-moose/DESIGN.md) — unverified historical tokens
+- [Bullard](./design-md/bullard/DESIGN.md) — unverified historical tokens
+- [Bullion Exchanges](./design-md/bullion-exchanges/DESIGN.md) — unverified historical tokens
+- [Bullstrap](./design-md/bullstrap/DESIGN.md) — unverified historical tokens
+- [Bulova](./design-md/bulova/DESIGN.md) — unverified historical tokens
+- [Burga](./design-md/burga/DESIGN.md) — unverified historical tokens
+- [Burgon & Ball](./design-md/burgon-and-ball/DESIGN.md) — unverified historical tokens
+- [Burn Shop](./design-md/burn-shop/DESIGN.md) — unverified historical tokens
+- [Burpee](./design-md/burpee/DESIGN.md) — unverified historical tokens
+- [Burrow](./design-md/burrow/DESIGN.md) — unverified historical tokens
+- [Burst Oral Care](./design-md/burst-oral-care/DESIGN.md) — unverified historical tokens
+- [BySimran](./design-md/bysimran/DESIGN.md) — unverified historical tokens
+- [Cabinet Health](./design-md/cabinet-health/DESIGN.md) — unverified historical tokens
+- [CableMatters](./design-md/cablematters/DESIGN.md) — unverified historical tokens
+- [Calcana](./design-md/calcana/DESIGN.md) — unverified historical tokens
+- [CalDigit](./design-md/caldigit/DESIGN.md) — unverified historical tokens
+- [California Baby](./design-md/california-baby/DESIGN.md) — unverified historical tokens
+- [Camp Chef](./design-md/camp-chef/DESIGN.md) — unverified historical tokens
+- [Campania International](./design-md/campania-international/DESIGN.md) — unverified historical tokens
+- [Cangshan](./design-md/cangshan/DESIGN.md) — unverified historical tokens
+- [CannonKeys](./design-md/cannonkeys/DESIGN.md) — unverified historical tokens
+- [Canopy](./design-md/canopy/DESIGN.md) — unverified historical tokens
+- [Canyon](./design-md/canyon/DESIGN.md) — unverified historical tokens
+- [Caraway](./design-md/caraway/DESIGN.md) — unverified historical tokens
+- [Carbide 3D](./design-md/carbide-3d/DESIGN.md) — unverified historical tokens
+- [Carbon & Hyde](./design-md/carbon-and-hyde/DESIGN.md) — unverified historical tokens
+- [Card Kingdom](./design-md/card-kingdom/DESIGN.md) — unverified historical tokens
+- [Cards Against Humanity](./design-md/cards-against-humanity/DESIGN.md) — unverified historical tokens
+- [Cardstock Warehouse](./design-md/cardstock-warehouse/DESIGN.md) — unverified historical tokens
+- [Care/of](./design-md/care-of/DESIGN.md) — unverified historical tokens
+- [Carewell](./design-md/carewell/DESIGN.md) — unverified historical tokens
+- [Cariuma](./design-md/cariuma/DESIGN.md) — unverified historical tokens
+- [Carlotta Films](./design-md/carlotta-films/DESIGN.md) — unverified historical tokens
+- [Carolina Biological Supply](./design-md/carolina-biological-supply/DESIGN.md) — unverified historical tokens
+- [Carved](./design-md/carved/DESIGN.md) — unverified historical tokens
+- [Case-Mate](./design-md/case-mate/DESIGN.md) — unverified historical tokens
+- [CASETiFY](./design-md/casetify/DESIGN.md) — unverified historical tokens
+- [Casio](./design-md/casio/DESIGN.md) — unverified historical tokens
+- [Casper](./design-md/casper/DESIGN.md) — unverified historical tokens
+- [Castle Ink](./design-md/castle-ink/DESIGN.md) — unverified historical tokens
+- [Catbird NYC](./design-md/catbird-nyc/DESIGN.md) — unverified historical tokens
+- [Caudabe](./design-md/caudabe/DESIGN.md) — unverified historical tokens
+- [Cauldron Films](./design-md/cauldron-films/DESIGN.md) — unverified historical tokens
+- [Cayl](./design-md/cayl/DESIGN.md) — unverified historical tokens
+- [CDJapan](./design-md/cdjapan/DESIGN.md) — unverified historical tokens
+- [Century Media](./design-md/century-media/DESIGN.md) — unverified historical tokens
+- [Cephalofair Games](./design-md/cephalofair-games/DESIGN.md) — unverified historical tokens
+- [CGE (Czech Games Edition)](./design-md/cge-czech-games-edition/DESIGN.md) — unverified historical tokens
+- [Champion Tool Storage](./design-md/champion-tool-storage/DESIGN.md) — unverified historical tokens
+- [Chaosium](./design-md/chaosium/DESIGN.md) — unverified historical tokens
+- [Chesky Records](./design-md/chesky-records/DESIGN.md) — unverified historical tokens
+- [Chicago Brick Oven](./design-md/chicago-brick-oven/DESIGN.md) — unverified historical tokens
+- [Chilewich](./design-md/chilewich/DESIGN.md) — unverified historical tokens
+- [Chirp](./design-md/chirp/DESIGN.md) — unverified historical tokens
+- [Christopher Ward](./design-md/christopher-ward/DESIGN.md) — unverified historical tokens
+- [Chubbies](./design-md/chubbies/DESIGN.md) — unverified historical tokens
+- [Ciele Athletics](./design-md/ciele-athletics/DESIGN.md) — unverified historical tokens
+- [Citizen](./design-md/citizen/DESIGN.md) — unverified historical tokens
+- [Citizen Vinyl](./design-md/citizen-vinyl/DESIGN.md) — unverified historical tokens
+- [City Lights](./design-md/city-lights/DESIGN.md) — unverified historical tokens
+- [Clae](./design-md/clae/DESIGN.md) — unverified historical tokens
+- [Clairefontaine](./design-md/clairefontaine/DESIGN.md) — unverified historical tokens
+- [Classic Game Source](./design-md/classic-game-source/DESIGN.md) — unverified historical tokens
+- [Clean Cult](./design-md/clean-cult/DESIGN.md) — unverified historical tokens
+- [Clean Origin](./design-md/clean-origin/DESIGN.md) — unverified historical tokens
+- [Click and Grow](./design-md/click-and-grow/DESIGN.md) — unverified historical tokens
+- [Clmbr](./design-md/clmbr/DESIGN.md) — unverified historical tokens
+- [Cloud Paper](./design-md/cloud-paper/DESIGN.md) — unverified historical tokens
+- [Cloudberries](./design-md/cloudberries/DESIGN.md) — unverified historical tokens
+- [CLX Gaming](./design-md/clx-gaming/DESIGN.md) — unverified historical tokens
+- [CMON](./design-md/cmon/DESIGN.md) — unverified historical tokens
+- [Cocokind](./design-md/cocokind/DESIGN.md) — unverified historical tokens
+- [Code&Quill](./design-md/code-and-quill/DESIGN.md) — unverified historical tokens
+- [Coffee House Press](./design-md/coffee-house-press/DESIGN.md) — unverified historical tokens
+- [Collector's Cache](./design-md/collector-s-cache/DESIGN.md) — unverified historical tokens
+- [Collectors Anime](./design-md/collectors-anime/DESIGN.md) — unverified historical tokens
+- [Colored Organics](./design-md/colored-organics/DESIGN.md) — unverified historical tokens
+- [Columbia University Press](./design-md/columbia-university-press/DESIGN.md) — unverified historical tokens
+- [Combat Relics](./design-md/combat-relics/DESIGN.md) — unverified historical tokens
+- [Commencal](./design-md/commencal/DESIGN.md) — unverified historical tokens
+- [Common Era](./design-md/common-era/DESIGN.md) — unverified historical tokens
+- [Common Projects](./design-md/common-projects/DESIGN.md) — unverified historical tokens
+- [Completedworks](./design-md/completedworks/DESIGN.md) — unverified historical tokens
+- [CoolStuffInc](./design-md/coolstuffinc/DESIGN.md) — unverified historical tokens
+- [Copper Canyon Press](./design-md/copper-canyon-press/DESIGN.md) — unverified historical tokens
+- [Cora](./design-md/cora/DESIGN.md) — unverified historical tokens
+- [Cordoba Music](./design-md/cordoba-music/DESIGN.md) — unverified historical tokens
+- [Core Meditation](./design-md/core-meditation/DESIGN.md) — unverified historical tokens
+- [Corkcicle](./design-md/corkcicle/DESIGN.md) — unverified historical tokens
+- [Corteiz](./design-md/corteiz/DESIGN.md) — unverified historical tokens
+- [Coterie](./design-md/coterie/DESIGN.md) — unverified historical tokens
+- [Cotopaxi](./design-md/cotopaxi/DESIGN.md) — unverified historical tokens
+- [Counter-Print](./design-md/counter-print/DESIGN.md) — unverified historical tokens
+- [Courant](./design-md/courant/DESIGN.md) — unverified historical tokens
+- [Cove](./design-md/cove/DESIGN.md) — unverified historical tokens
+- [Coway](./design-md/coway/DESIGN.md) — unverified historical tokens
+- [Cowboy](./design-md/cowboy/DESIGN.md) — unverified historical tokens
+- [Coyuchi](./design-md/coyuchi/DESIGN.md) — unverified historical tokens
+- [Cozy Earth](./design-md/cozy-earth/DESIGN.md) — unverified historical tokens
+- [Crane & Co.](./design-md/crane-and-co/DESIGN.md) — unverified historical tokens
+- [Crave Direct](./design-md/crave-direct/DESIGN.md) — unverified historical tokens
+- [Crayola](./design-md/crayola/DESIGN.md) — unverified historical tokens
+- [Creality](./design-md/creality/DESIGN.md) — unverified historical tokens
+- [Creativity for Kids](./design-md/creativity-for-kids/DESIGN.md) — unverified historical tokens
+- [Crescent Garden](./design-md/crescent-garden/DESIGN.md) — unverified historical tokens
+- [Crosley Radio](./design-md/crosley-radio/DESIGN.md) — unverified historical tokens
+- [Crown & Buckle](./design-md/crown-and-buckle/DESIGN.md) — unverified historical tokens
+- [Crucial](./design-md/crucial/DESIGN.md) — unverified historical tokens
+- [CrunchLabs](./design-md/crunchlabs/DESIGN.md) — unverified historical tokens
+- [Crunchyroll Store](./design-md/crunchyroll-store/DESIGN.md) — unverified historical tokens
+- [Cuisinart](./design-md/cuisinart/DESIGN.md) — unverified historical tokens
+- [Cult Epics](./design-md/cult-epics/DESIGN.md) — unverified historical tokens
+- [Cult Gaia](./design-md/cult-gaia/DESIGN.md) — unverified historical tokens
+- [CurrentBody](./design-md/currentbody/DESIGN.md) — unverified historical tokens
+- [Cuyana](./design-md/cuyana/DESIGN.md) — unverified historical tokens
+- [CyberPowerPC](./design-md/cyberpowerpc/DESIGN.md) — unverified historical tokens
+- [D'Addario](./design-md/d-addario/DESIGN.md) — unverified historical tokens
+- [DA Card World](./design-md/da-card-world/DESIGN.md) — unverified historical tokens
+- [Dacor](./design-md/dacor/DESIGN.md) — unverified historical tokens
+- [Daisy London](./design-md/daisy-london/DESIGN.md) — unverified historical tokens
+- [Danby](./design-md/danby/DESIGN.md) — unverified historical tokens
+- [Daniel Wellington](./design-md/daniel-wellington/DESIGN.md) — unverified historical tokens
+- [Danny's Vintage Watches](./design-md/danny-s-vintage-watches/DESIGN.md) — unverified historical tokens
+- [Daphine](./design-md/daphine/DESIGN.md) — unverified historical tokens
+- [Dark Delicacies](./design-md/dark-delicacies/DESIGN.md) — unverified historical tokens
+- [Dark Horse Direct](./design-md/dark-horse-direct/DESIGN.md) — unverified historical tokens
+- [Darrington Press](./design-md/darrington-press/DESIGN.md) — unverified historical tokens
+- [Dash & Albert](./design-md/dash-and-albert/DESIGN.md) — unverified historical tokens
+- [David Yurman](./design-md/david-yurman/DESIGN.md) — unverified historical tokens
+- [David Zwirner](./design-md/david-zwirner/DESIGN.md) — unverified historical tokens
+- [Davids](./design-md/davids/DESIGN.md) — unverified historical tokens
+- [Davies Office](./design-md/davies-office/DESIGN.md) — unverified historical tokens
+- [Day Designer](./design-md/day-designer/DESIGN.md) — unverified historical tokens
+- [dbrand](./design-md/dbrand/DESIGN.md) — unverified historical tokens
+- [DC Vintage Watches](./design-md/dc-vintage-watches/DESIGN.md) — unverified historical tokens
+- [DCBS](./design-md/dcbs/DESIGN.md) — unverified historical tokens
+- [Deaf Crocodile](./design-md/deaf-crocodile/DESIGN.md) — unverified historical tokens
+- [Deathwish Inc](./design-md/deathwish-inc/DESIGN.md) — unverified historical tokens
+- [Decent Espresso](./design-md/decent-espresso/DESIGN.md) — unverified historical tokens
+- [DedCool](./design-md/dedcool/DESIGN.md) — unverified historical tokens
+- [Dedon](./design-md/dedon/DESIGN.md) — unverified historical tokens
+- [DegreeArt](./design-md/degreeart/DESIGN.md) — unverified historical tokens
+- [Dekor Lighting](./design-md/dekor-lighting/DESIGN.md) — unverified historical tokens
+- [Dell](./design-md/dell/DESIGN.md) — unverified historical tokens
+- [Delta Kayaks](./design-md/delta-kayaks/DESIGN.md) — unverified historical tokens
+- [Denon DJ](./design-md/denon-dj/DESIGN.md) — unverified historical tokens
+- [Desenio](./design-md/desenio/DESIGN.md) — unverified historical tokens
+- [Design Toscano](./design-md/design-toscano/DESIGN.md) — unverified historical tokens
+- [Detroit City Sports](./design-md/detroit-city-sports/DESIGN.md) — unverified historical tokens
+- [Devolver Digital Store](./design-md/devolver-digital-store/DESIGN.md) — unverified historical tokens
+- [DiabolikDVD](./design-md/diabolikdvd/DESIGN.md) — unverified historical tokens
+- [Diaper Dabbler](./design-md/diaper-dabbler/DESIGN.md) — unverified historical tokens
+- [Dick Keiser](./design-md/dick-keiser/DESIGN.md) — unverified historical tokens
+- [Dieux](./design-md/dieux/DESIGN.md) — unverified historical tokens
+- [Digby & Iona](./design-md/digby-and-iona/DESIGN.md) — unverified historical tokens
+- [Digital Storm](./design-md/digital-storm/DESIGN.md) — unverified historical tokens
+- [Dimplex](./design-md/dimplex/DESIGN.md) — unverified historical tokens
+- [Dingbats*](./design-md/dingbats/DESIGN.md) — unverified historical tokens
+- [Dino-Lite](./design-md/dino-lite/DESIGN.md) — unverified historical tokens
+- [Diptyque](./design-md/diptyque/DESIGN.md) — unverified historical tokens
+- [Dirt Devil](./design-md/dirt-devil/DESIGN.md) — unverified historical tokens
+- [Dirty Labs](./design-md/dirty-labs/DESIGN.md) — unverified historical tokens
+- [Discotek Media](./design-md/discotek-media/DESIGN.md) — unverified historical tokens
+- [Dissh](./design-md/dissh/DESIGN.md) — unverified historical tokens
+- [District Vision](./design-md/district-vision/DESIGN.md) — unverified historical tokens
+- [DKOldies](./design-md/dkoldies/DESIGN.md) — unverified historical tokens
+- [Doen](./design-md/doen/DESIGN.md) — unverified historical tokens
+- [Dollar Shave Club](./design-md/dollar-shave-club/DESIGN.md) — unverified historical tokens
+- [Domino Mart](./design-md/domino-mart/DESIGN.md) — unverified historical tokens
+- [DoorStepInk](./design-md/doorstepink/DESIGN.md) — unverified historical tokens
+- [Dope Snow](./design-md/dope-snow/DESIGN.md) — unverified historical tokens
+- [Dossier](./design-md/dossier/DESIGN.md) — unverified historical tokens
+- [Dough](./design-md/dough/DESIGN.md) — unverified historical tokens
+- [Douglas](./design-md/douglas/DESIGN.md) — unverified historical tokens
+- [Downpour](./design-md/downpour/DESIGN.md) — unverified historical tokens
+- [Downtown Music Gallery](./design-md/downtown-music-gallery/DESIGN.md) — unverified historical tokens
+- [DR Strings](./design-md/dr-strings/DESIGN.md) — unverified historical tokens
+- [Dr. Dennis Gross](./design-md/dr-dennis-gross/DESIGN.md) — unverified historical tokens
+- [Dr. Strange Records](./design-md/dr-strange-records/DESIGN.md) — unverified historical tokens
+- [Dreame](./design-md/dreame/DESIGN.md) — unverified historical tokens
+- [Dreamfarm](./design-md/dreamfarm/DESIGN.md) — unverified historical tokens
+- [Drift Records](./design-md/drift-records/DESIGN.md) — unverified historical tokens
+- [Drop](./design-md/drop/DESIGN.md) — unverified historical tokens
+- [Dropps](./design-md/dropps/DESIGN.md) — unverified historical tokens
+- [Drunk Elephant](./design-md/drunk-elephant/DESIGN.md) — unverified historical tokens
+- [DrunkDeer](./design-md/drunkdeer/DESIGN.md) — unverified historical tokens
+- [DSPTCH](./design-md/dsptch/DESIGN.md) — unverified historical tokens
+- [Dubray Books](./design-md/dubray-books/DESIGN.md) — unverified historical tokens
+- [Duck Camp](./design-md/duck-camp/DESIGN.md) — unverified historical tokens
+- [Ducky](./design-md/ducky/DESIGN.md) — unverified historical tokens
+- [Duesenberg](./design-md/duesenberg/DESIGN.md) — unverified historical tokens
+- [Dungeons & Dragons](./design-md/dungeons-and-dragons/DESIGN.md) — unverified historical tokens
+- [Dunlop](./design-md/dunlop/DESIGN.md) — unverified historical tokens
+- [Durston Gear](./design-md/durston-gear/DESIGN.md) — unverified historical tokens
+- [Dusty Groove](./design-md/dusty-groove/DESIGN.md) — unverified historical tokens
+- [DVD Empire](./design-md/dvd-empire/DESIGN.md) — unverified historical tokens
+- [DXRacer](./design-md/dxracer/DESIGN.md) — unverified historical tokens
+- [DYNE](./design-md/dyne/DESIGN.md) — unverified historical tokens
+- [Dyper](./design-md/dyper/DESIGN.md) — unverified historical tokens
+- [Dyson](./design-md/dyson/DESIGN.md) — unverified historical tokens
+- [Earth Breeze](./design-md/earth-breeze/DESIGN.md) — unverified historical tokens
+- [Earth Mama](./design-md/earth-mama/DESIGN.md) — unverified historical tokens
+- [EarthStudies](./design-md/earthstudies/DESIGN.md) — unverified historical tokens
+- [East End Prints](./design-md/east-end-prints/DESIGN.md) — unverified historical tokens
+- [East Fork](./design-md/east-fork/DESIGN.md) — unverified historical tokens
+- [Eastman Strings](./design-md/eastman-strings/DESIGN.md) — unverified historical tokens
+- [Easy Street Records](./design-md/easy-street-records/DESIGN.md) — unverified historical tokens
+- [ECM](./design-md/ecm/DESIGN.md) — unverified historical tokens
+- [ECM Records](./design-md/ecm-records/DESIGN.md) — unverified historical tokens
+- [Eco by Naty](./design-md/eco-by-naty/DESIGN.md) — unverified historical tokens
+- [EcoEnclose](./design-md/ecoenclose/DESIGN.md) — unverified historical tokens
+- [Ecoriginals](./design-md/ecoriginals/DESIGN.md) — unverified historical tokens
+- [Ecos](./design-md/ecos/DESIGN.md) — unverified historical tokens
+- [Ecovacs](./design-md/ecovacs/DESIGN.md) — unverified historical tokens
+- [Eden Brothers](./design-md/eden-brothers/DESIGN.md) — unverified historical tokens
+- [Edge of Ember](./design-md/edge-of-ember/DESIGN.md) — unverified historical tokens
+- [Edison Pen Co.](./design-md/edison-pen-co/DESIGN.md) — unverified historical tokens
+- [Edmund Optics](./design-md/edmund-optics/DESIGN.md) — unverified historical tokens
+- [Educational Insights](./design-md/educational-insights/DESIGN.md) — unverified historical tokens
+- [Eero](./design-md/eero/DESIGN.md) — unverified historical tokens
+- [Egg Press](./design-md/egg-press/DESIGN.md) — unverified historical tokens
+- [Eggtronic](./design-md/eggtronic/DESIGN.md) — unverified historical tokens
+- [Ego Power Plus](./design-md/ego-power-plus/DESIGN.md) — unverified historical tokens
+- [Einova](./design-md/einova/DESIGN.md) — unverified historical tokens
+- [Electric & Rose](./design-md/electric-and-rose/DESIGN.md) — unverified historical tokens
+- [Electric Picks](./design-md/electric-picks/DESIGN.md) — unverified historical tokens
+- [Electrolux](./design-md/electrolux/DESIGN.md) — unverified historical tokens
+- [Elegoo](./design-md/elegoo/DESIGN.md) — unverified historical tokens
+- [Element Case](./design-md/element-case/DESIGN.md) — unverified historical tokens
+- [Elenco](./design-md/elenco/DESIGN.md) — unverified historical tokens
+- [Elfa](./design-md/elfa/DESIGN.md) — unverified historical tokens
+- [Elgato](./design-md/elgato/DESIGN.md) — unverified historical tokens
+- [Elixir Strings](./design-md/elixir-strings/DESIGN.md) — unverified historical tokens
+- [Elusive Disc](./design-md/elusive-disc/DESIGN.md) — unverified historical tokens
+- [Emeril Lagasse](./design-md/emeril-lagasse/DESIGN.md) — unverified historical tokens
+- [En Route](./design-md/en-route/DESIGN.md) — unverified historical tokens
+- [End of an Ear](./design-md/end-of-an-ear/DESIGN.md) — unverified historical tokens
+- [Endgame Gear](./design-md/endgame-gear/DESIGN.md) — unverified historical tokens
+- [Enlightened Equipment](./design-md/enlightened-equipment/DESIGN.md) — unverified historical tokens
+- [Entertainment Earth](./design-md/entertainment-earth/DESIGN.md) — unverified historical tokens
+- [Enviro Safety Products](./design-md/enviro-safety-products/DESIGN.md) — unverified historical tokens
+- [Epilog Laser](./design-md/epilog-laser/DESIGN.md) — unverified historical tokens
+- [Epomaker](./design-md/epomaker/DESIGN.md) — unverified historical tokens
+- [Eppendorf](./design-md/eppendorf/DESIGN.md) — unverified historical tokens
+- [Ergatta](./design-md/ergatta/DESIGN.md) — unverified historical tokens
+- [Ergo Direct](./design-md/ergo-direct/DESIGN.md) — unverified historical tokens
+- [Ergohuman](./design-md/ergohuman/DESIGN.md) — unverified historical tokens
+- [Erie Basin](./design-md/erie-basin/DESIGN.md) — unverified historical tokens
+- [Erin Condren](./design-md/erin-condren/DESIGN.md) — unverified historical tokens
+- [Ernesta](./design-md/ernesta/DESIGN.md) — unverified historical tokens
+- [Ernie Ball](./design-md/ernie-ball/DESIGN.md) — unverified historical tokens
+- [Esker Beauty](./design-md/esker-beauty/DESIGN.md) — unverified historical tokens
+- [eStarland](./design-md/estarland/DESIGN.md) — unverified historical tokens
+- [Ettitude](./design-md/ettitude/DESIGN.md) — unverified historical tokens
+- [Euclid Records](./design-md/euclid-records/DESIGN.md) — unverified historical tokens
+- [Eufy](./design-md/eufy/DESIGN.md) — unverified historical tokens
+- [Eureka](./design-md/eureka/DESIGN.md) — unverified historical tokens
+- [Eureka Entertainment](./design-md/eureka-entertainment/DESIGN.md) — unverified historical tokens
+- [Eureka Ergonomic](./design-md/eureka-ergonomic/DESIGN.md) — unverified historical tokens
+- [Europa Editions](./design-md/europa-editions/DESIGN.md) — unverified historical tokens
+- [Evereden](./design-md/evereden/DESIGN.md) — unverified historical tokens
+- [Everlane](./design-md/everlane/DESIGN.md) — unverified historical tokens
+- [Everyday Music](./design-md/everyday-music/DESIGN.md) — unverified historical tokens
+- [Evil Bikes](./design-md/evil-bikes/DESIGN.md) — unverified historical tokens
+- [Evolv](./design-md/evolv/DESIGN.md) — unverified historical tokens
+- [Exploding Kittens](./design-md/exploding-kittens/DESIGN.md) — unverified historical tokens
+- [Extech Instruments](./design-md/extech-instruments/DESIGN.md) — unverified historical tokens
+- [Eyestorm](./design-md/eyestorm/DESIGN.md) — unverified historical tokens
+- [ezpz](./design-md/ezpz/DESIGN.md) — unverified historical tokens
+- [Faber-Castell](./design-md/faber-castell/DESIGN.md) — unverified historical tokens
+- [Fable](./design-md/fable/DESIGN.md) — unverified historical tokens
+- [Fabletics](./design-md/fabletics/DESIGN.md) — unverified historical tokens
+- [FairyLoot](./design-md/fairyloot/DESIGN.md) — unverified historical tokens
+- [Fairytales Bookstore](./design-md/fairytales-bookstore/DESIGN.md) — unverified historical tokens
+- [Falcon Northwest](./design-md/falcon-northwest/DESIGN.md) — unverified historical tokens
+- [Fanatics Authentic](./design-md/fanatics-authentic/DESIGN.md) — unverified historical tokens
+- [Fangamer](./design-md/fangamer/DESIGN.md) — unverified historical tokens
+- [Far Bank](./design-md/far-bank/DESIGN.md) — unverified historical tokens
+- [Farberware](./design-md/farberware/DESIGN.md) — unverified historical tokens
+- [Farer](./design-md/farer/DESIGN.md) — unverified historical tokens
+- [Farm Rio](./design-md/farm-rio/DESIGN.md) — unverified historical tokens
+- [Fastenal](./design-md/fastenal/DESIGN.md) — unverified historical tokens
+- [Fastener SuperStore](./design-md/fastener-superstore/DESIGN.md) — unverified historical tokens
+- [Fasteners Direct](./design-md/fasteners-direct/DESIGN.md) — unverified historical tokens
+- [Fat Beats](./design-md/fat-beats/DESIGN.md) — unverified historical tokens
+- [Fat Brain Toys](./design-md/fat-brain-toys/DESIGN.md) — unverified historical tokens
+- [Fatboy](./design-md/fatboy/DESIGN.md) — unverified historical tokens
+- [Faulkner House Books](./design-md/faulkner-house-books/DESIGN.md) — unverified historical tokens
+- [Fear of God](./design-md/fear-of-god/DESIGN.md) — unverified historical tokens
+- [Felco](./design-md/felco/DESIGN.md) — unverified historical tokens
+- [Fellow](./design-md/fellow/DESIGN.md) — unverified historical tokens
+- [Fellowes](./design-md/fellowes/DESIGN.md) — unverified historical tokens
+- [Fenty Beauty](./design-md/fenty-beauty/DESIGN.md) — unverified historical tokens
+- [Ferkos Fine Jewelry](./design-md/ferkos-fine-jewelry/DESIGN.md) — unverified historical tokens
+- [Ffern](./design-md/ffern/DESIGN.md) — unverified historical tokens
+- [Fiddlershop](./design-md/fiddlershop/DESIGN.md) — unverified historical tokens
+- [Field Company](./design-md/field-company/DESIGN.md) — unverified historical tokens
+- [Field Notes](./design-md/field-notes/DESIGN.md) — unverified historical tokens
+- [Filco](./design-md/filco/DESIGN.md) — unverified historical tokens
+- [Film Movement](./design-md/film-movement/DESIGN.md) — unverified historical tokens
+- [Finalmouse](./design-md/finalmouse/DESIGN.md) — unverified historical tokens
+- [Finex](./design-md/finex/DESIGN.md) — unverified historical tokens
+- [Fingerprints Music](./design-md/fingerprints-music/DESIGN.md) — unverified historical tokens
+- [Finisterre](./design-md/finisterre/DESIGN.md) — unverified historical tokens
+- [Fireball Printing](./design-md/fireball-printing/DESIGN.md) — unverified historical tokens
+- [First 4 Figures](./design-md/first-4-figures/DESIGN.md) — unverified historical tokens
+- [First Lite](./design-md/first-lite/DESIGN.md) — unverified historical tokens
+- [Fisher & Paykel](./design-md/fisher-and-paykel/DESIGN.md) — unverified historical tokens
+- [Fisher Scientific](./design-md/fisher-scientific/DESIGN.md) — unverified historical tokens
+- [Fiskars](./design-md/fiskars/DESIGN.md) — unverified historical tokens
+- [Five Ten](./design-md/five-ten/DESIGN.md) — unverified historical tokens
+- [Flamingo](./design-md/flamingo/DESIGN.md) — unverified historical tokens
+- [Flamingo Estate](./design-md/flamingo-estate/DESIGN.md) — unverified historical tokens
+- [Flaus](./design-md/flaus/DESIGN.md) — unverified historical tokens
+- [Flewd](./design-md/flewd/DESIGN.md) — unverified historical tokens
+- [FlexiSpot](./design-md/flexispot/DESIGN.md) — unverified historical tokens
+- [Flicker Alley](./design-md/flicker-alley/DESIGN.md) — unverified historical tokens
+- [FLIR Systems (Teledyne FLIR)](./design-md/flir-systems-teledyne-flir/DESIGN.md) — unverified historical tokens
+- [Floodgate Games](./design-md/floodgate-games/DESIGN.md) — unverified historical tokens
+- [Flotec](./design-md/flotec/DESIGN.md) — unverified historical tokens
+- [Floyd](./design-md/floyd/DESIGN.md) — unverified historical tokens
+- [Fluance](./design-md/fluance/DESIGN.md) — unverified historical tokens
+- [Fluke Corporation](./design-md/fluke-corporation/DESIGN.md) — unverified historical tokens
+- [Flylow Gear](./design-md/flylow-gear/DESIGN.md) — unverified historical tokens
+- [Focal](./design-md/focal/DESIGN.md) — unverified historical tokens
+- [Fontana Forni](./design-md/fontana-forni/DESIGN.md) — unverified historical tokens
+- [Foreo](./design-md/foreo/DESIGN.md) — unverified historical tokens
+- [Foria](./design-md/foria/DESIGN.md) — unverified historical tokens
+- [Formaspace](./design-md/formaspace/DESIGN.md) — unverified historical tokens
+- [Formlabs](./design-md/formlabs/DESIGN.md) — unverified historical tokens
+- [Forno Venetzia](./design-md/forno-venetzia/DESIGN.md) — unverified historical tokens
+- [Fossil](./design-md/fossil/DESIGN.md) — unverified historical tokens
+- [Foundrae](./design-md/foundrae/DESIGN.md) — unverified historical tokens
+- [Four Horsemen Studios](./design-md/four-horsemen-studios/DESIGN.md) — unverified historical tokens
+- [Four Sigmatic](./design-md/four-sigmatic/DESIGN.md) — unverified historical tokens
+- [Fractal Design](./design-md/fractal-design/DESIGN.md) — unverified historical tokens
+- [Frame It All](./design-md/frame-it-all/DESIGN.md) — unverified historical tokens
+- [Framework](./design-md/framework/DESIGN.md) — unverified historical tokens
+- [Frank Darling](./design-md/frank-darling/DESIGN.md) — unverified historical tokens
+- [Freda Salvador](./design-md/freda-salvador/DESIGN.md) — unverified historical tokens
+- [Free Fly](./design-md/free-fly/DESIGN.md) — unverified historical tokens
+- [Free League Publishing](./design-md/free-league-publishing/DESIGN.md) — unverified historical tokens
+- [Freestyle](./design-md/freestyle/DESIGN.md) — unverified historical tokens
+- [French Paper Co.](./design-md/french-paper-co/DESIGN.md) — unverified historical tokens
+- [Frey](./design-md/frey/DESIGN.md) — unverified historical tokens
+- [Frigidaire](./design-md/frigidaire/DESIGN.md) — unverified historical tokens
+- [Fulgor Milano](./design-md/fulgor-milano/DESIGN.md) — unverified historical tokens
+- [Full Focus](./design-md/full-focus/DESIGN.md) — unverified historical tokens
+- [Full Moon Direct](./design-md/full-moon-direct/DESIGN.md) — unverified historical tokens
+- [Fully (MillerKnoll)](./design-md/fully-millerknoll/DESIGN.md) — unverified historical tokens
+- [Function of Beauty](./design-md/function-of-beauty/DESIGN.md) — unverified historical tokens
+- [Function101](./design-md/function101/DESIGN.md) — unverified historical tokens
+- [Funko](./design-md/funko/DESIGN.md) — unverified historical tokens
+- [Fur](./design-md/fur/DESIGN.md) — unverified historical tokens
+- [Furnace Record Pressing](./design-md/furnace-record-pressing/DESIGN.md) — unverified historical tokens
+- [Furnish Me Vintage](./design-md/furnish-me-vintage/DESIGN.md) — unverified historical tokens
+- [Fuse Chicken](./design-md/fuse-chicken/DESIGN.md) — unverified historical tokens
+- [FX Luminaire](./design-md/fx-luminaire/DESIGN.md) — unverified historical tokens
+- [Fy!](./design-md/fy/DESIGN.md) — unverified historical tokens
+- [G-Wolves](./design-md/g-wolves/DESIGN.md) — unverified historical tokens
+- [Gadget Guard](./design-md/gadget-guard/DESIGN.md) — unverified historical tokens
+- [Gaggia](./design-md/gaggia/DESIGN.md) — unverified historical tokens
+- [Gagosian](./design-md/gagosian/DESIGN.md) — unverified historical tokens
+- [Galco Industrial Electronics](./design-md/galco-industrial-electronics/DESIGN.md) — unverified historical tokens
+- [Galen Leather](./design-md/galen-leather/DESIGN.md) — unverified historical tokens
+- [Game Over Video Games](./design-md/game-over-video-games/DESIGN.md) — unverified historical tokens
+- [Gamewright](./design-md/gamewright/DESIGN.md) — unverified historical tokens
+- [Ganni](./design-md/ganni/DESIGN.md) — unverified historical tokens
+- [Gaomon](./design-md/gaomon/DESIGN.md) — unverified historical tokens
+- [Garden Light LED](./design-md/garden-light-led/DESIGN.md) — unverified historical tokens
+- [Gardyn](./design-md/gardyn/DESIGN.md) — unverified historical tokens
+- [Garmin](./design-md/garmin/DESIGN.md) — unverified historical tokens
+- [GE](./design-md/ge/DESIGN.md) — unverified historical tokens
+- [Genelec](./design-md/genelec/DESIGN.md) — unverified historical tokens
+- [Generation Records](./design-md/generation-records/DESIGN.md) — unverified historical tokens
+- [Genesee Scientific](./design-md/genesee-scientific/DESIGN.md) — unverified historical tokens
+- [Genexa](./design-md/genexa/DESIGN.md) — unverified historical tokens
+- [Genki Buy](./design-md/genki-buy/DESIGN.md) — unverified historical tokens
+- [GenScript](./design-md/genscript/DESIGN.md) — unverified historical tokens
+- [Geologie](./design-md/geologie/DESIGN.md) — unverified historical tokens
+- [Get On Down](./design-md/get-on-down/DESIGN.md) — unverified historical tokens
+- [Ghent](./design-md/ghent/DESIGN.md) — unverified historical tokens
+- [Ghost Lifestyle](./design-md/ghost-lifestyle/DESIGN.md) — unverified historical tokens
+- [Ghostly International](./design-md/ghostly-international/DESIGN.md) — unverified historical tokens
+- [GHS Strings](./design-md/ghs-strings/DESIGN.md) — unverified historical tokens
+- [Gibson](./design-md/gibson/DESIGN.md) — unverified historical tokens
+- [GIR](./design-md/gir/DESIGN.md) — unverified historical tokens
+- [Gkids Shop](./design-md/gkids-shop/DESIGN.md) — unverified historical tokens
+- [Gladstone Gallery](./design-md/gladstone-gallery/DESIGN.md) — unverified historical tokens
+- [GLDN](./design-md/gldn/DESIGN.md) — unverified historical tokens
+- [Global Industrial](./design-md/global-industrial/DESIGN.md) — unverified historical tokens
+- [Glorious](./design-md/glorious/DESIGN.md) — unverified historical tokens
+- [Glossier](./design-md/glossier/DESIGN.md) — unverified historical tokens
+- [Gloster](./design-md/gloster/DESIGN.md) — unverified historical tokens
+- [Glow Recipe](./design-md/glow-recipe/DESIGN.md) — unverified historical tokens
+- [Glowforge](./design-md/glowforge/DESIGN.md) — unverified historical tokens
+- [Gnome](./design-md/gnome/DESIGN.md) — unverified historical tokens
+- [Go-To-PAC](./design-md/go-to-pac/DESIGN.md) — unverified historical tokens
+- [Goal Zero](./design-md/goal-zero/DESIGN.md) — unverified historical tokens
+- [Gold Rush Vinyl](./design-md/gold-rush-vinyl/DESIGN.md) — unverified historical tokens
+- [Golden Coil](./design-md/golden-coil/DESIGN.md) — unverified historical tokens
+- [GoldieBlox](./design-md/goldieblox/DESIGN.md) — unverified historical tokens
+- [Goldilocks](./design-md/goldilocks/DESIGN.md) — unverified historical tokens
+- [Goliath Games](./design-md/goliath-games/DESIGN.md) — unverified historical tokens
+- [Goner Records](./design-md/goner-records/DESIGN.md) — unverified historical tokens
+- [Good Smile Company](./design-md/good-smile-company/DESIGN.md) — unverified historical tokens
+- [Good Smile Company](./design-md/good-smile-company-collecti-2/DESIGN.md) — unverified historical tokens
+- [Gorjana](./design-md/gorjana/DESIGN.md) — unverified historical tokens
+- [Gossamer Gear](./design-md/gossamer-gear/DESIGN.md) — unverified historical tokens
+- [Gothic Arch](./design-md/gothic-arch/DESIGN.md) — unverified historical tokens
+- [GotPrint](./design-md/gotprint/DESIGN.md) — unverified historical tokens
+- [Gotta Groove Records](./design-md/gotta-groove-records/DESIGN.md) — unverified historical tokens
+- [Goumi Kids](./design-md/goumi-kids/DESIGN.md) — unverified historical tokens
+- [GovMint](./design-md/govmint/DESIGN.md) — unverified historical tokens
+- [Gozney](./design-md/gozney/DESIGN.md) — unverified historical tokens
+- [Grab Green](./design-md/grab-green/DESIGN.md) — unverified historical tokens
+- [Grainger](./design-md/grainger/DESIGN.md) — unverified historical tokens
+- [Grand Seiko](./design-md/grand-seiko/DESIGN.md) — unverified historical tokens
+- [Grasshopper Film](./design-md/grasshopper-film/DESIGN.md) — unverified historical tokens
+- [Graywolf Press](./design-md/graywolf-press/DESIGN.md) — unverified historical tokens
+- [Great Jones](./design-md/great-jones/DESIGN.md) — unverified historical tokens
+- [Greats](./design-md/greats/DESIGN.md) — unverified historical tokens
+- [Greenhouse Megastore](./design-md/greenhouse-megastore/DESIGN.md) — unverified historical tokens
+- [Greenwich Letterpress](./design-md/greenwich-letterpress/DESIGN.md) — unverified historical tokens
+- [Greenworks](./design-md/greenworks/DESIGN.md) — unverified historical tokens
+- [Grimey's New & Loved Music](./design-md/grimey-s-new-and-loved-music/DESIGN.md) — unverified historical tokens
+- [Grimm's](./design-md/grimm-s/DESIGN.md) — unverified historical tokens
+- [Grindhouse Releasing](./design-md/grindhouse-releasing/DESIGN.md) — unverified historical tokens
+- [Grindhouse Video](./design-md/grindhouse-video/DESIGN.md) — unverified historical tokens
+- [Grolier Poetry Book Shop](./design-md/grolier-poetry-book-shop/DESIGN.md) — unverified historical tokens
+- [Groovy Lab in a Box](./design-md/groovy-lab-in-a-box/DESIGN.md) — unverified historical tokens
+- [Grove Collaborative](./design-md/grove-collaborative/DESIGN.md) — unverified historical tokens
+- [Grovemade](./design-md/grovemade/DESIGN.md) — unverified historical tokens
+- [Grundens](./design-md/grundens/DESIGN.md) — unverified historical tokens
+- [Gruv](./design-md/gruv/DESIGN.md) — unverified historical tokens
+- [GT Omega](./design-md/gt-omega/DESIGN.md) — unverified historical tokens
+- [Guidecraft](./design-md/guidecraft/DESIGN.md) — unverified historical tokens
+- [GUND](./design-md/gund/DESIGN.md) — unverified historical tokens
+- [Gymshark](./design-md/gymshark/DESIGN.md) — unverified historical tokens
+- [Haand](./design-md/haand/DESIGN.md) — unverified historical tokens
+- [Haba](./design-md/haba/DESIGN.md) — unverified historical tokens
+- [HAG (Flokk)](./design-md/hag-flokk/DESIGN.md) — unverified historical tokens
+- [Halios](./design-md/halios/DESIGN.md) — unverified historical tokens
+- [Hallman](./design-md/hallman/DESIGN.md) — unverified historical tokens
+- [Hamilton Beach](./design-md/hamilton-beach/DESIGN.md) — unverified historical tokens
+- [Hamilton Book](./design-md/hamilton-book/DESIGN.md) — unverified historical tokens
+- [Hape](./design-md/hape/DESIGN.md) — unverified historical tokens
+- [Happy Little Camper](./design-md/happy-little-camper/DESIGN.md) — unverified historical tokens
+- [Harber London](./design-md/harber-london/DESIGN.md) — unverified historical tokens
+- [Hardgraft](./design-md/hardgraft/DESIGN.md) — unverified historical tokens
+- [Harlem Candle Company](./design-md/harlem-candle-company/DESIGN.md) — unverified historical tokens
+- [Harry's](./design-md/harry-s/DESIGN.md) — unverified historical tokens
+- [Harvard University Press](./design-md/harvard-university-press/DESIGN.md) — unverified historical tokens
+- [Hauser & Wirth](./design-md/hauser-and-wirth/DESIGN.md) — unverified historical tokens
+- [Haworth](./design-md/haworth/DESIGN.md) — unverified historical tokens
+- [Hay](./design-md/hay/DESIGN.md) — unverified historical tokens
+- [Healthy Nest](./design-md/healthy-nest/DESIGN.md) — unverified historical tokens
+- [HearthSong](./design-md/hearthsong/DESIGN.md) — unverified historical tokens
+- [Heartwood](./design-md/heartwood/DESIGN.md) — unverified historical tokens
+- [Heath Ceramics](./design-md/heath-ceramics/DESIGN.md) — unverified historical tokens
+- [Hedley & Bennett](./design-md/hedley-and-bennett/DESIGN.md) — unverified historical tokens
+- [Helix Sleep](./design-md/helix-sleep/DESIGN.md) — unverified historical tokens
+- [Hello Bello](./design-md/hello-bello/DESIGN.md) — unverified historical tokens
+- [Helm Boots](./design-md/helm-boots/DESIGN.md) — unverified historical tokens
+- [Hennessey + Ingalls](./design-md/hennessey-ingalls/DESIGN.md) — unverified historical tokens
+- [Hercules DJ](./design-md/hercules-dj/DESIGN.md) — unverified historical tokens
+- [Heretic Parfum](./design-md/heretic-parfum/DESIGN.md) — unverified historical tokens
+- [Heritage Guitars](./design-md/heritage-guitars/DESIGN.md) — unverified historical tokens
+- [Herman Miller](./design-md/herman-miller/DESIGN.md) — unverified historical tokens
+- [Herman Miller (Chairs)](./design-md/herman-miller-chairs/DESIGN.md) — unverified historical tokens
+- [Herman Miller Gaming](./design-md/herman-miller-gaming/DESIGN.md) — unverified historical tokens
+- [Hero Cosmetics](./design-md/hero-cosmetics/DESIGN.md) — unverified historical tokens
+- [Heron](./design-md/heron/DESIGN.md) — unverified historical tokens
+- [Hers](./design-md/hers/DESIGN.md) — unverified historical tokens
+- [Hestan](./design-md/hestan/DESIGN.md) — unverified historical tokens
+- [Hestan](./design-md/hestan-ranges-c-2/DESIGN.md) — unverified historical tokens
+- [Hestan](./design-md/hestan-grills-b-2/DESIGN.md) — unverified historical tokens
+- [Hexclad](./design-md/hexclad/DESIGN.md) — unverified historical tokens
+- [Hey Maeve](./design-md/hey-maeve/DESIGN.md) — unverified historical tokens
+- [HHKB](./design-md/hhkb/DESIGN.md) — unverified historical tokens
+- [Hidden Gems Card Shop](./design-md/hidden-gems-card-shop/DESIGN.md) — unverified historical tokens
+- [HigherDOSE](./design-md/higherdose/DESIGN.md) — unverified historical tokens
+- [Hill House Home](./design-md/hill-house-home/DESIGN.md) — unverified historical tokens
+- [Hilma](./design-md/hilma/DESIGN.md) — unverified historical tokens
+- [Hims](./design-md/hims/DESIGN.md) — unverified historical tokens
+- [Hinkley](./design-md/hinkley/DESIGN.md) — unverified historical tokens
+- [Hioki](./design-md/hioki/DESIGN.md) — unverified historical tokens
+- [Hiroshi Kato](./design-md/hiroshi-kato/DESIGN.md) — unverified historical tokens
+- [Hisense](./design-md/hisense/DESIGN.md) — unverified historical tokens
+- [Hismile](./design-md/hismile/DESIGN.md) — unverified historical tokens
+- [HMV Japan](./design-md/hmv-japan/DESIGN.md) — unverified historical tokens
+- [Hobby Link Japan](./design-md/hobby-link-japan/DESIGN.md) — unverified historical tokens
+- [HobbySearch](./design-md/hobbysearch/DESIGN.md) — unverified historical tokens
+- [Hofner](./design-md/hofner/DESIGN.md) — unverified historical tokens
+- [Holden](./design-md/holden/DESIGN.md) — unverified historical tokens
+- [Holdit](./design-md/holdit/DESIGN.md) — unverified historical tokens
+- [Holgate Toys](./design-md/holgate-toys/DESIGN.md) — unverified historical tokens
+- [Home Science Tools](./design-md/home-science-tools/DESIGN.md) — unverified historical tokens
+- [Honest](./design-md/honest/DESIGN.md) — unverified historical tokens
+- [Honest Jon's](./design-md/honest-jon-s/DESIGN.md) — unverified historical tokens
+- [Honey-Can-Do](./design-md/honey-can-do/DESIGN.md) — unverified historical tokens
+- [Hoover](./design-md/hoover/DESIGN.md) — unverified historical tokens
+- [Hot Spring Spas](./design-md/hot-spring-spas/DESIGN.md) — unverified historical tokens
+- [HP](./design-md/hp/DESIGN.md) — unverified historical tokens
+- [HTC Vive](./design-md/htc-vive/DESIGN.md) — unverified historical tokens
+- [Huda Beauty](./design-md/huda-beauty/DESIGN.md) — unverified historical tokens
+- [Huion](./design-md/huion/DESIGN.md) — unverified historical tokens
+- [Huk Gear](./design-md/huk-gear/DESIGN.md) — unverified historical tokens
+- [Hum Nutrition](./design-md/hum-nutrition/DESIGN.md) — unverified historical tokens
+- [Humanscale (Arms)](./design-md/humanscale-arms/DESIGN.md) — unverified historical tokens
+- [Humanscale (Chairs)](./design-md/humanscale-chairs/DESIGN.md) — unverified historical tokens
+- [Hume Band](./design-md/hume-band/DESIGN.md) — unverified historical tokens
+- [Hurom](./design-md/hurom/DESIGN.md) — unverified historical tokens
+- [Husqvarna](./design-md/husqvarna/DESIGN.md) — unverified historical tokens
+- [HVACDirect](./design-md/hvacdirect/DESIGN.md) — unverified historical tokens
+- [Hydraulic Supply Co](./design-md/hydraulic-supply-co/DESIGN.md) — unverified historical tokens
+- [Hydro Flask](./design-md/hydro-flask/DESIGN.md) — unverified historical tokens
+- [Hydrow](./design-md/hydrow/DESIGN.md) — unverified historical tokens
+- [Hyperdub](./design-md/hyperdub/DESIGN.md) — unverified historical tokens
+- [Hyperlite Mountain Gear](./design-md/hyperlite-mountain-gear/DESIGN.md) — unverified historical tokens
+- [HyperShop](./design-md/hypershop/DESIGN.md) — unverified historical tokens
+- [HyperX](./design-md/hyperx/DESIGN.md) — unverified historical tokens
+- [i-Blason](./design-md/i-blason/DESIGN.md) — unverified historical tokens
+- [iam8bit](./design-md/iam8bit/DESIGN.md) — unverified historical tokens
+- [Ibanez](./design-md/ibanez/DESIGN.md) — unverified historical tokens
+- [iBUYPOWER](./design-md/ibuypower/DESIGN.md) — unverified historical tokens
+- [iCarez](./design-md/icarez/DESIGN.md) — unverified historical tokens
+- [Ideal of Sweden](./design-md/ideal-of-sweden/DESIGN.md) — unverified historical tokens
+- [iDesign](./design-md/idesign/DESIGN.md) — unverified historical tokens
+- [IDT (Integrated DNA Technologies)](./design-md/idt-integrated-dna-technologies/DESIGN.md) — unverified historical tokens
+- [IELLO](./design-md/iello/DESIGN.md) — unverified historical tokens
+- [Igloo Coolers](./design-md/igloo-coolers/DESIGN.md) — unverified historical tokens
+- [Il Makiage](./design-md/il-makiage/DESIGN.md) — unverified historical tokens
+- [Ilia Beauty](./design-md/ilia-beauty/DESIGN.md) — unverified historical tokens
+- [Illumicrate](./design-md/illumicrate/DESIGN.md) — unverified historical tokens
+- [Ilve](./design-md/ilve/DESIGN.md) — unverified historical tokens
+- [ImportCDs](./design-md/importcds/DESIGN.md) — unverified historical tokens
+- [Incase](./design-md/incase/DESIGN.md) — unverified historical tokens
+- [Indochino](./design-md/indochino/DESIGN.md) — unverified historical tokens
+- [Industrial Safety](./design-md/industrial-safety/DESIGN.md) — unverified historical tokens
+- [Industrial Safety Gear](./design-md/industrial-safety-gear/DESIGN.md) — unverified historical tokens
+- [Infantino](./design-md/infantino/DESIGN.md) — unverified historical tokens
+- [InfinaCore](./design-md/infinacore/DESIGN.md) — unverified historical tokens
+- [Infratech](./design-md/infratech/DESIGN.md) — unverified historical tokens
+- [Ink4Less](./design-md/ink4less/DESIGN.md) — unverified historical tokens
+- [Inkjets.com](./design-md/inkjets-com/DESIGN.md) — unverified historical tokens
+- [Inkwell Press](./design-md/inkwell-press/DESIGN.md) — unverified historical tokens
+- [Innersloth Shop](./design-md/innersloth-shop/DESIGN.md) — unverified historical tokens
+- [Inside Weather](./design-md/inside-weather/DESIGN.md) — unverified historical tokens
+- [Insta360](./design-md/insta360/DESIGN.md) — unverified historical tokens
+- [Instant Pot](./design-md/instant-pot/DESIGN.md) — unverified historical tokens
+- [InStockTrades](./design-md/instocktrades/DESIGN.md) — unverified historical tokens
+- [Intex](./design-md/intex/DESIGN.md) — unverified historical tokens
+- [Inventables](./design-md/inventables/DESIGN.md) — unverified historical tokens
+- [IQAir](./design-md/iqair/DESIGN.md) — unverified historical tokens
+- [Irene Neuwirth](./design-md/irene-neuwirth/DESIGN.md) — unverified historical tokens
+- [iRobot](./design-md/irobot/DESIGN.md) — unverified historical tokens
+- [iRocker](./design-md/irocker/DESIGN.md) — unverified historical tokens
+- [Iron Lion Collectibles](./design-md/iron-lion-collectibles/DESIGN.md) — unverified historical tokens
+- [iWalk](./design-md/iwalk/DESIGN.md) — unverified historical tokens
+- [IXXI](./design-md/ixxi/DESIGN.md) — unverified historical tokens
+- [J-List](./design-md/j-list/DESIGN.md) — unverified historical tokens
+- [J-Subculture](./design-md/j-subculture/DESIGN.md) — unverified historical tokens
+- [Jackpot Records](./design-md/jackpot-records/DESIGN.md) — unverified historical tokens
+- [Jackson & Perkins](./design-md/jackson-and-perkins/DESIGN.md) — unverified historical tokens
+- [Jacquie Aiche](./design-md/jacquie-aiche/DESIGN.md) — unverified historical tokens
+- [Jade Yoga](./design-md/jade-yoga/DESIGN.md) — unverified historical tokens
+- [Jaipur Rose](./design-md/jaipur-rose/DESIGN.md) — unverified historical tokens
+- [James Allen](./design-md/james-allen/DESIGN.md) — unverified historical tokens
+- [Jamie Kay](./design-md/jamie-kay/DESIGN.md) — unverified historical tokens
+- [Janji](./design-md/janji/DESIGN.md) — unverified historical tokens
+- [Janod](./design-md/janod/DESIGN.md) — unverified historical tokens
+- [Jayson Home](./design-md/jayson-home/DESIGN.md) — unverified historical tokens
+- [Jazz Messengers](./design-md/jazz-messengers/DESIGN.md) — unverified historical tokens
+- [Jellycat](./design-md/jellycat/DESIGN.md) — unverified historical tokens
+- [JennAir](./design-md/jennair/DESIGN.md) — unverified historical tokens
+- [Jenni Kayne](./design-md/jenni-kayne/DESIGN.md) — unverified historical tokens
+- [Jennifer Zeuner](./design-md/jennifer-zeuner/DESIGN.md) — unverified historical tokens
+- [Jenny Bird](./design-md/jenny-bird/DESIGN.md) — unverified historical tokens
+- [Jensen Outdoor](./design-md/jensen-outdoor/DESIGN.md) — unverified historical tokens
+- [Jessica McCormack](./design-md/jessica-mccormack/DESIGN.md) — unverified historical tokens
+- [Jet Set Records](./design-md/jet-set-records/DESIGN.md) — unverified historical tokens
+- [Jetboil](./design-md/jetboil/DESIGN.md) — unverified historical tokens
+- [JETech](./design-md/jetech/DESIGN.md) — unverified historical tokens
+- [Jiggy Puzzles](./design-md/jiggy-puzzles/DESIGN.md) — unverified historical tokens
+- [JJGames](./design-md/jjgames/DESIGN.md) — unverified historical tokens
+- [John Hardy](./design-md/john-hardy/DESIGN.md) — unverified historical tokens
+- [Johnny's Selected Seeds](./design-md/johnny-s-selected-seeds/DESIGN.md) — unverified historical tokens
+- [Jones Road](./design-md/jones-road/DESIGN.md) — unverified historical tokens
+- [Jones Snowboards](./design-md/jones-snowboards/DESIGN.md) — unverified historical tokens
+- [Jono Pandolfi](./design-md/jono-pandolfi/DESIGN.md) — unverified historical tokens
+- [Joybird](./design-md/joybird/DESIGN.md) — unverified historical tokens
+- [Joylux](./design-md/joylux/DESIGN.md) — unverified historical tokens
+- [July AC](./design-md/july-ac/DESIGN.md) — unverified historical tokens
+- [June Oven](./design-md/june-oven/DESIGN.md) — unverified historical tokens
+- [Juniper Print Shop](./design-md/juniper-print-shop/DESIGN.md) — unverified historical tokens
+- [Juno Records](./design-md/juno-records/DESIGN.md) — unverified historical tokens
+- [Jupiter Music](./design-md/jupiter-music/DESIGN.md) — unverified historical tokens
+- [K18 Hair](./design-md/k18-hair/DESIGN.md) — unverified historical tokens
+- [Kaged](./design-md/kaged/DESIGN.md) — unverified historical tokens
+- [Kala Brand](./design-md/kala-brand/DESIGN.md) — unverified historical tokens
+- [Kali Audio](./design-md/kali-audio/DESIGN.md) — unverified historical tokens
+- [Kamado Joe](./design-md/kamado-joe/DESIGN.md) — unverified historical tokens
+- [Kamaka Hawaii](./design-md/kamaka-hawaii/DESIGN.md) — unverified historical tokens
+- [Kamikoto](./design-md/kamikoto/DESIGN.md) — unverified historical tokens
+- [Kammok](./design-md/kammok/DESIGN.md) — unverified historical tokens
+- [Kanilea Pen Co.](./design-md/kanilea-pen-co/DESIGN.md) — unverified historical tokens
+- [Kano](./design-md/kano/DESIGN.md) — unverified historical tokens
+- [Kante](./design-md/kante/DESIGN.md) — unverified historical tokens
+- [Karas Pen Co.](./design-md/karas-pen-co/DESIGN.md) — unverified historical tokens
+- [Kauer Guitars](./design-md/kauer-guitars/DESIGN.md) — unverified historical tokens
+- [KBDfans](./design-md/kbdfans/DESIGN.md) — unverified historical tokens
+- [Keeps](./design-md/keeps/DESIGN.md) — unverified historical tokens
+- [Kendra Scott](./design-md/kendra-scott/DESIGN.md) — unverified historical tokens
+- [Kenmore Stamp Company](./design-md/kenmore-stamp-company/DESIGN.md) — unverified historical tokens
+- [Kerf](./design-md/kerf/DESIGN.md) — unverified historical tokens
+- [Keychron](./design-md/keychron/DESIGN.md) — unverified historical tokens
+- [Keymaster Games](./design-md/keymaster-games/DESIGN.md) — unverified historical tokens
+- [Keysight Technologies](./design-md/keysight-technologies/DESIGN.md) — unverified historical tokens
+- [Keyway](./design-md/keyway/DESIGN.md) — unverified historical tokens
+- [Khaite](./design-md/khaite/DESIGN.md) — unverified historical tokens
+- [Kichler](./design-md/kichler/DESIGN.md) — unverified historical tokens
+- [Kid Made Modern](./design-md/kid-made-modern/DESIGN.md) — unverified historical tokens
+- [Kindra](./design-md/kindra/DESIGN.md) — unverified historical tokens
+- [Kinesis](./design-md/kinesis/DESIGN.md) — unverified historical tokens
+- [King & McGaw](./design-md/king-and-mcgaw/DESIGN.md) — unverified historical tokens
+- [Kingsley Bate](./design-md/kingsley-bate/DESIGN.md) — unverified historical tokens
+- [Kingston](./design-md/kingston/DESIGN.md) — unverified historical tokens
+- [Kinn Studio](./design-md/kinn-studio/DESIGN.md) — unverified historical tokens
+- [Kino Lorber](./design-md/kino-lorber/DESIGN.md) — unverified historical tokens
+- [Kinokuniya USA](./design-md/kinokuniya-usa/DESIGN.md) — unverified historical tokens
+- [Kinokuniya USA](./design-md/kinokuniya-usa-movies-a-2/DESIGN.md) — unverified historical tokens
+- [Kit & Kin](./design-md/kit-and-kin/DESIGN.md) — unverified historical tokens
+- [Kitchen Arts & Letters](./design-md/kitchen-arts-and-letters/DESIGN.md) — unverified historical tokens
+- [KitchenAid](./design-md/kitchenaid/DESIGN.md) — unverified historical tokens
+- [Kith](./design-md/kith/DESIGN.md) — unverified historical tokens
+- [KIWI design](./design-md/kiwi-design/DESIGN.md) — unverified historical tokens
+- [KiwiCo](./design-md/kiwico/DESIGN.md) — unverified historical tokens
+- [Klutz](./design-md/klutz/DESIGN.md) — unverified historical tokens
+- [Knaggs Guitars](./design-md/knaggs-guitars/DESIGN.md) — unverified historical tokens
+- [Knix](./design-md/knix/DESIGN.md) — unverified historical tokens
+- [Kobo Audiobooks](./design-md/kobo-audiobooks/DESIGN.md) — unverified historical tokens
+- [Koio](./design-md/koio/DESIGN.md) — unverified historical tokens
+- [Kollokium](./design-md/kollokium/DESIGN.md) — unverified historical tokens
+- [Kosas](./design-md/kosas/DESIGN.md) — unverified historical tokens
+- [Kotobukiya](./design-md/kotobukiya/DESIGN.md) — unverified historical tokens
+- [Kotobukiya](./design-md/kotobukiya-collecti-2/DESIGN.md) — unverified historical tokens
+- [KraveBeauty](./design-md/kravebeauty/DESIGN.md) — unverified historical tokens
+- [Kreafunk](./design-md/kreafunk/DESIGN.md) — unverified historical tokens
+- [KRK Systems](./design-md/krk-systems/DESIGN.md) — unverified historical tokens
+- [Kronaby](./design-md/kronaby/DESIGN.md) — unverified historical tokens
+- [Krups](./design-md/krups/DESIGN.md) — unverified historical tokens
+- [KTC](./design-md/ktc/DESIGN.md) — unverified historical tokens
+- [Kudos](./design-md/kudos/DESIGN.md) — unverified historical tokens
+- [Kuiu](./design-md/kuiu/DESIGN.md) — unverified historical tokens
+- [Kumi Contemporary](./design-md/kumi-contemporary/DESIGN.md) — unverified historical tokens
+- [Kylie Cosmetics](./design-md/kylie-cosmetics/DESIGN.md) — unverified historical tokens
+- [Kyte Baby](./design-md/kyte-baby/DESIGN.md) — unverified historical tokens
+- [La Cornue](./design-md/la-cornue/DESIGN.md) — unverified historical tokens
+- [La Marzocco Home](./design-md/la-marzocco-home/DESIGN.md) — unverified historical tokens
+- [La Sportiva](./design-md/la-sportiva/DESIGN.md) — unverified historical tokens
+- [Laguna Tools](./design-md/laguna-tools/DESIGN.md) — unverified historical tokens
+- [Lakeland Industries](./design-md/lakeland-industries/DESIGN.md) — unverified historical tokens
+- [Lakeshore Learning](./design-md/lakeshore-learning/DESIGN.md) — unverified historical tokens
+- [Lakesidetrader](./design-md/lakesidetrader/DESIGN.md) — unverified historical tokens
+- [Lalo](./design-md/lalo/DESIGN.md) — unverified historical tokens
+- [Lamaze](./design-md/lamaze/DESIGN.md) — unverified historical tokens
+- [Lamy](./design-md/lamy/DESIGN.md) — unverified historical tokens
+- [Lamzu](./design-md/lamzu/DESIGN.md) — unverified historical tokens
+- [Lander](./design-md/lander/DESIGN.md) — unverified historical tokens
+- [Lanikai](./design-md/lanikai/DESIGN.md) — unverified historical tokens
+- [Larq](./design-md/larq/DESIGN.md) — unverified historical tokens
+- [Lasko](./design-md/lasko/DESIGN.md) — unverified historical tokens
+- [Laundry Sauce](./design-md/laundry-sauce/DESIGN.md) — unverified historical tokens
+- [Laura Davidson](./design-md/laura-davidson/DESIGN.md) — unverified historical tokens
+- [LCI Paper](./design-md/lci-paper/DESIGN.md) — unverified historical tokens
+- [LD Products](./design-md/ld-products/DESIGN.md) — unverified historical tokens
+- [Le Chat qui Fume](./design-md/le-chat-qui-fume/DESIGN.md) — unverified historical tokens
+- [Le Gramme](./design-md/le-gramme/DESIGN.md) — unverified historical tokens
+- [Le Toy Van](./design-md/le-toy-van/DESIGN.md) — unverified historical tokens
+- [Leaf Trading Cards](./design-md/leaf-trading-cards/DESIGN.md) — unverified historical tokens
+- [Learning Resources](./design-md/learning-resources/DESIGN.md) — unverified historical tokens
+- [Leder Games](./design-md/leder-games/DESIGN.md) — unverified historical tokens
+- [Leen Heyne](./design-md/leen-heyne/DESIGN.md) — unverified historical tokens
+- [Leesa](./design-md/leesa/DESIGN.md) — unverified historical tokens
+- [Legion Paper](./design-md/legion-paper/DESIGN.md) — unverified historical tokens
+- [Lehmann Maupin](./design-md/lehmann-maupin/DESIGN.md) — unverified historical tokens
+- [Lelit](./design-md/lelit/DESIGN.md) — unverified historical tokens
+- [Lemi Shine](./design-md/lemi-shine/DESIGN.md) — unverified historical tokens
+- [Lemme](./design-md/lemme/DESIGN.md) — unverified historical tokens
+- [Lenovo](./design-md/lenovo/DESIGN.md) — unverified historical tokens
+- [Lention](./design-md/lention/DESIGN.md) — unverified historical tokens
+- [Leon & George](./design-md/leon-and-george/DESIGN.md) — unverified historical tokens
+- [Leopold](./design-md/leopold/DESIGN.md) — unverified historical tokens
+- [Leuchtturm1917](./design-md/leuchtturm1917/DESIGN.md) — unverified historical tokens
+- [Level Up Video Games](./design-md/level-up-video-games/DESIGN.md) — unverified historical tokens
+- [Levoit](./design-md/levoit/DESIGN.md) — unverified historical tokens
+- [Lexar](./design-md/lexar/DESIGN.md) — unverified historical tokens
+- [LG](./design-md/lg/DESIGN.md) — unverified historical tokens
+- [Lian Li](./design-md/lian-li/DESIGN.md) — unverified historical tokens
+- [Liberty Puzzles](./design-md/liberty-puzzles/DESIGN.md) — unverified historical tokens
+- [Libro.fm](./design-md/libro-fm/DESIGN.md) — unverified historical tokens
+- [Liforme](./design-md/liforme/DESIGN.md) — unverified historical tokens
+- [Lighthouse Records](./design-md/lighthouse-records/DESIGN.md) — unverified historical tokens
+- [Linjer](./design-md/linjer/DESIGN.md) — unverified historical tokens
+- [Linksys](./design-md/linksys/DESIGN.md) — unverified historical tokens
+- [Lista](./design-md/lista/DESIGN.md) — unverified historical tokens
+- [LitJoy Crate](./design-md/litjoy-crate/DESIGN.md) — unverified historical tokens
+- [Little City Books](./design-md/little-city-books/DESIGN.md) — unverified historical tokens
+- [Little Passports](./design-md/little-passports/DESIGN.md) — unverified historical tokens
+- [Little Sleepies](./design-md/little-sleepies/DESIGN.md) — unverified historical tokens
+- [Little Tikes](./design-md/little-tikes/DESIGN.md) — unverified historical tokens
+- [Littleton Coin Company](./design-md/littleton-coin-company/DESIGN.md) — unverified historical tokens
+- [Lizzie Fortunato](./design-md/lizzie-fortunato/DESIGN.md) — unverified historical tokens
+- [Lofree](./design-md/lofree/DESIGN.md) — unverified historical tokens
+- [Logitech G](./design-md/logitech-g/DESIGN.md) — unverified historical tokens
+- [Lola](./design-md/lola/DESIGN.md) — unverified historical tokens
+- [Loll Designs](./design-md/loll-designs/DESIGN.md) — unverified historical tokens
+- [London Pen Co.](./design-md/london-pen-co/DESIGN.md) — unverified historical tokens
+- [Longines](./design-md/longines/DESIGN.md) — unverified historical tokens
+- [Looney Labs](./design-md/looney-labs/DESIGN.md) — unverified historical tokens
+- [Lost City NYC](./design-md/lost-city-nyc/DESIGN.md) — unverified historical tokens
+- [Love Wellness](./design-md/love-wellness/DESIGN.md) — unverified historical tokens
+- [Lovevery](./design-md/lovevery/DESIGN.md) — unverified historical tokens
+- [Lukie Games](./design-md/lukie-games/DESIGN.md) — unverified historical tokens
+- [Lulu](./design-md/lulu/DESIGN.md) — unverified historical tokens
+- [Lululemon](./design-md/lululemon/DESIGN.md) — unverified historical tokens
+- [Lululook](./design-md/lululook/DESIGN.md) — unverified historical tokens
+- [Lumas](./design-md/lumas/DESIGN.md) — unverified historical tokens
+- [Lume Deodorant](./design-md/lume-deodorant/DESIGN.md) — unverified historical tokens
+- [Lumi](./design-md/lumi/DESIGN.md) — unverified historical tokens
+- [Lumina](./design-md/lumina/DESIGN.md) — unverified historical tokens
+- [Lunchmeat VHS](./design-md/lunchmeat-vhs/DESIGN.md) — unverified historical tokens
+- [Lutron](./design-md/lutron/DESIGN.md) — unverified historical tokens
+- [Luv Aj](./design-md/luv-aj/DESIGN.md) — unverified historical tokens
+- [Luxtude](./design-md/luxtude/DESIGN.md) — unverified historical tokens
+- [Lynskey](./design-md/lynskey/DESIGN.md) — unverified historical tokens
+- [M.Gemi](./design-md/m-gemi/DESIGN.md) — unverified historical tokens
+- [MA Recordings](./design-md/ma-recordings/DESIGN.md) — unverified historical tokens
+- [Mack Weldon](./design-md/mack-weldon/DESIGN.md) — unverified historical tokens
+- [Mad Science Pen Co.](./design-md/mad-science-pen-co/DESIGN.md) — unverified historical tokens
+- [Made In](./design-md/made-in/DESIGN.md) — unverified historical tokens
+- [Made Of](./design-md/made-of/DESIGN.md) — unverified historical tokens
+- [Madewell](./design-md/madewell/DESIGN.md) — unverified historical tokens
+- [Madman Entertainment](./design-md/madman-entertainment/DESIGN.md) — unverified historical tokens
+- [Magazine Heaven](./design-md/magazine-heaven/DESIGN.md) — unverified historical tokens
+- [Magic Sleek](./design-md/magic-sleek/DESIGN.md) — unverified historical tokens
+- [Magid Glove & Safety](./design-md/magid-glove-and-safety/DESIGN.md) — unverified historical tokens
+- [Magimix](./design-md/magimix/DESIGN.md) — unverified historical tokens
+- [Magna-Tiles](./design-md/magna-tiles/DESIGN.md) — unverified historical tokens
+- [Magnolia](./design-md/magnolia/DESIGN.md) — unverified historical tokens
+- [Magnum Photos Shop](./design-md/magnum-photos-shop/DESIGN.md) — unverified historical tokens
+- [Maiden Home](./design-md/maiden-home/DESIGN.md) — unverified historical tokens
+- [Maingear](./design-md/maingear/DESIGN.md) — unverified historical tokens
+- [Maison Gerard](./design-md/maison-gerard/DESIGN.md) — unverified historical tokens
+- [Maison Louis Marie](./design-md/maison-louis-marie/DESIGN.md) — unverified historical tokens
+- [Major Fitness](./design-md/major-fitness/DESIGN.md) — unverified historical tokens
+- [Makeblock](./design-md/makeblock/DESIGN.md) — unverified historical tokens
+- [MakerBot](./design-md/makerbot/DESIGN.md) — unverified historical tokens
+- [Makeup by Mario](./design-md/makeup-by-mario/DESIGN.md) — unverified historical tokens
+- [Mamagreen](./design-md/mamagreen/DESIGN.md) — unverified historical tokens
+- [Mandarake](./design-md/mandarake/DESIGN.md) — unverified historical tokens
+- [Manduka](./design-md/manduka/DESIGN.md) — unverified historical tokens
+- [Manscaped](./design-md/manscaped/DESIGN.md) — unverified historical tokens
+- [Mansur Gavriel](./design-md/mansur-gavriel/DESIGN.md) — unverified historical tokens
+- [Manual](./design-md/manual/DESIGN.md) — unverified historical tokens
+- [Maple Systems](./design-md/maple-systems/DESIGN.md) — unverified historical tokens
+- [MARA Beauty](./design-md/mara-beauty/DESIGN.md) — unverified historical tokens
+- [Margaux](./design-md/margaux/DESIGN.md) — unverified historical tokens
+- [Marian Goodman Gallery](./design-md/marian-goodman-gallery/DESIGN.md) — unverified historical tokens
+- [Marine Layer](./design-md/marine-layer/DESIGN.md) — unverified historical tokens
+- [Marky Sparky](./design-md/marky-sparky/DESIGN.md) — unverified historical tokens
+- [Marrow Fine](./design-md/marrow-fine/DESIGN.md) — unverified historical tokens
+- [Martian Toys](./design-md/martian-toys/DESIGN.md) — unverified historical tokens
+- [Marucci Sports](./design-md/marucci-sports/DESIGN.md) — unverified historical tokens
+- [Mason-Kay](./design-md/mason-kay/DESIGN.md) — unverified historical tokens
+- [Massimo De Carlo](./design-md/massimo-de-carlo/DESIGN.md) — unverified historical tokens
+- [Master Spas](./design-md/master-spas/DESIGN.md) — unverified historical tokens
+- [Matador](./design-md/matador/DESIGN.md) — unverified historical tokens
+- [Matador Records](./design-md/matador-records/DESIGN.md) — unverified historical tokens
+- [Material Kitchen](./design-md/material-kitchen/DESIGN.md) — unverified historical tokens
+- [Matrix Lab](./design-md/matrix-lab/DESIGN.md) — unverified historical tokens
+- [Maverick Desk](./design-md/maverick-desk/DESIGN.md) — unverified historical tokens
+- [Maytag](./design-md/maytag/DESIGN.md) — unverified historical tokens
+- [Maëlys](./design-md/maelys/DESIGN.md) — unverified historical tokens
+- [McFarlane Toys](./design-md/mcfarlane-toys/DESIGN.md) — unverified historical tokens
+- [McGee & Co](./design-md/mcgee-and-co/DESIGN.md) — unverified historical tokens
+- [McMaster-Carr](./design-md/mcmaster-carr/DESIGN.md) — unverified historical tokens
+- [McNally Jackson](./design-md/mcnally-jackson/DESIGN.md) — unverified historical tokens
+- [MCR Safety](./design-md/mcr-safety/DESIGN.md) — unverified historical tokens
+- [McSweeney's](./design-md/mcsweeney-s/DESIGN.md) — unverified historical tokens
+- [mDesign](./design-md/mdesign/DESIGN.md) — unverified historical tokens
+- [Meater](./design-md/meater/DESIGN.md) — unverified historical tokens
+- [Medik8](./design-md/medik8/DESIGN.md) — unverified historical tokens
+- [Mee-go](./design-md/mee-go/DESIGN.md) — unverified historical tokens
+- [Megababe](./design-md/megababe/DESIGN.md) — unverified historical tokens
+- [Megger](./design-md/megger/DESIGN.md) — unverified historical tokens
+- [Meghan Bo Designs](./design-md/meghan-bo-designs/DESIGN.md) — unverified historical tokens
+- [Meiji Techno](./design-md/meiji-techno/DESIGN.md) — unverified historical tokens
+- [Mejuri](./design-md/mejuri/DESIGN.md) — unverified historical tokens
+- [Mel Science](./design-md/mel-science/DESIGN.md) — unverified historical tokens
+- [Meletrix](./design-md/meletrix/DESIGN.md) — unverified historical tokens
+- [MelGeek](./design-md/melgeek/DESIGN.md) — unverified historical tokens
+- [Melville House](./design-md/melville-house/DESIGN.md) — unverified historical tokens
+- [Meri Meri](./design-md/meri-meri/DESIGN.md) — unverified historical tokens
+- [Merit](./design-md/merit/DESIGN.md) — unverified historical tokens
+- [Mermade Hair](./design-md/mermade-hair/DESIGN.md) — unverified historical tokens
+- [Messermeister](./design-md/messermeister/DESIGN.md) — unverified historical tokens
+- [Meta Quest](./design-md/meta-quest/DESIGN.md) — unverified historical tokens
+- [Method](./design-md/method/DESIGN.md) — unverified historical tokens
+- [Metolius](./design-md/metolius/DESIGN.md) — unverified historical tokens
+- [Mezco Toyz](./design-md/mezco-toyz/DESIGN.md) — unverified historical tokens
+- [Miansai](./design-md/miansai/DESIGN.md) — unverified historical tokens
+- [Microcosm Publishing](./design-md/microcosm-publishing/DESIGN.md) — unverified historical tokens
+- [Microscope.com](./design-md/microscope-com/DESIGN.md) — unverified historical tokens
+- [Midea](./design-md/midea/DESIGN.md) — unverified historical tokens
+- [Midori](./design-md/midori/DESIGN.md) — unverified historical tokens
+- [Midtown Comics](./design-md/midtown-comics/DESIGN.md) — unverified historical tokens
+- [Miele](./design-md/miele/DESIGN.md) — unverified historical tokens
+- [Mignonne Gavigan](./design-md/mignonne-gavigan/DESIGN.md) — unverified historical tokens
+- [Mikasa Sports](./design-md/mikasa-sports/DESIGN.md) — unverified historical tokens
+- [Mila](./design-md/mila/DESIGN.md) — unverified historical tokens
+- [Mile High Comics](./design-md/mile-high-comics/DESIGN.md) — unverified historical tokens
+- [Milestone Films](./design-md/milestone-films/DESIGN.md) — unverified historical tokens
+- [Military Collectibles Shop](./design-md/military-collectibles-shop/DESIGN.md) — unverified historical tokens
+- [Milk Makeup](./design-md/milk-makeup/DESIGN.md) — unverified historical tokens
+- [Milk-Barn](./design-md/milk-barn/DESIGN.md) — unverified historical tokens
+- [Milkweed Editions](./design-md/milkweed-editions/DESIGN.md) — unverified historical tokens
+- [MilliporeSigma](./design-md/milliporesigma/DESIGN.md) — unverified historical tokens
+- [MindWare](./design-md/mindware/DESIGN.md) — unverified historical tokens
+- [Mindzai](./design-md/mindzai/DESIGN.md) — unverified historical tokens
+- [Ministry of Supply](./design-md/ministry-of-supply/DESIGN.md) — unverified historical tokens
+- [Mintage World](./design-md/mintage-world/DESIGN.md) — unverified historical tokens
+- [Miranda Frye](./design-md/miranda-frye/DESIGN.md) — unverified historical tokens
+- [Misen](./design-md/misen/DESIGN.md) — unverified historical tokens
+- [Misfit](./design-md/misfit/DESIGN.md) — unverified historical tokens
+- [Missoma](./design-md/missoma/DESIGN.md) — unverified historical tokens
+- [MIT Press](./design-md/mit-press/DESIGN.md) — unverified historical tokens
+- [Mizu](./design-md/mizu/DESIGN.md) — unverified historical tokens
+- [Mizuki](./design-md/mizuki/DESIGN.md) — unverified historical tokens
+- [Mizzen+Main](./design-md/mizzen-main/DESIGN.md) — unverified historical tokens
+- [MK Professional](./design-md/mk-professional/DESIGN.md) — unverified historical tokens
+- [Mobile Fidelity Sound Lab](./design-md/mobile-fidelity-sound-lab/DESIGN.md) — unverified historical tokens
+- [Mociun](./design-md/mociun/DESIGN.md) — unverified historical tokens
+- [Mockingbird](./design-md/mockingbird/DESIGN.md) — unverified historical tokens
+- [Mode Designs](./design-md/mode-designs/DESIGN.md) — unverified historical tokens
+- [Modern Fertility](./design-md/modern-fertility/DESIGN.md) — unverified historical tokens
+- [ModernCoinMart](./design-md/moderncoinmart/DESIGN.md) — unverified historical tokens
+- [Modernica](./design-md/modernica/DESIGN.md) — unverified historical tokens
+- [Modibodi](./design-md/modibodi/DESIGN.md) — unverified historical tokens
+- [Modiphius](./design-md/modiphius/DESIGN.md) — unverified historical tokens
+- [Mogix](./design-md/mogix/DESIGN.md) — unverified historical tokens
+- [Molekule](./design-md/molekule/DESIGN.md) — unverified historical tokens
+- [Molten](./design-md/molten/DESIGN.md) — unverified historical tokens
+- [Momentous](./design-md/momentous/DESIGN.md) — unverified historical tokens
+- [Moments In Time](./design-md/moments-in-time/DESIGN.md) — unverified historical tokens
+- [Momotaro Apotheca](./design-md/momotaro-apotheca/DESIGN.md) — unverified historical tokens
+- [Mondo](./design-md/mondo/DESIGN.md) — unverified historical tokens
+- [Money Metals Exchange](./design-md/money-metals-exchange/DESIGN.md) — unverified historical tokens
+- [Monica Vinader](./design-md/monica-vinader/DESIGN.md) — unverified historical tokens
+- [Monrovia](./design-md/monrovia/DESIGN.md) — unverified historical tokens
+- [MonsGeek](./design-md/monsgeek/DESIGN.md) — unverified historical tokens
+- [Monta](./design-md/monta/DESIGN.md) — unverified historical tokens
+- [Montblanc](./design-md/montblanc/DESIGN.md) — unverified historical tokens
+- [Monte Design](./design-md/monte-design/DESIGN.md) — unverified historical tokens
+- [Montec Wear](./design-md/montec-wear/DESIGN.md) — unverified historical tokens
+- [Monti Kids](./design-md/monti-kids/DESIGN.md) — unverified historical tokens
+- [MOO](./design-md/moo/DESIGN.md) — unverified historical tokens
+- [Moon Juice](./design-md/moon-juice/DESIGN.md) — unverified historical tokens
+- [Moots](./design-md/moots/DESIGN.md) — unverified historical tokens
+- [Mora Ceramics](./design-md/mora-ceramics/DESIGN.md) — unverified historical tokens
+- [Morrison Hotel Gallery](./design-md/morrison-hotel-gallery/DESIGN.md) — unverified historical tokens
+- [Morrow Soft Goods](./design-md/morrow-soft-goods/DESIGN.md) — unverified historical tokens
+- [Motion Industries](./design-md/motion-industries/DESIGN.md) — unverified historical tokens
+- [Mott & Bow](./design-md/mott-and-bow/DESIGN.md) — unverified historical tokens
+- [Mount-It!](./design-md/mount-it/DESIGN.md) — unverified historical tokens
+- [Mous](./design-md/mous/DESIGN.md) — unverified historical tokens
+- [MrCool](./design-md/mrcool/DESIGN.md) — unverified historical tokens
+- [MROStop](./design-md/mrostop/DESIGN.md) — unverified historical tokens
+- [Mrs. Meyer's](./design-md/mrs-meyer-s/DESIGN.md) — unverified historical tokens
+- [MSI](./design-md/msi/DESIGN.md) — unverified historical tokens
+- [Mud Australia](./design-md/mud-australia/DESIGN.md) — unverified historical tokens
+- [Mugsy Jeans](./design-md/mugsy-jeans/DESIGN.md) — unverified historical tokens
+- [Mushie](./design-md/mushie/DESIGN.md) — unverified historical tokens
+- [Music Direct](./design-md/music-direct/DESIGN.md) — unverified historical tokens
+- [Music Man](./design-md/music-man/DESIGN.md) — unverified historical tokens
+- [Mustela](./design-md/mustela/DESIGN.md) — unverified historical tokens
+- [Mute Bank](./design-md/mute-bank/DESIGN.md) — unverified historical tokens
+- [Muuto](./design-md/muuto/DESIGN.md) — unverified historical tokens
+- [MyCharge](./design-md/mycharge/DESIGN.md) — unverified historical tokens
+- [MyComicShop](./design-md/mycomicshop/DESIGN.md) — unverified historical tokens
+- [Mystic Stamp Company](./design-md/mystic-stamp-company/DESIGN.md) — unverified historical tokens
+- [Nama](./design-md/nama/DESIGN.md) — unverified historical tokens
+- [Narwal](./design-md/narwal/DESIGN.md) — unverified historical tokens
+- [Natalist](./design-md/natalist/DESIGN.md) — unverified historical tokens
+- [Native](./design-md/native/DESIGN.md) — unverified historical tokens
+- [Native Union](./design-md/native-union/DESIGN.md) — unverified historical tokens
+- [Native Union](./design-md/native-union-cables-a-2/DESIGN.md) — unverified historical tokens
+- [Nature Hills](./design-md/nature-hills/DESIGN.md) — unverified historical tokens
+- [NCLA Beauty](./design-md/ncla-beauty/DESIGN.md) — unverified historical tokens
+- [Neat Method](./design-md/neat-method/DESIGN.md) — unverified historical tokens
+- [NEB (New England Biolabs)](./design-md/neb-new-england-biolabs/DESIGN.md) — unverified historical tokens
+- [NECA](./design-md/neca/DESIGN.md) — unverified historical tokens
+- [Neighbor](./design-md/neighbor/DESIGN.md) — unverified historical tokens
+- [Nemo Equipment](./design-md/nemo-equipment/DESIGN.md) — unverified historical tokens
+- [Nest Diapers](./design-md/nest-diapers/DESIGN.md) — unverified historical tokens
+- [Nest New York](./design-md/nest-new-york/DESIGN.md) — unverified historical tokens
+- [Nestig](./design-md/nestig/DESIGN.md) — unverified historical tokens
+- [Netgear](./design-md/netgear/DESIGN.md) — unverified historical tokens
+- [Nette](./design-md/nette/DESIGN.md) — unverified historical tokens
+- [New Blood Art](./design-md/new-blood-art/DESIGN.md) — unverified historical tokens
+- [New Directions](./design-md/new-directions/DESIGN.md) — unverified historical tokens
+- [Newbury Comics](./design-md/newbury-comics/DESIGN.md) — unverified historical tokens
+- [Newel](./design-md/newel/DESIGN.md) — unverified historical tokens
+- [Newport Fasteners](./design-md/newport-fasteners/DESIGN.md) — unverified historical tokens
+- [Nexwear](./design-md/nexwear/DESIGN.md) — unverified historical tokens
+- [NI (National Instruments)](./design-md/ni-national-instruments/DESIGN.md) — unverified historical tokens
+- [Nikalab](./design-md/nikalab/DESIGN.md) — unverified historical tokens
+- [Nimble](./design-md/nimble/DESIGN.md) — unverified historical tokens
+- [Ninja Tune](./design-md/ninja-tune/DESIGN.md) — unverified historical tokens
+- [Ninjutso](./design-md/ninjutso/DESIGN.md) — unverified historical tokens
+- [NIS America Store](./design-md/nis-america-store/DESIGN.md) — unverified historical tokens
+- [Nitecore](./design-md/nitecore/DESIGN.md) — unverified historical tokens
+- [Niwaki](./design-md/niwaki/DESIGN.md) — unverified historical tokens
+- [NL Beauty](./design-md/nl-beauty/DESIGN.md) — unverified historical tokens
+- [No Idea Records](./design-md/no-idea-records/DESIGN.md) — unverified historical tokens
+- [No. 2](./design-md/no-2/DESIGN.md) — unverified historical tokens
+- [Noah](./design-md/noah/DESIGN.md) — unverified historical tokens
+- [noblechairs](./design-md/noblechairs/DESIGN.md) — unverified historical tokens
+- [Noctua](./design-md/noctua/DESIGN.md) — unverified historical tokens
+- [Nodus](./design-md/nodus/DESIGN.md) — unverified historical tokens
+- [Noissue](./design-md/noissue/DESIGN.md) — unverified historical tokens
+- [Nom Nom](./design-md/nom-nom/DESIGN.md) — unverified historical tokens
+- [Nomad](./design-md/nomad/DESIGN.md) — unverified historical tokens
+- [Nomad Grills](./design-md/nomad-grills/DESIGN.md) — unverified historical tokens
+- [Nomos Glashütte](./design-md/nomos-glashutte/DESIGN.md) — unverified historical tokens
+- [Nonesuch Records](./design-md/nonesuch-records/DESIGN.md) — unverified historical tokens
+- [Nordfrim](./design-md/nordfrim/DESIGN.md) — unverified historical tokens
+- [Nordic Knots](./design-md/nordic-knots/DESIGN.md) — unverified historical tokens
+- [Noreve](./design-md/noreve/DESIGN.md) — unverified historical tokens
+- [Norman Records](./design-md/norman-records/DESIGN.md) — unverified historical tokens
+- [Nosy Crow](./design-md/nosy-crow/DESIGN.md) — unverified historical tokens
+- [NovelKeys](./design-md/novelkeys/DESIGN.md) — unverified historical tokens
+- [Novo Guitars](./design-md/novo-guitars/DESIGN.md) — unverified historical tokens
+- [NS Design](./design-md/ns-design/DESIGN.md) — unverified historical tokens
+- [Nuclear Blast](./design-md/nuclear-blast/DESIGN.md) — unverified historical tokens
+- [Nucleus Films](./design-md/nucleus-films/DESIGN.md) — unverified historical tokens
+- [Nudient](./design-md/nudient/DESIGN.md) — unverified historical tokens
+- [NuFace](./design-md/nuface/DESIGN.md) — unverified historical tokens
+- [NuGlas](./design-md/nuglas/DESIGN.md) — unverified historical tokens
+- [Numark](./design-md/numark/DESIGN.md) — unverified historical tokens
+- [Numskull (Geek Store)](./design-md/numskull-geek-store/DESIGN.md) — unverified historical tokens
+- [NuPhy](./design-md/nuphy/DESIGN.md) — unverified historical tokens
+- [Nuuna](./design-md/nuuna/DESIGN.md) — unverified historical tokens
+- [NuWave](./design-md/nuwave/DESIGN.md) — unverified historical tokens
+- [NYRB](./design-md/nyrb/DESIGN.md) — unverified historical tokens
+- [Oakywood](./design-md/oakywood/DESIGN.md) — unverified historical tokens
+- [Oars + Alps](./design-md/oars-alps/DESIGN.md) — unverified historical tokens
+- [OBSBOT](./design-md/obsbot/DESIGN.md) — unverified historical tokens
+- [Obvi](./design-md/obvi/DESIGN.md) — unverified historical tokens
+- [Oeuf](./design-md/oeuf/DESIGN.md) — unverified historical tokens
+- [Off-White](./design-md/off-white/DESIGN.md) — unverified historical tokens
+- [Office Specialty](./design-md/office-specialty/DESIGN.md) — unverified historical tokens
+- [Ohana Ukuleles](./design-md/ohana-ukuleles/DESIGN.md) — unverified historical tokens
+- [Ohaus](./design-md/ohaus/DESIGN.md) — unverified historical tokens
+- [Ojook](./design-md/ojook/DESIGN.md) — unverified historical tokens
+- [Olde Good Things](./design-md/olde-good-things/DESIGN.md) — unverified historical tokens
+- [Oldies.com](./design-md/oldies-com/DESIGN.md) — unverified historical tokens
+- [Olive Films](./design-md/olive-films/DESIGN.md) — unverified historical tokens
+- [Oliver Cabell](./design-md/oliver-cabell/DESIGN.md) — unverified historical tokens
+- [Ollie](./design-md/ollie/DESIGN.md) — unverified historical tokens
+- [OLLY](./design-md/olly/DESIGN.md) — unverified historical tokens
+- [Omega Engineering](./design-md/omega-engineering/DESIGN.md) — unverified historical tokens
+- [Omega Juicers](./design-md/omega-juicers/DESIGN.md) — unverified historical tokens
+- [Omi Woods](./design-md/omi-woods/DESIGN.md) — unverified historical tokens
+- [Omnicharge](./design-md/omnicharge/DESIGN.md) — unverified historical tokens
+- [Omnitype](./design-md/omnitype/DESIGN.md) — unverified historical tokens
+- [Omnivore Books](./design-md/omnivore-books/DESIGN.md) — unverified historical tokens
+- [Omoton](./design-md/omoton/DESIGN.md) — unverified historical tokens
+- [On](./design-md/on/DESIGN.md) — unverified historical tokens
+- [OnlineLabels.com](./design-md/onlinelabels-com/DESIGN.md) — unverified historical tokens
+- [Onsen](./design-md/onsen/DESIGN.md) — unverified historical tokens
+- [Ooly](./design-md/ooly/DESIGN.md) — unverified historical tokens
+- [Ooni](./design-md/ooni/DESIGN.md) — unverified historical tokens
+- [Opal](./design-md/opal/DESIGN.md) — unverified historical tokens
+- [Open Farm](./design-md/open-farm/DESIGN.md) — unverified historical tokens
+- [Opinel](./design-md/opinel/DESIGN.md) — unverified historical tokens
+- [Opposit](./design-md/opposit/DESIGN.md) — unverified historical tokens
+- [Orbit DVD](./design-md/orbit-dvd/DESIGN.md) — unverified historical tokens
+- [Orbitkey](./design-md/orbitkey/DESIGN.md) — unverified historical tokens
+- [Orca Coolers](./design-md/orca-coolers/DESIGN.md) — unverified historical tokens
+- [Oreck](./design-md/oreck/DESIGN.md) — unverified historical tokens
+- [Origin PC](./design-md/origin-pc/DESIGN.md) — unverified historical tokens
+- [Oris](./design-md/oris/DESIGN.md) — unverified historical tokens
+- [Oru Kayak](./design-md/oru-kayak/DESIGN.md) — unverified historical tokens
+- [Oscilloscope Laboratories](./design-md/oscilloscope-laboratories/DESIGN.md) — unverified historical tokens
+- [Oster](./design-md/oster/DESIGN.md) — unverified historical tokens
+- [Ostrya](./design-md/ostrya/DESIGN.md) — unverified historical tokens
+- [Otiumberg](./design-md/otiumberg/DESIGN.md) — unverified historical tokens
+- [OUAI](./design-md/ouai/DESIGN.md) — unverified historical tokens
+- [Our Place](./design-md/our-place/DESIGN.md) — unverified historical tokens
+- [Outdoor Vitals](./design-md/outdoor-vitals/DESIGN.md) — unverified historical tokens
+- [Outdoor Voices](./design-md/outdoor-voices/DESIGN.md) — unverified historical tokens
+- [Outer](./design-md/outer/DESIGN.md) — unverified historical tokens
+- [Outland Living](./design-md/outland-living/DESIGN.md) — unverified historical tokens
+- [Ovii](./design-md/ovii/DESIGN.md) — unverified historical tokens
+- [OwlCrate](./design-md/owlcrate/DESIGN.md) — unverified historical tokens
+- [Oxford University Press](./design-md/oxford-university-press/DESIGN.md) — unverified historical tokens
+- [Ozzie Collectables](./design-md/ozzie-collectables/DESIGN.md) — unverified historical tokens
+- [P. Mauriat](./design-md/p-mauriat/DESIGN.md) — unverified historical tokens
+- [Pace Gallery](./design-md/pace-gallery/DESIGN.md) — unverified historical tokens
+- [Packlane](./design-md/packlane/DESIGN.md) — unverified historical tokens
+- [Paizo](./design-md/paizo/DESIGN.md) — unverified historical tokens
+- [Palm Beach Autographs](./design-md/palm-beach-autographs/DESIGN.md) — unverified historical tokens
+- [Palram](./design-md/palram/DESIGN.md) — unverified historical tokens
+- [Pamela Love](./design-md/pamela-love/DESIGN.md) — unverified historical tokens
+- [Panasonic](./design-md/panasonic/DESIGN.md) — unverified historical tokens
+- [Pandasaurus Games](./design-md/pandasaurus-games/DESIGN.md) — unverified historical tokens
+- [Pangaia](./design-md/pangaia/DESIGN.md) — unverified historical tokens
+- [Panini America](./design-md/panini-america/DESIGN.md) — unverified historical tokens
+- [PanzerGlass](./design-md/panzerglass/DESIGN.md) — unverified historical tokens
+- [Paper Mart](./design-md/paper-mart/DESIGN.md) — unverified historical tokens
+- [Papier](./design-md/papier/DESIGN.md) — unverified historical tokens
+- [Parachute](./design-md/parachute/DESIGN.md) — unverified historical tokens
+- [Parade Organics](./design-md/parade-organics/DESIGN.md) — unverified historical tokens
+- [Paradox Arcades](./design-md/paradox-arcades/DESIGN.md) — unverified historical tokens
+- [Parasol](./design-md/parasol/DESIGN.md) — unverified historical tokens
+- [Passenger](./design-md/passenger/DESIGN.md) — unverified historical tokens
+- [Passion Planner](./design-md/passion-planner/DESIGN.md) — unverified historical tokens
+- [Patagonia](./design-md/patagonia/DESIGN.md) — unverified historical tokens
+- [Patrick Ta Beauty](./design-md/patrick-ta-beauty/DESIGN.md) — unverified historical tokens
+- [Peaceable Kingdom](./design-md/peaceable-kingdom/DESIGN.md) — unverified historical tokens
+- [Peak Design](./design-md/peak-design/DESIGN.md) — unverified historical tokens
+- [Pearl Octopuss.y](./design-md/pearl-octopuss-y/DESIGN.md) — unverified historical tokens
+- [Pearl Paradise](./design-md/pearl-paradise/DESIGN.md) — unverified historical tokens
+- [Peel](./design-md/peel/DESIGN.md) — unverified historical tokens
+- [Pela](./design-md/pela/DESIGN.md) — unverified historical tokens
+- [Pelican Sport](./design-md/pelican-sport/DESIGN.md) — unverified historical tokens
+- [Peloton](./design-md/peloton/DESIGN.md) — unverified historical tokens
+- [Perelel](./design-md/perelel/DESIGN.md) — unverified historical tokens
+- [Perfora](./design-md/perfora/DESIGN.md) — unverified historical tokens
+- [Permanent Records](./design-md/permanent-records/DESIGN.md) — unverified historical tokens
+- [Perrotin](./design-md/perrotin/DESIGN.md) — unverified historical tokens
+- [Peter Lik](./design-md/peter-lik/DESIGN.md) — unverified historical tokens
+- [Peter Millar](./design-md/peter-millar/DESIGN.md) — unverified historical tokens
+- [Petit Moments](./design-md/petit-moments/DESIGN.md) — unverified historical tokens
+- [PetPlate](./design-md/petplate/DESIGN.md) — unverified historical tokens
+- [Petzl](./design-md/petzl/DESIGN.md) — unverified historical tokens
+- [Phaidon](./design-md/phaidon/DESIGN.md) — unverified historical tokens
+- [Phanteks](./design-md/phanteks/DESIGN.md) — unverified historical tokens
+- [Phantom Glass](./design-md/phantom-glass/DESIGN.md) — unverified historical tokens
+- [Philips Hue](./design-md/philips-hue/DESIGN.md) — unverified historical tokens
+- [Phlur](./design-md/phlur/DESIGN.md) — unverified historical tokens
+- [Phonica Records](./design-md/phonica-records/DESIGN.md) — unverified historical tokens
+- [Piccadilly Records](./design-md/piccadilly-records/DESIGN.md) — unverified historical tokens
+- [Piel Frama](./design-md/piel-frama/DESIGN.md) — unverified historical tokens
+- [Pilgrim Surf + Supply](./design-md/pilgrim-surf-supply/DESIGN.md) — unverified historical tokens
+- [Pilot Pen](./design-md/pilot-pen/DESIGN.md) — unverified historical tokens
+- [Pininfarina Hybrid](./design-md/pininfarina-hybrid/DESIGN.md) — unverified historical tokens
+- [Pioneer](./design-md/pioneer/DESIGN.md) — unverified historical tokens
+- [Pioneer DJ](./design-md/pioneer-dj/DESIGN.md) — unverified historical tokens
+- [Pipette](./design-md/pipette/DESIGN.md) — unverified historical tokens
+- [Pippa Small](./design-md/pippa-small/DESIGN.md) — unverified historical tokens
+- [Pit Boss](./design-md/pit-boss/DESIGN.md) — unverified historical tokens
+- [Pixio](./design-md/pixio/DESIGN.md) — unverified historical tokens
+- [Planet Mu](./design-md/planet-mu/DESIGN.md) — unverified historical tokens
+- [PlanToys](./design-md/plantoys/DESIGN.md) — unverified historical tokens
+- [Plastic Empire](./design-md/plastic-empire/DESIGN.md) — unverified historical tokens
+- [Play-Asia](./design-md/play-asia/DESIGN.md) — unverified historical tokens
+- [PlayMonster](./design-md/playmonster/DESIGN.md) — unverified historical tokens
+- [PLC Direct](./design-md/plc-direct/DESIGN.md) — unverified historical tokens
+- [Plow & Hearth](./design-md/plow-and-hearth/DESIGN.md) — unverified historical tokens
+- [Plugable](./design-md/plugable/DESIGN.md) — unverified historical tokens
+- [Plum Paper](./design-md/plum-paper/DESIGN.md) — unverified historical tokens
+- [PNY](./design-md/pny/DESIGN.md) — unverified historical tokens
+- [Poetry Foundation Shop](./design-md/poetry-foundation-shop/DESIGN.md) — unverified historical tokens
+- [Poketo](./design-md/poketo/DESIGN.md) — unverified historical tokens
+- [Polywood](./design-md/polywood/DESIGN.md) — unverified historical tokens
+- [PopCult Online](./design-md/popcult-online/DESIGN.md) — unverified historical tokens
+- [Poppin](./design-md/poppin/DESIGN.md) — unverified historical tokens
+- [Posh Peanut](./design-md/posh-peanut/DESIGN.md) — unverified historical tokens
+- [Poster Store](./design-md/poster-store/DESIGN.md) — unverified historical tokens
+- [Postery](./design-md/postery/DESIGN.md) — unverified historical tokens
+- [Pottery Pots](./design-md/pottery-pots/DESIGN.md) — unverified historical tokens
+- [Powell's Books](./design-md/powell-s-books/DESIGN.md) — unverified historical tokens
+- [Power Planter](./design-md/power-planter/DESIGN.md) — unverified historical tokens
+- [Power Up Gaming](./design-md/power-up-gaming/DESIGN.md) — unverified historical tokens
+- [Powerhouse Films (Indicator)](./design-md/powerhouse-films-indicator/DESIGN.md) — unverified historical tokens
+- [Powertraveller](./design-md/powertraveller/DESIGN.md) — unverified historical tokens
+- [PowerXL](./design-md/powerxl/DESIGN.md) — unverified historical tokens
+- [Precision Record Pressing](./design-md/precision-record-pressing/DESIGN.md) — unverified historical tokens
+- [Prequel](./design-md/prequel/DESIGN.md) — unverified historical tokens
+- [Presto](./design-md/presto/DESIGN.md) — unverified historical tokens
+- [Primary](./design-md/primary/DESIGN.md) — unverified historical tokens
+- [Princeton Record Exchange](./design-md/princeton-record-exchange/DESIGN.md) — unverified historical tokens
+- [Princeton University Press](./design-md/princeton-university-press/DESIGN.md) — unverified historical tokens
+- [Print Club London](./design-md/print-club-london/DESIGN.md) — unverified historical tokens
+- [Printed Matter](./design-md/printed-matter/DESIGN.md) — unverified historical tokens
+- [Printful](./design-md/printful/DESIGN.md) — unverified historical tokens
+- [Pristine Marketplace](./design-md/pristine-marketplace/DESIGN.md) — unverified historical tokens
+- [Pro-Ject Audio Systems](./design-md/pro-ject-audio-systems/DESIGN.md) — unverified historical tokens
+- [Proclamation Goods](./design-md/proclamation-goods/DESIGN.md) — unverified historical tokens
+- [Prodigy Games](./design-md/prodigy-games/DESIGN.md) — unverified historical tokens
+- [Profitec](./design-md/profitec/DESIGN.md) — unverified historical tokens
+- [Promega](./design-md/promega/DESIGN.md) — unverified historical tokens
+- [Proper Cloth](./design-md/proper-cloth/DESIGN.md) — unverified historical tokens
+- [Prose](./design-md/prose/DESIGN.md) — unverified historical tokens
+- [Proven Winners](./design-md/proven-winners/DESIGN.md) — unverified historical tokens
+- [PRS Guitars](./design-md/prs-guitars/DESIGN.md) — unverified historical tokens
+- [Prusa Research](./design-md/prusa-research/DESIGN.md) — unverified historical tokens
+- [PsPrint](./design-md/psprint/DESIGN.md) — unverified historical tokens
+- [Public - Supply](./design-md/public-supply/DESIGN.md) — unverified historical tokens
+- [Public Goods](./design-md/public-goods/DESIGN.md) — unverified historical tokens
+- [Pulsar](./design-md/pulsar/DESIGN.md) — unverified historical tokens
+- [Puori](./design-md/puori/DESIGN.md) — unverified historical tokens
+- [Pura](./design-md/pura/DESIGN.md) — unverified historical tokens
+- [Pura Vida Bracelets](./design-md/pura-vida-bracelets/DESIGN.md) — unverified historical tokens
+- [Puracy](./design-md/puracy/DESIGN.md) — unverified historical tokens
+- [Puzz](./design-md/puzz/DESIGN.md) — unverified historical tokens
+- [Pwnage](./design-md/pwnage/DESIGN.md) — unverified historical tokens
+- [Pyramex Safety](./design-md/pyramex-safety/DESIGN.md) — unverified historical tokens
+- [Qanba](./design-md/qanba/DESIGN.md) — unverified historical tokens
+- [Qiagen](./design-md/qiagen/DESIGN.md) — unverified historical tokens
+- [QNAP](./design-md/qnap/DESIGN.md) — unverified historical tokens
+- [Quality Arcades](./design-md/quality-arcades/DESIGN.md) — unverified historical tokens
+- [Quality Hydraulics](./design-md/quality-hydraulics/DESIGN.md) — unverified historical tokens
+- [Quartet](./design-md/quartet/DESIGN.md) — unverified historical tokens
+- [Queensmith](./design-md/queensmith/DESIGN.md) — unverified historical tokens
+- [Quill & Fox](./design-md/quill-and-fox/DESIGN.md) — unverified historical tokens
+- [Quince](./design-md/quince/DESIGN.md) — unverified historical tokens
+- [Quincy Mae](./design-md/quincy-mae/DESIGN.md) — unverified historical tokens
+- [Quip](./design-md/quip/DESIGN.md) — unverified historical tokens
+- [R&R Games](./design-md/r-and-r-games/DESIGN.md) — unverified historical tokens
+- [Rabbit](./design-md/rabbit/DESIGN.md) — unverified historical tokens
+- [Rachio](./design-md/rachio/DESIGN.md) — unverified historical tokens
+- [Rad Power Bikes](./design-md/rad-power-bikes/DESIGN.md) — unverified historical tokens
+- [Radians](./design-md/radians/DESIGN.md) — unverified historical tokens
+- [Radio Flyer](./design-md/radio-flyer/DESIGN.md) — unverified historical tokens
+- [Radtec](./design-md/radtec/DESIGN.md) — unverified historical tokens
+- [Radtke Sports](./design-md/radtke-sports/DESIGN.md) — unverified historical tokens
+- [Radwell International](./design-md/radwell-international/DESIGN.md) — unverified historical tokens
+- [Rael](./design-md/rael/DESIGN.md) — unverified historical tokens
+- [RAMA WORKS](./design-md/rama-works/DESIGN.md) — unverified historical tokens
+- [Rancilio](./design-md/rancilio/DESIGN.md) — unverified historical tokens
+- [Rane](./design-md/rane/DESIGN.md) — unverified historical tokens
+- [RapidX](./design-md/rapidx/DESIGN.md) — unverified historical tokens
+- [Raptic](./design-md/raptic/DESIGN.md) — unverified historical tokens
+- [Raptis Rare Books](./design-md/raptis-rare-books/DESIGN.md) — unverified historical tokens
+- [Rare Beauty](./design-md/rare-beauty/DESIGN.md) — unverified historical tokens
+- [Rarewaves](./design-md/rarewaves/DESIGN.md) — unverified historical tokens
+- [Rascal + Friends](./design-md/rascal-friends/DESIGN.md) — unverified historical tokens
+- [Rasputin Music](./design-md/rasputin-music/DESIGN.md) — unverified historical tokens
+- [Ravensburger](./design-md/ravensburger/DESIGN.md) — unverified historical tokens
+- [RavPower](./design-md/ravpower/DESIGN.md) — unverified historical tokens
+- [Razer](./design-md/razer/DESIGN.md) — unverified historical tokens
+- [RC Fastener](./design-md/rc-fastener/DESIGN.md) — unverified historical tokens
+- [Realforce](./design-md/realforce/DESIGN.md) — unverified historical tokens
+- [Realisation Par](./design-md/realisation-par/DESIGN.md) — unverified historical tokens
+- [Reaper Miniatures](./design-md/reaper-miniatures/DESIGN.md) — unverified historical tokens
+- [Reckless Records](./design-md/reckless-records/DESIGN.md) — unverified historical tokens
+- [Record City Japan](./design-md/record-city-japan/DESIGN.md) — unverified historical tokens
+- [Record Grouch](./design-md/record-grouch/DESIGN.md) — unverified historical tokens
+- [Red Lion Controls](./design-md/red-lion-controls/DESIGN.md) — unverified historical tokens
+- [Red Paddle Co](./design-md/red-paddle-co/DESIGN.md) — unverified historical tokens
+- [Redeye Records](./design-md/redeye-records/DESIGN.md) — unverified historical tokens
+- [Reel Paper](./design-md/reel-paper/DESIGN.md) — unverified historical tokens
+- [Reference Recordings](./design-md/reference-recordings/DESIGN.md) — unverified historical tokens
+- [Reformation](./design-md/reformation/DESIGN.md) — unverified historical tokens
+- [Rega Research](./design-md/rega-research/DESIGN.md) — unverified historical tokens
+- [Rejuvenation](./design-md/rejuvenation/DESIGN.md) — unverified historical tokens
+- [Rejuvenation Vintage](./design-md/rejuvenation-vintage/DESIGN.md) — unverified historical tokens
+- [Relapse Records](./design-md/relapse-records/DESIGN.md) — unverified historical tokens
+- [Reloop](./design-md/reloop/DESIGN.md) — unverified historical tokens
+- [Renegade Game Studios](./design-md/renegade-game-studios/DESIGN.md) — unverified historical tokens
+- [Renoun Skis](./design-md/renoun-skis/DESIGN.md) — unverified historical tokens
+- [Rep Fitness](./design-md/rep-fitness/DESIGN.md) — unverified historical tokens
+- [Resident Music](./design-md/resident-music/DESIGN.md) — unverified historical tokens
+- [Restoration Games](./design-md/restoration-games/DESIGN.md) — unverified historical tokens
+- [Retro City Games](./design-md/retro-city-games/DESIGN.md) — unverified historical tokens
+- [Retro Games UK](./design-md/retro-games-uk/DESIGN.md) — unverified historical tokens
+- [Retro vGames](./design-md/retro-vgames/DESIGN.md) — unverified historical tokens
+- [Retro-Cade](./design-md/retro-cade/DESIGN.md) — unverified historical tokens
+- [Retrouvai](./design-md/retrouvai/DESIGN.md) — unverified historical tokens
+- [RevHQ](./design-md/revhq/DESIGN.md) — unverified historical tokens
+- [Revival Rugs](./design-md/revival-rugs/DESIGN.md) — unverified historical tokens
+- [Rhode](./design-md/rhode/DESIGN.md) — unverified historical tokens
+- [Rhodia](./design-md/rhodia/DESIGN.md) — unverified historical tokens
+- [Rhone](./design-md/rhone/DESIGN.md) — unverified historical tokens
+- [Riccar](./design-md/riccar/DESIGN.md) — unverified historical tokens
+- [Richmond & Finch](./design-md/richmond-and-finch/DESIGN.md) — unverified historical tokens
+- [Rifle Paper Co.](./design-md/rifle-paper-co/DESIGN.md) — unverified historical tokens
+- [RightStuf Anime (Legacy link)](./design-md/rightstuf-anime-legacy-link/DESIGN.md) — unverified historical tokens
+- [Riley Home](./design-md/riley-home/DESIGN.md) — unverified historical tokens
+- [Rise Art](./design-md/rise-art/DESIGN.md) — unverified historical tokens
+- [Rise Gardens](./design-md/rise-gardens/DESIGN.md) — unverified historical tokens
+- [Ritani](./design-md/ritani/DESIGN.md) — unverified historical tokens
+- [Ritual](./design-md/ritual/DESIGN.md) — unverified historical tokens
+- [Rizzoli Bookstore](./design-md/rizzoli-bookstore/DESIGN.md) — unverified historical tokens
+- [ROA](./design-md/roa/DESIGN.md) — unverified historical tokens
+- [Roborock](./design-md/roborock/DESIGN.md) — unverified historical tokens
+- [Robot Coupe](./design-md/robot-coupe/DESIGN.md) — unverified historical tokens
+- [Rock Archive](./design-md/rock-archive/DESIGN.md) — unverified historical tokens
+- [Rocket Espresso](./design-md/rocket-espresso/DESIGN.md) — unverified historical tokens
+- [Rogue Fitness](./design-md/rogue-fitness/DESIGN.md) — unverified historical tokens
+- [Rolling Square](./design-md/rolling-square/DESIGN.md) — unverified historical tokens
+- [Roman](./design-md/roman/DESIGN.md) — unverified historical tokens
+- [Romoss](./design-md/romoss/DESIGN.md) — unverified historical tokens
+- [Rooted](./design-md/rooted/DESIGN.md) — unverified historical tokens
+- [Roterunner](./design-md/roterunner/DESIGN.md) — unverified historical tokens
+- [Rough Trade UK](./design-md/rough-trade-uk/DESIGN.md) — unverified historical tokens
+- [Rough Trade US](./design-md/rough-trade-us/DESIGN.md) — unverified historical tokens
+- [Rouje](./design-md/rouje/DESIGN.md) — unverified historical tokens
+- [Rowenta](./design-md/rowenta/DESIGN.md) — unverified historical tokens
+- [Roxanne Assoulin](./design-md/roxanne-assoulin/DESIGN.md) — unverified historical tokens
+- [Royal Botania](./design-md/royal-botania/DESIGN.md) — unverified historical tokens
+- [Royal Consumer Information](./design-md/royal-consumer-information/DESIGN.md) — unverified historical tokens
+- [RS (RS Group)](./design-md/rs-rs-group/DESIGN.md) — unverified historical tokens
+- [RTIC Outdoors](./design-md/rtic-outdoors/DESIGN.md) — unverified historical tokens
+- [Ruggable](./design-md/ruggable/DESIGN.md) — unverified historical tokens
+- [Rugs USA](./design-md/rugs-usa/DESIGN.md) — unverified historical tokens
+- [Russell+Hazel](./design-md/russell-hazel/DESIGN.md) — unverified historical tokens
+- [Rylee + Cru](./design-md/rylee-cru/DESIGN.md) — unverified historical tokens
+- [Ryobi](./design-md/ryobi/DESIGN.md) — unverified historical tokens
+- [Saalt](./design-md/saalt/DESIGN.md) — unverified historical tokens
+- [Saatva](./design-md/saatva/DESIGN.md) — unverified historical tokens
+- [Sabai](./design-md/sabai/DESIGN.md) — unverified historical tokens
+- [Sabrent](./design-md/sabrent/DESIGN.md) — unverified historical tokens
+- [Sabyasachi](./design-md/sabyasachi/DESIGN.md) — unverified historical tokens
+- [Saddle Creek](./design-md/saddle-creek/DESIGN.md) — unverified historical tokens
+- [Safavieh](./design-md/safavieh/DESIGN.md) — unverified historical tokens
+- [Saie](./design-md/saie/DESIGN.md) — unverified historical tokens
+- [Sakura of America](./design-md/sakura-of-america/DESIGN.md) — unverified historical tokens
+- [Salazar Packaging](./design-md/salazar-packaging/DESIGN.md) — unverified historical tokens
+- [Salt Oral Care](./design-md/salt-oral-care/DESIGN.md) — unverified historical tokens
+- [Samsung](./design-md/samsung/DESIGN.md) — unverified historical tokens
+- [SanDisk](./design-md/sandisk/DESIGN.md) — unverified historical tokens
+- [Sarah Flint](./design-md/sarah-flint/DESIGN.md) — unverified historical tokens
+- [Sardel](./design-md/sardel/DESIGN.md) — unverified historical tokens
+- [Sargent Art](./design-md/sargent-art/DESIGN.md) — unverified historical tokens
+- [Satechi](./design-md/satechi/DESIGN.md) — unverified historical tokens
+- [Satisfy](./design-md/satisfy/DESIGN.md) — unverified historical tokens
+- [Satya Jewelry](./design-md/satya-jewelry/DESIGN.md) — unverified historical tokens
+- [Sceptre](./design-md/sceptre/DESIGN.md) — unverified historical tokens
+- [Schoolhouse](./design-md/schoolhouse/DESIGN.md) — unverified historical tokens
+- [Schwank](./design-md/schwank/DESIGN.md) — unverified historical tokens
+- [Science Company](./design-md/science-company/DESIGN.md) — unverified historical tokens
+- [Science Kit (VWR)](./design-md/science-kit-vwr/DESIGN.md) — unverified historical tokens
+- [Scosche](./design-md/scosche/DESIGN.md) — unverified historical tokens
+- [Scotch Porter](./design-md/scotch-porter/DESIGN.md) — unverified historical tokens
+- [ScreenShield](./design-md/screenshield/DESIGN.md) — unverified historical tokens
+- [SCUF Gaming](./design-md/scuf-gaming/DESIGN.md) — unverified historical tokens
+- [Scuffers](./design-md/scuffers/DESIGN.md) — unverified historical tokens
+- [SD Bullion](./design-md/sd-bullion/DESIGN.md) — unverified historical tokens
+- [Sea to Summit](./design-md/sea-to-summit/DESIGN.md) — unverified historical tokens
+- [Seagate](./design-md/seagate/DESIGN.md) — unverified historical tokens
+- [Season of Mist](./design-md/season-of-mist/DESIGN.md) — unverified historical tokens
+- [Sebo](./design-md/sebo/DESIGN.md) — unverified historical tokens
+- [Second Sight Films](./design-md/second-sight-films/DESIGN.md) — unverified historical tokens
+- [Secretlab (Office)](./design-md/secretlab-office/DESIGN.md) — unverified historical tokens
+- [Secretly Store](./design-md/secretly-store/DESIGN.md) — unverified historical tokens
+- [Seed](./design-md/seed/DESIGN.md) — unverified historical tokens
+- [Seiko](./design-md/seiko/DESIGN.md) — unverified historical tokens
+- [Selmer Paris](./design-md/selmer-paris/DESIGN.md) — unverified historical tokens
+- [Sena Cases](./design-md/sena-cases/DESIGN.md) — unverified historical tokens
+- [Serena & Lily](./design-md/serena-and-lily/DESIGN.md) — unverified historical tokens
+- [Seventh Generation](./design-md/seventh-generation/DESIGN.md) — unverified historical tokens
+- [Severin Films](./design-md/severin-films/DESIGN.md) — unverified historical tokens
+- [Seville Classics](./design-md/seville-classics/DESIGN.md) — unverified historical tokens
+- [Shake It Records](./design-md/shake-it-records/DESIGN.md) — unverified historical tokens
+- [Shameless Films](./design-md/shameless-films/DESIGN.md) — unverified historical tokens
+- [Shark](./design-md/shark/DESIGN.md) — unverified historical tokens
+- [Sharp](./design-md/sharp/DESIGN.md) — unverified historical tokens
+- [Sharpie](./design-md/sharpie/DESIGN.md) — unverified historical tokens
+- [Shashi](./design-md/shashi/DESIGN.md) — unverified historical tokens
+- [SheetLabels.com](./design-md/sheetlabels-com/DESIGN.md) — unverified historical tokens
+- [Sheets Laundry Club](./design-md/sheets-laundry-club/DESIGN.md) — unverified historical tokens
+- [Shelflove Crate](./design-md/shelflove-crate/DESIGN.md) — unverified historical tokens
+- [Shop RSA](./design-md/shop-rsa/DESIGN.md) — unverified historical tokens
+- [ShopBot Tools](./design-md/shopbot-tools/DESIGN.md) — unverified historical tokens
+- [Shout! Factory](./design-md/shout-factory/DESIGN.md) — unverified historical tokens
+- [Sideshow](./design-md/sideshow/DESIGN.md) — unverified historical tokens
+- [Sijo](./design-md/sijo/DESIGN.md) — unverified historical tokens
+- [Silicon Power](./design-md/silicon-power/DESIGN.md) — unverified historical tokens
+- [Silkland](./design-md/silkland/DESIGN.md) — unverified historical tokens
+- [Silver Platters](./design-md/silver-platters/DESIGN.md) — unverified historical tokens
+- [Silverts](./design-md/silverts/DESIGN.md) — unverified historical tokens
+- [Simms Fishing](./design-md/simms-fishing/DESIGN.md) — unverified historical tokens
+- [Simplicity](./design-md/simplicity/DESIGN.md) — unverified historical tokens
+- [Simplified](./design-md/simplified/DESIGN.md) — unverified historical tokens
+- [Single Stone](./design-md/single-stone/DESIGN.md) — unverified historical tokens
+- [SIT Strings](./design-md/sit-strings/DESIGN.md) — unverified historical tokens
+- [Skagen](./design-md/skagen/DESIGN.md) — unverified historical tokens
+- [Skin Pharm](./design-md/skin-pharm/DESIGN.md) — unverified historical tokens
+- [Skip Hop](./design-md/skip-hop/DESIGN.md) — unverified historical tokens
+- [Skylar](./design-md/skylar/DESIGN.md) — unverified historical tokens
+- [Slackers](./design-md/slackers/DESIGN.md) — unverified historical tokens
+- [Slumber Cloud](./design-md/slumber-cloud/DESIGN.md) — unverified historical tokens
+- [SmartGames](./design-md/smartgames/DESIGN.md) — unverified historical tokens
+- [Smile Therapy](./design-md/smile-therapy/DESIGN.md) — unverified historical tokens
+- [Smithey](./design-md/smithey/DESIGN.md) — unverified historical tokens
+- [Smythson](./design-md/smythson/DESIGN.md) — unverified historical tokens
+- [Sneeboer](./design-md/sneeboer/DESIGN.md) — unverified historical tokens
+- [Snif](./design-md/snif/DESIGN.md) — unverified historical tokens
+- [Snow Peak](./design-md/snow-peak/DESIGN.md) — unverified historical tokens
+- [Society of Wanderers](./design-md/society-of-wanderers/DESIGN.md) — unverified historical tokens
+- [SodaStream](./design-md/sodastream/DESIGN.md) — unverified historical tokens
+- [Sofia Zakia](./design-md/sofia-zakia/DESIGN.md) — unverified historical tokens
+- [Soft Services](./design-md/soft-services/DESIGN.md) — unverified historical tokens
+- [Soho Home](./design-md/soho-home/DESIGN.md) — unverified historical tokens
+- [Solaris Japan](./design-md/solaris-japan/DESIGN.md) — unverified historical tokens
+- [Solawave](./design-md/solawave/DESIGN.md) — unverified historical tokens
+- [Solly Baby](./design-md/solly-baby/DESIGN.md) — unverified historical tokens
+- [Solo Stove](./design-md/solo-stove/DESIGN.md) — unverified historical tokens
+- [Soma](./design-md/soma/DESIGN.md) — unverified historical tokens
+- [Sonic Editions](./design-md/sonic-editions/DESIGN.md) — unverified historical tokens
+- [Sonix](./design-md/sonix/DESIGN.md) — unverified historical tokens
+- [Sophie Buhai](./design-md/sophie-buhai/DESIGN.md) — unverified historical tokens
+- [Sounds of the Universe](./design-md/sounds-of-the-universe/DESIGN.md) — unverified historical tokens
+- [Southern Lord](./design-md/southern-lord/DESIGN.md) — unverified historical tokens
+- [Sp5der](./design-md/sp5der/DESIGN.md) — unverified historical tokens
+- [Spark Grills](./design-md/spark-grills/DESIGN.md) — unverified historical tokens
+- [Spear & Jackson](./design-md/spear-and-jackson/DESIGN.md) — unverified historical tokens
+- [Specialized](./design-md/specialized/DESIGN.md) — unverified historical tokens
+- [Speed Queen](./design-md/speed-queen/DESIGN.md) — unverified historical tokens
+- [Sphero](./design-md/sphero/DESIGN.md) — unverified historical tokens
+- [SPI Safety](./design-md/spi-safety/DESIGN.md) — unverified historical tokens
+- [Spiritual Gangster](./design-md/spiritual-gangster/DESIGN.md) — unverified historical tokens
+- [Sports Memorabilia](./design-md/sports-memorabilia/DESIGN.md) — unverified historical tokens
+- [Sprüth Magers](./design-md/spruth-magers/DESIGN.md) — unverified historical tokens
+- [Square Enix Store](./design-md/square-enix-store/DESIGN.md) — unverified historical tokens
+- [Squishmallows](./design-md/squishmallows/DESIGN.md) — unverified historical tokens
+- [Staber](./design-md/staber/DESIGN.md) — unverified historical tokens
+- [Stalogy](./design-md/stalogy/DESIGN.md) — unverified historical tokens
+- [Stance](./design-md/stance/DESIGN.md) — unverified historical tokens
+- [Stanford University Press](./design-md/stanford-university-press/DESIGN.md) — unverified historical tokens
+- [Stanley Gibbons](./design-md/stanley-gibbons/DESIGN.md) — unverified historical tokens
+- [Star City Games](./design-md/star-city-games/DESIGN.md) — unverified historical tokens
+- [Starboard](./design-md/starboard/DESIGN.md) — unverified historical tokens
+- [Starface](./design-md/starface/DESIGN.md) — unverified historical tokens
+- [StarTech](./design-md/startech/DESIGN.md) — unverified historical tokens
+- [Statik](./design-md/statik/DESIGN.md) — unverified historical tokens
+- [StationeryHQ](./design-md/stationeryhq/DESIGN.md) — unverified historical tokens
+- [Staud](./design-md/staud/DESIGN.md) — unverified historical tokens
+- [Steel City Collectibles](./design-md/steel-city-collectibles/DESIGN.md) — unverified historical tokens
+- [Steelcase](./design-md/steelcase/DESIGN.md) — unverified historical tokens
+- [Steelcase (Chairs)](./design-md/steelcase-chairs/DESIGN.md) — unverified historical tokens
+- [SteelSeries](./design-md/steelseries/DESIGN.md) — unverified historical tokens
+- [Steiff](./design-md/steiff/DESIGN.md) — unverified historical tokens
+- [Steiner Sports](./design-md/steiner-sports/DESIGN.md) — unverified historical tokens
+- [Step2](./design-md/step2/DESIGN.md) — unverified historical tokens
+- [Stephanie Gottlieb](./design-md/stephanie-gottlieb/DESIGN.md) — unverified historical tokens
+- [Sterling Rope](./design-md/sterling-rope/DESIGN.md) — unverified historical tokens
+- [Steve Spangler Science](./design-md/steve-spangler-science/DESIGN.md) — unverified historical tokens
+- [Sticker Mule](./design-md/sticker-mule/DESIGN.md) — unverified historical tokens
+- [Stix](./design-md/stix/DESIGN.md) — unverified historical tokens
+- [STM Goods](./design-md/stm-goods/DESIGN.md) — unverified historical tokens
+- [Stock Tank Pool](./design-md/stock-tank-pool/DESIGN.md) — unverified historical tokens
+- [Stockfisch Records](./design-md/stockfisch-records/DESIGN.md) — unverified historical tokens
+- [Stomping Grounds TCG](./design-md/stomping-grounds-tcg/DESIGN.md) — unverified historical tokens
+- [Stone Glacier](./design-md/stone-glacier/DESIGN.md) — unverified historical tokens
+- [Stonemaier Games](./design-md/stonemaier-games/DESIGN.md) — unverified historical tokens
+- [Stones Throw Records](./design-md/stones-throw-records/DESIGN.md) — unverified historical tokens
+- [Strand Books](./design-md/strand-books/DESIGN.md) — unverified historical tokens
+- [StrangeCat Toys](./design-md/strangecat-toys/DESIGN.md) — unverified historical tokens
+- [StrapsCo](./design-md/strapsco/DESIGN.md) — unverified historical tokens
+- [StringWorks](./design-md/stringworks/DESIGN.md) — unverified historical tokens
+- [Stripes Beauty](./design-md/stripes-beauty/DESIGN.md) — unverified historical tokens
+- [Studio Underd0g](./design-md/studio-underd0g/DESIGN.md) — unverified historical tokens
+- [SturmGlow (Dr. Barbara Sturm)](./design-md/sturmglow-dr-barbara-sturm/DESIGN.md) — unverified historical tokens
+- [Stüssy](./design-md/stussy/DESIGN.md) — unverified historical tokens
+- [Sub Pop Megamart](./design-md/sub-pop-megamart/DESIGN.md) — unverified historical tokens
+- [Sub-Zero](./design-md/sub-zero/DESIGN.md) — unverified historical tokens
+- [Sugar Paper](./design-md/sugar-paper/DESIGN.md) — unverified historical tokens
+- [Sugarlift](./design-md/sugarlift/DESIGN.md) — unverified historical tokens
+- [Suhr](./design-md/suhr/DESIGN.md) — unverified historical tokens
+- [Summer Classics](./design-md/summer-classics/DESIGN.md) — unverified historical tokens
+- [Summer Fridays](./design-md/summer-fridays/DESIGN.md) — unverified historical tokens
+- [Sunday](./design-md/sunday/DESIGN.md) — unverified historical tokens
+- [Sundays for Dogs](./design-md/sundays-for-dogs/DESIGN.md) — unverified historical tokens
+- [Supcase](./design-md/supcase/DESIGN.md) — unverified historical tokens
+- [Super7](./design-md/super7/DESIGN.md) — unverified historical tokens
+- [Supergiant Games Store](./design-md/supergiant-games-store/DESIGN.md) — unverified historical tokens
+- [Supershieldz](./design-md/supershieldz/DESIGN.md) — unverified historical tokens
+- [Supreme](./design-md/supreme/DESIGN.md) — unverified historical tokens
+- [Survivor](./design-md/survivor/DESIGN.md) — unverified historical tokens
+- [Susan Caplan](./design-md/susan-caplan/DESIGN.md) — unverified historical tokens
+- [Suzanne Kalan](./design-md/suzanne-kalan/DESIGN.md) — unverified historical tokens
+- [Sweaty Betty](./design-md/sweaty-betty/DESIGN.md) — unverified historical tokens
+- [Synapse Films](./design-md/synapse-films/DESIGN.md) — unverified historical tokens
+- [Syncwire](./design-md/syncwire/DESIGN.md) — unverified historical tokens
+- [Synology](./design-md/synology/DESIGN.md) — unverified historical tokens
+- [System76](./design-md/system76/DESIGN.md) — unverified historical tokens
+- [Sézane](./design-md/sezane/DESIGN.md) — unverified historical tokens
+- [TAB](./design-md/tab/DESIGN.md) — unverified historical tokens
+- [Taikan](./design-md/taikan/DESIGN.md) — unverified historical tokens
+- [Tales for Tadpoles](./design-md/tales-for-tadpoles/DESIGN.md) — unverified historical tokens
+- [Tanner Bolt](./design-md/tanner-bolt/DESIGN.md) — unverified historical tokens
+- [Tappan Collective](./design-md/tappan-collective/DESIGN.md) — unverified historical tokens
+- [Tarinika](./design-md/tarinika/DESIGN.md) — unverified historical tokens
+- [Taschen](./design-md/taschen/DESIGN.md) — unverified historical tokens
+- [Taylor & Hart](./design-md/taylor-and-hart/DESIGN.md) — unverified historical tokens
+- [Taylor Stitch](./design-md/taylor-stitch/DESIGN.md) — unverified historical tokens
+- [TechMatte](./design-md/techmatte/DESIGN.md) — unverified historical tokens
+- [Technique](./design-md/technique/DESIGN.md) — unverified historical tokens
+- [Technogym](./design-md/technogym/DESIGN.md) — unverified historical tokens
+- [Tefal](./design-md/tefal/DESIGN.md) — unverified historical tokens
+- [Tegu](./design-md/tegu/DESIGN.md) — unverified historical tokens
+- [Tekla](./design-md/tekla/DESIGN.md) — unverified historical tokens
+- [Telescope Casual](./design-md/telescope-casual/DESIGN.md) — unverified historical tokens
+- [Tenacious Toys](./design-md/tenacious-toys/DESIGN.md) — unverified historical tokens
+- [Tenda](./design-md/tenda/DESIGN.md) — unverified historical tokens
+- [Tender Leaf Toys](./design-md/tender-leaf-toys/DESIGN.md) — unverified historical tokens
+- [Terra](./design-md/terra/DESIGN.md) — unverified historical tokens
+- [Terra Universal](./design-md/terra-universal/DESIGN.md) — unverified historical tokens
+- [Terrapin Stationers](./design-md/terrapin-stationers/DESIGN.md) — unverified historical tokens
+- [Terror Vision](./design-md/terror-vision/DESIGN.md) — unverified historical tokens
+- [Teton Gravity Research](./design-md/teton-gravity-research/DESIGN.md) — unverified historical tokens
+- [Thaddaeus Ropac](./design-md/thaddaeus-ropac/DESIGN.md) — unverified historical tokens
+- [Thames & Kosmos](./design-md/thames-and-kosmos/DESIGN.md) — unverified historical tokens
+- [The AC Outlet](./design-md/ac-outlet/DESIGN.md) — unverified historical tokens
+- [The Artling](./design-md/artling/DESIGN.md) — unverified historical tokens
+- [The Children's Book Shop](./design-md/children-s-book-shop/DESIGN.md) — unverified historical tokens
+- [The Citizenry](./design-md/citizenry/DESIGN.md) — unverified historical tokens
+- [The Clear Cut](./design-md/clear-cut/DESIGN.md) — unverified historical tokens
+- [The Container Store](./design-md/container-store/DESIGN.md) — unverified historical tokens
+- [The Criterion Collection](./design-md/criterion-collection/DESIGN.md) — unverified historical tokens
+- [The Drama Book Shop](./design-md/drama-book-shop/DESIGN.md) — unverified historical tokens
+- [The Electric Fetus](./design-md/electric-fetus/DESIGN.md) — unverified historical tokens
+- [The Fabled](./design-md/fabled/DESIGN.md) — unverified historical tokens
+- [The Farmer__ Dog](./design-md/farmer-dog/DESIGN.md) — unverified historical tokens
+- [The Feminist Press](./design-md/feminist-press/DESIGN.md) — unverified historical tokens
+- [The First Edition Rare Books](./design-md/first-edition-rare-books/DESIGN.md) — unverified historical tokens
+- [The Frankie Shop](./design-md/frankie-shop/DESIGN.md) — unverified historical tokens
+- [The Honey Pot Company](./design-md/honey-pot-company/DESIGN.md) — unverified historical tokens
+- [The Humble Co.](./design-md/humble-co/DESIGN.md) — unverified historical tokens
+- [The Last Bookstore](./design-md/last-bookstore/DESIGN.md) — unverified historical tokens
+- [The Last Line](./design-md/last-line/DESIGN.md) — unverified historical tokens
+- [The Laundress](./design-md/laundress/DESIGN.md) — unverified historical tokens
+- [The Mysterious Bookshop](./design-md/mysterious-bookshop/DESIGN.md) — unverified historical tokens
+- [The North Way Studio](./design-md/north-way-studio/DESIGN.md) — unverified historical tokens
+- [The Ordinary](./design-md/ordinary/DESIGN.md) — unverified historical tokens
+- [The Paper Mill Store](./design-md/paper-mill-store/DESIGN.md) — unverified historical tokens
+- [The Perfect Jean](./design-md/perfect-jean/DESIGN.md) — unverified historical tokens
+- [The Poster Club](./design-md/poster-club/DESIGN.md) — unverified historical tokens
+- [The Rare Whiskey Shop](./design-md/rare-whiskey-shop/DESIGN.md) — unverified historical tokens
+- [The Ruptured Duck](./design-md/ruptured-duck/DESIGN.md) — unverified historical tokens
+- [The Sill](./design-md/sill/DESIGN.md) — unverified historical tokens
+- [Thermador](./design-md/thermador/DESIGN.md) — unverified historical tokens
+- [ThermalTake](./design-md/thermaltake/DESIGN.md) — unverified historical tokens
+- [Thermo Fisher Scientific](./design-md/thermo-fisher-scientific/DESIGN.md) — unverified historical tokens
+- [Things From Another World](./design-md/things-from-another-world/DESIGN.md) — unverified historical tokens
+- [Think Board](./design-md/think-board/DESIGN.md) — unverified historical tokens
+- [Thinx](./design-md/thinx/DESIGN.md) — unverified historical tokens
+- [Third Eye Comics](./design-md/third-eye-comics/DESIGN.md) — unverified historical tokens
+- [Third Window Films](./design-md/third-window-films/DESIGN.md) — unverified historical tokens
+- [Thomas Scientific](./design-md/thomas-scientific/DESIGN.md) — unverified historical tokens
+- [Thorlabs](./design-md/thorlabs/DESIGN.md) — unverified historical tokens
+- [Three Ships](./design-md/three-ships/DESIGN.md) — unverified historical tokens
+- [Thursday Boots](./design-md/thursday-boots/DESIGN.md) — unverified historical tokens
+- [Tia](./design-md/tia/DESIGN.md) — unverified historical tokens
+- [Tiger](./design-md/tiger/DESIGN.md) — unverified historical tokens
+- [Tilit](./design-md/tilit/DESIGN.md) — unverified historical tokens
+- [Tilly Sveaas](./design-md/tilly-sveaas/DESIGN.md) — unverified historical tokens
+- [Timbuk2](./design-md/timbuk2/DESIGN.md) — unverified historical tokens
+- [Timex](./design-md/timex/DESIGN.md) — unverified historical tokens
+- [Tin House](./design-md/tin-house/DESIGN.md) — unverified historical tokens
+- [Tineco](./design-md/tineco/DESIGN.md) — unverified historical tokens
+- [Tingley Rubber](./design-md/tingley-rubber/DESIGN.md) — unverified historical tokens
+- [Tinkering Labs](./design-md/tinkering-labs/DESIGN.md) — unverified historical tokens
+- [Tissot](./design-md/tissot/DESIGN.md) — unverified historical tokens
+- [Toast](./design-md/toast/DESIGN.md) — unverified historical tokens
+- [Tocris Bioscience](./design-md/tocris-bioscience/DESIGN.md) — unverified historical tokens
+- [Todd Merrill Studio](./design-md/todd-merrill-studio/DESIGN.md) — unverified historical tokens
+- [Tokyo Otaku Mode](./design-md/tokyo-otaku-mode/DESIGN.md) — unverified historical tokens
+- [Tom Anderson](./design-md/tom-anderson/DESIGN.md) — unverified historical tokens
+- [Tom Wood](./design-md/tom-wood/DESIGN.md) — unverified historical tokens
+- [Tombow](./design-md/tombow/DESIGN.md) — unverified historical tokens
+- [Tonal](./design-md/tonal/DESIGN.md) — unverified historical tokens
+- [Topicals](./design-md/topicals/DESIGN.md) — unverified historical tokens
+- [Topologie](./design-md/topologie/DESIGN.md) — unverified historical tokens
+- [Topps](./design-md/topps/DESIGN.md) — unverified historical tokens
+- [Toro](./design-md/toro/DESIGN.md) — unverified historical tokens
+- [Toshiba](./design-md/toshiba/DESIGN.md) — unverified historical tokens
+- [Totallee](./design-md/totallee/DESIGN.md) — unverified historical tokens
+- [Tower 28](./design-md/tower-28/DESIGN.md) — unverified historical tokens
+- [Tower Paddle Boards](./design-md/tower-paddle-boards/DESIGN.md) — unverified historical tokens
+- [TP-Link](./design-md/tp-link/DESIGN.md) — unverified historical tokens
+- [Tracksmith](./design-md/tracksmith/DESIGN.md) — unverified historical tokens
+- [Traeger](./design-md/traeger/DESIGN.md) — unverified historical tokens
+- [Transcat](./design-md/transcat/DESIGN.md) — unverified historical tokens
+- [Transparent Labs](./design-md/transparent-labs/DESIGN.md) — unverified historical tokens
+- [Traveler's Company](./design-md/traveler-s-company/DESIGN.md) — unverified historical tokens
+- [Trek](./design-md/trek/DESIGN.md) — unverified historical tokens
+- [Trex Outdoor Furniture](./design-md/trex-outdoor-furniture/DESIGN.md) — unverified historical tokens
+- [Triarchy](./design-md/triarchy/DESIGN.md) — unverified historical tokens
+- [Troll and Toad](./design-md/troll-and-toad/DESIGN.md) — unverified historical tokens
+- [Troma Direct](./design-md/troma-direct/DESIGN.md) — unverified historical tokens
+- [Trotec Laser](./design-md/trotec-laser/DESIGN.md) — unverified historical tokens
+- [Tubby Todd](./design-md/tubby-todd/DESIGN.md) — unverified historical tokens
+- [Tudor](./design-md/tudor/DESIGN.md) — unverified historical tokens
+- [Tumble](./design-md/tumble/DESIGN.md) — unverified historical tokens
+- [Turntable Lab](./design-md/turntable-lab/DESIGN.md) — unverified historical tokens
+- [Turtle Beach](./design-md/turtle-beach/DESIGN.md) — unverified historical tokens
+- [Tushy](./design-md/tushy/DESIGN.md) — unverified historical tokens
+- [Twelve South](./design-md/twelve-south/DESIGN.md) — unverified historical tokens
+- [Tylko](./design-md/tylko/DESIGN.md) — unverified historical tokens
+- [Ubiquiti](./design-md/ubiquiti/DESIGN.md) — unverified historical tokens
+- [Ubisoft Store](./design-md/ubisoft-store/DESIGN.md) — unverified historical tokens
+- [UGallery](./design-md/ugallery/DESIGN.md) — unverified historical tokens
+- [Ugmonk](./design-md/ugmonk/DESIGN.md) — unverified historical tokens
+- [Ugreen](./design-md/ugreen/DESIGN.md) — unverified historical tokens
+- [Uline](./design-md/uline/DESIGN.md) — unverified historical tokens
+- [Ultimaker](./design-md/ultimaker/DESIGN.md) — unverified historical tokens
+- [Ultimate Autographs](./design-md/ultimate-autographs/DESIGN.md) — unverified historical tokens
+- [Umbrella Entertainment](./design-md/umbrella-entertainment/DESIGN.md) — unverified historical tokens
+- [Unbottled](./design-md/unbottled/DESIGN.md) — unverified historical tokens
+- [Uncommon Goods](./design-md/uncommon-goods/DESIGN.md) — unverified historical tokens
+- [Uni-ball](./design-md/uni-ball/DESIGN.md) — unverified historical tokens
+- [UniAccessories](./design-md/uniaccessories/DESIGN.md) — unverified historical tokens
+- [Unimatic](./design-md/unimatic/DESIGN.md) — unverified historical tokens
+- [UniqueMe](./design-md/uniqueme/DESIGN.md) — unverified historical tokens
+- [United Record Pressing](./design-md/united-record-pressing/DESIGN.md) — unverified historical tokens
+- [University of Chicago Press](./design-md/university-of-chicago-press/DESIGN.md) — unverified historical tokens
+- [Unstable Games](./design-md/unstable-games/DESIGN.md) — unverified historical tokens
+- [Untuckit](./design-md/untuckit/DESIGN.md) — unverified historical tokens
+- [UP1.co.uk](./design-md/up1-co-uk/DESIGN.md) — unverified historical tokens
+- [Uplift Desk](./design-md/uplift-desk/DESIGN.md) — unverified historical tokens
+- [Upper Deck](./design-md/upper-deck/DESIGN.md) — unverified historical tokens
+- [Vaer](./design-md/vaer/DESIGN.md) — unverified historical tokens
+- [Vaja Cases](./design-md/vaja-cases/DESIGN.md) — unverified historical tokens
+- [Valley Rose](./design-md/valley-rose/DESIGN.md) — unverified historical tokens
+- [Vanessa Fernandez](./design-md/vanessa-fernandez/DESIGN.md) — unverified historical tokens
+- [VanMoof](./design-md/vanmoof/DESIGN.md) — unverified historical tokens
+- [Vari](./design-md/vari/DESIGN.md) — unverified historical tokens
+- [Varjo](./design-md/varjo/DESIGN.md) — unverified historical tokens
+- [Varmilo](./design-md/varmilo/DESIGN.md) — unverified historical tokens
+- [Vaxee](./design-md/vaxee/DESIGN.md) — unverified historical tokens
+- [Veikk](./design-md/veikk/DESIGN.md) — unverified historical tokens
+- [Velocity Micro](./design-md/velocity-micro/DESIGN.md) — unverified historical tokens
+- [Velvet Caviar](./design-md/velvet-caviar/DESIGN.md) — unverified historical tokens
+- [Veradek](./design-md/veradek/DESIGN.md) — unverified historical tokens
+- [Verona](./design-md/verona/DESIGN.md) — unverified historical tokens
+- [Verso Books](./design-md/verso-books/DESIGN.md) — unverified historical tokens
+- [Via Vision Entertainment](./design-md/via-vision-entertainment/DESIGN.md) — unverified historical tokens
+- [Vicis](./design-md/vicis/DESIGN.md) — unverified historical tokens
+- [Victoria Miro](./design-md/victoria-miro/DESIGN.md) — unverified historical tokens
+- [Victrola](./design-md/victrola/DESIGN.md) — unverified historical tokens
+- [Victus Sports](./design-md/victus-sports/DESIGN.md) — unverified historical tokens
+- [ViewSonic](./design-md/viewsonic/DESIGN.md) — unverified historical tokens
+- [Viking](./design-md/viking/DESIGN.md) — unverified historical tokens
+- [Vincero](./design-md/vincero/DESIGN.md) — unverified historical tokens
+- [Vinegar Syndrome](./design-md/vinegar-syndrome/DESIGN.md) — unverified historical tokens
+- [Vintage Vinyl](./design-md/vintage-vinyl/DESIGN.md) — unverified historical tokens
+- [Viori Beauty](./design-md/viori-beauty/DESIGN.md) — unverified historical tokens
+- [Vista Pro](./design-md/vista-pro/DESIGN.md) — unverified historical tokens
+- [Vistaprint](./design-md/vistaprint/DESIGN.md) — unverified historical tokens
+- [Vital Proteins](./design-md/vital-proteins/DESIGN.md) — unverified historical tokens
+- [Vitaly](./design-md/vitaly/DESIGN.md) — unverified historical tokens
+- [Vitamix](./design-md/vitamix/DESIGN.md) — unverified historical tokens
+- [VivaTerra](./design-md/vivaterra/DESIGN.md) — unverified historical tokens
+- [Voltaic Systems](./design-md/voltaic-systems/DESIGN.md) — unverified historical tokens
+- [Voluspa](./design-md/voluspa/DESIGN.md) — unverified historical tokens
+- [Vornado](./design-md/vornado/DESIGN.md) — unverified historical tokens
+- [Vortex](./design-md/vortex/DESIGN.md) — unverified historical tokens
+- [VR Cover](./design-md/vr-cover/DESIGN.md) — unverified historical tokens
+- [Vrai](./design-md/vrai/DESIGN.md) — unverified historical tokens
+- [Vuori](./design-md/vuori/DESIGN.md) — unverified historical tokens
+- [VWR (Avantor)](./design-md/vwr-avantor/DESIGN.md) — unverified historical tokens
+- [Vyrao](./design-md/vyrao/DESIGN.md) — unverified historical tokens
+- [Wacom](./design-md/wacom/DESIGN.md) — unverified historical tokens
+- [Washed Ashore](./design-md/washed-ashore/DESIGN.md) — unverified historical tokens
+- [Watch Collectors](./design-md/watch-collectors/DESIGN.md) — unverified historical tokens
+- [WatchesToBuy](./design-md/watchestobuy/DESIGN.md) — unverified historical tokens
+- [WaterField Designs](./design-md/waterfield-designs/DESIGN.md) — unverified historical tokens
+- [Waterloo Records](./design-md/waterloo-records-independ-2/DESIGN.md) — unverified historical tokens
+- [Wave Books](./design-md/wave-books/DESIGN.md) — unverified historical tokens
+- [Weber](./design-md/weber/DESIGN.md) — unverified historical tokens
+- [Weezie](./design-md/weezie/DESIGN.md) — unverified historical tokens
+- [Weiss](./design-md/weiss/DESIGN.md) — unverified historical tokens
+- [Well Go USA](./design-md/well-go-usa/DESIGN.md) — unverified historical tokens
+- [Welly](./design-md/welly/DESIGN.md) — unverified historical tokens
+- [Wempe](./design-md/wempe/DESIGN.md) — unverified historical tokens
+- [Wesco International](./design-md/wesco-international/DESIGN.md) — unverified historical tokens
+- [Western Digital](./design-md/western-digital/DESIGN.md) — unverified historical tokens
+- [Western Rise](./design-md/western-rise/DESIGN.md) — unverified historical tokens
+- [Westman Atelier](./design-md/westman-atelier/DESIGN.md) — unverified historical tokens
+- [What Do You Meme?](./design-md/what-do-you-meme/DESIGN.md) — unverified historical tokens
+- [Whirlpool](./design-md/whirlpool/DESIGN.md) — unverified historical tokens
+- [White Cube](./design-md/white-cube/DESIGN.md) — unverified historical tokens
+- [White Noise Records](./design-md/white-noise-records/DESIGN.md) — unverified historical tokens
+- [Whitestone Dome](./design-md/whitestone-dome/DESIGN.md) — unverified historical tokens
+- [Who Gives a Crap](./design-md/who-gives-a-crap/DESIGN.md) — unverified historical tokens
+- [Wicked Vision](./design-md/wicked-vision/DESIGN.md) — unverified historical tokens
+- [Wild Republic](./design-md/wild-republic/DESIGN.md) — unverified historical tokens
+- [Wildbird](./design-md/wildbird/DESIGN.md) — unverified historical tokens
+- [Wilderness Systems](./design-md/wilderness-systems/DESIGN.md) — unverified historical tokens
+- [Wildflower Cases](./design-md/wildflower-cases/DESIGN.md) — unverified historical tokens
+- [William Ellery](./design-md/william-ellery/DESIGN.md) — unverified historical tokens
+- [Willow Hygiene](./design-md/willow-hygiene/DESIGN.md) — unverified historical tokens
+- [Wind & Weather](./design-md/wind-and-weather/DESIGN.md) — unverified historical tokens
+- [Windmill Air](./design-md/windmill-air/DESIGN.md) — unverified historical tokens
+- [Winix](./design-md/winix/DESIGN.md) — unverified historical tokens
+- [Withings](./design-md/withings/DESIGN.md) — unverified historical tokens
+- [WizKids](./design-md/wizkids/DESIGN.md) — unverified historical tokens
+- [Wolf](./design-md/wolf/DESIGN.md) — unverified historical tokens
+- [Wolf & Shepherd](./design-md/wolf-and-shepherd/DESIGN.md) — unverified historical tokens
+- [Wolf Circus](./design-md/wolf-circus/DESIGN.md) — unverified historical tokens
+- [Wolf Gourmet](./design-md/wolf-gourmet/DESIGN.md) — unverified historical tokens
+- [Womaness](./design-md/womaness/DESIGN.md) — unverified historical tokens
+- [Womier](./design-md/womier/DESIGN.md) — unverified historical tokens
+- [Wonder Workshop](./design-md/wonder-workshop/DESIGN.md) — unverified historical tokens
+- [Woodard](./design-md/woodard/DESIGN.md) — unverified historical tokens
+- [Woodcessories](./design-md/woodcessories/DESIGN.md) — unverified historical tokens
+- [Woodchuck USA](./design-md/woodchuck-usa/DESIGN.md) — unverified historical tokens
+- [Wooden Cork](./design-md/wooden-cork/DESIGN.md) — unverified historical tokens
+- [Wooting](./design-md/wooting/DESIGN.md) — unverified historical tokens
+- [Write Notepads & Co.](./design-md/write-notepads-and-co/DESIGN.md) — unverified historical tokens
+- [Wuque Studio](./design-md/wuque-studio/DESIGN.md) — unverified historical tokens
+- [WWAKE](./design-md/wwake/DESIGN.md) — unverified historical tokens
+- [X-Chair](./design-md/x-chair/DESIGN.md) — unverified historical tokens
+- [X-Dragon](./design-md/x-dragon/DESIGN.md) — unverified historical tokens
+- [Xavier Hufkens](./design-md/xavier-hufkens/DESIGN.md) — unverified historical tokens
+- [Xentris](./design-md/xentris/DESIGN.md) — unverified historical tokens
+- [xigxag](./design-md/xigxag/DESIGN.md) — unverified historical tokens
+- [Xlear](./design-md/xlear/DESIGN.md) — unverified historical tokens
+- [xTool](./design-md/xtool/DESIGN.md) — unverified historical tokens
+- [Xtorm](./design-md/xtorm/DESIGN.md) — unverified historical tokens
+- [Xtrfy](./design-md/xtrfy/DESIGN.md) — unverified historical tokens
+- [Yacht Club Games Store](./design-md/yacht-club-games-store/DESIGN.md) — unverified historical tokens
+- [Yale University Press](./design-md/yale-university-press/DESIGN.md) — unverified historical tokens
+- [Yam](./design-md/yam/DESIGN.md) — unverified historical tokens
+- [Yamazaki Home](./design-md/yamazaki-home/DESIGN.md) — unverified historical tokens
+- [Yanagisawa](./design-md/yanagisawa/DESIGN.md) — unverified historical tokens
+- [Yardbird](./design-md/yardbird/DESIGN.md) — unverified historical tokens
+- [Year & Day](./design-md/year-and-day/DESIGN.md) — unverified historical tokens
+- [YellowKorner](./design-md/yellowkorner/DESIGN.md) — unverified historical tokens
+- [Yogi Bare](./design-md/yogi-bare/DESIGN.md) — unverified historical tokens
+- [Yoko London](./design-md/yoko-london/DESIGN.md) — unverified historical tokens
+- [Yokogawa](./design-md/yokogawa/DESIGN.md) — unverified historical tokens
+- [Youth to the People](./design-md/youth-to-the-people/DESIGN.md) — unverified historical tokens
+- [Yunzii](./design-md/yunzii/DESIGN.md) — unverified historical tokens
+- [Zebra Pen](./design-md/zebra-pen/DESIGN.md) — unverified historical tokens
+- [Zelos](./design-md/zelos/DESIGN.md) — unverified historical tokens
+- [Zendure](./design-md/zendure/DESIGN.md) — unverified historical tokens
+- [Zens](./design-md/zens/DESIGN.md) — unverified historical tokens
+- [ZeroWater](./design-md/zerowater/DESIGN.md) — unverified historical tokens
+- [Zia Records](./design-md/zia-records/DESIGN.md) — unverified historical tokens
+- [Zojirushi](./design-md/zojirushi/DESIGN.md) — unverified historical tokens
+- [Zoro](./design-md/zoro/DESIGN.md) — unverified historical tokens
+- [Zowie](./design-md/zowie/DESIGN.md) — unverified historical tokens
+- [Zpacks](./design-md/zpacks/DESIGN.md) — unverified historical tokens

@@ -4,6 +4,10 @@ name: "Bulk Reef Supply"
 source_url: "https://bulkreefsupply.com"
 captured_at: "2026-09-28T09:17:52.706384+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Bulk Reef Supply's storefront evidence shows a Magento-based commerce theme built on a neutral gray-and-white foundation punctuated by a black pill-shaped call-to-action button. The primary interactive gesture observed is `.abs-action-addto-product`: a black (#000) background, white text, BebasNeuePro display font, and a 5rem border-radius producing a fully rounded pill — this is treated as the brand's primary button pattern. Link and tab-active states reveal a recurring blue family (#1979c3, #1790fa, #0069d9), inferred here as an accent/interactive color separate from the black CTA. Body and label text lean on grays (#333333, #7d7d7d, #111111) over white and near-white surfaces (#ffffff, #f0f0f0, #f8f8f8), with light hairline borders (#d1d1d1). Typography evidence includes BebasNeuePro (condensed display, used on the observed button), plus Poppins, Open Sans, Roboto, and Montserrat-bold in the broader font stack — mapped here as headline, body, and caption roles by inference, since no heading-specific CSS was supplied. Orange/red tones (#ee7017, #e02b27, #ff5a22) appear in the palette and are treated as inferred sale/alert accents given typical e-commerce deal-badge usage, not confirmed by rule context. Rounded corners, spacing, and most component layouts below are proposed conventions consistent with the observed pill-button radius and Magento-style tab/table patterns, not full-page measurements.
 
@@ -148,6 +152,14 @@ The following breakpoint table is a **recommendation**, not measured site behavi
 Touch targets for buttons and nav items should maintain a minimum 44×44px hit area, consistent with the pill button's generous `1.5rem 3rem` padding. Navigation should collapse to a hamburger/menu pattern below tablet width, matching the "Menu" label referenced in page text. All figures above are proposed conventions, not observed CSS breakpoints.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

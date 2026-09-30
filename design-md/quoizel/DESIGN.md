@@ -4,6 +4,10 @@ name: "Quoizel"
 source_url: "https://quoizel.com"
 captured_at: "2026-09-28T09:37:16.634235+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Quoizel's stylesheet evidence points to a warm, editorial lighting-catalog aesthetic built on a
   neutral canvas with a single teal-blue accent. The observed palette centers on white (#ffffff)
@@ -190,6 +194,13 @@ storefront patterns and the presence of `--menu-drawer-animation-index` tokens; 
 responsive/mobile rendering was observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

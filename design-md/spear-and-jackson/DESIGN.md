@@ -4,6 +4,10 @@ name: "Spear & Jackson"
 source_url: "https://www.spear-and-jackson.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep-soil green (#234600) anchors every header bar and primary action on a site that reads more like an indexed workshop manual than a lifestyle catalogue. Spear & Jackson — trading since 1760 — lets the product photography do the selling while the interface stays deliberately unadorned: a canvas of warm grays (#eeeeee, #f4f4f4) layered with card surfaces at #f6f6f6, separated by hairlines so pale they barely register. The typographic stack pairs Baskerville for display moments — a nod to the brand's Sheffield-steel heritage that feels engraved rather than designed — with Arial and Verdana for body text at utilitarian weights, prioritising scannability across dense product grids. Buttons and category navigation carry that hunter-green at full saturation; active and hover states shift to a brighter spring-lime (#bbee77) that evokes new growth on an established trunk. Corner radii stay tight — `{rounded.xs}` on inputs, `{rounded.sm}` on cards — reinforcing the squared-off, no-nonsense posture of a toolmaker's brand. An orange (#ed541d) appears exclusively for alerts, sale flags, and error states, calibrated to feel urgent against the otherwise muted palette. Spacing is generous vertically (`{spacing.section}` between product groups) but compressed horizontally inside grid cells, letting the eye scan columns of spades, secateurs, and saws without decorative interruption. Navigation sits in a dark-green band with white reversed type, product cards float on white with a single `{colors.hairline}` border, and the footer mirrors the nav in full #234600 density. The overall impression is institutional confidence — a brand that trusts its 260-year reputation over trend-chasing gradients.
 
@@ -414,6 +418,13 @@ components:
 - Breadcrumbs: full path shown on desktop; truncated to "… > Parent > Current" on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

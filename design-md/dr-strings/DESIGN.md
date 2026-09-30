@@ -4,6 +4,10 @@ name: "DR Strings"
 source_url: "https://www.drstrings.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A high-voltage blue (#116dff) cuts across a near-black (#080808) and warm gray (#5f6360) stage, making every CTA, product-highlight badge, and navigation accent feel like a live-wire signal against the dark. The brand lives in the tension between industrial precision and musical resonance — the hex palette is lean, with no pastels or soft gradients, only a stark ink-to-canvas contrast that mirrors the clarity of a fresh set of strings. Typography runs Arial and Helvetica at sensible sizes, with Japanese fallbacks (hiragino kaku gothic pro, meiryo) indicating a global audience; there is no proprietary typeface, no decorative weight, just clean legibility at 14–16px body and 20–24px headings. Cards and buttons use a moderate {rounded.sm} (8px) — enough to soften the edge without losing the precision feel — while the primary blue button sits at 48px height with white text, a confident call to action against the dark canvas. The product grid is the heart of the site: each string set presented on a white card with the blue accent used sparingly for price or "NEW" badges, letting the product photography (coils of nickel and steel) carry the texture. The nav bar stays fixed, dark, and compact, with the brand wordmark in white and the blue accent reserved for the cart icon and search trigger. There is no decorative flourish — every design decision serves the signal-to-noise ratio, as if the interface itself were a well-tuned instrument.
 
@@ -328,6 +332,13 @@ components:
 - Search bar collapses from inline nav element to full-width overlay on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

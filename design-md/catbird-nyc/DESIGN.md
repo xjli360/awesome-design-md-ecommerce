@@ -4,6 +4,10 @@ name: "Catbird NYC"
 source_url: "https://catbirdnyc.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Stacked in velvet trays thinner than a fingernail and photographed against bare skin, Catbird's pieces read smaller than most brands' close-up shots — and the site design follows this logic of miniaturization without apology. The primary signal is a pale lavender wash (#ffd1fa), applied to the announcement bar and select badge surfaces rather than to CTAs; it lands as a whisper against the warm off-white canvas (#f9f7f3) that replaces clinical pure-white throughout. Adobe Garamond Pro carries all editorial weight at the display scale — the long ascenders and optical warmth of traditional book typography give collection headers the unhurried feeling of a printed lookbook rather than a landing page — while TT Fors handles navigation, body copy, and UI labels in a clean, low-contrast sans that refuses to compete with the product photography. Near-black (#2a2a2a) is the true workhorse: CTA button fills, body text, footer background, and ring-size tile active states all share the same near-black rather than splitting into multiple dark tones, a unifying restraint that keeps the palette coherent across surfaces. Gold tones (#c07600 and its darker sibling #6f4400) appear in accent roles and the warm cream surface (#fdf0d5) — material references to the actual metal in the trays. Prices render in Overpass Mono, giving the transactional layer a quietly archival register, like a jeweler's receipt typed on a vintage Olivetti. Border radius is set to zero on image containers, inputs, and buttons alike — {rounded.none} everywhere that matters — signaling editorial codes over e-commerce smoothness. Hairlines at #ebebeb are so light they barely register; structure arrives through spacing and type hierarchy, not drawn borders. Sale states reach for #cc0300 as the single moment of real voltage on the page, making a markdown feel like an event.
 
@@ -377,6 +381,13 @@ components:
 - Editorial band pullquote scales from 22px to 18px on mobile; {spacing.xxl} padding reduces to {spacing.xl}
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

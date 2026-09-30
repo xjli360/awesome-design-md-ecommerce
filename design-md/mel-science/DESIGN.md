@@ -4,6 +4,10 @@ name: "Mel Science"
 source_url: "https://www.melscience.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A bright yellow cardboard box (#ffd040) — the color of a Van de Graaff discharge, of sodium flame tests, of warning tape repurposed as delight — arrives at a child's door and immediately announces that the contents are not homework. MEL Science constructs its entire visual identity around this single voltage: #ffd040 appears on every primary CTA, subscription tier callout, and kit photography corner, functioning as both excitement signal and brand fingerprint rather than a conventional "buy" button color. The canvas defaults to clean white with a near-white surface treatment (#f3f3f3 from meta), giving chemistry photographs and 3D molecular renders the neutral backdrop they need without color cast or visual noise. Display type sits bold and heavy — geometric sans proportions at sizes that lean into the confidence that science is not a difficult subject but an entertaining one. Corners are consistently soft throughout the system: product cards, subscription panels, and experiment badges all favor {rounded.md} to {rounded.lg} radii, deliberately avoiding the hard-edged rectangles of textbook convention. Age-range chip badges (8+, 10+, 14+) use {rounded.full} pill forms in the primary yellow, letting parents scan kit complexity in a single glance. Section pacing is generous — photography and 3D render illustration breathe at {spacing.section} margins, keeping the site reading as a science magazine rather than a standard e-commerce grid. The subscription pitch rides on a CTA architecture that stacks kit discovery above plan selection, with the yellow button functioning as the visual terminus of each content band. On mobile the yellow CTA stretches full-width, maintaining subscription urgency even at the smallest viewport.
 
@@ -334,6 +338,13 @@ components:
 - Subscription cards: horizontal 3-up collapses to full-width vertical stack with the featured card first
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

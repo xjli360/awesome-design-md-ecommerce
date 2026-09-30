@@ -4,6 +4,10 @@ name: "Cuyana"
 source_url: "https://cuyana.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Cuyana's add-to-cart button is the same color as its headline type — near-black #1a1a1a pressed into double duty — because the brand's founding thesis ("fewer, better things") refuses a separate urgency color. The palette extracted from the live site resolves to a single neutral ramp: #1a1a1a for ink and primary CTAs, #565656 for secondary text, #979797 for muted copy and disabled states, #dadada for hairlines, and #f9fafb for the canvas — five stops, no accent, no promotional red. Panama Proportional carries editorial headers at wide letter-spacing while StyreneA-Regular-Web anchors product names in a cooler, more institutional register; Montserrat handles navigation and UI labels in lightweight uppercase, and Nunito Sans absorbs body copy with enough warmth to offset the otherwise spare palette. Cards use `{rounded.none}` — no softening radius, no pill shapes — trusting photography to supply all the warmth the color system withholds. Navigation is architecturally sparse: category links as flat text at `{typography.nav-link}` weight, a search input that stays compressed until engaged, and a cart icon reduced to its minimum viable form. Even sale and "new arrival" badges inherit near-black rather than reaching for contrast color, keeping the visual temperature cool across both editorial and promotional moments. Spacing is generous: product names sit with more vertical breathing room than the category average, and the product grid runs tight column gutters to surface more SKUs per viewport without fragmenting the sense of curation. The overall impression is a system that earns its premium positioning through what it omits — no gradients, no drop shadows, no personality colors — only type, image, and exactly enough structure to guide the eye.
 
@@ -337,6 +341,13 @@ components:
 - Hero editorial 50/50 split layout stacks vertically at mobile (image first, text panel second) with the text panel using full-width near-black fill
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 - No brand accent or warm neutral tone (cream, stone, sand) was extractable from CSS custom properties; Cuyana's seasonal editorial palette may include these tones but they are applied via inline styles or JS-driven theming not captured in the extraction

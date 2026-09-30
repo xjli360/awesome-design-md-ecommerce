@@ -4,6 +4,10 @@ name: "Darrington Press"
 source_url: "https://darringtonpress.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep indigo #003388 anchors Darrington Press as the primary brand voltage — a color that reads as midnight library cloth, not corporate blue — and it carries every primary CTA, navigation link, and footer block across the site. The palette is deliberately restrained: a near-black #2f2f2f for body text, a softer #242429 for secondary copy, and a warm off-white #e6e7e0 for the canvas that gives the whole experience a paper-stock feel rather than a sterile digital white. Accents arrive sparingly: a bright amethyst #6c1cff for hover states and secondary buttons, a marigold #f0b849 for badge highlights and sale markers, and a muted lavender #c4b7c8 that surfaces in dividers and subtle backgrounds. Typography runs system-native — the site trusts the user's OS stack (San Francisco, Roboto, Open Sans) at modest weights, with body text at 16px and a generous 1.6 line height that mimics the comfortable leading of a printed rulebook. Cards use soft {rounded.sm} corners, while CTAs and badges take {rounded.md} — nothing is pill-shaped, preserving a slightly formal, bookish character. The layout is a single-column spine on mobile, expanding to a two-column grid on desktop with a persistent left-hand navigation that echoes a table of contents. There is no hero carousel, no full-bleed photography; instead, product imagery sits inside bordered cards with {rounded.sm} corners, and every link carries an underline on hover rather than a color shift. The overall effect is that of a publishing house's digital reading room — quiet, legible, and built for long sessions of browsing game titles and lore.
 
@@ -309,6 +313,13 @@ components:
 - Search bar collapses from inline to full-width below 744px, appearing below the nav
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

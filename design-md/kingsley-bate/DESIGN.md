@@ -4,6 +4,10 @@ name: "Kingsley Bate"
 source_url: "https://www.kingsleybate.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Teak grain weathering to silver — that image drives the entire digital surface of a brand that has been shaping plantation-grown Javanese hardwood since 1983. The site opens with full-bleed outdoor photography where furniture sits on bluestone terraces and harbor-front lawns, and the palette follows suit: a deep hunter green (#2c4a3e) marks every primary CTA, the top navigation underline, and the footer expanse, functioning the way a boxwood hedge anchors a garden room. Behind it, a warm ivory canvas (#faf8f4) keeps the eye on photography rather than chrome, and a secondary surface tone (#f3efe7) — the color of unbleached linen — lifts editorial blocks and collection headers away from the main feed without hard borders. Text sits in a dense charcoal (#2b2b2b) at `{typography.body-md}` size with 1.55 line-height, giving material descriptions (mortise-and-tenon joinery, Grade A heartwood, marine-grade stainless) enough breathing room to scan without losing density. Display type uses a refined transitional serif — the kind of face that nods to 18th-century furniture catalogs — running at light-to-regular weights in the 36–48px range; headlines feel tall and architectural rather than loud. Navigation and buttons switch to a clean geometric sans-serif at medium weight, keeping interaction surfaces modern against the editorial serif. Corner radii stay tight: `{rounded.xs}` on buttons, `{rounded.sm}` on cards and inputs, `{rounded.none}` on product imagery — hard rectangles that echo the carpentry discipline of the furniture itself. A secondary brass-gold accent (#b09a6a) surfaces in promotional banners, "New Collection" tags, and hover underlines, pulling the warmth of oiled teak into the interface. Spacing is generous and deliberate: `{spacing.xl}` gutters between product grid columns, `{spacing.section}` vertical padding on hero and collection gateway sections, and `{spacing.lg}` internal padding on cards. The overall rhythm is unhurried, like a catalog you page through at a patio table rather than scroll through on a commute.
 
@@ -479,6 +483,13 @@ components:
 - Image gallery thumbnails move from a horizontal strip to a scrollable row below the main image on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

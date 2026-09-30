@@ -4,6 +4,10 @@ name: "Avery"
 source_url: "https://www.avery.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Avery's color vocabulary was alphabetized before it was digitized — the same flag-blue (#0039a6) that has lived on ring-binder packaging for decades now anchors every major navigation surface, while a single hard red (#ea001c) closes every primary CTA: find → buy, two nodes with no lifestyle detour between them. CircularXXWeb runs the entire type hierarchy across four weights (Book, Medium, Bold, Black), a geometric workhorse that stays legible at the compressed scales a label-product catalog demands; ABCDiatype-Heavy joins the stack only at hero moments, pushing campaign headlines into editorial weight without disturbing the workhorse below. The palette doubles as a functional vocabulary rather than a decorative one: the yellow (#eaaa00) that marks a highlighter SKU on a physical shelf reappears as a UI warning indicator, the green (#07a200) that signals "in stock" is the same green on the highlighter cap, and the red (#ea001c) that closes the CTA loop is the same red on the label dispenser — the interface inherits the shelf's color logic rather than inventing a parallel digital system.
 
@@ -439,6 +443,14 @@ components:
 - Promo banner: single line (desktop) → wraps (mobile); dismissible on all breakpoints via ×close icon
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Meze Audio"
 source_url: "https://mezeaudio.com"
 captured_at: "2026-09-28T09:59:45.425466+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Meze Audio's storefront CSS points to a restrained, materials-led palette: a
   muted olive-brass (#585336) paired with a warm off-white (#faf7f1) forms the
@@ -196,6 +200,13 @@ implied by `--product-list-carousel-item-width: 74vw` on at least one
 featured-collection section.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

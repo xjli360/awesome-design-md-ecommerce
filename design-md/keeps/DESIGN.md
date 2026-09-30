@@ -4,6 +4,10 @@ name: "Keeps"
 source_url: "https://keeps.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A clinical-grade men's health brand that uses a near-black ink (#231e20) and a warm off-white canvas (#fafaf5) as its primary tension — the palette feels like a doctor's office that someone remembered to paint. The brand's voltage comes from a single red (#e22631) that appears on primary CTAs, price badges, and the "K" in the logotype; it's a stop-sign red, not a romantic crimson, and it signals urgency without panic. Typography runs a mix of Apercu (a clean geometric sans with a slight humanist warmth) for body and headlines, with TiemposHeadline reserved for editorial moments and Knockout used sparingly for condensed display weight. The system uses soft squared corners ({rounded.sm} ~8px) on cards and inputs rather than pills — the brand wants competence, not friendliness. Buttons are full-width, 48px tall, with 16px horizontal padding and that red fill; secondary buttons invert to a white fill with a 2px red stroke. The site's structure is a single-column narrative scroll with sticky top-nav (80px, white background, logo left, CTA right), product cards in a 2-column grid on desktop, and a persistent "consultation" entry point that mimics a telehealth flow. The overall feel is direct, medical-but-not-sterile, with generous whitespace and a muted gray (#5c5c5c) for secondary text that keeps the reading experience calm despite the red urgency.
 
@@ -454,6 +458,13 @@ components:
 - Multi-step forms: Step indicators collapse from horizontal to vertical on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

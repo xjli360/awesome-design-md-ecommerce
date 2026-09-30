@@ -4,6 +4,10 @@ name: "Year & Day"
 source_url: "https://yearandday.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep navy (#05154b) pressed against warm bone (#fbfaf7) — two colors from opposite ends of temperature — defines the whole visual grammar before a single product appears. Most dinnerware brands lean into terracotta or sage; Year & Day chose the palette of a high-end financial institution and softened it with cream surfaces that read like unglazed clay in digital form. The type system enforces the same productive tension: Quarto-Semibold, a display serif with old-money authority, handles all editorial headings and campaign moments, while Mark-Pro, a precise geometric sans, runs every price, label, button, and navigation item. The combination signals that this is both a premium object and a rational purchase. Buttons are flat-cornered (`{rounded.none}`) throughout — no pill shapes, no softened radii — the geometry as intentional as the plates themselves. The chip guarantee, Year & Day's core brand promise, surfaces as a first-class UI element: a navy badge with letter-spaced uppercase Mark-Pro-Bold type sitting inline with product copy rather than buried in fine print. Product photography fills square cards against `{colors.surface-soft}`, a blush-warm cream (#f9f2ec) that makes white porcelain appear to glow without artificial lightening. The footer and announcement bar mirror `{colors.primary}`, creating a deep-color envelope around the warm interior canvas. The hairline border (#dedede) performs quietly — separating product grids and form fields without adding visual weight. Navigation sits at 64px with widely tracked sans-serif labels, giving the impression that each item has been placed deliberately. The overall effect is a store that behaves like an edited catalog: minimal, decisive, and convinced that the objects speak for themselves.
 
@@ -283,6 +287,13 @@ components:
 - Promo banner: single line at all breakpoints; truncates with ellipsis before wrapping; font-size holds at `{typography.caption}` throughout
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

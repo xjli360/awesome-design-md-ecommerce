@@ -4,6 +4,10 @@ name: "Unstable Games"
 source_url: "https://www.unstablegames.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Coral-red splashes (#f95346) punch through a near-black stage (#121212) like card art leaping off the table — every CTA and sale badge vibrates at that frequency, daring the visitor to click before the chaos resolves. The color system mirrors a hand of wildly different game decks: teal (#23b192) tags the flagship Unstable Unicorns line, lime (#84bd00) marks family-friendly titles, forest green (#228848) anchors the navigation layer, and a hot orange (#ff8441) fires off limited-edition callouts. Typography stays utilitarian — Source Sans Pro and Open Sans in modest weights keep the eye on illustrated box art rather than competing with it. The layout philosophy is a grid of product cards with generous `{spacing.lg}` gutters, each card floating on `{colors.surface-card}` with a soft `{rounded.md}` radius that rounds just enough to feel toy-like without becoming juvenile. Hero sections run full-bleed on dark canvas (`{colors.ink}`) with oversized game illustrations, animated sparkle particles, and countdown timers for Kickstarter drops — the brand treats every product launch like an event, not a catalog update. Navigation collapses into a mega-menu organized by game franchise rather than generic "shop" categories; each franchise carries its own accent swatch. Buttons favor pill shapes (`{rounded.full}`) at small sizes and squared-off solids (`{rounded.sm}`) for cart actions, splitting playful browsing gestures from transactional commitment. The footer is dense, almost wiki-like, linking rulebooks, FAQ entries, and community Discord — a signal that the post-purchase relationship matters as much as the sale. Shadows are minimal; depth comes from color contrast against the dark canvas rather than elevation, giving the whole experience the flat-but-vivid energy of printed card stock.
 
@@ -351,6 +355,13 @@ components:
 - Countdown timer digits shrink from `{typography.display-sm}` to `{typography.title-md}` on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

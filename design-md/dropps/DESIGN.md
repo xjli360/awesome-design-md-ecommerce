@@ -4,6 +4,10 @@ name: "Dropps"
 source_url: "https://dropps.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A direct-to-consumer laundry and dish brand that uses a stark black-and-navy palette — `#141414` for ink, `#000d8c` for primary voltage — to signal a no-nonsense, ingredient-first ethos that feels more like a modern CPG startup than a detergent company. The signature move is a bright marigold accent (`#f4bc51`) that appears on the "Add to Cart" button, subscription badges, and promotional banners, providing the only warmth against a cold blue-and-white system. The site runs on a clean `#f0f4ff` canvas that reads as a very pale periwinkle — not pure white — giving the entire experience a soft, airy quality that contrasts with the heavy navy CTAs. Typography is set in Inter and Silka, both geometric sans-serifs that lean slightly condensed at display sizes, with body copy at 14–16px in 400 weight for readability. Product cards use `{rounded.lg}` (20px) corners on pod-package imagery, while buttons use `{rounded.sm}` (8px) for a crisp, functional feel. The subscription model drives the UI: every product page features a toggle between one-time purchase and subscribe-and-save, with the latter highlighted in `#f4bc51` and accompanied by a "Save up to 30%" badge. The nav bar is minimal — logo left, cart right, with a hamburger on mobile — and the footer is dense with trust signals (carbon-neutral shipping, plastic-free packaging, B Corp certification). The overall mood is clinical but approachable: the navy says "we take ingredients seriously," the marigold says "this is the fun part (saving money and the planet)."
 
@@ -471,6 +475,13 @@ components:
 - Accordion content remains collapsed by default on all breakpoints.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

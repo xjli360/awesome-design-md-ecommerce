@@ -4,6 +4,10 @@ name: "Eureka Ergonomic"
 source_url: "https://eurekaergonomic.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A teal-and-coral voltage runs through Eureka Ergonomic's digital storefront, where #108474 (a deep, almost-jade teal) anchors primary actions and #c70000 (a sharp stop-sign red) marks sale badges and urgency cues — a color story that reads more outdoor-gear than furniture, giving the brand an unexpected athleticism. The palette is unusually wide for a DTC furniture brand: alongside the core teal and red sit #01bbd5 (a bright cyan accent), #fecb34 (a marigold yellow for star ratings and highlights), and a full grayscale from #222222 ink to #f9fafb canvas. This chromatic breadth, paired with Inter as the sole body typeface at moderate weights, creates a system that feels engineered rather than curated — every color has a job, every corner is softly squared at `{rounded.sm}` (8px) for buttons and `{rounded.md}` (12px) for cards. The brand's confidence shows in its use of #c70000 as a persistent accent: it appears on discount badges, "Shop Now" CTAs, and cart indicators, a consistent pulse that drives urgency without tipping into alarm. Product cards use generous `{spacing.lg}` padding and `{rounded.md}` corners, with the teal primary appearing on "Add to Cart" buttons and the cyan on secondary actions like "Quick View" — a two-tone system that distinguishes primary from secondary without relying on outline styles. The overall effect is of a brand that treats its furniture like performance equipment: clean, purposeful, and backed by a color system that never leaves a UI element unassigned.
 
@@ -345,6 +349,13 @@ components:
 - Accordion remains single-column at all breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

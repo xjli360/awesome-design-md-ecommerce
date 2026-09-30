@@ -4,6 +4,10 @@ name: "The Mysterious Bookshop"
 source_url: "https://www.mysteriousbookshop.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A narrow, wood-paneled bookstore in Tribeca that has been selling crime, mystery, and suspense fiction since 1979, and its digital storefront mirrors that same sense of curated discovery. The palette is deliberately restrained — #dedede as a warm, paper-like canvas and #121212 as a deep, ink-black text color — with no bright accent colors to distract from the book covers themselves. The site trusts typographic hierarchy and generous whitespace over decorative elements, letting the product photography (jacket art, author photos) provide all the visual drama. Navigation is minimal: a sticky top bar with the shop's name, a search icon, and a cart icon, plus a dropdown menu for categories like "First Editions," "Signed Copies," and "Mystery & Crime." Product cards are simple — a cover image, title, author, and price — with no badges, no ratings, no social proof. The checkout flow uses Shopify's default widgets, which introduce a brief flash of green (#5c6ac4) and blue (#007bff) that feels slightly foreign against the otherwise monochrome site. The overall mood is that of a serious, well-stocked independent bookstore that happens to also sell online: no pop-ups, no countdown timers, no urgency tactics. Just books, organized by genre and rarity, with a shipping policy that promises careful packaging.
 
@@ -321,6 +325,13 @@ components:
 - The footer collapses from a 3-column layout on desktop to a single stacked column on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Petlibro"
 source_url: "https://petlibro.com"
 captured_at: "2026-09-28T09:03:59.353558+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Petlibro's storefront evidence shows a neutral, high-contrast foundation: near-black text (#121212, #303030) on white and near-white canvases (#ffffff, #fafafa, #f6f6f6, #f3f3f3), with mid-gray (#616161) for secondary copy and light hairlines (#dedede, #cccccc) for card and section dividers. A dark olive-green (#315800) appears in the palette alongside a cooler olive (#46691a) and a teal-green (#29845a); given Petlibro's nature/pet-care positioning, #315800 is inferred here as the primary brand/CTA color, with mint (#69ce82) and pale mint (#cdfee1) as supporting accent tones for success or "in-stock" style states. A cluster of saturated blues (#005bd3, #2332d5, #334fb4, #142fbd) and payment-mark colors (Mastercard reds/oranges, PayPal blue) are present in the raw CSS but are treated as third-party checkout iconography, not brand palette, and are excluded from primary role assignment. A warm red-orange (#ff3800) is inferred as a sale/promo accent given the observed "Save up to 50%" and giveaway banner language. Typography evidence lists only "pitch" and "sohne" as font-family tokens (plus the non-text "swiper-icons" glyph font); both are mapped to generic sans-serif fallbacks since no serif/weight/size evidence was captured. This interpretation favors a clean, product-photography-forward e-commerce layout with generous white space, soft off-white section backgrounds, and restrained green accenting for primary actions, consistent with a smart pet-tech DTC brand.
 
@@ -147,6 +151,12 @@ Proposed breakpoints (not measured from live site):
 Touch targets for buttons and swatch pickers should target a minimum 44×44px hit area, even though the swatch visual size is smaller (~24px), via padding. Navigation should collapse to a slide-in or accordion pattern below 1024px. All of the above is recommended practice, not observed site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

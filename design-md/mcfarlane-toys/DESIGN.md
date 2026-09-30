@@ -4,6 +4,10 @@ name: "McFarlane Toys"
 source_url: "https://mcfarlane.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A comic-book voltage runs through every pixel of McFarlane Toys — the brand's deep navy `#003388` anchors a system that feels less like a toy store and more like a collector's display case. That blue, pulled straight from Todd McFarlane's Spawn-era cape shadows, appears on every primary button, navigation bar, and product badge, while a neon-lime `#8dc63f` — the exact green of a symbiote's eye — serves as the single accent that signals price drops, limited editions, and "new arrival" flags. The palette is deliberately restrained: four grays (`#555d66`, `#32373c`, `#949494`, `#d8d8d8`) handle all text hierarchy and borders, with `#eeeeee` as the soft canvas and `#ebebeb` as the hairline that separates product grids. Typography runs system-native (`-apple-system`, `BlinkMacSystemFont`, `Roboto`, `Segoe UI`, `Ubuntu`, `Cantarell`, `Helvetica Neue`, `sans-serif`) at modest weights — no custom brand font, no display face, just clean legibility that lets the product photography do the talking. Buttons are sharp-cornered (`{rounded.sm}`) and dense, with 48px heights and tight 12px horizontal padding that mirrors the compact, panel-like feel of a comic page. Product cards use `{rounded.none}` — every edge is a hard 0px, reinforcing the "in-the-box" display aesthetic. The nav bar sits at 72px with a `{colors.canvas}` background and `{colors.ink}` text, but the real signature is the "Limited Edition" badge: `{colors.primary}` background, `{colors.on-primary}` text, `{rounded.sm}`, and a 2px `{colors.primary-active}` border that glows like a variant cover's foil stamp. Search is a full-width bar with `{rounded.sm}` corners and a `{colors.primary}` submit button — no pill shapes, no soft curves, just utilitarian precision. The footer collapses into a single-column stack on mobile, with `{colors.muted}` links and `{colors.hairline}` dividers that echo the brand's no-fuss, all-product ethos.
 
@@ -312,6 +316,13 @@ components:
 - Hero banner reduces font size on mobile (`{typography.display-md}` instead of `{typography.display-xl}`)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

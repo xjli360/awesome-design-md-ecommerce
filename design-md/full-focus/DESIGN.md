@@ -4,6 +4,10 @@ name: "Full Focus"
 source_url: "https://fullfocus.co"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Verdana on a bright white canvas with pure magenta (#ff00ff) on every action trigger is an unusual pairing for a planner brand — the typeface was engineered for early CRT screen readability, the color is too saturated for lifestyle aesthetics, yet together they produce something that reads as deliberate utility rather than accident. Full Focus sells a paper planning system built on a "Big 3" daily priorities framework, and the design mirrors that system's core claim: the path to achievement should be visible, unambiguous, and slightly uncomfortable to ignore.
 
@@ -328,6 +332,13 @@ components:
 - Footer: 4-column link groups → stacked accordion with tap-to-expand per section
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

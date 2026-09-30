@@ -4,6 +4,10 @@ name: "Lista"
 source_url: "https://www.lista.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Where most tool-storage competitors reach for safety-orange or hi-vis yellow to signal industrial credibility, Lista anchors its visual identity in a deep Swiss corporate navy (#003399) — the color of aerospace tolerances and precision instrumentation, not a showroom gesture. Paired with a mechanical mid-blue (#008bd2) that reads like anodized aluminum detailing, and grounded by a neutral gray (#707070) for secondary labeling, the palette operates as a strict two-tone system derived from European engineering culture: navy owns headers, primary CTAs, and structural navigation; the lighter blue carries interactive states and accent rules that break up specification-heavy pages. No warm tones dilute the navy's authority; no tertiary hues compete with it.
 
@@ -338,6 +342,13 @@ components:
 - Footer: multi-column layout → accordion stack on mobile, no horizontal overflow
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

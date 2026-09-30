@@ -4,6 +4,10 @@ name: "Gozney"
 source_url: "https://www.gozney.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Where most kitchen-equipment brands default to white-canvas minimalism, Gozney opens on charcoal (#272c32) — a background color that exists to make fire look more fire-like and molten cheese look more luminous against a screen. The primary CTA red (#c8102e) is not a sale-rack accent but a thermal signal: it appears on every "Shop Now" and "Add to Cart" button with the logic of an oven dial pushed to maximum, and it doubles as the data color for temperature statistics — 950°F printed large enough to register as a boast. Maison Neue Mono handles the numbers that matter most: cook-time readouts, stone temperature claims, weight specs — set in fixed-width columns that read like instrument panels rather than marketing copy, a detail that separates the brand's product pages from every other outdoor-cooking competitor who sets these figures in the same serif or sans as their prose.
 
@@ -350,6 +354,13 @@ components:
 - Footer: 4-column → 2-column (tablet) → single-column accordion (mobile) with expand/collapse per section; social icons move to above the legal row on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

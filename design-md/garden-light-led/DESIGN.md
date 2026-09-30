@@ -4,6 +4,10 @@ name: "Garden Light LED"
 source_url: "https://gardenlightled.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The spec-grade navy (#06386b) that anchors Garden Light LED's header reads like a municipal infrastructure catalog before it reads like a shopping site — a deliberate posture for a brand whose primary audience is landscape architects, electrical contractors, and commercial installers who need photometric data first and buy buttons second. DM Serif Display carries all headlines with architectural weight: unhurried, low-contrast strokes that evoke the editorial language of lighting specification journals rather than the urgent CTAs of consumer retail. Lato handles everything operational — navigation, filter labels, spec metadata — in a clean sans that transmits technical precision without becoming cold.
 
@@ -402,6 +406,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

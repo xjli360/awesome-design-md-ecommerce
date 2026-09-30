@@ -4,6 +4,10 @@ name: "Daniel Wellington"
 source_url: "https://www.danielwellington.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   DWCaslon — a commissioned editorial serif that reads like the masthead of a 1960s horological journal — carries display copy at weights so light the letterforms appear etched rather than set, while DWFutura handles labels and CTAs with the spare geometry of a watch dial. The result is a site built on a single contrast engine: the near-black #00081c campaign canvases give way to near-white #f4f4f4 product pages where a single watch floats in engineered negative space. This alternation between darkness and its absence is the core DW visual argument — the brand never compromises with midtones, and the midrange grays (#545454, #dedede) exist only to signal disabled states and hairlines.
 
@@ -392,6 +396,13 @@ All three sit top-left of the product image, absolutely positioned, and do not a
 - Collection hero 50/50 splits collapse to stacked single column, image first
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

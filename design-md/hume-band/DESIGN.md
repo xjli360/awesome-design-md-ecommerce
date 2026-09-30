@@ -4,6 +4,10 @@ name: "Hume Band"
 source_url: "https://www.humeband.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Electric indigo (#4721fb) runs every primary interaction on Hume Band — the buy CTA, the app-sync trigger, the firmware-update pulse — a single vivid voltage against a deep navy (#041d55) foundation that reads as technical authority rather than health-app softness. The palette then branches in two directions: health metrics surface in teal (#00d4b4, #00a896), reading biometric data in the same visual register as medical instrumentation, while activity goals and streaks get the orange signal (#f76a0c), warm and urging against the cooler tones. A bright cyan trace (#34e2e4) appears as data-visualization line color in heart-rate graphs, the kind of oscilloscope aesthetic that positions the band as a precision tool rather than a wellness accessory.
 
@@ -421,6 +425,13 @@ components:
 - Footer link columns stack vertically at mobile with section-level spacing between groups
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

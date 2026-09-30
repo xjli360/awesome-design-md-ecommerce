@@ -4,6 +4,10 @@ name: "Snuggle Me Organic"
 source_url: "https://snugglemeorganic.com"
 captured_at: "2026-09-28T04:24:30.704028+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Snuggle Me Organic's observed palette pairs a muted slate-navy (#2b4970) with warm, undyed-linen creams (#faf9f6, #f4f2ec, #e7e7d6) and soft earth tones (#9b8e6f, #b2a37f), evoking organic textiles and nursery softness. Deep charcoal text (#1a1a1a, #3a3a3a) sits on cream and white surfaces for readability without stark contrast. A muted teal (#6a9bac) and a leaf green (#56ad6a) appear as secondary accents, plausibly tied to "organic/natural" badging, while two reds (#c01e25, #d02e2e) and a bright gold (#ffd200) are inferred as sale, alert, or promotional highlights given their saturation relative to the otherwise desaturated system.
 
@@ -140,6 +144,12 @@ This is a recommended structure, not measured site behavior:
 Touch targets should meet a 44px minimum (aligned with the Swiper `--swiper-navigation-size:44px` evidence). Filter/search UI is proposed to collapse into a drawer below tablet width; this is a design recommendation, not an observed interaction.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 Evidence was extracted from static CSS/theme files, not a rendered browser session, so no live layout, hover states, animation, or breakpoint values were directly observed — the responsive table above is a proposed convention only. Color-to-role bindings (e.g., navy as primary, green as organic badge, red/gold as sale accents) are inferred from usage context and saturation contrast, not confirmed design tokens. Font-role assignment (Sabon Next for display, Avenir/Poppins for body) is inferred from the font-family list and generic body CSS; actual heading font usage was not verified. Custom font licensing and web-font availability (Sabon Next, Avenir, Avenir Next) were not verified. Component states (focus, hover, disabled, error) and mobile navigation behavior are proposed patterns for a Shopify-based gear/playmat storefront, not extracted from live interaction.

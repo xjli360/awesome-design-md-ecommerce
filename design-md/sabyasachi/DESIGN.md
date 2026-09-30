@@ -4,6 +4,10 @@ name: "Sabyasachi"
 source_url: "https://www.sabyasachi.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Futura PT — the geometric modernist face designed in 1927 for a Berlin stripped of ornament — anchors the typographic system for a house whose entire product proposition rests on hand-stitched zardozi, raw silk, and centuries-old Bengali craft traditions. That structural tension is the brand's sharpest design statement: a rigidly contemporary letterform holds the negative space while the imagery it captions — embroidery so dense it reads as textile painting — operates in an entirely different century. The official site carries a white (#ffffff) meta theme-color and runs on Shopify, but the atmosphere is anything but minimal: full-bleed editorial photography locks every viewport into a composed frame, with models set against crumbling Mughal architecture, unspun fibre backdrops, or monsoon-light interiors. Navigation is centered and unhurried, with the wordmark commanding its own axis at 0.3em tracking — this is not a multi-brand platform, it is a singular signature. The color palette, unextractable from automated tooling (tokens load via JS; anti-bot protection suppresses scrapers), is documented extensively in fashion press: a deep lacquer burgundy anchors the brand's chromatic identity, appearing in packaging, brand marks, and campaign props at a consistent near-oxblood value; warm matte gold distinguishes the jewelry line without resorting to chrome shimmer; ivory and warm bone supply the recessive canvas that allows textiles to dominate. Rounded values skew toward absolute zero — this is a house of straight edges and architectural frames, with {rounded.none} applied to product cards, buttons, and input fields alike. Where other luxury platforms add soft border-radius as a hospitality signal, Sabyasachi uses angularity as authority. Spacing is generous and asymmetric in editorial sections, compressing only in catalog grids where the density of product demands restraint. The result is a digital presence that functions as an art direction studio first and a commerce platform second — every scroll position is a composed frame, every typographic choice a curatorial act.
 
@@ -365,6 +369,13 @@ components:
 - Collection banners reduce vertical padding to {spacing.lg} on mobile; headline drops to {typography.display-md} scale
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

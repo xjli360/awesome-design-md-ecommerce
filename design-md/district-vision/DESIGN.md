@@ -4,6 +4,10 @@ name: "District Vision"
 source_url: "https://www.districtvision.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A running brand that uses a stark red (#e11f26) as its only color accent — not as a secondary highlight but as the primary signal, applied to CTAs, cart badges, and the single line of the brand mark. The palette is otherwise monochrome: near-black (#121212) for ink, a warm mid-gray (#dedede) for hairline borders and surface edges, and white canvas. This is a brand that refuses the gradient, the drop shadow, the decorative flourish — every component is flat, every corner is either hard ({rounded.none}) or fully pill-shaped ({rounded.full}), and every typographic decision prioritizes legibility over personality. The product grid uses a 2-column layout on desktop with generous {spacing.lg} gutters, each card showing a single studio-lit product image against white, with the price set in a condensed sans-serif at 14px. The top nav is a simple left-aligned logo with right-aligned utility links (Search, Account, Cart) — no mega-menu, no category dropdowns, no hero carousel. The brand's voice is direct and technical: product descriptions cite lens material, frame weight, and UV protection rating rather than lifestyle copy. The red badge on the cart icon uses a 10px pill with white text, the only place where the red appears at small scale. The checkout flow is Shopify-native with minimal customization, meaning the red primary bleeds into the standard Shopify Pay button — a pragmatic concession that the brand accepts rather than overrides.
 
@@ -336,6 +340,13 @@ components:
 - Hero section reduces vertical padding from {spacing.section} to {spacing.lg} below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

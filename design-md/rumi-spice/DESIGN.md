@@ -4,6 +4,10 @@ name: "Rumi Spice"
 source_url: "https://rumispice.com"
 captured_at: "2026-09-28T09:46:04.148912+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Rumi Spice's storefront CSS centers on a warm, sun-baked palette: a pale golden-cream canvas (#fef7e5, #fdf9f2), a deep umber-brown ink (#251c14) used for both foreground text and heading color variables, and a saturated burnt-orange (#e65300) driving the --color-button and --color-link tokens throughout the Shopify Dawn-based theme. A secondary warm gold (#f2b41c) and a deeper cream (#f4edd8) appear in the supplied palette and are interpreted here as accent/surface tones consistent with a saffron-and-spice narrative, though their exact applied role on the live page was not confirmed. A cluster of blues (#1990c6, #136f99, #0071ce) originates from Shopify's accelerated-checkout/payment-button CSS rather than brand styling and is retained only as a payment-accent token, not a core brand color. Typography is set in Open Sans for body copy (font-size 1.5rem, letter-spacing 0.06rem, line-height ~1.53), with headings sharing the same family via CSS custom properties (--font-heading-family) since no distinct heading typeface was observed in the evidence — this is flagged as inferred rather than confirmed. The interpretation favors a warm, artisanal, ingredient-forward aesthetic: cream surfaces, umber text, and orange calls-to-action, echoing the site's sourcing/empowerment storytelling without fabricating unobserved visual detail.
 
@@ -144,6 +148,12 @@ Recommended, not measured, breakpoints:
 Touch targets should be at least 44×44px for cart/add-to-cart buttons. Navigation collapse and mobile menu behavior are proposed conventions for a Shopify Dawn-based theme and were not observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered page, computed styles, or interaction states were observed. The distinction between body and heading font families is unconfirmed — both are assumed to be Open Sans since no separate heading typeface was present in the evidence. Numeric type scale values (display-xl, title-md, etc.) beyond the one confirmed body font-size (1.5rem/0.06rem letter-spacing) are proposed, not measured. Border-radius values for buttons and product cards reference Shopify theme CSS custom properties whose resolved values were not included in the evidence, so `rounded` assignments are inferred defaults. The blue payment-accent color originates from Shopify's generic accelerated-checkout button styling, not confirmed brand identity, and is retained only for completeness. Mobile menu behavior, hover/focus states, footer structure, and actual grid/column layout were not observed and are marked proposed throughout. Font licensing/availability for Open Sans (a widely available open-source font) was not independently verified against the site's font-loading configuration.

@@ -4,6 +4,10 @@ name: "Firstleaf"
 source_url: "https://firstleaf.com"
 captured_at: "2026-09-28T09:11:51.065304+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Firstleaf's storefront runs on Shopify with a Gotham-led sans-serif system
   (Gotham A / Gotham B, falling back to Calibri, Roboto, sans-serif) set at a
@@ -139,6 +143,13 @@ components:
 Recommended breakpoints (not measured from live site): mobile ≤599px, tablet 600–959px, desktop ≥960px, wide ≥1280px (site defines a 132rem max `--page-width`). Touch targets should be at least 44px tall, matching the Shopify accelerated-checkout button's `clamp(25px, 44px, 55px)` sizing pattern observed in vendor CSS. Nav items should collapse into a hamburger/off-canvas menu below tablet width; the quiz flow and product grids should stack to single-column below 600px. This section is a proposed responsive strategy, not an observation of actual breakpoint behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS and text extraction only; no rendered layout, computed styles, or interaction states (hover, focus, active, disabled beyond the one `.btn.primary:disabled` rule) were visually observed. Color-to-role mapping for purple, teal, and gray-purple tints is inferred from variable naming (e.g., `--c-purple`, `--c-blue`) and typical DTC subscription patterns, not confirmed against live screenshots. Typography sizes, weights, and line-heights beyond the single observed `body { line-height: 2.8rem; font-family: Gotham A, Gotham B, Calibri, Roboto, sans-serif; color: #212121 }` rule are proposed estimates following common editorial scale conventions. Gotham font availability, licensing, and exact weight files (Book/Light/Medium/Regular variants listed in evidence) were not verified — fallbacks (Calibri, Roboto, sans-serif) are assumed to render for most users. Mobile navigation, cart drawer, and quiz-step interaction patterns were not observed and are proposed only. Border-radius values or footer background were not directly confirmed for the marketing site; the `8px` radius seen is from a page-builder button widget selector, and footer color is an inferred reuse of the purple palette.

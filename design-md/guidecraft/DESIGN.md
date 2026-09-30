@@ -4,6 +4,10 @@ name: "Guidecraft"
 source_url: "https://guidecraft.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep navy #023e8a anchors Guidecraft’s digital storefront, a color that reads more like a trusted school uniform than a playful toy brand — it’s the hue of chalkboard frames and wooden block bins, lending gravity to a catalog of children’s furniture and preschool tools. The palette leans heavily on warm neutrals (#ebe3d5, #f3d196, #ebebeb) that echo unfinished wood and natural light, with a single sharp accent in #ff5742 — a coral-red used sparingly for sale badges and cart indicators, never for primary actions. Typography runs Brown and Poppins in display roles, with Inter for body copy, creating a layered hierarchy where headings feel hand-lettered and instructional text stays crisp. Product cards sit on white canvas with soft {rounded.sm} corners, while the navigation bar uses a full-width dark band (#19181d) that frames the logo like a storefront awning. The overall rhythm is unhurried: generous {spacing.lg} gutters, centered hero imagery of children interacting with furniture, and a footer dense with links and accreditation badges. Guidecraft does not shout — it arranges.
 
@@ -316,6 +320,13 @@ components:
 - Category filter strip scrolls horizontally on mobile rather than wrapping
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

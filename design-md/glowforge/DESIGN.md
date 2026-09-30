@@ -4,6 +4,10 @@ name: "Glowforge"
 source_url: "https://www.glowforge.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Glowforge calls its laser cutter a "3D laser printer" — a positioning move that reveals the brand's core bet: this machine belongs beside the blender, not in a fabrication shop. Every visual decision shores up that reframe. Hero sections open on deep workshop darks (#0a3036, #000527), a near-black teal that evokes standing in a studio at midnight, watching a beam trace a pattern. Against that darkness the brand's single voltage fires: laser-beam teal (#26b8ce), the precise hue of a blue diode's glow applied to every primary CTA, navigation highlight, and feature icon. It is a literal color — the machine makes that light — which gives the interface a physical grounding most software-adjacent brands lack.
 
@@ -415,6 +419,13 @@ components:
 - Spec table columns reorder on mobile: label moves above value in a stacked single-column layout rather than horizontal scrolling
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

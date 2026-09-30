@@ -4,6 +4,10 @@ name: "IELLO"
 source_url: "https://iello.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A board game publisher that uses a primary red #f0263c with the punch of a game timer's final beep — it appears on every product badge, price tag, and add-to-cart button against a clean canvas #f3f4f5. The brand's secondary blue #003388 anchors the header and footer, creating a confident two-color system that reads as both playful and trustworthy. Product cards sit on white with soft rounded corners {rounded.sm}, while category badges use the full-radius pill shape {rounded.full} in either red or blue to signal game type. The typography system leans on a single sans-serif stack at moderate weights — body copy at 14px with 1.5 line-height keeps rules text readable, while game titles use a bolder 18px weight 700 to stand out in grid layouts. The checkout flow and account pages shift to a lighter palette with muted backgrounds #f0f0f0 and hairline borders #e7f5fe, maintaining the brand's approachable feel without visual fatigue. The overall impression is of a toy store that takes its games seriously but not itself — bright accents, generous whitespace, and a clear hierarchy that lets the product photography do the heavy lifting.
 
@@ -386,6 +390,13 @@ components:
 - Cart page shifts from side-by-side to stacked layout below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

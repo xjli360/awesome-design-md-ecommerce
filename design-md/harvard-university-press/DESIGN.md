@@ -4,6 +4,10 @@ name: "Harvard University Press"
 source_url: "https://www.hup.harvard.edu"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A scholarly publisher whose visual system is built on a deep, intellectual blue (#003399) as its primary anchor, with a sharp accent of cyan (#00bbff) that cuts through the academic reserve like a highlighter on a dense page. The extracted palette reveals a brand that operates in two registers: the formal authority of navy and crimson (#d93a42, #c4262e) for institutional gravity, and a surprisingly airy scaffold of near-whites (#fafafa, #f6f7f9, #f0f2f5) and soft grays (#e8e8e8, #d8dce0, #bdc1c5) that keep the reading experience from feeling heavy. The typography stack defaults to GT America — a geometric sans-serif with enough warmth for long-form text — backed by the full Apple and system-fallback chain. Buttons and interactive elements use the cyan (#00bbff) as a bright, trustworthy call-to-action, while the navy (#003399) handles primary navigation and headers. The system uses modest rounding (`{rounded.sm}` ~8px) on cards and inputs, never going fully pill-shaped — this is a press, not a marketplace. The crimson tones (#d93a42, #c4262e, #a82027) appear sparingly, likely for sale badges, error states, or limited-run covers, adding a note of urgency to an otherwise composed palette. The overall effect is that of a well-designed monograph: generous margins, clear hierarchy, color used as argument rather than decoration.
 
@@ -424,6 +428,13 @@ components:
 - Product image galleries collapse from thumbnail strip to swipeable dots on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Sharp"
 source_url: "https://www.sharpusa.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The #ee1e3a red that fires across Sharp's primary CTAs reads less like warmth and more like a control-panel indicator — a precision signal cut from the same vocabulary as power buttons and status LEDs. Sharp Electronics USA runs its pages from a clean white canvas with measured technical spacing, leveraging the authority of Japanese engineering heritage through systematic hierarchy rather than expressive flourish. Product pages organize as feature grids and specification tables that reward the deliberate buyer comparing magnetron wattages and convection modes side by side. The typography stack — system sans-serif in the absence of extracted brand fonts — holds a clean, almost industrial rhythm: heavy weights for display headlines, regular-weight copy for specification content, a register that says "engineered to last" rather than "designed to desire." Navigation runs horizontally across a white bar, product categories listed with clinical directness. There is no gradient softness anywhere. The red (#ee1e3a) operates at single points of commitment — add-to-cart actions, promotional callouts, the sharp edge of a discount badge — while the surrounding white-and-gray scaffold holds space for product photography. Rounded corners stay restrained at {rounded.xs} and {rounded.sm}, reinforcing machine-made precision across every interactive surface. A surface-card at #ffffff floats against a #f5f5f5 surface-soft, creating the minimal separation that product listings need to read as discrete objects without decorative shadow depth. Model numbers rendered in monospace beneath product titles are a quiet signal: this brand's customers open spec sheets before they open their wallets.
 
@@ -391,6 +395,13 @@ components:
 - Spec table becomes a horizontally scrollable container at < 744px; row labels pin-stick left via sticky positioning
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

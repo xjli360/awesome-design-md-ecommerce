@@ -4,6 +4,10 @@ name: "Holy Stone"
 source_url: "https://holystone.com"
 captured_at: "2026-09-28T09:23:23.046061+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Holy Stone's storefront CSS points to a utilitarian, Bootstrap-derived foundation (glyphicon and contextual-alert classes, .navbar-fixed-top) layered with a small set of custom brand tokens declared as CSS variables: --hs-yellow (#fce30d), --hs-green (#577054), --hs-mint (#bfccb5), and neutral panel/background tones (#edf0f5, #e3e3db). This interpretation treats #577054 as the primary brand accent (used on hover states and "more" links), #fce30d as a high-contrast activation/highlight color (seen on an active shop-toggle state), and #111111/#333333 as the core ink and body-text pair. Muted grays (#666666, #999999) and hairlines (#dddddd, #e5e5e5) are inferred from common Bootstrap gray-scale usage rather than directly observed on visible text. Typography is inferred from the declared font stack: Poppins for display/heading weight (matching the bold 700-900 weight nav labels) and Helvetica Neue/Arial for body copy, consistent with the Bootstrap-era sans-serif defaults present in the CSS. A custom "Holystone" font family is referenced in the stylesheet but its glyphs, weights, and licensing are unverified. Bootstrap's contextual alert palette (success/info/warning/danger) is preserved as semantic feedback color, likely used for form validation or stock-status messaging rather than primary branding.
 
@@ -161,6 +165,13 @@ This is a recommended breakpoint scheme, not measured site behavior (no media qu
 Touch targets should be at least 44px tall (nav-bar height of 74px supports this), with `button-primary`/`button-secondary` padding sized at `{spacing.md} {spacing.lg}` to remain tap-friendly. The multi-column `.cat13` navigation should collapse to an accordion or drawer pattern below tablet width; none of this collapse behavior was directly observed and is proposed for usability only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

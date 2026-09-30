@@ -4,6 +4,10 @@ name: "YellowKorner"
 source_url: "https://www.yellowkorner.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every YellowKorner print ships with a literal yellow corner sticker (#ffcf0b) — a physical brand mark that names the company and injects warmth into what is otherwise a controlled, near-black editorial system. The primary canvas is white, but the dominant emotional register is set by ink (#0d0d0d): dark hero sections, dark footers, and dark overlays create the atmosphere of a gallery space after closing time. Against that field, forest green (#008827) carries every purchase action — add to basket, wishlist icon, quantity selector — a color too deliberate and cool to read as promotional, closer in feel to the ink stamp on an edition certificate than to a sale button. Arizona, the bracketed editorial serif, dominates display type at scale; its fine wedge serifs carry exhibition-wall authority at 48px and collapse gracefully to scholarly body copy at 16px. Gravity, a low-contrast humanist geometric, handles nav labels and UI chrome with the discretion of a museum placard. Libre Baskerville appears in long-form editorial contexts — artist statements, collection essays — leaning into the classical provenance the brand wants to signal for photographic works positioned as investable objects. A warm gold (#baa85a) surfaces on limited-edition callouts and premium tier flags; #a6070f crimson handles promotional and sale messaging; tints of sand (#e5debf) and pale mint (#a7d6b4) appear as filter-chip fills drawn from the palette of the photographs themselves — still lifes, botanical studies, cityscapes. Corner radii are almost entirely absent: product frames and image cells run square (`{rounded.none}`) to mirror physical print mounts, while only buttons and inputs adopt a restrained `{rounded.xs}`. The yellow corner mark — 12×12px, #ffcf0b, bottom-right of every product card — is the one decorative flourish the system permits itself, and it earns that permission by being structurally honest: it is the brand's name, rendered as a physical fact made digital.
 
@@ -373,6 +377,13 @@ components:
 - Editorial block measure: 680px max-width with 24px horizontal padding on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

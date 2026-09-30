@@ -4,6 +4,10 @@ name: "Lamaze"
 source_url: "https://www.lamazetoys.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every product in the Lamaze lineup doubles as a developmental tool — high-contrast color blocks, bold primary fills, and crinkle textures are engineered to stimulate the infant nervous system, and the brand's digital layer inherits that same chromatic directness. The catalog hero is anchored by a red that sits somewhere between fire-engine and stop-sign — a hue approximating #e31837 that signals safety, warmth, and legibility at low infant focal range. Surrounding primaries — a sunflower yellow, a cobalt blue, a grass green — rotate through product imagery and category badges, creating a palette that reads less like a retail color system and more like a well-stocked art class.
 
@@ -328,6 +332,13 @@ components:
 - Footer 4-column layout → stacked accordion sections on mobile with `{colors.hairline}` dividers between each
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

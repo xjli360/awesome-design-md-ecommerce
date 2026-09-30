@@ -4,6 +4,10 @@ name: "Farrow & Ball"
 source_url: "https://farrow-ball.com"
 captured_at: "2026-09-28T09:05:30.055585+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is built strictly from the supplied CSS evidence for
   farrow-ball.com, a Magento-based storefront selling handcrafted paint and
@@ -164,6 +168,13 @@ Proposed breakpoint table (not measured from live responsive testing):
 Touch targets are recommended at a minimum of 44×44px for buttons and nav items. Mega-menu flyouts should collapse into accordions on mobile. This table is a design recommendation only; no live responsive or interaction behavior was observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

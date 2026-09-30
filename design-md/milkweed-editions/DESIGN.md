@@ -4,6 +4,10 @@ name: "Milkweed Editions"
 source_url: "https://milkweed.org"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A literary publisher whose visual system is built on the tension between warm, earthy tones and a clean, airy canvas. The extracted palette reveals a surprising range: a deep, almost charcoal ink (#353434) grounds the body text, while a muted sage-gray (#7993a5) and a soft, dusty blue (#5b6f80) create a quiet, contemplative atmosphere. The most distinctive accent is a burnt orange (#e87746), used sparingly for primary CTAs and navigation highlights, providing a warm, human pulse against the cool grays. The brand leans heavily on serif typography—Goudy Old Style, Palatino, and Warnock Pro for display and body text—evoking a sense of literary tradition and authority. This is paired with a clean, geometric sans-serif (GothamSSm, SentinelSSm) for UI elements like buttons and navigation, creating a subtle but deliberate hierarchy: the serif speaks, the sans-serif acts. The overall mood is one of refined simplicity; generous whitespace and soft, rounded corners (`{rounded.sm}` on cards, `{rounded.md}` on buttons) prevent the system from feeling cold or academic. The primary canvas is a near-white (#f0f0f0), with a slightly warmer surface-soft (#edecec) for cards, giving the site a tactile, paper-like quality that mirrors the physical books it publishes.
 
@@ -319,6 +323,13 @@ components:
 - The footer collapses from a multi-column layout to a single column, with links stacked vertically.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

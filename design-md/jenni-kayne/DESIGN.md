@@ -4,6 +4,10 @@ name: "Jenni Kayne"
 source_url: "https://jennikayne.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The #FCFCF9 canvas — an off-white warm enough to suggest linen, restrained enough to read as architecture — defines Jenni Kayne's digital surface before a single product image loads. That color is not an accident: it appears as the meta theme-color, meaning the browser chrome itself adopts the brand's temperature on mobile. Domaine-Redesign, a high-contrast editorial serif with crisp bracketed serifs and finely drawn strokes, handles every display moment: homepage collection titles, story-page pull quotes, and seasonal campaign headers. GT America Web manages the entire utility layer — navigation labels, product names, filter chips, form fields — in a restraint that lets the serif dominate without friction. DomaineText-RegularItalic operates as a third voice: editorial captions, collection subtitles, and the occasional hover-swap from roman to italic that signals interactivity without weight change or color shift.
 
@@ -345,6 +349,13 @@ components:
 - Filter bar converts from inline pills to a bottom-sheet modal on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

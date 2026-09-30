@@ -4,6 +4,10 @@ name: "Five Ten"
 source_url: "https://www.adidas.com/us/fiveten"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A climbing brand that lives in the vertical, Five Ten’s visual system is built around a deep obsidian ink (#000000) and a stark white canvas (#ffffff), with no gradient, no decorative color, and no ornament — the only accent is the rubber-orange of Stealth C4, a saturated #e85d00 that appears on product badges, price tags, and the sole of every climbing shoe rendered as a 3D product shot. The typography runs AdihausDIN at 700 weight for display and 400 for body, a condensed, utilitarian sans-serif that reads like a carabiner spec sheet: no curves, no serifs, no warmth. Buttons are full-height rectangles with zero rounding ({rounded.none}), 48px tall, and use the brand’s signature black-on-white or white-on-black inversion — there is no gray state, no hover gradient, no shadow. Product cards are flat white rectangles with a single 1px hairline border ({colors.hairline}), a 4:5 aspect ratio photo, and a price set in 16px bold with the orange badge. The navigation is a persistent black bar at 64px, with white text and a search icon that opens a full-screen overlay — no hamburger, no flyout, just a clean vertical drop. The entire system feels machined, not designed: every corner is square, every line is straight, every color is either black, white, or the orange of friction rubber. There is no surface-soft, no muted-soft, no rounded anything — the brand trusts the geometry of climbing holds and the texture of limestone over any digital flourish.
 
@@ -444,6 +448,13 @@ components:
 - Product images: On mobile, single-column layout with full-width images. On tablet and above, multi-column grid.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

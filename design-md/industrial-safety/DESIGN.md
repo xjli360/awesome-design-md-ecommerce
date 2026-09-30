@@ -4,6 +4,10 @@ name: "Industrial Safety"
 source_url: "https://www.industrialsafety.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Catalog density is the brand's primary design signal — a 50,000-SKU product grid where faceted filters, ANSI/OSHA compliance badges, and safety-standard labels do the visual work that lifestyle photography does elsewhere. The single confirmed surface color extracted from the live site, #313131 (a near-black charcoal), anchors navigation and body text in a utility-forward register that reads as authoritative rather than decorative. This is procurement UI, not lifestyle browsing: search boxes carry structural weight, category navigation spans the full breadth of PPE hierarchy (head protection, hand protection, respiratory, hi-vis apparel), and product cards lead with SKU numbers and specification references rather than editorial copy. Button shapes lean rectangular — {rounded.sm} at most — because the audience is a safety manager buying in bulk, not a consumer scrolling a feed. The typography runs entirely on system stacks (Arial, Roboto, Helvetica Neue), reinforcing the institutional register: no custom font spend, no brand-personality distraction. Where accent color appears on CTAs and add-to-cart actions, it almost certainly draws from the high-visibility spectrum; the orange-amber family is load-bearing in industrial safety culture, encoded in ANSI Z535 signage standards and embedded in every hi-vis vest and hard hat the category sells. Color temperature reads cool and controlled — dark header, white card field, hairline grid — with accent voltage reserved for the action layer. Whitespace is functional rather than expressive: tight {spacing.sm} between product attributes, generous {spacing.section} only at page transitions. Because the site was behind anti-bot protection during extraction and returned only one confirmed color (#313131) with no custom fonts, the accent palette below is inferred from industrial safety category norms and noted fully in Known Gaps.
 
@@ -343,6 +347,13 @@ components:
 - Hero banner headline scales from {typography.display-xl} (32px) to 24px on mobile with padding reducing to {spacing.lg}
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

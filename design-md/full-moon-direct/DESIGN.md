@@ -4,6 +4,10 @@ name: "Full Moon Direct"
 source_url: "https://www.fullmoondirect.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A midnight-dark e-commerce bazaar for cult genre cinema, where #080808 ink fights #f5f5f5 canvas and the only consistent brand voltage is a muted #337ab7 blue that appears on every link, every CTA, every clickable word — a relic of the Bootstrap era that Full Moon Direct never bothered to override, and somehow that indifference is the brand. The page title announces "Adult. Sexy. Rare." in all-caps, and the design follows suit: a dense, text-heavy layout where #777777 body text on #ffffff canvas does the heavy lifting, punctuated by #5cb85c green success badges, #d9534f red error signals, and #f0ad4e amber warnings that feel borrowed from an admin dashboard rather than a storefront. Navigation is a horizontal strip of #e7e7e7 pills with #555555 text, each category a clickable slab — no drop shadows, no rounded corners beyond `{rounded.xs}`, no hero imagery, no product cards with padding. The brand's visual language is aggressively flat: #eeeeee section dividers, #e5e5e5 table borders, #fcf8e3 alert backgrounds. Every component reads like it was built in 2012 and left untouched, which is exactly the point — Full Moon Direct doesn't need to be beautiful, it needs to be browsable, and the #337ab7 link blue is the only wayfinding the user gets.
 
@@ -414,6 +418,13 @@ components:
 - Footer links stack vertically on mobile, centered.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Govee"
 source_url: "https://govee.com"
 captured_at: "2026-09-28T09:41:43.049798+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Govee's storefront evidence points to a Shopify Oxygen build layered with Tailwind and a daisyUI-derived
   token system (--rounded-btn, --rounded-box, oklch color channels), styled with the Gotham typeface over
@@ -163,6 +167,13 @@ Recommended, not measured:
 Touch targets should be at least 44×44px, matching the observed `.btn` 3rem (48px) height. Navigation is assumed to collapse into a drawer/menu below tablet width; this collapse behavior was not observed in the supplied CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This interpretation is derived solely from static CSS/text extraction and does not reflect a rendered or interactive audit of govee.com. Specific gaps:

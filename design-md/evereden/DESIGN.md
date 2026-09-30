@@ -4,6 +4,10 @@ name: "Evereden"
 source_url: "https://evereden.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A calm, clinical warmth defines Evereden — a baby-care brand that trusts a near-all-white canvas (#ffffff) and a single, unexpected accent: a deep, almost-black ink (#1a1a1a) for headlines, with body text settling into a softer charcoal (#4a4a4a). There is no pastel pink or baby blue here; the palette reads more like a modern dermatologist’s office than a nursery. Primary CTAs and key interactive elements use a muted sage-green (#7a9e7e), a color that suggests botanical safety rather than urgency — it never screams. Buttons are softly pill-shaped ({rounded.full}) with generous internal padding, and product cards float on white backgrounds with barely-there hairlines (#e5e5e5) and {rounded.md} corners. Typography runs a clean, geometric sans-serif (closely resembling Neue Haas Grotesk or a similar neo-grotesk) at moderate weights: display heads at 500/600, body at 400, with tight line-heights and zero letter-spacing except for uppercase badges. The brand’s signature move is the “ingredient callout” — a small, uppercase badge (#7a9e7e background, white text) pinned to product imagery, signaling clean formulation without disrupting the visual. Navigation is a thin, transparent bar with a centered logo and minimal links, and the footer is a dense, organized grid of small text and social icons — more informational than aspirational. The overall effect is one of quiet authority: Evereden does not beg for attention; it assumes you’re already looking for the safest option.
 
@@ -321,6 +325,13 @@ components:
 - Image galleries on product pages collapse from a 2-column grid (desktop) to a single-column swipeable carousel (mobile/tablet).
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

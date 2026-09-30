@@ -4,6 +4,10 @@ name: "Nakamichi"
 source_url: "https://nakamichi-usa.com"
 captured_at: "2026-09-28T04:27:30.091621+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Nakamichi's evidence points to a dark, high-contrast home-theater aesthetic layered over a warm burnt-orange primary (#c85000) accent, with pure black and near-black surfaces (#000000, #161616, #1c1b1c, #272626) dominating the observed palette. Supporting neutrals span from white (#ffffff) through mid-grays (#797676, #adaaaa, #c9c6c5) to soft off-whites (#fafafa, #f0f0f0), suggesting a UI that alternates between deep cinematic backgrounds and lighter content panels. A secondary red (#ed1c24) and a muted green (#12753a) appear in the palette and are treated here as inferred status/accent colors (e.g., alerts, ratings, promotional badges) rather than primary brand colors. A gold/amber tone (#ffc338) is mapped as an inferred rating-star or highlight color, consistent with the "#1 Rated" review-driven positioning in the page title.
 
@@ -126,6 +130,13 @@ components:
 Recommended (not measured) breakpoints: mobile up to 640px, tablet 641–1024px, desktop 1025px+. Touch targets should maintain a minimum 44px height for buttons and nav items on mobile. Navigation is proposed to collapse into a hamburger/drawer pattern below the tablet breakpoint, with product-card grids stepping from a single column (mobile) to 2–3 columns (tablet) to 4+ columns (desktop). All breakpoint values and collapse behavior are proposed conventions, not observed from the live site.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/token extraction only; no rendered page, JavaScript-driven interaction, or mobile viewport was observed. Semantic color roles (e.g., which grays serve as body vs. muted vs. hairline) are inferred from typical usage patterns in the supplied hex list, not confirmed via applied selectors. Sizing for display-xl, display-md, title-md, caption, and button-md typography is proposed and extrapolated from the confirmed body-large/medium/small scale; only those three body sizes and their weights are directly evidenced in the CSS rules. Rounded and spacing scales are conventional proposals, not extracted from source. Availability, licensing, and web-font loading of "Basement Grotesque" and "Red Hat Text" were not verified beyond their appearance as CSS variable references. No hover, focus, active, or error states were observed; all interactive states beyond base styling are proposed placeholders for future validation against live markup.

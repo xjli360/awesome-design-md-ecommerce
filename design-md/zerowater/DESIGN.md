@@ -4,6 +4,10 @@ name: "ZeroWater"
 source_url: "https://www.zerowater.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Five-stage filtration brands typically lean clinical white or safety-lab blue; ZeroWater builds its entire hero experience on #000e2e, a near-black midnight navy so dense it absorbs ambient UI noise and makes the electric mint (#6bffc6) CTAs read as a purification signal rather than a routine prompt. That voltage contrast — deep navy against glowing mint — carries the brand's core claim: water measured to zero total dissolved solids, not approximated. The TDS (Total Dissolved Solids) meter is ZeroWater's signature artifact, and the type stack is built around its readout: Manrope handles interface labels, product titles, and navigation in clean geometric strokes at weights 400–700, while a monospace family — Consolas, Menlo, Monaco — renders the three-digit dissolved-solids reading at hero scale, making '000' feel like a precision instrument rather than a headline. IBMPlexSerif enters for editorial moments: 'Why Zero?' explainer flows, filtration science callouts, and certification copy, lending the brand a credentialed voice without full clinical sterility. Secondary interactive states draw from two accent blues (#2968fe, #2563eb) and an electric purple (#5a31f4), but mint and navy carry every primary communication channel. A four-step success-green family (#22c55e → #4ade80 → #86efac → #dcfce7) maps to certification confirmation states — graduated, not binary — implying a multi-step verification UX rather than a single badge moment. Corner radii sit in the moderate range: {rounded.xs} on inputs and filter badges, {rounded.md} on product cards, {rounded.sm} on CTAs — no pill shapes, because the brand's differentiator is measured precision rather than approachability. Vertical section spacing is generous ({spacing.section} = 64px), keeping the dark canvas from closing in while giving the mint CTAs negative space to command attention. The system reads as a lab instrument meets consumer confidence — dark enough to signal seriousness, bright enough to remain purchasable.
 
@@ -311,6 +315,13 @@ components:
 - `filter-stage-tracker`: horizontal 5-step track collapses to a 2-column labeled grid on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

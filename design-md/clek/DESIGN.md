@@ -4,6 +4,10 @@ name: "Clek"
 source_url: "https://clekinc.com"
 captured_at: "2026-09-28T10:15:21.226448+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from a Shopify-hosted storefront (theme "main.css")
   selling infant, convertible, and booster car seats under the Clek brand. The
@@ -161,6 +165,12 @@ components:
 The `--container-pad-x` and `--gutter` custom properties were directly observed at four step values (16/30/50/60px), confirming a responsive container system exists; the pixel breakpoints mapped to each step above are proposed, not measured. Interactive/touch behavior (menu collapse, swipe carousels, filter drawers) is not observed and should be validated against the live site before implementation.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

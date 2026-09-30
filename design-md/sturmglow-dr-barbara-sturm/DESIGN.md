@@ -4,6 +4,10 @@ name: "SturmGlow (Dr. Barbara Sturm)"
 source_url: "https://www.drsturm.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A clinical-luxury skincare system built on a foundation of scientific precision and minimalist restraint, where the single anchor color `#313131` — a deep, warm charcoal — carries the weight of every primary CTA, navigation link, and headline, projecting an aura of understated authority rather than overt promotion. The brand speaks in the quiet language of the dermatologist's office: a pure white canvas (`{colors.canvas}`) allows product photography and ingredient stories to breathe, while soft surfaces (`{colors.surface-soft}`) and card backgrounds (`{colors.surface-card}`) create subtle depth without visual noise. Typography runs system-native through -apple-system, BlinkMacSystemFont, and Segoe UI — a deliberate choice that prioritizes legibility and performance over decorative type, reinforcing the brand's "science first" ethos. Rounded corners are sparingly applied: pills and badges use `{rounded.full}` for a touch of approachability, while cards and inputs land at `{rounded.md}` (12px) — enough to soften the clinical edge without sacrificing the brand's professional credibility. The overall feeling is that of a luxury medical spa: calm, precise, and utterly confident in its own expertise, where every pixel serves the product, not the personality.
 
@@ -493,6 +497,13 @@ components:
 - Multi-step forms collapse to single-page scroll on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

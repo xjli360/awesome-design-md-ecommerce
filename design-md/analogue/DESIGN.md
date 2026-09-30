@@ -4,6 +4,10 @@ name: "Analogue"
 source_url: "https://analogue.co"
 captured_at: "2026-09-28T09:08:53.594580+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Analogue's observed palette is dominated by a stark white canvas (#ffffff) and near-black ink
   (#0f0f12/#000000), consistent with a minimal, hardware-forward retro-tech aesthetic. Mid-grey
@@ -133,6 +137,14 @@ components:
 Proposed breakpoints (not measured): mobile ≤480px, tablet 481–1024px, desktop ≥1025px. Navigation is expected to collapse into a hamburger/menu pattern below tablet width, with the marquee/hero stacking to single-column text over full-bleed product imagery. Touch targets for buttons and nav items should maintain a minimum 44×44px hit area on mobile. Product-card grids likely reflow from a multi-column desktop layout to a single column on mobile. This section is a recommendation based on common e-commerce patterns, not observed site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This specification is derived from static CSS/text extraction only; no live rendering, DOM inspection, or responsive breakpoints were observed. Color-to-role mapping (e.g., which accent color denotes success vs. promotional badges) is inferred from generic palette presence, not confirmed component usage. Font sizes, weights, and line-heights beyond the few Tailwind utility classes shown (e.g., `.release-notes-content` heading clamp) are proposed conventions, not measured values. Interaction states (hover, focus, active, disabled) and mobile/collapsed navigation behavior were not observed. Availability and licensing of the custom fonts circularXx, neueBit, and unicaMono were not verified; they are referenced only because they appear in the supplied font-family evidence.

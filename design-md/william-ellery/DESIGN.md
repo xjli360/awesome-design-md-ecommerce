@@ -4,6 +4,10 @@ name: "William Ellery"
 source_url: "https://williamellery.co"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep forest-green (#022501) grounds the William Ellery storefront like a pine needle floor, while a pale sky-blue (#83c5e0) washes over secondary panels and product photography backdrops, creating a landscape of color that feels walked-in rather than designed. The cream canvas (#f9f7e9) reads as sun-bleached paper or well-worn trail map, and the brand uses it generously across backgrounds and card surfaces, letting the dark ink do the work of framing product silhouettes. A brass-toned accent (#c3a141) appears sparingly — on price tags, on sale badges, on the thin stroke of a cart icon — like a brass button on a waxed jacket. The single typeface is Jost, a geometric sans with a humanist warmth that avoids the coldness of pure grotesk; it runs at modest weights (400–600) across headings and body copy, never shouting. Product cards sit on `{rounded.sm}` corners with `{spacing.lg}` padding, and the primary CTA button — a solid block of `{colors.primary}` with `{colors.on-primary}` text — uses `{rounded.none}` corners, a deliberate break from the softness elsewhere that signals "this is the action." The footer collapses into a dense column of links on mobile, and the nav bar drops its search field behind a magnifying-glass icon, preserving the clean horizon line the brand values. There is no hero carousel; instead, a single full-bleed image anchors each collection page, the `{colors.primary}` overlay at 40% opacity pulling the photograph into the brand system. The overall effect is that of a field guide — authoritative, quiet, and built for the long haul.
 
@@ -357,6 +361,13 @@ components:
 - Hero section reduces min-height from 400px to 300px on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

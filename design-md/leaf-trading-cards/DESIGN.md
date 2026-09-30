@@ -4,6 +4,10 @@ name: "Leaf Trading Cards"
 source_url: "https://www.leaftradingcards.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Dharma Gothic E — the condensed-slab display face built for newspaper sports sections and stadium program covers — runs Leaf's entire headline hierarchy, from 80px hero lockups down to the 10px serial-number stamps that identify numbered parallel inserts, and this single typographic choice signals exactly who the customer is: the collector who reads card backs and knows what "1/1" means. The crimson (#c73226) has the unmistakable saturation of freshly printed sports-logo ink rather than a digital brand accent — it appears on every purchase button, presale callout, and serial badge, a concentrated signal that the system's energy is focused on availability and acquisition. Beneath it, the deep maroon (#420500) holds pressed states and hero overlays, giving interactions a felt sense of depth without introducing a third hue. Forma DJR Text handles body copy and navigation links with neutral precision that keeps the catalog scannable across Hobby, Retail, Multi-Sport, and Celebrity segments — the contrast between compressed Gothic display and upright humanist body text creates a visual hierarchy that resolves quickly at both desktop and mobile reading distances. Subway Berlin Std appears in footer headings and departmental wayfinding, lending a transit-map authority to category nomenclature. Product cards lock to a 2.5:3.5 aspect ratio that mirrors the physical trading card format; serial badges pin at {rounded.xs} to the lower-right corner in {colors.primary}, and the canvas stays white throughout — the system trusts card photography to carry visual weight and uses the two brand colors as punctuation rather than atmosphere. Category filter chips run as {rounded.full} pills below the nav bar; structural card surfaces hold at {rounded.xs} so the grid reads as organized and direct, a signal to serious buyers that the catalog is what matters.
 
@@ -323,6 +327,13 @@ components:
 - Footer columns: 4-col desktop → 2-col tablet → 1-col stacked mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

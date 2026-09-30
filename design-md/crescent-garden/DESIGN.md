@@ -4,6 +4,10 @@ name: "Crescent Garden"
 source_url: "https://www.crescentgarden.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Four distinct greens sit alongside a deep-water teal (#0e252c) that does the heavy lifting no plant-brand would normally trust to near-black — Crescent Garden leans into the darkness rather than retreating to beige or sage-wash. The primary button blue (#2ea3f2) is the one sharp break from the botanical register, a utility signal that reads as open sky against all that foliage below it. Backgrounds stack in near-whites (#f9f9f9, #f4f4f4) with gray hairlines (#e0e0e0, #bbbbbb) giving product photography clean air, while the dark teal anchors the nav and footer to something with soil-weight. The green family moves from a muted sage (#7cc68d) through forest (#31856c) and deep forest (#276a56) down to a jewel-toned teal-mint (#18b394) — a range that covers fresh-growth to aged-copper, letting planter product photos sit on-palette regardless of what is planted in them. Type is Open Sans throughout, a workmanlike geometric sans that yields the stage to product imagery; display headings run large and weight-600 while product labels lean 400 at 14px. An unexpected lavender (#c37cc6) and amber (#edb059) surface in the swatch data — SKU colorways rather than brand decisions, but present enough to need deliberate swatch UI handling. The site is built on Divi (WordPress), confirmed by the ETmodules icon font and slick.js carousel signatures, which constrains some layout geometry to that builder's grid conventions. Rounded language is modest: cards and buttons use small `{rounded.xs}`–`{rounded.sm}` radii, keeping the catalog grid serious rather than lifestyle-pop.
 
@@ -393,6 +397,13 @@ components:
 - Hero CTA row stacks vertically on mobile if both buttons are present
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Inkjets.com"
 source_url: "https://www.inkjets.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep teal (#108474) dominates every primary CTA and brand-facing navigation anchor in a product category where every major competitor settles for corporate navy or commodity blue — the distinction is deliberate, reading as precise and confident rather than generically technical. Coral (#e66c41) supplies urgency at promotional moments: sale ribbons, limited-offer alerts, and accent marks on high-priority callouts. Warm amber (#fbcd0a) handles deal highlights and star-rating fills, completing a three-color promotional register that communicates savings without visual noise. Ink tones descend from near-black (#242833) at display headings through working-text gray (#555555) to supporting muted gray at #7b7b7b — exactly the minimum hierarchy needed for pages that carry the densest information load: multi-SKU variant pickers, OEM compatibility tables, and page-yield spec blocks stacked beneath cartridge photography. A lavender accent (#a89cc8) surfaces in loyalty and rewards-program UI, keeping repeat-customer flows visually separated from the standard purchase path without requiring a second brand system. Light-teal washes (#c1e6e6, #edf5f5) carry primary chromatic identity through feature strips and compatibility-confirmation banners that do not host a colored CTA. Nunito Sans drives the type system — a rounded, geometrically open sans-serif that keeps product-dense pages legible without the industrial coldness of the Roboto fallback. Compatibility pills and savings tags resolve to {rounded.full}; product cards and input fields use {rounded.sm} throughout. The white canvas — #ffffff card surfaces over #f9fafb page backgrounds — ensures that OEM cartridge artwork from HP, Canon, and Epson reads without color interference from surrounding UI chrome.
 
@@ -395,6 +399,13 @@ components:
 - Nav utility bar hides on mobile; its content (phone, account) moves into the hamburger drawer
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

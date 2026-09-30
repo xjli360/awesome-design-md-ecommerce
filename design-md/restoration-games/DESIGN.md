@@ -4,6 +4,10 @@ name: "Restoration Games"
 source_url: "https://restorationgames.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A board-game publisher that treats its catalog like a museum of play — every title is a restored classic, and the site communicates that mission through a restrained palette anchored on a deep institutional blue (#003388) that reads as archival rather than playful. That blue appears in the primary header, footer bars, and key navigation elements, while a secondary accent of #2ea3f2 adds a bright, sky-like lift to interactive states and hovered links. The canvas is a warm off-white (#fafafa) with card surfaces in pure white (#ffffff), creating a clean, readable hierarchy for game boxes and product photography. Typography relies on Montserrat for headings — a geometric sans-serif with a slightly architectural feel — and Open Sans for body copy, giving the interface a stable, editorial rhythm. Buttons use a modest {rounded.sm} radius that avoids both the hard edge of finance and the pill-shaped friendliness of consumer apps; this is a brand that values precision over whimsy. The top navigation bar is compact at 60px, with dropdown menus that reveal subcategories like "Restored Games" and "Upcoming Releases" — a taxonomy that reinforces the restoration narrative. Product cards are simple: a white background, a game-box image, the title in Montserrat at 18px weight 600, and a muted price line. There is no badge system for discounts or ratings; the brand trusts the game itself to sell. The footer is dense with links, social icons, and a newsletter signup, all set against the #003388 background with white text. The overall impression is of a specialty publisher that knows its audience — collectors, hobbyists, and nostalgia-seekers — and builds a site that feels like a well-organized library rather than a discount bin.
 
@@ -350,6 +354,13 @@ components:
 - Breadcrumb navigation hides on mobile, replaced by a "Back" button on product pages.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

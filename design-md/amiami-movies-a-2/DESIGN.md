@@ -4,6 +4,10 @@ name: "AmiAmi"
 source_url: "https://www.amiami.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A dense, collector-focused marketplace where #bd2426 — a deep, slightly cooled crimson — acts as the primary voltage, appearing on price tags, add-to-cart buttons, and sale badges against a canvas of #ebebeb and #dedede grays. The site reads like a warehouse floor translated into pixels: tight grids of product thumbnails, compact typography in system fonts (Arial, Helvetica Neue, sans-serif), and a relentless information density that prioritizes SKU numbers, release dates, and pre-order windows over editorial whitespace. Navigation is a horizontal strip of category links in #404040 on #ebebeb, with a prominent search bar that doubles as the primary wayfinding tool — this is a database with a storefront, not a brand story. The secondary palette is surprisingly broad: #62a1d8 and #2f7bbf for informational badges and filter controls, #9bca3e and #bada7a for stock-status indicators (green = available, a rare treat in this world), and #f68b1f / #ee730a for pre-order or limited-edition callouts. The checkout flow introduces #0051c3 and #163959 — a shift to cooler, more trustworthy blues — suggesting the transactional layer is deliberately separated from the browsing experience. Cards use minimal rounding ({rounded.xs} ~4px), buttons are compact at 36px height, and the overall feel is utilitarian, fast, and built for repeat visitors who know exactly what they want.
 
@@ -400,6 +404,14 @@ components:
 - Search bar collapses to an icon that expands on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

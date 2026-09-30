@@ -4,6 +4,10 @@ name: "Fox Racing"
 source_url: "https://foxracing.com"
 captured_at: "2026-09-29T04:06:35.148373+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from the official foxracing.com storefront, confirmed by page copy referencing Moto, Mountain Bike, and Clothing shopping paths, dirt bike helmets, motocross jerseys, and MTB gear — consistent with the Motorcycle Apparel & Helmets category.
   The supplied palette mixes true brand-adjacent tones (black, white, near-black grays, and a muted racing red) with numerous utility colors traceable to the OneTrust cookie-consent widget and generic UI frameworks (e.g. #33c3f0, #68b631, #6c757d, #e9ecef). Those consent/utility hexes are excluded from brand role assignment; only tones plausible as storefront chrome (blacks, whites, grays, one red, and fluorescent yellow/lime commonly seen in moto/MTB gear photography) are mapped to design roles below. All color-to-role pairings are inferred, not measured from rendered brand assets.
@@ -146,6 +150,13 @@ components:
 Touch targets are recommended at a minimum of 44×44px for nav, cart, and filter controls. This table is a general responsive recommendation based on common e-commerce patterns, not a measurement of foxracing.com's actual rendered breakpoints or JavaScript behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Timex"
 source_url: "https://www.timex.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Seventy years of the same red against near-black, and the formula still holds. Timex presses #bd3d44 — a brick-red that sits warmer than a stoplight and cooler than blood — into every primary CTA, sale callout, and promotional banner without apology. The near-black ink layer (#222222, bottoming at #121212) claims navigation, product names, and price display, while warm grays (#dedede, #dadada, #e4e4e4) fill hairlines and card surfaces; the page canvas settles at #f4f4f4 rather than pure white, reading like lightly aged paper without committing to nostalgia. Where the brand breaks from this two-tone spine is in product-line color coding — IRONMAN sport models arrive in school-bus yellow (#ffde17), diving-adjacent watches carry deep navy (#005385), field and military pieces get hunter green (#0b8642), and the heritage leather-strap catalog wears a warm brown (#6c4332). Badge backgrounds echo these hues in blush (#fcd6d7) and sage (#d3efcd), so categorical signals repeat at chip scale without reading as warning labels. Typography does the heaviest lifting of any design decision: Arizona, a high-contrast serif with editorial authority, handles display and hero headlines; ArizonaSans steps in for navigation and mid-hierarchy labels; Plain carries body copy and functional UI. The combination explains why a catalog of sub-$100 watches reads closer to a design magazine than a department store circular. Components carry {rounded.xs} across buttons and form inputs — near-square, no pill softness, no organic curves — and {rounded.sm} on cards. That angular discipline communicates something about the product promise: a watch that survives a construction site at $49.95 shouldn't live inside a gradient.
 
@@ -406,6 +410,13 @@ components:
 - Nav dropdown panels become full-screen drawer panels on mobile rather than hover overlays
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

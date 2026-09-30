@@ -4,6 +4,10 @@ name: "Burn Shop"
 source_url: "https://theburnshopwf.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep teal where you expect ember orange — Burn Shop's palette opens on #226d7a, the color of oxidized steel grate left out on a Wichita Falls porch, and it saturates every primary CTA, category header, and icon highlight across the storefront. The choice is deliberate inversion: instead of telegraphing fire and smoke, the brand signals the cool confidence of a pitmaster who has already mastered the flame. Supporting tones cascade from that anchor — a bright cyan (#22b8d1) for hover states and accent links, a soft sky wash (#b0e0e9) for tags and surface highlights, and an almost-white ice (#e4f5fa) for background panels and section dividers. Typography runs a utilitarian Open Sans stack with Roboto and Arial as fallbacks, set at moderate weights that keep the focus on product photography — seared grates, charred brisket, cast-iron grill bodies shot against concrete. Display headings land at 600–700 weight without heavy letter-spacing tricks, and body copy stays at 400/16px for comfortable reading across recipe pages and product specs. Corner radii lean functional: `{rounded.sm}` on buttons and inputs, `{rounded.md}` on cards and modals, `{rounded.full}` reserved for badges and small indicator pills. The grid breathes through a consistent `{spacing.base}` (16px) rhythm, expanding to `{spacing.section}` (64px) between major content blocks. Product cards sit on a white `{colors.surface-card}` canvas with subtle `{colors.hairline}` borders, letting the photography and the teal accents do the selling. The overall system reads as clean, tool-oriented, and unapologetically midwestern — a hardware-store clarity applied to outdoor cooking gear, where the color story says "we care more about your cook than our logo."
 
@@ -605,6 +609,14 @@ components:
 - Promo banner text collapses to a single line with a "Details" link on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

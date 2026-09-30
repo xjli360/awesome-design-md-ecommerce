@@ -4,6 +4,10 @@ name: "The Paper Mill Store"
 source_url: "https://www.thepapermillstore.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Forty-three paper weights listed on a single category page — The Paper Mill Store's real design challenge is taxonomy, not aesthetics. The store sells paper as a commodity with craft-grade specificity: 60 lb text, 80 lb cover, linen finish, laid finish, bright white vs. natural white, by the sheet or by the ream. The visual system has to carry a catalog with hundreds of SKUs that differ by properties invisible in a thumbnail, so every product tile leans heavily on typographic metadata — weight, finish, size — rather than lifestyle photography. The palette skews toward print-industry neutrals: a warm ivory canvas (#faf8f0) evokes the stock itself, while a deep burgundy primary (#9b1f3a) reads as an ink-press red, credible to paper buyers who deal in PMS swatches. Supporting surfaces stay close to white so product paper-color samples read accurately; any tint on the background would corrupt color perception for a customer comparing Natural White to Bright White. Typography leans on a workhorse sans-serif at modest weights for body copy, then switches to a slightly condensed weight for category labels and spec lines — mirroring the structured information hierarchy of a paper mill spec sheet. Buttons are modestly rounded ({rounded.sm}) rather than fully pill-shaped, matching the no-nonsense posture of an industrial supplier that also serves wedding stationers. The nav organizes by paper type, occasion, and format — three taxonomies that overlap — so breadcrumbs and filter chips are load-bearing UI, not decorative. Footer sections list brand names, paper lines, and certifications (FSC, recycled content), positioning the store as a verifiable supply-chain partner rather than a lifestyle retailer. The entire system is calibrated for a customer who arrives knowing what they want and needs the UI to get out of the way of the spec.
 
@@ -440,6 +444,13 @@ components:
 - Footer five-column grid → two-column at tablet, single-column accordion at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

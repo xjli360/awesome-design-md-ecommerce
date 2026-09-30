@@ -4,6 +4,10 @@ name: "Diaper Dabbler"
 source_url: "https://diaperdabbler.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A pastel-soft baby-care marketplace that wraps diaper sampling in a playful, trustworthy shell anchored on a crisp white canvas (#ffffff) and a distinctive pale teal (#108474) that reads as clean without being clinical. The brand's visual signature is a surprising pink accent (#db7093) — pale carnation, not bubblegum — that appears on sale badges, promotional banners, and secondary CTAs, tempering the teal's authority with warmth. A secondary teal wash (#c1e6e6) and a faint sage surface (#edf5f5) create layered backgrounds that keep product photography from floating in white space. Buttons use a generous 8px radius (`{rounded.sm}`) rather than pills, and the primary CTA in #108474 sits on a white button with #ffffff text — a quiet inversion that signals "we're different from the big-box baby stores." The type system runs Nunito Sans, a rounded humanist sans-serif that reinforces the soft, approachable tone; body copy at 16px in #555555 keeps readability high for tired parents shopping on mobile. Star ratings and review badges use a warm yellow (#fbcd0a) as the only saturated accent, while social icons and checkout widgets introduce blues (#3b5998, #1da1f2) that are clearly platform-driven, not brand. The overall effect is a clean, uncluttered storefront that feels like a well-organized nursery — organized, gentle, and just a little bit playful.
 
@@ -354,6 +358,13 @@ components:
 - Product images switch from landscape to square crop on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

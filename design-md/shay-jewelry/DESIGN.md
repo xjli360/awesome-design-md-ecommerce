@@ -4,6 +4,10 @@ name: "Shay Jewelry"
 source_url: "https://www.shayjewelry.com"
 captured_at: "2026-09-28T04:14:45.221376+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   SHAY's stylesheet centers on a near-monochrome palette: true black (#000000)
   and a softened off-black (#1c1c1c) carry primary UI weight, set against a
@@ -176,6 +180,12 @@ This is a recommendation based on common e-commerce patterns, not measured site 
 Touch targets should be a minimum of 44px (matching the clamp range seen on the Shopify payment button, `25px–55px`). Header collapse behavior, drawer/menu interactions, and any transitions are proposed conventions, not observed states.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This specification is derived entirely from static CSS custom properties and rule declarations; no rendered page, computed layout, or interaction states were observed. Several color-to-role mappings (mint `#e6f7f4`, peach `#fef3e2`, deep navy `#121f36`) are inferred from adjacency in the palette list, not confirmed usage. The Bootstrap-style alert triad (success/warning/error) and the blue Shopify checkout-button colors (`#1990c6`/`#136f99`) likely originate from third-party app or platform defaults rather than the core SHAY brand system, and should be verified before reuse in primary UI. `Work Sans` appears in the observed font-family list but its actual application (if any, given the `!important` Hanken Grotesk override) could not be determined. All display-tier font sizes, weights above what's declared, letter-spacing, and line-heights are proposed extrapolations from the small observed `--text-*` scale (11px–18px), not directly observed values. Breakpoints, mobile navigation behavior, hover/focus states, and card/grid layouts are proposed conventions only. Licensing and hosting terms for Hanken Grotesk were not verified in this extraction.

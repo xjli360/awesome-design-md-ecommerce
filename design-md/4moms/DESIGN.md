@@ -4,6 +4,10 @@ name: "4moms"
 source_url: "https://4moms.com"
 captured_at: "2026-09-28T10:16:52.996997+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   4moms is a Shopify-hosted storefront for high-tech baby gear (swings, bassinets,
   playards, high chairs). The observed CSS exposes a Bootstrap-derived variable set
@@ -168,6 +172,14 @@ The following breakpoints are a recommendation based on the Bootstrap-style vari
 Touch targets should target a minimum 44px hit area for buttons and nav icons (per the observed `.znt-pause-gif_button` 44px sizing). Mobile nav collapse and menu interaction states are not observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - All colors listed are pulled directly from supplied CSS variables/palette, but their assignment to specific UI roles (nav, footer, badges) is inferred, not confirmed by rendered screenshots.

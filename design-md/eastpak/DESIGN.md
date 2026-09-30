@@ -4,6 +4,10 @@ name: "Eastpak"
 source_url: "https://eastpak.com"
 captured_at: "2026-09-29T04:09:07.134522+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation reads Eastpak's observed CSS as a stripped-back, high-contrast
   system built around pure black and white with a warm ivory support ramp
@@ -162,6 +166,13 @@ components:
 Recommended, not measured breakpoints: mobile <768px (single-column, hamburger nav collapsing `.site-header__mobile-nav`), tablet 768–1024px (2-column product grid), desktop >1024px (full nav bar, 3–4 column grid). Touch targets should be ≥44px for nav links and the cart-badge control; the mobile nav is assumed to collapse into a slide-in panel given the `.site-header__mobile-nav` selector, though its open/close interaction was not observed. All figures are proposed defaults for a retail storefront of this category.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered layout, viewport screenshots, or interaction states (hover, focus, active, mobile menu open) were observed. Several CSS custom properties (`--font-stack-body`, `--font-stack-header`, `--color-body`, `--color-btn-primary`) were referenced but not resolved to literal values, so font-role and background-role assignments in this spec are inferred approximations rather than confirmed measurements. The "AS Circular" font family's licensing and web-availability were not verified — it is treated as a proprietary brand font per the supplied evidence. Spacing scale, border-radius scale (beyond the one observed `border-radius:0` button rule), typography sizes, and breakpoints are all proposed conventions, not extracted values. Color-to-role mapping (e.g., which neutral is "ink" vs "body") is a best-effort interpretation of a large unlabeled palette rather than a documented design-token source.

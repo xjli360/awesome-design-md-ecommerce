@@ -4,6 +4,10 @@ name: "Freda Salvador"
 source_url: "https://fredasalvador.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The macron over the Ē in FRĒDA — a diacritic most browsers can't render in plain ASCII — sets the brand's governing logic: California directness delivered through European craft precision. Brick-red #ae3838 carries every primary CTA, sale badge, and hover flash against a canvas of warm cream (#f3f1ed, #f9f8f6) that reads more like sun-bleached linen than clinical white. HelveticaNeueCyr grounds the system in a grotesque tradition associated with mid-century European modernism, while Montserrat and proxima-nova extend the family toward legible digital utility — the result is a type stack that never romanticizes or over-softens, reading matter-of-fact in display and body alike. Secondary accents arrive from an unusually wide arc: deep navy (#0e4066), warm amber (#ffe6b5), and muted slate-blue (#84b5cf), all restrained to supporting roles — seasonal campaign banners, promotional ribbons, or editorial callouts — while the primary brick holds sole authority over interactive elements. Buttons are flat rectangles with zero rounding (`{rounded.none}` on primary CTAs), contrasting sharply with the clean imagery-first product cards that carry no shadow and no border decoration. The nav sits in near-black (#212121) on mobile and lifts to the cream canvas on wider breakpoints, creating a strong dark header shelf on small screens that anchors the site's visual weight at the top. Spacing is generous: section gutters at `{spacing.section}` push each product row into its own breathing zone, a pacing choice that positions the brand near footwear peers like Common Projects and Veja rather than the dense grid layouts of fast-fashion Shopify themes. Error surfaces (#f8d7da, #f5c6cb) appear only in form validation, never as brand expression — the reds of the brand are warm brick, not alarm.
 
@@ -382,6 +386,13 @@ components:
 - Announcement bar text marquee-scrolls if the message exceeds viewport width at small breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

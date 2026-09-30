@@ -4,6 +4,10 @@ name: "Blacktail Studio"
 source_url: "https://blacktailstudio.com"
 captured_at: "2026-09-28T09:32:15.681667+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Blacktail Studio is a Portland, Oregon custom-furniture and epoxy-resin
   woodworking studio that also sells courses, tools, and a small hard-goods
@@ -165,6 +169,14 @@ Recommended breakpoints (not measured):
 Touch targets should be a minimum of 44×44px for buttons and nav items. Collapse behavior, hamburger iconography, and any scroll/sticky header states are recommendations only; no mobile layout or interaction was observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

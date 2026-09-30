@@ -4,6 +4,10 @@ name: "Philips Hue"
 source_url: "https://www.philips-hue.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Before a Philips Hue bulb fires, the room is dark — and the product site takes that condition as its design premise. The canvas is #101010, a near-total black, with surface layers stepping up through #18181a, #242427, and #303034 in increments just large enough to register depth without breaking the room-at-dusk illusion. Against that backdrop, a single frequency of light activates all interactive affordances: #0066f5, a high-voltage electric blue borrowed from the visible spectrum of their LED technology, appears on every primary button, active link, and selected state; on hover it deepens to #0050a8 — the same hue at lower wattage. Product photography of lit rooms earns its drama precisely because the UI chrome stays controlled and dark; a warm amber Gradient Signe Lamp or magenta-lit outdoor facade lands with full emotional force because nothing in the interface competes. Error states assert in #e63535, a warm red that surfaces rarely enough to carry genuine authority. Border radii follow a deliberate rhythm: large scene cards and hero modules sit at {rounded.lg} (20px), input fields and inline chips at {rounded.sm} (8px), and status pills snap to {rounded.full} — human enough to signal consumer software, restrained enough to hold the brand's premium posture. Secondary text, icon labels, and helper copy descend through a muted gray ladder (#8a8a8d → #636367 → #3c3c41) that structures hierarchy across dark surfaces without requiring color. The JP version of the site loads CJK and system font stacks as initial fallbacks, indicating a custom Latin display face is injected via JS after DOMContentLoaded; the underlying proportions suggest a geometric sans at comfortable tracking, unhurried and precise.
 
@@ -346,6 +350,13 @@ components:
 - Footer four-column link grid stacks vertically at mobile with {spacing.lg} between groups; social and legal rows always full-width
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

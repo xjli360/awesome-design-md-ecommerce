@@ -4,6 +4,10 @@ name: "French Paper Co."
 source_url: "https://www.frenchpaper.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Fourteen-color paper swatches are the product, so the digital experience inherits the same logic a press operator uses when pulling color: high-chroma primaries against near-neutral substrate. The deep mill teal (#108474) runs the entire CTA system — add-to-cart, navigation active states, form focus rings — while a printer's red (#ec3e3d) and marigold yellow (#fbcd0a) rotate through badge, promotional, and callout surfaces depending on paper line. Dark purple (#23022e) surfaces as a near-black alternative to standard ink, giving the darkest elements a faint coated-stock warmth that plain #000 wouldn't carry. Figtree handles all interface text at modest weights; Times emerges on display headings where heritage copy reads like a letterpress spec sheet rather than a storefront header. Corners stay deliberately flat — {rounded.xs} on inputs, {rounded.sm} on buttons, nothing approaching a pill — echoing the cut-square format of physical paper samples. The spacing system inflates at section level, letting paper photography breathe the way a layout artist opens leading on a specimen broadside. Periwinkle (#899df1) and forest green (#2c7e3f) tag specific paper lines as distinct identities within the larger catalog, functioning less as brand colors and more as paper-family codes the way a Pantone swatch book uses color families. Light surfaces layer across five near-white values (#f9fafb through #fafafa), differentiating page canvas from card surface from input background the way a printer distinguishes 80 lb text from 100 lb cover. The gray ladder runs from #d8d8d8 through #eeeeee in four distinct steps, giving dense product grids enough separation without reaching for hard contrast. The overall register is intentionally printer-forward: more swatches, less gradient; more weight variety, less shadow depth; typographic precision where a production designer would feel immediately at home.
 
@@ -461,6 +465,13 @@ components:
 - Hero drops the subhead on mobile; only the display-xl headline and primary CTA remain to preserve above-fold legibility
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Egg Press"
 source_url: "https://eggpress.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every Egg Press product page starts on #f7f5ec — the exact shade of warm cream that comes off a cotton-rag stock after it's run through a letterpress — and that single material choice sets the entire system's logic. Against that ground, #ff7e05 arrives without softening toward peach or warming toward amber: a raw construction-site orange that drives every primary CTA, hover state, and sale marker, the one color in the palette that refuses to recede. It reads as deliberate disruption, which is precisely the move a greeting card brand needs when the product itself is doing the whimsy. The dark warm brown (#513f37) serves as secondary text and dark-surface fill — the color of dried ink on a compositing table — keeping the brand from reading clinical when it needs contrast. Two blues complete the extraction: #5183a3, a faded steel that plausibly handles link text or accent bars, and #8dc6d3, a softer powder present in illustration or spot-color detail. Typography extraction returned empty — the site almost certainly pulls its typeface via Shopify asset injection past the extraction layer — so this spec proxies with a classical serif, Georgia-first, consistent with the hand-set letterpress character the brand presents in all print photography. Buttons run in small uppercase with generous letter-spacing ({typography.button-md}), a nod to traditional type-setting where spacing between cast letters reads as intentional craft rather than carelessness. Card corners hold at {rounded.xs}, treating the interface the way a freshly cut card stock demands: clean, un-softened edges with no pill-shape softness. Navigation stays compact and understated, letting the grid of illustrated cards carry the visual weight. At {spacing.section} intervals, section breaks open the page so photography can breathe against the cream ground without competing with the orange signal color.
 
@@ -314,6 +318,13 @@ components:
 - Breadcrumb truncates to show only the immediate parent category on mobile widths
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

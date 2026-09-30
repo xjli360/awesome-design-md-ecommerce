@@ -4,6 +4,10 @@ name: "Supreme"
 source_url: "https://supremenewyork.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The red box sits flush against a white ground — no radius, no gradient, no shadow — and that binary graphic logic propagates through every surface on supremenewyork.com. A single voltage color, #ec1324 (the box logo red, in continuous use since 1994), appears on the primary call-to-action and nowhere else; the entire surrounding system is white (#ffffff), near-white (#f2f2f2), black, and a hairline-thin gray border that seems almost accidental. Drop culture is encoded in the layout itself: Thursday releases are rendered as a stark 4-column product manifest, not a lifestyle catalog — no editorial interstitials, no recommendation carousels, no promotional badges beyond a plain-text "NEW" label at the edge of the listing. Typography at the logo inherits from Barbara Kruger via Futura Heavy Oblique; the site's body and navigation run on a tightly tracked sans-serif at small sizes that reads as authority through minimalism rather than spectacle. `{rounded.none}` governs every interactive surface — every card edge, every button, every input field is a hard right angle. Spacing follows the same logic: the canvas is generous in emptiness but compressed within the product grid, so the tension between white space and density is the primary compositional gesture. Navigation collapses to a single shallow band — category links reading left to right, cart count in plain numerals on the right, no mega-menu, no promotional header strip. Sold-out states appear as direct text labels beside or below the size selector, not as disabled button styles, which preserves the aesthetic purity of the button at the cost of conventional visual feedback. The experience is deliberately anti-comfort in conventional UX terms: no upsell mechanics, no loyalty prompts, no personalization surface. The scarcity mechanism is the UI.
 
@@ -331,6 +335,13 @@ components:
 - Hero drop banner reduces vertical height on mobile but remains full-bleed and full-red
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

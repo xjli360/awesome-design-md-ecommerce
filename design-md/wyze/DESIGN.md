@@ -4,6 +4,10 @@ name: "Wyze"
 source_url: "https://wyze.com"
 captured_at: "2026-09-28T09:19:44.214348+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Wyze's storefront CSS defines a single observed custom typeface, Gilroy, applied to body and heading elements with a generic sans-serif fallback stack (Futura, system UI fonts, Roboto, Helvetica, Arial). Only "Gilroy" is treated as brand-authored; all other named fallbacks are system substitutes, not confirmed brand fonts, so typography below uses "Gilroy, sans-serif" only.
   The palette centers on a bright mint/teal accent (#1df0bb, used as --color-accent and --color-button) against a white canvas (#ffffff) and near-black foreground text (#1f1f1f). Supporting neutrals (#f5f5f5, #fafafa, #e3e3e3, #cccccc, #969696, #757575) suggest card surfaces, hairlines, and muted text, inferred from common Shopify Dawn-theme variable naming rather than directly observed layout. Secondary brand colors (#334fb4 blue, #4e2fd2 violet, #ff8f5e coral) appear in the extended palette and are inferred as accent/badge colors for category tagging. Border radius and shadow values are theme CSS custom-property placeholders (e.g. --product-card-corner-radius) without resolved pixel values, so rounded/spacing scales below are proposed, informed by typical Shopify card conventions. This interpretation favors a clean, high-contrast, tech-retail aesthetic: white surfaces, mint CTAs, and dark ink text, appropriate for a smart-home security brand emphasizing affordability and trust.
@@ -152,6 +156,13 @@ Proposed breakpoint table (not measured from live site):
 Touch targets should be at least 44×44px for buttons and nav items on mobile. Primary nav is expected to collapse into a drawer or accordion below tablet width. This table is a recommendation based on common Shopify theme conventions, not measured site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

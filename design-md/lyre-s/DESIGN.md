@@ -4,6 +4,10 @@ name: "Lyre's"
 source_url: "https://lyres.com"
 captured_at: "2026-09-28T09:10:56.565478+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Lyre's presents as a premium, editorial non-alcoholic spirits storefront built on a
   restrained navy-and-ivory palette. The confirmed root tokens set deep navy (#0c2340)
@@ -172,6 +176,13 @@ This is a recommendation derived from token hints (dual `--header-logo-width` va
 Touch targets on mobile should be at least 44px in the block dimension (aligned with the Shopify accelerated-checkout button's own `clamp(25px, 44px, 55px)` sizing observed in vendor CSS). Primary nav and filter tabs should collapse into a scrollable or drawer pattern below the tablet breakpoint; this is a proposed pattern, not confirmed by layout evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

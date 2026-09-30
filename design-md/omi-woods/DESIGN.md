@@ -4,6 +4,10 @@ name: "Omi Woods"
 source_url: "https://www.omiwoods.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Dusty rose-mauve (#8c7e7e) stretched across product flatlay shadows — that warm, almost-skin neutral — signals before a word of copy loads that Omi Woods is working in a different register than the sterile white of conventional fine jewelry retail. The entire typographic system runs on Raleway alone, deployed from 40px editorial display at weight 300 down to 11px uppercase product tags at weight 700; its geometric skeleton stays legible at the lightest weights and gains authority at 600 without ever needing a second family. Color divides into two clear orbits — a warm-earth core of deep burgundy (#603a3a), dusty rose-mauve (#8c7e7e, #916c6c), layered blush tones (#d8d1d1, #d9c0c0, #c6a0a0), and near-black grounds (#090808, #211b1b) that carry all permanent UI; and a promotional layer of fire-red (#c50000, #e81000) against blush-tinted surface (#ffeae8) that marks sale events without overwhelming the brand register. A third accent — deep green (#007f5f) on pale mint (#e5fff8) — signals ethical sourcing credentials and in-stock availability, creating a three-tier signal hierarchy of brand warmth, commercial urgency, and environmental trust. Component shapes favor {rounded.none} and a restrained {rounded.xs} throughout — no pill forms, no bubbly radii — aligning the digital surface with the composed, editorial posture of contemporary fashion publishing rather than marketplace jewelry. Product cards lead with tight lifestyle photography shot against warm-neutral backgrounds, with price, material, and variant metadata rendered in body-sm Raleway below the frame. The overall system reads as a deliberate set of omissions: one font family, a narrow warm palette, minimal decoration — betting that photography and material quality carry conviction that UI embellishment cannot.
 
@@ -369,6 +373,13 @@ components:
 - Product gallery thumbnails: horizontal scroll strip on mobile; vertical side rail on desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

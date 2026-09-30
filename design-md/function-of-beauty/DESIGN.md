@@ -4,6 +4,10 @@ name: "Function of Beauty"
 source_url: "https://www.functionofbeauty.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A personalized haircare brand that speaks in the confident, clean language of science-meets-self-expression. The palette pivots on a clinical white canvas (`{colors.canvas}`) and a vivid cyan primary (`#1990c6`) that reads as both laboratory-clean and playful — it's the color of a clear blue sky after a storm, not a sterile hospital. A deeper teal (`#136f99`) provides active-state gravity, while the near-black ink (`#121212`) keeps body text sharp and legible against the predominantly light surfaces. The system leans heavily on a single, recurring neutral gray (`#dedede`) for hairlines, borders, and muted backgrounds — there is no warm gray or beige in sight, reinforcing the brand's precision-formulation ethos. Typography, though not explicitly declared in CSS, reads as a clean geometric sans-serif (likely Inter or a similar system font) at moderate weights — display headlines hover around 24–28px at weight 600, while body text stays at 14–16px with generous line-height for readability. The signature design move is the pill-shaped CTA button (`{rounded.full}`) in the primary cyan, often paired with a white secondary outline variant — a nod to the brand's "build your own formula" quiz flow. Product cards use soft, consistent rounding (`{rounded.md}`) and a clean card shadow, while the navigation bar is a thin, almost invisible strip of white with the logo centered and a sticky cart icon. The overall feel is optimistic, data-driven, and approachable — a brand that says "we've analyzed your hair" without feeling clinical or cold.
 
@@ -393,6 +397,13 @@ components:
 - Search bar collapses from inline to a toggleable overlay on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

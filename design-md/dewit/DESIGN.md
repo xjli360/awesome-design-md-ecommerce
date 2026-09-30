@@ -4,6 +4,10 @@ name: "DeWit"
 source_url: "https://www.dewit.eu/"
 captured_at: "2026-09-29T03:59:00.184743+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from DeWit's public stylesheet, which sets a
   root type color of #161f24 on a white canvas, with Montserrat as the sole
@@ -150,6 +154,13 @@ components:
 Recommended breakpoints (not measured from the live site): `xs <576px`, `sm ≥576px`, `md ≥768px`, `lg ≥992px`, `xl ≥1200px`, `xxl ≥1400px`, mirroring the Bootstrap variables found in `:root`. Nav collapses to a hamburger/off-canvas pattern below `md`; product-card grids proposed as 1-column (xs), 2-column (sm/md), 3–4 column (lg+). Touch targets should be at least 44×44px for buttons and nav links. This is a design recommendation only; no actual responsive/mobile layout was observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS and text extraction only; no rendered layout, interaction states (hover/focus/active), or mobile behavior were observed. Semantic color roles (muted, hairline, surface-soft/card, danger/success/info) are inferred from conventional Bootstrap variable naming, not confirmed brand usage. Typography sizes beyond the observed h1 rule (2.6667rem/3.2222rem at an 18px root) are proposed estimates. The `montserrat-alternates` family appeared in the font list but was not tied to any selector in the supplied CSS, so it was excluded from typography tokens in favor of the confirmed `montserrat` family. Font licensing/self-hosting details were not verified. Spacing scale and border-radius values are conventional proposals, not measured from the site.

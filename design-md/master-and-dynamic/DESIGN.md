@@ -4,6 +4,10 @@ name: "Master & Dynamic"
 source_url: "https://masterdynamic.com"
 captured_at: "2026-09-28T09:40:37.086832+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Master & Dynamic's storefront CSS shows a restrained, high-contrast neutral system built on true black, white, and a run of near-black and mid-gray steps (#171d21, #3c4144, #4a4a4a, #595959, #626262, #888888, #9e9e9e). Surface tones step from #ffffff through #fbfbfb, #f7f7f7, #f2f2f2, #f1f1f1 to #dedede/#e1e1e1 hairlines, consistent with a premium product-photography-first layout. A small set of saturated colors (#1990c6/#136f99 blue, #0018ff link-blue, #f1c418 yellow, #a45cec purple) appear alongside neutral-dominant tokens and are treated here as inferred utility colors (links, alerts, swatch/status accents) rather than primary brand color, since no CSS evidence ties them to buttons or headers. Semi-transparent black values (#00000066, #00000033, #0000001a, #0000000d, #0000000f) are mapped to overlays and scrims for modals, image hovers, and sticky-header blur states. Typography uses a custom "blender" family (thin/book/medium/bold/heavy weights) for display and heading roles with sans-serif fallback, plus a monospace stack likely reserved for code/SKU contexts, not body copy. Heading sizes (h0–h6) are taken directly from observed CSS custom properties. Corner radii and precise spacing rhythm beyond the exposed section/container variables are proposed, not measured, and are noted accordingly.
 
@@ -144,6 +148,12 @@ components:
 Recommended breakpoints (not measured from live rendering): mobile ≤640px, tablet 641–1024px, desktop ≥1025px, wide ≥1440px. The header's own custom properties shift `--header-logo-width` from 170px to 220px and switch grid template order between two configurations, implying at least one desktop/tablet breakpoint exists, though the exact pixel threshold is not in the supplied CSS. Container gutter and section spacing variables also scale up at larger viewports (`--container-gutter` moves from 2rem to `var(--spacing-12)`, and section inner spacing increases through several tiers), suggesting three or more responsive tiers. Touch targets should target a minimum 44×44px hit area for nav, cart, and search icons; the product-list carousel (`--product-list-carousel-item-width: 60vw` → `36vw` → fixed 3-column) implies a swipeable card carousel on narrow viewports collapsing to a static grid at desktop widths. Mobile navigation should collapse into a slide-out or drawer menu given the header's compact single-row grid; this is a proposed pattern, not an observed interaction.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS custom properties and page text only; no rendered screenshots, computed styles, or interactive states (hover, focus, active, disabled) were observed. Color-to-role mapping (e.g., which blues/yellows/purples serve as links vs. alerts vs. swatch accents) is inferred from typical e-commerce conventions, not confirmed by selector-level evidence tying them to specific UI elements. Font weights and exact letter-spacing for the "blender" family are proposed defaults since only family names, not weight/size pairings, were supplied for body text. Border radius values throughout are proposed defaults; no `border-radius` declarations appeared in the supplied CSS. Breakpoint pixel values are recommended, not extracted from actual `@media` rules. Mobile menu behavior, search overlay behavior, and cart-drawer interactions are not observed and are described only as plausible patterns. Licensing and web-font delivery method for the custom "blender" family were not verified.

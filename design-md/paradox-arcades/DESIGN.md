@@ -4,6 +4,10 @@ name: "Paradox Arcades"
 source_url: "https://www.paradoxarcades.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, saturated navy (#112233) anchors Paradox Arcades as a brand that takes arcade-making seriously — not as nostalgia-laden novelty but as precision engineering for commercial operators. The palette reads like a control panel at midnight: #112233 for primary surfaces, #112255 as a slightly brighter active state, and a warning-red #cc3b3b that appears on critical CTAs and error states. The brand's secondary red (#bd0000) is darker and more aggressive, used sparingly for sale badges or urgent indicators, while #e99292 softens into a pastel-pink accent on hover states or secondary badges. The canvas (#fafafa) is nearly white but carries a faint warmth, and the ink (#111111) is almost-black, creating high contrast without the harshness of pure #000000. Typography runs a dual-axis system: Antonio for display headlines — a compressed, uppercase-friendly sans that evokes retro arcade marquees — and Montserrat for body copy, providing a clean, geometric counterpoint. Dosis and Exo appear as secondary display options, likely for scoreboards or leaderboard modules. Rounded corners are minimal: the brand uses {rounded.xs} (4px) on cards and {rounded.sm} (8px) on buttons, avoiding the pill-shaped friendliness of consumer apps in favor of a more industrial, cabinet-like feel. The spacing system is generous at {spacing.section} (64px) for major sections, but internal padding stays tight at {spacing.md} (12px) to maximize screen real estate for game previews and machine specs. This is a brand that communicates durability, performance, and a slight edge — the digital equivalent of a powder-coated steel cabinet with custom-molded control decks.
 
@@ -373,6 +377,13 @@ components:
 - Product card badges stack vertically on narrow cards (below 300px width)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

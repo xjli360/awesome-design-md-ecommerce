@@ -4,6 +4,10 @@ name: "Annabelle's Book Club LA"
 source_url: "https://www.annabellesbookclubla.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep navy anchor (#003399) grounds Annabelle's Book Club LA — a bookstore that reads more like a warmly lit living room than a retail grid. That blue, the most distinctive signal in the palette, wraps the primary navigation, the footer, and every key CTA, while a secondary navy (#01426a) and a lighter blue (#24588d) build a layered, oceanic depth across the site. The canvas is a soft off-white (#eeeeee), not a clinical white, which keeps the experience feeling papery and analog — like the pages of a well-loved paperback. Body text runs in a dark charcoal (#232323) with secondary copy in mid-gray (#555555), and the typography (falling back through system sans-serif stacks) leans on Font Awesome for iconography rather than a custom brand typeface, suggesting a lean, content-first build. The design avoids hard corners in key interaction points — buttons and input fields use a gentle 8px radius (`{rounded.sm}`), while cards and modals step up to 12px (`{rounded.md}`) for a soft, approachable feel. There is no hero video, no heavy illustration system; the brand trusts book covers as its primary visual language, letting the products speak. The overall mood is studious but not austere — a calm, blue-lit space where the inventory is the decoration.
 
@@ -518,6 +522,14 @@ components:
 - Search bar reduces horizontal padding from 20px to 12px on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

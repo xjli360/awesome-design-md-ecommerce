@@ -4,6 +4,10 @@ name: "Medela"
 source_url: "https://medela.us"
 captured_at: "2026-09-28T09:39:30.041101+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Medela's US feeding site evidence shows a neutral-first UI built on Tailwind-style utility tokens (gray scale from #f3f4f6 through #111827, hairline #e5e7eb) layered with a small set of brand accent hues: a saturated yellow (#ffcd00/#ffc709), a deep teal (#007a8c/#016372), and a warm orange (#ff8200/#e47501). Status colors (green #22c55e, red #ef4444, amber #eab308, blue #2563eb) appear to be system/form states rather than brand identity. Three custom families are present in the CSS: OggText (a serif referenced in the h1 headline variable chain, rendering at an observed 35px/35px/400 mobile scale), Centra No2 (a mid-weight sans used generically for heading levels, which share a font-weight:500 rule), and KumbhSans (a geometric sans appearing as a heading fallback and inferred here as the workhorse UI/body face). No desktop type sizes, real letter-spacing values, or breakpoints were present in the supplied CSS, so all non-h1 sizes and every breakpoint are proposed, not measured.
 
@@ -159,6 +163,13 @@ components:
 Touch targets are recommended at a minimum 44×44px for buttons and nav items; the mobile menu label present in evidence ("openMenuMobileLabel") confirms a collapsible mobile navigation exists, but its visual behavior, animation, and exact breakpoint thresholds were not observed and are recommendations only, not measured site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no live rendering, computed styles, or JavaScript-driven states were observed. Desktop typography sizes, letter-spacing, hover/disabled color values (referenced only as unresolved CSS custom properties like `--a-button-link-primary-bg-hover`), and all breakpoint pixel values are proposed, not measured. The semantic mapping of yellow to "primary," teal/orange to "secondary accents," and gray tokens to ink/muted/hairline roles is inferred from likely usage patterns, not confirmed against rendered components. Font family availability, licensing, and correct weight/style loading for OggText, Centra No2, and KumbhSans were not verified — these are asserted only as names present in the supplied evidence. Mobile menu, search, cart-drawer, and product-card interaction/layout behavior were not observed and are proposed conventions for this product category.

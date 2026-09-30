@@ -4,6 +4,10 @@ name: "Get On Down"
 source_url: "https://www.getondown.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A black-and-red record crate dropped into the browser — #231f20 ink wraps the entire viewport edge-to-edge, while #ff1716 acts as the storefront's sole voltage, a stop-sign red that fires on "Add to Cart," sale badges, and the site's own logo mark. The brand treats its product grid like a wall of album covers: each vinyl, cassette, and box set sits on a #fafafa canvas card with soft shadows, the cover art doing all the emotional work while the type stays out of the way. Jost runs the interface at modest weights (400–600), never competing with the sleeve photography. The top nav is a thin black strip with white links and a search icon that opens a full-screen overlay — the red reappears only on the cart icon dot and the checkout button. Badges for "Limited Edition," "Pre-Order," and "Exclusive" use #ff1716 backgrounds with white type, cut at {rounded.sm} corners, while genre tags (Rock, Hip-Hop, Jazz) are rendered as #e7e7e7 pills with #4a4a4a text. The footer collapses into a dense black column of links, social icons (each in its own brand color — #3b5998 Facebook, #1da1f2 Twitter, #bd081c Pinterest), and a newsletter signup with a red submit button. Every interaction feels like flipping through bins at a record store: the product card hover lifts the image 2px, the add-to-cart button pulses red, and the cart drawer slides in from the right with a #231f20 backdrop. The brand's voice is direct, collector-focused, and unapologetically physical — this is a store that sells objects, not streams.
 
@@ -472,6 +476,13 @@ components:
 - Pagination collapses to "Prev/Next" buttons on mobile (hides page numbers)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

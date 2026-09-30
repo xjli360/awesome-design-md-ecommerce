@@ -4,6 +4,10 @@ name: "Withings"
 source_url: "https://www.withings.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Withings stakes its identity on a single cobalt, #003399, that reads equally at home on a lifestyle e-commerce page and a clinical dashboard — a deliberate blurring of the boundary between consumer watch brand and medical instrument maker. The hybrid smartwatch sits at the center of this proposition: domed mineral glass over steel hands, yet a hidden optical sensor logging VO2 max and atrial fibrillation events. The extracted palette tells that health data story in color: five shades of red — from deep crimson #7f1d1d through alarm-level #dc2626 and the flat-UI #e74c3c — form an implied severity ladder for out-of-range metric alerts, while a lavender #8672c1 and dusky rose #df6389 quietly mark a feminine product line without ever becoming decorative. Amber #ffb75d bridges sport and wellness, surfacing on activity rings and caloric-burn indicators. Aeonik carries the entire typographic load: a geometric sans-serif with the measured precision of French engineering, set at light-to-medium weights so display copy never shouts — 48–64px headings land at fontWeight 400 or 500, trusting negative space and cobalt to carry authority rather than typographic mass. Layouts default to an off-white #fafafa canvas, card surfaces step up to pure white, and sections divide by generous vertical spacing rather than ruled lines. Buttons are subtly rounded at `{rounded.sm}` (8px), closer to a clinical instrument interface than a playful consumer app. The overall vocabulary is European medtech restrained by fashion sense: no decorative illustration, no gradient, just precise data typography, a watch face on white, and a cobalt that means it.
 
@@ -346,6 +350,13 @@ components:
 - Footer columns: 4-col → 2-col → 1-col; legal bar stacks vertically on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

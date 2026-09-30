@@ -4,6 +4,10 @@ name: "Silver Platters"
 source_url: "https://www.silverplatters.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A record store that wears its concrete floor and fluorescent lights as a badge of honor, Silver Platters builds its digital presence on a nearly bare canvas of #eeeeee — a warm, worn gray that reads less like a design choice and more like the patina of a thousand thumbed-through LP jackets. The brand makes no attempt to prettify itself: product cards sit on that same light gray surface with {rounded.sm} corners, type runs in system-adjacent stacks (Font Awesome 5 for icons, a custom spruce-icon-pack for vinyl-specific glyphs), and the entire experience feels like the store’s physical bins translated directly into a grid. There is no hero splash, no lifestyle photography — just rows of album covers, price tags, and condition notes. The primary color, whatever it is, remains invisible in the extracted palette; the site’s true visual language is one of absence — white space, gray space, and the saturated color of the album art itself. Buttons use {rounded.sm} rather than pills, navigation is a flat text strip, and the search bar is a simple input with no ornament. This is a store that trusts its inventory to do the talking.
 
@@ -347,6 +351,13 @@ components:
 - Search bar remains visible at all breakpoints (moves to nav bar on mobile)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

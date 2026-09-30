@@ -4,6 +4,10 @@ name: "Vuori"
 source_url: "https://vuoriclothing.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every primary CTA on vuoriclothing.com fires in a saturated Pacific blue (#006dff) — a single electric note against a palette otherwise built from Californian neutrals: warm near-black (#17120f), charcoal (#3e3e3e), medium gray (#727272), and a near-white canvas (#f8f8f8). The contrast is deliberate: Vuori sells the idea that performance and everyday life share the same garment, and the blue CTA is where that proposition becomes a transaction. AktivGrotesk carries the entire type system — a geometric grotesque with even strokes and open apertures that reads effortlessly at both the 12px caption scale and the 48px hero headline. Weight does the work of variation; the face never needs italic or condensed cuts to assert hierarchy. Product cards float on a surface-soft layer (#f8f8f8) with a minimal 4px radius, keeping the aesthetic closer to a design studio's lookbook than a sporting-goods catalog. Secondary accents — sky blue (#a4def9), ocean (#29a8e0), amber (#faaf43), lemon (#f8eb30), navy (#336799) — surface as product color swatches and limited editorial moments rather than structural UI chrome, preserving the neutral foundation. Sale pricing and error states run in a distinct red (#d02e2e), which reads clearly against both the light canvas and the charcoal body text. Navigation is flat and label-driven, relying on AktivGrotesk at medium weight and a generous top-bar height rather than icons or mega-menu theatrics. The overall effect is a site that feels like a well-lit Encinitas showroom: unhurried, airy, and willing to let product photography carry the persuasion while the blue button closes the sale.
 
@@ -323,6 +327,13 @@ components:
 - Product image gallery switches from horizontal-scroll thumbnail strip to swipe carousel with dot indicators on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

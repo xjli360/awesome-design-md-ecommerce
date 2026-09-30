@@ -4,6 +4,10 @@ name: "Frank Clegg"
 source_url: "https://frankcleggleatherworks.com"
 captured_at: "2026-09-28T09:29:25.814683+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Frank Clegg Leatherworks presents itself as a heritage American leather goods
   maker (est. 1970, Massachusetts workshop), and the extracted CSS reflects a
@@ -167,6 +171,13 @@ Recommended, not measured from live site behavior:
 Touch targets should be at least 44×44px for cart/account/search icons; the mobile nav is expected to collapse into a hamburger menu (`x` toggle text was observed in nav markup, suggesting an existing show/hide pattern) but its exact animation and breakpoints were not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This interpretation is built from static CSS/text extraction only; no live rendering, computed styles, or DOM interaction were captured. Font-family roles for Georgia/serif are inferred from the site's stated font stack list, not from a confirmed heading selector, and their licensing/availability as web fonts is unverified. Several palette colors (e.g. `#46949a`, `#ff5501`, `#c07600`) appear in the supplied palette but had no associated selector context, so they are omitted from role assignment rather than guessed. Component states (hover/focus/disabled) beyond the explicitly supplied button rules are proposed, not observed. Breakpoints, mobile menu behavior, and hero/footer layouts are inferred conventions for a Magento-based storefront and should be validated against the live site before implementation.

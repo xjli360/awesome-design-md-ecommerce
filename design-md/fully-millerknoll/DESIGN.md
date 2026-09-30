@@ -4,6 +4,10 @@ name: "Fully (MillerKnoll)"
 source_url: "https://www.fully.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Fully's product pages lead with a dimension table before any lifestyle photography — frame height range and weight capacity precede the well-lit loft scene because a standing-desk buyer needs to know if 22–48 inches clears their monitor arm before they need to imagine the space. This spec-forward hierarchy shapes the entire visual language: the site runs almost entirely on a near-black / canvas-white axis, with #252525 doing the heavy lifting as both ink and primary CTA so the interface reads as a tool rather than a mood board. Photography supplies all the warmth; the UI withholds it on purpose. Against that austerity, corner radii stay deliberately crisp — {rounded.xs} on badges and spec labels, {rounded.sm} on cards and input fields — nothing rolls into a pill. The MillerKnoll partnership adds a heritage layer: Herman Miller chair listings share the same product-card treatment as Fully's own desk line, requiring rigidly consistent component tokens across two product families. The configurator flow — frame finish → surface material → cable-management tier → accessories — demands a spec-table component where typographic weight hierarchy carries as much signal as color: {typography.title-md} for the attribute name, {typography.body-sm} for the value, {typography.caption} for the fine-print tolerance. Spacing follows a functional rather than editorial rhythm: {spacing.xl} for the product-card grid gap, {spacing.section} to separate category blocks, {spacing.lg} inside card padding. The nav sits at a fixed height with category anchors that collapse to a hamburger without drama. Body paragraphs in {typography.body-md} carry dense ergonomic-health content; caption type handles the dozens of dimensions that distinguish a $400 frame from a $900 one. The overall effect is a brand that competes on specification depth — direct about the fact that good workspace furniture is chosen with a tape measure and a budget spreadsheet, not a Pinterest board.
 
@@ -420,6 +424,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

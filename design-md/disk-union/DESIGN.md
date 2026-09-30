@@ -4,6 +4,10 @@ name: "Disk Union"
 source_url: "https://diskunion.net"
 captured_at: "2026-09-29T04:17:26.465538+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Disk Union's storefront CSS shows a utilitarian, Bootstrap-derived system layered with a curated warm-red accent family (#de5d50, #b24a40, #bd4f44, #cf3f34, #fdf1f0) alongside a muted teal family (#5cb1b1, #4a8e8e, #4e9696). These paired families are proposed here as primary/secondary accents for sale badges, format tags, and reservation states, since the observed page text is dense with pricing, discount percentages, and stock-status labels (予約, 新品在庫あり, OFF). Neutral grays (#212529, #333333, #6c757d, #dee2e6, #f8f9fa, #f7f8f9) form the working ink/body/surface scale typical of a high-density catalog listing. Font evidence includes Noto Sans JP and Yu Gothic (Japanese body text), Oswald (a condensed display face, inferred here for numerals/headings such as prices and section titles), and Font Awesome icon fonts (not used for text). Bootstrap CSS variables (--bs-*) confirm a component-library foundation rather than a fully bespoke design system. This interpretation treats Disk Union as a catalog-first, inventory-heavy record/media retailer: dense grids, compact badges, and strong red/teal status coding, with layout rhythm and interaction states proposed rather than observed.
 
@@ -142,6 +146,13 @@ components:
 Recommended breakpoints (not measured from live site, but aligned to the Bootstrap `--bs-breakpoint-*` custom properties present in the CSS): xs 0px, sm 576px, md 768px, lg 992px, xl 1200px, xxl 1400px. Nav and category filters are expected to collapse into a hamburger/drawer pattern below `md`; product-card grids likely reflow from multi-column (desktop) to 2-column or single-column (mobile). Touch targets should be a minimum 44×44px for cart/reserve buttons given the dense catalog listing. This section is a design recommendation only; no responsive or interaction behavior was observed from static CSS extraction.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

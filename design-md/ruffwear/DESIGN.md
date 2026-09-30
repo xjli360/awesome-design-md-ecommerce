@@ -4,6 +4,10 @@ name: "Ruffwear"
 source_url: "https://ruffwear.com"
 captured_at: "2026-09-28T09:17:20.725822+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Ruffwear's observed palette centers on a deep navy (#00263e), explicitly
   declared as the button background color in the site's review-widget CSS
@@ -209,6 +213,13 @@ markers present in the page text, though the actual collapse behavior and
 animation were not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

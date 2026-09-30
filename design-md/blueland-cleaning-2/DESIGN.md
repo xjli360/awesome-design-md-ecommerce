@@ -4,6 +4,10 @@ name: "Blueland"
 source_url: "https://blueland.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A cleaning brand that treats its signature blue — #133cd1, a saturated, almost electric ultramarine — as a visual disinfectant, saturating buttons, badges, and the primary navigation with a color that feels more like a chemical reaction than a corporate choice. The palette is overwhelmingly aqueous: #f0f7ff and #deeaff form the background atmosphere, while #a0ddff and #e1f2ff appear as secondary accents, creating a visual ecosystem that mirrors the brand's core promise of turning tablets into cleaning solutions. The typography stack is a deliberate collision of old and new — GT-Pressura (a sharp, geometric sans) and Sailec (a warm, humanist sans) sit alongside Hermann and Self-Modern, with Cambria and Georgia providing editorial gravity for longer-form content. This is not a brand that whispers; the primary CTA button uses {rounded.sm} corners and the full voltage of #133cd1 against white text, while secondary actions retreat into {colors.surface-soft} backgrounds with {colors.muted} text. The checkout flow introduces a secondary blue family — #2c53c9 through #7d9ce8 — suggesting a tiered trust hierarchy where deeper blues signal commitment points. Error states borrow from the extracted #ce4947, a coral-red that appears only in the extracted list, likely reserved for validation and destructive actions. The overall system reads as clinical but not cold, with the #fffcbb yellow and #c8faa1 green appearing as rare, celebratory accents — perhaps for "eco-friendly" badges or subscription savings callouts.
 
@@ -417,6 +421,14 @@ components:
 - Search bar becomes full-width on mobile, replacing the inline search icon
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

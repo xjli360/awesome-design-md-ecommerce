@@ -4,6 +4,10 @@ name: "Microscope.com"
 source_url: "https://www.microscope.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The deep navy of #163959 functions less as branding and more as a procurement declaration — this is a catalog built for lab managers and purchasing officers, not for casual browsing. Microscope.com deploys color not as identity but as operational language: reds (#bd2426, #de5052) signal promotional urgency and sale pricing; orange (#f68b1f, #ee730a) drives every primary add-to-cart CTA; a layered green spectrum (#9bca3e, #bada7a, #516b1d) marks stock availability; and three tiers of blue (#62a1d8, #2f7bbf, #163959) create a visual hierarchy from body links through nav states to header anchors. The font stack is entirely system — Arial and Helvetica Neue, no webfonts — which gives the interface the same authority a printed lab catalog would carry, where specification density matters more than typographic sophistication. Navigation runs heavy: a slim utility bar across the top holds phone numbers and account controls on a white canvas, while the full-width navy bar below organizes mega-menu categories (compound, stereo, digital, electron, fluorescence) in white bold type at 13px. Product cards are rectangular and zero-radius, a hairline border against white, with a 4:3 product image, bold price in 20px, model number in caption gray, and an orange CTA button flush to the bottom edge. Spec tables stripe in #ebebeb alternating rows to keep magnification ranges, stage dimensions, and illumination specs readable without color noise. The canvas is white throughout with {colors.surface-soft} panels carrying filter sidebars. Surface variation comes from alternating stripe rows and the navy-to-white layering in navigation, not from decorative gradients or imagery. Rounded corners appear only as a 4px concession in form inputs and badges — the broader grid vocabulary is rectangular and grid-forward, matching the instrument photography it frames.
 
@@ -460,6 +464,13 @@ components:
 - Hero banner → text block stacks above image at < 744px; image crops to 16:9 portrait center
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

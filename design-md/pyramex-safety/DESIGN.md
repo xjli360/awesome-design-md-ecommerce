@@ -4,6 +4,10 @@ name: "Pyramex Safety"
 source_url: "https://www.pyramexsafety.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Conduit ITC Std sets the typographic register before any product loads: narrow, upright, squared at the terminals, the face reads like safety-placard lettering pressed into a digital grid — the opposite of the smooth rounded letterforms that consumer gear brands favor. The palette the live server delivers is deliberately stripped: an off-white field at #f7f7f7 (`{colors.surface-soft}`), mid-gray body text at #444444 (`{colors.body}`), and a hard black (#000000, `{colors.ink}`) that functions as both meta theme-color and primary UI anchor. No brand accent color surfaced in extraction — high-visibility yellows, oranges, and reflective silvers live only inside product photography, which carries every chromatic duty while the surrounding shell stays achromatic.
 
@@ -295,6 +299,13 @@ components:
 - Top utility strip hides on mobile to preserve nav height budget
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

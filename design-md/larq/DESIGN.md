@@ -4,6 +4,10 @@ name: "Larq"
 source_url: "https://www.livelarq.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Four pastel color pools — warm peach (#fce8d6), sky blue (#bee6fa), soft lavender (#e4d9fd), and watermelon coral (#f3756d) — divide the Larq site into product category lanes, each lit against a near-white (#f5f6fa) canvas and grounded by a single commanding navy (#153a5b). That navy, confirmed as the meta theme-color, functions as the brand's anchor point: it appears on primary buttons, the global nav, and the hero headline weight, pulling clinical technology toward a confident lifestyle register without sliding into the cold chrome of industrial filtration brands. The custom typeface, fontLarqGeologica — a geometric variable built on the Geologica family — carries all display work at generous weights (600–700) and slightly negative tracking, giving a certificate-of-quality legibility that sits between lab documentation and premium e-commerce copy. Rounded corners read as moderate and deliberate: product cards hold a 12px radius, buttons closer to 8px, never pill-shaped and never sharp — the geometry signals precision tooling rather than approachability-by-softness. The accent pastels double as section backgrounds and as product-family indicators: peach for the Bottle line, sky for Pitcher and Filter, lavender for subscription refill content, coral for limited colorway callouts. A secondary blue (#2299dd) handles interactive links and UI affordances while the deeper navy anchors authority. Gray neutrals (#5a5e60, #757575, #6f7477) form a layered ink system — darkest for primary body copy, mid for secondary labels, lightest for metadata and timestamps. Hairlines pull from the cool blue-gray end (#d9e2e9, #ccd7e0) to echo water-adjacent imagery without leaning photographic. The UV-C indicator glow is the product; the palette frames it.
 
@@ -368,6 +372,13 @@ components:
 - Nav product submenus become a full-screen slide-in drawer on mobile; desktop hover opens a floating mega-panel
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

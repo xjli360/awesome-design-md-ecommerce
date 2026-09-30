@@ -4,6 +4,10 @@ name: "Secrid"
 source_url: "https://secrid.com"
 captured_at: "2026-09-28T09:30:34.564799+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Secrid's storefront evidence shows a warm, neutral palette anchored by a
   muted off-white canvas (#f5f4f0) and near-black ink (#2e2e2b), consistent
@@ -169,6 +173,13 @@ Proposed breakpoints (not measured from the live site):
 Touch targets are recommended at a minimum of 44×44px for buttons and nav items. Mobile navigation collapse (hamburger/drawer pattern) is a standard recommendation for a category-heavy wallet-guide site structure, not an observed interaction. All spacing/breakpoint values above are proposed defaults for a responsive e-commerce layout, not extracted from the supplied CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

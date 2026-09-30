@@ -4,6 +4,10 @@ name: "NovelKeys"
 source_url: "https://novelkeys.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Helvetica Rounded's soft-cornered letterforms are the brand's most precise design decision — the same radius that rounds a Cherry-profile keycap's legends rounds every headline and CTA on screen, making the typography literally mirror the physical product. Four overlapping reds (#ca2929, #b52424, #d51f24, #ce272d) crowd the extracted palette not from inconsistency but from the demands of a drop-culture shop where sold-out, low-stock, and error states each need distinct visual weight at a glance. Against this functional riot of reds, the olive-sage accent (#a1ad62) lands unexpectedly — warm and earthy, the kind of color that appears on artisan keycap colorway renders before it reaches retail interfaces. The confirmed meta theme-color (#0099db) anchors primary CTAs and active states with a saturated cyan-blue that holds on both the #f0f0f0 section bands and the #231f20 near-black footer. Body copy and product specs run on Neuzeit Office Pro — an upright humanist sans that stays legible at catalog density (14px product names, 12px switch specs) — while Helvetica Rounded carries all headlines and interactive labels, creating a deliberate two-family system where rounded forms own identity and interaction, and the office sans owns information. Corner radius stays controlled — `{rounded.xs}` on stock badges and swatch dots, `{rounded.sm}` on inputs and product cards, never approaching pill. The canvas alternates between pure white product sections and #f0f0f0 bands to chunk a long-scroll Shopify layout into scannable zones without hard dividers. Stock state is the dominant UI pattern: greens (#00a651, #49a339) signal available inventory, the reds gate checkout entry, and badge-level type at 11px bold keeps status readable without competing with product photography. The mid-blue navy (#3e5c9a) serves as a collection-tab accent, lifting category navigation above single-color storefront monotony.
 
@@ -362,6 +366,13 @@ components:
 - Footer columns stack vertically in priority order: navigation links, newsletter signup, social icons, legal text
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

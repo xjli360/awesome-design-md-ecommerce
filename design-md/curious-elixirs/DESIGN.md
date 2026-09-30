@@ -4,6 +4,10 @@ name: "Curious Elixirs"
 source_url: "https://curiouselixirs.com"
 captured_at: "2026-09-29T03:55:44.503631+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Curious Elixirs presents booze-free craft cocktails with a warm, apothecary-meets-cocktail-bar aesthetic. The observed palette centers on a warm terracotta (#d5835b) paired with golden ambers (#ebb66c, #f2b56e) and cream surfaces (#fef1de, #fbefdc), evoking infused spirits and citrus garnish. A deep navy-black (#060626), confirmed as the heading and referral-widget text color, anchors typography against white canvases. A saturated red (#d02e2e) appears in the palette and is inferred here as a sale/promo accent given cart-banner language ("$10 off," "37% off"), while muted slate (#676986) and light hairlines (#dbdde4, #e5e5eb) come from the Okendo review-widget CSS variables and are reused for secondary text and dividers.
   Font evidence includes IvyPresto Display/Headline (serif, likely editorial headlines), Dallas-Regular/Light (a distinct weighted family, inferred as UI/product-title font), and Work Sans (a standard grotesk, inferred as body/button copy). Rasa, Vollkorn, Montserrat, and Lexend also appear but their in-page roles are unconfirmed, so they are treated as secondary/unused-in-spec candidates.
@@ -153,6 +157,13 @@ components:
 This table is a recommendation based on common e-commerce patterns, not measured site behavior. Buttons and nav items should maintain a minimum 44×44px touch target on mobile. Actual collapse thresholds, menu animation, and mobile layout were not observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

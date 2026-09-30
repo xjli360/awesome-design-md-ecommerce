@@ -4,6 +4,10 @@ name: "Yardbird"
 source_url: "https://yardbird.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Yardbird is outdoor furniture for people who actually live outside — not a stiff wicker set behind glass, but deep-seated sofas, fire-pit sectionals, and dining tables that look like they belong in a real home. The brand lives in a warm, earthy palette anchored by a slate-like ink (`#333333`) and a soft body gray (`#4d4d4d`), with accents of teal (`#7bc7c7`), steel blue (`#7396a2`), and a signature sky blue (`#5487a0`) that feels like a clear afternoon. Buttons and key CTAs pulse in a vivid cobalt (`#1c64f6`) that reads as confident and modern, not aggressive. The canvas is a clean white (`#ffffff`) with soft surfaces (`#f7f7f7`) and hairline borders (`#dedede`) that keep the layout airy. Typography runs Montserrat — a geometric sans-serif that balances approachability with a touch of architectural precision. Display sizes sit at moderate weights (500–600) rather than heavy 700+, letting product photography and generous whitespace carry the mood. Rounded corners are gentle but present: cards and inputs use `{rounded.sm}` (8px), buttons use `{rounded.md}` (12px), and the search bar goes full pill (`{rounded.full}`). The overall feel is relaxed, durable, and subtly premium — like a well-made Adirondack chair that only gets better with weather.
 
@@ -534,6 +538,13 @@ components:
 - Accordion-style sections (product details, reviews) remain collapsed by default on all breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

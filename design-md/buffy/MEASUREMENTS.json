@@ -1,0 +1,1183 @@
+{
+  "schema_version": 1,
+  "source_url": "https://buffy.co/",
+  "method": "browser-computed-components",
+  "viewports": [
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "Skip to Menu\nSkip to Main Content\nSkip to Footer\n\nPurchased ",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 4875
+          },
+          "styles": {
+            "color": "rgb(31, 63, 57)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Lato, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(31, 63, 57)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#header",
+          "label": "Best Sellers\nSheets\nDuvet Covers\nPillows\nComforters\nBlankets",
+          "box": {
+            "x": 0,
+            "y": 48.984375,
+            "width": 1440,
+            "height": 53.828125
+          },
+          "styles": {
+            "color": "rgb(31, 63, 57)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "Lato, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "normal",
+            "padding-top": "10px",
+            "padding-right": "30px",
+            "padding-bottom": "10px",
+            "padding-left": "30px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(31, 63, 57)",
+            "display": "grid",
+            "gap": "normal 16px",
+            "row-gap": "normal",
+            "column-gap": "16px",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "navigation",
+          "selector": "#header > nav:nth-of-type(1)",
+          "label": "Best Sellers\nSheets\nDuvet Covers\nPillows\nComforters\nBlankets",
+          "box": {
+            "x": 30,
+            "y": 58.984375,
+            "width": 614,
+            "height": 33.828125
+          },
+          "styles": {
+            "color": "rgb(31, 63, 57)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Lato, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(31, 63, 57)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "heading",
+          "selector": "#shopify-section-template--18997132853346__cb7f2616-31f3-4501-98b4-ed1bc2167ad8 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "label": "The fabric you want against you.",
+          "box": {
+            "x": 64,
+            "y": 388,
+            "width": 562.484375,
+            "height": 48
+          },
+          "styles": {
+            "color": "rgb(31, 63, 57)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Optima",
+            "font-size": "40px",
+            "font-weight": "400",
+            "line-height": "48px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(31, 63, 57)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "section-heading",
+          "selector": "#shopify-section-template--18997132853346__image_with_text_76mkN7 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "label": "Made with plants and time",
+          "box": {
+            "x": 784,
+            "y": 1355.75,
+            "width": 460.203125,
+            "height": 48
+          },
+          "styles": {
+            "color": "rgb(31, 63, 57)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Optima",
+            "font-size": "40px",
+            "font-weight": "400",
+            "line-height": "48px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(31, 63, 57)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "body-copy",
+          "selector": "#shopify-section-template--18997132853346__cb7f2616-31f3-4501-98b4-ed1bc2167ad8 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+          "label": "Rarely is bedding this soft, or this natural.",
+          "box": {
+            "x": 64,
+            "y": 468,
+            "width": 269.78125,
+            "height": 19.984375
+          },
+          "styles": {
+            "color": "rgb(31, 63, 57)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Lato, sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "19.9995px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(31, 63, 57)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--18997132853346__image_with_text_76mkN7 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "Learn more.",
+          "box": {
+            "x": 784,
+            "y": 1487.734375,
+            "width": 67.3125,
+            "height": 16
+          },
+          "styles": {
+            "color": "rgb(31, 63, 57)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Lato, sans-serif",
+            "font-size": "13px",
+            "font-weight": "400",
+            "line-height": "17.3329px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(31, 63, 57)",
+            "display": "inline",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--18997132853346__card_carousel_slick_C4HpVH > div:nth-of-type(1) > hh-carousel-slick:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "Softer\nFabrics made with botanics — instead of conventional ",
+          "box": {
+            "x": 164,
+            "y": 1878.3125,
+            "width": 360,
+            "height": 512.765625
+          },
+          "styles": {
+            "color": "rgb(31, 63, 57)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Lato, sans-serif",
+            "font-size": "12px",
+            "font-weight": "400",
+            "line-height": "18px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(31, 63, 57)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "#footer",
+          "label": "Shop All\nComforters\nDuvet Covers\nPillows\nGift Cards\nReturn\nH",
+          "box": {
+            "x": 0,
+            "y": 4593.09375,
+            "width": 1440,
+            "height": 281.90625
+          },
+          "styles": {
+            "color": "rgb(31, 63, 57)",
+            "background-color": "rgb(45, 38, 27)",
+            "font-family": "Lato, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(31, 63, 57)",
+            "display": "grid",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://buffy.co/cdn/shop/files/Gemini_Generated_Image_kny4s2kny4s2kny4.jpg?format=webp&v=1790290704&width=550",
+          "alt": "",
+          "width": 535,
+          "height": 400
+        },
+        {
+          "url": "https://buffy.co/cdn/shop/files/Gemini_Generated_Image_kny4s2kny4s2kny4.jpg?format=webp&v=1790290704&width=550",
+          "alt": "",
+          "width": 535,
+          "height": 400
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/parents.com_crop.jpg?v=1783966151",
+          "alt": "",
+          "width": 633,
+          "height": 318
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/oprah_daily_logo.webp?v=1783966173",
+          "alt": "",
+          "width": 1200,
+          "height": 606
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/gq-logo-png_seeklogo-306176.png?v=1783966195",
+          "alt": "",
+          "width": 600,
+          "height": 306
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/the-cut-logo-vector.png?v=1783966216",
+          "alt": "",
+          "width": 900,
+          "height": 445
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/marthstewartlogo.avif?v=1783432803",
+          "alt": "Martha Stewart Logo",
+          "width": 1200,
+          "height": 627
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/House_Beautiful_new.webp?v=1783435523",
+          "alt": "House Beautiful Logo",
+          "width": 500,
+          "height": 251
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/architectural-digest-logo-png_seeklogo-506061.png?v=1783432364",
+          "alt": "Architectural Digest Press Logo",
+          "width": 600,
+          "height": 301
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/Good-Housekeeping-Logo.jpg?v=1783432411",
+          "alt": "Good Housekeeping",
+          "width": 3840,
+          "height": 1840
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/parents.com_crop.jpg?v=1783966151",
+          "alt": "",
+          "width": 633,
+          "height": 318
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/oprah_daily_logo.webp?v=1783966173",
+          "alt": "",
+          "width": 1200,
+          "height": 606
+        }
+      ],
+      "document_width": 1440,
+      "viewport": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 1000
+      },
+      "states": {
+        "initial": "observed",
+        "hover": "not_measured",
+        "focus": "not_measured",
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-desktop.png",
+        "sha256": "c474fc9fccab792e3e3d9f31aea006523bc85b3de7069b37a24063b2af19082e",
+        "public_path": "evidence/viewport-desktop.png"
+      }
+    },
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "Skip to Menu\nSkip to Main Content\nSkip to Footer\n\nPurchased ",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 4397.734375
+          },
+          "styles": {
+            "color": "rgb(31, 63, 57)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Lato, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(31, 63, 57)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#header",
+          "label": "Sale\nHelp\nContact\nSign In\nSearch\nCart",
+          "box": {
+            "x": 0,
+            "y": 49,
+            "width": 768,
+            "height": 53.828125
+          },
+          "styles": {
+            "color": "rgb(31, 63, 57)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "Lato, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "normal",
+            "padding-top": "10px",
+            "padding-right": "30px",
+            "padding-bottom": "10px",
+            "padding-left": "30px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(31, 63, 57)",
+            "display": "grid",
+            "gap": "normal 8px",
+            "row-gap": "normal",
+            "column-gap": "8px",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "heading",
+          "selector": "#shopify-section-template--18997132853346__cb7f2616-31f3-4501-98b4-ed1bc2167ad8 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "label": "The fabric you want against you.",
+          "box": {
+            "x": 64,
+            "y": 225.828125,
+            "width": 256,
+            "height": 52.8125
+          },
+          "styles": {
+            "color": "rgb(31, 63, 57)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Optima",
+            "font-size": "22px",
+            "font-weight": "400",
+            "line-height": "26.4px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(31, 63, 57)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "section-heading",
+          "selector": "#shopify-section-template--18997132853346__image_with_text_76mkN7 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "label": "Made with plants and time",
+          "box": {
+            "x": 448,
+            "y": 935,
+            "width": 272,
+            "height": 84
+          },
+          "styles": {
+            "color": "rgb(31, 63, 57)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Optima",
+            "font-size": "35px",
+            "font-weight": "400",
+            "line-height": "42px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(31, 63, 57)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "body-copy",
+          "selector": "#shopify-section-template--18997132853346__cb7f2616-31f3-4501-98b4-ed1bc2167ad8 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+          "label": "Rarely is bedding this soft, or this natural.",
+          "box": {
+            "x": 64,
+            "y": 310.640625,
+            "width": 256,
+            "height": 53.3125
+          },
+          "styles": {
+            "color": "rgb(31, 63, 57)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Lato, sans-serif",
+            "font-size": "20px",
+            "font-weight": "400",
+            "line-height": "26.66px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(31, 63, 57)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--18997132853346__image_with_text_76mkN7 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "Learn more.",
+          "box": {
+            "x": 448,
+            "y": 1170.921875,
+            "width": 93.203125,
+            "height": 22
+          },
+          "styles": {
+            "color": "rgb(31, 63, 57)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Lato, sans-serif",
+            "font-size": "18px",
+            "font-weight": "400",
+            "line-height": "23.994px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(31, 63, 57)",
+            "display": "inline",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--18997132853346__card_carousel_slick_C4HpVH > div:nth-of-type(1) > hh-carousel-slick:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "Softer\nFabrics made with botanics — instead of conventional ",
+          "box": {
+            "x": 0,
+            "y": 1345.59375,
+            "width": 352,
+            "height": 494.609375
+          },
+          "styles": {
+            "color": "rgb(31, 63, 57)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Lato, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(31, 63, 57)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "#footer",
+          "label": "Shop All\nComforters\nDuvet Covers\nPillows\nGift Cards\nReturn\nH",
+          "box": {
+            "x": 0,
+            "y": 3933.828125,
+            "width": 768,
+            "height": 463.90625
+          },
+          "styles": {
+            "color": "rgb(31, 63, 57)",
+            "background-color": "rgb(45, 38, 27)",
+            "font-family": "Lato, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(31, 63, 57)",
+            "display": "grid",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://buffy.co/cdn/shop/files/Gemini_Generated_Image_kny4s2kny4s2kny4.jpg?format=webp&v=1790290704&width=750",
+          "alt": "",
+          "width": 319,
+          "height": 239
+        },
+        {
+          "url": "https://buffy.co/cdn/shop/files/Gemini_Generated_Image_kny4s2kny4s2kny4.jpg?format=webp&v=1790290704&width=750",
+          "alt": "",
+          "width": 319,
+          "height": 239
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/parents.com_crop.jpg?v=1783966151",
+          "alt": "",
+          "width": 633,
+          "height": 318
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/oprah_daily_logo.webp?v=1783966173",
+          "alt": "",
+          "width": 1200,
+          "height": 606
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/gq-logo-png_seeklogo-306176.png?v=1783966195",
+          "alt": "",
+          "width": 600,
+          "height": 306
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/the-cut-logo-vector.png?v=1783966216",
+          "alt": "",
+          "width": 900,
+          "height": 445
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/marthstewartlogo.avif?v=1783432803",
+          "alt": "Martha Stewart Logo",
+          "width": 1200,
+          "height": 627
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/House_Beautiful_new.webp?v=1783435523",
+          "alt": "House Beautiful Logo",
+          "width": 500,
+          "height": 251
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/architectural-digest-logo-png_seeklogo-506061.png?v=1783432364",
+          "alt": "Architectural Digest Press Logo",
+          "width": 600,
+          "height": 301
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/Good-Housekeeping-Logo.jpg?v=1783432411",
+          "alt": "Good Housekeeping",
+          "width": 3840,
+          "height": 1840
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/parents.com_crop.jpg?v=1783966151",
+          "alt": "",
+          "width": 633,
+          "height": 318
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/oprah_daily_logo.webp?v=1783966173",
+          "alt": "",
+          "width": 1200,
+          "height": 606
+        }
+      ],
+      "document_width": 768,
+      "viewport": {
+        "name": "tablet",
+        "width": 768,
+        "height": 1024
+      },
+      "states": {
+        "initial": "observed",
+        "hover": "not_measured",
+        "focus": "not_measured",
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-tablet.png",
+        "sha256": "cf0fac342e9dcd46523c00adfd375aa8f1f47f072aa9f2de54d72cbfe0008f17",
+        "public_path": "evidence/viewport-tablet.png"
+      }
+    },
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "Skip to Menu\nSkip to Main Content\nSkip to Footer\n\nPurchased ",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 4239.796875
+          },
+          "styles": {
+            "color": "rgb(31, 63, 57)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Lato, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(31, 63, 57)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#header",
+          "label": "Search\nCart",
+          "box": {
+            "x": 0,
+            "y": 49,
+            "width": 390,
+            "height": 56.65625
+          },
+          "styles": {
+            "color": "rgb(31, 63, 57)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "Lato, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "normal",
+            "padding-top": "10px",
+            "padding-right": "18px",
+            "padding-bottom": "10px",
+            "padding-left": "18px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(31, 63, 57)",
+            "display": "grid",
+            "gap": "normal 8px",
+            "row-gap": "normal",
+            "column-gap": "8px",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "heading",
+          "selector": "#shopify-section-template--18997132853346__cb7f2616-31f3-4501-98b4-ed1bc2167ad8 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "label": "The fabric you want against you.",
+          "box": {
+            "x": 16,
+            "y": 375,
+            "width": 337.5,
+            "height": 28.796875
+          },
+          "styles": {
+            "color": "rgb(31, 63, 57)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Optima",
+            "font-size": "24px",
+            "font-weight": "400",
+            "line-height": "28.8px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(31, 63, 57)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "section-heading",
+          "selector": "#shopify-section-template--18997132853346__image_with_text_76mkN7 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "label": "Made with plants and time",
+          "box": {
+            "x": 16,
+            "y": 1169.875,
+            "width": 230.109375,
+            "height": 24
+          },
+          "styles": {
+            "color": "rgb(31, 63, 57)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Optima",
+            "font-size": "20px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(31, 63, 57)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "body-copy",
+          "selector": "#shopify-section-template--18997132853346__cb7f2616-31f3-4501-98b4-ed1bc2167ad8 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+          "label": "Rarely is bedding this soft, or this natural.",
+          "box": {
+            "x": 16,
+            "y": 435.796875,
+            "width": 251.796875,
+            "height": 18.65625
+          },
+          "styles": {
+            "color": "rgb(31, 63, 57)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Lato, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "18.662px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(31, 63, 57)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--18997132853346__image_with_text_76mkN7 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "Learn more.",
+          "box": {
+            "x": 16,
+            "y": 1273.828125,
+            "width": 62.140625,
+            "height": 15
+          },
+          "styles": {
+            "color": "rgb(31, 63, 57)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Lato, sans-serif",
+            "font-size": "12px",
+            "font-weight": "400",
+            "line-height": "15.996px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(31, 63, 57)",
+            "display": "inline",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--18997132853346__card_carousel_slick_C4HpVH > div:nth-of-type(1) > hh-carousel-slick:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "Softer\nFabrics made with botanics — instead of conventional ",
+          "box": {
+            "x": -135,
+            "y": 1399.796875,
+            "width": 284.5,
+            "height": 486.71875
+          },
+          "styles": {
+            "color": "rgb(31, 63, 57)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Lato, sans-serif",
+            "font-size": "13px",
+            "font-weight": "400",
+            "line-height": "19.5px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(31, 63, 57)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "#footer",
+          "label": "Shop All\nComforters\nDuvet Covers\nPillows\nGift Cards\nReturn\nH",
+          "box": {
+            "x": 0,
+            "y": 3769.890625,
+            "width": 390,
+            "height": 469.90625
+          },
+          "styles": {
+            "color": "rgb(31, 63, 57)",
+            "background-color": "rgb(45, 38, 27)",
+            "font-family": "Lato, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(31, 63, 57)",
+            "display": "grid",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://buffy.co/cdn/shop/files/Gemini_Generated_Image_kny4s2kny4s2kny4.jpg?format=webp&v=1790290704&width=750",
+          "alt": "",
+          "width": 170,
+          "height": 127
+        },
+        {
+          "url": "https://buffy.co/cdn/shop/files/Gemini_Generated_Image_kny4s2kny4s2kny4.jpg?format=webp&v=1790290704&width=750",
+          "alt": "",
+          "width": 170,
+          "height": 127
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/gq-logo-png_seeklogo-306176.png?v=1783966195",
+          "alt": "",
+          "width": 600,
+          "height": 306
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/the-cut-logo-vector.png?v=1783966216",
+          "alt": "",
+          "width": 900,
+          "height": 445
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/marthstewartlogo.avif?v=1783432803",
+          "alt": "Martha Stewart Logo",
+          "width": 1200,
+          "height": 627
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/House_Beautiful_new.webp?v=1783435523",
+          "alt": "House Beautiful Logo",
+          "width": 500,
+          "height": 251
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/architectural-digest-logo-png_seeklogo-506061.png?v=1783432364",
+          "alt": "Architectural Digest Press Logo",
+          "width": 600,
+          "height": 301
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/Good-Housekeeping-Logo.jpg?v=1783432411",
+          "alt": "Good Housekeeping",
+          "width": 3840,
+          "height": 1840
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/parents.com_crop.jpg?v=1783966151",
+          "alt": "",
+          "width": 633,
+          "height": 318
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/oprah_daily_logo.webp?v=1783966173",
+          "alt": "",
+          "width": 1200,
+          "height": 606
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/gq-logo-png_seeklogo-306176.png?v=1783966195",
+          "alt": "",
+          "width": 600,
+          "height": 306
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2462/9621/files/the-cut-logo-vector.png?v=1783966216",
+          "alt": "",
+          "width": 900,
+          "height": 445
+        }
+      ],
+      "document_width": 390,
+      "viewport": {
+        "name": "mobile",
+        "width": 390,
+        "height": 844
+      },
+      "states": {
+        "initial": "observed",
+        "hover": "not_measured",
+        "focus": "not_measured",
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-mobile.png",
+        "sha256": "629e7b3edbcb0d6360f1d032ddd552b3f00b56c7bb3cf011bab2f83438bbddd1",
+        "public_path": "evidence/viewport-mobile.png"
+      }
+    }
+  ],
+  "visual_validation": {
+    "status": "not_performed",
+    "reason": "No implementation generated from DESIGN.md has been compared with the reference."
+  },
+  "brand_review": {
+    "decision": "matched_brand",
+    "reviewed_on": "2026-09-30",
+    "title": "A house of botanic textiles",
+    "final_url": "https://buffy.co/",
+    "capture_id": "2adf6966445341ef9cebcf0df30b73c4",
+    "expected_brand": "Buffy"
+  },
+  "requested_url": "https://buffy.co",
+  "captured_at": "2026-09-30T09:03:49.913641+00:00",
+  "capture_id": "2adf6966445341ef9cebcf0df30b73c4",
+  "landing_page_sha256": "d018097d9697189d7f64cfac6f36ec6141f1ba42e3e754aa6cb71583f6240f5d"
+}

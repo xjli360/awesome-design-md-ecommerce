@@ -4,6 +4,10 @@ name: "What Do You Meme?"
 source_url: "https://whatdoyoumeme.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A saturated marigold yellow (#ffc617) slams into near-black (#121212) before you even register the page — the visual equivalent of someone shouting the punchline first and letting the setup arrive late. This is a site that treats whitespace the way a party game treats silence: suspiciously, and only in small doses. Typography runs three distinct families deep — Maxx Display for shout-level headlines that borrow from marquee signage, Yellix for body copy with just enough geometric quirk to stay interesting on a product grid, and Maxx Mono for price tags and countdown timers that read like scoreboard tickers. The rounded corners stay tight ({rounded.xs} to {rounded.sm}) across cards and buttons, reinforcing a blocky, sticker-sheet aesthetic rather than the soft pill shapes of wellness DTC. A secondary electric blue (#002ee7) fires on hover states and link text, creating a two-voltage palette — yellow screams, blue clicks. Product cards stack on a pure-black or near-black canvas with bright badge overlays (green #38c172 for "New," blue for "Best Seller"), turning the collection page into something closer to a trading-card binder than a serene e-commerce grid. Navigation is minimal and dark, topped with a persistent announcement bar that frequently pulses promotions in the brand yellow. The overall system trades the muted restraint of lifestyle brands for arcade-cabinet energy: high contrast, dense information, and type that leans forward. Spacing runs tighter than industry norms — {spacing.sm} and {spacing.md} dominate card interiors — because the brand assumes you're scrolling fast and deciding faster.
 
@@ -451,6 +455,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

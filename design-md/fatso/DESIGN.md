@@ -4,6 +4,10 @@ name: "Fatso"
 source_url: "https://eatfatso.com"
 captured_at: "2026-09-28T09:10:47.529839+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Fatso's public CSS shows a plain, utilitarian WordPress/Divi foundation rather
   than a heavily custom brand skin. The confirmed rules set body copy in Open
@@ -162,6 +166,13 @@ This is a proposed breakpoint recommendation, not measured site behavior (no med
 Buttons and search inputs should maintain at least a 44px tap height on touch devices; the nav should collapse to a hamburger/drawer pattern below 600px. These are conventions applied to fill gaps, not confirmed against live responsive CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Supplied evidence is a static CSS/text snapshot; no rendered layout, real breakpoints, or interaction states (hover/focus/active) were observed beyond the two hover rules quoted above.

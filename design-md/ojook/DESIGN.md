@@ -4,6 +4,10 @@ name: "Ojook"
 source_url: "https://ojookcare.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Ojook is a clean, conscientious oral-care brand that turns daily brushing into a ritual rather than a chore. The palette centers on a confident primary blue (`#147bbb`) that reads as fresh and clinical without feeling cold — it appears across buttons, links, and key accents, often paired with a warm coral (`#ff9579`) that softens the experience and signals the brand's friendly, approachable tone. The canvas is a near-white (`#f4f4f6`) with subtle warmth, while surfaces use soft grays (`#f7f7f8`, `#e5e5eb`) for cards and containers. Ink is a deep charcoal (`#303030`) for body text, with muted tones (`#676986`, `#9a9db1`) for secondary information and hairline borders (`#e0e0e0`, `#dddddd`). A secondary blue (`#006fcf`) provides hover states and active links, while a deep navy (`#272d45`) anchors the footer and darker sections. The brand also employs a minty teal (`#b2f9e9`) and a vibrant green (`#00caaa`) for badges, sustainability callouts, and eco-friendly messaging. Typography relies on `acumin` as the primary sans-serif, supported by system fallbacks (`-apple-system`, `Roboto`, `Helvetica Neue`), and a `PT Serif` for editorial moments. Buttons are softly rounded (`{rounded.sm}`), cards use gentle radii (`{rounded.md}`), and the overall feel is one of thoughtful, approachable minimalism — a brand that takes oral health seriously but never sternly.
 
@@ -346,6 +350,13 @@ components:
 - Search bar collapses to icon-only on mobile, expanding on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

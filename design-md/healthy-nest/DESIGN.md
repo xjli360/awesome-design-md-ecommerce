@@ -4,6 +4,10 @@ name: "Healthy Nest"
 source_url: "https://healthynest.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The extracted palette from the live site is dominated by Amazon's own system colors (#0f1111 ink, #ff9900 accent, #2162a1 link blue, #d5d9d9 hairline) and checkout-widget tints (#ffb14a Klarna, #0b7b3c green, #c10015 error). This suggests the brand's storefront is hosted entirely within Amazon's marketplace infrastructure, inheriting its chrome and button styles rather than expressing a distinct visual identity. The most distinctive non-Amazon color in the extraction is #edf8ff, a pale ice-blue that appears as a surface tint on product detail sections, and #1c89e3, a clean primary blue used for informational badges. The typography stack is Amazon Ember across all weights — a utilitarian, highly readable sans-serif designed for dense retail interfaces. Without a standalone site, Healthy Nest's design system is effectively Amazon's: pill-shaped add-to-cart buttons in #ff9900, star ratings in #0f1111, and a white canvas (#ffffff) with soft gray dividers (#d5d9d9). The brand's own product photography and packaging must carry the emotional weight — pastel nest motifs, soft greens, and organic shapes — but these are not reflected in the extracted CSS. The system described below reconstructs what a purpose-built Healthy Nest site might look like, using the extracted Amazon-adjacent colors as a foundation and inferring brand-specific tokens from the baby-care category context.
 
@@ -480,6 +484,13 @@ components:
 - **Pagination:** On mobile, only "Previous" and "Next" buttons are shown. Page numbers appear on tablet and above.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

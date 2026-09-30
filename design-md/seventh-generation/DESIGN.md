@@ -4,6 +4,10 @@ name: "Seventh Generation"
 source_url: "https://seventhgeneration.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep green (#006449) anchors a brand that treats household cleaning as an act of environmental stewardship, not just surface sanitation. That primary green — the color of a forest canopy at dusk — runs through every primary button, every navigation accent, and every product-badge border, while a secondary leaf-green (#4d8000) and a high-contrast safety-orange (#ff3008) provide the voltage for limited-time offers and ingredient-callout icons. The canvas is a clean off-white (#f7f7f7) that reads as unbleached paper, and body text sits in a warm charcoal (#494a4d) rather than pure black — a deliberate softening that avoids the harshness of petrochemical blacks. The brand uses Arial and ps-roobert (a geometric sans with slightly condensed proportions) at modest sizes: display headlines rarely exceed 28px, and body copy stays at 16px with generous line-height (1.6) to keep dense ingredient lists and sustainability claims readable. Corners are soft but not pill-shaped — buttons use {rounded.sm} (8px), cards use {rounded.md} (12px), and only the search bar reaches {rounded.full} (9999px), creating a single focal point of maximum approachability. The visual system trusts white space and photography over decorative elements: product shots float on white backgrounds with thin {hairline} (#dedede) borders, and the only decorative flourish is a subtle leaf-icon watermark on hero sections. The result is a brand that feels serious without being stern, activist without being strident — a household name that looks like it belongs in a CSA box, not a supermarket aisle.
 
@@ -554,6 +558,13 @@ components:
 - Product filters collapse to a "Filter" button with modal overlay on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

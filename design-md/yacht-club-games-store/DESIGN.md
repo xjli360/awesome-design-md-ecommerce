@@ -4,6 +4,10 @@ name: "Yacht Club Games Store"
 source_url: "https://yachtclubgames.com/store"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A pixel-perfect merch storefront that channels the NES-era warmth of Shovel Knight through a burnt-orange (#da532c) and sky-blue (#5bbad5) palette that reads more like a retro cartridge label than a modern e-commerce site. The primary #da532c is the voltage of every "Add to Cart" button, the top-nav underline, and the hover state on product thumbnails — it's the same orange that glows on the Shovel Knight logo, pulled straight from the pixel art's fire palette. The canvas is a soft #f5f5f5, not pure white, giving the store a worn-in feel like a well-loved game manual, while #d3d3d3 hairline borders keep product cards and dividers from feeling too sharp. The accent #ff4500 (a deeper, more aggressive orange-red) appears on sale badges and limited-edition callouts, creating a secondary voltage that signals urgency without clashing. The store's typography leans on system fonts (no custom web font found), which is a deliberate choice — it keeps the page loading fast and the vibe utilitarian, like a 90s game catalog printed on a dot-matrix. Product cards use `{rounded.sm}` corners, just enough to soften the pixel grid without betraying the 8-bit ethos, while the main CTA buttons go `{rounded.md}` for a slightly friendlier tap target. The nav bar is a simple horizontal strip with the logo left-aligned and cart right-aligned, no hamburger until mobile — a no-nonsense layout that prioritizes browsability. The overall mood is nostalgic but not kitschy: the orange and blue are complementary without being loud, the gray canvas keeps the focus on the product photography (plush toys, vinyl soundtracks, enamel pins), and the absence of heavy shadows or gradients keeps everything flat and honest, like a sprite on a CRT.
 
@@ -296,6 +300,13 @@ components:
 - Section headings reduce from 24px to 20px on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

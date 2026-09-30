@@ -4,6 +4,10 @@ name: "Skullcandy"
 source_url: "https://skullcandy.com"
 captured_at: "2026-09-29T03:53:30.965249+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Skullcandy's storefront pairs a stark black-and-white base with a single
   saturated action color, "#0081ff", used consistently for primary CTAs and
@@ -160,6 +164,13 @@ Recommended, not measured, breakpoints:
 Touch targets should be at least 44px in height for buttons and swatches (`{spacing.xl}`-scale hit areas); mega-menu items should collapse into an accordion under ~960px. This table is a proposed responsive strategy consistent with the observed component sizing, not an observation of live breakpoints or actual mobile rendering.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

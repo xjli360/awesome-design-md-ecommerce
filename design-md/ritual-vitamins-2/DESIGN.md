@@ -4,6 +4,10 @@ name: "Ritual"
 source_url: "https://ritual.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep navy anchor (#142b6f) and a sharp marigold accent (#ffd600) define a brand that treats supplementation as a daily ritual of transparency, not a quick fix. The palette is deliberately restrained — a cool, clinical blue family (#a1aac5, #62719f, #0b38bd) against warm off-whites (#fef6eb, #fcf8ee, #f6ede0) and a near-black ink (#141414) — creating a visual language that feels both scientific and approachable. CircularXX, a geometric sans-serif with a distinctive single-story 'a', runs across the entire experience, lending a modern, almost pharmaceutical precision to headlines and body copy alike. Buttons use a full navy fill with marigold hover states, while product cards float on soft canvases (#eaeef0) with pill-shaped badges and ingredient callouts. The brand's signature move is the "traceable" ingredient reveal — a toggle or accordion that exposes the source, form, and rationale behind each capsule component, often accompanied by a small circular icon or micro-illustration. Generous whitespace, a subdued secondary palette of warm neutrals (#f5f7f8, #e8e6e5, #dedede), and a single high-contrast accent (#c83d1e for error or sale) keep the interface calm and trustworthy. The checkout flow leans on Shopify's native widgets, but the brand's own UI — subscription management, product detail pages, and the "Why Ritual" explainer — feels like a premium health journal: structured, evidence-backed, and never shouty.
 
@@ -614,6 +618,13 @@ components:
 - Multi-step checkout collapses to a single-column layout at < 744px.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

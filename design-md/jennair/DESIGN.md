@@ -4,6 +4,10 @@ name: "JennAir"
 source_url: "https://www.jennair.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Obsidian first — the entire digital experience opens into a field of near-black (#0b0b0b), inverting the white-canvas convention that dominates kitchen appliance marketing and turning every product photograph into a cinematic still. Stainless ranges and column refrigerators float in darkness, each control knob and burner ring lit against negative space with the precision of a gallery installation. This is the visual logic of the 2018 "Bound by Nothing" rebrand carried into every pixel: absence as a design material, darkness as a statement of confidence rather than a void to fill. Primary call-to-action surfaces arrive as stark white (#ffffff) rectangles — the contrast voltage is absolute, with no gradient, shadow, or glow to soften the edge. Buttons carry near-zero rounding at `{rounded.xs}`, just enough to feel intentional rather than browser-default, and the lack of pill shapes or playful curves underscores the brand's architectural severity. A secondary warm accent (#b08d57) surfaces sparingly — in promotional highlights, hover underlines, and the occasional badge — borrowing the matte brass tone of JennAir's physical hardware finishes without ever dominating the palette. Typography runs in a geometric sans-serif stack at restrained weights: display headlines at `{typography.display-xl}` set weight 300 against the dark canvas, trusting the backdrop and generous `{spacing.section}` gutters to supply visual mass. Body copy sits at #999999 on the dark field, readable but deliberately dimmed so that product imagery remains the loudest element on every page. Navigation labels and category headers favor tracked uppercase at `{typography.nav-label}`, reinforcing the architectural register without decorative type. The layout operates in two distinct design expressions — NOIR (all-black hardware, jet surfaces, maximum drama) and RISE (warm stainless, softer metallics, slightly approachable) — yet both share the same dark digital shell. Product grids step from single-column on mobile to three-across on desktop at a 1128px breakpoint, with hero modules filling the viewport behind autoplay video loops and a single display-weight headline. Cards and product tiles elevate slightly off the canvas at #161616, separated by 1px borders at #2a2a2a — the distinction is felt more than seen, a paper-thin lift that preserves the seamless dark field while providing enough structure for scannable grids.
 
@@ -529,6 +533,13 @@ components:
 - Promo banner remains a single line at 40px across all breakpoints; text truncates rather than wraps
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

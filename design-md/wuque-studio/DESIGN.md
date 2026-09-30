@@ -4,6 +4,10 @@ name: "Wuque Studio"
 source_url: "https://wuquestudio.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Forty-five-degree chamfers on a backplate edge, anodized aluminum in colorways named for seasons — Wuque Studio maps keyboard-builder precision to a storefront that opens on near-black (#191919) canvas, the meta theme-color (#212121) confirming a dark-first commitment before a single pixel loads. The brand's primary voltage, teal #108474, carries the entire interactive burden: nav hover states, CTA fills, focus outlines, and link underlines all route through it, giving the UI a terminal-prompt clarity that engineers recognize immediately — purposeful rather than decorative. Against the near-black field, teal reads like a cursor: it marks exactly where action is possible and nowhere else.
 
@@ -436,6 +440,13 @@ components:
 - Announcement bar hides on scroll-down on mobile (IntersectionObserver pattern), reappears on scroll-up
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

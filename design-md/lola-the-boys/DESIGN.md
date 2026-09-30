@@ -4,6 +4,10 @@ name: "Lola + The Boys"
 source_url: "https://lolaandtheboys.com/"
 captured_at: "2026-09-29T04:15:45.147718+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Lola + The Boys is a Chicago-born kids' (and mommy-and-me) fashion boutique whose storefront leans playful and saturated. The supplied palette is broad, consistent with a large, actively-merchandised Shopify theme layered with third-party apps (returns, back-in-stock, subscribe forms), so this spec narrows to the subset most plausibly tied to primary brand chrome: near-black text (#000000, #111111, #333333) on white canvas, a vivid magenta/pink family (#ff5bc0, #f06f9a, #f790d1) and a saturated purple family (#b90ef2, #950dc2, #3b204d) that read as celebratory accent colors fitting the "unicorns and rainbows" brand voice, plus a teal (#20b2aa) and sky blue (#2491c4) as secondary accents. Grays (#eaeaea, #f4f4f4, #cccccc, #737373) are treated as structural neutrals for hairlines and soft surfaces. Typography is directly observed: headings are set in "Tstar Pro Headline" and body copy in Inter, both with generic sans-serif fallback. Sizes, weights beyond the one confirmed 700/36px heading rule, and all spacing/radius scales are proposed design-system values, not measured from live layout, intended to support a bright, rounded, high-energy children's-apparel storefront.
 
@@ -122,6 +126,13 @@ components:
 Recommended, not measured: mobile <768px single-column stacking with hamburger nav collapsing the category list; tablet 768–1024px two-column product grids; desktop ≥1024px three-to-four-column grids with persistent horizontal nav. Touch targets should be at least 44px tall for nav, cart, and CTA buttons. Category tiles and hero promo bands are assumed to stack vertically below the tablet breakpoint. All breakpoints are proposed defaults, not extracted from live responsive CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This spec is derived from static CSS/text extraction only; no rendered layout, hover/focus states, or real breakpoints were observed. Color roles (primary/secondary/accent) are inferred from a large undifferentiated palette that mixes brand styling with third-party app widgets (Loop returns, Globo back-in-stock/subscribe forms), so some listed hexes may belong to those embedded tools rather than core brand chrome. Font families beyond the confirmed Inter (body) and "Tstar Pro Headline" (headings) — Alata, Karla, Montserrat, Oswald, Poppins, Sofia Pro, "untitled sans," etc. — appear in the broader CSS but were not tied to a specific brand-owned selector, and are treated here as likely third-party/plugin fonts, not brand typography. All spacing, radius, and most typography sizes/weights are proposed conventions rather than measured values. Custom font licensing and hosting were not verified. Mobile navigation, cart drawer, and product-card interaction states are not observed and are marked proposed throughout.

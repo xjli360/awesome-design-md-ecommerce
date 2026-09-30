@@ -4,6 +4,10 @@ name: "Grasshopper Film"
 source_url: "https://grasshopperfilm.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep blue #003388 anchors a film distributor’s site that feels like a gallery wall — clean, quiet, and letting the posters do the talking. The single extracted color is a saturated navy that appears in the top navigation bar, footer backgrounds, and as a hover accent on film titles, giving the entire experience a consistent, serious tone without any secondary brand color to dilute it. The Shopify-powered storefront keeps a stark white canvas (#ffffff) for product pages, with film posters bleeding edge-to-edge and minimal text overlays. There are no rounded corners on major containers — the site uses sharp 0px corners on film grids and navigation, with only the smallest 4px rounding on add-to-cart buttons and filter tags, creating a deliberate contrast between the softness of cinema and the precision of a gallery catalog. Typography runs a straightforward system font stack (likely -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto) at modest sizes — film titles at 18-20px, body copy at 14-16px — with no display-level hero type or decorative headings. The absence of a secondary color, the reliance on white space, and the use of a single brand blue across all interactive elements suggests a design system built for maximum editorial focus: the films themselves are the color palette.
 
@@ -360,6 +364,13 @@ components:
 - Hero section reduces vertical padding from 64px to 32px on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

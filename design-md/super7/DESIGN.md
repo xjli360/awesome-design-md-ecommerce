@@ -4,6 +4,10 @@ name: "Super7"
 source_url: "https://super7.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A sage-green (#aaccaa) backdrop sets Super7 apart from the typical black-and-neon action-figure store — this is a collector's destination that reads more like a gallery than a toy aisle. The brand's visual system runs on a restrained palette of near-whites (#f0f0f0, #dedede) and deep charcoals (#1a1a1a, #121212), with the sage acting as the single atmospheric note that signals "this is Super7." Product photography and large-format character art carry the energy; typography stays out of the way, with Inter at modest weights and sizes that let the figures command attention. The checkout and navigation feel intentionally quiet — a soft gray (#e1e3e4) for dividers and secondary surfaces, pill-shaped buttons (`{rounded.full}`) for add-to-cart actions, and a persistent top bar that keeps the brand mark and cart visible without competing with the product grid. The overall mood is that of a well-curated vinyl-toy shop: clean, slightly muted, with the color coming from the merchandise itself.
 
@@ -321,6 +325,13 @@ components:
 - Search bar becomes a full-width expandable field on mobile, triggered by a search icon tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

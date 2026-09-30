@@ -4,6 +4,10 @@ name: "Winix"
 source_url: "https://www.winixamerica.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The same engineering discipline that grades a Winix True HEPA filter at 99.97% particle capture shows up in the digital interface as a near-bare off-white plane (#f8f8f8) with almost nothing competing for attention except product photography and CADR specification tables. Mid-gray (#888888) handles secondary labels, supporting copy, and filter metadata — a pairing so restrained it reads closer to a technical datasheet than a lifestyle catalogue. Typography runs entirely on the system stack (Arial, Helvetica Neue) with no custom lettering, a choice that keeps load performance tight and positions the brand squarely in consumer-electronics territory rather than in the aspirational wellness space that many air-quality competitors now occupy. Corner radii are small — `{rounded.xs}` on tags and badges, `{rounded.sm}` on cards and inputs — crisp enough to signal precision manufacturing without the cold edge of zero-radius grid lines. Primary actions carry a navy-blue derived from widely-documented Winix brand identity; surface treatments rely almost entirely on the two confirmed neutral tones, with `{colors.surface-soft}` marking section backgrounds, comparison-table zebra rows, and filter-chip rails. Spacing is generous: `{spacing.lg}` column gaps in the product grid, `{spacing.xl}` padding within content modules, and full `{spacing.section}` breaks between page chapters — creating an uncluttered environment where CADR ratings, filter-coverage specs, and PlasmaWave technology claims land without visual noise. Navigation architecture follows a three-tier model — global product-category nav, a utility bar carrying account and cart, and persistent filter rails on category pages. Product detail pages anchor the conversion argument to a sticky buy-box with replacement-filter awareness; a compatible-filter badge promotes the consumable cycle that sustains the business. The site extraction attempt returned a 429 anti-bot block, leaving the full palette unconfirmed; the tokens below use the two extracted neutrals as anchors and fill remaining structural roles with conservative estimates.
 
@@ -370,6 +374,13 @@ components:
 - Hero text and image switch from side-by-side to vertical stack at the 744px breakpoint; headline downsizes from `{typography.display-xl}` to `{typography.display-md}`
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

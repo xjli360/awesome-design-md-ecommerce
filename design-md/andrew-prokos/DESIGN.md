@@ -4,6 +4,10 @@ name: "Andrew Prokos"
 source_url: "https://andrewprokos.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Charcoal at #313131 carries nearly the entire visual weight of the Andrew Prokos interface — it surfaces in navigation text, primary button fills, price labels, and footer links — leaving the photography itself as the sole source of hue and sensation on any given page. The print shop operates as a stripped gallery: white canvas, a single near-black tone, hairline borders at {colors.hairline}, and section spacing generous enough that each print thumbnail reads as a framed object rather than a catalog item in a feed. No decorative gradients or secondary brand colors compete with a long-exposure Manhattan skyline or a blue-hour shot of a European city center; the interface deliberately recedes so the image fills the room.
 
@@ -288,6 +292,14 @@ components:
 - Footer columns: stack vertically on mobile, two- or three-column horizontal layout on tablet and above
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Dakota Lithium"
 source_url: "https://dakotalithium.com"
 captured_at: "2026-09-28T10:02:09.648735+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Dakota Lithium's storefront evidence shows a rugged, high-contrast palette built on deep navy-charcoal ink (#0e252c), white canvas, and a saturated red/orange (#c8210a family, alongside #ce2b37, #a31126, #ab1718, #e2401c) used for alerts, badges, and calls to action across the WooCommerce and review-plugin CSS. A secondary green pair (#31856c active, #276a56 hover) appears explicitly as the review-form submit button, giving a "go/confirm" action color distinct from the red urgency color. Teal accents (#18b394/#19b394) and a soft warning yellow (#ffce00/#ffbc00) round out the palette, likely for in-stock or promotional badges, though exact usage is inferred. Neutral surfaces range from #f7f7f7 and #eeeeee through #d8e2e7, the latter confirmed as a border/hairline color in the review widget.
   Typography combines the condensed display face "Bebas-neue" (flagged !important in the stylesheet, suggesting brand headlines and product-category labels) with a body stack of Helvetica Neue/Helvetica and Inter, falling back to system sans-serif fonts per the WooCommerce block defaults. The overall interpretation is an outdoor-industrial, technical-spec-sheet aesthetic: bold condensed headers over dense, utilitarian body copy, red for urgency/CTA, green for confirmation, and generous neutral surfaces to let product photography and warranty/spec callouts read clearly. All semantic role assignments (primary vs. accent vs. success) are inferred from limited component CSS, not a full observed style guide.
@@ -151,6 +155,13 @@ components:
 Proposed breakpoints (not measured from live site): mobile ≤480px, tablet 481–960px, desktop 961–1280px, wide ≥1281px. Navigation is assumed to collapse into a hamburger/off-canvas menu below the tablet breakpoint given the size of the observed category taxonomy. Product-card grids are assumed to reflow from 4-column (desktop) to 2-column (tablet) to 1-column (mobile). Touch targets for buttons and nav items should meet a 44px minimum height. This section is a design recommendation only; no responsive or interaction behavior was directly observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

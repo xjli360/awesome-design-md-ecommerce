@@ -4,6 +4,10 @@ name: "Tineco"
 source_url: "https://www.tineco.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Midnight navy (#01007f) anchors the Tineco visual system with a near-indigo weight that reads closer to precision instruments or professional AV gear than to the bright-plastic floor-care category it competes in. Nav bars, primary buttons, and hero overlays all carry this same saturated dark — creating a consistent foreground authority that lets product photography (metallic cordless wands, LED-ringed brush heads, OLED status displays) do the persuasion work against a light canvas beneath. Poppins handles all type: a geometric humanist face comfortable between the clinical sans-serifs of appliance documentation and the warmer faces of lifestyle retail. Display sizes run weight 600–700 at generous scale; body copy drops to 400 with 1.6× line-height so spec-dense product pages stay legible on small screens without requiring type-size inflation.
 
@@ -394,6 +398,13 @@ Three badge tiers serve distinct semantic roles without clashing: `badge-promo` 
 - Spec table rows stay full-width; label stacks above value on viewports under 400px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Presto"
 source_url: "https://www.gopresto.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   That saturated lawn-green (#6fa237) pushing through every primary button on gopresto.com reads less like a tech brand and more like the power-indicator light glowing on the front panel of a countertop pressure cooker — functional proof that something is on and ready. The palette never strays far from a gray continuum: deep near-blacks (#1b1b1b, #222222) for headline ink, a warm mid-gray (#555555) for body copy, and a graduated ladder of silvers (#767676, #a6a6a6, #aaaaaa) for captions and placeholders, all sitting on a stack of barely-there off-whites (#f5f5f5, #f2f2f2, #fafafa) that feel like the brushed-aluminum finish on a Presto electric skillet. There is no custom typeface in the build — the entire typographic system runs on Arial and Helvetica, system fonts with zero download cost, which gives the site the same utilitarian directness as an instruction manual folded inside the box. Display headings hit 32–36px at weight 700, bold enough to anchor a product hero without borrowing the editorial gravitas of a serif. A secondary green spectrum (#368a55, #43ac6a, #3a945b) handles success states, in-stock indicators, and promotional callouts, while a loud signal-red (#ec0000) and its darker sibling (#bd0000) mark sale prices and error validation — the same red you'd see on a stovetop burner ring. An informational blue (#00bbff) and a softer sky-blue (#61b6d9, #a0d3e8) appear sparingly for links and tooltip accents. Corners stay conservative: buttons and inputs use a modest `{rounded.sm}` (8px), product cards round to `{rounded.md}` (12px), and nothing on the page reaches for a pill shape — the geometry is squared-off and appliance-like, as if every container were stamped from sheet metal. Spacing is generous at the section level (`{spacing.section}` = 64px between major content blocks) but tightens inside product grids and spec tables, reflecting a catalog that prioritizes density of information — wattage, dimensions, capacity — over lifestyle storytelling.
 
@@ -547,6 +551,13 @@ components:
 - Breadcrumbs truncate with ellipsis on mobile, showing only current and parent page
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

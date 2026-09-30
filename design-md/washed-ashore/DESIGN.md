@@ -4,6 +4,10 @@ name: "Washed Ashore"
 source_url: "https://www.washedashore.co"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The name performs the first design decision — jewelry that arrives already carrying a history of water, pressure, and slow polish, so the pieces themselves don't need to shout. Washed Ashore places demi-fine work against a warm off-white canvas ({colors.canvas}), a ground that reads less like a blank page and more like bleached linen laid out in afternoon light, slightly warm at the weave. The palette inferred from the coastal-jewelry archetype the brand occupies leans on sandy neutrals and burnished gold as the primary signal color ({colors.primary}, a warm #B89A72), with a muted seafoam accent ({colors.seafoam}) that stops well short of cliché turquoise — it's the green of sea glass ground dull by years of tumbling, not the electric aqua of a tourism poster. Type, inferred from the demi-fine category norm, likely runs an elegant editorial serif — something in the Cormorant or Garamond family for display moments — paired with a restrained geometric or humanist sans for body and navigation, keeping the prose editorial and the UI clinical enough to let photography lead. Rounded values are conservative: small radii on buttons and input fields ({rounded.xs} to {rounded.sm}), product cards with barely-perceptible corners ({rounded.sm}), and the occasional {rounded.full} pill reserved for material or collection badges. Spacing is generous, consistent with a brand that trusts negative space as much as it trusts the pieces themselves — wide section padding ({spacing.section}), breathing room between grid items, and a product card that gives the image the overwhelming majority of the visual real estate. Interaction states use darkened and desaturated primary variants rather than dramatic color shifts, keeping the mood even across hover, focus, and press. Gold foil or warm-toned CTA buttons contrast cleanly against the off-white canvas, directing the eye without the urgency of a red CTA system. The overall register is slow, unhurried, and coastal — designed to feel like browsing a very small, very well-lit shop near water, where the proprietor is not watching you.
 
@@ -352,6 +356,13 @@ components:
 - Lookbook 3-col grid → 2-col at tablet → 1-col at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Sunday"
 source_url: "https://www.getsunday.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep chlorophyll-dark green (#001c0e) floods the header and hero panels of getsunday.com the way a healthy lawn overtakes bare soil — completely, without apology. Where most outdoor brands default to sunny yellows or sky blues, Sunday anchors its entire interface in this near-black green, letting it serve as both navigation chrome and emotional signal: this is a brand that lives in the biology of grass, not the lifestyle photography around it. Typography splits into two clear voices — Lora, a bracketed serif, handles display headlines with an editorial warmth that echoes seed-catalog typography, while Inter carries every UI label, body paragraph, and call-to-action with Swiss neutrality. The pairing reads as "science journal meets garden journal," which maps precisely to Sunday's positioning as a soil-test-driven, custom-nutrient-plan lawn service. Buttons wear the brand's dark green at full saturation with white text (`{colors.on-primary}`), rounded to `{rounded.sm}` — not pill-shaped, not sharp, just enough softness to feel approachable without drifting into playful. Product cards for nutrient pouches and pest-control bottles sit on a warm off-white canvas (`{colors.canvas}`) with generous `{spacing.lg}` gutters, and the overall density is deliberately low: Sunday sells a subscription that replaces dozens of hardware-store trips, so the page itself must feel unhurried. Accent greens (`{colors.accent-leaf}`) appear sparingly on badges, progress indicators, and plan-status chips, providing a lighter counterpoint to the dominant dark. Photography dominates above-fold real estate — overhead shots of lawns, close-ups of soil, macro grass blades — and the UI recedes behind generous whitespace and restrained type scale, trusting the imagery to carry desire while the system handles clarity.
 
@@ -369,6 +373,13 @@ components:
 - Subscription toggle maintains its pill shape but expands to full container width on mobile for easier tapping
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

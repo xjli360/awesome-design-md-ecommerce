@@ -38,13 +38,6 @@
     }
   ],
   "colors": {
-    "#ffffff": {
-      "count": 2,
-      "sources": [
-        "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
-        "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
-      ]
-    },
     "#0c0c0e": {
       "count": 1,
       "sources": [
@@ -87,6 +80,18 @@
         "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
       ]
     },
+    "#ffffff": {
+      "count": 2,
+      "sources": [
+        "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+      ]
+    },
+    "#00000000": {
+      "count": 1,
+      "sources": [
+        "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+      ]
+    },
     "#000000": {
       "count": 1,
       "sources": [
@@ -108,9 +113,6 @@
   },
   "font_families": {
     "dinPro": [
-      "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
-    ],
-    "dinPro Fallback": [
       "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
     ]
   },
@@ -272,10 +274,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Sandqvist Bags, Backpacks & Accessories | Sandqvist",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "remaining-20260929",
   "tokens": {
     "colors.primary": {
+      "value": "#0c0c0e",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -283,6 +286,7 @@
       ]
     },
     "colors.ink": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -290,14 +294,15 @@
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
-        "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+        "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
       ]
     },
     "colors.body": {
+      "value": "#212121",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -305,6 +310,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#959595",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -312,6 +318,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#e3e3e3",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -319,6 +326,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#f8f8f8",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -326,22 +334,23 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
-        "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+        "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
-        "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+        "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
       ]
     },
     "colors.border-strong": {
+      "value": "#444444",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -349,6 +358,7 @@
       ]
     },
     "colors.border-subtle": {
+      "value": "#c2c2c2",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -356,6 +366,7 @@
       ]
     },
     "colors.accent-mint-soft": {
+      "value": "#f3fef2",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -363,6 +374,7 @@
       ]
     },
     "colors.accent-mint": {
+      "value": "#bdefba",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -370,110 +382,364 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "dinPro, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "dinPro, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "-0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "dinPro, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "dinPro, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "dinPro, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "dinPro, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.3,
+        "letterSpacing": "0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "dinPro, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1,
+        "letterSpacing": "0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.border-subtle}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "transparent",
+        "backgroundColorScrolled": "{colors.canvas}",
+        "textColor": "{colors.on-primary}",
+        "textColorScrolled": "{colors.primary}",
+        "height": "50px",
+        "padding": "{spacing.md} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.none}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}",
+        "padding": "{spacing.md}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "titleTypography": "{typography.display-xl}",
+        "ctaComponent": "button-secondary",
+        "padding": "{spacing.section}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "linkTypography": "{typography.body-sm}",
+        "borderTop": "1px solid {colors.hairline}",
+        "padding": "{spacing.xxl} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-mint-soft}",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.accent-mint}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.border-subtle}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
       "status": "inferred"
     },
     "components.spec-panel": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "labelColor": "{colors.muted}",
+        "valueColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "borderColor": "{colors.hairline}",
+        "padding": "{spacing.base}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#0c0c0e": {
+        "selector": ":root",
+        "property": "--color-scale-90",
+        "declaration": "#0c0c0e",
+        "url": "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "cf5bd6b2cd17080f08701128d0b911edf57b5dd9555df376b4e2ff78ba7ecf8a"
+      },
+      "#212121": {
+        "selector": ":root",
+        "property": "--color-scale-80",
+        "declaration": "#212121",
+        "url": "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "cf5bd6b2cd17080f08701128d0b911edf57b5dd9555df376b4e2ff78ba7ecf8a"
+      },
+      "#444444": {
+        "selector": ":root",
+        "property": "--color-scale-70",
+        "declaration": "#444",
+        "url": "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "cf5bd6b2cd17080f08701128d0b911edf57b5dd9555df376b4e2ff78ba7ecf8a"
+      },
+      "#959595": {
+        "selector": ":root",
+        "property": "--color-scale-60",
+        "declaration": "#959595",
+        "url": "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "cf5bd6b2cd17080f08701128d0b911edf57b5dd9555df376b4e2ff78ba7ecf8a"
+      },
+      "#c2c2c2": {
+        "selector": ":root",
+        "property": "--color-scale-50",
+        "declaration": "#c2c2c2",
+        "url": "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "cf5bd6b2cd17080f08701128d0b911edf57b5dd9555df376b4e2ff78ba7ecf8a"
+      },
+      "#e3e3e3": {
+        "selector": ":root",
+        "property": "--color-scale-40",
+        "declaration": "#e3e3e3",
+        "url": "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "cf5bd6b2cd17080f08701128d0b911edf57b5dd9555df376b4e2ff78ba7ecf8a"
+      },
+      "#f8f8f8": {
+        "selector": ":root",
+        "property": "--color-scale-10",
+        "declaration": "#f8f8f8",
+        "url": "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "cf5bd6b2cd17080f08701128d0b911edf57b5dd9555df376b4e2ff78ba7ecf8a"
+      },
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--color-scale-0",
+        "declaration": "#fff",
+        "url": "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "cf5bd6b2cd17080f08701128d0b911edf57b5dd9555df376b4e2ff78ba7ecf8a"
+      },
+      "#00000000": {
+        "selector": ".Header-module-scss-module__0nbCqG__header",
+        "property": "background-color",
+        "declaration": "transparent",
+        "url": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "967c0b7343027b021589fdbad503d20c6315a7dec215b1a811e08c6eb04d248f"
+      },
+      "#000000": {
+        "selector": ".CategoryCard-module-scss-module__TvevJa__details",
+        "property": "color",
+        "declaration": "#000",
+        "url": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "967c0b7343027b021589fdbad503d20c6315a7dec215b1a811e08c6eb04d248f"
+      },
+      "#f3fef2": {
+        "selector": ".CustomsInfo-module-scss-module__ejyzVG__root",
+        "property": "background-color",
+        "declaration": "#f3fef2",
+        "url": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "967c0b7343027b021589fdbad503d20c6315a7dec215b1a811e08c6eb04d248f"
+      },
+      "#bdefba": {
+        "selector": ".CustomsInfo-module-scss-module__ejyzVG__root",
+        "property": "border",
+        "declaration": "1px solid #bdefba",
+        "url": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "967c0b7343027b021589fdbad503d20c6315a7dec215b1a811e08c6eb04d248f"
+      }
+    },
+    "font_families": {
+      "dinPro": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "dinPro",
+        "url": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "967c0b7343027b021589fdbad503d20c6315a7dec215b1a811e08c6eb04d248f"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

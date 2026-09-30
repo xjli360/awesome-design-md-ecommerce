@@ -4,6 +4,10 @@ name: "Welly"
 source_url: "https://getwelly.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A bright, clinical-coded wellness brand that uses a deep teal (#0a413b) as its structural anchor — the color of a pharmacist’s apron or a vintage medicine bottle — then breaks the tension with a neon-lime accent (#c8e302) that reads as energy, not caution. The palette is deliberately small: a near-black ink (#121212), a single warm gray (#dedede), and two electric secondary greens (#009a87, #3effe9) that suggest healing and vitality without falling into pastel wellness cliché. White canvas (#ffffff) carries the bulk of the experience, with teal used for primary CTAs, navigation bars, and footer blocks — the brand trusts color-blocking over heavy typography to signal hierarchy. Buttons are softly rounded ({rounded.sm}) and pill-shaped search bars ({rounded.full}) give the interface a friendly, over-the-counter accessibility. Product cards use generous whitespace and a single hairline (#dedede) to separate items, avoiding the visual clutter common in supplement retail. The brand’s voice is direct and mildly playful — “Get better faster” — and the design mirrors that: clean enough to feel trustworthy, bright enough to not feel medicinal.
 
@@ -358,6 +362,13 @@ components:
 - Search bar reduces from full-width to icon-only trigger below 600px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

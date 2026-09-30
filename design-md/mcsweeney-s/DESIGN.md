@@ -4,6 +4,10 @@ name: "McSweeney's"
 source_url: "https://www.mcsweeneys.net"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A literary institution that wears its seriousness lightly, McSweeney's Internet Tendency builds its digital home on a warm, almost sepia-toned foundation of #1a1a17 and #fff3e0 — the deep, ink-black brown of a well-worn book spine and the soft cream of aged paper. The palette is deliberately restrained: #2a2a26 and #3a3a36 for body text, #8a8a84 and #9e9e98 for muted captions and metadata, with #e8e6df and #c8c8c0 forming the hairline borders and surface edges that give the layout its quiet, bookish structure. Against this sober ground, two accents provide the voltage: #5bb8f5, a clear, literary blue used for links and interactive elements, and #2a2000, a deep amber-brown that surfaces in headings and blockquotes, evoking the warm glow of a reading lamp. The typography leans on Garamond Premier Pro and Baskerville for display and body text — serif faces that signal literary credibility without pretension — while Avenir and Helvetica Neue handle UI labels and navigation, creating a deliberate tension between the timeless and the functional. Buttons are softly rectangular with {rounded.sm} corners, never pill-shaped; the search bar is a simple outlined field, not a glowing orb. The site trusts its content — long-form humor, essays, and fiction — over chrome, using generous {spacing.section} margins and a single-column reading rhythm that lets the words breathe. The blue link color #5bb8f5 is the only bright element in an otherwise muted world, making every click feel like a deliberate choice.
 
@@ -308,6 +312,13 @@ components:
 - Category badges hide on mobile, replaced by color-coded dots
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

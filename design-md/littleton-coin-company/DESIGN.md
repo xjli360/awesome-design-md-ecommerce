@@ -4,6 +4,10 @@ name: "Littleton Coin Company"
 source_url: "https://www.littletoncoin.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The #008063 teal threading through every primary CTA and navigation stripe carries the visual memory of green velvet display trays — the kind dealers line their showcases with. Littleton's palette is built around that single collector-case hue, deepening to #007055 on hover and softening to the mint wash of #dae5e2 for background accents and callout panels. The rest of the palette is deliberate restraint: #43484d and #5e6977 for layered slate grays that handle body copy and muted labels, #b5beca for hairlines and disabled states, and an off-white #f4f4f4 canvas behind product grids rather than stark paper white. Typography runs a no-nonsense Arial/Open Sans stack — the choice signals catalog heritage rather than brand ambition, prioritizing legibility at small sizes for coin specifications and grading notes over typographic personality. Buttons sit on a modest 4px radius, not pill-shaped; the site carries direct-mail DNA and rounded-full forms would feel foreign to a customer base accustomed to decades of printed catalogs. Product cards carry grade badges — labels like MS-65 or PF-70 UC that demand consistent type sizing at `{typography.grade-badge}` — and present coin obverse and reverse photography against neutral #f4f4f4 grounds. The error red #d32f2f appears exclusively for sale badges and out-of-stock warnings, keeping urgency contained and legible. A light blue accent #5bbad5 surfaces in informational callouts, distinct from the primary teal so the two hues don't compete. The entire composition reads as a trustworthy catalog merchant: high information density, low decorative noise, with the #008063 teal doing most of the brand-recognition work across the nav stripe, CTAs, price text, and promotional strips that bracket every page top to bottom.
 
@@ -359,6 +363,13 @@ components:
 - Category tab strip becomes horizontally scrollable at mobile rather than wrapping to multiple rows
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "SPI Safety"
 source_url: "https://www.spisafety.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Four ANSI Z535-derived signal colors — #bd2426 safety red, #9bca3e hi-vis lime, #f68b1f safety orange, and #ee730a amber — sit alongside a corporate deep navy (#003681) that anchors the catalog with institutional authority. The palette is not decorative but regulatory: each color carries a specific hazard-communication meaning inherited from OSHA and ANSI standards, so UI designers cannot reassign them freely — danger is red, caution is orange, notice is navy-blue (#0051c3), and emergency-safe is green. SPI Safety's digital presence inherits this color grammar from physical safety signage and PPE labeling, giving the site a distinctly industrial vocabulary that consumer e-commerce rarely employs. Typography runs entirely on system stacks — Roboto, Segoe UI, Helvetica Neue, -apple-system — signaling a functional, procurement-first environment where engineers and safety managers search by ANSI classification and SKU rather than browse editorial content. The absence of a custom typeface is itself a design signal: this is a B2B catalog, not a lifestyle destination, and the system font reads as institutional neutrality rather than an oversight. Surfaces hold in light gray (#ebebeb, #dedede) against near-white canvas, with near-black text (#313131, #404040) carrying specification copy. Corners are minimal or sharp; industrial catalog conventions favor grid density and scannable rows over soft consumer padding. A hi-vis lime (#9bca3e) deployed for "in-stock" indicators and compliance callouts is the most chromatically distinctive element in the palette, standing out precisely because it mimics the reflective tape on high-visibility vests — on a warehouse monitor under fluorescent light, it remains unambiguous. Monospace type appears in SKU codes and part-number fields, treating procurement identifiers as machine-readable strings. The brand communicates fitness-for-purpose over visual aspiration: a safety officer buying cut-resistant gloves needs ANSI cut levels and reorder codes, not brand storytelling.
 
@@ -352,6 +356,13 @@ components:
 - Hero accent border rule scales from 4px to 3px on mobile; headline drops from 32px to 22px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

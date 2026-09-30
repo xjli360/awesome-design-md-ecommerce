@@ -4,6 +4,10 @@ name: "Peter Lik"
 source_url: "https://lik.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every viewport loads against a void — #070707, the near-absolute black that replicates Lik's physical galleries in Las Vegas, Maui, and Manhattan, spaces where controlled darkness makes each panoramic print appear to emit its own luminescence. Against that darkness, a single warm bronze at #88744a does the structural work that primary colors do in softer e-commerce systems: it marks the add-to-cart CTA, illuminates edition number labels in the manner of museum nameplates, and traces the active state of the gallery location selector; a brighter sibling at #c9a45d handles price display and promotional highlights, the range from deep bronze to warm gold reading like varying angles of light on a physical gilt frame rather than a designed color scale. DIN 2014, the sole typeface, was engineered for signage and wayfinding — optimized for legibility at distance, mapping directly onto a storefront built around prints that routinely exceed 60 inches — and at {typography.display-xl} sizes it carries the panoramic sweep of a canyon or aurora image without competing with it. Wide letter-spacing across {typography.edition-label} and {typography.nav-label} (0.10–0.14em) gives navigational text the sparse, placard quality of a white-cube gallery wall. Buttons and cards hold at {rounded.none} universally; this brand makes no concession to consumer-soft rounding — even text inputs are sharp-cornered. Product cards present images at nearly full bleed against the {colors.canvas} void, withholding price and edition count until hover reveals a translucent overlay, an editorial restraint that treats the photograph as artwork first and commerce second. The PDP splits into an image column held on pure {colors.canvas} and a detail column on {colors.surface-soft} (#121212), with a structured edition-availability block — edition size, remaining prints, bronze-bordered CTA — and a gallery-location selector that bridges digital purchase and physical gallery pickup inline, a dual-channel architecture unique to Lik's gallery-and-web model.
 
@@ -341,6 +345,13 @@ components:
 - Footer columns (4-col desktop) collapse to 2-col tablet, single-col accordion on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

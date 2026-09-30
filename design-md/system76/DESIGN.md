@@ -4,6 +4,10 @@ name: "System76"
 source_url: "https://system76.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep indigo (#221155) pooling behind hero panels like a terminal session at dusk — that single chromatic bet is what separates System76's visual identity from the sea of silver-and-white hardware marketing. The color reads simultaneously as night-sky computing and defiant independence from mainstream OEMs, and it saturates full-bleed sections while product photography floats on lighter `{colors.surface-soft}` (#f5f5f5) cards. A secondary electric blue (#3c64f4) fires every call-to-action, drawing the eye against both the dark purple backgrounds and the pale product grids with equal urgency. Body text lives in a warm brown-charcoal (#574f4a) rather than pure black — a subtle humanist decision that softens the otherwise engineering-forward tone and keeps long spec sheets from feeling clinical. Typography inherits system sans-serif stacks, almost certainly loaded dynamically at runtime; the result on-page is a geometric, medium-weight face set at 16px body with generous line-height, leaning toward Fira Sans or similar open-source-friendly families. Corner radii stay modest: `{rounded.sm}` on buttons, `{rounded.md}` on cards, never fully rounded — the aesthetic says precision machined, not consumer bubbly. Spacing is generous vertically (`{spacing.section}` between feature blocks) but compact horizontally inside product grids, creating a rhythm that mirrors the dense-but-breathable layout of a well-configured IDE. Navigation is dark-on-light with category mega-menus (Laptops, Desktops, Accessories, Pop!_OS) that expand on hover rather than click, treating the top bar more like a filesystem tree than a retail nav.
 
@@ -409,6 +413,13 @@ components:
 - Footer link columns → single-column accordion sections
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

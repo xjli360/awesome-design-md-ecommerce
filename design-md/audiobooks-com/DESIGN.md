@@ -4,6 +4,10 @@ name: "Audiobooks.com"
 source_url: "https://www.audiobooks.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A single dark anchor — `#313131` — holds the entire listening experience, a deep charcoal that appears in the site's navigation bar, footer, and primary text, giving the interface the weight and permanence of a well-bound book. The brand operates on a stark white canvas (`#ffffff`) with this near-black ink as its sole structural color, creating a high-contrast reading environment that disappears behind the content. There are no brand colors beyond this monochrome axis — no accent hue for CTAs, no secondary palette for categories — which means every button, link, and interactive element must earn its visibility through typographic weight and spacing rather than color. The font stack is the system default cascade (`-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif`), a pragmatic choice that prioritizes legibility across devices over brand distinctiveness. Rounded corners are minimal (`{rounded.sm}` ~8px on buttons, `{rounded.md}` ~12px on cards), never reaching the pill shapes of consumer lifestyle brands. The result is a utilitarian, library-like interface where the audiobook covers and metadata do all the emotional work — the chrome is deliberately invisible.
 
@@ -484,6 +488,14 @@ components:
 - Search bar in the top-nav collapses into an expandable icon on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Sp5der"
 source_url: "https://kingspider.co"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The banner reads SP5DER WORLDWIDE in Michroma caps — a geometric sci-fi face where every character has terminal angles and zero curves — announcing the brand before a single image loads. Neon green (#3ed660) spider-web graphics erupt against an almost lightless canvas (#121212), a single chromatic detonation that makes each product page feel like a drop-table built for hype rather than a browsable store. The palette does not resolve into brand harmony: amber (#ee9441), deep red (#8b0000), and forest green (#006400) exist as colorway signals across stacked swatches, so the site itself performs the same maximalist collision as the garments. Mid-gray tones (#777777, #555555) carry the resting UI — dividers, placeholders, disabled states — giving the scroll a rhythm of voltage and quiet, loud product image against gray separator against loud product again. Buttons sit at `{rounded.xs}` with minimal radius, keeping geometry sharp and hype-adjacent; the brand has no visual softness budget to allocate to interactive elements. The spider-web motif functions simultaneously as logo, background texture, and implied grid: negative space becomes silk between product nodes, and the whole layout leans on full-bleed photography as the web's anchor points. Inter carries all transactional copy — prices, size labels, form fields — while Michroma holds every headline and label, creating a two-register system where aspiration and transaction speak in recognizably different voices. The "WORLDWIDE" suffix in every brand treatment signals drop-culture ambition over geography, matching a colorway cadence where no two releases share a palette and the UI must accommodate that chromatic chaos without a fixed tonal anchor.
 
@@ -328,6 +332,13 @@ components:
 - Collection filter bar: collapses to a "Filters" pill that opens a bottom-sheet drawer on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

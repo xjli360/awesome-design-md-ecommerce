@@ -4,6 +4,10 @@ name: "Cash Cards Unlimited"
 source_url: "https://cashcardsunlimited.com"
 captured_at: "2026-09-28T04:44:47.610816+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Cash Cards Unlimited runs on a dark Shopify theme (`colorBody:#000000`,
   `colorDrawers:#000000`, `colorFooter:#000000`) with white and off-white
@@ -166,6 +170,13 @@ This is a recommendation based on common e-commerce patterns, not measured site 
 Touch targets should be at least 44px, with button-primary/secondary padding sufficient at default sizes. The megamenu (Magic, Pokemon, Sports, Other TCGs, Accessories) should collapse into an accordion-style drawer below tablet width. Cart and search icons should remain persistently visible in the compact header per the observed icon-driven header markup.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

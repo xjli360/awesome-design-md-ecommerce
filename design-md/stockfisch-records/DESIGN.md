@@ -4,6 +4,10 @@ name: "Stockfisch Records"
 source_url: "https://www.stockfisch-records.de"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep black canvas (#080808) that feels less like a website and more like a listening room with the lights dimmed — the brand's entire visual system is built around the premise that the music, not the interface, should be the only thing you see. The four extracted grays (ink #4b4b4b, body #888888, muted #696969) form a restrained ladder that never competes with album artwork; text sits in Georgia and Times New Roman at modest sizes, evoking the typographic authority of a high-end audio magazine rather than a digital storefront. Navigation is a thin, almost invisible strip — no hero carousel, no promotional banners, just a sparse header with the label's logo and a handful of links. Product cards use `{rounded.none}` corners and `{spacing.base}` padding, as if to say the music inside needs no decorative frame. The primary action — adding an album to the cart — appears as a small, unassuming button in `{colors.primary}` (#080808) with white text, a deliberate anti-pattern in an ecommerce world of bright CTAs. The site reads as a direct translation of the label's physical catalog: black-and-white, precise, and utterly confident that the product (direct-to-disc audiophile recordings mastered by Pauler Acoustics) will speak for itself.
 
@@ -272,6 +276,13 @@ components:
 - Breadcrumbs are hidden on mobile to save space; only the current page title is shown.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

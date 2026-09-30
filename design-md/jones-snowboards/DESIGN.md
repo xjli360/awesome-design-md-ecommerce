@@ -4,6 +4,10 @@ name: "Jones Snowboards"
 source_url: "https://www.jonessnowboards.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A mountain-crafted brand that runs on a deep charcoal ink (#2b2b2b) and a singular teal voltage (#108474) — the exact green of alpine lake water at altitude, used for every primary CTA, the "Shop Now" button, the cart badge, and the active-state underline on navigation links. The canvas is a near-white (#fbfbfb) that reads as snow-light rather than sterile white, while secondary surfaces shift to a warm off-white (#f9fafb) and a faint silver (#eeeeee) for product-card backgrounds. The brand's typography is set in Lato, a geometric sans-serif with humanist warmth, running at moderate weights (400–700) and never exceeding 28px for display — the product photography and snowscapes do the heavy lifting. The site uses a persistent top nav with a centered logo, a full-width hero that bleeds into the viewport, and product cards with a subtle shadow and a 4px rounded corner. The checkout flow introduces a secondary orange accent (#f48120) for "Add to Cart" in certain contexts, and a muted gray (#7b7b7b) for secondary text and disabled states. The overall feel is utilitarian but intentional — every corner is either sharp (0px) or barely softened (4px), never pill-shaped, reflecting the brand's no-nonsense backcountry ethos.
 
@@ -348,6 +352,13 @@ components:
 - Accordion sections remain collapsed by default on all breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Vicis"
 source_url: "https://vicis.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A football-equipment brand that uses a deep teal (#108474) as its primary voltage — not the expected helmet gray or team-color red, but a cool, medical-grade green that signals protection and precision before aggression. The brand's typographic voice runs on the Shapiro family, a condensed sans-serif with extreme weight variance: Shapiro 95 Super Extd for heroic display headlines that stretch across hero banners, and Shapiro 35 Feather for delicate captions that feel almost weightless. The extracted palette is unusually broad — 30+ colors — but the core system resolves around two grays (#292929 for ink, #323e48 for body), a soft blue-gray (#bbc1e1) for secondary surfaces, and a single alert red (#ff3b3a) that appears only in sale badges and error states. The Shopify platform layer contributes several checkout blues (#409eff, #275efe) and a bright accent green (#03de90) likely from progress indicators. Vicis's design language is clinical and protective: rounded corners are generous ({rounded.md} at 12px on cards, {rounded.lg} at 20px on buttons), whitespace is abundant, and the overall feel is more medical-device than sports-apparel — a helmet company that wants you to think about safety first, team colors second.
 
@@ -351,6 +355,13 @@ components:
 - Hero sections stack image below text on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

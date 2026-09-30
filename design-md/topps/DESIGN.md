@@ -4,6 +4,10 @@ name: "Topps"
 source_url: "https://www.topps.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The product grid at Topps operates like a dealer's sorted slab vault — #bd2426 red holds every primary CTA, promotional badge, and the wordmark itself, while #163959 navy absorbs the masthead and hero banners, together reconstructing the two-tone border geometry that has printed on cardboard since the 1952 baseball series. Sport taxonomy gets its own chromatic lanes: stadium greens (#9bca3e, #bada7a) flag baseball and series product lines, stadium oranges (#f68b1f, #ee730a) bracket basketball and soccer drops, and a saturated #0051c3 blue marks premium authenticated pieces. The type stack is pure system — Arial and Helvetica Neue without a proprietary face — so the design leans on fontWeight 700 across display and button scales, uppercase tracking on sport labels and badge text, and a restrained #272727 ink that keeps card photography from competing with body copy. Cards render at a 2:3 portrait ratio with {rounded.sm} corners echoing the physical product's clipped edges; the page background sits at #ebebeb so card art pops without requiring a dark inversion. The persistent search bar and faceted filter rail reflect a catalog running hundreds of thousands of SKUs across vintage, current series, and digital releases — the UI's primary job is filtering, not brand storytelling, and the component hierarchy reflects that priority. Price callouts in {colors.primary} red and sale overlays in {colors.sport-orange} create a secondary urgency signal that collectors read without reading as generic discount-retail. Navigation runs white type on {colors.navy} at fontWeight 700, treating the top bar as a sport-vertical staging area where card grades and product categories are the primary taxonomy.
 
@@ -350,6 +354,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

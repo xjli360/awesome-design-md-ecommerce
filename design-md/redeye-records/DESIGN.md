@@ -4,6 +4,10 @@ name: "Redeye Records"
 source_url: "https://www.redeyerecords.co.uk"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A teal #2e9b8d pulse runs through an otherwise monochrome record-store grid — that single accent color appears on the "Add to Basket" button, the search bar's focus ring, and the genre-filter highlight, giving a specialist dance-music shop a clean, almost clinical confidence. The canvas is #f6f6f6, a warm off-white that softens the dense product grid, while body text sits in #484848 rather than pure black, reducing contrast fatigue during long browsing sessions. Product cards use #ffffff surfaces with a #e4e4e4 hairline, creating a subtle separation that lets album art — often high-contrast and colorful — do the visual heavy lifting. The typography stack leans on Kanit for headings, a geometric sans-serif with sharp terminals that echoes the precision of electronic music production, while body copy falls back to Helvetica Neue and Arial for reliable readability. Navigation is minimal: a sticky top bar with the brand logo, search input, basket icon, and a "Sign In" link, all sitting on #ffffff. The search bar is the most interactive element on the page, with a full-width input that expands on focus and uses the teal accent for its border. Genre and format filters (Vinyl, CD, Merch) are rendered as pill-shaped buttons with `{rounded.full}`, using #f1f1f1 backgrounds that toggle to #2e9b8d when active. The overall feel is utilitarian but intentional — a tool for digging through thousands of dance records, not a lifestyle brand. The footer collapses to a single column on mobile, stacking shipping info, social links, and payment icons (Visa, Mastercard, PayPal) in #707070 text on #f6f6f6.
 
@@ -381,6 +385,13 @@ All badges use `{typography.badge}` (Kanit 11px uppercase) with white text and `
 - **Desktop:** All elements at full width. Genre filter strip shows all pills. Footer uses 4-column layout.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

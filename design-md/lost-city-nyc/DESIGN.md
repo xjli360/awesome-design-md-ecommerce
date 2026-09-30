@@ -4,6 +4,10 @@ name: "Lost City NYC"
 source_url: "https://lostcitynyc.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Objects arrive at Lost City with mid-century Manhattan still embedded in them — bakelite radios, streamlined chrome fixtures, hand-lettered trade signs salvaged from demolished storefronts. The name is itself the design brief: a city of layered erasures, where what vanished defines what remains. The palette follows this logic of residue. Warm cream surfaces ({colors.canvas}, ~#f4f0e8) read like aged catalog paper rather than digital white; the primary deep terracotta ({colors.primary}, ~#7d3c28) echoes industrial brick and faded awning cloth. Ink stays warmly dark rather than pure black (~#1c1915), preserving the sense of archive rather than interface. Type is set in a humanist serif at modest weights — display headlines run 24–32px at weight 500–600, the scale of a museum placard rather than a banner ad. Product photography carries the visual work; component architecture steps back and lets a 1940s cabinet or a 1960s pendant fixture fill the frame. Corners are present but not pillow-shaped: {rounded.sm} on cards and inputs holds legible structure without borrowing the consumer-tech friendliness of {rounded.full} pill buttons. An inquiry-first purchase model shapes the entire flow — the product card's primary action is not a checkout button but a contact link, so the form component carries more typographic authority than a standard e-commerce conversion screen. Category navigation groups the collection by material and era (furniture, lighting, ceramics, industrial, signage), and the filter bar reads like a reference index rather than a facet tree. The footer doubles as a provenance statement, grounding the brand in Brooklyn and in the American manufacturing century it curates.
 
@@ -308,6 +312,13 @@ components:
 - `hero-banner` stacks vertically on mobile with image at top cropped to 16:9, headline and body text below
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

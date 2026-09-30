@@ -4,6 +4,10 @@ name: "KTC"
 source_url: "https://www.ktcplay.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep violet-magenta — #910582, a shade that most gaming display brands consign to accent highlights — anchors every primary CTA and interaction state across KTC's interface, an unusual choice that separates the brand from the electric-blue-and-RGB pack without signaling aggression. The near-blacks #1d2129 and #1d1d1d carry primary surfaces and navigation with a density suited to high-performance monitor marketing: hardware expected to run in darkened rooms and compete on spec sheets. Against those grounds, the magenta reads with gemstone specificity rather than system-default urgency. Body copy runs a Chinese/Western hybrid stack — PingFang SC and Microsoft YaHei for mainland legibility, Helvetica Neue and Arial as Latin fallbacks, with MiSans-Normal as a quality-signal first choice that mainland users associate with Xiaomi's premium ecosystem. Corner radii are deliberately contained: product cards and primary buttons hold {rounded.sm} to {rounded.md}, resisting the pill shapes common in lifestyle consumer electronics and landing closer to the engineering-adjacent register that display hardware earns. Error, success, and link semantics follow the Element Plus palette exactly — #f56c6c for danger, #67c23a for success, #409eff for informational states — which reveals a Vue-based front-end and keeps interaction patterns consistent for developers extending the system. Light surfaces use a warm near-white (#efebeb) alongside a neutral #f5f5f5, giving product imagery a slightly warmer ground than cold white would. Spec-heavy sections — resolution callouts, refresh-rate badges, panel-tech comparisons — exploit the generous {spacing.section} rhythm, letting numbers like "4K 144Hz" or "1ms GTG" breathe as standalone claims rather than cramming into a feature list. The footer and navigation compress to a #282626 ground, keeping the brand's dark register consistent from header to base and reinforcing that KTC addresses an audience that already lives in dark-mode environments.
 
@@ -365,6 +369,13 @@ components:
 - Spec table wraps to a single-column definition-list layout below 480px as an alternative to horizontal scroll
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

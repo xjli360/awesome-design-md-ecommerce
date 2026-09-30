@@ -4,6 +4,10 @@ name: "Liqui Moly"
 source_url: "https://liqui-moly.com"
 captured_at: "2026-09-28T09:43:05.983865+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   LIQUI MOLY's public storefront exposes a Bootstrap-based design system layered with
   brand-specific overrides. The CSS custom properties define a blue primary (#00519e)
@@ -167,6 +171,13 @@ The following breakpoint table is a **recommendation** based on common Bootstrap
 Touch targets should meet a minimum 44×44px hit area for buttons and form controls, particularly the `.form-select` chevron control and `.btn-close` icon (currently sized at `1.25em` padding, likely under 44px and worth expanding for mobile). Off-canvas or accordion collapse for the deep multi-level navigation (Company/Products/Service/etc., visible in the page text) is proposed but not confirmed by any observed JavaScript or interaction evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

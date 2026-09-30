@@ -4,6 +4,10 @@ name: "Alpine"
 source_url: "https://alpine-usa.com"
 captured_at: "2026-09-28T04:59:10.992717+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Alpine's public site presents a technical, performance-oriented car-audio catalog built on a
   cool institutional blue (#00549a) paired with near-black ink (#212121) and a white canvas.
@@ -183,6 +187,14 @@ Navigation and fitment-selector collapse into modal or accordion patterns on mob
 proposed pattern only; no mobile DOM or media-query behavior was present in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

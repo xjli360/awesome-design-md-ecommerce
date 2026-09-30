@@ -4,6 +4,10 @@ name: "Arc'teryx"
 source_url: "https://arcteryx.com"
 captured_at: "2026-09-29T04:20:02.915736+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation reflects Arc'teryx's technical, minimal outdoor-brand identity as evidenced
   in the supplied CSS. The observed palette is dominated by near-neutral tones: true black
@@ -165,6 +169,14 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 All interactive controls should maintain a minimum 44px touch target, consistent with the one observed `min-height:44px` rule. Mega-menus are assumed to collapse into an accordion or drawer pattern below desktop widths; this has not been observed and is a UX recommendation only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Evidence was extracted from static CSS/text only; no rendered layout, interaction states (hover, focus, active, error), or JavaScript-driven behavior was observed.

@@ -4,6 +4,10 @@ name: "HP"
 source_url: "https://www.hp.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The HP Simplified typeface — geometric, wide-set, engineered to feel like precision tooling rendered as letterforms — sets the entire tonal register of hp.com before a single product image loads. Display headings run at weight 300 (Light) where most technology brands would reach for 600+, trusting the typeface's inherent structural openness to provide visual mass without typographic aggression. The site's primary voltage is #165dba, a medium-saturation corporate blue that functions less as decoration and more as a wayfinding rail: every primary CTA, active navigation indicator, and configuration selector pulses this hue, while a darker #114a94 variant anchors pressed states and footer link hovers. What distinguishes HP's digital palette from a generic tech-blue system is the breadth of its accent spectrum — #7d3894 purple codes OMEN gaming hardware, #debc33 gold signals the Spectre premium line, #009d69 green marks sustainability initiatives, and #fd0032 red drives sale badges and urgency states. These accents never collide; they occupy distinct product swim-lanes against a predominantly monochromatic stage of #2c3038 ink, #5a5a5a body copy, and #e8e8e8 structural dividers on a #f5f5f5 canvas. Product cards use `{rounded.sm}` corners and buttons hold `{rounded.xs}` — deliberately restrained radii that reinforce the precision-engineering positioning over the friendly pill shapes favored by consumer lifestyle brands. Navigation stacks two tiers: a slim utility bar in `{typography.nav-utility}` carrying support and account links above a 56px primary bar with mega-menu dropdowns that reveal editorial imagery alongside category links. The hero carousel occupies full viewport width, cycling through product launches with a single `button-primary` CTA centered over full-bleed photography. Footer inverts the page's light canvas to a #2c3038 dark ground, running a dense four-column layout that creates a definitive visual terminus. The overall rhythm is spacious, systematic, and optimized for comparison shopping across hundreds of SKUs — every element sized and spaced to move a buyer from category to configuration to cart.
 
@@ -405,6 +409,13 @@ components:
 - Compare bar: sticky bottom bar becomes a floating action button with badge count on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

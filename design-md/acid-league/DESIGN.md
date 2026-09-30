@@ -4,6 +4,10 @@ name: "Acid League"
 source_url: "https://acidleague.com"
 captured_at: "2026-09-29T04:00:22.395763+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Acid League's evidence draws from a Squarespace-hosted CSS bundle showing a restrained
   black/white/off-white base (#000000, #ffffff, #fffefa, #fafafa) accented by a warm
@@ -141,6 +145,14 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be at minimum 44×44px for buttons and nav links (proposed). Retailer-logo carousel and Instagram row are assumed to collapse to a horizontally scrollable strip on mobile; this is inferred from the "Item 1 of 10" / "Item 1 of 5" carousel markers in the page text, not from measured DOM/CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no live rendering, computed layout, or interaction states (hover/focus/active, mobile menu behavior) were observed. Semantic color roles (primary, accent, muted, hairline) are inferred by matching hex frequency and contrast patterns to typical brand usage, not confirmed via labeled CSS custom properties tied to brand identity. Several font families in the raw evidence (Roboto, squarespace-ui-font, social-icon-font, monospace) appear to be Squarespace platform defaults rather than brand-selected type, and were excluded from primary typographic roles. Font pairing assignments (display vs. body vs. caption) are proposed based on naming conventions (GT-Alpina = display serif, Helvetica Neue = body sans) and not verified against rendered output. All spacing, rounding, and breakpoint values are conventional proposals, not measured from the site. Licensing/availability of GT-Alpina, Clarkson, and new-spirit-condensed for reuse outside the original Squarespace license was not verified.

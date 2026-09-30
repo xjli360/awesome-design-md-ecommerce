@@ -4,6 +4,10 @@ name: "Baby Einstein"
 source_url: "https://www.babyeinstein.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep navy (#0f193f) canvas sets the stage for a brand that treats early childhood as a serious, joyful design problem — not pastel pablum but saturated primary accents (red #ec2c3e, orange #e87621, yellow #ffdf2d, green #76dca1, teal #4cbea0, blue #00b4e1, purple #aa5ea3) that pop against near-white (#f7f6f0) and light gray (#f2f2f2) backgrounds. The palette reads like a carefully curated set of wooden blocks: each color has weight and purpose, not decorative pastel. Karla and Lato run the typography, with Karla likely handling display and Lato body — a pairing that balances geometric playfulness with readable warmth. Buttons and interactive elements use generous {rounded.full} pill shapes, while product cards and content panels land on softer {rounded.md} corners. The brand's signature move is the "curiosity trigger" — a bright red or orange CTA button against the navy field, creating a visual voltage that says "touch this." Star ratings, age-range badges, and "NEW" tags appear in small, high-contrast capsules. The overall mood is not "baby store" but "children's museum gift shop" — clean, colorful, and designed for small hands and big eyes.
 
@@ -328,6 +332,14 @@ components:
 - Hero section: image and text stack vertically on mobile, side-by-side on tablet+
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

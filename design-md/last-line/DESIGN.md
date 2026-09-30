@@ -4,6 +4,10 @@ name: "The Last Line"
 source_url: "https://www.thelastline.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Pavé stones — sapphire-blue, canary-yellow, tourmaline-pink — stacked in intentionally mismatched ear cuffs and tennis bracelets are the visual vocabulary The Last Line leads with: fine materials worn as though they cost nothing, mixed together freely. The canvas is near-clinical white (#ffffff) and a deep editorial black (#0d0d0d) that frames photography-first grids, letting gemstone color do the brand-building rather than graphic flourish. Primary calls-to-action carry no gold shimmer or ornamental fuss; they sit as sharp black rectangles or clean inversions, communicating that the brand's confidence lives entirely in the product. Letter-spacing opens wide at the display level — a hallmark of contemporary jewelry editorial that signals restraint without receding — while body copy sits tight and direct, closer to a magazine's commerce page than a traditional jeweler's verbose description. Buttons strip themselves of the typical luxury softness: no pill shapes, edges land at {rounded.none}, a deliberate signal that The Last Line is not in dialogue with heritage houses. The nav is minimal — wordmark flush left, a compact row of tracked uppercase category links, and a bag count — keeping header footprint small so the first viewport is almost entirely product. The brand's signature move is the "stacked ear party" imagery rendered at near-square crop, always against neutral backgrounds, allowing the density of color in the jewelry itself to supply all visual energy the page needs. Gold tones (#c9a84c) surface only in badge and callout accents — a footnote, not a foundation — resisting the instinct to lean on metallic warmth as shorthand for luxury.
 
@@ -325,6 +329,13 @@ components:
 - PDP two-column layout (image gallery left, details right) stacks vertically on mobile, full-width image carousel first
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

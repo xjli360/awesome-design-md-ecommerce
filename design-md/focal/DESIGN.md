@@ -4,6 +4,10 @@ name: "Focal"
 source_url: "https://www.focal.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A precision audio brand where the interface steps back to let product photography and technical specifications command attention, built on a restrained palette anchored by #111827 ink and #2563eb accent — the single blue voltage that appears only in primary CTAs, active navigation states, and select technical callouts. The system runs Gotham at moderate weights (400–500 for body, 700 for display) with monospace fallbacks for specifications and pricing, signaling engineering rigor without sacrificing readability. Product pages use generous white space (#ffffff canvas) and hairline-thin #e5e7eb borders to separate technical specifications, creating a clean, almost architectural grid that mirrors the precision of the company's studio monitors. The #2563eb accent is deployed sparingly — it never appears in decorative elements, only in functional affordances like "Add to Cart" buttons and product configuration selectors, maintaining a sense of purposeful restraint. Secondary text at #6b7280 and #9ca3af provides hierarchy without competing with the hero imagery, while #f8f8f8 surface-soft backgrounds create subtle section breaks in long-form product descriptions. The overall impression is that of a technical catalog rendered with editorial care — the brand trusts its product's physical design to do the emotional work, and the interface exists primarily to organize information with clarity.
 
@@ -457,6 +461,13 @@ components:
 - Accordion content collapses by default on all breakpoints, expanding on click
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Fable"
 source_url: "https://fablehome.co"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Fable is a premium dinnerware brand that elevates everyday dining through warm, earthy tones and a tactile, grounded aesthetic. The brand's visual identity is anchored by a rich terracotta primary (#d16f49), a color that appears across key CTAs, badges, and accent elements, evoking the warmth of handcrafted ceramics. This is balanced against a deep, almost-ink black (#2b2928) used for body text and strong typographic moments, creating a sophisticated contrast that feels both modern and timeless. The canvas is a soft, creamy off-white (#f8f7f2) rather than a stark white, lending a natural, organic feel to product pages and editorial layouts. Supporting tones include muted stone grays (#dededd, #d3d2d1) for hairline borders and secondary text, a subtle sage-like gray (#9a9db1) for muted elements, and a warm brass (#d9aa52) that appears in accent details and decorative typography. The palette also features a deep navy (#272d45) and a slate blue (#676986) for depth in navigation and footer areas, alongside a soft blush (#d88471) and a pale yellow (#f9f9b2) for limited-use highlights. Rounded corners are generous but not pill-like—cards and buttons use `{rounded.sm}` (8px) to `{rounded.md}` (12px), while hero images and product photography are often cropped in soft ovals or with `{rounded.lg}` (20px) to mimic the organic curves of ceramic dinnerware. The typography, while not explicitly named in the extracted data, leans on system fonts with a preference for clean, slightly condensed sans-serif families that feel approachable and refined. The overall mood is one of quiet luxury—nothing is loud or aggressive; instead, the design invites touch and slow appreciation, much like the handmade plates and bowls the brand sells. Signature design moves include generous whitespace around product imagery, subtle shadowing on product cards, and a persistent use of the terracotta primary as a visual anchor across the shopping experience.
 
@@ -382,6 +386,13 @@ components:
 - Accordion-style product details replace tabbed interfaces below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

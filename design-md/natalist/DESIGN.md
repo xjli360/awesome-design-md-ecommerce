@@ -4,6 +4,10 @@ name: "Natalist"
 source_url: "https://natalist.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A clinical warmth defines Natalist, where a sharp cerulean accent (#00b2ff) cuts through a palette of slate grays (#4a5464, #728197, #dcdfe5) and near-black (#121212, #23282f). The brand lives in the tension between medical credibility and emotional comfort — the primary blue reads as diagnostic precision, while the soft gray scale and generous whitespace soften the experience into something approachable. Typography layers a monospaced voice (DM Mono) for data-heavy moments — cycle tracking, symptom logs, test results — against the clean humanist readability of DM Sans for body copy, with PP Agrandir reserved for display moments that feel editorial rather than clinical. Phosphor icons, thin and geometric, replace the usual chunky illustrations, reinforcing the brand's preference for information clarity over decorative fluff. Button radii stay tight at {rounded.sm} (8px), never pill-shaped, preserving a subtle seriousness — this is not a wellness app with confetti, it's a fertility and pregnancy support system. The near-black ink (#121212) on white canvas creates high contrast for medical legibility, while the muted slate (#728197) handles secondary text and captions without competing for attention. Cards and surfaces use the lightest gray (#dcdfe5) for hairline borders, keeping the layout airy but structured. The brand's design language suggests a lab coat worn by someone who remembers your name — precise, trustworthy, and quietly human.
 
@@ -344,6 +348,13 @@ components:
 - Sidebars on product detail pages collapse to below-the-fold sections on tablet and mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

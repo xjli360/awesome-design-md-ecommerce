@@ -4,6 +4,10 @@ name: "NECA"
 source_url: "https://necaonline.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The blood-red #e83630 is not decoration — it is the urgency voltage that marks every add-to-cart button, sale callout, and new-release badge on a site where 7-inch scale demons, time-traveling robots, and alien hunters share catalog space with vintage horror villains. The palette runs from this alert-red through deep burgundy (#600040) and near-black charcoal (#313131) to a cool light neutral (#eeeeee), assembling a cinematic contrast register that echoes the poster art of the franchises NECA licenses rather than any contemporary ecommerce playbook. Text lives entirely in system-web stacks centered on Open Sans — no custom typeface — which keeps the brand honest: the products carry the personality, not the letterforms. Navigation is dense and category-driven; collectors need to reach "Aliens Series 14" or "Ultimate Dutch" without wading through editorial layers, so the nav runs taxonomic depth over aspirational lifestyle copy, with franchise-organized mega-menu columns. Product cards surface high-fidelity photography against light neutral backgrounds, letting the sculpt and paintwork speak; the red primary reserves itself for badges, CTAs, and sale callouts. Deep navy (#003050) and cobalt (#4054b2) anchor secondary banner modules, pulling from the science-fiction and military visual vocabulary that defines many licensed properties. The burgundy (#600040) emerges as a premium collector tone, used sparingly for featured-series and special-edition callouts. Border radii stay modest at {rounded.xs} to {rounded.sm} — NECA's aesthetic has edges, mirroring the sharp detail lines of a freshly unboxed figure rather than the soft friendliness of a lifestyle brand. Spacing is utility-first: desktop grids run tight to surface maximum product thumbnails per row, and section padding compresses on mobile to keep imagery above the fold. The footer carries licensing attributions, trademark notices, and franchise partner links in structured columns — functionally heavy, legally necessary. The overall register is specialist retailer for an enthusiast audience: dense, image-forward, red-highlighted, and organized around deep-catalog navigation logic.
 
@@ -382,6 +386,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

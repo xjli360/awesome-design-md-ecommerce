@@ -4,6 +4,10 @@ name: "BySimran"
 source_url: "https://bysimran.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Wine-dark burgundy (#791d34) occupies the meta theme-color slot rather than the aspirational gold that most ethnic jewelry brands lead with — a deliberate inversion that positions BySimran's identity in the deeper, more ceremonial register of South Asian color vocabulary: the color of sindoor, of dark silk borders, of the night-blooming rose. Against it, the antique gold family (#ab8c52, #9a7e4a, #d4af32) operates in three distinct temperatures — warm, richer, flash-bright — allowing the metallic vocabulary to carry visual hierarchy without redundancy. A fourth accent, Mughal teal (#108474), surfaces rarely but decisively, the hue of enameled meenakari inlay found in traditional Jaipur goldsmithing and Mughal tilework alike, landing as a genuine cultural signal rather than a borrowed global palette choice.
 
@@ -386,6 +390,13 @@ components:
 - Hero text content left-aligns on all breakpoints; image stacks above (not behind) on mobile to preserve the editorial serif headline against a plain warm background
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

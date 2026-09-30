@@ -4,6 +4,10 @@ name: "Freud"
 source_url: "https://freudtools.com"
 captured_at: "2026-09-29T03:59:49.386942+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Freud's public site evidence shows a utilitarian industrial-tools palette built on
   near-black and white neutrals (#000000, #333333, #282828, #ffffff) with mid-gray
@@ -167,6 +171,13 @@ This is a recommended breakpoint structure, not a measured observation of the li
 Touch targets should be a minimum of 44×44px for buttons and nav items. The primary nav is expected to collapse below tablet width given the number of top-level items (PRODUCTS, INFORMATION CENTER, WHY FREUD, WHERE TO BUY, WHERE TO SHARPEN, CAREERS, CONTACT, SIGN IN). None of this collapse behavior was directly observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

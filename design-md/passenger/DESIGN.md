@@ -4,6 +4,10 @@ name: "Passenger"
 source_url: "https://passenger-clothing.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Passenger's palette reads like a tidal range at dusk: deep ocean (`#204d67`) grounds all primary actions and header fills, while warm cream (`#f8f4ed`) replaces the clinical white canvas found on every other outdoor site — the difference registers as texture before it registers as color. Then a mint burst (`#b2f9e9`) arrives on sustainability callouts, certification badges, and sale ribbon accents, a bioluminescent pop that signals eco-credential without reaching for the mossy greens that outdoor brands have overworked. Burnt terracotta (`#df6439`) warms seasonal collection promos and campaign photography overlays; periwinkle (`#899df1`) floats across secondary UI states and hover treatments. None of these hues are borrowed from trail-gear graphics or alpine photography — they read coastal and tonal, closer to a mid-century nature print than a performance-sports catalog.
 
@@ -371,6 +375,13 @@ components:
 - Announcement bar persists across all breakpoints; text truncates to one priority message on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Resident Music"
 source_url: "https://www.resident-music.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A record store that lets its inventory do the talking, Resident Music builds its web presence on a muted sage-and-stone palette anchored by #8a947c — a dusty olive-green that reads more like a vintage book spine than a brand color. The canvas is #f3f3f3, a warm off-white that avoids the sterile hospital glow of pure white, while #d8dbde provides a soft silver hairline that frames product grids without shouting. Two accents break the calm: #adaa1d, a chartreuse-yellow that appears on sale badges and price highlights, and #f6343f, a sharp red reserved for sold-out indicators and limited-stock warnings. Typography runs a split personality: the system stack (San Francisco, Arial, Helvetica Neue) handles body text at modest 14–16px sizes, while `resident-hand`, a proprietary script font, appears on logos and hero headers to inject the warmth of a hand-lettered in-store chalkboard. Product cards use {rounded.sm} (8px) corners — soft enough to feel approachable, tight enough to keep the focus on album art. The nav bar sits at 56px, compact for a store that prioritizes browse density over brand theater. Search is a full-width bar with a magnifying-glass icon in #3f4244, the darkest ink on the site, and category filters collapse into a horizontal scroll strip on mobile. The overall effect is that of a well-organized crate-digging experience: quiet, tactile in spirit, and utterly deferential to the records.
 
@@ -303,6 +307,13 @@ components:
 - Breadcrumbs truncate to "Home / ... / Current Page" on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 - Hover and focus states for text inputs and links were not reliably extracted from the live site; focus rings and hover underlines are inferred from common patterns

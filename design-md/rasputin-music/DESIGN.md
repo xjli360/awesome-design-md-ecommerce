@@ -4,6 +4,10 @@ name: "Rasputin Music"
 source_url: "https://www.rasputinmusic.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep blue #003388 anchors a storefront that has been keeping the Bay Area bumping since 1971 — the same blue that wraps the header, fuels primary buttons, and gives the brand a weighty, no-nonsense presence that refuses to fade into the background. The palette reads as a record crate pulled from a well-loved collection: the ink-black #1d2327 of vinyl sleeves, the muted #444444 of worn shelf labels, the warm #f6f7f7 of a listening-room wall, and the occasional flash of #b94a48 red that signals a sale or a "NEW ARRIVAL" badge. Typography runs a stack of system sans-serifs — Roboto, Segoe UI, Ubuntu — at moderate weights, letting the album art and the deep blue do the heavy lifting. The layout is utilitarian and generous: wide search bars with {rounded.sm} corners, product cards that stack in clean grids, and a footer that packs links, hours, and social icons into a dense, information-rich block. There is no decorative flourish here — every pixel earns its place by helping a customer find the next record, CD, or cassette. The brand's voice is direct, slightly gruff, and deeply local: "KEEP'N THE BAY AREA BUMP'N" is not a tagline but a mission statement, and the design follows suit with high-contrast text on light canvases, bold blue CTAs, and a layout that prioritizes browsability over brand theater.
 
@@ -300,6 +304,13 @@ components:
 - Category/subcategory filters collapse into a dropdown select on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

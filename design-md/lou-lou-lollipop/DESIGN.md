@@ -4,6 +4,10 @@ name: "Lou Lou Lollipop"
 source_url: "https://louloulollipop.com"
 captured_at: "2026-09-29T04:02:54.578412+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Lou Lou Lollipop's storefront CSS shows a muted, spa-like palette built around a dusty
   teal-blue (#59757D, used as --ethos-primary-button-bg) against warm off-white and near-black
@@ -163,6 +167,13 @@ Recommended, non-measured breakpoints (informed only by the presence of `--gutte
 Touch targets are recommended at a minimum 44×44px for buttons and swatch selectors. Mega-menu collapse into an accordion/drawer pattern below tablet width is a standard proposal for this nav complexity, not a confirmed behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

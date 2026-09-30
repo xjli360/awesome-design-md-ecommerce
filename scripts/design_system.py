@@ -8,6 +8,7 @@ import tempfile
 from pathlib import Path
 from urllib.parse import urlsplit
 import yaml
+from css_values import validate_styles
 
 ROOT = Path(__file__).resolve().parent.parent
 BLOCKS = ('colors', 'typography', 'rounded', 'spacing', 'components')
@@ -53,7 +54,7 @@ def load_sites(root=ROOT):
         slug = r.get('slug', '')
         if not re.fullmatch(r'[a-z0-9][a-z0-9-]*', slug) or slug in slugs:
             raise ValueError(f'Invalid or duplicate slug: {slug}')
-        if urlsplit(r.get('url', '')).scheme not in ('http', 'https'):
+        if urlsplit(r.get('url', '')).scheme not in ('http', 'https') or not urlsplit(r['url']).hostname:
             raise ValueError(f'Invalid URL: {slug}')
         slugs.add(slug)
     return rows
@@ -126,6 +127,7 @@ def validate(text, expected_name=None):
         errors.append('Markdown sections out of order')
     if errors:
         return dict(valid=False, errors=errors, warnings=warnings, data=data)
+    errors.extend(validate_styles(data))
     for key, color in data['colors'].items():
         if not isinstance(color, str) or not (HEX.fullmatch(color) or re.fullmatch(r'(?:rgba?|hsla?)\([^\n]+\)|transparent|currentColor|\{colors\.[^{}]+\}', color)):
             errors.append(f'Invalid color: {key}={color!r}')
@@ -236,6 +238,11 @@ def attach_evidence(text, source, source_available=True):
             text = re.sub(r'^' + key + r':.*$', lambda _: line, text, flags=re.M)
         else:
             text = text.replace('description:', line + '\ndescription:', 1)
+    historical=source.get('design_origin')=='historical' or source['confidence'].startswith('historical_')
+    for key,value in [('quality_tier','historical_archive' if historical else 'css_reference'),('usage_scope','inspiration_only' if historical else 'style_reference_only'),('layout_status','proposed_not_measured'),('recreation_verified',False)]:
+        line=key+': '+json.dumps(value)
+        if re.search('^'+key+':',text,re.M):text=re.sub('^'+key+':.*$',lambda _:line,text,flags=re.M)
+        else:text=text.replace('description:',line+'\ndescription:',1)
     if source_available:
         text = re.sub(r'^- \*\*Historical provenance:\*\*.*\n', '', text, flags=re.M)
     if source_available and '[SOURCE.json](./SOURCE.json)' not in text:

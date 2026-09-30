@@ -4,6 +4,10 @@ name: "Wunderlang"
 source_url: "https://wunderlang.com"
 captured_at: "2026-09-29T04:00:26.642209+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Wunderlang presents itself as a Squarespace-built storefront for a kids' denim,
   knitwear and jersey line, organized around a spaced-letter wordmark treatment
@@ -148,6 +152,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets for buttons and nav items should be at minimum 44×44px per common accessibility guidance. Below the tablet breakpoint, primary navigation is expected to collapse into a slide-out or overlay menu, and the footer link groups (Info, Social) should stack vertically. None of this responsive behavior was directly observed in the supplied CSS; it is proposed based on category norms for editorial e-commerce sites.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

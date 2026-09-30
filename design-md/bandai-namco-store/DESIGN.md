@@ -4,6 +4,10 @@ name: "Bandai Namco Store"
 source_url: "https://store.bandainamcoent.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A high-contrast, franchise-driven marketplace where #f6b700 — a sharp, almost citrus yellow — acts as the primary voltage against a predominantly dark canvas of #222222 and #1f1f1f. This is not a gentle storefront; it is a collector's bazaar built on dense product grids, aggressive discount badges in #e4002b, and tiered navigation that surfaces dozens of IPs (Dragon Ball, One Piece, Elden Ring, Gundam) without collapsing into hamburger menus. The brand's typography runs on Obvia, a geometric sans-serif with distinct condensed and expanded variants, giving the store a slightly arcade-era, action-label feel — especially in the condensed cuts used for product titles and badge copy. Buttons and cards use moderate rounding ({rounded.sm} ~8px), never pill-shaped, preserving a utilitarian, no-nonsense edge. The secondary palette is a study in industrial restraint: #333c3e, #778385, #869791, and #969696 form a muted greige-green axis that supports the yellow and red without competing. The checkout and promotional surfaces introduce #00b0b9 (a teal) and #00b959 (a green) for success states and limited-time offers, but these are tactical, not tonal. The overall effect is a store that feels less like a lifestyle brand and more like a convention hall — loud, dense, organized by franchise, and built for the fan who knows exactly what they want.
 
@@ -422,6 +426,14 @@ components:
 - Search bar collapses to an icon-only trigger on mobile, expanding to full width on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

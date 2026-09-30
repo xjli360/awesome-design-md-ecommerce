@@ -4,6 +4,10 @@ name: "Mintage World"
 source_url: "https://www.mintageworld.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Pressed gold commands the first design decision at Mintage World: #ffc720 — an amber just warm enough to evoke struck metal rather than generic warning yellow — anchors every primary CTA and headline accent across a site that functions simultaneously as e-commerce storefront and educational archive. The platform's scope is unusual for the category: coins, stamps, and paper currency share equal catalog space, pushing the layout toward a reference-database aesthetic rather than a collectibles shop. A warm parchment surface (#e6dbb9) appears in editorial content bands, recalling the archival paper of numismatic reference books, while charcoal ink (#373b3e) grounds body copy and Bootstrap's semantic greens (#198754, #146c43) and cyans (#0dcaf0, #25cff2) handle status and informational states with the clinical precision of museum labeling. Cards surface with gentle {rounded.sm} radii against near-white canvas; category filters and denomination tags use pill shapes ({rounded.full}) that echo the round silhouette of a coin face. No custom display font was detectable — the site relies on inherited system sans-serifs and Font Awesome icon sets, giving the typography a practical, catalog-first character: legibility and information density over brand expressiveness. The search bar runs prominently in the nav, prioritizing discovery; the footer loads dense reference links organized by collection type (country, era, denomination) — information architecture closer to a library catalog than a retail experience. Color-coded alert ribbons (#d1e7dd for collection highlights, #cff4fc for featured issues, #fff3cd for rare items, #f8d7da for limited editions) provide at-a-glance editorial curation without requiring custom component work, leaning on Bootstrap's semantic palette as shorthand for curatorial hierarchy.
 
@@ -360,6 +364,13 @@ components:
 - Hero sub-headline copy truncates or hides below 480px to keep the gold CTA button above the fold without excessive scroll distance
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

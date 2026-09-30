@@ -4,6 +4,10 @@ name: "Sakura of America"
 source_url: "https://www.sakuraofamerica.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Pigma Micron pens leave a very particular mark — a deep, slightly maritime teal sitting somewhere between inkwell and tide pool, and that same hue, #226d7a, anchors every primary action on Sakura of America's site, from add-to-cart buttons to nav hover states. The palette barely strays from this teal family: a near-identical sibling (#1e6d7a) handles pressed states, a charged cyan volt (#22b8d1) fires only on hover highlights and accent stripes, and at the far end a powder wash (#e4f5fa) lifts section backgrounds off white — giving the catalog a watercolor-paper lightness appropriate for a brand whose product line spans Cray-Pas oil pastels, Gelly Roll gel pens, and archival Micron inks in sixty-plus colors.
 
@@ -340,6 +344,13 @@ components:
 - Promo banner wraps to two lines on mobile rather than truncating copy
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

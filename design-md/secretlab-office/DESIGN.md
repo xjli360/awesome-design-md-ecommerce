@@ -4,6 +4,10 @@ name: "Secretlab (Office)"
 source_url: "https://secretlab.co"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Near-black zinc (#18181b) dominates Secretlab's canvas the way a carbon-fiber dashboard dominates a cockpit interior — it is not atmosphere but a technical substrate that makes the deep Secretlab crimson (#a72a2f) read as an instrument callout rather than decorative flourish. The chair configurator is the most revealing design surface — color swatches arrive as 28px circles labeled with code names, rendered against a dark card field (#3f3f46), and the chair itself renders at near-photographic quality against a clean background — this is the grammar of automotive interior specification, not furniture retail. DIN 2014 carries all headline and button work at compressed tracking and elevated weight; Soleil handles body copy with a softer stroke and looser leading, providing the breathing room that prevents long-form specification copy from collapsing under its own density. Button labels render in DIN 2014 uppercase at 0.5px tracking — a mark of performance-hardware UI rather than lifestyle commerce. The palette is multi-register and semantically strict — crimson (#a72a2f) owns primary CTAs and active states; a harder red (#dc2626) appears only in urgency contexts — sale indicators, low-stock alerts — preserving the brand crimson from erosion by overuse. Forest green (#117937), amber (#f59e0b), and cyan (#22d3ee) populate model-tier and feature badges (NEO Hybrid, SoftWeave Fabric, TITAN Evo designations) as a coded taxonomy rather than accent decoration. Two gold registers — warm yellow-gold (#e8d087) and desaturated bronze (#baa35b) — surface in premium-material callouts and award iconography without overpromising luxury. Geometry is deliberately compressed — 4px button radii, 4–8px card corners, zero applied ornamentation — with the color-swatch selector as the single soft departure, those full circles ({rounded.full}) standing against rectilinear product cards. Vertical section rhythm is generous (64–96px), internal component gaps tight (8–12px), mirroring the product's own proportions — wide in silhouette, exact in joinery. Crimson confined to action surfaces and zinc neutrals carrying the structural weight is what earns the office positioning — not a palette wash toward beige.
 
@@ -314,6 +318,13 @@ components:
 - Announcement bar condenses to a single centered message on mobile; rotation pauses if reduced-motion is set
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

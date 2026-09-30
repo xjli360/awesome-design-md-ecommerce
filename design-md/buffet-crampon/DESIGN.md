@@ -4,6 +4,10 @@ name: "Buffet Crampon"
 source_url: "https://www.buffet-crampon.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, resonant charcoal (#32312f) grounds Buffet Crampon's digital presence — not a soft warm gray but a near-black that reads as serious, European, and permanent, the same weight as the African blackwood used in their professional clarinets. Against this ink, a warm parchment canvas (#fcfbf8) carries product imagery and editorial content, while a single amber accent (#f7a674) appears sparingly — on hover states, active navigation markers, and instrument detail callouts — like the glow of a single stage light in an otherwise dark concert hall. The typography runs on futura-pt for headlines and Open Sans for body, a pairing that balances geometric precision with humanist readability; headlines sit tight at 24–32px with generous tracking, echoing the measured spacing of engraved instrument markings. Product cards use soft corners ({rounded.sm}) and thin hairlines (#d1d1d1), letting the photography of polished wood and silver keys command attention. The footer collapses into a dense, monochrome block of links and legal text, while the header stays minimal — a logo lockup, a search icon, and a hamburger menu on mobile — never competing with the instruments themselves. The brand's Japanese-market presence (the page title appears in Japanese) suggests a dual identity: French heritage craftsmanship presented with Japanese editorial restraint. Buttons are tall and narrow, with uppercase labels and no fill until hover, a deliberate withholding that mirrors the discipline of a musician waiting for the downbeat.
 
@@ -306,6 +310,14 @@ components:
 - Search bar transitions from inline to overlay on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

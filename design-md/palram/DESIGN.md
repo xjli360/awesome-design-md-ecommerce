@@ -4,6 +4,10 @@ name: "Palram"
 source_url: "https://www.palramcanopy.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Twin-wall polycarbonate panels diffuse July noon into something closer to late-afternoon light — that optics principle carries straight through Palram's interface, which lives in soft whites and one assertive garden green rather than the high-contrast brutalism that dominates hardware retail. The primary green (#2d7e34) reads as natural authority, not decoration: it marks every CTA, every category badge, every structural accent with the confidence of a brand that has been extruding polycarbonate since 1963. Body copy and product specs sit on a clean `#ffffff` canvas with generous gutters, letting dimensional drawings and product photography carry the persuasive weight that consumer brands assign to lifestyle imagery. Navigation is dense and functional — six to eight top-level categories organized horizontally with dropdown mega-panels — because the buyer arriving at Palram already knows what a lean-to greenhouse is and needs to compare 6×8 vs. 8×12 footprints rather than be sold on gardening as a concept. Product cards present model numbers prominently alongside common names, a signal that trade and prosumer audiences are co-equals with residential buyers. Rounded corners stay minimal: `{rounded.xs}` to `{rounded.sm}` at most. The panels are angular, the structures are rectilinear, and the UI respects that geometry — no soft pill shapes, no consumer-brand friendliness theater. A lighter green tint (`{colors.surface-green}`) appears behind category modules and promotional strips, giving a greenhouse-glass warmth without pastels. An amber accent (`{colors.accent-amber}`) marks new SKUs and clearance badges, cutting visually against the green without introducing a third brand axis. The overall register is confident and encyclopedic — a system built for product comparison rather than aspirational lifestyle.
 
@@ -389,6 +393,13 @@ components:
 - Product card model number hidden on mobile to reduce text density; surfaced in expanded detail view
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

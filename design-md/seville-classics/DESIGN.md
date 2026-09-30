@@ -4,6 +4,10 @@ name: "Seville Classics"
 source_url: "https://www.sevilleclassics.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Crimson at the OS level — Seville Classics sets #c82423 as its meta theme-color, meaning the browser chrome itself blushes red before a single pixel of the page loads. That signal carries through every primary CTA, sale badge, and urgency stripe, while the companion navy #003399 grounds the navigation bar, category headers, and structural promotional banners in a palette that reads simultaneously as authority and utility. The dual-anchor approach — warm red for action, cool navy for structure — runs through a type system that contrasts Playfair Display's editorial serif weight in hero headlines against Lato's workmanlike clarity in body copy and Source Sans Pro's crisp precision at UI scale. Buenard, a distinctive old-style serif with ink-trap cuts, surfaces in display-level lockups where the brand signals craft and permanence over commodity efficiency.
 
@@ -327,6 +331,13 @@ components:
 - Search bar transitions from inline header placement to a full-screen overlay triggered by the search icon on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

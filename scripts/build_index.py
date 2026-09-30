@@ -183,6 +183,7 @@ def write_status(manifest):
            'A reviewed hold is not a completed DESIGN.md. Historical files may be unverified; format validation is separate from visual fidelity. Counts include preserved historical URL aliases and do not claim global brand deduplication.','',
            '## Evidence coverage','','| Evidence status | DESIGN.md files |','|---|---:|']
     for status,n in sorted(Counter(r['evidence_status'] for r in manifest['sites'] if r['generated']).items()):lines.append(f'| {status} | {n} |')
+    lines+=['',f"Measured component references: **{counts['measured_references']}**. Recommended URLs: **{counts['recommended_sites']}**. Whole-site reconstruction verified: **0**.",'', 'Historical archive entries are retained for inspiration and excluded from default recommendations. See [recommended references](./RECOMMENDED.md).']
     lines+=['','## Unresolved sources','','| Remaining status | Unique URLs |','|---|---:|']
     for status,n in sorted(reasons.items()):lines.append(f'| {status} | {n} |')
     lines+=['','## Sites without documents','','| Brand | Source | Status | Checked | Reason |','|---|---|---|---|---|']
@@ -198,10 +199,10 @@ def write_status(manifest):
 def main():
     manifest = reconcile()
     counts = manifest["counts"]
-    if counts["generated_records"] != counts["validated_records"]:
+    if counts["generated_records"] != counts["validated_records"] or counts["needs_review_records"]:
         raise SystemExit("Collection has invalid generated files; run check_format.py before indexing")
     write_status(manifest)
-    completed = [r for r in manifest["sites"] if r["validated"]]
+    completed = [r for r in manifest["sites"] if r["admitted"]]
     primary = sorted((r for r in completed if not r["alias_of"]), key=lambda r: r["brand_name"].lower())
     buf = io.StringIO()
     writer = csv.writer(buf, lineterminator="\n")
@@ -226,6 +227,22 @@ def main():
             lines.append(f"- [**{row['brand_name']}**](./design-md/{row['slug']}/DESIGN.md) — {hook}")
         lines.append("")
     atomic_write(INDEX, "\n".join(lines))
+    # The default agent/human entry point only lists admitted source references.
+    recommended=[r for r in primary if r.get('recommended_reference')]
+    recommended.sort(key=lambda r:(not r['measurements_available'],r['brand_name'].casefold()))
+    ready=['# Recommended references','','[Full inventory](./INDEX.md) · [Evidence status](./STATUS.md) · [Historical archive](./HISTORICAL.md)','',
+           'Measured component references come first. CSS-only references contain proposed roles/layout. No entry is certified as a whole-site reconstruction.','',
+           '| Brand | Reference tier | Reference |','|---|---|---|']
+    for r in recommended:ready.append(f"| {r['brand_name']} | {'measured components' if r['measurements_available'] else 'CSS values / proposed layout'} | [Read](./{r['recommended_reference']}) |")
+    atomic_write(ROOT/'RECOMMENDED.md','\n'.join(ready)+'\n')
+    archive=['# Historical inspiration archive','','These documents have not passed current source revalidation. Do not use their numeric tokens as measured site specifications. Prefer [recommended references](./RECOMMENDED.md).','']
+    for r in primary:
+        if r['quality_tier']=='historical_archive':archive.append(f"- [{r['brand_name']}](./design-md/{r['slug']}/DESIGN.md) — unverified historical tokens")
+    atomic_write(ROOT/'HISTORICAL.md','\n'.join(archive)+'\n')
+    measured=['# Measured component references','','These record current observations, not validated full-site recreations.','']
+    for r in recommended:
+        if r['measurements_available']:measured.append(f"- [{r['brand_name']}](./{r['recommended_reference']})")
+    atomic_write(ROOT/'MEASURED.md','\n'.join(measured)+'\n')
     readme = ROOT / "README.md"
     text = readme.read_text()
     stats = ("<!-- collection-stats:start -->\n"

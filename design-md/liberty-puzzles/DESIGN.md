@@ -4,6 +4,10 @@ name: "Liberty Puzzles"
 source_url: "https://www.libertypuzzles.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Thick-cut maple and hand-painted whimsy pieces translate into a digital palette that refuses to shout over the artwork. The canvas rests at #f3f3f3 — warmer than clinical white, cooler than cream — a neutral paper-stock tone that lets full-bleed puzzle photography command the viewport without chromatic competition. Against that muted ground, a single saturated stroke of craft blue (#07529d) marks every actionable surface: add-to-cart buttons, link hovers, and category navigation underlines. It reads less like tech-product blue and more like the pigment in a woodblock print. A golden amber (#ffc863) arrives sparingly as a secondary voltage — star ratings, sale callouts, and hover highlights that warm the interface the way afternoon light hits a puzzle table. Type runs in Assistant, a geometric sans-serif from Google Fonts with open apertures and a softness that avoids both the sterility of Helvetica and the quirkiness of display faces. Headlines land at weight 700 in modest sizes (28–32px), trusting the product imagery to carry visual weight rather than oversized type. Body copy at 16px/1.6 in weight 400 breathes generously — puzzle descriptions can run long, and the line-height rewards readers who linger. Corners land at `{rounded.sm}` (8px) on cards and buttons, friendly without trending toward the pill-shaped playfulness of consumer apps; this is a brand that sells to adults who frame their finished puzzles. The dark ink (#121212) pairs with a secondary charcoal (#242833) for navigation and metadata, creating subtle hierarchy without resorting to pure black. Spacing is generous throughout — `{spacing.section}` (64px) separates content blocks, giving each puzzle collection room to be appreciated as a gallery rather than a feed.
 
@@ -377,6 +381,13 @@ components:
 - Announcement bar text truncates with ellipsis on very narrow screens; link preserved
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Barnana"
 source_url: "https://barnana.com"
 captured_at: "2026-09-29T04:00:16.989323+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Barnana's storefront runs on a Shopify theme with a warm, snack-food palette built around a
   deep teal (#108474), reinforced by the Judge.me review widget's primary/star color variables,
@@ -160,6 +164,14 @@ components:
 Touch targets should be at least 44px; nav and search affordances should collapse into a hamburger/icon pattern below the medium breakpoint. This table is a recommendation derived from CSS custom-property values present in the source, not a record of measured rendered behavior across devices.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

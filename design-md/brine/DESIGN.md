@@ -4,6 +4,10 @@ name: "Brine"
 source_url: "https://www.brine.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep red #ee283b — the color of a lacrosse ball fresh from the box — anchors every primary CTA, cart button, and scoreboard-style badge across Brine's digital presence. This is a brand built for the field, not the sideline: the palette draws from team uniforms (#cc0000, #008827) and game-day equipment (#b79e69 for leather, #141414 for cleats and padding), with a secondary green #008827 that appears on add-to-cart actions and category tags. The typography stack leans on Proxima Nova W01 as the workhorse display face, paired with system fallbacks that keep the site fast on mobile browsers during game-day traffic spikes. Navigation is lean — a single top bar with logo, search, cart, and account icons — and product cards use a clean white canvas (#ffffff) with subtle hairline borders (#d9d9d9) to separate items in grid views. The brand's voice is direct and competitive: headlines in bold weight, body copy in regular, and every button carries a full-radius pill shape (`{rounded.full}`) that echoes the silhouette of a goalie's chest pad. There is no decorative flourish — no gradient, no illustration, no hero video — just clear hierarchy, high-contrast CTAs, and photography of athletes in motion. The extracted palette includes a cluster of warm pinks (#fbcdd2, #f8abb2, #f79ea7) that likely belong to seasonal or clearance-banner treatments, and a set of teal tones (#0c5460, #abdde5) that may be checkout-widget or social-icon defaults. The core identity, however, is unmistakable: red and green on white, built for speed and clarity.
 
@@ -289,6 +293,14 @@ components:
 - Footer columns collapse to accordion sections on mobile, with the first column expanded by default
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

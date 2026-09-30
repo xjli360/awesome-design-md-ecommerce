@@ -4,6 +4,10 @@ name: "Poster Store"
 source_url: "https://posterstore.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   What immediately distinguishes the Poster Store interface is how little it asks you to notice it — flat black type on white, hairline dividers barely thicker than a photocopy, and a product grid that reads closer to a museum print shop's light table than a conversion-optimised storefront. The philosophy is zero-competition: every CTA, filter, and navigation link is rendered in {colors.primary} black or {colors.muted} grey against a clean {colors.canvas} white so that a vermillion abstract print or a pale sage botanical can exhaust the viewport without being undercut by brand chrome. Shape vocabulary leans toward the hard-cornered — {rounded.none} on buttons and inputs, almost architectural in its refusal of pill-shapes — which gives the configurator widgets (size selectors, frame pickers, paper-type toggles) a design-tool quality that flatters the audience of print buyers who care about paper weight and margin widths. Typography is set in a neutral grotesque at modest weights; display headings sit at weight 500 rather than the aggressive 700 favoured by promotional retail, trusting that a 36px title against 64px of white breathing room communicates hierarchy through space rather than mass. Product cards are frameless or nearly so, aligned to a tight four-column grid with {spacing.lg} gaps, each card showing an image in portrait 3∶4 ratio — the same proportion as the prints themselves — followed by title and price in two spare lines of text. Filter and category navigation live in a slim horizontal strip above the grid, labels switching from {colors.muted} to {colors.ink} with a hairline underline as the only affordance for active state. The frame configurator page is where the design takes its most considered form: size chips, frame-colour swatches, and quantity selectors are all held in clean bordered rectangles at the same height, creating a specification sheet aesthetic that makes selecting a 50×70 cm oak-frame feel like specifying a bespoke print order rather than adding to a shopping cart. Footer typography stays at caption scale in {colors.muted}, a deliberate step back that keeps the editorial calm intact all the way to the page edge.
 
@@ -370,6 +374,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

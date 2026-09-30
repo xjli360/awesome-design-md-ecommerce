@@ -4,6 +4,10 @@ name: "Barker Air & Hydraulics"
 source_url: "https://www.barkerair.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Amber voltage on charcoal iron — #ffc700 reads as a warning beacon under warehouse fluorescents, and Barker Air & Hydraulics deploys it against the extracted dark charcoal (#3f3f3f) with the same deliberate logic as a valve handle or high-vis stripe: unmistakable in peripheral vision, unambiguous under load. This is an unusual color contract for the hydraulics and pneumatics distribution category, where most suppliers default to safety red or corporate navy; Barker's amber-on-charcoal sidesteps both conventions and reads simultaneously as industrial caution stripe and specialist confidence without borrowing from either. On-primary text runs dark (#3f3f3f) rather than white — a practical accessibility call that holds legibility under direct light or degraded display conditions in the field settings where this brand's actual audience makes procurement decisions. Typography tokens were not recoverable from the live page, which appears to load assets through a JS bundle, so the spec below defaults to a geometric system sans across all scales. Component geometry stays hard-edged: {rounded.xs} and {rounded.sm} dominate, with no pill CTAs or softly curved cards — the vocabulary of industrial procurement portals, parts catalogues, and technical specification sheets rather than consumer e-commerce. Navigation sits on a deep charcoal ground ({colors.nav-bg}) with amber reserved for active states and hover highlights, a physical-world logic where amber means "active circuit" and dark means "at rest." Product cards use the white canvas surface with a thin hairline border and no drop shadow, letting part numbers and technical specifications carry visual weight instead of decorative chrome. Quote-request CTAs break the pattern with a full amber band across the viewport — the single moment the brand turns the signal to maximum intensity. Spacing stays functional rather than generous: internal padding at {spacing.sm} to {spacing.base} inside cards and buttons, section breaks at {spacing.section}. The system is built for scanning, not browsing — optimized to move a hydraulics technician from part search to quote request in the fewest possible steps.
 
@@ -381,6 +385,14 @@ components:
 - Footer columns collapse to a single stacked accordion layout on mobile with `{colors.primary}` amber expand indicators
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

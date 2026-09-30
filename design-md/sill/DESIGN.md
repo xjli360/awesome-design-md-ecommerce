@@ -4,6 +4,10 @@ name: "The Sill"
 source_url: "https://thesill.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep botanical green (#007b5f) anchors every interaction on thesill.com — add-to-cart buttons, sticky nav highlights, and loyalty badges all pulse with the same forest-floor hue, making the chrome feel like a living extension of the product photography. The page opens on a warm cream canvas (#fdf9f3) rather than clinical white, lending an earthy softness that keeps full-bleed plant imagery from feeling sterile. Display type is set in Domaine Display, a high-contrast modern serif whose thin hairlines and generous x-height evoke editorial botanicals more than garden-center signage; it pairs with Gill Sans for navigation and button labels, producing a serif/sans rhythm that separates content from commerce without friction. Card radii stay moderate (`{rounded.md}`) — friendly enough for a lifestyle brand, structured enough for a product grid that regularly holds 12+ SKUs. Near-black ink (#141414) sits atop the cream ground at a contrast ratio well above 7:1, and a second-tier dark (#2a2d2f) handles long-form care guides without the heaviness of pure black. The hairline system splits into two weights: #dedede for card borders and #e2e2e2 for dividers inside modals and drawers, giving layered surfaces subtle depth without extra shadow. A muted blue (#334fb4) appears sparingly — link underlines in care-tip articles and the occasional seasonal collection badge — providing a complementary cool note against the dominant green. Spacing follows a 4px grid with generous `{spacing.section}` gaps (64px) between homepage modules, letting each plant collection breathe as its own vignette. Product cards run full-bleed imagery with a `{spacing.sm}` gutter and overlay a translucent surface-soft (#f6f6f6) strip at the bottom for price and quick-add, ensuring imagery dominates the scroll.
 
@@ -387,6 +391,13 @@ components:
 - Homepage collection carousels switch from a static grid to a swipeable horizontal scroll with peek (next card partially visible).
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

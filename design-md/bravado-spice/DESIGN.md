@@ -4,6 +4,10 @@ name: "Bravado Spice"
 source_url: "https://bravadospice.com"
 captured_at: "2026-09-28T10:21:21.495811+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Bravado Spice's public CSS shows a Shopify storefront built on a light, food-forward palette anchored by a warm terracotta (#d9725b), a fresh herb green (#abd38a, customized into the Judge.me review-widget variables), and near-black ink (#000000) on a soft cream canvas (#fefaf9). A darker charcoal (#2f3132) appears as the page-builder's primary button color, while light peach (#fae8e3) and pale sage (#f5f7f2) function as soft surface tints suited to product cards and callouts. Typography is confirmed as Poppins across body copy, labels, and buttons (body: 400/16px/1.4em; buttons: 400/16px/1.2em), with heading weight set to 500 for h2-h6. The Shopify page-builder module additionally defines large-scale heading tokens (h1: 72px/90px/600/-0.02em; h2: 60px/72px/600/-0.02em) which this spec treats as observed display sizing. A custom asset named "AbolitionTest-RoundOblique" is present in the font stack and is inferred here as a possible bold display face for hero headlines, though its actual application in layout was not observed. Buttons show a 3px border-radius and 2px border stroke. Color-role assignments (primary, muted, hairline, surface tiers) are semantic inferences drawn from where each hex is most plausibly used, not confirmed computed styles.
 
@@ -143,6 +147,14 @@ components:
 Touch targets should be at least 44px in height for buttons and nav items on mobile. Mobile nav collapse, sticky elements, and grid column counts above are **recommended patterns**, not measured from live site behavior, since no responsive/media-query evidence or runtime screenshots were supplied.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

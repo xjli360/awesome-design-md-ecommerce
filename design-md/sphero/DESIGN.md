@@ -4,6 +4,10 @@ name: "Sphero"
 source_url: "https://sphero.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A bright, primary-blue (#18acf2) brand voltage that signals play-meets-pedagogy across every product tile, CTA, and navigation element — the same electric cyan that powers the Sphero BOLT's LED matrix and the brand's meta-theme bar. Against a near-black ink (#121212) and a warm neutral canvas (#e1e3e4), the system uses a restrained palette of four accent colors — a safety-orange (#f54055), a lime-green (#78d318), a deep purple (#5f249f), and a marigold (#ffb81c) — each mapped to specific product lines or learning stages, creating a color-coded curriculum without needing labels. Typography runs Montserrat at bold weights (700–900) for headlines and Roboto for body, a pairing that reads as authoritative but approachable, like a science textbook that doesn't lecture. Cards and buttons use a consistent {rounded.sm} corner radius, while hero sections and feature modules adopt {rounded.md} to create visual hierarchy through softness. The system avoids hard corners entirely except on data tables and code blocks, where {rounded.none} signals precision. Product cards stack on a white surface (#ffffff) with a subtle {spacing.base} gap, each card carrying a thin {colors.hairline} border that separates without shouting. The overall mood is optimistic and systematic — a classroom that feels like a playground, with every color and curve reinforcing the idea that coding is a creative act.
 
@@ -455,6 +459,13 @@ components:
 - Accordion content collapses by default on all breakpoints, expanding on click
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

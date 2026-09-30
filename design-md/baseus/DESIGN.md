@@ -4,6 +4,10 @@ name: "Baseus"
 source_url: "https://www.baseus.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A brand that lives in the gap between industrial reliability and a bright, almost playful confidence, Baseus anchors itself on a deep near-black ink (#282828) and a high-voltage marigold (#fdbc00) that appears on every primary action — add-to-cart buttons, promotional banners, and the glowing ring around product photography. The palette is unusually wide: alongside the core duo sit a cool technical blue (#00aeef) for secondary actions and link text, a safety green (#05d92d) for stock indicators and success states, and a sharp alert red (#dd2c00) for sale badges and urgency markers. The canvas is pure white (#ffffff) with a family of warm grays (#f5f5f5, #ececec, #dedede) that create soft surface hierarchy without ever feeling cold. Typography runs DM Sans at clean weights — display headlines sit at 500–600 weight, body copy at 400, and the system avoids heavy 700+ except in micro-labels and badges. Corners are modest: buttons use {rounded.sm} (8px), product cards use {rounded.md} (12px), and the only {rounded.full} tokens appear on search inputs and icon badges. The overall mood is "workshop-meets-marketplace" — the black-and-yellow palette recalls tool brands and safety equipment, but the generous whitespace, soft grays, and DM Sans curves keep it from feeling harsh. Every component feels engineered for clarity: high-contrast text on buttons, clear hover states on cards, and a navigation system that prioritizes category discovery over brand storytelling.
 
@@ -515,6 +519,14 @@ components:
 - Cart page collapses multi-column table to stacked item rows on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

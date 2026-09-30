@@ -4,6 +4,10 @@ name: "Nette"
 source_url: "https://nettenyc.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A clean, sustainable fragrance house that lives in the electric tension between high-voltage chartreuse and deep, serious indigo. The brand’s signature move is a neon-lime green (#e5ff01) that feels like a lightning strike against a midnight-blue (#001da3) background — a pairing that reads as both eco-conscious and quietly luxurious. The palette is built on a warm off-white canvas (#fcfbf9) with soft surfaces (#f7f9fa) and a secondary blue (#0022bc) that adds depth to buttons and accents. The typography is a study in contrast: the geometric precision of Instrument Sans for body text, paired with the quirky, mono-spaced character of Lars Mono for display and labels — a nod to both Scandinavian minimalism and the brand’s technical, ingredient-forward ethos. Rounded corners are generous but not pillowy: cards and inputs use {rounded.sm} (8px) while buttons and badges lean into {rounded.md} (12px). The overall effect is a space that feels lab-clean but warmly human, where a lime-green CTA pulses against a navy field like a botanical extract under a microscope. The brand trusts color as its primary emotional signal — there is no heavy photography or illustration — relying instead on flat, saturated swatches and clean typographic hierarchy to convey its clean-beauty mission.
 
@@ -361,6 +365,13 @@ components:
 - The search bar becomes a full-width input below 744px, replacing the inline pill.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

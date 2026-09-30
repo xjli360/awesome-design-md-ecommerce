@@ -4,6 +4,10 @@ name: "Red Paddle Co"
 source_url: "https://redpaddleco.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Red names itself twice — the company and the color are the same declaration. Every primary CTA, nav hover-state, and hero overlay runs on #aa0000, a deep crimson that sits closer to a safety flag snapped taut in offshore wind than fire-engine scarlet, and the palette never drifts warm enough to soften it. Against a near-black canvas of #121212 and #222222, this red fires like a warning signal rather than a brand choice, which is precisely the point for a company selling equipment designed to perform in conditions that punish the underbuilt. The secondary steel-blue register — #3c4862 anchoring body copy, #6887a0 softening supporting captions — draws from the tonal family of open water at depth, grounding the palette in the environment the boards actually inhabit without resorting to literal wave illustrations. A warm amber-orange (#f48037) surfaces on promotional chips and urgency badges, providing thermal contrast against the cool water tones and breaking the red-dark-grey monotony in editorial sections; the tan-wood note (#b6855a) appears in paddle-grain imagery zones and warm rule lines, adding material texture to what would otherwise read as purely digital-industrial.
 
@@ -355,6 +359,13 @@ components:
 - Footer: four-column link grid collapses to two columns on tablet, single-column accordion on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

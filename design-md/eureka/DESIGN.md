@@ -4,6 +4,10 @@ name: "Eureka"
 source_url: "https://www.eureka.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Amethyst where most floor-care brands reach for navy or safety red — Eureka stakes its entire CTA system on a saturated #70377c, a hue more at home in cosmetics packaging than in the chrome-and-beige world of vacuum design. That choice radiates outward: a muted sibling #ae81ac absorbs disabled states and soft hover fills, while #7037cc, a cooler violet, surfaces in accent contexts and feature call-outs, giving the palette tonal range uncommon in the appliance category. The near-white canvas sits at #fafafa rather than pure white, cutting glare on long product-browsing sessions; three further off-whites (#f6f6f6, #f5f5f5, #efefef) build a depth system — page canvas, section fill, card surface, inset — all distinguishable without heavy shadow lifting. Type runs primarily in Gotham, a geometric grotesque whose mechanical precision aligns with product photography of motors, cyclone chambers, and HEPA filtration stacks; Sk-Modernist and Modernist Bold carry display headings with more editorial authority at larger sizes. Buttons sit at {rounded.sm} (8px) — confident and utilitarian without harshness. Product cards step to {rounded.md} (12px) to soften the grid, while site-wide promo banners break to {rounded.none} for full-bleed authority. Dark text anchors on #1d1d1f, an Apple-ecosystem near-black that pairs cleanly with Gotham's neutrality; body copy steps back to #434343 and secondary labels fade to #949494. Hairlines at #dedede and fills at #f6f6f6 form the quiet three-layer depth: the whole system reads less like a home-appliance catalog and more like a consumer-electronics storefront — tightly spaced product grid, photography-led hierarchy, purple-on-near-white primary actions that make the brand's anchor hue feel deliberate rather than inherited.
 
@@ -370,6 +374,13 @@ components:
 - Footer four-column link grid collapses to single-column accordion on mobile, headings as expand/collapse triggers
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

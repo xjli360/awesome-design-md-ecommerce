@@ -4,6 +4,10 @@ name: "CalDigit"
 source_url: "https://www.caldigit.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, saturated #003399 blue anchors CalDigit's digital presence — a color that reads as both technical authority and premium restraint, far from the generic tech blues of the extracted palette. This primary blue, paired with a secondary #003388 that adds depth, creates a system that feels engineered rather than decorated. The brand's tagline — "Considerate. Authentic. Design." — manifests in a design language that prioritizes clarity over flash: white canvas (`{colors.canvas}`), crisp Roboto typography, and generous spacing that lets product photography breathe. The extracted palette reveals a surprising range of accent colors (#ff0000 for alerts, #fcb900 for highlights, #00d084 for success states) that suggests a complex product ecosystem — docking stations, hubs, cables, and accessories — each potentially color-coded for quick identification. The meta theme-color of `#000` signals a dark-mode readiness or a footer/hero treatment that plunges into black, creating dramatic contrast against the blue-and-white primary system. The brand's voice is direct and specification-forward, but the design softens this with rounded corners (`{rounded.sm}` on buttons, `{rounded.md}` on cards) that prevent the interface from feeling cold. The extracted font stack — Roboto, Arial — is utilitarian and highly legible, chosen for readability across technical spec sheets and product comparison tables. The overall impression is of a brand that knows its audience (IT professionals, creative pros) and serves them with minimal friction: every pixel justified, every color intentional, every interaction predictable.
 
@@ -485,6 +489,13 @@ components:
 - Image galleries collapse to single-image carousel with dot indicators on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

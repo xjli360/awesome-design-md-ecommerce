@@ -4,6 +4,10 @@ name: "Z Candles"
 source_url: "https://zcandlestudio.com"
 captured_at: "2026-09-28T10:09:46.731748+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Z Candles is a Shopify storefront for a hand-poured soy candle and soap
   brand, evidenced by copy describing amber glass vessels, cotton wicks and
@@ -153,6 +157,12 @@ components:
 Recommended, not measured, breakpoints: mobile ≤599px, tablet 600–899px, desktop ≥900px, wide ≥1200px. Nav collapses to a hamburger/drawer pattern below tablet, consistent with the theme's `.site-header__mobile-nav` rule, though exact trigger width was not observed. Product grids are proposed to step from 1 column (mobile) to 2–3 (tablet) to 3–4 (desktop). All interactive targets (buttons, nav links, cart icon) should maintain a minimum 44×44px touch target regardless of the compact 2px button radius. This section is a design recommendation only; no live responsive behavior was captured from the source.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

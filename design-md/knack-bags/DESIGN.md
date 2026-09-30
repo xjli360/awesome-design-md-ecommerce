@@ -4,6 +4,10 @@ name: "Knack Bags"
 source_url: "https://knackbags.com/"
 captured_at: "2026-09-29T04:15:44.369194+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Knack's storefront runs on a Shopify Dawn-derived theme, evidenced by the
   base.css custom-property system (--color-base-*, --duration-*) and a
@@ -158,6 +162,12 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets for swatches and buttons should be at least 40–44px. Nav collapse threshold is proposed, not confirmed by observed markup or JS behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Farberware"
 source_url: "https://www.farberwareappliances.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   One hundred and twenty-six years of stamped-steel heritage distilled into a countertop-appliance portal — Farberware's digital presence leads with product photography at near-catalog scale, letting stainless-steel drums and matte-black control panels speak before a single headline loads. The palette anchors on a deep navy (#1a2b4a) pulled from the brand's long-standing wordmark, paired with a warm signal red (#c8102e) that marks CTAs and sale callouts the way a power indicator LED marks an appliance as "on." Body copy sits in a neutral charcoal (#333333) over a bright white canvas (#ffffff), while product cards float on a barely-warm gray surface (#f5f5f5) that reads like brushed aluminum under studio light. Typography leans on a geometric sans-serif stack — likely system-loaded via JS bundles that the crawler could not intercept — set at utilitarian weights: 600 for headlines, 400 for body, 700 for buttons. Corners stay conservative: `{rounded.sm}` on cards, `{rounded.xs}` on inputs and badges, `{rounded.none}` on the navigation bar itself, reinforcing a precision-engineered appliance identity rather than a lifestyle-soft one. Spacing is generous vertically (`{spacing.section}` between feature blocks, `{spacing.xl}` inside product grids) but compact horizontally, reflecting a layout optimized for spec-comparison shopping. The overall impression is a showroom floor rendered in HTML — clean sightlines, ample breathing room around hero product shots, and UI chrome that recedes behind the merchandise.
 
@@ -365,6 +369,13 @@ components:
 - Search bar moves from inline nav element to full-width overlay triggered by icon tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

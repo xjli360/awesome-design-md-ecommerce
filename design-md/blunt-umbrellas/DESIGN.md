@@ -4,6 +4,10 @@ name: "Blunt Umbrellas"
 source_url: "https://bluntumbrellas.com"
 captured_at: "2026-09-28T04:37:27.157291+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Blunt Umbrellas' storefront draws from a restrained neutral system anchored by a dark charcoal
   (#262525) body-text color and near-black (#232323) button surfaces, set against white and
@@ -160,6 +164,14 @@ The following breakpoint table is a proposed recommendation only; no responsive/
 Touch targets should maintain a minimum of 44px in the tallest dimension, consistent with the accelerated-checkout button's `clamp(25px, …, 55px)` sizing observed in Shopify's payment-button CSS. Navigation collapse behavior, swatch-selector tap sizing, and card-grid column counts are proposed conventions, not measured from live site rendering.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

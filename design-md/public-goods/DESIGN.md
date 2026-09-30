@@ -4,6 +4,10 @@ name: "Public Goods"
 source_url: "https://www.publicgoods.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Public Goods is a direct-to-consumer brand that strips away the noise of traditional consumer goods with a clean, utilitarian aesthetic. The brand's visual language is anchored on a near-black ink (#080808) and a warm off-white canvas (#f5f5f5), creating a high-contrast foundation that feels both premium and approachable. Signature design moves include generous use of negative space, thin hairlines (#d8d8d8) that define card boundaries without visual weight, and a restrained color palette where muted grays (#7d7d7d, #8c8c8c, #999999) carry secondary information while a single accent blue (#4469af) provides the only chromatic voltage across CTAs and links. The typography system blends a condensed display face (BebasNeue) for headlines with a clean, humanist sans-serif (Nunito Sans) for body copy, creating a distinctive rhythm where bold, all-caps headers sit above light-weight body text. Product photography is given maximum breathing room with `{spacing.section}`-scale padding, and every interactive element — from buttons to input fields — uses `{rounded.sm}` (8px) corners that feel intentional without being overly soft. The overall effect is one of quiet confidence: a brand that trusts its product quality over promotional noise, using `{colors.ink}` (#080808) typography on `{colors.canvas}` (#f5f5f5) backgrounds as its primary communication channel, with `{colors.primary}` (#4469af) reserved exclusively for moments of action.
 
@@ -351,6 +355,13 @@ components:
 - Product image galleries collapse from thumbnail strip to swipeable dots on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

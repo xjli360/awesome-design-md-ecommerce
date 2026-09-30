@@ -4,6 +4,10 @@ name: "Ilve"
 source_url: "https://www.ilveusa.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The front face of an Ilve professional range ships in over thirty custom enamel finishes — celadon, cobalt, aubergine — but the digital counterpart grounds itself in something closer to the appliance's own cold-rolled steel. A deep teal-navy (#165c7d) sits at the center of every primary action, reading somewhere between a professional kitchen wall and a Ligurian harbor at dusk. It anchors CTA buttons, active nav states, and the left accent border of the configurator panel, while a companion deep navy (#003971) moves beneath it as the weight behind section headers, footer backgrounds, and dark-mode hero modules. Red (#ff0000) surfaces only where a pilot light would — warning messages, out-of-stock flags, hard-stop validation errors — never decoratively, keeping the overall palette as composed as the cast-iron grates the brand is known for. The neutrals extracted from the site read like brushed steel and matte enamel in digital form: a near-black charcoal (#444444) holds body copy, a mid-gray (#6a6c6c) handles dimension callouts and spec labels, and a pale silver (#e3e3e3) rules hairline borders and alternating spec rows. The font extraction returned a contaminated stack (Mothercare 2020, from an unrelated children's apparel brand injected via a compromised page title) and cannot be trusted; the typographic system below substitutes a precise geometric sans appropriate to Italian precision manufacturing, set at light-to-medium weights — 300 for display, 400 for body — because the photography and range silhouettes provide the visual mass. Components carry {rounded.xs} and {rounded.sm} geometry throughout. There are no pill buttons, no softened modal corners, no full-radius anything except the color-swatch circles in the configurator. Layout breathes at {spacing.section} vertical rhythm in product photography zones and pulls in to {spacing.lg} gutters for spec tables and comparison modules — enough information density to support a considered luxury purchase, never so compressed it reads as fine print.
 
@@ -355,6 +359,13 @@ components:
 - Hero typography steps down one scale per breakpoint: `display-xl` on desktop, `display-md` at tablet, `display-sm` at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

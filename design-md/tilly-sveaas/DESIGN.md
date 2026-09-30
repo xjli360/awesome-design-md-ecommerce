@@ -4,6 +4,10 @@ name: "Tilly Sveaas"
 source_url: "https://www.tillysveaas.co.uk"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Two typefaces divide the site into two distinct grammars: Gaisyr Light handles every editorial moment — campaign headlines, collection introductions, long-form copy — while Gaisyr Mono claims the product layer entirely, appearing on prices, material descriptors, nav links, and filter labels. The split gives pages the feel of a printed archive where story and commerce are typographically separated rather than stylistically blurred. The palette is stranger than it first looks: a cool seafoam mint (#e6f7f4) functions as the brand's ambient field color, surfacing behind editorial text sections and campaign imagery, which is an atypical move for demi-fine — most brands in this space stay in warm creams or pale blush. A champagne gold (#dec292) grounds the mint in something mineral and warm, appearing on material chips and plating callouts. Calls-to-action run near-black charcoal (#272727), reading at high contrast without the harshness of pure black. Steel-blue gray (#b1b7c3) and its desaturated sibling (#999ea8) carry secondary text, placeholder copy, and form states, giving the UI a cool-toned neutrality that sits comfortably beside the mint. Corners lean sharp — `{rounded.xs}` on buttons and `{rounded.none}` on cards — with no pill shapes in the brand-facing UI, a choice that echoes the geometry of precise metalwork. Navigation is typographically minimal: Gaisyr Mono in fine uppercase tracking across a slim top bar, no icons, product categories accessed through clean horizontal links. Deep navy (#121f36) appears in the darkest overlay and footer states. Photography carries the retail weight; the design system's job is to stand aside and not interrupt it.
 
@@ -316,6 +320,13 @@ components:
 - Editorial band switches from side-by-side text-image to stacked text-over-image on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

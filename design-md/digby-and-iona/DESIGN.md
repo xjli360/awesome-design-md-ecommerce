@@ -4,6 +4,10 @@ name: "Digby & Iona"
 source_url: "https://www.digbyandiona.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Mrs. Eaves arrives in five distinct OpenType cuts — roman base, lining figures, small caps, petite caps, and all-petite-caps — a typographic investment more common to a university press than a Shopify storefront, and the single sharpest signal of the brand's ethos: Digby & Iona treats the wedding band not as an accessory purchase but as an heirloom decision, and every layout choice follows from that premise. The champagne field (#eacea7) — warm, slightly sandy, the color of antique gold held in afternoon light — anchors accent surfaces and hero grounds against near-black text (#121212, #191919), a contrast that reads as candlelit intimacy rather than clinical precision; deep navy (#202a36) carries long-form editorial copy while amber (#feb035) and warm orange (#fe9001) surface at CTA moments and price callouts, echoing the oxidized-gold patina of the bands themselves. The Shopify foundation (Wokiee theme, betrayed by the wokiee_icons font) gives a structured grid skeleton that the brand dresses in period detail: small-caps labels sit inside `{rounded.none}` hard-edged cards that feel engraved rather than printed, and inter-section breathing room is generous enough that the page earns its whitespace rather than apologizing for sparse catalog depth. Silver (#c0c0c0) and warm gray (#dedede) frame hairlines and secondary surfaces, keeping visual weight concentrated on the champagne accent and product photography. Ring swatches are the one exception to the no-radius rule — 32px circles (`{rounded.full}`) that reference the literal form of the object being sold. The five-variant type system signals that every word on the page was chosen as deliberately as the metal and stone choices in the catalog.
 
@@ -328,6 +332,13 @@ components:
 - PDP layout: two-column image+details → single column stacked at tablet; engraving callout moves below size selector on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

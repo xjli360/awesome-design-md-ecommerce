@@ -4,6 +4,10 @@ name: "Electro-Harmonix"
 source_url: "https://www.ehx.com"
 captured_at: "2026-09-28T05:07:31.200858+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Electro-Harmonix's storefront markup exposes a functionally monochrome working
   palette: pure black (#000000) and white (#ffffff) anchor page-header and
@@ -143,6 +147,13 @@ components:
 Recommended, not measured breakpoints: `sm` ≤480px (single-column product grid, stacked nav collapsed to a hamburger/search icon), `md` 481–768px (2-column product grid), `lg` 769–1279px (3–4 column grid, inline nav), `xl` ≥1280px (content capped near the theme's `--wp--style--global--content-size: 1300px`). Touch targets for buttons and nav items should target a minimum 44×44px hit area; the primary nav's category flyout (Pedals, By Category, News & Videos) should collapse into an accordion on mobile. This section is a proposed convention derived from the theme's max-width token, not an observed responsive audit.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

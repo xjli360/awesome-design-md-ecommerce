@@ -4,6 +4,10 @@ name: "Rains"
 source_url: "https://rains.com"
 captured_at: "2026-09-28T10:22:42.894674+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Rains presents a minimalist, monochrome-led storefront built around a near-black ink (#10100f) paired with pure white and a tight run of warm-to-cool grays (#f9f9f9, #f5f5f5, #e5e5e5, #dedede, #cfcfcf, #797979). These neutrals dominate the observed CSS and read as the functional backbone for text, hairlines, and surface layering rather than decoration. A secondary cluster of muted earth and slate tones (#938b78, #2e5579, #a45b55, #7d6660, #5e473d, #b18a51, #c5ad89, #019e81, #d29c84) appears alongside product-variant language in the page text ("2 colors", "6 colors") and is treated here as inferred swatch/variant chip colors for bags, not core brand color. Bright hues (#eb001b, #ff5f00, #0071ce, #2563eb, #ffc500) map to payment-method iconography (Visa/Mastercard/Amex/Apple Pay) and are explicitly excluded from the brand palette.
   Typography draws on two observed custom families, EuropaGroNr2SB and EuropaGroNr2SH, layered over the system sans-serif stack as fallback; weight and usage split (display vs. body) is inferred from naming, not measured. The interpretation favors tight letter-spacing on display sizes, generous whitespace, and a restrained button/border system consistent with a technical-outerwear-and-bags retailer. No button color, radius, or interaction state was directly observed in the supplied CSS beyond the hero button's translucent white overlay, so primary CTA styling below is a grounded but inferred proposal using the dominant ink/white pairing.
@@ -152,6 +156,12 @@ This is a recommended, unmeasured breakpoint scheme, not observed site behavior:
 Touch targets for buttons/badges should be at least 44×44px; nav mega-menu items and device-fit badges should collapse into an accordion or drawer below the tablet breakpoint. All values above are proposed defaults, not extracted from live layout.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered layout, computed styles, hover/focus/active states, or JavaScript-driven interactions were observed. Color-to-role mapping (primary, body, muted, etc.) is inferred from selector context and general minimalist-retail convention, not confirmed against live component screenshots. The earth-toned "swatch-*" colors are inferred as product-variant options based on nearby "N colors" text but were not directly tied to bag SKUs in the supplied evidence. EuropaGroNr2SB/SH are treated as the brand's custom typeface family names as they appeared in `font_families`, but weight assignment (SB vs. SH), licensing, and web-font availability/fallback behavior were not verified. Spacing and radius scales are proposed conventions, not measured from CSS. Payment-brand colors (Visa/Mastercard/Amex/etc.) were identified by hue association and excluded from the brand palette, but this exclusion is a judgment call, not a certainty. Mobile menu, cart drawer, and search overlay behavior were not observed and are described only as proposed patterns.

@@ -4,6 +4,10 @@ name: "Peter Pots Pottery"
 source_url: "https://peterpots.com"
 captured_at: "2026-09-29T04:14:03.912484+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Peter Pots Pottery is a family stoneware studio in Rhode Island operating since 1948, selling
   tableware, servingware, bakeware, and home/garden pieces through a Shopify-style storefront.
@@ -160,6 +164,13 @@ This is a recommendation only; no live breakpoints, media queries, or mobile lay
 Touch targets for buttons and swatches should be at least 44×44px per common accessibility guidance (proposed, not verified against live markup). Navigation should collapse into a disclosure/hamburger pattern below `md`; this collapse behavior was not observed and is a standard e-commerce inference.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

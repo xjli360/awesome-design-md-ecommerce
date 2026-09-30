@@ -4,6 +4,10 @@ name: "Steiner Sports"
 source_url: "https://www.steinersports.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every product page on Steiner Sports functions as a certificate of authenticity first and a shopping experience second — the design language is built around credentialing: serial-number holograms, league-official lockups, and the dense, championship-banner typography that communicates provenance rather than aspiration. The primary palette anchors on a deep navy approaching near-black (#0e1a2b), punctuated by a championship red (#c8102e) that routes every primary CTA, sale badge, and authentication callout. A muted gold (#c9a84c) surfaces on premium tiers — Hall of Fame editions, Yankee Stadium seat collections, rookie-year signings — functioning as a rarity signal rather than a general accent. Canvas stays white with a light warm-gray surface (#f5f5f5) for card grids, keeping photography of jerseys, bats, and signed helmets as the primary visual event. Typography skews toward compressed, all-caps headline stacks with tight tracking — the kind of weight an arena scoreboard uses — while body copy stays in a utilitarian sans-serif that does not compete with product imagery. The product card is the core workhorse: a ratio-locked photograph of the item, an athlete name in bold title text, a sport/team badge, a price in red, and an authenticated-by ribbon along the lower edge. Authentication is a product feature, not fine print: "100% Authentic" banners and hologram-badge graphics appear in the component layer at roughly the same visual weight as product titles. Navigation carries a top-bar mega-menu segmented by sport (MLB, NFL, NBA, NHL, Soccer) and by format (Autographs, Game-Used, Photos, Framed), with a secondary strip for clearance and featured athlete drops. The overall mood is trophy-case gravity — serious about provenance, leaning into the collector's trust that a serialized sticker and a league hologram confer — rather than the lifestyle-forward softness of a modern DTC apparel brand.
 
@@ -380,6 +384,13 @@ components:
 - Athlete spotlight section reflows from horizontal band to stacked card on tablet and below
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

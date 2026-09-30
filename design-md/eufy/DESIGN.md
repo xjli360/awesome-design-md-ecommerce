@@ -4,6 +4,10 @@ name: "Eufy"
 source_url: "https://www.eufy.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Clean anthracite (#1d1d1f) and near-void black (#080a0f) frame every hero section, throwing product photography into high-contrast relief — a staging technique borrowed from consumer electronics that positions Eufy as a device company selling robovacs and security cameras as premium hardware rather than commodity appliances. The primary interactive blue is #005d8e, deliberately desaturated and deep, sitting closer to a nautical or industrial reference than the cheerful azures most tech brands default to; it imparts authority to CTAs without reading as promotional or urgent. A secondary sky burst at #10b5ec handles animated feature callouts, specification number highlights, and progress indicators, while coral #f84d4f marks sale badges, alerts, and limited-time interrupts — never touching primary navigation. A further sky variant at #00a7e1 appears on hover states and icon accents, extending the blue family across three luminosity bands without introducing a second hue family. Typography runs DINNextLT — a geometric sans drawn from German engineering practice and transit signage — for all interface text and spec tables, lending watt counts, Pascal ratings, and battery runtimes an air of instrumentation rather than marketing copy. The proprietary Mach and Mach Tera families carry display-scale headlines: names evoking speed and scale that reinforce suction-power claims and run-time figures without asking the body copy to perform. Cards and modal surfaces sit on soft #f5f6f7 canvas using tight {rounded.sm} corners — closer to flat than rounded, deliberately resisting the pillowed shapes of consumer-app brands — while the dark-to-light page cadence (hero in near-black, features in warm gray, footer reverting to dark) gives a cinematic pacing unusual in the home robotics category. The system is designed to make hardware specifications feel legible as design values: large numeral callouts in spec-value scale, uppercase DINNextLT labels above each figure, and generous {spacing.section} vertical rhythm let the engineering substance breathe before the next CTA appears.
 
@@ -424,6 +428,13 @@ components:
 - Ecosystem badge chips wrap to two lines on narrow mobile rather than scrolling horizontally
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

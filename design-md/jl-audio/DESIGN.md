@@ -4,6 +4,10 @@ name: "JL Audio"
 source_url: "https://jlaudio.com"
 captured_at: "2026-09-29T04:07:38.213567+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from JL Audio's current product presentation on Garmin's
   commerce platform (garmin.com/en-US/c/jlaudio/), reflecting Garmin's ownership of the
@@ -170,6 +174,13 @@ Recommended breakpoints, adapted directly from the observed `--g-breakpoint-*` c
 Below `sm`, navigation is proposed to collapse into a hamburger/off-canvas menu, and product-card grids proposed to drop from multi-column to single/double column. Touch targets are recommended at a minimum 44×44px for buttons and nav items. This table is a recommendation based on the observed CSS variables, not measured interactive site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

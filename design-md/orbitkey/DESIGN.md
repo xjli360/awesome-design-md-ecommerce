@@ -4,6 +4,10 @@ name: "Orbitkey"
 source_url: "https://www.orbitkey.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A single marigold stripe (#ffcf2a) cuts through an otherwise near-monochrome system — it appears on the primary CTA, as the thin 2px underline beneath active nav links, and as the column heading color inside a dark navy footer, while every surrounding surface holds to a charcoal-to-off-white band from #373737 down to #f8f8f8. Suisse Intl, the typeface of Swiss precision manufacturing, carries all text at near-zero letter-spacing: weight 700 for the wordmark and display headings, weight 600 for product names and CTAs, weight 400 for running copy — the scale is narrow by design, letting spatial hierarchy do what weight contrast might otherwise overwork. The secondary palette adds two chromatic punctuation marks: #3c55e4 (electric blue) marks sale callouts and interactive focus rings, while #b2f9e9 (mint) surfaces on eco-material badges and success confirmations — brief flashes of color in a system that otherwise earns its chromatic restraint.
 
@@ -394,6 +398,13 @@ components:
 - Hero video pauses and falls back to poster image on reduced-motion or low-bandwidth conditions
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

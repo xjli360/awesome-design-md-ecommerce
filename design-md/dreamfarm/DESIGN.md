@@ -4,6 +4,10 @@ name: "Dreamfarm"
 source_url: "https://dreamfarm.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Dreamfarm is a kitchen tools brand that feels like a well-loved wooden spoon — warm, approachable, and quietly clever. The palette is anchored by a deep, almost-black ink (`#0e1311`) that gives way to a soft body text (`#333333`) and a muted secondary (`#555555`), creating a reading experience that is calm without being sterile. The brand's signature energy comes from a teal-green primary (`#11b1a7`) that appears on CTAs, badges, and accent elements, supported by a brighter cyan (`#00a6ce`) and a coral-red (`#e7656e`) that adds playful tension. A warm amber (`#ffb846`) and a soft mint (`#5ddab1`) round out the palette, giving Dreamfarm a distinctly optimistic, food-friendly feel. The canvas is a clean white (`#ffffff`), with surface-soft (`#f0f0f0`) and hairline (`#dddddd`) creating subtle depth without visual noise. Typography relies on system-native sans-serifs (`-apple-system, BlinkMacSystemFont, Liberation Sans, Segoe UI, Segoe UI Adjusted, sans-serif`), suggesting a pragmatic, performance-minded approach — no custom typeface, just reliable readability. Rounded corners are generous but not cartoonish: buttons use `{rounded.sm}` (8px), cards use `{rounded.md}` (12px), and the search bar uses `{rounded.full}` (9999px) for a friendly, tactile feel. The overall mood is that of a trusted kitchen companion — confident enough to use bold color, humble enough to let the product photography do the heavy lifting.
 
@@ -410,6 +414,13 @@ components:
 - Secondary navigation (category strip) collapses into a horizontal scrollable strip on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

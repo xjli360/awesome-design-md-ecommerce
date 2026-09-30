@@ -4,6 +4,10 @@ name: "Finex"
 source_url: "https://finexusa.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Finex is a cast iron cookware brand that feels both heirloom and industrial, grounded in a deep, earthy green (#108474) that appears across primary buttons, badges, and accent elements. The brand's visual identity is built on a warm, slightly off-white canvas (#f9fafb) with soft surfaces (#f2f2f2, #eeeeee) that evoke the patina of well-seasoned iron. Typography relies on a clean sans-serif stack (Jost, Nunito Sans, Arial) with generous letter-spacing in display sizes, creating a modern, approachable feel that contrasts with the ruggedness of the product. Signature design moves include the use of a warm gold accent (#cb932d, #fbcd0a) for highlights, badges, and secondary CTAs, and a consistent application of soft rounded corners (`{rounded.sm}` to `{rounded.md}`) on cards and buttons that soften the industrial material. The mood is confident and craft-forward — dark ink (#333333, #161616) on light canvas, with muted text (#555555, #666666) for secondary information, and a hairline (#dddddd, #cccccc) that defines product cards and input fields without adding visual noise. The brand trusts photography of its cast iron in use over heavy typographic hierarchy, and the color palette supports this with a restrained range of neutrals punctuated by that signature green and gold.
 
@@ -311,6 +315,13 @@ components:
 - Search bar reduces in width and may move to a full-screen overlay on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

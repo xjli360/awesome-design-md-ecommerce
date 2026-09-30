@@ -4,6 +4,10 @@ name: "Common Era"
 source_url: "https://www.commonera.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Molten wine (#64242f) sits in the meta theme-color slot — a choice that announces Common Era as a brand fluent in the visual language of oxidized bronze, ochre pigment, and the deep-red ink of ancient manuscripts. Most demi-fine brands reach for black or neutral cream as their primary voltage; here the primary CTA and brand anchor is the color of a dried pomegranate, of blood-red carnelian, of the rarest Roman murex dye. Cormorant handles the entire display register at weight 300–400, its hairline serifs mimicking the incised strokes of stone inscription; EB Garamond runs body copy with the unhurried clarity of a printed codex. Neither font has ever been selected for modernity.
 
@@ -321,6 +325,13 @@ components:
 - Footer columns stack vertically at < 744px; the 2px wine top border remains visible as an anchor
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

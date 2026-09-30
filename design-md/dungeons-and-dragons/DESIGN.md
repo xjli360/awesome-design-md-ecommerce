@@ -4,6 +4,10 @@ name: "Dungeons & Dragons"
 source_url: "https://dnd.wizards.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, saturated #de8435 — the color of aged parchment, dragon-scale, and well-worn rulebooks — anchors the Dungeons & Dragons brand as the single accent voltage across a cool, misty canvas of #bdd6e6, a pale blue that reads like morning fog over a fantasy landscape. The site’s visual language is built on a tension between the arcane and the accessible: sharp, angular badges with {rounded.none} corners sit alongside pill-shaped CTAs at {rounded.full}, while the primary button’s {rounded.sm} offers a middle ground. The typography, set in a robust sans-serif with generous tracking on display sizes, carries the weight of epic storytelling without resorting to medieval pastiche — no faux-gothic serifs, no drop caps. Navigation is a dark, full-width band that anchors the page, with a search bar that appears only on interaction, preserving the immersive canvas. Product cards for sourcebooks and adventures use a soft {rounded.md} and a subtle shadow, letting cover art do the heavy lifting. The brand trusts its imagery — sprawling dragon art, character illustrations, and map fragments — over decorative UI chrome. The result is a portal that feels both ancient and immediate: a tavern common room rendered in CSS, where the hex codes themselves tell a story of treasure maps and twilight skies.
 
@@ -359,6 +363,13 @@ components:
 - Badge text truncates to "NEW" or "SALE" on mobile, with full text on hover/tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

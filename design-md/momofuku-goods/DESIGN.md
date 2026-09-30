@@ -4,6 +4,10 @@ name: "Momofuku Goods"
 source_url: "https://shop.momofuku.com/"
 captured_at: "2026-09-29T04:11:19.395863+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Momofuku Goods is David Chang's direct-to-consumer pantry line (chili crunch,
   seasoned salts, noodles, and new sauces), presented on the shop.momofuku.com
@@ -166,6 +170,13 @@ Recommended, not measured, breakpoints:
 Touch targets for buttons and filter pills should maintain a minimum ~44px hit area even where visual padding is smaller (some observed CSS uses fixed 1.25rem icon buttons, which is below this minimum and should be expanded via invisible padding on touch). Category filter pills and carousel arrows should remain horizontally scrollable/swipeable on narrow viewports. This section is a design recommendation only; no live responsive behavior was captured.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is built from static CSS/text extraction only — no rendered screenshots, computed layout, or DOM interaction were observed, so exact spacing, grid columns, and breakpoints are proposed, not measured. Color-role assignments (e.g., which palette hex is "primary" vs. an incidental widget color from the Junip reviews integration) are inferred from selector context and may not match the brand's actual internal design tokens. "MomoSharpie" is named only via a `.fonts-loaded` selector; its glyph design, weight range, and licensing/availability for reuse are unverified. Interaction states (hover, focus, disabled) beyond the one `.is-active` filter example were not present in the supplied evidence and are marked proposed. Mobile/tablet layout, navigation collapse behavior, and cart/checkout UI were not observed at all and are extrapolated from general e-commerce conventions.

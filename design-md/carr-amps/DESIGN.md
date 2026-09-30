@@ -4,6 +4,10 @@ name: "Carr Amps"
 source_url: "https://www.carramps.com"
 captured_at: "2026-09-28T05:07:37.141489+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Carr Amps sells hand-built tube guitar amplifiers and cabinets, and the
   supplied evidence is dominated by two signal groups: a small set of neutral
@@ -162,6 +166,13 @@ Recommended breakpoints (not measured):
 Touch targets should be at least 44×44px for nav toggle, buttons, and swatch chips. The folder-style submenu structure implied by "Folder: PRODUCTS / Back" text suggests an accordion or drill-down pattern on mobile; this is inferred from copy only, not from observed interaction or CSS media queries.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

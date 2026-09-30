@@ -4,6 +4,10 @@ name: "Smalls"
 source_url: "https://smalls.com"
 captured_at: "2026-09-28T04:17:17.873619+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Smalls presents as a warm, editorial DTC pet-food brand built on a cream
   canvas rather than clinical white, paired with near-black ink and slate-gray
@@ -147,6 +151,13 @@ components:
 Recommended breakpoints (not measured): mobile ≤480px, tablet 481–768px, desktop 769–1200px, wide ≥1201px. Nav and plan-builder steps are expected to collapse to single-column stacks below tablet width, with product-card grids reducing from multi-column to 1–2 columns. Touch targets should maintain a minimum 44×44px hit area for buttons and badges. This section is a general recommendation only; no live responsive or interaction behavior was observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived solely from static CSS/color extraction and a single page title; no rendered layout, spacing, or interaction states were observed. Role assignments for colors (e.g., primary vs. secondary accent, success/error) are inferred from usage context in CSS selectors and general DTC-brand convention, not confirmed via design files. Font-to-role mapping (Adieu/Monument/Yorick) is inferred from naming and typical display/body pairing, not from explicit selector-to-family CSS rules. All typographic sizes, weights, spacing scale, and rounded-corner values are proposed conventions unless a matching CSS declaration was directly supplied. Component states (hover, disabled, error) are proposed and unverified. Font licensing, availability, and self-hosting status for Adieu, Monument, and Yorick were not verified. Mobile layout, breakpoint behavior, and any JavaScript-driven interactions (e.g., the focus/expand selectors seen in evidence) were not observed in a live browser session.

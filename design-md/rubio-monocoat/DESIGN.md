@@ -4,6 +4,10 @@ name: "Rubio Monocoat"
 source_url: "https://rubiomonocoatusa.com"
 captured_at: "2026-09-28T04:49:23.956140+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Rubio Monocoat USA is a Shopify-built storefront for a hardwax-oil wood
   finish and stain brand, selling interior/exterior protection products,
@@ -166,6 +170,13 @@ Recommended breakpoints (not measured from live layout, proposed for a typical S
 Touch targets for buttons and swatch tiles should be at least 44px per side, matching the `.rebuy-select-dropdown__button` `min-height: 44px` seen in evidence. Category mega-menus (Interior/Exterior/Tools/Colors/Learn) should collapse to an accordion pattern on mobile; this is a recommendation only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

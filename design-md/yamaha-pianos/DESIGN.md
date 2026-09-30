@@ -4,6 +4,10 @@ name: "Yamaha Pianos"
 source_url: "https://usa.yamaha.com/products/musical_instruments/pianos/"
 captured_at: "2026-09-29T04:05:00.791879+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from the Yamaha USA piano catalog page, which
   presents acoustic, hybrid, and digital piano families (Grands, Uprights,
@@ -178,6 +182,13 @@ components:
 Recommended breakpoints (not measured): mobile ≤480px, tablet 481–1024px, desktop ≥1025px. Nav collapses to a hamburger/off-canvas menu below tablet width; category tiles reflow from a multi-column grid to a single column on mobile. Touch targets should be at least 44×44px for buttons and nav items. This is a proposed responsive strategy only; no live breakpoint or mobile layout was observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is built from static CSS/text extraction only; no rendered layout, interaction states (focus, active, disabled), or JavaScript-driven behavior were observed. The hero background color, nav-bar layout, footer structure, product-card, category-tile, badge, and search components are proposed inferences, not captured selectors. Several fonts in the raw evidence (Adelle, Playfair Display, Oswald, Crimson Text, Suranna, Roboto Condensed) appear likely tied to unrelated shared vendor CSS and were excluded from the core type scale as unconfirmed for this page. Licensing/availability of GTAmerica as a web font was not verified. All pixel values in the typography scale beyond the two explicitly observed sizes (100px headline, 16px button, 14px body) are proposed defaults for a coherent scale, not measurements.

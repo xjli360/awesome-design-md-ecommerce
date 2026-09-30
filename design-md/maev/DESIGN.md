@@ -4,6 +4,10 @@ name: "Maev"
 source_url: "https://meetmaev.com"
 captured_at: "2026-09-28T09:52:38.852357+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Maev's evidence surfaces a warm, natural-foods palette anchored by a cream canvas (#fbf5e3) and a dark forest green (#183613) used as the confirmed hover/interaction color on icon buttons, paired with the same cream as its on-color text — this pairing is treated as the primary brand color and its foreground. Body copy renders in FoundersGrotesk, a grotesk sans confirmed directly on the `body` selector; freight-big-pro and freight-display-pro appear only in the font-family list without a bound selector, so they are inferred as an editorial serif reserved for large display headlines and testimonial pull-quotes, consistent with the page's storytelling sections ("Dig Deeper," founder story, press features).
   Neutral ink (#353535), muted gray (#9a9999), and hairline grays (#dddddd, #f7f7f7) are inferred from the supplied grayscale set to build text hierarchy and card/section separation on the cream canvas. A cluster of saturated hues (#e5ff00, #c47225, #96b108, #66969c, #eb3838, #4f1ee7) is present in the raw palette without confirmed selectors; these are interpreted as accent/tag colors — a bright yellow-green CTA accent and a small set of category tags for the site's "Digestion / Mobility / Coat / Calming" formula groupings — since no direct role evidence exists for them. No custom brand font beyond FoundersGrotesk is verified; layout, spacing, and card structure are proposed conventions suited to a whole-ingredient pet-nutrition DTC storefront, not measured observations.
@@ -138,6 +142,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be at least 44×44px for nav icon buttons and CTAs, consistent with the 32px icon-button box observed plus padding. Collapse behavior for the mega-menu (SHOP/LEARN columns visible in footer text) is proposed as an accordion on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

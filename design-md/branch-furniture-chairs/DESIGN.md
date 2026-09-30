@@ -4,6 +4,10 @@ name: "Branch Furniture (Chairs)"
 source_url: "https://www.branchfurniture.com/collections/office-chairs"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The browser chrome itself bleeds #314438 on mobile — Branch commits its forest-green primary so completely that it colonizes the OS status bar, not just the nav. That dark, resinous green sits against cream grounds (#faf8f4, #f3eeea) that recall natural materials rather than the sterile white of most workspace brands, and the warmth sharpens when terracotta (#da5f4d) surfaces on CTAs and promotional callouts. Sage (#9fb59e) and dusty muted sky (#8cc1d2) provide a nature-derived secondary palette that keeps the overall atmosphere closer to a well-appointed home study than to a conventional office supply catalog.
 
@@ -419,6 +423,14 @@ components:
 - Footer grid: four columns on desktop, two on tablet, single-column accordion on mobile with each section expandable via Koulen header tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

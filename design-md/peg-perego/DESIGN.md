@@ -4,6 +4,10 @@ name: "Peg Perego"
 source_url: "https://pegperego.com"
 captured_at: "2026-09-29T04:02:53.236955+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Peg Perego's storefront CSS shows a single dominant brand color: a deep navy
   (#1e284c) used as the base text color for both `body` and `h1` selectors,
@@ -162,6 +166,13 @@ components:
 Touch targets should be at least 44×44px for buttons and nav items given the pill button's generous `10px 24px` padding. This table is a **recommendation based on common e-commerce patterns**, not measured site behavior; no media queries, container widths, or actual mobile screenshots were supplied.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

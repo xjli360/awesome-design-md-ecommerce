@@ -4,6 +4,10 @@ name: "Spark Paws"
 source_url: "https://sparkpaws.com"
 captured_at: "2026-09-28T09:03:48.625409+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Spark Paws is a Shopify-built DTC pet-apparel storefront selling dog hoodies,
   raincoats, harnesses, shoes, and matching human/dog outfits. The extracted CSS
@@ -167,6 +171,12 @@ Recommended breakpoints (not measured from the live site):
 Touch targets should be at least 44×44px for buttons and nav items. The nav bar is expected to collapse into a hamburger/drawer pattern below tablet width, consistent with the sticky-header flag observed but not with any captured mobile markup. This table is a design recommendation, not an observation of actual responsive CSS or breakpoints on sparkpaws.com.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

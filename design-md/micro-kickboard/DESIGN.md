@@ -4,6 +4,10 @@ name: "Micro Kickboard"
 source_url: "https://microkickboard.com"
 captured_at: "2026-09-28T10:16:19.928097+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Micro Kickboard's storefront evidence points to a clean, high-contrast commerce layout built on a Shopify theme with a third-party review widget (Oke) supplying explicit design tokens. The dominant brand color is a saturated indigo-blue (#3235c0), confirmed as the review widget's active button and background color and reused in on-page heading accents (`color:#3235c0` rules tied to hero heading blocks). A warm coral-red (#de5757) appears as a custom badge/highlight color, likely for sale tags or promotional callouts. Neutral text and surface colors range from near-black (#000000, #090a0a) through mid grays (#676986, #333333) to soft off-whites (#f6f4f2, #fafafa, #f7f7f7), suggesting a light canvas with layered card surfaces rather than a single flat background — this layering is inferred, not directly measured.
 
@@ -151,6 +155,13 @@ This is a recommendation based on common ecommerce patterns, not measured site b
 Touch targets for buttons and age-filter cards should target a minimum of 44×44px. The header's `--header-sticky-height:60px` token suggests a shrink-on-scroll behavior, but the actual collapse/scroll interaction was not observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

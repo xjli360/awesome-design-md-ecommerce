@@ -4,6 +4,10 @@ name: "Lizzie Fortunato"
 source_url: "https://www.lizziefortunato.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Vivid, handmade beadwork and found-vintage hardware are given maximum visual air by a site that refuses to compete with the jewelry itself. The canvas holds at #f5efeb — a warm, undyed-muslin cream that reads closer to natural linen than to paper white — and it is the single most deliberate design decision on the site: every photographed piece, however exuberantly colored, is allowed to float against a ground that implies the studio worktable rather than the sterile gallery wall. Against that warmth, near-black #121212 carries all structural weight — navigation labels, price strings, section titles — with zero accent color interposing between the user and the object. The hairline gray #dedede shows up only as a quiet divider, never loud enough to compete with a column of beaded fringe or a collar made from brass stampings.
 
@@ -337,6 +341,13 @@ components:
 - Announcement bar stays pinned and full-width at all breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

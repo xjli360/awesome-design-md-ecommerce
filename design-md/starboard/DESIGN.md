@@ -4,6 +4,10 @@ name: "Starboard"
 source_url: "https://sup.star-board.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A high-energy watersports brand that uses #fdbc00 — a sharp, almost solar-flare yellow — as its primary voltage, appearing across product badges, sale tags, and the signature "SHOP NOW" button that anchors every product grid. The brand has been building boards since 1994, and the design system carries that legacy through a surprisingly restrained palette: a near-black ink (#191a1d) for headlines, a warm gray body (#464646), and a generous white canvas (#f5f5f5) that lets product photography — shots of windsurfing rigs slicing through turquoise water or SUP boards resting on sand — do the heavy lifting. Montserrat runs at 600–700 weight for display headings, giving the brand a sporty, condensed feel that reads fast at a glance, while Open Sans handles body copy at 400 weight for readability. The system uses a single bright accent (#00aeef) for secondary CTAs and informational badges, creating a clear visual hierarchy: yellow means "act now," blue means "learn more." Product cards use soft 12px corners ({rounded.md}) and a subtle surface card (#ffffff) lifted off the canvas with a thin hairline (#e6e6e6), while the top navigation stays fixed with a full-width white bar and a bold yellow search icon. The brand trusts its action photography and bold color blocking over decorative flourishes — there are no gradients, no shadows, no ornamental borders. Every design decision points toward clarity and speed, matching the experience of being on the water: direct, responsive, and built for movement.
 
@@ -323,6 +327,13 @@ components:
 - Hero section reduces padding from 64px to 32px on mobile, with text overlay moving below the image
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

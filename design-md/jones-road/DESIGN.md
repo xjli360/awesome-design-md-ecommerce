@@ -4,6 +4,10 @@ name: "Jones Road"
 source_url: "https://jonesroadbeauty.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A beauty brand that trusts the quiet authority of a single accent — #ff5742, a coral-red that appears only on the primary CTA and the occasional badge, never in the hero imagery or product photography. The rest of the palette is a study in near-neutral: #9da1a0, #868a89, #6c706f, #7e7e7e, #8f8f8f, #b6b9b8 — a dozen grays and greiges that read as "clean" without shouting "minimal." The canvas is #fafafa, a warm off-white that avoids the sterile glare of #ffffff, while #121212 and #1a1a1a provide ink-weight for headlines. Articulat CF and Ringside Wide carry the typographic load — condensed, architectural sans-serifs that feel editorial rather than cosmetic. The brand's signature move is restraint: product cards use {rounded.sm} corners, buttons use {rounded.sm}, and the only pill shape is the search bar at {rounded.full}. There is no hero carousel of models; instead, product shots float on {surface-soft} panels with generous whitespace. The checkout flow introduces #4efac0 (a minty accent) and #0018ff (a saturated blue) — likely Shopify Pay and Klarna widgets, not brand colors. The overall effect is a storefront that feels more like a gallery than a beauty counter: muted, deliberate, and letting the product be the color.
 
@@ -345,6 +349,13 @@ components:
 - Badges remain visible but may shift to a smaller size on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

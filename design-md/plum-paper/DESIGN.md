@@ -4,6 +4,10 @@ name: "Plum Paper"
 source_url: "https://www.plumpaper.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Bressay Display at the hero scale announces the brand before any product photograph loads — a high-contrast editorial serif drawn from printing tradition, transplanted to a planner storefront to position the act of organizing one's year within the same register as choosing paper goods from a fine stationer. Below it, Adobe Garamond Pro carries product names, navigation labels, and body copy in a typeface descended from sixteenth-century Venetian punchcutters; its old-style figures and bracketed serifs make pricing and feature text feel typeset rather than templated, and its generous x-height holds legibility at the 15–17px sizes the brand favors.
 
@@ -317,6 +321,13 @@ components:
 - Hero: photography remains full-width at all breakpoints; headline and body copy reflow with reduced Bressay sizes
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

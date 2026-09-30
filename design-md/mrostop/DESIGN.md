@@ -4,6 +4,10 @@ name: "MROStop"
 source_url: "https://www.mrostop.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Dense part numbers, six-digit SKUs, and specification tables are the everyday medium of industrial procurement — MROStop's catalog interface is built for the buyer scanning rows of fasteners, bearings, and electrical conduit under warehouse fluorescents rather than the consumer browsing lifestyle photography. The palette leans into industrial-orange convention — a direct-signal hue that carries every primary CTA, add-to-cart action, and account button, set against a clean white canvas (#ffffff) and a dark-navy anchor (#1e3a5f) that holds the header and structural chrome. Search dominates the top viewport: a wide, high-contrast input with an orange submit trigger sits above fold before any category grid appears, because the typical MROStop session begins with a part number, not a category browse. Product cards are functional rectangles — minimal rounding ({rounded.sm}), tight spacing, and a compact type scale that fits SKU, brand, unit-of-measure, and price into a scannable 200px column without overflow. Safety-yellow accent (#ffc107) appears contextually on promotional callouts and bulk-order banners, borrowing from the physical-world language of caution tape and high-visibility gear. In-stock/out-of-stock states use saturated green (#16a34a) and red (#dc2626) respectively — procurement buyers need immediate availability signals, so these are never muted. Typography defaults to a neutral system sans at modest weights; there is no display headline ambition here, since the information hierarchy bottoms out at specification rows and compatibility notes, not brand storytelling. Footer and sidebar navigation carry heavy link density, reflecting a B2B audience comfortable with text-rich layouts. The overall register is practical, legible, and density-tolerant — a UI that competes with PDF spec sheets rather than consumer fashion retail.
 
@@ -436,6 +440,13 @@ Three pill badges cover the inventory signal space: green (#16a34a) "In Stock", 
 
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

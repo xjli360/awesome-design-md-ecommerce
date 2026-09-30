@@ -4,6 +4,10 @@ name: "Unimatic"
 source_url: "https://www.unimaticwatches.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Forty watches. That's often the total production run for a Unimatic model—a number that appears on the dial itself, not buried in marketing copy. The site delivers exactly that constraint aesthetic: near-black canvas (#111111), Aktiv Grotesk Thin stretched across hero widths at {typography.display-xl} scale, and a ruthless economy of color where #eeeeee body text on dark ground does most of the communicative work. The extracted palette skews heavily toward darks (#1e1e1e, #313131, #32373c) with neutral grays (#646464, #555555, #444444) for secondary hierarchy, and a single accent—#003388, a deep naval blue that reads more ink than accent, appropriate for an Italian brand that names its models with military reference codes (U1-S for subaqueo, U3-D for diver). Aktiv Grotesk runs the full weight range from thin display headlines to regular body copy, giving the type system tonal range without switching families. There are no rounded corners worth speaking of—every surface is {rounded.none}, flush to the grid; the language is utilitarian, not friendly. Photography drives the product experience: watches photographed against matte surfaces, technical detail shots, wrist context images. The model-code tag—U1, U3, U5 prefixed designations—functions as the brand's primary navigational language, and the edition-number component (e.g. "12/50") carries aspirational weight out of proportion to its size. A site-wide dark mode isn't a style choice but a structural one: these instruments were designed in low-light operational conditions, and the digital environment reflects that.
 
@@ -315,6 +319,13 @@ components:
 - Product grid: 3-col → 2-col → 1-col; image fills full card width at all breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Dunlop"
 source_url: "https://www.jimdunlop.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A high-voltage red (#ef0000) rips through an otherwise industrial gray-and-white grid — the same red that has marked Dunlop’s guitar picks, straps, and effects pedals since 1965. The brand’s digital presence mirrors its physical product: functional, direct, and built for musicians who need gear that works without fanfare. Franklin Gothic, a mid-century workhorse typeface, carries the weight in three distinct cuts — Book for body text, Condensed for tight navigation labels, and Demi for product titles — creating a typographic system that feels engineered rather than styled. The palette leans heavily on neutral grays (#757575, #e5e5e5, #f5f5f5) and crisp white canvas, with red deployed surgically: primary CTAs, price highlights, and the signature Dunlop logo mark. A secondary blue (#002fe1) appears in select product badges and category headers, adding a cool counterpoint to the dominant warmth. Corners are mostly sharp ({rounded.none}) on product cards and navigation, with soft rounding ({rounded.sm}) reserved for buttons and input fields — a subtle nod to the tactile edges of actual guitar hardware. The overall impression is that of a workshop manual: information-dense, hierarchically clear, and utterly indifferent to decorative flourish.
 
@@ -455,6 +459,13 @@ components:
 - Product card badges stack vertically on mobile to avoid horizontal overflow
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

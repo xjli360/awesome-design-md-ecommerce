@@ -4,6 +4,10 @@ name: "Melissa Joy Manning"
 source_url: "https://melissajoymanning.com"
 captured_at: "2026-09-28T09:50:25.765466+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Melissa Joy Manning is a Certified Green California jewelry studio producing handmade,
   heirloom-quality earrings, rings, necklaces and bridal pieces. The observed CSS is Shopify
@@ -161,6 +165,12 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets should be at least 44×44px for nav, cart, and search icons. Given the deep multi-level menu structure implied by the repeated "Show menu / Exit menu" text (Jewelry → Shop by Collection → Custom Jewelry → Design Your Own, etc.), mobile should collapse into an accordion/drill-down pattern rather than flyout hover menus. None of this nesting behavior was directly observed in rendered layout, only inferred from menu label repetition in the text excerpt.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered screenshots, computed styles, or DOM measurements were available. Several CSS custom properties (`--COLOR-BG`, `--COLOR-PRIMARY`, `--COLOR-LINK`, etc.) reference theme-level variables whose resolved hex values were not present in the supplied evidence, so color-role assignments above (primary, accent, link) are best-effort inferences from the flat palette list, not confirmed mappings. The `--RADIUS` variable used in `.flickity-prev-next-button` was not resolved to a pixel value, so the rounded scale is proposed. Root variables for header/footer/announcement height (100px, 500px, 33px, 143px) are taken as structural evidence but full page layout, spacing rhythm, and grid columns were not observed. No hover/focus/active interaction states, mobile menu animation, or cart drawer behavior were observed. Atkinson, Figtree, and Montserrat are used as the literal font-family names found in evidence; actual font files, weights available, and licensing terms were not verified.

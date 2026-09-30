@@ -4,6 +4,10 @@ name: "HelloFresh"
 source_url: "https://hellofresh.com"
 captured_at: "2026-09-28T09:47:17.846893+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from a single captured stylesheet and page-text excerpt for hellofresh.com's US marketing homepage, not from a full design audit. The only concretely observed rule sets html/body typography to agrandir-tight-bold with Verdana, Geneva, sans-serif fallbacks, 16px size, 400 weight, and a near-black #242424 body color on a white canvas. The supplied palette otherwise reads as a warm, food-forward neutral system (cream #faf8f3, warm taupe #e0d9cb/#d3cab7/#efe9de) paired with a saturated brand green (#009645) and a darker forest green (#02451d), plus incidental accent tones (#ffcf70, #96dc16, #732429, #7d7561) that likely mark diet-plan badges or illustrative UI rather than primary chrome. Because no heading-specific CSS rule was captured, the use of agrandir-tight-black for display type is inferred from the font-family list alone, not confirmed from a matched selector. Roboto appears in the family list but its application is unobserved, so it is assigned here only to smaller supporting text as a reasonable, clearly-labeled inference. The resulting system favors a warm, editorial food-brand feel: cream and taupe surfaces, high-contrast near-black ink, and brand green as the primary call-to-action color, consistent with the subscription meal-kit content described in the page text.
 
@@ -135,6 +139,13 @@ components:
 Recommended, not measured, breakpoints: mobile up to 599px (single-column stacked hero and plan cards, nav collapsed to a hamburger menu), tablet 600–1023px (two-column plan grid, condensed nav), desktop 1024px+ (full multi-item nav, three-to-four column plan grid). Touch targets should be at least 44px tall for buttons and nav items; collapse secondary nav links ("Sustainability," "Partnerships") into an overflow or hamburger menu below tablet width. These are proposed conventions for a meal-kit marketing site and were not derived from observed responsive CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

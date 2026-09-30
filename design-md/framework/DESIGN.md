@@ -4,6 +4,10 @@ name: "Framework"
 source_url: "https://framework.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Orange module rails click into a matte-aluminum chassis — that physical gesture of snapping an expansion card into place is the entire design language compressed into one interaction. Framework's digital presence mirrors the hardware philosophy: exposed structure, no decorative veneer, every element earning its pixel footprint. The brand orange (#FF6B00) appears sparingly — a single CTA, a progress indicator, an active state — never as a wash or gradient, always as a precise signal against vast white canvas (#FFFFFF) and deep carbon ink (#1A1A1A). Typography runs a tight geometric sans-serif stack (Inter) at restrained weights; display headings sit at 600 weight rather than 800, trusting letter-spacing and generous line-height to create hierarchy without shouting. Product photography dominates: exploded-view diagrams, close-ups of screw threads and copper heat pipes, shot on neutral gray (#F5F5F5) surfaces that recede behind the hardware. Cards use barely-there radii (`{rounded.xs}` at 4px), reinforcing the machined-edge precision of the physical product. The component grid aligns to an 8px baseline (`{spacing.sm}`) with section gaps at 64–80px, giving each module — configurator, specs table, expansion-card picker — room to breathe like components laid out on an anti-static mat. Navigation is flat and utilitarian: no mega-menus, no animated dropdowns, just a slim 64px top bar with text links in medium weight. The configurator — Framework's signature UI — stacks selectable cards vertically with radio-style selection states bordered in `{colors.primary}`, turning a purchase flow into a bill-of-materials. Footer and legal text drop to 13px caption weight, maintaining the engineering-document tone through the last pixel.
 
@@ -451,6 +455,13 @@ components:
 - Expansion card slot grid reflows from horizontal row to 2×2 grid on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

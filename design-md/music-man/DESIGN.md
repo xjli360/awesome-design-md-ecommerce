@@ -4,6 +4,10 @@ name: "Music Man"
 source_url: "https://www.music-man.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every finish option on a Music Man guitar — Vintage Sunburst, Powder Blue, Lemon Drop — has been obsessively photographed under controlled studio light; the website's primary job is to put that photography front and center and then disappear. The UI runs on a Bootstrap 3 scaffold with near-black navigation (#080808), a light-gray page canvas (#f5f5f5), and a Bootstrap-default link-blue (#337ab7) carrying all interactive states. The palette extraction reveals almost nothing proprietary — nearly every sampled hex is a Bootstrap 3 system color, from the #d9534f danger red to the #f0ad4e warning amber and the #5cb85c success green — which means the brand's visual identity is built entirely in the instrument photographs, not the CSS layer. Type runs on system-native stacks: Arial and Helvetica Neue at conventional weights, with Consolas and Menlo appearing only in code or monospace contexts. No custom typeface was detected, no proprietary hex outside Bootstrap defaults, no decorative surface motif. What the design does instead is dense: specification tables with alternating row stripes (#f5f5f5 over white) that let players parse neck radius, pickup configuration, and fret count at a glance; finish-swatch selectors that collapse an entire colorway into a 28px circle ({rounded.full}); and product cards arranged in Bootstrap's twelve-column grid at minimal gutter. The rounding scale sits firmly at Bootstrap defaults — {rounded.xs} corners (4px) on every button and input signal a precision-tool aesthetic rather than consumer-brand softness. Ernie Ball Music Man ships instruments to John Petrucci, Steve Lukather, and St. Vincent; the website does not attempt to out-perform the product. It steps back, organizes, and lets the finish photography close the sale.
 
@@ -373,6 +377,13 @@ components:
 - Footer columns collapse from a multi-column Bootstrap grid row to a single stacked column at mobile breakpoint
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

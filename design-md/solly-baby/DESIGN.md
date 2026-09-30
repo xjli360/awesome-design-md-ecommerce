@@ -4,6 +4,10 @@ name: "Solly Baby"
 source_url: "https://sollybaby.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A soft, grounded brand for new parents, built on a warm neutral canvas of #e9e5df and #f8f6f3, with a signature teal #108474 as the primary voltage — a color that reads as calm, organic, and trustworthy rather than clinical or urgent. The palette is deliberately muted: #23221e ink for body text, #4d403c and #40362e for secondary tones, and a range of warm grays (#eeeeee, #f2f2f2, #f9fafb) that keep the interface feeling gentle and uncluttered. Type runs DM Sans and Nunito Sans at moderate weights — display sizes hover around 20-24px in weight 500-600, never shouting, letting the product photography and soft {rounded.lg} card corners do the emotional work. Buttons use {rounded.full} pill shapes in the teal primary, with a secondary palette that includes a muted lavender #a89cc8 and a pale sage #c1e6e6 for badges and accent elements. The brand avoids hard edges: every component from the hero section to the product card uses {rounded.md} or larger, and the generous whitespace (section padding at 64px) gives the interface room to breathe. A single marigold accent #fbcd0a appears sparingly — likely for sale badges or promotional flags — adding a small jolt of warmth without breaking the calm. The overall effect is a digital space that feels like a well-loved nursery: soft, safe, and designed for the exhausted, tender state of early parenthood.
 
@@ -409,6 +413,13 @@ components:
 - Search bar becomes sticky at the top on mobile for persistent access
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

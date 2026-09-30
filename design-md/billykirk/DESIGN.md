@@ -4,6 +4,10 @@ name: "Billykirk"
 source_url: "https://billykirk.com"
 captured_at: "2026-09-29T04:05:46.310904+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Billykirk presents itself as a heritage American leather and canvas goods
   maker (est. 1999), and the extracted CSS reflects a restrained, workshop-like
@@ -153,6 +157,14 @@ This is a recommended structure, not measured site behavior:
 Touch targets for buttons and nav links should be at least 44×44px. The header's sticky height (`66px`, observed as a CSS variable) should be preserved at all breakpoints. Mobile nav collapse into a drawer/menu is a standard Shopify-theme convention here, not a confirmed observation.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Colors were extracted from static CSS custom properties and computed rules; some hex values (e.g. social icon brand colors like Facebook/Twitter/Pinterest blue) were excluded from the palette as non-brand and are not part of this spec.

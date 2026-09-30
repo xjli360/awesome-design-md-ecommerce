@@ -4,6 +4,10 @@ name: "Whiteside"
 source_url: "https://whitesiderouterbits.com"
 captured_at: "2026-09-28T09:55:18.125697+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Whiteside Machine Company's storefront presents itself as an industrial, no-nonsense tools catalog, and the extracted CSS supports that reading. The body element sets a near-black background (#111111) with matching #111111 text, while headings and navigation consistently use Oswald in uppercase with 0px letter-spacing, giving the brand a stamped, machined feel. Body copy runs in Open Sans at 14px with a generous 1.8 line-height, suited to dense technical catalog listings. The signature accent is a deep industrial red (#ab112c), used for the utility header bar, link hovers, and active states, with a darker red (#8f051d) present in the palette as a plausible pressed/emphasis variant. Grays span from #666666 through #e8e8e8, evidencing a layered neutral system for borders, muted subtext, and card surfaces rather than a colorful UI. A pill-shaped gray CTA (#666666, ~35px radius) appears in the source and is generalized here to the rounded.full token. Because static CSS extraction cannot confirm true content-area backgrounds versus the page-frame color, canvas is inferred as white for card/content regions while #111111 is treated as both ink and outer frame background, reusing tokens per the observed evidence rather than assuming unverified layout.
 
@@ -149,6 +153,13 @@ This is a proposed recommendation, not measured site behavior:
 Collapse behavior, sidebar filter interaction, and actual mobile menu implementation were not present in the supplied CSS and are proposed only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Pet Honesty"
 source_url: "https://pethonesty.com"
 captured_at: "2026-09-28T04:48:09.609562+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The evidence shows a neutral-first system: near-black text (#1e1e1e, #333333) on white/off-white
   canvases (#ffffff, #f6f6f6, #fafafa), with a warm cream section tone (#f5f4f0) and a soft beige
@@ -177,6 +181,13 @@ This is a recommendation, not measured site behavior — no media queries or bre
 Touch targets should be at least 44×44px for buttons and nav items (proposed, not measured). Below `sm`, the announcement/progress/nav header stack (implied by `--header-height`) should collapse vertically to conserve space, and search/cart icons should remain persistently visible per typical e-commerce convention — this is an inferred pattern, not confirmed from the source.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

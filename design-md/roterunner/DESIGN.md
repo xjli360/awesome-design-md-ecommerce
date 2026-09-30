@@ -4,6 +4,10 @@ name: "Roterunner"
 source_url: "https://roterunner.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Four verbs in sequence — Dream, Plan, Act, Achieve — set the brand's conversational rhythm before a single product is shown, and the visual system echoes the same four-beat logic: an indigo primary (#5873f9) for action-state CTAs, amber (#fcab2f) for aspiration and urgency, teal (#00caaa) for completion and reward, and deep navy (#0d1925) as the grounding anchor that gives the lighter signals room to land. Plus Jakarta Sans carries body and UI text at modest weights — the geometric letterforms feel engineered without tipping into cold — while EB Garamond appears sparingly in editorial moments, lending a brief paper-planner intimacy to what is otherwise a screen-native system. Surfaces are stratified into three luminance bands: a near-white canvas (#f7f7f8) for the base layer, soft blue-gray panels (#e5e5eb, #dbdde4) for card lift, and the dark navy stack (#272d45, #0d1925) for high-contrast hero blocks and sticky nav on scroll. Corners are mostly soft — {rounded.sm} to {rounded.md} — never fully pill-shaped for form fields, preserving a structured, grid-conscious feel consistent with a product built around structure and scheduling. The amber accent (#fcab2f) reads as a highlight marker, a literal nod to the physical practice of underlining goals; the teal (#00caaa, #b2f9e9 for the softer tint) closes the feedback loop as the "done" signal. Muted blue-gray body text (#676986) on light surfaces reduces the visual weight of long reading states — journaling, weekly review — so the indigo CTAs remain the sharpest element on the page. Every interaction state is distinct: hover deepens to a darker indigo, disabled bleaches toward #b8c3fd, and active states on amber compress to #d68000 to feel like a struck match.
 
@@ -414,6 +418,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

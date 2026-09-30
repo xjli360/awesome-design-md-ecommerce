@@ -4,6 +4,10 @@ name: "Panasonic"
 source_url: "https://www.panasonic.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep corporate blue — the same saturated #0054a6 that has anchored the Panasonic wordmark since the 1970s — floods every hero banner, primary CTA, and nav accent across panasonic.com, making it one of the most color-stable identities in consumer electronics. The site for home appliances like microwaves and toaster ovens runs a utilitarian grid: tall product hero images shot on neutral backgrounds, specification tables with alternating `{colors.surface-soft}` and `{colors.canvas}` rows, and comparison trays that slide up from the bottom of the viewport. Typography leans on a system-sans stack headed by Arial and Helvetica Neue at conservative weights — display headings sit at 600 weight and 32–40px rather than the bolder treatments fashion or lifestyle brands reach for, reinforcing an engineering-first voice where the product photograph does the selling and the type stays out of the way. Buttons are squared-off at `{rounded.xs}` with generous 48px touch heights, occasionally stepping up to a subtle `{rounded.sm}` on promotional landing pages; there is almost no use of pill shapes or circular elements outside of the search icon. A secondary warm-black `{colors.ink}` (#1a1a1a) carries body copy, while `{colors.muted}` (#717171) handles meta-labels like model numbers, wattage specs, and breadcrumbs. Accent orange (#e87722) appears sparingly — limited to sale badges, promotional banners, and the occasional "New" tag — providing the only warm interruption in an otherwise cool-toned palette. The canvas is bright white (`{colors.canvas}` #ffffff), cards sit on the same white with a 1px `{colors.hairline}` border rather than shadow, and the overall rhythm is dense: `{spacing.lg}` between card rows, `{spacing.base}` gutters, and `{spacing.section}` vertical breathing room between feature blocks. Footer and mega-nav backgrounds drop to a near-black (#1a1a1a) with white type, creating a hard bookend that frames the content cleanly.
 
@@ -516,6 +520,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

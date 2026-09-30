@@ -4,6 +4,10 @@ name: "Evolv"
 source_url: "https://www.evolvsports.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A climbing brand that builds its visual identity around the raw, unpolished texture of the sport itself, using a near-monochrome base of #1a1a1a ink on #f4f4f4 canvas punctuated by a single, urgent accent: #e54601, a burnt-orange that reads like rust, chalk dust, and desert sandstone compressed into one signal. The brand avoids the glossy, aspirational sheen common in outdoor gear marketing; instead, it leans into a utilitarian, almost industrial palette — #4e5154 and #595959 for secondary text, #bfbfbf and #d3d3d3 for borders and dividers — that feels like it was lifted from a climbing gym’s hold bin or a well-worn crash pad. Typography is split between Effra (a geometric sans-serif with a slight humanist warmth) and CommitMono (a monospace that appears in technical specs and product details), creating a deliberate tension between approachable product copy and precise, code-like specifications. Buttons and CTAs use the full {rounded.sm} radius, while product cards and badges adopt a tighter {rounded.xs} that suggests precision engineering rather than friendliness. The navigation bar is a thin, dark strip — {colors.ink} background with white text — that stays out of the way, letting product photography and the orange accent do the heavy lifting. The overall effect is a brand that trusts its audience to appreciate subtlety: a muted palette that lets the #e54601 accent land like a chalked hand on a hold, and a typographic system that treats product specs with the same seriousness as marketing copy.
 
@@ -363,6 +367,13 @@ components:
 - Footer columns collapse from 4 to 2 on tablet, and to a single column on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

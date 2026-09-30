@@ -4,6 +4,10 @@ name: "Clairefontaine"
 source_url: "https://www.clairefontaine.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Fountain-pen ink is the calibration instrument — if it bleeds, the paper failed — and Clairefontaine's digital storefront applies that same pass/fail rigor to color: the entire UI runs on a near-white #f6f6f6 field against #232323 text, and only one deliberate chromatic injection is permitted. That accent is #24b9d7, a mid-teal cyan that functions as a single pen stroke across an otherwise monochrome layout, activating primary CTAs, navigation hover underlines, and top-strip announcements without bleeding into the merchandise field. Secondary category accents — #4cbb6c for school supplies, #ff9a52 for art materials, #ff4c4c for promotional pricing — appear at badge scale only, operating as shelf-edge markers rather than brand statements.
 
@@ -358,6 +362,13 @@ components:
 - Hero image drops below copy on mobile; image height clamps to 280px to avoid excessive scroll commitment before the CTA
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

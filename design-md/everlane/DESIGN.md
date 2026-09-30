@@ -4,6 +4,10 @@ name: "Everlane"
 source_url: "https://everlane.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every garment on Everlane's site carries a cost breakdown — materials, labor, transport, duty, markup — and that accounting ethos maps directly onto its visual system: the fewest colors needed, the plainest type, no ornament that cannot be justified by function. The primary action color, #334fb4, is a medium institutional blue that appears at CTAs and active states and nowhere else; the rest of the palette collapses into a near-black (#121212) ink scale with light-gray surfaces (#f3f3f3, #dedede, #e0dfdf). Maison Neue carries all type across three weights — Book for editorial body, Medium for navigation and labels, Demi for headings that need weight without decorative intent. Selva Script Pro appears in campaign contexts only, never in transactional UI, arriving at large display sizes as a seasonal counterweight to the system's otherwise strict grotesque voice. Buttons and cards hold {rounded.none} — no soft radius anywhere in functional UI — a deliberate refusal of approachability in favor of precision. A warm taupe, #c8c0b8, anchors swatch states and contextual imagery; brick #ca3214 is reserved strictly for sale callouts so its urgency reads as a genuine system signal rather than decorative noise. The top navigation resolves at a compact fixed height with Maison Neue Medium labels and a 1px hairline underline at {colors.primary} to mark the active category — no background fill, no hover box, no animated transition. Product photography is white-backed for catalog grids and atmospheric for editorial modules; because the surrounding UI is near-monochrome, photography carries all warmth without fighting chrome. The footer unfolds into a structured transparency grid — ethics pages, supply chain maps, impact reports — doubling as brand content and functional wayfinding, set in white type on an #121212 ground.
 
@@ -338,6 +342,13 @@ components:
 - Footer condenses from 5 columns to 2 at tablet and single column at mobile, headings collapsing as accordion triggers
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Rishi Tea"
 source_url: "https://rishi-tea.com"
 captured_at: "2026-09-28T10:04:07.505401+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation draws from CSS evidence for Rishi Tea & Botanicals, an
   online purveyor of direct-trade, organic loose leaf tea, sachets, matcha and
@@ -161,6 +165,13 @@ components:
 Touch targets are recommended at a minimum 44×44px for buttons and quick-add controls. Mega-menu categories (Form, Tea Type, Garden Direct, Origin, Teaware, Taste Profile, Mood) should collapse into a scrollable accordion below tablet width. This table is a recommendation based on common e-commerce patterns and was not measured from the live site.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

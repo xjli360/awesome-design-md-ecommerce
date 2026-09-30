@@ -4,6 +4,10 @@ name: "Beacon Hill Books"
 source_url: "https://www.beaconhillbooks.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A single hex — #313131 — anchors the entire Beacon Hill Books experience, a deep charcoal that reads as ink on paper rather than digital UI, giving the storefront the gravity of a well-stocked library shelf. The brand resists the common bookstore palette of warm cream and forest green, instead building its identity around this near-black primary, using it for navigation bars, footer blocks, and primary buttons with white text that feels like a book's title stamped on a cloth cover. The system font stack — -apple-system, BlinkMacSystemFont, Helvetica Neue, system-ui — runs unadorned, letting the typography disappear into readability; there is no custom typeface, no display font, no decorative lettering competing with the books themselves. The site reads as a single column of content on a white canvas ({colors.canvas}), with generous vertical spacing ({spacing.section}) between sections — featured titles, staff picks, events — each separated by a thin {colors.hairline} rule. Buttons use a modest {rounded.sm} radius, avoiding the pill shapes of e-commerce giants, and product cards carry a soft {rounded.md} that suggests paper edges rather than digital corners. The overall mood is one of editorial restraint: the books are the color, the books are the texture, and the interface steps back to let them speak.
 
@@ -327,6 +331,14 @@ components:
 - Search bar collapses to icon-only below 744px; expands to full-width input on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

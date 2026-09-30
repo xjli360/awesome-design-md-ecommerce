@@ -4,6 +4,10 @@ name: "Powerhouse Films (Indicator)"
 source_url: "https://www.powerhousefilms.co.uk"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A collector's-grade film label that wraps its deep-catalog releases in a near-monastic black-and-charcoal shell — `#121211` for the page background, `#231f20` for the primary brand mark, `#dedede` for body text that reads like fine print on a Criterion booklet. The site is a study in restraint: no hero carousel, no auto-playing trailers, no pillowy search bars. Instead, a fixed top nav in `#121212` carries the Indicator logo and a sparse row of links (Shop, Collections, Sale, Journal), each set in what appears to be a geometric sans-serif at modest weight — the brand trusts its cover art and spine photography to do the selling. Product cards are flat rectangles with `{rounded.none}` corners, a single product image, and a price block in `#444444`; there is no badge, no star rating, no "sale" flag unless the title is genuinely discounted. The checkout flow, powered by Shopify, introduces `#dedede` hairline borders and a `#ffffff` canvas that feels like stepping from a darkroom into daylight. The entire experience reads as a physical archive translated to screen — black backgrounds, white type, and the occasional accent of a film-still color that belongs to the artwork, not the UI.
 
@@ -404,6 +408,13 @@ components:
 - Breadcrumbs are hidden on mobile; the page title serves as the sole navigation cue.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

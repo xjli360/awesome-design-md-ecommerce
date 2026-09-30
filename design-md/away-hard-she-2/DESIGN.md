@@ -4,6 +4,10 @@ name: "Away"
 source_url: "https://awaytravel.com"
 captured_at: "2026-09-28T04:34:39.495447+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The observed evidence shows a Shopify-based storefront (theme variables such as
   --color-foreground, --wk-color-accent-1, and CSS custom properties) built around a
@@ -174,6 +178,12 @@ The following breakpoints are a **recommendation** based on common Shopify-theme
 Touch targets should meet a **minimum 44–45px** height, aligning with the observed `--wk-button-min-height: 45px` and `--wk-input-min-height: 45px` tokens. Mobile navigation collapse behavior is inferred from the presence of `.mobile-menu__store-button` but its actual open/close interaction was not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

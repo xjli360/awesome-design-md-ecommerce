@@ -4,6 +4,10 @@ name: "Haand"
 source_url: "https://haand.us"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Haand is a slow, tactile brand rooted in the earthy warmth of handmade porcelain pottery, crafted in North Carolina, USA. The brand's visual language is a study in quiet contrast, where the raw, organic feel of clay meets a refined, almost monastic palette. The dominant canvas is a soft, warm off-white (`#fcfafa`), a shade that feels like unglazed porcelain, providing a gentle backdrop for the rich, earthy accents that define the brand. The primary voltage comes from a deep, fired-clay brown (`#915a05`), used sparingly but powerfully on key calls-to-action and navigation elements, evoking the kiln's heat and the earth from which the pieces are born. This is balanced by a range of muted, natural tones: the deep charcoal of unglazed stoneware (`#1c1b1b`), the soft sage of a weathered glaze (`#75867e`), and the warm terracotta of a sunset-fired pot (`#b74205`). Typography is set in a clean, utilitarian sans-serif (Arial, Helvetica), chosen for its neutrality and legibility, allowing the organic forms of the pottery to take center stage. The brand's signature design moves include generous whitespace that mimics the breathing room of a gallery, soft rounded corners (`{rounded.sm}`) that echo the gentle curves of a hand-thrown bowl, and a consistent use of hairline-thin borders (`{colors.hairline}`) that define product cards and sections without adding visual weight. The overall feeling is one of grounded sophistication — a brand that trusts the beauty of its materials and the skill of its makers, communicating through subtlety rather than volume. The palette includes a deep, almost-black ink (`#333333`) for body text, ensuring readability against the warm canvas, while a muted gray (`#777777`) handles secondary information and captions, keeping the hierarchy calm and uncluttered. Accents of a vibrant, almost-glowing orange (`#ee682f`) and a deep, oceanic blue (`#1990c6`) appear in limited, strategic moments — perhaps for sale badges or special edition markers — adding a touch of unexpected energy to the otherwise restrained system.
 
@@ -422,6 +426,13 @@ components:
 - Multi-column hero layouts collapse to a single column, with text stacking below the image.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Infantino"
 source_url: "https://infantino.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   ArcherPro Medium — a slab serif that normally lives in magazine mastheads and editorial contexts — shows up as Infantino's foundational typeface, an unusual choice for a baby product brand and the source of its warmest quality. The site's palette hinges on a vivid red-orange (#e94125) as the single high-voltage CTA color, paired with two closely tuned teals that serve separate semantic roles: #4dacaa handles category accents, badge fills, and hover surfaces, while #00afab — perceptibly deeper — takes interactive focus states and link emphasis. A warm brown-tan (#7c6a55) functions as the tertiary: earthier than a neutral gray, it anchors lifestyle photography, secondary labels, and the occasional price-adjacent supporting text without announcing itself. Pathout Italic appears at display scale only — hero banners and seasonal campaign headers — where its looping forms supply the playful contrast that ArcherPro's upright slab character cannot.
 
@@ -339,6 +343,13 @@ components:
 - Award badge and age-badge remain visible on product cards at all breakpoints; promo-banner is the first element hidden on print stylesheets
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

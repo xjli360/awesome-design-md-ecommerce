@@ -4,6 +4,10 @@ name: "Jaipur Rose"
 source_url: "https://www.jaipurrose.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The rose in the name is less about petals and more about a specific magenta — #c6007e — that blazes through category badges and promotional CTAs like zardozi embroidery on silk. Jaipur Rose serves the South Asian diaspora in the United States with Indian wedding and festive jewelry, and every dominant hue in the palette reads as deliberate cultural register: deep teal (#108474) anchors the primary nav, main CTAs, and trust elements the way a peacock-blue dupatta grounds a bridal ensemble; marigold (#fbcd0a) flares across sale banners and price callouts the way it does strung at a mandap entrance; deep plum (#5c1e4b) carries footer grounds and overlay scrim with the gravity of polished amethyst on a velvet display tray. Soft lavender (#a89cc8) enters only in filter chips and hover-state washes, keeping the regal register without oversaturating. Type pairs Baskerville — a classical serif used for display headlines and product titles — with Nunito Sans for body copy, labels, and UI text, a combination that reads simultaneously as fine-jewelry heritage and accessible online retail. Rounded corners sit deliberately near-square: buttons at {rounded.xs}, cards at {rounded.sm}, inputs at {rounded.xs}. This restraint signals a structured, high-value context rather than the exuberant pill-shapes of lifestyle DTC; the formality suits a store where a single SKU may be a bridal set costing several thousand dollars. The canvas stays near-white (#f9fafb, #f9f9f9) throughout so that gold, kundan, polki, and enamel photography reads true rather than fighting a tinted ground. Promotional voltage — sale stickers, countdown banners, free-shipping bars — draws on both the magenta and the marigold depending on register: magenta for urgency, marigold for celebration. The secondary teal surface (#c1e6e6, #edf5f5) appears in informational callout boxes and category intro strips, diluting the primary brand teal into an ambient contextual tone.
 
@@ -357,6 +361,13 @@ components:
 - PDP image gallery switches from side-by-side main+thumbs to a full-width swipeable carousel on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

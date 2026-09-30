@@ -4,6 +4,10 @@ name: "Hestan"
 source_url: "https://www.hestan.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep-teal precision: the color anchoring every Hestan surface — #226d7a — reads less like a branding decision and more like the patina of a well-seasoned copper line, the shade of a cold salt marsh at first light. Where most kitchen-equipment brands retreat into stainless silver and matte black, Hestan commits to an aquatic spectrum running from #226d7a at full saturation down through the glacial #b0e0e9 and the near-white #e4f5fa, building a chromatic argument about thermal clarity rather than raw power. This is not accidental: the flagship NanoBond and ProBond lines are defined by metallurgical precision and molecularly bonded layers, and the palette mirrors that logic — depth layered on depth, each hue a slightly different pressure of the same sea.
 
@@ -341,6 +345,13 @@ components:
 - Promo banner text truncates to a single centered line on viewports narrower than 375px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

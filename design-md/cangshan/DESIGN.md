@@ -4,6 +4,10 @@ name: "Cangshan"
 source_url: "https://cangshancutlery.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A brand forged in the tension between raw craftsmanship and refined minimalism, Cangshan Cutlery speaks to the cook who respects the blade as much as the meal. The palette is anchored by a deep, almost arterial red — `#e32525` and its close variants `#e32e25` and `#e31e25` — that appears on primary actions, badges, and select accents, evoking the heat of a forge and the precision of a honed edge. This red is set against a cool, architectural foundation of near-blacks (`#1c1c1c`, `#0d0d0d`, `#1a1a1a`) and slate grays (`#676986`, `#646464`, `#6c757d`), with a crisp white canvas (`#fafafa`, `#f7f7f8`, `#f4f4f6`) that lets product photography breathe. The typographic voice is a deliberate hybrid: classic serifs like `Big Caslon`, `Bodoni MT`, `Cardo`, and `Georgia` lend editorial gravitas and a sense of heritage, while `Jost`, `Myriad`, and `Oswald` introduce clean, modern geometry for navigation and technical specs. This mix of old-world serif and contemporary sans-serif mirrors the brand's own story — traditional Japanese steel techniques housed in modern, minimalist handles. The signature design move is the use of `{rounded.xl}` (32px) on hero cards and `{rounded.full}` on search and filter inputs, creating soft, approachable entry points into an otherwise sharp, precise world. Product cards use `{rounded.md}` (12px) with subtle `{colors.hairline}` borders, while the primary button is a bold, pill-shaped (`{rounded.full}`) block of `{colors.primary}` that demands interaction. The overall mood is one of controlled intensity: the red never overwhelms, the serifs never feel fussy, and the generous whitespace (section padding at `{spacing.section}` 64px) gives each knife the gallery-like presentation it deserves.
 
@@ -326,6 +330,13 @@ components:
 - Hero cards may reduce to a single image with overlaid text rather than side-by-side content.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

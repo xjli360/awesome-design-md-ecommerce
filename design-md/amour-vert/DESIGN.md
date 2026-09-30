@@ -4,6 +4,10 @@ name: "Amour Vert"
 source_url: "https://amourvert.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every garment carries a swing tag that functions as a tree-planting receipt — the founding gesture that quietly governs the entire visual system. The palette leans into the deep end of a forest at dusk: the primary tonal anchor is a submerged teal-green (#004a59), a color that reads simultaneously as canopy shadow and ocean depth, held against a white canvas that lets textured fabric photography carry the atmospheric weight. Charcoal ink (#32373c) replaces true black throughout, softening the contrast curve and keeping the brand register literary rather than corporate. A muted sage (#67a671) enters as a secondary signal for ecological messaging — planted-tree counters, fiber-origin callouts — where it reads as foliage rather than logo. Warm cream (#fafae1) surfaces in editorial blocks and sustainability storytelling panels, adding a hand-pressed paper quality that reinforces slow-fashion positioning. Corners are square or nearly so throughout (`{rounded.none}` on all primary interactive elements), a restrained choice that communicates material confidence over packaging theater. Buttons are sentence-case, never all-caps, and carry no gradient or shadow elevation. Spacing is generous: product grids breathe at 24–32px gutters, hero blocks push to `{spacing.section}` top and bottom, and the announcement bar above the nav compresses to a single teal strip (#004a59) carrying tree-planting milestones in small uppercase. The tree counter itself — a modest teal block in footer and PDP — is the brand's single most persistent conversion signal, implying that every purchase directly funds the ecological offset visible on the tag. Typography leans serif at display scale (modest weight, wide leading, negative tracking) with a clean humanist sans-serif for body and UI; no bold slabs, no condensed headline styles. Motion is absent as a deliberate choice — hover states swap images via a direct cross-fade, and CTA states shift color without translate or scale.
 
@@ -340,6 +344,14 @@ components:
 - Filter UI: pill row → bottom-sheet drawer triggered by a filter button at ≤ tablet
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

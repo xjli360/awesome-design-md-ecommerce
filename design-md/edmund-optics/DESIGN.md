@@ -4,6 +4,10 @@ name: "Edmund Optics"
 source_url: "https://www.edmundoptics.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Thirty-thousand SKUs organized by wavelength, coating type, and numerical aperture — Edmund Optics treats its catalog as a precision instrument, building a site where specification tables carry more visual weight than lifestyle photography ever could. The canvas is clinically white against an ink confirmed at #313131, every surface tuned to reduce cognitive load for the engineer who needs an N-BK7 plano-convex lens at 1064 nm by Thursday. The primary red — a saturated crimson deeply embedded in the brand's identity — fires on every add-to-cart and quote-request CTA, standing out sharply against the white grid without competing with the dense technical content surrounding it. Navigation spreads wide in a mega-menu organized by optical family: Lenses, Mirrors, Beamsplitters, Filters, Fiber Optics, Optomechanics — each family subdivided by substrate and coating until the taxonomy reads like a reference map of photonics itself.
 
@@ -402,6 +406,13 @@ components:
 - `nav-top-strip` collapses or hides at mobile, surfacing only phone number and account icon
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

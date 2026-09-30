@@ -4,6 +4,10 @@ name: "Xavier Hufkens"
 source_url: "https://www.xavierhufkens.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The warm parchment canvas — #f7f8f5 set against near-black #191919 — signals something other than clinical white-cube orthodoxy: Xavier Hufkens presents contemporary art on a ground with just enough warmth to recall catalogue stock rather than a sterile screen. BellBQ carries the display hierarchy, a serif with editorial authority suited to artist names and exhibition titles; Messina handles navigation and running text, its clean proportions sustaining long biographies and exhibition histories without fatigue. The palette is almost entirely neutral — a descending sequence from #191919 through #414141, #878787, #aeaeae, and #dcdcdc arriving at the warm #f7f8f5 ground — with no chromatic accent evident in the extracted tokens beyond #007aff, an iOS system default that surfaces in focus and link states rather than as intentional brand voltage. This restraint is deliberate: the gallery subordinates its graphic identity to the work it represents, letting a Luc Tuymans grey or a Francis Alÿs blue carry whatever chromatic charge a page holds rather than competing with it. Navigation runs in controlled tracking across the top against {colors.canvas}, collapsing to a minimal trigger on mobile without losing horizontal discipline. Artwork cards carry hard corners ({rounded.none}), maintaining the rectilinear discipline of the gallery hang. The wall-label component — artist name set in {typography.display-md} BellBQ, work title italicised in {typography.title-md} Messina, medium and dimensions in {typography.caption} — echoes the physical labels mounted at the Brussels spaces on Rue Van Eyck. Interactive states shift through opacity and {colors.hairline} border changes rather than colour swaps, keeping the interface chrome subordinate to the art on display. The presence of swiper-icons in the font stack points to a horizontal exhibition-browse rhythm that models the act of moving between rooms.
 
@@ -291,6 +295,13 @@ components:
 - Footer multi-column layout stacks to a single column with increased top padding at mobile breakpoint; newsletter input moves to the top of the stack
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "iWalk"
 source_url: "https://www.iwalkworld.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Four shades of blue graduate from deep #003681 navy through #0045a6 and #2f7bbf to a vivid #0051c3 — iWalk's palette behaves like the charge indicator on one of its own portable power banks, the brightest blue reserved for every primary CTA and add-to-cart pulse. A trio of functional accents — red (#bd2426), green (#9bca3e), and orange (#f68b1f) — marks product-line boundaries, compatibility states, and power-level callouts across a catalog of compact chargers and phone accessories, each hue earning its slot through meaning rather than decoration. The interface chrome runs neutral: #313131 ink on a white canvas, #dedede hairlines dividing specification rows, and #ebebeb surfaces lifting product cards with `{rounded.sm}` corners just enough to separate them from the page grid. Typography draws entirely from the platform-native stack — -apple-system through Roboto and Helvetica Neue — with no custom web font loaded, a decision that trades typographic distinction for guaranteed instant rendering on every device and locale where iWalk ships product. Display type runs heavy at weight 700 in `{typography.display-xl}` for hero headlines, body copy relaxes to weight 400 in `{typography.body-md}`, and specification labels sit at weight 600 in `{typography.spec-label}` to hold their own against dense mAh and wattage data. Product cards carry `{spacing.base}` internal padding and minimal border treatment — the product photography and spec overlays do the persuading. Hero sections run full-bleed with device renders floating on dark `{colors.surface-dark}` backgrounds, technical callouts in `{typography.caption}`, and a single `{colors.primary}` button anchoring the lower third of the composition. Buttons use `{rounded.xs}` with compact horizontal padding — utilitarian and conversion-focused rather than playful. The nav bar sits at 64px with a white background and the iWalk wordmark left-aligned, category links set in `{typography.nav-link}` at weight 600. A sticky add-to-cart bar on product detail pages mirrors the primary button against a white surface with a `{colors.hairline}` top border. The overall system is engineered for catalog density and conversion — tight vertical rhythm, functional color coding, and minimal ornamentation that keeps the focus on mAh ratings, connector types, and product renders.
 
@@ -463,6 +467,13 @@ components:
 - The sticky cart bar is hidden on desktop (inline CTA is visible) and appears only on mobile/tablet when the inline add-to-cart button scrolls out of the viewport.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

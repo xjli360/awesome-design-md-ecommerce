@@ -4,6 +4,10 @@ name: "The Rag Company"
 source_url: "https://theragcompany.com"
 captured_at: "2026-09-29T04:04:01.085565+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The Rag Company's storefront runs on a Shopify theme (base.css tokens like
   --color--bg, --font--body) layered with a black-and-white header
@@ -185,6 +189,13 @@ This is a recommendation based on standard e-commerce patterns, not measured sit
 Touch targets for nav and button components should maintain a minimum 44×44px hit area. The mega-nav-panel should collapse into an accordion list below tablet width given the depth of the observed category tree. No JavaScript-driven interaction (menu open/close, cart drawer) was observed in static extraction; these behaviors are assumed based on typical Shopify theme conventions.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

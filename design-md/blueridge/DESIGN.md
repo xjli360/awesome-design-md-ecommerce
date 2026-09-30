@@ -4,6 +4,10 @@ name: "BlueRidge"
 source_url: "https://www.blueridgeair.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Spec numbers crowd the top of every BlueRidge product card — BTU ratings at 20px bold before a model name appears, a hierarchy that signals a brand sold to homeowners who already know what they need. The palette anchors on a medium mountain-sky blue (#1B5FAF) that reads consistently from nav links through primary CTAs to icon fills, with no secondary accent competing for that role. Backgrounds hold to white (#FFFFFF) with a faint cool wash ({colors.surface-soft} at #F0F5FC) beneath specification grids, giving data-dense layouts an airy container rather than a heavy technical register. The energy efficiency badge — forest green (#2E8B57) — stands deliberately apart from primary blue, marking a compliance fact rather than a brand moment, and it never appears in decorative contexts.
 
@@ -355,6 +359,14 @@ components:
 - Hero-banner copy truncates headline from 40px to 28px (`{typography.display-md}`) on mobile with line-clamp on body text at 3 lines
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

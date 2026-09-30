@@ -4,6 +4,10 @@ name: "Meghan Bo Designs"
 source_url: "https://www.meghanbo.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Gold fills the frame before the serif does — Meghan Bo's homepage leads with warm, close-cropped jewelry photography where 14k gold catches ambient light in a way that makes the product feel wearable rather than precious. The brand occupies a register of restrained intimacy: small-batch, handmade-feeling fine jewelry priced for daily wear, communicated through a cream-and-gold palette that keeps the metal itself as the loudest visual statement. Display type leans into a high-contrast serif — the kind with hairline horizontals and swelled verticals borrowed from editorial fashion print — while body copy shifts to a geometric sans-serif at modest weights, a pairing that reads as "jewelry boutique" without being fusty. Buttons are minimal: thin-bordered outlines or flat-gold fills with generous letter-spacing in uppercase, echoing the restraint of a museum label beside an object that speaks for itself. Product cards strip back to a single image, name, and price with no badges or urgency mechanics — the brand trusts the object. Navigation stays slim and centered, a single horizontal row of category names in spaced-out caps that disappear on scroll so the photography can breathe. The overall rhythm is slow and unhurried: wide section padding, tight gutter widths, a canvas that sits closer to warm ivory (#FAF8F5) than clinical white, lending a tactile analog warmth to every screen. Rounded corners are conservative — a small `{rounded.sm}` on cards and inputs rather than pill shapes — reinforcing the artisan seriousness rather than playful DTC softness. Hairlines are faint warm stone (#E8E2D9), borders that whisper rather than divide. The gold accent (#B8965A) earns its role as primary by appearing in only the most decisive moments: active CTAs, hover underlines, and the thin rule that separates site header from body.
 
@@ -366,6 +370,13 @@ components:
 - Collection sub-nav (if present) wraps to a horizontal scroll strip on mobile rather than stacking vertically
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

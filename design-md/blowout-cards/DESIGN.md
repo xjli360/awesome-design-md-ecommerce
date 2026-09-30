@@ -4,6 +4,10 @@ name: "Blowout Cards"
 source_url: "https://www.blowoutcards.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Blowout Cards runs on anticipation — every page is organized around the moment before a box is cracked, and the UI architecture reflects it: heavy red call-to-action buttons against a near-black persistent header, category grids dense enough to scan forty SKUs without scrolling, and price tags rendered at knockout weight so a $299 hobby box reads as immediately as a $19 blaster. The primary red (approximately #cc1a1a, estimated from brand knowledge — no hex values were extracted from the live site) is the sole voltage color in an otherwise monochrome interface, appearing on "Add to Cart" controls, sale callouts, the wordmark, and badge accents. Without that red, the page would read as a dark-mode corporate catalog; with it, the urgency of a limited-release drop is always present. Body text runs at high density by consumer-retail standards, accommodating the long, hyphenated SKU strings that hobby collectors depend on — "2024 Panini Prizm Football Hobby Box" must fit on one line on a product card without truncation. Navigation is flatter than the catalog depth would suggest: a dark persistent bar holds sport and category links with direct dropdowns, and a forum link surfaces the Blowout Forums community beside the shop header — dual-mode browsing between purchasing and community discussion is a primary use pattern, not an afterthought. Product cards operate at fixed aspect ratios around sealed-box photography, with a "New" or "Hot Deal" badge system providing the site's only secondary color accents (orange for deals, blue-tinted for new releases). The checkout flow is built for multi-item hauls: a persistent mini-cart sits in the header and the cart page encourages bundle building before proceeding, reflecting that a typical session involves four to eight items rather than a single impulse buy. A rotating sale or featured-deal banner occupies the top of every page, functioning as the primary weekly retention mechanism for collectors who return for new set releases. On mobile, the dense category nav collapses into a search-first layout that acknowledges collectors arrive knowing the exact set name they want rather than browsing by category.
 
@@ -359,6 +363,14 @@ components:
 - Footer columns stack to single-column accordion on mobile with expand/collapse per section
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Finisterre"
 source_url: "https://finisterre.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The browser chrome opens at #e7ddbb — a washed dune-sand that signals warmth against cold-water imagery before a single content pixel loads, making this one of the few outdoor retailers that greets users with a desert tone rather than the expected slate or institutional white. Deep ocean navies (#010b13, #384972, #272d45) form a pressurised dark stratum across the UI: hero backgrounds, navigation surfaces, and headline type all draw from this near-black-to-midnight range, giving surf and mountain photography maximum contrast without reaching for pure black. Type runs Helvetica Neue LT W05_55 Roman for body copy and labels; Helvetica Neue LT W05_75 Bold carries display headlines and primary call-to-actions — an austere, functional pairing that resists decorative weight in the same register that cold-water gear resists ornamentation. Warmth appears at pressure points: the sand (#e7ddbb) surfaces behind editorial content blocks and soft-background panels, while cold seafoam accents (#b2f9e9, #00caaa) mark ecological certifications and responsible-material callouts, reading as the colour of an Atlantic wave-face in flat overcast light. Buttons and product cards hold a short radius — {rounded.xs} to {rounded.sm} — keeping the interface structural and tool-like rather than consumer-soft. The spacing system opens wide at section level ({spacing.section}), letting full-bleed photography breathe; interior padding stays tight, with {spacing.base} and {spacing.sm} governing product-card and label contexts. A blue-gray midground (#9a9db1, #676986) handles secondary text and UI chrome, producing a palette that reads as a gradient from near-black to sand without a harsh step. The sustainability ethos surfaces visually through colour restraint: teal (#00caaa) appears only on ecological badges and certification marks, never as a blanket highlight across primary interactions.
 
@@ -342,6 +346,13 @@ components:
 - Collection header: headline drops one type scale (display-md → title-md) on mobile; description paragraph truncated to 3 lines with expand toggle
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -1,0 +1,1148 @@
+{
+  "schema_version": 1,
+  "source_url": "https://starface.world/",
+  "method": "browser-computed-components",
+  "viewports": [
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "press option+1 for screen-reader mode, option+0 to cancel\nac",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3400.515625
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(0, 0, 0)",
+            "font-family": "\"GT Pressura Mono Text\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "28.8px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "grid",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#shopify-section-header > sticky-header:nth-of-type(1) > header:nth-of-type(1)",
+          "label": "bag",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 107,
+            "height": 1000
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(253, 255, 0)",
+            "font-family": "\"GT Pressura Mono Text\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "28.8px",
+            "letter-spacing": "normal",
+            "padding-top": "20px",
+            "padding-right": "0px",
+            "padding-bottom": "20px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "grid",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "heading",
+          "selector": "#shopify-section-header > sticky-header:nth-of-type(1) > header:nth-of-type(1) > h1:nth-of-type(1)",
+          "label": "",
+          "box": {
+            "x": 21.578125,
+            "y": 300,
+            "width": 63.84375,
+            "height": 400
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"ABC Diatype Rounded Heavy\", sans-serif",
+            "font-size": "40px",
+            "font-weight": "400",
+            "line-height": "0px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "body-copy",
+          "selector": "#shopify-section-template--18852409114695__10fe059e-6141-4c1f-be66-37d7bbc0f229 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(2)",
+          "label": "i’m big yellow! i’m a lil cube who loves having tons of fun ",
+          "box": {
+            "x": 140,
+            "y": 1838.328125,
+            "width": 380.328125,
+            "height": 66
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"GT Pressura Mono Text\", sans-serif",
+            "font-size": "18px",
+            "font-weight": "400",
+            "line-height": "22px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "10px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#\\[object\\ HTMLInputElement\\] > div:nth-of-type(1) > button:nth-of-type(1)",
+          "label": "add to bag\nregular price\n$6.99",
+          "box": {
+            "x": 135,
+            "y": 1245.40625,
+            "width": 200,
+            "height": 42
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "\"ABC Diatype Rounded Black\", sans-serif",
+            "font-size": "18px",
+            "font-weight": "400",
+            "line-height": "normal",
+            "letter-spacing": "normal",
+            "padding-top": "7px",
+            "padding-right": "12px",
+            "padding-bottom": "7px",
+            "padding-left": "12px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "30px",
+            "row-gap": "30px",
+            "column-gap": "30px",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#\\[object\\ HTMLInputElement\\] > div:nth-of-type(1) > button:nth-of-type(1)",
+          "label": "add to bag\nregular price\n$16.99",
+          "box": {
+            "x": 578.328125,
+            "y": 688.40625,
+            "width": 203.0625,
+            "height": 42
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "\"ABC Diatype Rounded Black\", sans-serif",
+            "font-size": "18px",
+            "font-weight": "400",
+            "line-height": "normal",
+            "letter-spacing": "normal",
+            "padding-top": "7px",
+            "padding-right": "12px",
+            "padding-bottom": "7px",
+            "padding-left": "12px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "30px",
+            "row-gap": "30px",
+            "column-gap": "30px",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "product-card",
+          "selector": "#shopify-section-template--18852409114695__10fe059e-6141-4c1f-be66-37d7bbc0f229 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+          "label": "star strips®\nremove blackheads for visibly smoother skin.\nad",
+          "box": {
+            "x": 110,
+            "y": 560,
+            "width": 440.328125,
+            "height": 777.40625
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"GT Pressura Mono Text\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "28.8px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "3px",
+            "border-radius": "24px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "#shopify-section-footer > footer:nth-of-type(1)",
+          "label": "treat me\nlike a star\n\nbe the first to hear about new stuff f",
+          "box": {
+            "x": 110,
+            "y": 2660.734375,
+            "width": 1330,
+            "height": 710.984375
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(0, 0, 0)",
+            "font-family": "\"GT Pressura Mono Text\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "28.8px",
+            "letter-spacing": "normal",
+            "padding-top": "36px",
+            "padding-right": "0px",
+            "padding-bottom": "20px",
+            "padding-left": "0px",
+            "margin-top": "48px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(255, 255, 255)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/menu_nav_icon_-_bestsellers_9304d5a7-73df-473d-93d5-1e11a95b8f9b.png?v=1760627180",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/menu_nav_icon_-_hydrostars.png?v=1760628574",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-sugar-rush-star-balm-bundle-limited.png",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-star-wash-salicylic-acid-cleanser-star-strips-skincare-new.png?v=1766156837",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/menu_nav_icon_-_bundles.png?v=1760628574",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/menu_nav_icon_-_bestsellers_9304d5a7-73df-473d-93d5-1e11a95b8f9b.png?v=1760627180",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/menu_nav_icon_-_hydrostars.png?v=1760628574",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-sugar-rush-star-balm-bundle-limited.png",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-star-wash-salicylic-acid-cleanser-star-strips-skincare-new.png?v=1766156837",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/menu_nav_icon_-_bundles.png?v=1760628574",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://starface.world/cdn/shop/files/starface-star-strips-pore-strips-pack-1.jpg?v=1772654971&width=360",
+          "alt": "",
+          "width": 327,
+          "height": 409
+        },
+        {
+          "url": "https://starface.world/cdn/shop/t/490/assets/wishlist-selected.png?v=155330722688425347661776778612",
+          "alt": "",
+          "width": 240,
+          "height": 202
+        }
+      ],
+      "document_width": 1440,
+      "viewport": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 1000
+      },
+      "states": {
+        "initial": "observed",
+        "hover": "unavailable",
+        "focus": "unavailable",
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-desktop.png",
+        "sha256": "fbb14e6d67bf100830c9c5f88cc3088eaeabf0638b85e586c9403548f9554a96",
+        "public_path": "evidence/viewport-desktop.png"
+      }
+    },
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "press option+1 for screen-reader mode, option+0 to cancel\nac",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 5939.109375
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(0, 0, 0)",
+            "font-family": "\"GT Pressura Mono Text\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "28.8px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "grid",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#shopify-section-header > sticky-header:nth-of-type(1) > header:nth-of-type(1)",
+          "label": "bag",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 84
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(253, 255, 0)",
+            "font-family": "\"GT Pressura Mono Text\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "28.8px",
+            "letter-spacing": "normal",
+            "padding-top": "20px",
+            "padding-right": "50px",
+            "padding-bottom": "20px",
+            "padding-left": "50px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "grid",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "1600px"
+          },
+          "occluded": false
+        },
+        {
+          "role": "heading",
+          "selector": "#shopify-section-header > sticky-header:nth-of-type(1) > header:nth-of-type(1) > h1:nth-of-type(1)",
+          "label": "",
+          "box": {
+            "x": 284,
+            "y": 26.03125,
+            "width": 200,
+            "height": 31.921875
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"ABC Diatype Rounded Heavy\", sans-serif",
+            "font-size": "40px",
+            "font-weight": "400",
+            "line-height": "0px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "body-copy",
+          "selector": "#shopify-section-template--18852409114695__10fe059e-6141-4c1f-be66-37d7bbc0f229 > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(7) > p:nth-of-type(2)",
+          "label": "i’m big yellow! i’m a lil cube who loves having tons of fun ",
+          "box": {
+            "x": 33,
+            "y": 4637.953125,
+            "width": 319.5,
+            "height": 115.1875
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"GT Pressura Mono Text\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "28.8px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "16px",
+            "margin-bottom": "16px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#\\[object\\ HTMLInputElement\\] > div:nth-of-type(1) > button:nth-of-type(1)",
+          "label": "add to bag\nregular price\n$16.99",
+          "box": {
+            "x": 28,
+            "y": 1249.375,
+            "width": 203.0625,
+            "height": 42
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "\"ABC Diatype Rounded Black\", sans-serif",
+            "font-size": "18px",
+            "font-weight": "400",
+            "line-height": "normal",
+            "letter-spacing": "normal",
+            "padding-top": "7px",
+            "padding-right": "12px",
+            "padding-bottom": "7px",
+            "padding-left": "12px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "30px",
+            "row-gap": "30px",
+            "column-gap": "30px",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#\\[object\\ HTMLInputElement\\] > div:nth-of-type(1) > button:nth-of-type(1)",
+          "label": "add to bag\nregular price\n$13.98",
+          "box": {
+            "x": 28,
+            "y": 1949.75,
+            "width": 203.0625,
+            "height": 42
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "\"ABC Diatype Rounded Black\", sans-serif",
+            "font-size": "18px",
+            "font-weight": "400",
+            "line-height": "normal",
+            "letter-spacing": "normal",
+            "padding-top": "7px",
+            "padding-right": "12px",
+            "padding-bottom": "7px",
+            "padding-left": "12px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "30px",
+            "row-gap": "30px",
+            "column-gap": "30px",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "product-card",
+          "selector": "#shopify-section-template--18852409114695__10fe059e-6141-4c1f-be66-37d7bbc0f229 > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2)",
+          "label": "hydro-stars® + big blue\nunclog pores and visibly shrink spot",
+          "box": {
+            "x": 3,
+            "y": 644,
+            "width": 379.5,
+            "height": 697.375
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"GT Pressura Mono Text\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "28.8px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "24px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "#shopify-section-footer > footer:nth-of-type(1)",
+          "label": "treat me\nlike a star\n\nbe the first to hear about new stuff f",
+          "box": {
+            "x": 0,
+            "y": 5014.328125,
+            "width": 768,
+            "height": 895.984375
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(0, 0, 0)",
+            "font-family": "\"GT Pressura Mono Text\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "28.8px",
+            "letter-spacing": "normal",
+            "padding-top": "36px",
+            "padding-right": "0px",
+            "padding-bottom": "20px",
+            "padding-left": "0px",
+            "margin-top": "48px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(255, 255, 255)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/menu_nav_icon_-_bestsellers_9304d5a7-73df-473d-93d5-1e11a95b8f9b.png?v=1760627180",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/menu_nav_icon_-_hydrostars.png?v=1760628574",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-sugar-rush-star-balm-bundle-limited.png",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-star-wash-salicylic-acid-cleanser-star-strips-skincare-new.png?v=1766156837",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/menu_nav_icon_-_bundles.png?v=1760628574",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/menu_nav_icon_-_bestsellers_9304d5a7-73df-473d-93d5-1e11a95b8f9b.png?v=1760627180",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/menu_nav_icon_-_hydrostars.png?v=1760628574",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-sugar-rush-star-balm-bundle-limited.png",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-star-wash-salicylic-acid-cleanser-star-strips-skincare-new.png?v=1766156837",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/menu_nav_icon_-_bundles.png?v=1760628574",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://starface.world/cdn/shop/files/starface-star-strips-pore-strips-pack-1.jpg?v=1772654971&width=360",
+          "alt": "",
+          "width": 216,
+          "height": 270
+        },
+        {
+          "url": "https://starface.world/cdn/shop/t/490/assets/wishlist-selected.png?v=155330722688425347661776778612",
+          "alt": "",
+          "width": 240,
+          "height": 202
+        }
+      ],
+      "document_width": 768,
+      "viewport": {
+        "name": "tablet",
+        "width": 768,
+        "height": 1024
+      },
+      "states": {
+        "initial": "observed",
+        "hover": "not_measured",
+        "focus": "not_measured",
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-tablet.png",
+        "sha256": "e8150fb8a8a93166b89a3c9197c539e08e1c3106cdf1f7eb73a9e4005ede93af",
+        "public_path": "evidence/viewport-tablet.png"
+      }
+    },
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "press option+1 for screen-reader mode, option+0 to cancel\nac",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 3897.453125
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(0, 0, 0)",
+            "font-family": "\"GT Pressura Mono Text\", sans-serif",
+            "font-size": "15.6px",
+            "font-weight": "400",
+            "line-height": "28.08px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "grid",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#shopify-section-header > sticky-header:nth-of-type(1) > header:nth-of-type(1)",
+          "label": "bag",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 84
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(253, 255, 0)",
+            "font-family": "\"GT Pressura Mono Text\", sans-serif",
+            "font-size": "15.6px",
+            "font-weight": "400",
+            "line-height": "28.08px",
+            "letter-spacing": "normal",
+            "padding-top": "20px",
+            "padding-right": "15px",
+            "padding-bottom": "20px",
+            "padding-left": "15px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "grid",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "1600px"
+          },
+          "occluded": false
+        },
+        {
+          "role": "heading",
+          "selector": "#shopify-section-header > sticky-header:nth-of-type(1) > header:nth-of-type(1) > h1:nth-of-type(1)",
+          "label": "",
+          "box": {
+            "x": 95,
+            "y": 26.03125,
+            "width": 200,
+            "height": 31.921875
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"ABC Diatype Rounded Heavy\", sans-serif",
+            "font-size": "30px",
+            "font-weight": "400",
+            "line-height": "0px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "body-copy",
+          "selector": "#shopify-section-template--18852409114695__10fe059e-6141-4c1f-be66-37d7bbc0f229 > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > p:nth-of-type(2)",
+          "label": "i’m big yellow! i’m a lil cube who loves having tons of fun ",
+          "box": {
+            "x": 33,
+            "y": 1731.765625,
+            "width": 324,
+            "height": 54
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"GT Pressura Mono Text\", sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "18px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "10px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#\\[object\\ HTMLInputElement\\] > div:nth-of-type(1) > button:nth-of-type(1)",
+          "label": "add to bag\nregular price\n$16.99",
+          "box": {
+            "x": 28,
+            "y": 661.984375,
+            "width": 203.0625,
+            "height": 42
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "\"ABC Diatype Rounded Black\", sans-serif",
+            "font-size": "18px",
+            "font-weight": "400",
+            "line-height": "normal",
+            "letter-spacing": "normal",
+            "padding-top": "7px",
+            "padding-right": "12px",
+            "padding-bottom": "7px",
+            "padding-left": "12px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "30px",
+            "row-gap": "30px",
+            "column-gap": "30px",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#\\[object\\ HTMLInputElement\\] > div:nth-of-type(1) > button:nth-of-type(1)",
+          "label": "add to bag\nregular price\n$13.98",
+          "box": {
+            "x": 395.796875,
+            "y": 661.984375,
+            "width": 203.0625,
+            "height": 42
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "\"ABC Diatype Rounded Black\", sans-serif",
+            "font-size": "18px",
+            "font-weight": "400",
+            "line-height": "normal",
+            "letter-spacing": "normal",
+            "padding-top": "7px",
+            "padding-right": "12px",
+            "padding-bottom": "7px",
+            "padding-left": "12px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "30px",
+            "row-gap": "30px",
+            "column-gap": "30px",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "product-card",
+          "selector": "#Slide-products > div:nth-of-type(1)",
+          "label": "hydro-stars® + big blue\nunclog pores and visibly shrink spot",
+          "box": {
+            "x": 3,
+            "y": 87,
+            "width": 364.796875,
+            "height": 692.984375
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"GT Pressura Mono Text\", sans-serif",
+            "font-size": "15.6px",
+            "font-weight": "400",
+            "line-height": "28.08px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "26px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "footer",
+          "selector": "#shopify-section-footer > footer:nth-of-type(1)",
+          "label": "treat me\nlike a star\n\nbe the first to hear about new stuff f",
+          "box": {
+            "x": 0,
+            "y": 2715.65625,
+            "width": 390,
+            "height": 1153.734375
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(0, 0, 0)",
+            "font-family": "\"GT Pressura Mono Text\", sans-serif",
+            "font-size": "15.6px",
+            "font-weight": "400",
+            "line-height": "28.08px",
+            "letter-spacing": "normal",
+            "padding-top": "36px",
+            "padding-right": "0px",
+            "padding-bottom": "20px",
+            "padding-left": "0px",
+            "margin-top": "48px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(255, 255, 255)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/menu_nav_icon_-_bestsellers_9304d5a7-73df-473d-93d5-1e11a95b8f9b.png?v=1760627180",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/menu_nav_icon_-_hydrostars.png?v=1760628574",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-sugar-rush-star-balm-bundle-limited.png",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-star-wash-salicylic-acid-cleanser-star-strips-skincare-new.png?v=1766156837",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/menu_nav_icon_-_bundles.png?v=1760628574",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/menu_nav_icon_-_bestsellers_9304d5a7-73df-473d-93d5-1e11a95b8f9b.png?v=1760627180",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/menu_nav_icon_-_hydrostars.png?v=1760628574",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-sugar-rush-star-balm-bundle-limited.png",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-star-wash-salicylic-acid-cleanser-star-strips-skincare-new.png?v=1766156837",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/menu_nav_icon_-_bundles.png?v=1760628574",
+          "alt": "",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://starface.world/cdn/shop/files/starface-star-strips-pore-strips-pack-1.jpg?v=1772654971&width=360",
+          "alt": "",
+          "width": 177,
+          "height": 221
+        },
+        {
+          "url": "https://starface.world/cdn/shop/t/490/assets/wishlist-selected.png?v=155330722688425347661776778612",
+          "alt": "",
+          "width": 240,
+          "height": 202
+        }
+      ],
+      "document_width": 390,
+      "viewport": {
+        "name": "mobile",
+        "width": 390,
+        "height": 844
+      },
+      "states": {
+        "initial": "observed",
+        "hover": "not_measured",
+        "focus": "not_measured",
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-mobile.png",
+        "sha256": "8cad732da8c838d40b37fb25c99950207118cc3abb07888112e20b7d118119f1",
+        "public_path": "evidence/viewport-mobile.png"
+      }
+    }
+  ],
+  "visual_validation": {
+    "status": "not_performed",
+    "reason": "No implementation generated from DESIGN.md has been compared with the reference."
+  },
+  "brand_review": {
+    "decision": "matched_brand",
+    "reviewed_on": "2026-09-30",
+    "title": "Starface Pimple Patches Shrink Spots Overnight | Starface World",
+    "final_url": "https://starface.world/",
+    "capture_id": "cf2ad446e2e94ad2b574755945809de7",
+    "expected_brand": "Starface"
+  },
+  "requested_url": "https://starface.world",
+  "captured_at": "2026-09-30T09:02:30.163467+00:00",
+  "capture_id": "cf2ad446e2e94ad2b574755945809de7",
+  "landing_page_sha256": "88d48efd5ad1637bed0d313ac39187d46e561e77fdc2e5cfef13f5863132a10b"
+}

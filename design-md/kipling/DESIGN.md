@@ -4,6 +4,10 @@ name: "Kipling"
 source_url: "https://kipling.com"
 captured_at: "2026-09-29T04:10:34.858540+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from the live us.kipling.com storefront CSS,
   a Shopify-based site presenting Kipling's soft-goods range: handbags,
@@ -165,6 +169,13 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets should be at minimum 44×44px for nav and swatch controls. The mega-menu (implied by the deep category list: Handbags, Backpacks, Luggage, Accessories, Collabs, Personalization, Gifts, Sale, Outlet) is expected to collapse into an accordion drawer below tablet width. None of this was directly observed in rendered layout; it is a standard e-commerce pattern applied to the evidence provided.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Extraction is static (CSS + text only); no rendered screenshots, computed layout, or interaction states (hover, focus, active, error) were observed.

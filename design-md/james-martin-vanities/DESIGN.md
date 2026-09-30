@@ -4,6 +4,10 @@ name: "James Martin Vanities"
 source_url: "https://jamesmartinvanities.com"
 captured_at: "2026-09-29T04:07:49.453225+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This specification derives from Shopify theme CSS and on-page text for James
   Martin Vanities, a bathroom-vanity and furniture retailer. The observed
@@ -165,6 +169,13 @@ Recommended, not measured from live rendering:
 Interactive controls (search, cart, nav toggles) should maintain a minimum 44×44px touch target; the mega-menu with dozens of collection names should collapse into an accordion on mobile, per typical patterns for this class of Shopify navigation, though this behavior itself was not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Extraction is static: no rendered screenshots, computed styles, or JavaScript-driven states (hover, mega-menu expansion, cart drawer) were observed.

@@ -1,0 +1,1355 @@
+{
+  "schema_version": 1,
+  "source_url": "https://www.drunkelephant.com/",
+  "method": "browser-computed-components",
+  "viewports": [
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "Skip to main content\n\nGet it together! 20% off a full-size m",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 4194.328125
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "BrownRegular, \"sans-serif\"",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "19.2px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#homepage-section-4 > div:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1)",
+          "label": "Our products play well with others",
+          "box": {
+            "x": 112,
+            "y": 2421.984375,
+            "width": 516,
+            "height": 117.6875
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "BrownRegular, \"sans-serif\"",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "19.2px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "navigation",
+          "selector": "#hamburger-menu",
+          "label": "main",
+          "box": {
+            "x": 14,
+            "y": 37.328125,
+            "width": 1242.5625,
+            "height": 230.3125
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "BrownRegular, \"sans-serif\"",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "19.2px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "heading",
+          "selector": "#main > h1:nth-of-type(1)",
+          "label": "Drunk Elephant | Skincare, Haircare, Bodycare & more..",
+          "box": {
+            "x": -1,
+            "y": 29.328125,
+            "width": 1,
+            "height": 1
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "BrownRegular, \"sans-serif\"",
+            "font-size": "66px",
+            "font-weight": "400",
+            "line-height": "66px",
+            "letter-spacing": "-1.98px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "-1px",
+            "margin-bottom": "-1px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "section-heading",
+          "selector": "#main > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "label": "Bestsellers",
+          "box": {
+            "x": 20,
+            "y": 864.296875,
+            "width": 306.09375,
+            "height": 77.984375
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "BrownRegular, \"sans-serif\"",
+            "font-size": "66px",
+            "font-weight": "400",
+            "line-height": "66px",
+            "letter-spacing": "-1.98px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "12px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "body-copy",
+          "selector": "#homepage-section-3 > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+          "label": "Drunk Elephant believes performance and\npersonality can live",
+          "box": {
+            "x": 57.59375,
+            "y": 1800.78125,
+            "width": 578.546875,
+            "height": 137.96875
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Brown",
+            "font-size": "23px",
+            "font-weight": "400",
+            "line-height": "27.6px",
+            "letter-spacing": "-0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#swiper-wrapper-8212c63b659c338b > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "label": "SHOP NOW",
+          "box": {
+            "x": 750,
+            "y": 710.34375,
+            "width": 294.984375,
+            "height": 29.984375
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "BrownBold, \"sans-serif\"",
+            "font-size": "12px",
+            "font-weight": "700",
+            "line-height": "14.4px",
+            "letter-spacing": "0.6px",
+            "padding-top": "5.99999px",
+            "padding-right": "5.99999px",
+            "padding-bottom": "5.99999px",
+            "padding-left": "5.99999px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#swiper-wrapper-8212c63b659c338b > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "label": "SHOP NOW",
+          "box": {
+            "x": 750,
+            "y": 710.34375,
+            "width": 294.984375,
+            "height": 29.984375
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "BrownBold, \"sans-serif\"",
+            "font-size": "12px",
+            "font-weight": "700",
+            "line-height": "14.4px",
+            "letter-spacing": "0.6px",
+            "padding-top": "5.99999px",
+            "padding-right": "5.99999px",
+            "padding-bottom": "5.99999px",
+            "padding-left": "5.99999px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "product-card",
+          "selector": "#\\39 ec7bac83a90122d3861c2b7d0",
+          "label": "CLEANSER\nBeste™ No. 9 Jelly Cleanser\n$18.00 - \nto\n$36.00\nADD",
+          "box": {
+            "x": 22.984375,
+            "y": 947.25,
+            "width": 329.03125,
+            "height": 483.765625
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "BrownRegular, \"sans-serif\"",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "19.2px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "3px",
+            "margin-bottom": "3px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "#container > footer:nth-of-type(1)",
+          "label": "#barewithus\n@drunkelephant\n#barewithus\n@drunkelephant\n#barew",
+          "box": {
+            "x": 0,
+            "y": 3126.125,
+            "width": 1440,
+            "height": 1068.203125
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "BrownRegular, \"sans-serif\"",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "19.2px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/-/Sites-drunkelephant_us-Library/default/dw09b450ce/contentassetimages/2026/popup/DE-Kamo_evergreen-popup.jpg",
+          "alt": "",
+          "width": 600,
+          "height": 600
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/default/dw43671d70/images/redesign/magnifying-glass.svg",
+          "alt": "search form image",
+          "width": 19,
+          "height": 19
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/default/dwec331eda/images/redesign/location.svg",
+          "alt": "store locator image",
+          "width": 19,
+          "height": 19
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/default/dw43671d70/images/redesign/magnifying-glass.svg",
+          "alt": "search form image",
+          "width": 19,
+          "height": 19
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/default/dw71ab19f0/images/redesign/smiley.svg",
+          "alt": "user account image",
+          "width": 19,
+          "height": 19
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/default/dwf749f919/images/redesign/cart-bag.svg",
+          "alt": "view shopping cart.",
+          "width": 21,
+          "height": 21
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/default/dwa231b631/images/redesign/cart-bag-filled.svg",
+          "alt": "",
+          "width": 21,
+          "height": 21
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/default/dwe583c3ea/images/redesign/search-label.svg",
+          "alt": "search",
+          "width": 15,
+          "height": 15
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/-/Sites-drunkelephant_us-Library/default/dwa66a26e0/contentassetimages/2026/slider/HP-Kamo-ShadeRange-big.jpg",
+          "alt": "image",
+          "width": 1380,
+          "height": 1380
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/-/Sites-drunkelephant_us-Library/default/dwe508e956/contentassetimages/2026/slider/HP-Kamo-ShadeRange-small.jpg",
+          "alt": "image",
+          "width": 670,
+          "height": 670
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/-/Sites-drunkelephant_us-Library/default/dwccfeda63/contentassetimages/2026/slider/HP-Carousel_PLP_ProtinixBHydra-big.jpg",
+          "alt": "image",
+          "width": 1380,
+          "height": 1380
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/-/Sites-drunkelephant_us-Library/default/dw9ff4494a/contentassetimages/2026/slider/HP-Carousel_PLP-ProtinixBHydra-small.jpg",
+          "alt": "image",
+          "width": 640,
+          "height": 640
+        }
+      ],
+      "document_width": 1440,
+      "viewport": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 1000
+      },
+      "states": {
+        "initial": "observed",
+        "hover": {
+          "selector": "#swiper-wrapper-8212c63b659c338b > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "backgroundColor": "rgb(69, 71, 74)",
+            "borderColor": "rgb(69, 71, 74)",
+            "outline": "rgb(69, 71, 74) none 3px"
+          }
+        },
+        "focus": {
+          "selector": "#swiper-wrapper-8212c63b659c338b > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(82, 84, 87)",
+            "backgroundColor": "rgb(69, 71, 74)",
+            "borderColor": "rgb(69, 71, 74)",
+            "outline": "rgb(59, 153, 252) solid 1px"
+          }
+        },
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-desktop.png",
+        "sha256": "6ed3f1feda60d54f9c4a8301655b1a99d3ea8e5b6e49c3c14330a1b0ec1d42ff",
+        "public_path": "evidence/viewport-desktop.png"
+      }
+    },
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "Skip to main content\n\nGet it together! 20% off a full-size m",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 3535.734375
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "BrownRegular, \"sans-serif\"",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "19.2px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#homepage-section-4 > div:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1)",
+          "label": "Our products play well with others",
+          "box": {
+            "x": 59.984375,
+            "y": 1816.53125,
+            "width": 284.03125,
+            "height": 283.375
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "BrownRegular, \"sans-serif\"",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "19.2px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "navigation",
+          "selector": "#hamburger-menu",
+          "label": "main",
+          "box": {
+            "x": 14,
+            "y": 37.328125,
+            "width": 613,
+            "height": 254.765625
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "BrownRegular, \"sans-serif\"",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "19.2px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "heading",
+          "selector": "#main > h1:nth-of-type(1)",
+          "label": "Drunk Elephant | Skincare, Haircare, Bodycare & more..",
+          "box": {
+            "x": -1,
+            "y": 29.328125,
+            "width": 1,
+            "height": 1
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "BrownRegular, \"sans-serif\"",
+            "font-size": "36px",
+            "font-weight": "400",
+            "line-height": "36px",
+            "letter-spacing": "-1.08px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "-1px",
+            "margin-bottom": "-1px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "section-heading",
+          "selector": "#main > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "label": "Bestsellers",
+          "box": {
+            "x": 20,
+            "y": 578.265625,
+            "width": 306.09375,
+            "height": 77.984375
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "BrownRegular, \"sans-serif\"",
+            "font-size": "66px",
+            "font-weight": "400",
+            "line-height": "66px",
+            "letter-spacing": "-1.98px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "12px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "body-copy",
+          "selector": "#homepage-section-3 > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+          "label": "Drunk Elephant believes performance and\npersonality can live",
+          "box": {
+            "x": 30.71875,
+            "y": 1529.28125,
+            "width": 348.28125,
+            "height": 248.34375
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Brown",
+            "font-size": "23px",
+            "font-weight": "400",
+            "line-height": "27.6px",
+            "letter-spacing": "-0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#swiper-wrapper-8212c63b659c338b > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "label": "SHOP NOW",
+          "box": {
+            "x": 413.984375,
+            "y": 424.3124694824219,
+            "width": 126.984375,
+            "height": 29.984375
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "BrownBold, \"sans-serif\"",
+            "font-size": "10px",
+            "font-weight": "700",
+            "line-height": "10px",
+            "letter-spacing": "0.6px",
+            "padding-top": "5.99999px",
+            "padding-right": "5.99999px",
+            "padding-bottom": "5.99999px",
+            "padding-left": "5.99999px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#swiper-wrapper-8212c63b659c338b > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "label": "SHOP NOW",
+          "box": {
+            "x": 413.984375,
+            "y": 374.3280944824219,
+            "width": 126.984375,
+            "height": 29.984375
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "BrownBold, \"sans-serif\"",
+            "font-size": "10px",
+            "font-weight": "700",
+            "line-height": "10px",
+            "letter-spacing": "0.6px",
+            "padding-top": "5.99999px",
+            "padding-right": "5.99999px",
+            "padding-bottom": "5.99999px",
+            "padding-left": "5.99999px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "product-card",
+          "selector": "#\\39 ec7bac83a90122d3861c2b7d0",
+          "label": "CLEANSER\nBeste™ No. 9 Jelly Cleanser\n$18.00 - \nto\n$36.00\nADD",
+          "box": {
+            "x": 22.984375,
+            "y": 661.21875,
+            "width": 348.015625,
+            "height": 500.34375
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "BrownRegular, \"sans-serif\"",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "19.2px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "3px",
+            "margin-bottom": "3px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "#container > footer:nth-of-type(1)",
+          "label": "#barewithus\n@drunkelephant\n#barewithus\n@drunkelephant\n#barew",
+          "box": {
+            "x": 0,
+            "y": 2622.734375,
+            "width": 768,
+            "height": 913
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "BrownRegular, \"sans-serif\"",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "19.2px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/-/Sites-drunkelephant_us-Library/default/dw09b450ce/contentassetimages/2026/popup/DE-Kamo_evergreen-popup.jpg",
+          "alt": "",
+          "width": 600,
+          "height": 600
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/default/dw43671d70/images/redesign/magnifying-glass.svg",
+          "alt": "search form image",
+          "width": 19,
+          "height": 19
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/default/dwec331eda/images/redesign/location.svg",
+          "alt": "store locator image",
+          "width": 19,
+          "height": 19
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/default/dw43671d70/images/redesign/magnifying-glass.svg",
+          "alt": "search form image",
+          "width": 19,
+          "height": 19
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/default/dw71ab19f0/images/redesign/smiley.svg",
+          "alt": "user account image",
+          "width": 19,
+          "height": 19
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/default/dwf749f919/images/redesign/cart-bag.svg",
+          "alt": "view shopping cart.",
+          "width": 21,
+          "height": 21
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/default/dwa231b631/images/redesign/cart-bag-filled.svg",
+          "alt": "",
+          "width": 21,
+          "height": 21
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/default/dwe583c3ea/images/redesign/search-label.svg",
+          "alt": "search",
+          "width": 15,
+          "height": 15
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/-/Sites-drunkelephant_us-Library/default/dwa66a26e0/contentassetimages/2026/slider/HP-Kamo-ShadeRange-big.jpg",
+          "alt": "image",
+          "width": 1380,
+          "height": 1380
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/-/Sites-drunkelephant_us-Library/default/dwe508e956/contentassetimages/2026/slider/HP-Kamo-ShadeRange-small.jpg",
+          "alt": "image",
+          "width": 670,
+          "height": 670
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/-/Sites-drunkelephant_us-Library/default/dwccfeda63/contentassetimages/2026/slider/HP-Carousel_PLP_ProtinixBHydra-big.jpg",
+          "alt": "image",
+          "width": 1380,
+          "height": 1380
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/-/Sites-drunkelephant_us-Library/default/dw9ff4494a/contentassetimages/2026/slider/HP-Carousel_PLP-ProtinixBHydra-small.jpg",
+          "alt": "image",
+          "width": 640,
+          "height": 640
+        }
+      ],
+      "document_width": 768,
+      "viewport": {
+        "name": "tablet",
+        "width": 768,
+        "height": 1024
+      },
+      "states": {
+        "initial": "observed",
+        "hover": {
+          "selector": "#swiper-wrapper-8212c63b659c338b > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "backgroundColor": "rgb(69, 71, 74)",
+            "borderColor": "rgb(69, 71, 74)",
+            "outline": "rgb(69, 71, 74) none 3px"
+          }
+        },
+        "focus": {
+          "selector": "#swiper-wrapper-8212c63b659c338b > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(74, 76, 79)",
+            "backgroundColor": "rgb(69, 71, 74)",
+            "borderColor": "rgb(69, 71, 74)",
+            "outline": "rgb(59, 153, 252) solid 1px"
+          }
+        },
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-tablet.png",
+        "sha256": "3ae40b1eb264016d7c910bc525763d05966e873e2669cdaf0f86cc08869303de",
+        "public_path": "evidence/viewport-tablet.png"
+      }
+    },
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "Skip to main content\n\nGet it together! 20% off a full-size m",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 4252.015625
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "BrownRegular, \"sans-serif\"",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "19.2px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#homepage-section-4 > div:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1)",
+          "label": "Our products play well with others",
+          "box": {
+            "x": 44.96875,
+            "y": 2296.25,
+            "width": 300.0625,
+            "height": 193.875
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "BrownRegular, \"sans-serif\"",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "19.2px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "heading",
+          "selector": "#main > h1:nth-of-type(1)",
+          "label": "Drunk Elephant | Skincare, Haircare, Bodycare & more..",
+          "box": {
+            "x": -1,
+            "y": 36.53125,
+            "width": 1,
+            "height": 1
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "BrownRegular, \"sans-serif\"",
+            "font-size": "36px",
+            "font-weight": "400",
+            "line-height": "36px",
+            "letter-spacing": "-1.08px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "-1px",
+            "margin-bottom": "-1px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "section-heading",
+          "selector": "#main > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "label": "Bestsellers",
+          "box": {
+            "x": 14.984375,
+            "y": 805,
+            "width": 166.921875,
+            "height": 47.984375
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "BrownRegular, \"sans-serif\"",
+            "font-size": "36px",
+            "font-weight": "400",
+            "line-height": "36px",
+            "letter-spacing": "-1.08px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "12px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "body-copy",
+          "selector": "#homepage-section-3 > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+          "label": "Drunk Elephant believes\nperformance and personality can\nlive",
+          "box": {
+            "x": 27.296875,
+            "y": 1559.34375,
+            "width": 324.171875,
+            "height": 159.578125
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Brown",
+            "font-size": "19px",
+            "font-weight": "400",
+            "line-height": "22.8px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#swiper-wrapper-8212c63b659c338b > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(3) > a:nth-of-type(1)",
+          "label": "SHOP NOW",
+          "box": {
+            "x": 14.984375,
+            "y": 685.03125,
+            "width": 360.03125,
+            "height": 29.984375
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "BrownBold, \"sans-serif\"",
+            "font-size": "12px",
+            "font-weight": "700",
+            "line-height": "14.4px",
+            "letter-spacing": "0.6px",
+            "padding-top": "5.99999px",
+            "padding-right": "5.99999px",
+            "padding-bottom": "5.99999px",
+            "padding-left": "5.99999px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#swiper-wrapper-8212c63b659c338b > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(3) > a:nth-of-type(1)",
+          "label": "SHOP NOW",
+          "box": {
+            "x": 14.984375,
+            "y": 685.03125,
+            "width": 360.03125,
+            "height": 29.984375
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "BrownBold, \"sans-serif\"",
+            "font-size": "12px",
+            "font-weight": "700",
+            "line-height": "14.4px",
+            "letter-spacing": "0.6px",
+            "padding-top": "5.99999px",
+            "padding-right": "5.99999px",
+            "padding-bottom": "5.99999px",
+            "padding-left": "5.99999px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "product-card",
+          "selector": "#\\39 ec7bac83a90122d3861c2b7d0",
+          "label": "CLEANSER\nBeste™ No. 9 Jelly Cleanser\n$18.00 - \nto\n$36.00\nADD",
+          "box": {
+            "x": 17.96875,
+            "y": 865.96875,
+            "width": 278.03125,
+            "height": 416.359375
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "BrownRegular, \"sans-serif\"",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "19.2px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "3px",
+            "margin-bottom": "3px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "#container > footer:nth-of-type(1)",
+          "label": "#barewithus\n@drunkelephant\n#barewithus\n@drunkelephant\n#barew",
+          "box": {
+            "x": 0,
+            "y": 3208.96875,
+            "width": 390,
+            "height": 1043.046875
+          },
+          "styles": {
+            "color": "rgb(69, 71, 74)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "BrownRegular, \"sans-serif\"",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "19.2px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(69, 71, 74)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/-/Sites-drunkelephant_us-Library/default/dw09b450ce/contentassetimages/2026/popup/DE-Kamo_evergreen-popup.jpg",
+          "alt": "",
+          "width": 600,
+          "height": 600
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/default/dw43671d70/images/redesign/magnifying-glass.svg",
+          "alt": "search form image",
+          "width": 19,
+          "height": 19
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/default/dwec331eda/images/redesign/location.svg",
+          "alt": "store locator image",
+          "width": 19,
+          "height": 19
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/default/dw43671d70/images/redesign/magnifying-glass.svg",
+          "alt": "search form image",
+          "width": 19,
+          "height": 19
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/default/dw71ab19f0/images/redesign/smiley.svg",
+          "alt": "user account image",
+          "width": 19,
+          "height": 19
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/default/dwf749f919/images/redesign/cart-bag.svg",
+          "alt": "view shopping cart.",
+          "width": 21,
+          "height": 21
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/default/dwa231b631/images/redesign/cart-bag-filled.svg",
+          "alt": "",
+          "width": 21,
+          "height": 21
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/default/dwe583c3ea/images/redesign/search-label.svg",
+          "alt": "search",
+          "width": 15,
+          "height": 15
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/-/Sites-drunkelephant_us-Library/default/dwa66a26e0/contentassetimages/2026/slider/HP-Kamo-ShadeRange-big.jpg",
+          "alt": "image",
+          "width": 1380,
+          "height": 1380
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/-/Sites-drunkelephant_us-Library/default/dwe508e956/contentassetimages/2026/slider/HP-Kamo-ShadeRange-small.jpg",
+          "alt": "image",
+          "width": 670,
+          "height": 670
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/-/Sites-drunkelephant_us-Library/default/dwccfeda63/contentassetimages/2026/slider/HP-Carousel_PLP_ProtinixBHydra-big.jpg",
+          "alt": "image",
+          "width": 1380,
+          "height": 1380
+        },
+        {
+          "url": "https://www.drunkelephant.com/on/demandware.static/-/Sites-drunkelephant_us-Library/default/dw9ff4494a/contentassetimages/2026/slider/HP-Carousel_PLP-ProtinixBHydra-small.jpg",
+          "alt": "image",
+          "width": 640,
+          "height": 640
+        }
+      ],
+      "document_width": 390,
+      "viewport": {
+        "name": "mobile",
+        "width": 390,
+        "height": 844
+      },
+      "states": {
+        "initial": "observed",
+        "hover": "not_measured",
+        "focus": "not_measured",
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-mobile.png",
+        "sha256": "908759707a62f03c7690bea77770ec8181a0aa0a5f390920f34aa913cb72be31",
+        "public_path": "evidence/viewport-mobile.png"
+      }
+    }
+  ],
+  "visual_validation": {
+    "status": "not_performed",
+    "reason": "No implementation generated from DESIGN.md has been compared with the reference."
+  },
+  "brand_review": {
+    "decision": "matched_brand",
+    "reviewed_on": "2026-09-30",
+    "title": "Drunk Elephant | Biocompatible Skincare",
+    "final_url": "https://www.drunkelephant.com/",
+    "capture_id": "ad9d2488b59749d9a4d88cc677679611",
+    "expected_brand": "Drunk Elephant"
+  },
+  "requested_url": "https://www.drunkelephant.com",
+  "captured_at": "2026-09-30T09:01:20.809036+00:00",
+  "capture_id": "ad9d2488b59749d9a4d88cc677679611",
+  "landing_page_sha256": "9097d04d1470bbd14ff9bf6ff3bad77f634065d80f9128185dc42c97f3e17ee0"
+}

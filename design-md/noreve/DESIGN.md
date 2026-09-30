@@ -4,6 +4,10 @@ name: "Noreve"
 source_url: "https://www.noreve.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A leather-goods house that happens to sell phone cases, Noreve stakes its identity on a deep oxblood #81191f — a color that reads as saddle patina rather than corporate red, appearing on every primary CTA, add-to-cart button, and checkout trigger. The palette is otherwise restrained: a warm off-white canvas #fbfbfb, soft stone surfaces #f7f7f7, and a charcoal ink #555555 that keeps body text legible without the harshness of pure black. The extracted hex list reveals a brand that leans heavily on earthy neutrals (#d6d4d4, #ededed, #d0d0d0) punctuated by two accent voltages — a copper #e4752b for sale badges and a deep navy #428bca for informational links. Typography runs Roboto across the system, set at modest weights (400 for body, 500 for buttons, 600 for headings), with display sizes hovering around 20-24px rather than the oversized hero type common in fashion e-commerce. The brand trusts its material photography — close-ups of grain, stitching, and edge paint — over typographic drama. Cards use soft {rounded.sm} corners, buttons are pill-shaped at {rounded.full}, and the navigation bar sits at a compact 64px height, letting product imagery dominate the viewport. The overall effect is that of a small atelier: the oxblood anchor, the warm greys, and the copper accents create a palette that feels burnished rather than polished, as if the interface itself were made of the same leather as the products it sells.
 
@@ -330,6 +334,13 @@ components:
 - Multi-column layouts (product grids, feature lists) collapse to single column below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

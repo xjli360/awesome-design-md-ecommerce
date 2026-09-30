@@ -4,6 +4,10 @@ name: "Pilot Pen"
 source_url: "https://pilotpen.us"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Three shades of the same navy — #054a7a anchoring the deep end, #0f72b7 as the working primary, #0b598f threading between them — compress the entire brand voltage into a single blue family that reads like the color of fresh ink drying on cotton-bond paper. The palette is nearly monochromatic: one gray (#eeeeee) provides the only departure from the blue-and-white axis, leaving the white canvas and the ink-blue spectrum to carry every product shot, CTA, and editorial block. This restraint is purposeful. A writing instrument brand selling precision and longevity doesn't reach for chromatic noise; the blue does everything.
 
@@ -339,6 +343,13 @@ components:
 - Feature callout left-border accent is preserved at all breakpoints; the row layout collapses to vertical stacking on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

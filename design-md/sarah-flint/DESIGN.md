@@ -4,6 +4,10 @@ name: "Sarah Flint"
 source_url: "https://sarahflint.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Ivypresto Display opens every headline with high-contrast ink-trap serifs — a deliberate type choice that anchors the handcraft story before a single word is read. The palette is built around a dusty blush (#c49494) that sits between muted terracotta and pale rose, specific enough to be a brand fingerprint yet subdued enough to recede behind the photography. Every page renders on a warm off-white canvas (#f7f4f2) rather than clinical white, giving product imagery a magazine-editorial warmth that a pure white would kill. Proxima Nova handles all body copy and UI chrome — its geometric regularity creates deliberate contrast against Ivypresto's sculptural serifs, signaling that legibility and elegance operate in separate registers. An oxblood accent (#6b1c1b) surfaces in hover and urgency states, drawing from the heritage of luxury leather goods without being decorative for its own sake. Corner radii are kept at zero to softly rounded (0–8px) across the entire system — no pill shapes, no heavy curves — aligning with European luxury footwear conventions rather than DTC softness. Navigation sits transparently above hero imagery and transitions to the warm white surface on scroll, with a centered wordmark and minimal utility icons. Product cards use tall 3:4 portrait ratios that prioritize the shoe's profile over lifestyle clutter, with Ivypresto carrying the product name and Proxima Nova the price. The functional blue (#334fb4) is confined to link states and never appears in brand moments. A blush badge marks new arrivals; an ink badge marks bestsellers. The system earns its premium register through typographic authority and photographic restraint rather than ornament or logo saturation.
 
@@ -340,6 +344,13 @@ components:
 - Product card badge moves from top-left image overlay to inline below price on very narrow widths if layout requires reflow
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

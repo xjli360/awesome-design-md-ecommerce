@@ -4,6 +4,10 @@ name: "Xtrfy"
 source_url: "https://xtrfy.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A competitive gaming hardware brand that uses #e50043 as its primary voltage — a red that sits between cherry and stop-sign, deployed as the sole accent across an otherwise monochrome palette of #eeeeee, #f7f7f7, #222222, and #36383a. The brand's visual system is built on contrast: pure white (#ffffff) canvases against deep near-black (#161e22) product photography backdrops, with #ede939 (a sharp yellow) and #d90001 (a darker crimson) appearing as secondary accents for limited-edition drops and badge highlights. Typography runs din-2014 at display sizes — a geometric sans-serif with military precision — paired with Arial/Helvetica Neue for body copy, creating a hierarchy where headlines feel engineered and body text recedes. Navigation is a full-width black bar (#222222) with white text, no logo mark visible at the top level, signaling that the brand trusts its product imagery and red dot to do the identification work. Buttons are pill-shaped ({rounded.full}) with the primary red fill, while secondary actions use outlined or ghost treatments against the dark nav. The overall mood is industrial, competitive, and unadorned — there is no gradient, no shadow play, no decorative illustration. Every design decision reads as a performance choice.
 
@@ -379,6 +383,13 @@ components:
 - Badges remain visible on all breakpoints but reduce font size to 10px on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

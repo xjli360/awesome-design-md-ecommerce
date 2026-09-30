@@ -4,6 +4,10 @@ name: "Electric & Rose"
 source_url: "https://www.electricandrose.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A coastal lifestyle brand that builds its visual identity on a foundation of crisp whites (#fafafa) and soft warm beiges (#faf4e8), punctuated by a signature red (#bc0000) that appears in primary calls-to-action, sale badges, and accent lines — a deliberate voltage against an otherwise airy, sun-bleached palette. The brand name itself suggests a duality: the electric charge of that red against the organic, rose-tinted softness of its supporting tones (#f9d3d3, #ffeae8, #fdd0d0). Typography leans on Arapey, a serif with genuine italic character, for display moments — a choice that reads as hand-lettered and personal rather than corporate. The extracted hex list reveals a brand that lives in the neutral zone (a dozen shades of gray from #d5d5d5 to #1e1e1e) but refuses to be boring, using that red as a consistent exclamation point. A secondary green (#007f5f) with its own soft halo (#e5fff8) suggests an eco-conscious or botanical sub-brand layer, possibly for sustainability messaging or collection drops. The Shopify platform backbone means product cards, collection grids, and cart drawers follow a familiar ecommerce rhythm, but the brand's visual choices — the serif type, the blush-toned surfaces, the restrained use of high-saturation color — push toward a boutique editorial feel rather than a volume-driven marketplace.
 
@@ -380,6 +384,13 @@ components:
 - Collection filters may collapse into a dropdown or slide-in panel at tablet and below
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

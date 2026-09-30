@@ -4,6 +4,10 @@ name: "Completedworks"
 source_url: "https://www.completedworks.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The citrus warmth of #ff974f appears as a single charged mark against a parchment ground (#f1efe9) — not a dominant surface but a punctuation that wakes up an otherwise spare palette of near-blacks and warm neutrals. Where most jewelry labels reach for gallery-white and cold silver to signal luxury, Completedworks holds the canvas at #f1efe9, a cream close enough to paper to read as analog before any product image loads, and lets that analog temperature carry the brand's character across every page state. Self Modern carries the display-level editorial weight at the top of the type hierarchy — a contemporary serif set light (weight 400, never 700) so it reads as a literary whisper rather than a market shout — while SemplicitaPro handles navigation, product labels, and all utilitarian copy in tightly tracked uppercase at 13px, producing the flat, spare atmosphere of a gallery wall card. The pairing of an idiosyncratic serif with a humanist sans creates a tonal split between the poetic (headlines, brand voice, editorial features) and the functional (nav, filters, price labels) that mirrors the brand's own position between fine-art object and wearable piece.
 
@@ -339,6 +343,13 @@ components:
 - Announcement bar remains visible on mobile but truncates with an ellipsis if copy exceeds one line
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

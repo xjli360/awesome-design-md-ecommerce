@@ -4,6 +4,10 @@ name: "Methodical Coffee"
 source_url: "https://methodicalcoffee.com"
 captured_at: "2026-09-28T09:45:29.519279+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is built from Shopify theme CSS variables, a supplied color palette, and font-family declarations for Methodical Coffee, a Greenville, SC coffee roaster and cafe brand. No hex value below is invented; every color is drawn from the supplied observed palette, though the specific UI role assigned to each (primary action, hairline, surface) is inferred since button and link colors were only exposed as unresolved CSS custom properties (e.g. --btn-bg-color) rather than resolved rgb values.
   The palette leans warm and cafe-like: cream canvas tones (#fffaf3, #fbf2e7) paired with a dark warm-brown ink (#3e3a37), suggesting a roastery aesthetic rather than a stark white e-commerce look. A brown accent (#8a501d) is proposed as the primary action color, consistent with coffee/roast theming, with red (#c20000), green (#3ea36a), and gold (#dd9a1a) reserved as inferred secondary accents for badges, promo banners, and status indicators — all pulled directly from the observed swatch set.
@@ -149,6 +153,13 @@ Recommended, not measured — the CSS confirms only that `--gutter` and `--conta
 Touch targets should be at least 44×44px for buttons and nav items per general accessibility guidance; this is a recommendation, not a verified measurement from the site.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS and page-text extraction only; no live rendering, computed styles, or interaction states (hover, focus, active, error, disabled) were observed. Button and link colors rely on unresolved CSS custom properties (e.g., `--btn-bg-color`, `--btn-text-color`); the specific role assignments in this document (primary, badge, accent colors) are inferred from the broader supplied palette, not confirmed resolved values. Layout structure (grid columns, mobile menu behavior, card spacing) is proposed based on common e-commerce/Shopify patterns and the taxonomy implied by page text, not measured from rendered DOM. Font availability, licensing, and web-font loading for Canela-Light/Medium and Hanken Grotesk were not verified — these are proprietary/licensed font names observed in CSS but not confirmed as self-hosted, subsetted, or properly licensed for reuse. Additional font families in evidence (Abril Fatface, Canela-Medium, Trirong) appear in the font list but their actual usage context on the site was not confirmed and are excluded from this interpretation's core typography scale.

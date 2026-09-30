@@ -4,6 +4,10 @@ name: "Porter Road"
 source_url: "https://porterroad.com"
 captured_at: "2026-09-28T09:47:29.471154+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Porter Road's site evidence points to a butcher-shop-modern aesthetic: a stark white
   canvas, near-black ink, and a single high-signal signal color (#ff3600, seen as
@@ -162,6 +166,13 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets should be at least 44×44px; the observed `.btn` padding (`20px`, `min-width:190px`) already satisfies this at desktop scale and should be preserved at mobile scale. Nav collapse and drawer/search-overlay interaction patterns are proposed and were not observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This spec is derived from static CSS/text extraction only; no rendered page, computed styles, or interaction states were observed. Several palette entries (#fbfb2f, #fff12d, #d82c0d, #d02e2e, #81c784, #66bb6a, #1990c6, #136f99, #0099ff) had no associated selector in the supplied evidence, so their assigned roles (accent, error, success) are inferred and should be verified against live markup. Body text color (`{colors.body}`) is inferred from the raw palette (#3f3a36) rather than a confirmed body-text selector. Font availability and licensing for Bau-Bold, Bau-Pro, and CentralAvenue-Bold (proprietary/custom names) were not verified; fallback stacks (Helvetica, Arial, sans-serif) are used per the observed CSS. All typography sizes outside the confirmed `.h1` and `.btn` rules are proposed, not measured. Card, footer, badge, and search visual details are inferred from page text and generic Shopify theme conventions, not from captured selectors. Mobile layout, hover/focus states, and drawer/overlay animation were not observed and are marked proposed throughout.

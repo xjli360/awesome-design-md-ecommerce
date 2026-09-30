@@ -4,6 +4,10 @@ name: "Baden Sports"
 source_url: "https://badensports.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A brand that lives in the gymnasium, not on a mood board — Baden Sports uses a deep near-black ink (#232323) as its primary text and structural color, a warm gold (#d9aa4d) as its single brand voltage, and a crisp white canvas (#fafafa) that lets product photography and bold typography carry the weight. The gold appears on primary CTAs, navigation highlights, and product badges, signaling quality and championship-level equipment without tipping into ostentation. The site runs on Shopify and reads as a serious sporting goods manufacturer that happens to sell direct — the visual system prioritizes clarity and trust over trend. Berthold Akzidenz Grotesk and Proxima Nova Rg drive the typography, with display sizes at 28–36px and moderate weights (500–700) that feel authoritative without shouting. Product cards use soft corners (`{rounded.sm}` ~8px) and generous white space (`{spacing.lg}` 24px between elements), while the gold CTA buttons (`{rounded.sm}`) sit on the dark ink background with white text — a high-contrast pairing that works equally well on basketballs, volleyballs, and custom team gear. The navigation bar is a dark band (`{colors.ink}`) with gold hover states, creating a clear hierarchy against the white body. There is no gratuitous decoration; every visual decision serves the goal of moving a coach or athletic director from browse to bulk order. The extracted hex palette includes a cluster of blues (#1878b9, #00529b, #38bdf8) and a red (#e22120) that likely belong to third-party payment widgets (Shopify Pay, Klarna) and social icons — the brand's true voice is black, gold, and white.
 
@@ -712,6 +716,14 @@ components:
 - Search bar collapses to an icon toggle on mobile, expanding to full-width input on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

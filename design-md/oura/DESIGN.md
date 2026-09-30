@@ -4,6 +4,10 @@ name: "Oura"
 source_url: "https://ouraring.com"
 captured_at: "2026-09-28T04:26:31.063630+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Oura's extracted palette centers on warm, low-contrast neutrals — a family of cream
   and putty tones (#f7f1e8, #ede9e4, #e7e0d9) that likely serve as canvas and section
@@ -147,6 +151,13 @@ This is a proposed recommendation, not measured site behavior, since no breakpoi
 Touch targets should be at least 44px in height for buttons and nav items; the observed `--menubar-height` fluid calc (`.0107 * 100vw + 50.48px`) suggests the header height scales slightly with viewport width, collapsing to a fixed 55–72px range at extremes — treat this as a hint, not a confirmed layout rule.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived solely from static CSS custom properties, selector fragments, and a raw color/font list; no rendered page, computed layout, or DOM structure was observed. Role assignments (primary, muted, hairline, surface-soft/card) are inferred from typical usage patterns of neutral/cream and near-black tones in DTC e-commerce and are not confirmed against actual applied styles. The teal/green/blue/plum/red/rose accent colors' semantic purpose (health-score states vs. ring-color swatches vs. payment-icon branding) is speculative. Typography sizes, weights, and line-heights are proposed defaults, not extracted values, since no font-size or weight declarations were present in the supplied CSS rules beyond the family names. Interaction states (hover, focus, active, disabled) and any mobile-specific layout were not observed. Availability and licensing of "AkkuratLL" and "Editorial New" as web fonts have not been verified.

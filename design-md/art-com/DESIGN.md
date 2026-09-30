@@ -4,6 +4,10 @@ name: "Art.com"
 source_url: "https://www.art.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Millions of prints compete for the eye on the same white canvas, so the interface earns its keep by receding — neutral grays (#404040, #595959, #737373) carry body copy while catalog imagery does the personality work. The one moment the brand asserts itself is at the call-to-action: a flat crimson (#bd2426) fires on every "Add to Cart" and checkout button, drawing the eye without competing with a Klimt or a Warhol in the adjacent thumbnail. Deep navy (#163959) anchors the top utility bar, category headers, and editorial rail labels, giving hierarchy to a system that otherwise runs entirely on system typography — Arial and Helvetica Neue at modest weights, staying visibly out of the art's way. Radius work is conservative throughout: product cards and input fields use {rounded.xs} corners rather than the pill geometry of lifestyle brands, reinforcing the catalog-department-store sensibility over boutique warmth. The badge system is color-coded and compact — warm orange (#f68b1f) signals "Best Seller," fresh green (#9bca3e) marks new arrivals, and sale pricing inherits the primary crimson, all rendered at 11px uppercase type against white card faces. Link affordances use a standard web blue (#0051c3) with no branded deviation, a deliberate choice that keeps navigation legible without pulling focus from product thumbnails. The page grid is image-forward at every breakpoint: a responsive masonry of square thumbnails, a horizontal-scroll rail for editorial picks, and a dark (#272727) footer that collapses into accordions on mobile. The overall visual language is high-volume and image-forward, trusting the art to supply the personality that the brand interface deliberately withholds.
 
@@ -373,6 +377,14 @@ components:
 - Footer four-column grid reflows to stacked sections with disclosure accordions; legal links remain a single inline row at the very bottom
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

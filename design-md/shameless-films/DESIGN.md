@@ -4,6 +4,10 @@ name: "Shameless Films"
 source_url: "https://www.shameless-films.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A cinema-obsessed digital storefront where #fbd616 — a hot, unapologetic yellow — acts as the single voltage that powers every primary CTA, price badge, and sale flag, cutting through a near-total black-and-charcoal canvas (#212121, #1f1f1f, #101010, #060606). The brand treats color as a rare resource: the yellow appears in tight, deliberate doses — a button, a tag, a star — never flooding the layout, always earning its attention. Typography runs on a system of monospaced and serif faces (Consolas, Menlo, Monaco, Courier) that evoke film-script formatting, title cards, and the technical language of cinema, while body copy defaults to Arial and Helvetica for readability. Product cards stack in dense, information-rich grids where every pixel carries weight: price, format, stock status, and a "NEW" or "SOLD OUT" badge sit within a single card, often with a yellow accent bar or filled badge. The overall mood is that of a repertory cinema lobby crossed with a collector's basement — dark walls, yellow signage, and the sense that every title has been hand-selected. Corners are mostly sharp ({rounded.xs} or {rounded.none}), with only the occasional pill-shaped badge or button ({rounded.full}) to break the rectilinear discipline. The extracted palette includes a wide range of blues (#003388, #0693e3, #0757fe, #0a7aff) and a green (#00d084) that likely belong to third-party payment widgets (Klarna, Afterpay, Shopify Pay) and social-icon sets rather than the brand itself; the true brand identity is built on the yellow-black binary, with #1a1a1a and #181818 as the primary canvas tones and #eeeeee and #f5f5f5 for body text on dark surfaces.
 
@@ -333,6 +337,13 @@ components:
 - Hero banner: dual-image layout collapses to single image on mobile; text overlay reduces from display-xl to display-lg.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

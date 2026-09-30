@@ -4,6 +4,10 @@ name: "On"
 source_url: "https://www.on-running.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A crisp, high-contrast performance brand where a single electric blue — #2f7efe — acts as the system’s primary voltage, appearing on CTAs, navigation accents, and product highlights against a predominantly white canvas (#ffffff) and a secondary off-white surface (#f7f7f7). The brand’s typographic voice is built on a custom family called “On” (with “On Mono” and “On Semi Mono” variants) paired with “Suisse Works” for editorial weight, creating a distinctively Swiss, technical feel that mirrors the company’s Zurich roots. The extracted palette reveals a surprising breadth: a safety red (#ed0000) used sparingly for sale badges or error states, a warm terracotta (#e15f14) that appears on lifestyle product accents, and a muted sage (#e2fbb1) that suggests an unexpected environmental or sustainability cue. The dominant gray scale runs from near-black (#151522) through charcoal (#4d4d4d) to warm stone (#dad8d2), giving the system a serious, engineered tone. Buttons use {rounded.sm} (8px) corners — not pill-shaped — reinforcing a precision aesthetic over friendliness. The top navigation is a thin, 64px strip with a transparent background that becomes white on scroll, and the search icon is a simple outlined loop rather than a filled orb. Product cards use {rounded.md} (12px) with a subtle shadow, and the hero section typically features full-bleed video or high-speed photography with a gradient overlay from {colors.ink} at 40% opacity. The brand’s signature move is the “On dot” — a small circular badge in {colors.primary} that appears on new arrivals and limited editions, and the CloudTec sole pattern is echoed in a repeating geometric motif used as a background texture on category pages. The checkout flow introduces Shopify Pay’s blue and Klarna’s pink, but the brand’s own palette remains rigorously restrained: three accent colors, one primary, and a warm-neutral gray scale.
 
@@ -462,6 +466,13 @@ components:
 - Size selector switches from a horizontal row to a scrollable horizontal list on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

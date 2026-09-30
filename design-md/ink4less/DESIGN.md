@@ -4,6 +4,10 @@ name: "Ink4Less"
 source_url: "https://ink4less.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Twenty-six years of ink-cartridge arbitrage have produced a visual shorthand that any bargain-hunter decodes instantly: #ff5501 orange commands every primary add-to-cart button, sale badge, and promotional banner — the color of a clearance sticker applied with institutional confidence across a catalog spanning hundreds of printer models. Against it sits #0088cc, a no-pretense cyan-blue that earns its keep on navigation links, account anchors, breadcrumb trails, and informational highlights without attempting brand differentiation. The canvas is #f6f6f6 gray-white — a practical staging ground for dense SKU listing pages where pricing numerals and compatibility notes matter more than art direction. Typography stays in the Open Sans / Arial / Helvetica stack: no custom type investment, no variable font, just legible geometric sans-serifs at utilitarian sizes with tight information hierarchy. A 12px caption layer carries yield specs and cartridge page-count data; a compact 14px body handles product descriptions; display sizes stay modest, rarely breaking 26px, because the hero territory belongs to savings percentages and "SAVE 80%" callouts rather than brand slogans.
 
@@ -425,6 +429,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

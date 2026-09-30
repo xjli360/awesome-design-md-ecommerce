@@ -19,7 +19,7 @@
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-3da639)](./CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/xjli360/awesome-design-md-ecommerce?style=social)](https://github.com/xjli360/awesome-design-md-ecommerce/stargazers)
 
-[**SeaLeap projects**](#sealeap-open-source-projects) · [**Why**](#-why-this-exists) · [**See it**](#-see-it-in-action) · [**Quickstart**](#-quickstart) · [**The collection**](#-the-collection) · [**Full index →**](./INDEX.md) · [**Contribute**](./CONTRIBUTING.md) · [**About SeaLeap**](#about-sealeap)
+[**SeaLeap projects**](#sealeap-open-source-projects) · [**Why**](#-why-this-exists) · [**See it**](#-see-it-in-action) · [**Quickstart**](#-quickstart) · [**The collection**](#-the-collection) · [**Recommended →**](./RECOMMENDED.md) · [**Full inventory**](./INDEX.md) · [**Contribute**](./CONTRIBUTING.md) · [**About SeaLeap**](#about-sealeap)
 
 </div>
 
@@ -41,64 +41,37 @@ AI coding agents are great at *structure* and bad at *taste*. Ask one for a land
 
 A `DESIGN.md` fixes that. It's a single plain-text file that captures **one storefront's design interpretation** — its palette, type scale, spacing, radii, and component patterns — the visual characteristics associated with that storefront. Drop it into your agent's context and the UI it produces can use the documented palette, type and component guidance, while respecting its evidence limitations.
 
-> CSS value presence is evidence of a value, not proof of its semantic role. New files include `SOURCE.json`; older files are marked `historical_unverified` in the manifest.
+> Start with [recommended references](./RECOMMENDED.md). The [historical archive](./HISTORICAL.md) is for inspiration only and excluded from default recommendations. CSS value presence does not establish its semantic role. See [status and evidence coverage](./STATUS.md).
 
 **Who it's for** — design engineers prototyping on-brand UI · agencies pitching brand-faithful mockups · indie hackers who want their MVP to *not* look like an MVP · anyone building with Claude Code, Cursor, Copilot, or v0.
 
 ## 👀 See it in action
 
-A `DESIGN.md` is human-readable and agent-readable at once. Here's a slice of [`design-md/glossier/DESIGN.md`](./design-md/glossier/DESIGN.md):
+The default entry point is [recommended references](./RECOMMENDED.md). For example, [Glossier's measured reference](./design-md/glossier/MEASURED.md) records actual component styles at desktop, tablet and mobile sizes, with the corresponding screenshots and selectors in [MEASUREMENTS.json](./design-md/glossier/MEASUREMENTS.json).
 
-```yaml
----
-name: Glossier
-description: >
-  A brand that lives in the gap between #dedede and #121212 — a pale, almost-warm
-  gray and a near-black that together create a system of extreme restraint. The
-  canvas is not white but a soft, foggy gray that reads as a studio backdrop,
-  making every product the hero. Buttons are pill-shaped, cards softly rounded,
-  and the whole experience breathes through generous whitespace.
----
-
-colors:
-  primary:       "#dedede"   # foggy gray — the signature "studio backdrop"
-  ink:           "#121212"   # near-black, used sparingly
-  canvas:        "#f5f5f5"
-  accent-pink:   "#f4a2b8"
-
-typography:
-  display-xl:
-    fontFamily:  "'GT America', -apple-system, sans-serif"
-    fontSize:    36px
-    fontWeight:  400
-    lineHeight:  1.2
-    letterSpacing: -0.5px
-
-rounded:   { md: 8px, full: 9999px }   # softly-rounded cards, pill buttons
-```
-
-Hand it to your agent:
+At capture time its body used `Apercu, "Gill Sans", sans-serif` at `16px`. This measured observation takes precedence over the separate historical DESIGN.md. Hidden or occluded samples are labelled and must not be treated as visible screenshot evidence.
 
 ```text
-Build a hero section for a face serum.
-Use the attached DESIGN.md — match its colors, typography, radii, and
-spacing consistently. Treat inferred values as proposals and keep Known Gaps visible.
+Build a product-page prototype using the attached MEASURED.md and MEASUREMENTS.json.
+Use visible measured components where relevant. Mark any additional layout,
+interaction, spacing or asset decisions as proposals. Compare screenshots at
+matching viewport sizes before making a fidelity claim.
 ```
 
-…and the output comes back in foggy gray with pill buttons and GT America — Glossier, not Bootstrap. Every file also documents its own **Known Gaps**, so the agent knows what was *not* reliably captured.
+Measured components establish the captured state, not a complete site. No entry currently has a verified whole-site reconstruction.
 
 ## 🚀 Quickstart
 
-1. **Find a brand** in [the collection](#-the-collection) or the [full index](./INDEX.md).
-2. **Give the file to your agent** as context.
+1. **Find a reference** in [recommended references](./RECOMMENDED.md), which prioritizes measured components, then evidenced CSS values.
+2. **Give the linked reference to your agent**; include its JSON evidence and screenshots when available.
 3. **Ask it to build** — it now has a documented design reference, with explicit gaps.
 
 **Claude Code**
 ```bash
-claude "Build a product page for a ceramic kettle using @design-md/caraway/DESIGN.md — use its documented tokens and respect its Known Gaps."
+claude "Build a product page for a ceramic kettle using @design-md/caraway/MEASURED.md — use observed components and label any additional design decisions as proposals."
 ```
 
-**Cursor / Copilot / Windsurf** — drag the `DESIGN.md` into chat (or `@`-mention it), then prompt as above.
+**Cursor / Copilot / Windsurf** — drag the recommended `MEASURED.md` or `DESIGN.md` into chat (or `@`-mention it), then prompt as above.
 
 **v0 / Lovable / bolt** — paste the file contents at the top of your prompt.
 
@@ -148,28 +121,24 @@ Browse everything in **[`INDEX.md →`](./INDEX.md)**.
 
 ### ⭐ Featured brands
 
-A few you'll recognize — each links to its full spec:
+Selected brands with measured desktop, tablet and mobile component references:
 
-| Brand | Design signature |
+| Brand | Measured body font (desktop) |
 |---|---|
-| [**Glossier**](./design-md/glossier/DESIGN.md) | Foggy-gray studio canvas, near-black ink, pill buttons — extreme restraint |
-| [**Aesop**](./design-md/aesop/DESIGN.md) | Deliberate restraint; texture, weight, and quiet typographic authority |
-| [**The Ordinary**](./design-md/ordinary/DESIGN.md) | Stark white canvas, one clinical red (`#e83f42`) as the only release |
-| [**Drunk Elephant**](./design-md/drunk-elephant/DESIGN.md) | Clinical apothecary crossed with a colorful candy shop |
-| [**Fenty Beauty**](./design-md/fenty-beauty/DESIGN.md) | Inclusive, high-contrast, sculptural — rewrote the category's palette |
-| [**Caraway**](./design-md/caraway/DESIGN.md) | Warm, design-led ceramic cookware that belongs on the counter |
-| [**Our Place**](./design-md/our-place/DESIGN.md) | The shared table as the brand's whole thesis |
-| [**Hexclad**](./design-md/hexclad/DESIGN.md) | Steel-meets-nonstick hybrid tension, made visual |
-| [**Made In**](./design-md/made-in/DESIGN.md) | Rugged utility balanced with restrained elegance |
-| [**Parachute**](./design-md/parachute/DESIGN.md) | Whispers of linen and stone — warm, tactile home |
-| [**Brooklinen**](./design-md/brooklinen/DESIGN.md) | Premium-casual voice on a deep-navy anchor and off-white canvas |
-| [**Casper**](./design-md/casper/DESIGN.md) | Trustworthy sleep-first blues with accent-driven energy |
-| [**Hay**](./design-md/hay/DESIGN.md) | Danish: soft contrasts, muted earth tones, material honesty |
-| [**Blueland**](./design-md/blueland/DESIGN.md) | A color-coded refill system — yellow citrus, mint eucalyptus |
-| [**Ritual**](./design-md/ritual/DESIGN.md) | A single deep navy (`#142b6f`) carried as the entire identity |
-| [**Hims**](./design-md/hims/DESIGN.md) | Apothecary sage green instead of clinical telehealth blue |
-| [**Peloton**](./design-md/peloton/DESIGN.md) | Near-black canvas with a single red voltage (`#df1c2f`) |
-| [**Dyson**](./design-md/dyson/DESIGN.md) | FoundryGridnik industrial sans — product-grade authority, on screen |
+| [**Glossier**](./design-md/glossier/MEASURED.md) | `Apercu, "Gill Sans", sans-serif` · `16px` |
+| [**The Ordinary**](./design-md/ordinary/MEASURED.md) | `Raleway` · `16px` |
+| [**Drunk Elephant**](./design-md/drunk-elephant/MEASURED.md) | `BrownRegular, "sans-serif"` · `16px` |
+| [**Fenty Beauty**](./design-md/fenty-beauty/MEASURED.md) | `Brown, -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif` · `16px` |
+| [**Caraway**](./design-md/caraway/MEASURED.md) | `Saans, sans-serif` · `16px` |
+| [**Our Place**](./design-md/our-place/MEASURED.md) | `Plaid-XS-Web, Arial, sans-serif` · `16px` |
+| [**Hexclad**](./design-md/hexclad/MEASURED.md) | `din-2014, system-ui, sans-serif, "Apple Color Emoji"` · `16px` |
+| [**Made In**](./design-md/made-in/MEASURED.md) | `aktiv-grotesk, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif` · `16px` |
+| [**Parachute**](./design-md/parachute/MEASURED.md) | `"Suisse Intl", sans-serif` · `16px` |
+| [**Brooklinen**](./design-md/brooklinen/MEASURED.md) | `Times` · `16px` |
+| [**Casper**](./design-md/casper/MEASURED.md) | `Calibre, sans-serif` · `18px` |
+| [**Blueland**](./design-md/blueland/MEASURED.md) | `Sailec, "Sailec Fallback", sans-serif` · `17px` |
+| [**Ritual**](./design-md/ritual/MEASURED.md) | `CircularXX` · `16px` |
+| [**Peloton**](./design-md/peloton/MEASURED.md) | `Inter, sans-serif` · `16px` |
 
 **→ [Browse all 2,636 canonical websites in `INDEX.md`](./INDEX.md)**
 
@@ -210,9 +179,12 @@ Maintained by [SeaLeap](https://sealeap.cn/).
 ## Reproduce and resume
 
 ```bash
-uv run --with pyyaml python scripts/check_format.py
-uv run --with pyyaml python scripts/build_index.py
-uv run --with pyyaml python scripts/worker_claude.py --target 200 --batch-id my-batch
+uv run --with-requirements requirements.txt python scripts/check_format.py
+uv run --with-requirements requirements.txt python scripts/check_evidence.py
+uv run --with-requirements requirements.txt python scripts/check_measurements.py
+uv run --with-requirements requirements.txt python scripts/build_index.py
+uv run --with-requirements requirements.txt python scripts/recommend.py cookware
+uv run --with-requirements requirements.txt python scripts/worker_claude.py --target 200 --batch-id my-batch
 ```
 
 `data/sites.csv` contains the selected input records. Install and authenticate Claude CLI separately. Reuse the same batch ID to resume; the target is successful new canonical websites, not attempts. Add `--retry-failed` to retry transient failures in that batch. A process lock prevents duplicate workers. No publishing or git operations are performed.
@@ -221,7 +193,17 @@ To review every remaining canonical URL, use `--all-remaining --target 397 --bat
 
 After an exhaustive review, `scripts/export_review.py <batch-id> --capture-root <recovery-root>` records unresolved sources in `data/source_holds.json`; run `scripts/build_index.py` to rebuild the public status page. Temporary access failures remain retryable. Holds marked `manual_review_required` need a source/identity review before release.
 
-For JavaScript-only sites, `scripts/capture_rendered.py` optionally captures an anonymous desktop page, styles and a screenshot with Playwright. It does not log in or solve access challenges. Pass its output root to the worker with `--evidence-root`; snapshot hashes and source URL must match before generation. Screenshots are local evidence, not a visual-fidelity guarantee or bundled brand assets.
+`scripts/capture_rendered.py` captures anonymous desktop, tablet and mobile states using Playwright. It records computed component styles, geometry, screenshots and sampled hover/focus states. Install Playwright separately. The latest attempt must be ready and its capture ID, URL and hashes must match before `--evidence-root` is accepted; a failed retry cannot reuse an old capture.
+
+After reviewing brand identity, `scripts/publish_measurements.py <capture-root>` (with a matching `<capture-root>/brand-review.json`) publishes approved component references and their screenshots. Unrelated redirects and access challenges are excluded. Source images/fonts are referenced, not bundled. These observations do not validate an entire reconstructed website.
+
+For a prototype you have rendered independently, compare each viewport explicitly:
+
+```bash
+uv run --with-requirements requirements.txt python scripts/compare_reconstruction.py reference.png candidate.png --report _state/comparison.json
+```
+
+This bounded pixel check requires matching image sizes; it never promotes corpus quality automatically. Menu-open behavior and full-page interaction coverage remain unmeasured. Historical references require explicit `scripts/recommend.py --include-historical` opt-in.
 
 ## About SeaLeap
 

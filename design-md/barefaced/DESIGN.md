@@ -4,6 +4,10 @@ name: "Barefaced"
 source_url: "https://www.barefaced.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Barefaced is a skincare brand that communicates calm, clinical confidence through a restrained palette anchored on a deep forest green (`#0e3c31`) and a warm off-white canvas (`#fdf7f0`). The brand's voice is one of expert minimalism — it promises "simplified skincare" and delivers that promise through generous whitespace, soft edges (`{rounded.md}` for cards, `{rounded.sm}` for buttons), and a typographic hierarchy that pairs the clean, modern sans-serif of Inter with the editorial warmth of Newsreader. The primary green (`{colors.primary}`) appears on every CTA button and key accent, while a muted sage (`#e5edeb`) and a soft neutral (`#dedede`) provide background depth without competing for attention. A vibrant lime (`#ecfbb0`) and a coral accent (`#ef8367`) are used sparingly for badges, sale markers, and secondary highlights, injecting just enough energy to keep the palette from feeling somber. The overall mood is spa-meets-science: trustworthy, unhurried, and utterly free of the frantic, high-saturation tropes common in mass skincare. Every design decision — from the pill-shaped search bar to the generous `{spacing.section}` between product rows — reinforces the idea that skincare should be simple, effective, and beautiful.
 
@@ -341,6 +345,14 @@ components:
 - The hero section's side-by-side layout collapses to a stacked layout on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

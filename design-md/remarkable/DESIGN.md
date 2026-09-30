@@ -4,6 +4,10 @@ name: "Remarkable"
 source_url: "https://remarkable.com"
 captured_at: "2026-09-28T04:27:25.795061+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   reMarkable's marketing site pairs a paper-like neutral canvas (#fcfbf8, #f8f7f6) with near-black ink (#211e1c) for a restrained, editorial reading feel appropriate to a paper-tablet brand. A single saturated blue family (#003bb2, #1142d4, #2559f4, #99c3ff, #e9f2ff) supplies the primary interactive accent — CSS exposes a --color-pen-blue token feeding light-theme pictograms, so blue is treated here as the confirmed brand accent for links, CTAs, and focus states. A red (#da0810) and a muted sage-green family (#5f6d5f, #e6eae6) also appear in the palette and align with the site's data-theme=light-green/light-red/dark-* attributes; these are interpreted as inferred accent themes for alternating content sections rather than universal brand colors. Warm neutral grays (#6e635e, #37322f, #d2cabc) round out body text and borders. Typography uses a custom reMarkableSans for UI and reMarkableSerif for editorial emphasis, both falling back to system sans/serif (Arial, Helvetica, Georgia, Book Antiqua) — availability and licensing of the custom faces are unverified. Rounding is treated as minimal/sharp, since the only observed radius rule resets inputs to 0.
 
@@ -154,6 +158,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be at least 44×44px for buttons and nav items. Collapse product-card grids from 3–4 columns down to 1 column below the compact breakpoint. All spacing should scale using the `{spacing.*}` tokens rather than fixed pixel overrides.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

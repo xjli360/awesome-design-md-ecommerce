@@ -4,6 +4,10 @@ name: "Evil Bikes"
 source_url: "https://www.evil-bikes.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   DINWebPro-Black hammered at extreme weights against a ground of near-black (#121212, #1c1d1d) — this is the opening condition of Evil Bikes' digital identity, a Bellingham, WA mountain bike company that treats darkness and mass as primary design materials. Where most cycling brands cut toward white and clinical precision, Evil defaults to shadow: product photography floats against void, navigation sits in flat black, and the single rupture in that darkness is a charging teal (#108474) used exclusively for primary CTAs and interactive focus states. The yellow #fbcd0a arrives as emergency voltage — reserved for price badges, promotional callouts, and the occasional hover state, it reads as a warning color rather than a cheerful accent. A muted lavender (#a89cc8) surfaces in subtle UI elements, an unexpected softness inside an otherwise relentless palette that adds just enough personality to signal deliberate authorship over accidental restraint.
 
@@ -376,6 +380,13 @@ components:
 - Bike category tile grid: 4-up row on desktop; 2-up grid on tablet; single full-width tiles stacked on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

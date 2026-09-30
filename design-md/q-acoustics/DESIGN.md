@@ -4,6 +4,10 @@ name: "Q Acoustics"
 source_url: "https://qacoustics.com"
 captured_at: "2026-09-28T04:55:27.392100+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Q Acoustics' storefront evidence shows a Shopify-based theme built on Inter for
   interface type, paired with a monospace fallback stack (SFMono-Regular, Menlo,
@@ -161,6 +165,12 @@ This is a proposed breakpoint recommendation, not measured site behavior — no 
 Touch targets should be a minimum of 44×44px for nav icons, cart, and swatch selectors. Primary navigation is assumed to collapse into a drawer below tablet width; this assumption is not confirmed by observed CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This specification is derived from static CSS custom properties and page text only; no rendered layout, hover/focus states, or JavaScript-driven interactions (cart drawer, search overlay, slideshow transitions) were observed. Font sizes for `--text-h1` through `--text-h6` and `--title-lg`/`--title-xl` were expressed as `var(--sp-N)` spacing tokens without resolvable pixel values, so all typography sizes in this document are proposed estimates, not measured. Color-role assignment is uncertain: most of the supplied hex values (#3b5998, #00acee, #e60023, #3390f7, #25d366, #0064ff, #61f0f3, #ff3484, #f1e04d, #309fff, #b635ff, #049cff, #35ee7a, #00e166, #0066ec, #f7d00b, #f60e0e, #b700ff, #1990c6, #136f99) closely match conventional social-share icon brand colors and were excluded from primary/UI role mapping rather than guessed. The single accent color (#23185c) has no confirmed usage context and is an inferred brand accent only. Custom font licensing/availability for Inter was not verified beyond its presence in the supplied font-family list. Mobile navigation collapse, swatch-selector interaction states, and footer column structure are proposed patterns, not observed layout.

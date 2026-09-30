@@ -4,6 +4,10 @@ name: "Care/of"
 source_url: "https://takecareof.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Each foil packet that leaves a Care/of fulfillment center has the customer's first name printed on the face — this single production choice clarifies every downstream design decision. The interface is not a storefront so much as a diagnostic conversation that happens to end with a checkout. A warm coral (approximately #E8614F) shoulders the entire brand signal that most supplement companies split between clinical blue, warning orange, and hero green; here the same hue that says "take this now" also says "we made this for you." It sits against parchment backgrounds (#FAF8F4) rather than pure white, borrowing warmth from the paper-and-packaging world the brand grew up in.
 
@@ -334,6 +338,13 @@ components:
 - Hero image hides on mobile or repositions below the headline block; the quiz CTA expands to full viewport width
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

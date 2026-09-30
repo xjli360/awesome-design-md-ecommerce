@@ -4,6 +4,10 @@ name: "Bananagrams"
 source_url: "https://bananagrams.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A riot of saturated color erupts from a near-black canvas (#070707), where #00b6a7 teal, #0097cf cerulean, #ab4399 magenta, #faa61a marigold, #f1647d coral, and #cddc29 chartreuse collide like a bag of letter tiles spilled across a table. The brand’s primary voltage is that electric teal (#00b6a7), a hue that feels less like a corporate accent and more like the glow of a neon sign in a game arcade — it powers every primary button, navigation highlight, and product badge. The palette is deliberately unsubtle: six saturated accents that could each be a brand’s entire identity are deployed together, creating a visual language that says “this is a game, not a utility.” White (#ffffff) serves as the canvas for product photography and card surfaces, while the near-black ink (#070707) grounds headlines and body text with absolute contrast. Rounded corners are generous but not pillowy — buttons sit at {rounded.sm} (8px), product cards at {rounded.md} (12px), and the signature search bar at {rounded.full} (9999px), a single friendly gesture in an otherwise angular, grid-based layout. Typography runs a single sans-serif family at moderate weights (500–700), with display sizes at 28px and body text at 16px, letting the color do the heavy lifting. The overall mood is carnival-meets-arcade: loud, joyful, and impossible to ignore, with every design decision calibrated to make picking up a game feel like the start of a party.
 
@@ -413,6 +417,14 @@ components:
 - The hero section’s headline reduces from 28px to 20px on mobile, and the CTA button shrinks from 48px to 40px tall.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Lesser Evil"
 source_url: "https://lesserevil.com"
 captured_at: "2026-09-28T04:31:05.013372+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   LesserEvil's public CSS surfaces a deep navy pair (#001824, #002a3a) used as the review-widget's
   primary button and border color, against warm cream neutrals (#fbf6ee, #f6efe5, #faf5ed, #f0e6d8)
@@ -184,6 +188,12 @@ to collapse into an overlay/drawer below the tablet breakpoint; no such collapse
 actually observed in the supplied static CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived solely from static CSS/JSON evidence (Shopify theme assets, an Okendo

@@ -4,6 +4,10 @@ name: "AEMC Instruments"
 source_url: "https://www.aemc.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Safety yellow (#ffd100) occupies every primary CTA and nav accent at AEMC — the same hue stenciled on high-voltage warning placards appears in category banners and search submit buttons, closing the perceptual gap between the physical clamp meter on a technician's belt clip and the catalog page that sold it. Dark charcoal (#3c404d) carries structural weight: top navigation, body text, and footer chrome all run at this near-black depth, lending the interface the gravity of a calibration data sheet rather than a retail landing page. Two pale sky tints (#7fcdfe, #aadeff) appear selectively in product photography overlays and accent zones, echoing the backlit LCD readouts on AEMC's panel meters and power analyzers. The silver-gray (#c1ccd0) occupies spec table headers, input borders, and divider lines — reading like anodized aluminum against the white product-page canvas. A secondary warm yellow (#ffde00) sits adjacent to the primary, providing a soft hover graduation without breaking the electrical-signal palette.
 
@@ -392,6 +396,14 @@ components:
 - Category tile grid collapses from 4-across → 2-across → 1-across through breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

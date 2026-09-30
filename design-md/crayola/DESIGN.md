@@ -4,6 +4,10 @@ name: "Crayola"
 source_url: "https://www.crayola.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A riot of saturated color anchored on a clean white canvas, where Crayola Green (#00892d) serves as the brand's primary voltage — a deep, grassy green that appears across primary CTAs, navigation accents, and the site's top banner, while Crayola Yellow (#ffcc33) and Crayola Red (#e71a13) provide the secondary jolts of energy that echo the iconic crayon box. The palette is deliberately loud and unapologetic: purple (#792e88), cyan (#0dcaf0), and hot pink (#e00087) appear as accent swatches across product cards and category badges, creating a visual playground that mirrors the physical product experience. Typography runs Omnes — a rounded, friendly sans-serif with multiple weights (Regular, Semibold, Bold) — at generous sizes that feel approachable rather than authoritative; display text sits at 28–32px in Bold weight, while body copy at 16px in Regular keeps instructions and descriptions clear for young readers. Cards and buttons use soft rounding ({rounded.md} ~12px) that avoids the severity of hard corners, while the search bar and hero CTAs adopt pill shapes ({rounded.full}) for maximum approachability. The site's structure is a grid of colorful product categories — each with its own distinct background swatch — that lets the visitor navigate by color association rather than text labels alone. A persistent top nav in white with green accents carries the Crayola wordmark and a search icon, while the footer collapses into a dense grid of links in muted green (#00502e) on a white ground. The overall effect is a digital space that feels like opening a fresh box of crayons: orderly, vibrant, and full of possibility.
 
@@ -392,6 +396,13 @@ components:
 - Footer link columns collapse to a single column at mobile, with links stacked vertically
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

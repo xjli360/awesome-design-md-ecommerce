@@ -4,6 +4,10 @@ name: "Ohaus"
 source_url: "https://www.ohaus.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Calibration certificates, GLP/GMP compliance stamps, and class-E weight traceability chains — OHAUS treats every product page with the same documentary rigour a metrologist brings to a reference standard. The homepage arranges product families the way a lab manual arranges protocols: by application discipline, load capacity, and measurement readability rather than by marketing narrative. The single color reliably extractable from the live site — #eeeeee, the confirmed surface tone — sets the entire register: the flat, neutral gray of brushed aluminum panel or a poured epoxy countertop, neither warm nor sterile, just stable and functional. Everything else in the palette is subordinate to that baseline.
 
@@ -315,6 +319,13 @@ components:
 - Footer link columns stack vertically on mobile with expand/collapse disclosure toggles per section
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

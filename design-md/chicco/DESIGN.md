@@ -4,6 +4,10 @@ name: "Chicco"
 source_url: "https://chiccousa.com"
 captured_at: "2026-09-28T09:57:31.132552+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is built from Chicco USA's Bootstrap-derived design tokens and page CSS.
   The root stylesheet defines a neutral, utilitarian palette: dark ink (#2f333a) as primary text and
@@ -173,6 +177,12 @@ Breakpoints below mirror the Bootstrap-style custom properties found in global.c
 Touch targets are recommended at a minimum 44x44px for cart, search, and account icons. Mobile navigation should collapse into a hamburger/off-canvas menu below `md`; none of this interaction behavior was directly observed in the supplied CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

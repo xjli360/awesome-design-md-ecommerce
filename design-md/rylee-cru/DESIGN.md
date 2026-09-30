@@ -4,6 +4,10 @@ name: "Rylee + Cru"
 source_url: "https://ryleeandcru.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every collection at Rylee + Cru opens with an illustration — a heron, a sprig of botanicals, a cluster of small folk-art animals rendered in a loose hand that looks borrowed from a well-loved picture book — and the storefront is built to honor that handmade origin rather than suppress it under a generic e-commerce shell. The wordmark is set in a bracketed serif at modest scale, and the ampersand joining the two names carries more brand weight than any other glyph on the page: it names a specific creative partnership at a moment when most children's apparel has consolidated under anonymous corporate abbreviations. Type runs deep charcoal (#313131, the sole confirmed extracted token) against canvas surfaces that lean warm cream rather than clinical white, giving even tight product grids the feeling of a boutique shelf photographed in window light. CTAs are filled with the same dark charcoal, communicating quiet authority rather than urgency; no high-chroma accent color competes for attention anywhere in the layout. Rounded corners are kept moderate throughout — {rounded.sm} on inputs and product cards, {rounded.full} on filter chips and small badges — friendly without tipping into the exaggerated pill shapes common in fast-fashion DTC. Navigation is spare by the standards of a multi-SKU apparel site: gender tabs, age-range selectors, collection names, and a discreet Sale entry do the structural work without a mega-menu. Product cards trust lifestyle photography to carry persuasion, placing price in caption-weight type directly below the image rather than in a colored sticker, keeping browsing unhurried. The brand's illustration motifs — the same birds and botanicals from the prints — recur in editorial section headers and the footer, turning the garment graphic into a recurring identity device. Extraction was blocked by anti-bot gating and returned only one confirmed hex value; all palette tokens and font stacks below are inferred from documented brand assets and representative visual analysis.
 
@@ -354,6 +358,13 @@ components:
 - Footer columns collapse to labeled accordion panels; only one panel open at a time
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

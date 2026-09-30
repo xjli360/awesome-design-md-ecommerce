@@ -4,6 +4,10 @@ name: "EarthStudies"
 source_url: "https://earth-studies.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A landscape of muted earth tones anchored by a pale sage canvas (#f7faf6) and a deep ink (#212a32) that reads like basalt in shadow — the brand's primary voltage is a warm clay (#97756b), a color that appears nowhere in the outdoor-apparel mainstream of safety orange or forest green. Typography runs Inconsolata, a monospace face that gives product names, size charts, and care instructions the same quiet authority as a field notebook. Buttons and cards use generous rounding (`{rounded.md}` ~12px, `{rounded.lg}` ~20px) that softens the utilitarian premise, while a secondary accent of ochre (#df9c55) surfaces on sale badges and highlight tags like lichen catching afternoon light. The palette is deliberately desaturated: muted tones (#a99994, #919191, #8b8b8b) handle secondary text and hairline borders, and a second deep green-gray (#465552) appears in footer backgrounds and overlay scrims, creating depth without contrast aggression. The brand trusts its product photography — landscapes, fabric close-ups, layering shots — to carry emotional weight, keeping UI chrome recessive and typographic hierarchy flat. There is no hero carousel; instead, a single editorial image bleeds edge-to-edge with a centered headline set in Inconsolata at 28px, the brand's only display weight. The checkout and cart surfaces use the same sage canvas as the homepage, refusing the white-ecommerce default, and the entire experience feels less like a store and more like a field station.
 
@@ -369,6 +373,13 @@ components:
 - Product badges shift from top-left overlay to inline below the image on mobile (to avoid crowding on small screens)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

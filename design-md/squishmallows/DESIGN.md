@@ -4,6 +4,10 @@ name: "Squishmallows"
 source_url: "https://squishmallows.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A candy-colored universe of plush collectibles where #2d27ff electric blue and #108474 deep teal anchor a palette that reads more like a gumball machine than a toy brand. The site’s true primary is that striking #2d27ff — a saturated, almost neon blue that appears on primary buttons, navigation accents, and the brand’s signature “Squad” grouping badges — while #f83568 hot pink and #00cffd cyan serve as secondary voltage points for sale tags, limited-edition callouts, and category filters. Type runs Nunito at generous sizes with soft rounded corners everywhere (`{rounded.lg}` on product cards, `{rounded.full}` on avatar circles and search pills), creating a friendly, squeezable feel that mirrors the physical product. The Shopify-powered grid uses #ffffff canvas with #eeeeee hairlines and #f9fafb surface-soft backgrounds, letting the plush photography — each Squishmallow shot against a clean white or pastel backdrop — do the heavy lifting. Navigation is a sticky bar with a bold #1a1a1a ink logo, category dropdowns in #6e3778 purple for “Fuzzy” and “Holiday” collections, and a cart icon that pulses #ff0000 when items are added. The brand’s design language is maximalist in color but minimalist in layout: large hero images, generous whitespace, and a single CTA per section. Search is a pill-shaped field with #d4f3fa light cyan background, and product badges use #ebe717 marigold for “New” and #ed1d3d crimson for “Sale.” The overall effect is a digital storefront that feels like walking into a room full of oversized beanbag chairs — bright, soft, and impossible to resist squeezing.
 
@@ -410,6 +414,13 @@ components:
 - Category tiles switch from horizontal scroll (desktop) to vertical stack (mobile)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

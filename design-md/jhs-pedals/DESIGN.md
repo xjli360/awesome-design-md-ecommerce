@@ -4,6 +4,10 @@ name: "JHS Pedals"
 source_url: "https://www.jhspedals.info"
 captured_at: "2026-09-28T09:33:05.111640+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   JHS Pedals presents a functional, product-forward storefront for a Kansas
   City guitar-effects manufacturer, built on a Shopify theme with CSS custom
@@ -161,6 +165,13 @@ components:
 The three spacing steps above are drawn directly from supplied `:root` custom-property blocks and indicate the theme does adjust rhythm at some breakpoints, but the pixel breakpoint values themselves were not supplied and are proposed conventions. Touch targets for buttons and nav items should be sized at minimum 44px in any mobile implementation; the header/menu is expected to collapse into a disclosure or slide-out pattern below tablet width, consistent with the "Show menu / Exit menu" toggle text present in the page content, though the actual collapsed layout was not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

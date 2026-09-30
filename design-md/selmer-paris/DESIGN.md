@@ -4,6 +4,10 @@ name: "Selmer Paris"
 source_url: "https://www.selmer.fr"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, resonant navy (#0e2431) anchors Henri SELMER Paris — not as a background afterthought but as the brand's primary voltage, pulled from the dark felt lining of a clarinet case and the shadow between keys. This is a brand that trusts restraint: the palette runs from that near-black ink through warm brass (#debc82), a sage whisper (#aaccaa), and a clean off-white canvas (#f8f8f8). The brass isn't decorative — it's the material truth of a saxophone bell catching stage light, used sparingly for hover states, accent borders, and the occasional badge. Montserrat runs the typography system at modest weights (400–600), never shouting, while Syncopate appears in select display contexts as a nod to the brand's mid-century Parisian heritage. Every corner is sharp (`{rounded.none}`) or softly squared (`{rounded.xs}`) — there are no pill-shaped buttons or bubbly cards. The product grid treats each instrument as a sculpture: generous padding (`{spacing.xxl}`), minimal text, and photography that lets the lacquer and engraving speak. The nav bar lives in the deep navy, white text floating above it like a museum label. This is not a lifestyle brand; it's a workshop that happens to sell to the world's best clarinetists and saxophonists.
 
@@ -404,6 +408,13 @@ components:
 - Secondary navigation (breadcrumbs, sub-category filters) collapses into a select dropdown below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

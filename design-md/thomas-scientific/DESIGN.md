@@ -4,6 +4,10 @@ name: "Thomas Scientific"
 source_url: "https://www.thomassci.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The scarlet alert-red Thomas Scientific uses for every primary CTA — #de1f27, close enough to ANSI safety red that it would not look out of place on a biohazard label — is the clearest signal this catalog was designed for procurement officers working under fluorescent lighting, not lifestyle browsers on OLED phones. Five extracted colors carry the entire functional vocabulary: #de1f27 for action and urgency; #222222 for the dense SKU-and-spec text hierarchy; #6d6e71 for secondary metadata like pack counts and catalog references; #b3d4fc, a washed periwinkle that surfaces in featured category tiles and callout backgrounds, providing the only visual softness in an otherwise utility-first interface; and #116600, a high-contrast institutional green reserved for in-stock confirmations and certified-product badges. Sans-serif is the only declared typeface — no custom brand font was resolved — which fits: typography here primarily serves readability of alphanumeric part numbers, specification tables, and CAS registry codes rather than brand storytelling.
 
@@ -376,6 +380,13 @@ components:
 - Footer columns collapse to single accordion on mobile; all link lists hidden behind expand controls
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

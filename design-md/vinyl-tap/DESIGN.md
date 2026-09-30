@@ -4,6 +4,10 @@ name: "Vinyl Tap"
 source_url: "https://www.vinyltap.co.uk"
 captured_at: "2026-09-28T05:08:56.493273+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Vinyl Tap is a Shopify-powered independent record store serving UK/EU customers,
   evidenced by its theme CSS custom properties (--color-button, --color-foreground,
@@ -154,6 +158,12 @@ components:
 Recommended breakpoints (not measured from live layout): mobile ≤599px, tablet 600–989px, desktop ≥990px, matching common Shopify Dawn-family theme conventions implied by the `.color-scheme` and grid-based `body` rule. Nav items should collapse into a hamburger/drawer below tablet width; product-card grids should step from 2 columns (mobile) to 3–4 (desktop). All interactive targets should maintain a minimum 44×44px hit area. This section is a recommendation only; no responsive CSS or viewport behavior was present in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS custom properties, a partial rule excerpt, and page text; no rendered layout, computed styles, or interaction states (hover, focus, active, disabled) were observed. Font-family-to-role mapping (heading vs. body vs. UI) is inferred from typical usage patterns, not from a direct selector-to-family CSS rule. Numeric typography sizes, spacing scale, and corner-radius values are proposed design defaults, not measured pixel values, since the source CSS referenced theme variables (e.g., `--font-heading-scale`, `--product-card-corner-radius`) without resolved values in the supplied evidence. Licensing and web-font availability for Nickainley and Kollektif were not verified. Colors associated with third-party payment-network logos (e.g., red/orange/blue combinations typical of card-brand marks) were deliberately excluded from brand token roles despite appearing in the raw palette. Mobile menu behavior, search interaction, and cart-drawer visuals were described only insofar as text content confirmed their existence, not their visual styling.

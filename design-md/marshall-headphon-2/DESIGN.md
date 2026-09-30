@@ -4,6 +4,10 @@ name: "Marshall"
 source_url: "https://marshallheadphones.com"
 captured_at: "2026-09-28T04:55:25.959453+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Marshall Headphones' evidenced CSS shows a black-canvas storefront (`body{background:#000000}`)
   set against a NeueHelvetica sans-serif body face with generic system-ui/sans-serif fallback,
@@ -33,7 +37,7 @@ colors:
   border-light: "#e6e6e6"
   gray-mid: "#a6a6a6"
   success: "#2a9e43"
-  success-soft: "#aaddaa"
+  success-soft: "#1a1a1a"
   danger: "#ca1d1d"
   info-soft: "#e8f4f9"
   accent-alt: "#8371f2"
@@ -168,6 +172,11 @@ Recommended, not measured, breakpoints:
 Touch targets should be at minimum 44×44px for nav and CTA buttons. Nav should collapse into a hamburger/menu icon below `md`. None of the above breakpoint values or collapse behaviors were directly observed in the supplied CSS; they are conventional defaults for a storefront of this category.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+- **Evidence correction:** A previous selector-derived color was removed. `success-soft` reuses an existing observed neutral/accent value as a proposal; its component role is not measured.
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from a static CSS/text snapshot, not a rendered or interactive audit. The palette mixes what appear to be Chakra UI framework default color ramps (gray/red/orange/yellow scales, e.g. `#edf2f7`…`#171923`, `#fff5f5`…`#63171b`) with a smaller set of colors more plausibly tied to brand/semantic use (`#e42a2a`, `#ca1d1d`, `#2a9e43`, `#8371f2`); the primary/accent, success, danger, and info-soft role assignments are inferred, not confirmed via a labeled brand token. Exact rendered `font-size`/`line-height` in pixels depends on the page's root font-size, which was not supplied, so `body-md` sizing is a best-effort conversion from the observed `1.6rem`/`2.4rem` ratio. The "SexPistols" font family is observed only as a family name in the CSS bundle; its use, availability, and licensing are unverified, so it is excluded from the typography tokens above. No hover, focus, active, error, or mobile-menu states were observed; all interaction states and the entire Responsive Behavior table are proposed conventions for this product category, not measured site behavior. Component paddings, radii, and spacing values are proposed defaults consistent with the supplied spacing/rounded scale, not extracted layout measurements.

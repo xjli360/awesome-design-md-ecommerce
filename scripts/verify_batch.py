@@ -5,7 +5,7 @@ import json
 import shutil
 from collections import Counter
 from design_system import ROOT, atomic_write, canonical_url, load_sites, validate
-from worker_claude import evidence_check
+from evidence import assess
 
 def main():
     p=argparse.ArgumentParser(__doc__);p.add_argument('batch_id');p.add_argument('--reconcile-aliases',action='store_true');args=p.parse_args()
@@ -33,9 +33,8 @@ def main():
         if slug in base or not (folder/'DESIGN.md').exists() or not (folder/'SOURCE.json').exists():
             errors.append(dict(slug=slug,error='missing/newness check'));continue
         source=json.loads((folder/'SOURCE.json').read_text());checked=validate((folder/'DESIGN.md').read_text(),rows[slug]['brand_name'])
-        issues=checked['errors']
+        issues=assess(rows[slug],(folder/'DESIGN.md').read_text(),source,ROOT)['errors']
         if slug in holds and holds[slug].get('manual_review_required',True):issues.append('Source identity hold: '+holds[slug]['reason'])
-        if checked['valid']:issues+=evidence_check(checked['data'],source)
         if source.get('batch_id')!=args.batch_id:issues.append('batch provenance mismatch')
         if issues:errors.append(dict(slug=slug,errors=issues));continue
         final=identity(source['final_url']);requested=identity(source['source_url'])

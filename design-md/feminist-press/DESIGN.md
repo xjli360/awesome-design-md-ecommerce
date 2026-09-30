@@ -4,6 +4,10 @@ name: "The Feminist Press"
 source_url: "https://www.feministpress.org"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A small press publisher whose visual identity is built on a single, unmistakable blue — #0097ff — that appears in the browser chrome as the theme-color, in every primary button, and as the sole saturated accent across an otherwise restrained palette of near-blacks and warm grays. The site reads as a literary institution that trusts its content over decoration: body text sits in Montserrat at modest weights against a #fafafa canvas, with #444444 ink providing comfortable reading contrast. What distinguishes the brand from generic publishing templates is the presence of #fdd7f6 — a blush pink that surfaces in hover states, category badges, and editorial highlights — and the deep crimson #80001e that appears in footer links and sale markers, suggesting a quiet feminist flag planted in the color system. The typography is single-family Montserrat throughout, with display sizes at 28px and 24px in weight 600, body at 16px weight 400, and a tight 1.4 line-height that keeps long reading passages dense but not cramped. Buttons use {rounded.sm} corners rather than pills, and the search bar follows suit — the brand avoids the overly friendly rounded-full aesthetic of consumer platforms in favor of a more scholarly, direct feel. The nav bar is fixed, 72px tall, with the press name in 18px weight 600 on the left and a simple link set on the right. Product cards for books show cover art at a 2:3 aspect ratio with the title and author set in {typography.title-md} and {typography.body-sm} respectively, with a subtle {colors.hairline} border. The overall impression is of a publisher that knows its audience — readers who respond to clarity, signal, and the occasional flash of pink or crimson rather than visual noise.
 
@@ -357,6 +361,13 @@ components:
 - Hero: reduces padding and font size on mobile (display-xl drops to 24px)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

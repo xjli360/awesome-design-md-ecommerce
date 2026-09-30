@@ -4,6 +4,10 @@ name: "HKS USA"
 source_url: "https://hksusa.com"
 captured_at: "2026-09-29T04:19:16.096843+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   HKS USA's storefront evidence shows a dark-leaning performance-parts UI built on
   Next.js, using a small saturated teal (#00cea8) as the primary accent against
@@ -151,6 +155,12 @@ Recommended, not measured:
 Touch targets should be a minimum 44px hit area for buttons and nav pills, especially the floating vertical `#floatNav` control observed in CSS. Mobile nav collapse and mega-menu behavior are proposed patterns for a vehicle-fitment catalog site, not confirmed interactions.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

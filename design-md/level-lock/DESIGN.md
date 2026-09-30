@@ -4,6 +4,10 @@ name: "Level Lock"
 source_url: "https://level.co"
 captured_at: "2026-09-28T04:26:32.128513+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Level Lock's public site evidence points to a minimal, hardware-forward aesthetic built on a warm neutral canvas (cotton-toned #f0efed and #e9e5dd) paired with near-black ink (#151515) for typography and primary actions, echoing the brand's "invisible" lock hardware finishes. CSS custom properties named --color-cotton, --color-charcoal, and --color-slate strongly imply a warm-neutral / near-black / blue-gray triad; "slate" is mapped here to the observed blue-gray #6596ab, used for hover and active navigation states. A thin hairline (#e0e7ec) separates list items and account-menu rows in the observed CSS. Two warm hardware-adjacent tones in the palette — a muted gold (#d6b587) and a terracotta (#c94633) — are proposed as secondary accents for badges or finish-swatches, evocative of physical lock materials such as brass or bronze. Typography draws on the Suisse type family: SuisseWorks is proposed for display/serif headlines and SuisseIntl for UI/body text, both retained with generic fallbacks since custom font licensing and availability are unverified. Header-height and submenu-height CSS variables confirm a floating/sticky top navigation with a secondary page-menu bar, though exact pixel layout beyond these tokens is not measured. All component definitions, type scale sizes, and interaction states below are proposed conventions consistent with the supplied evidence, not confirmed live observations.
 
@@ -152,6 +156,11 @@ This is a recommendation, not measured site behavior; no responsive breakpoints 
 Touch targets should be at minimum 44x44px for buttons and nav links. Navigation submenus (implied by the `--global-header-submenu-height` calc) likely collapse into an accordion or full-screen overlay on narrower viewports; this pattern is proposed, not confirmed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

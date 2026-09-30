@@ -4,6 +4,10 @@ name: "HigherDOSE"
 source_url: "https://higherdose.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A black canvas (#141414) and a single neon-green voltage (#4efac0) define HigherDOSE — a wellness-tech brand that sells infrared saunas, red-light panels, and PEMF mats as if they were luxury electronics. The site reads like a hardware launch: hero sections stack full-bleed product photography against white body text (#f5f5f5), with the brand's signature green used only for the primary CTA button, a few accent underlines, and the occasional progress bar. The effect is deliberate restraint — the green is never decorative, always functional. Secondary surfaces shift between true black (#121212) and near-black (#1a1a1a), while card backgrounds and form fields sit at #fafafa, creating a three-tier depth system without shadows. Typography runs Brown and Suisse Int'l at moderate weights (400–600), with display sizes around 28–32px and body copy at 14–16px — no heavy 700+ weights, no uppercase shouting. Buttons are softly rounded (`{rounded.sm}` ~8px), product cards use `{rounded.md}` ~12px, and the search bar adopts `{rounded.full}` for a pill-like feel. The checkout flow introduces a secondary accent — a bright blue (#0018ff) — that appears in the cart drawer and payment buttons, suggesting a sub-brand or partnership integration. The overall mood is dark, clinical, and aspirational: a spa that sells hardware, not a supplement company that sells hope.
 
@@ -335,6 +339,13 @@ components:
 - The category filter strip collapses from horizontal scroll (desktop) to a dropdown select (mobile)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

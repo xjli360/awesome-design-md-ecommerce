@@ -4,6 +4,10 @@ name: "Coyuchi"
 source_url: "https://www.coyuchi.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A tactile, earth-honoring bath and bedding brand that speaks in the quiet language of organic cotton and slow craft. The palette is anchored by a vivid, oceanic blue — `#00bbff` — that appears as a signature accent across CTAs, badges, and product highlights, evoking clean water and crisp linen air. This primary voltage is supported by a deeper navy `#1990c6` and `#136f99` for active and hover states, creating a tonal gradient that feels both aquatic and grounded. The neutral architecture is built on a warm off-white canvas (`#ffffff`), with body text in `#333333` and softer muted tones of `#999999` and `#cccccc` that whisper rather than shout. Hairlines in `#dedede` keep edges soft, while the ink (`#121212`) anchors headlines and navigation with quiet authority. Typography pairs the clean, humanist sans-serif of TT Norms Pro with the editorial warmth of Tiempos Headline and Tiempos Text, creating a rhythm that feels like a slow Sunday morning — generous in whitespace, deliberate in scale. Rounded corners are gentle (`{rounded.sm}` on buttons, `{rounded.md}` on cards) but never pillowy, preserving a sense of refined simplicity. The design system trusts texture — organic cotton, linen, and terry — over decorative flourish, making every surface feel touchable and true.
 
@@ -484,6 +488,13 @@ components:
 - Product detail page layout shifts from side-by-side (desktop) to stacked (mobile)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

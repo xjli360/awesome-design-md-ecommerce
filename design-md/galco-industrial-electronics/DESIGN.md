@@ -4,6 +4,10 @@ name: "Galco Industrial Electronics"
 source_url: "https://www.galco.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Galco's search bar does the work that a hero image claims on a consumer site — the entire homepage vocabulary pivots on a part-number lookup field, because the buyer arriving at galco.com already knows the Allen-Bradley drive or Siemens PLC they need to source, and they need it confirmed fast. The extracted palette surfaces #313131, a near-charcoal that runs through navigation and structural chrome, asserting industrial authority before the first product thumbnail loads. Typography falls entirely on system stacks — Arial, Roboto, Helvetica Neue — with no proprietary typeface, consistent with a supplier whose credibility derives from 165,000+ SKUs and same-day ship rates rather than brand aesthetics. Information density is high by deliberate choice: part numbers, manufacturer cross-references, datasheet PDFs, and real-time stock counts share a compressed viewport in multi-column tables that would overwhelm a consumer shopper but reads as fluency to a maintenance engineer sourcing a replacement servo drive under production-downtime pressure.
 
@@ -409,6 +413,13 @@ components:
 - Product card images scale to 80×80px in mobile list-view; grid-view maintains square aspect at ~47% viewport width
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

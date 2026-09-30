@@ -4,6 +4,10 @@ name: "Phanteks"
 source_url: "https://www.phanteks.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Phanteks runs its entire digital language off a single synthetic frequency: #00ffdd, a saturated cyan that appears at threshold-level brightness against the brand's near-black infrastructure (#212934) and its clean white product pages. This is not a color borrowed from gaming convention — it is pulled directly from the meta theme-color declaration, the earliest signal the browser receives when loading the site. Every CTA, every hover state, every RGB preview widget returns to this wavelength. The dark anchor (#212934, #32373c) reads less like a consumer lifestyle neutral and more like a system interface — the same family of near-black engineers use when they want data to feel authoritative rather than decorative.
 
@@ -381,6 +385,13 @@ components:
 - Category tile grids collapse from 6-up to 3-up to 2-up
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

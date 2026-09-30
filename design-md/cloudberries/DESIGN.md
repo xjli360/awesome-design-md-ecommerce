@@ -4,6 +4,10 @@ name: "Cloudberries"
 source_url: "https://www.cloudberries.co.uk"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Fraunces carries the Cloudberries brand at every header — an optical variable serif that swells and contracts through its axis like 1890s book typography, entirely at odds with the blunt sans-serifs that dominate Shopify puzzle storefronts. Against a warm unbleached-linen canvas (#eeece7), the display characters lean into letterpress-era contrast ratios, making each collection name feel titled rather than labeled. The true brand primary is a dense forest teal (#108474) — not the chalky mint or Instagram sage saturating the leisure category, but something closer to vintage cartographer's ink or old Japanese lacquer. It reads as authoritative and slightly archival, exactly the register for a brand positioning jigsaw puzzles as slow, deliberate adult pleasure. Geometry is almost uniformly rectilinear: buttons carry `{rounded.none}`, the product grid drops sharp-cornered image tiles, and input fields forgo the softening radius standard to Shopify themes. The only intentional curves appear in piece-count and difficulty pill badges (`{rounded.full}` and `{rounded.xs}` respectively) — a studied exception that makes those pills read as labels against an otherwise flat-edged layout. Golden amber (#dfb734) appears on gift and difficulty markers, warm enough to signal premium without the preciousness of metallics. The double-font system draws a clean editorial split: Fraunces handles all emotive weight — display headlines, product names, the large piece-count selectors on the product detail page — while Futura Web manages the information layer, running navigation labels, captions, buttons, and filter tabs in tracked uppercase at small sizes, exactly as a well-designed art book separates running heads from body text. Blush surfaces (#ebdde2, #ffe5e0, #fff1e3) serve as soft tonal backdrops in featured and gifting sections, keeping the palette warm across a full scroll without competing with the teal CTAs. A near-black footer (#2a2a2a) closes the page firmly, reversing canvas text out against the dark ground.
 
@@ -372,6 +376,13 @@ components:
 - Announcement bar maintains full teal strip at all breakpoints but truncates to the single highest-priority message on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

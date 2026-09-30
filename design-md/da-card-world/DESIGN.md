@@ -4,6 +4,10 @@ name: "DA Card World"
 source_url: "https://www.dacardworld.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Slab photography earns the page first: hundreds of PSA and BGS graded cards are rendered in catalog rows against a near-black #313131 canvas, the dark ground chosen so chromium foil, holographic parallels, and auction-house photography can breathe without a white field competing for attention. The single confirmed extract — #313131 — reads as both the primary surface and the governing mood: a collector's case lit from above, not a storefront window. System fonts (-apple-system, Segoe UI, Roboto) carry all label work at modest weights, a pragmatic call for a catalog that may display thousands of SKUs across box breaks, singles, graded slabs, wax, and memorabilia lots. Navigation runs wide, with deep category hierarchies (sport → brand → year → set → player) demanding compact spacing and a reliable {rounded.xs} discipline — no soft pill shapes that waste horizontal real estate. Grading badges (PSA, BGS, SGC) function as a secondary color vocabulary: PSA red, BGS blue, SGC orange carry certification weight more than any brand accent. The search bar is arguably the most critical CTA on the site — a collector who arrives knowing exactly which Topps Chrome Refractor Auto they want should land in under two keystrokes. Price and grade denomination sit at highest visual contrast against the dark canvas, while 'Add to Cart' buttons carry the one warm accent ({colors.primary}) that breaks the monochrome field. Footer loads category links in tight columns, a reference index more than a brand moment. The overall register is warehouse-catalog serious: low ornamentation, high information density, and a collector-audience assumption that knows exactly what they're looking for.
 
@@ -403,6 +407,13 @@ components:
 - Search bar: full-width in header on desktop → full-width second row on mobile after logo/cart strip
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

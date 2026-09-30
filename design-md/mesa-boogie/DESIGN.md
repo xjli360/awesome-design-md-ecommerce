@@ -4,6 +4,10 @@ name: "Mesa Boogie"
 source_url: "https://www.mesaboogie.com"
 captured_at: "2026-09-28T09:02:55.231342+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation reflects Mesa/Boogie's amplifier and cabinet storefront as
   presented within the Gibson brand family's commerce shell. The observed palette
@@ -167,6 +171,13 @@ Proposed breakpoints (not measured from live site):
 Touch targets for buttons and nav items are recommended at a minimum 44×44px hit area. The mega-menu's deep nesting (Amplifiers → Heads/Combos/Bass, Cabinets → Boogie/Rectifier/Bass sub-groups) should collapse into a multi-level accordion on mobile rather than a hover flyout. This section is a recommendation only; no responsive/mobile layout was observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

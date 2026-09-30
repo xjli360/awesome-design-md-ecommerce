@@ -4,6 +4,10 @@ name: "Thermo Fisher Scientific"
 source_url: "https://www.thermofisher.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Six distinct near-white surface values (#fafafa, #f9f9f9, #f8f8f8, #f7f7f7, #f4f4f4, #f3f3f3) tile the page before any brand color appears — the design system's first priority is unambiguous data legibility on a clinical white ground, not visual expression. When color arrives, it arrives with precision: #0071d0 carries every primary action while a deeper #005daa handles hover and pressed states, keeping the blue range narrow and systematic rather than expressive. What surprises is the presence of #262262, a dark indigo-navy that anchors the global utility strip and section headers, adding institutional gravity without warmth — and #802eff, a sharp electronic purple that surfaces in newer digital touchpoints and product-line overlays, signaling a quiet evolution from pure enterprise utility. The red family (#e71316, #d01013, #ee3134) is alert-red rather than brand-red: it appears only in error states, mandatory indicators, and critical-action confirmations, never on catalog browse pages. Typography runs Helvetica Neue throughout — no custom display typeface, no branded wordmark font — at weights 400 and 500 for reading efficiency across long product catalogues and multi-column specification tables. Corners are square to minimal-radius; `{rounded.full}` appears only on the search bar and filter pills, marking discovery as distinct from transactional forms. The `{colors.surface-blue-tint}` (#ebf2fa) creates quiet panel differentiation on feature sections without committing to full primary saturation — a pattern common in scientific platforms where calm visual hierarchy matters more than marketing voltage. Grid density is high by consumer-web standards; {spacing.sm} and {spacing.md} dominate product listings because the primary customer arrives to compare specifications and place a precise order, not to browse for inspiration. Product SKU identifiers render in monospace, the one typographic exception that enforces functional meaning over visual consistency.
 
@@ -436,6 +440,13 @@ components:
 - Left-rail filter panel: visible sidebar on desktop, bottom-sheet modal with overlay on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

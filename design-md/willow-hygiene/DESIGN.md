@@ -4,6 +4,10 @@ name: "Willow Hygiene"
 source_url: "https://willow-hygiene.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Where most hygiene brands reach for hospital white and institutional navy, Willow drops anchor in sage — a green that registers as botanical rather than medicinal, closer to the undersides of willow leaves than to surgical scrub. The primary (#5C8F7F) is warm enough to suggest touch, cool enough to suggest cleanliness; it carries every primary CTA and the brand's logo-mark stroke, the two places where color must earn trust rather than merely decorate. Type sits in a humanist sans-serif at scales deliberately larger than standard e-commerce convention demands: the body floor is 16px with a 1.6 line-height rather than the typical 14px, a quiet acknowledgment that reading glasses and small screens co-exist in the daily lives of the brand's core audience — elderly users and the adult children who order on their behalf. Card corners land at {rounded.md} — soft enough to read as approachable, firm enough to structure a grid of products whose packaging shares similar shapes. The brand's signature component is a warm cream surface ({colors.willow-cream}, #FAF7F2) used for care-guide strips beneath product photography, printed in {typography.body-sm} at slightly open letter-spacing, turning instruction into something closer to a pamphlet than a warning label. Trust chips — 'Fragrance-Free', 'Gentle pH', 'Hypoallergenic' — live as {rounded.full} pills in {colors.surface-soft} on every product page, set in {typography.badge} at weight 600, because for this audience compliance certification is a purchase prerequisite rather than a footnote. Warm gold accents ({colors.accent-warm}, #D4A96A) appear in exactly two contexts: the caregiver-discount banner and star-rating fills, grounding moments of human connection in a palette that otherwise holds to sage, cream, and white.
 
@@ -287,6 +291,13 @@ components:
 - Footer: 4-column → 2-column → single accordion, one section open by default on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

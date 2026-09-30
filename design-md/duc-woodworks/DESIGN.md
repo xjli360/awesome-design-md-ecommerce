@@ -4,6 +4,10 @@ name: "DUC Woodworks"
 source_url: "https://ducwoodworks.com"
 captured_at: "2026-09-28T04:38:31.656358+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The observed CSS surfaces a dark neutral core — #32373c and #181d23 — used
   for primary buttons and implied heading ink, paired with a lighter body
@@ -157,6 +161,13 @@ components:
 Touch targets should be at least 44×44px, particularly for the pill buttons and the fixed scroll-to-top control, which the evidence shows rendered at 50×50px. Navigation collapse thresholds, menu behavior, and actual grid column counts were not observed and are recommendations only, not measured site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Bulova"
 source_url: "https://www.bulova.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The sweep hand on a Bulova Precisionist completes eight full micro-steps per second — where a standard quartz moves once — and that engineering fixation on the barely perceptible translates directly into a digital identity that works through restraint rather than spectacle. The interface is built almost entirely from a stepped gray scale: #f7f7f7 near-white canvas, #e5e5e5 and #b2b2b2 for hairlines and muted surfaces, #3c3c3c as the primary ink. Against this neutral field, the brand's Bulova blue (#2559a8, deepening to #1f5da0 on active states) lands with authority — precise and contained, the way a second hand meets its marker. The Japan site's font stack leads with Lato before falling through Hiragino Kaku Gothic ProN and Meiryo, a deliberate layering that keeps the experience coherent across Latin and CJK character sets without font-swapping artifacts mid-line. Accent colors are kept rare: #da4453 appears only for promotional badges and limited-run callouts, while #4caac0 teal surfaces in collection accent chips and hover states on collection tiles. Product cards use very shallow rounding ({rounded.xs} to {rounded.sm}) — consistent with the geometry of case-and-lug profiles rather than consumer-tech pill shapes — and dial photography dominates the grid at roughly 60:40 image-to-text ratios. Navigation sits in a white horizontal bar with a persistent search icon; collection-section headers use wide tracked uppercase caps to announce transitions between movement families. The overall effect is a heritage watch brand that trusts the movement inside the case to do the talking — the interface steps back to near-invisibility so the dial commands the viewport.
 
@@ -368,6 +372,14 @@ components:
 - Price and "Add to Cart" lock to a fixed bottom action bar on mobile PDP to keep the primary CTA visible while scrolling through spec content
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

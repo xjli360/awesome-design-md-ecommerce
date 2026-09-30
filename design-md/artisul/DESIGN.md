@@ -4,6 +4,10 @@ name: "Artisul"
 source_url: "https://www.artisul.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every primary CTA fires from #108474 — an emerald-teal that sits between oxidized copper and deep sea glass, a deliberately odd color choice for a graphics tablet brand and exactly why it works: it reads as "tools for making things" rather than the neutral black-and-white minimalism that dominates peripheral hardware. Against the teal, Artisul builds an unusually wide palette — deep navy (#0e1b4d) handles dark-section weight and editorial presence; electric yellow (#f1dc0c, nearly twinned by #fbcd0a) appears as a voltage highlight on promos and call-outs; and a family of cool tints — lavender-gray (#eeeff8), soft blue (#e5e9fa), powder blue (#d0e0fa) — suggests that different product lines (pen tablets, display tablets, pen mice) carry their own ambient surface color, each echoing the physical device's colorway. A muted purple (#887fc4), a medium ink-blue (#4770db), and a peach-blush (#efbcb4) extend the vocabulary further; the result is a palette that an illustrator or colorist would feel immediately at home inside. Type pairs Bricolage Grotesque — a wide-range variable grotesque that compresses beautifully at large optical sizes — with Outfit for interface and product prose; Bricolage earns its display weight at 56–40px, with just enough stroke contrast to signal creative tool without tipping into illustration-brand territory, while Outfit runs clean at 16–14px, letting product specifications and comparison tables breathe without competing with the teal-and-yellow energy above. Cards hold at {rounded.sm} (8px) — grounded enough to avoid the plasticky feel of over-rounded consumer gadget sites — and primary buttons match that radius at 48px height; the electric yellow functions best as a surface strip or badge fill with {colors.on-accent-yellow} (#121212) text rather than as a button, since the combination skews promotional rather than functional at that scale. Section backgrounds alternate between the near-white {colors.canvas}, cool blue-gray {colors.surface-blue}, and deep {colors.accent-navy} to give the product catalog clear visual hierarchy without relying solely on whitespace.
 
@@ -389,6 +393,14 @@ components:
 - Footer column grid: single-column stack on mobile; two-column on tablet; four-column on desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

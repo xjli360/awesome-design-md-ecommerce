@@ -4,6 +4,10 @@ name: "Bronwen Jewelry"
 source_url: "https://bronwenjewelry.com"
 captured_at: "2026-09-28T04:37:34.249583+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Bronwen Jewelry's storefront draws from a warm, editorial palette anchored by a
   soft gold accent (#e1ac64) against neutral off-whites and warm dark grays. The
@@ -150,6 +154,12 @@ This is a recommended breakpoint structure, not measured site behavior:
 Touch targets should be a minimum of 44px, aligning with the observed `--button-small-height: 44px`. Primary buttons and inputs already meet this via the 52px height variable. Navigation is assumed to collapse into an off-canvas or accordion menu on mobile; this interaction was not observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS custom properties and a color/font inventory only; no rendered page, computed layout, or interaction state was observed. Semantic role assignments (e.g. treating `#e1ac64` as primary, `#1d2135` as a footer background, or `#fbf9f2` as a card surface) are inferred from limited selector context and may not match actual usage. Heading and body font-family pairings (Tenor Sans for display, Open Sans/Helvetica Neue for body, Dosis for labels) are inferred from co-occurrence in the font list, not from confirmed `--heading-font-family`/`--text-font-family` values. Spacing, rounded-corner, and component padding values beyond the explicitly observed 52px form height and 40–48px breather variables are proposed conventions. Mobile navigation collapse, hover/focus micro-interactions beyond the documented input focus ring, and actual grid/column behavior were not observed. Availability and licensing of Tenor Sans, Dosis, and Open Sans for production use have not been verified.

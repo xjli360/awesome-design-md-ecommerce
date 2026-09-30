@@ -4,6 +4,10 @@ name: "Pipette"
 source_url: "https://pipettebaby.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep navy anchor of #084b6d sets the tone for Pipette — a baby and sensitive-skin brand that feels more like a calm, clinical consultation than a nursery pastel explosion. That primary blue, pulled from the live site's most frequent hex, appears on every primary CTA, the site header, and key product badges, lending a pharmaceutical seriousness to a category usually drenched in pink or mint. The counterpoint is a warm off-white canvas of #fefdf9, a papery, unbleached backdrop that avoids the sterile glare of pure white and makes the brand feel grounded in natural ingredients. Typography leans on Recoleta, a rounded serif with a gentle, almost editorial weight, used for display headings at generous sizes — it's the kind of typeface that says "trust us, we've done the research" without raising its voice. Body copy runs in a clean sans-serif (likely system or a Shopify default) at modest weights, letting the serif headlines and the photography carry the emotional load. The palette is restrained: muted blues (#676986, #9cb7c5, #a4b7bc) and soft grays (#e5e5e5, #f4f4f6) create a hierarchy of calm, while a teal accent (#0e7a82) appears sparingly on secondary badges or ingredient callouts. Corners are softly rounded — buttons at {rounded.sm}, cards at {rounded.md} — never pill-shaped, never sharp, always the radius of a baby's knuckle. The overall effect is a brand that treats skincare for the smallest humans with the same rigor as adult dermatology, but wraps it in a warm, unbleached cloth.
 
@@ -324,6 +328,13 @@ components:
 - Search bar moves from header to a full-width bar below the nav on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

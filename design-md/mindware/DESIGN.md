@@ -4,6 +4,10 @@ name: "MindWare"
 source_url: "https://www.mindware.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A vivid, curiosity-driven educational brand that uses a saturated orange (#c74c00) as its primary voltage — not as a playful accent but as the structural anchor for CTAs, navigation highlights, and category badges, giving the entire site the energy of a freshly sharpened pencil and a blank challenge. The palette is unusually broad for a toy retailer: alongside the core orange sit a cool teal (#1f9cd8), a zingy lime (#80b800), a warm pink (#ee5f9e), and a deep marigold (#fac300), creating a color system that feels less like a brand guideline and more like a box of 64 crayons where every color has a job. The canvas is near-white (#eef9fd), a barely-there ice blue that keeps the page from feeling sterile, while ink (#181818) and body (#221f1f) provide dense, readable contrast. Typography runs on Roboto and Roboto Condensed — the condensed weight used for tight category labels and price tags, the standard weight for body copy — giving the system a clean, slightly technical feel that signals "learning tool" rather than "flashy toy." Buttons use full-height fills with `{rounded.sm}` corners, and the search bar sits in a pill-shaped container (`{rounded.full}`) with a bold orange outline. The overall mood is one of cheerful precision: every color has a reason, every corner is deliberate, and the white space is generous enough to let the product photography — often showing children mid-discovery — do the emotional work.
 
@@ -427,6 +431,13 @@ components:
 - Product cards switch from a grid to a single-column list on mobile, with larger images and full-width text.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

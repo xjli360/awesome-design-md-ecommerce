@@ -4,6 +4,10 @@ name: "Gorjana"
 source_url: "https://gorjana.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   freight-big-pro doing editorial work in a dainty-jewelry context is Gorjana's most immediate surprise — the baroque ligatures of a magazine-headline serif float above grids of stackable rings and fine chain necklaces priced for everyday wear rather than occasion. The store commits to two extracted hues: near-black (#121212) ink over a white canvas, with #dedede as the only hairline breathing between page sections. That restraint is the brand's argument — a Shopify storefront that reads less like a jeweler's case and more like a California fashion magazine, right down to the lowercase wordmark set in futura-pt. The serif/sans pairing is load-bearing throughout. freight-big-pro handles all display and editorial moments — hero headlines, lookbook callouts, collection titles — at light weights that keep letterforms open and airy. futura-pt takes all functional text: navigation, labels, price strings, button copy, always tracked wide and set uppercase, a geometric chorus to the organic serif above. Together they produce a voice that is unhurried without reaching for beach vocabulary. CTAs land flat and square-cornered ({rounded.none}), reversed white-on-black for primary actions, ink-bordered white for secondary — no gradient, no drop shadow, no hover animation beyond a simple color flip. The promotional bar across the top runs #121212 with reversed caption text, functionally identical to the footer, which makes the page feel like a single tonal envelope: dark stripe, white body, dark stripe. Gift discovery is the commercial spine — "Gift's They'll Love" anchors the page title and the navigation surfaces a gift guide entry early. Product cards stay spare: image, name in body-sm futura-pt, price in a matching weight, no badge clutter or inline swatch pickers. Filter chips hold square corners and a hairline border, activating to a full ink border on selection, keeping the editorial calm intact even in the most utilitarian functional state.
 
@@ -348,6 +352,13 @@ components:
 - Filter row becomes horizontal scroll at mobile without visible scrollbar; active filter count shown as badge on filter icon
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

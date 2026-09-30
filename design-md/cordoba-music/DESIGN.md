@@ -4,6 +4,10 @@ name: "Cordoba Music"
 source_url: "https://www.cordobaguitars.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A warm, wood-toned instrument maker whose visual identity leans on a near-monochrome palette of #777777, #555555, and #090909 — a restrained, workshop-like atmosphere where the product photography does the heavy lifting. The extracted palette reveals a site built on a foundation of #f5f5f5 canvas and #eeeeee surfaces, with #e7e7e7 and #d9d9d9 creating subtle depth through hairline separations. The brand's true accent is a muted #3c763d green, likely used for "In Stock" badges or add-to-cart affirmations, paired with #8a6d3b (a warm olive) and #31708f (a dusty teal) — colors that evoke wood grain, aged brass, and vintage instrument cases rather than digital-native brightness. The typography stack defaults to Arial and Helvetica across sans-serif declarations, with Consolas and Courier New appearing for technical specs (scale lengths, fret counts). The site reads as a catalog-first experience: generous product grids, soft card corners at {rounded.md}, and a navigation system that prioritizes instrument categories over brand storytelling. Error states borrow from Bootstrap's alert system (#a94442 red, #f2dede pink background), suggesting a pragmatic, off-the-shelf approach to form validation rather than custom-designed feedback. The overall mood is utilitarian but respectful — a digital showroom for luthier-crafted instruments that doesn't try to outshine the wood.
 
@@ -390,6 +394,13 @@ components:
 - Search bar transforms from inline component to full-screen overlay with auto-focus on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

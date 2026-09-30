@@ -4,6 +4,10 @@ name: "Corkcicle"
 source_url: "https://corkcicle.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A brand built on the thermal physics of a triple-wall vacuum seal, Corkcicle lives in the tension between high-performance outdoor gear and the saturated, almost candy-colored palette of a 1990s surf shop. The extracted hex list is a riot of accents — #c93997 (a hot pink), #26c0c9 (a turquoise), #ffbb77 (marigold), #ff6c63 (coral), #78a354 (sage) — but the true structural foundation is a near-white #f3f3f3 canvas and an almost-black #080808 ink, with #f2f2f5 and #e1e1e1 providing soft surface layers. The brand voice is Cosmica, a chunky extra-bold sans-serif that appears in four weights (ExtraBold, Medium, Regular, SemiBold) and reads as confident, playful, and slightly retro — the kind of typeface that would look at home on a cooler lid or a skateboard deck. MaisonNeueMono appears for technical specs or small print, adding a utilitarian counterpoint. Buttons and badges use {rounded.full} pill shapes, while product cards land at {rounded.sm} — the brand avoids sharp corners for anything interactive, but keeps photography edges clean. The signature design move is color-blocking: a product shot on a #fdedde peach background, a CTA in #c93997 against #080808 text, a badge in #26c0c9. Corkcicle doesn't whisper — it uses high-chroma accents as functional wayfinding, not decoration.
 
@@ -368,6 +372,13 @@ components:
 - Product card badges shift from top-left overlay to inline below photo on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

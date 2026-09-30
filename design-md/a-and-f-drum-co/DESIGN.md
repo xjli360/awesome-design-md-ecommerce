@@ -4,6 +4,10 @@ name: "A&F Drum Co"
 source_url: "https://www.anfdrumco.com"
 captured_at: "2026-09-28T05:07:47.305346+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A&F Drum Co is a handmade luxury drum manufacturer based in Austin, Texas, selling snares,
   kits, cymbals, and hardware through a Shopify storefront. The observed CSS shows a dark,
@@ -186,6 +190,14 @@ Heads and Wires, Merch) should collapse into a single scrollable drawer on mobil
 collapse/animation behavior was not observed and is proposed only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

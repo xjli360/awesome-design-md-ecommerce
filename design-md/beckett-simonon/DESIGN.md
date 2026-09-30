@@ -4,6 +4,10 @@ name: "Beckett Simonon"
 source_url: "https://beckettsimonon.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The first legible signal on beckettsimonon.com isn't leather or last shapes — it's the acid-lime CTA button (#83cc1c) sitting against a near-black canvas (#141414), a pairing that announces value-forward directness before any headline loads. Beckett Simonon builds handcrafted, Goodyear-welted dress shoes and boots on a made-to-order model, and the site's color logic mirrors that commitment: nothing pretends to be precious. Alverata — a humanist serif with Renaissance proportions — handles display type and gives the editorial voice a quiet backbone; Inter carries the workload in body and UI contexts while Work Sans tightens button labels and form controls. An amber-gold cluster (#ffb829, #ffcf2a, #f59e0b) runs through sale callouts, savings badges, and countdown timers as its own persistent promotional system, distinct enough from the lime primary to read immediately as urgency signal rather than brand identity. A deep forest tone (#384a42) surfaces in waitlist strips and craft-process storytelling — the brand's second accent, lending earnest weight to pre-order moments without competing with the lime for primary attention. The mid-gray (#545454) anchors secondary text, and a measured gradient of near-whites (#f6f6f6, #e2e2e2, #dedede) structures surface hierarchy across product listing and checkout flows. Corners lean spare throughout: product cards sit at {rounded.sm}, primary buttons at {rounded.xs}, and only detail elements like material tags reach {rounded.full}. Section padding is generous in hero and editorial contexts ({spacing.section} at 64px) and tightens predictably through the product grid. The made-to-order arc concentrates conversion into a tight hero-CTA-to-waitlist sequence, so the dark hero section, countdown timer, and lime add-to-cart button carry disproportionate visual mass relative to the breadth of inventory the site displays.
 
@@ -320,6 +324,14 @@ components:
 - Footer: single column on mobile, 2-column on tablet, 4-column on desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

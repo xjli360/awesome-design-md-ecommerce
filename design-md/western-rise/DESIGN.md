@@ -4,6 +4,10 @@ name: "Western Rise"
 source_url: "https://westernrise.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep navy (#272d45) and slate (#848587) palette frames an outdoor apparel brand that trusts performance fabric to do the talking — the site is a quiet, functional stage for technical gear, not a mountain-scape postcard. The extracted hex list reveals a restrained system: #222222 and #121212 for ink, #f1f0ed for canvas, and a single distinctive accent in #b2f9e9 — a mint-teal that surfaces on sale badges and secondary CTAs, reading as fresh air rather than brand bombast. Typography runs Geist, a clean geometric sans that echoes the brand's "less is more" ethos; headings sit at moderate weights (500-600) and body copy at 14-16px with generous line-height, letting product photography and fabric detail carry the story. The navigation bar uses a fixed white canvas with subtle shadow, and product cards employ soft {rounded.sm} corners and minimal borders — the design trusts the product's own silhouette. A persistent "Free Shipping & Returns" banner in #2c2c2c on #f1f0ed sets a low-anxiety tone from the first scroll. The checkout flow inherits Shopify's default widget colors (#0e7a82 for a teal accent, #2c3e50 for dark sections), but the brand's own palette stays cool, neutral, and deliberately underlit — the digital equivalent of a well-packed duffel.
 
@@ -338,6 +342,13 @@ components:
 - Banner text truncates on mobile to a single line, with the full message available on tap.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

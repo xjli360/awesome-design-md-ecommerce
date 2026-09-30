@@ -4,6 +4,10 @@ name: "The Fabled"
 source_url: "https://thefabled.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The Fabled presents itself not as a decor marketplace but as a domain marketplace for premium entertainment and media properties, and its design language reflects that duality — a professional, trustworthy canvas for high-value transactions layered with subtle brand warmth. The palette is anchored by a confident primary green (#0ba348) that appears in the meta theme-color and serves as the brand's signature voltage, appearing alongside a secondary green (#42ad49) that suggests growth and premium positioning. The foundation is deeply neutral — near-black ink (#201d1c), body text (#3c4043), and a muted mid-tone (#a7a9ac) create a serious, legible hierarchy for domain listings and pricing information. The surface layer (#fafafa) and canvas (#f5f5f5) keep the experience airy, while a subtle hairline (#e5e5e5) provides structure without visual noise. What makes The Fabled distinctive is its integration of third-party payment and social brand colors — PayPal blues (#253b80, #179bd7), Facebook (#1877f2), Instagram (#e4405f), Reddit (#ff4500), and various credit card brand colors (#1a1f71, #eb001b, #f79e1b) — suggesting a checkout and sharing ecosystem that must accommodate multiple trusted partners. The typography relies on system-ui and sans-serif stacks with monospace fallbacks (SFMono-Regular, Consolas, Courier New) for technical domain data, while the rounded corners ({rounded.sm} for buttons, {rounded.md} for cards, {rounded.full} for search pills) keep the transactional interface approachable. The overall feel is that of a premium auction house translated to digital — serious enough for six-figure domain deals, warm enough to feel like a partnership.
 
@@ -306,6 +310,13 @@ components:
 - Category filter strip becomes horizontally scrollable on tablet and mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

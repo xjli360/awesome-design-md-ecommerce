@@ -4,6 +4,10 @@ name: "Camp Chef"
 source_url: "https://www.campchef.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   That deep ember-red #b72c27 sitting in Camp Chef's header hits like the glow under a pellet hopper at two hundred degrees — not fire-engine bright but brick-kiln warm, a red that has absorbed heat rather than displaying it. It anchors every primary CTA, promotional banner, and navigation accent across a site that otherwise runs on stark dark-on-white contrast built for scanning BTU ratings and comparing griddle dimensions: #1a1617 ink, #232323 body text, and a functional gray ramp (#8d8d8d, #626262, #d2d2d2) that separates content tiers without introducing personality. Typography splits duties between two distinct voices. Saira, a geometric semi-condensed family, stamps display headings and button labels at weight 600–700 with an industrial-catalog energy — its squared-off counters and narrow letterforms suit a brand selling 36-inch flat-top griddles and commercial-grade pellet smokers. Instrument Sans handles body copy and product descriptions at weight 400–500, clean and readable at paragraph lengths without competing with hardware photography. Consolas surfaces in spec tables and model-number callouts, reinforcing an engineering-manual posture with monospaced precision. Corner radii stay tight: `{rounded.xs}` (4px) on buttons and inputs, `{rounded.sm}` (8px) on product cards — no pill shapes, no soft lifestyle circles. The grid is utilitarian, with `{spacing.lg}` gaps between card rows and `{spacing.section}` between content blocks, giving large product photography room to breathe. Sale prices punch in #d20000 against struck-through originals in `{colors.muted}`, while stock indicators use #1f873d — functional green, never decorative. The navigation sits on a near-black `{colors.nav-bg}` ground with white logotype and a `{colors.primary}`-tinted search icon, reading more like an equipment dashboard than a lifestyle storefront. A faint warm tint on `{colors.surface-warm}` (#fff8f8) touches certain promo sections, the only softness in a palette built for people who already know which smoker they want and need the specs to confirm it.
 
@@ -368,6 +372,13 @@ components:
 - Promo strip either truncates with an ellipsis or cycles through messages on a timed interval on narrow viewports.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

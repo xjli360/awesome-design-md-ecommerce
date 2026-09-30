@@ -4,6 +4,10 @@ name: "Peak Design"
 source_url: "https://www.peakdesign.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The darkest value in Peak Design's extracted palette — #1a211e, a green-black that reads like submerged forest canopy — is not a design neutral but the structural foundation of the brand's UI. It dominates full-bleed hero sections, the navigation shelf, and footer, creating a dark-studio surround where products emerge from shadow rather than sit on a white shelf. The primary action color is sage green (#407961): measured enough to sidestep the urgency of a retail red, specific enough to signal that the brand's currency is field-tested hardware and long-carry ergonomics rather than seasonal taste. Lighter values — #e6e9e8 and #eef1f0 — appear in product-card backgrounds and page canvas, providing the neutral airspace that a technically dense bag catalog needs to remain legible.
 
@@ -349,6 +353,13 @@ components:
 - Footer: Four-column link grid → Two-column → Stacked accordion with expand/collapse per section below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

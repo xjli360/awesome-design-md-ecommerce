@@ -4,6 +4,10 @@ name: "Britax"
 source_url: "https://www.britax-roemer.com/"
 captured_at: "2026-09-29T03:59:14.823111+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from the Britax Römer parent storefront (britax-roemer.com), which
   presents the Britax Römer car seat and pushchair (stroller) range as its current live catalog under
@@ -150,6 +154,14 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be at least 44px in height for primary/secondary buttons and nav items. The navigation bar is expected to collapse into a hamburger/menu pattern below tablet width; this is a proposed convention for juvenile-safety retail sites and has not been observed in the supplied markup.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - The supplied CSS evidence is almost entirely from a third-party OneTrust cookie-consent widget; no first-party component-level stylesheet rules (nav, product grid, hero, footer) were available, so all component styling above is proposed rather than extracted.

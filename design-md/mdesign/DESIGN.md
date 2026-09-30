@@ -4,6 +4,10 @@ name: "mDesign"
 source_url: "https://mdesignhomedecor.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A bright, orderly home organization brand that uses #e9be33 — a warm, almost buttery yellow — as its primary voltage, a color choice that signals energy and optimism rather than the muted beiges or cool grays typical of the category. The palette pivots on a crisp #eaeaea canvas and #cccccc hairline, creating a clean, almost clinical grid that lets product photography and that yellow pop. Typography defaults to Arial and Helvetica Neue at moderate weights — there is no custom brand typeface, so the system relies on generous spacing and clear hierarchy: titles sit at 22px weight 600, body at 15px weight 400, and captions at 12px. Buttons use the full {rounded.sm} radius, while product cards and modals use {rounded.md} — the brand avoids hard corners but stops short of the pill-shaped extremes found in marketplace design. The nav bar is a fixed 64px strip of {colors.canvas} with a subtle {colors.hairline} bottom border, and the search bar sits as a full-width field with a {colors.primary} accent border on focus. Category badges appear as small {rounded.xs} pills in {colors.primary} with white text, and sale tags use a darker #31373d ink on a yellow field. The overall effect is a system that feels like a well-organized closet: everything has its place, the yellow draws the eye to what matters, and the white space breathes.
 
@@ -380,6 +384,13 @@ components:
 - Accordion sections remain collapsed by default on all viewports
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

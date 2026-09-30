@@ -4,6 +4,10 @@ name: "Neumann"
 source_url: "https://www.neumann.com"
 captured_at: "2026-09-28T04:43:14.765696+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Neumann's site evidence shows a professional-audio brand built on high-contrast
   neutrals — pure black (#000000), near-black panel tones (#141414, #18191a), and
@@ -175,6 +179,13 @@ Recommended, not measured:
 Touch targets should be at least 44×44px; the dark mega-menu aside (max-width 348px, per evidence) suggests a slide-in drawer pattern on small screens. No mobile viewport or breakpoint values were directly observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Extraction is static CSS/text only; no rendered layout, real breakpoints, or interaction states (focus, active, transitions in motion) were observed.

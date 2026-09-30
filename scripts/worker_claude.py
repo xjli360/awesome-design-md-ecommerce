@@ -24,6 +24,9 @@ from pathlib import Path
 from collection import reconcile
 from design_system import ROOT, BLOCKS, atomic_write, attach_evidence, canonical_url, parse_document, repair_syntax, validate, walk_values
 from extract_site import capture, norm_hex, source_problem, COLOR
+from evidence import evidence_check, token_records, assess
+from source_proofs import collect_proofs
+from capture_state import load_capture
 
 PRINT_LOCK=threading.Lock()
 SYSTEM='''You write evidence-qualified DESIGN.md specifications from supplied public-site CSS evidence.
@@ -44,7 +47,7 @@ def log(message):
     with PRINT_LOCK:print(f'[{time.strftime("%H:%M:%S")}] {message}',flush=True)
 
 def prompt(site,evidence):
-    observed=dict(title=evidence.get('title'),page_text_excerpt=evidence.get('page_text_excerpt'),colors=list(evidence['colors'])[:60],font_families=list(evidence['font_families']),css_rules=evidence['css_rules'][:18])
+    observed=dict(title=evidence.get('title'),page_text_excerpt=evidence.get('page_text_excerpt'),colors=list(evidence['colors'])[:60],font_families=list(evidence['font_families']),css_rules=evidence['css_rules'][:18],measurements=evidence.get('measurements',[]))
     corrections=ROOT/'data/source_corrections.json'
     if corrections.exists():
         correction=json.loads(corrections.read_text()).get(site['slug'])
@@ -71,26 +74,12 @@ colors:
   on-primary: "#observed"
   (only include additional colors from supplied palette)
 typography:
-  display-xl: {{fontFamily: "observed family, sans-serif", fontSize: 48px, fontWeight: 600, lineHeight: 1.1, letterSpacing: -0.5px}}
+  display-xl: {{fontFamily: "observed family, sans-serif", fontSize: <measured value when available; otherwise explicitly proposed>, fontWeight: 600, lineHeight: 1.1, letterSpacing: -0.5px}}
   (also display-md, title-md, body-md, body-sm, caption, button-md; sizes are proposed unless shown in CSS)
 rounded:
-  none: 0px
-  xs: 2px
-  sm: 4px
-  md: 8px
-  lg: 16px
-  full: 9999px
+  (derive only from measured observations when available; otherwise label the chosen scale as proposed)
 spacing:
-  none: 0px
-  xxs: 2px
-  xs: 4px
-  sm: 8px
-  md: 12px
-  base: 16px
-  lg: 24px
-  xl: 32px
-  xxl: 48px
-  section: 64px
+  (do not copy a universal scale; use measured observations if supplied, and mark any fallback values as proposed)
 components:
   button-primary:
     backgroundColor: "{{colors.primary}}"
@@ -128,27 +117,6 @@ def call_claude(user,model,timeout):
     if not isinstance(text,str) or not text:raise RuntimeError('CLAUDE_EMPTY_RESULT')
     return text
 
-def evidence_check(data,evidence):
-    errors=[]; palette=set(evidence['colors'])
-    problem=source_problem(evidence)
-    if problem:errors.append(f'Invalid source page: {problem}')
-    for key,value in data.get('colors',{}).items():
-        if isinstance(value,str) and value.startswith('#') and norm_hex(value) not in palette:
-            errors.append(f'Unobserved color {key}: {value}')
-        elif isinstance(value,str) and not value.startswith('#'):
-            errors.append(f'Use observed hex for colors.{key}, not {value!r}')
-    for block in ('typography','rounded','spacing','components'):
-        for value in walk_values(data.get(block,{})):
-            for match in COLOR.finditer(value):
-                if norm_hex(match[0]) not in palette:
-                    errors.append(f'Unobserved inline color in {block}: {match[0]}')
-    allowed={x.casefold() for x in evidence['font_families']}
-    generic={'serif','sans-serif','monospace','system-ui','-apple-system','blinkmacsystemfont','cursive','fantasy','emoji'}
-    for key,style in data.get('typography',{}).items():
-        stack=[x.strip().strip('"\'').casefold() for x in str(style.get('fontFamily','')).split(',')]
-        if not set(stack)&allowed:errors.append(f'No observed family in typography.{key}')
-        if set(stack)-allowed-generic:errors.append(f'Unobserved family in typography.{key}: {set(stack)-allowed-generic}')
-    return errors
 
 def process(site,args):
     slug=site['slug']; path=ROOT/'design-md'/slug/'DESIGN.md'
@@ -156,13 +124,8 @@ def process(site,args):
     log(f'[capture] {slug}')
     retained=getattr(args,'evidence_root',None)
     retained_dir=Path(retained)/'_state/evidence'/slug if retained else None
-    if retained_dir and (retained_dir/'capture.json').exists():
-        evidence=json.loads((retained_dir/'capture.json').read_text())
-        if canonical_url(evidence['source_url'])!=canonical_url(site['url']):raise ValueError('Retained capture URL mismatch')
-        for item in evidence['pages']+evidence.get('screenshots',[]):
-            name=item['snapshot']
-            if Path(name).name!=name:raise ValueError('Unsafe retained snapshot path')
-            if hashlib.sha256((retained_dir/name).read_bytes()).hexdigest()!=item['sha256']:raise ValueError('Retained snapshot hash mismatch')
+    if retained_dir:
+        evidence=load_capture(retained_dir,site['url'])
         shutil.copytree(retained_dir,ROOT/'_state/evidence'/slug,dirs_exist_ok=True)
     else:evidence=capture(site)
     if evidence.get('failure'):
@@ -194,15 +157,13 @@ def process(site,args):
             if result['valid']:errors=evidence_check(result['data'],evidence)
             if not errors:
                 if path.exists():return dict(slug=slug,status='already_exists')
-                data=result['data'];tokens={}
-                for block in BLOCKS:
-                    for key,value in data[block].items():
-                        label=f'{block}.{key}'
-                        if block=='colors':tokens[label]=dict(value_status='observed_in_css',role_status='inferred',sources=evidence['colors'][norm_hex(value)]['sources'])
-                        elif block=='typography':tokens[label]=dict(font_family_status='observed_family_with_fallbacks',measurements_status='inferred')
-                        else:tokens[label]=dict(status='inferred')
-                source={**{k:v for k,v in evidence.items() if k!='page_text_excerpt'},'schema_version':1,'batch_id':args.batch_id,'tokens':tokens}
+                data=result['data']
+                source={**{k:v for k,v in evidence.items() if k!='page_text_excerpt'},'schema_version':2,'batch_id':args.batch_id}
+                source['observations']=collect_proofs(source,ROOT/'_state/evidence'/slug)
+                source['tokens']=token_records(data,source)
                 content=attach_evidence(content,source)
+                admission=assess(site,content,source,ROOT)
+                if not admission['admitted']:raise RuntimeError('SOURCE_ADMISSION: '+'; '.join(admission['errors']))
                 atomic_write(path.parent/'SOURCE.json',json.dumps(source,ensure_ascii=False,indent=2)+'\n')
                 atomic_write(path,content)
                 log(f'[done] {slug}')
@@ -219,7 +180,7 @@ def process(site,args):
     return dict(slug=slug,status='failed',reason='; '.join(last)[:1000])
 
 def choose_pending(manifest, include_held=False):
-    covered={r['canonical_url'] for r in manifest['sites'] if r['generated']}
+    covered={r['canonical_url'] for r in manifest['sites'] if r.get('admitted',r['generated'])}
     defunct=set()
     fp=ROOT/'_state/failed.txt'
     if fp.exists():
@@ -278,7 +239,7 @@ def run(args):
             continue
         evidence=json.loads(source.read_text())
         checked=validate(path.read_text())
-        if evidence.get('batch_id') != args.batch_id or not checked['valid'] or evidence_check(checked['data'], evidence):
+        if evidence.get('batch_id') != args.batch_id or not checked['valid'] or not assess(next(r for r in state['queue'] if r['slug']==slug),path.read_text(),evidence,ROOT)['admitted']:
             raise ValueError(f'Completed batch artifact requires repair: {slug}')
     # Recover a file written before a checkpoint after an interrupted process.
     for site in state['queue']:
@@ -286,7 +247,7 @@ def run(args):
         if source.exists() and path.exists():
             evidence=json.loads(source.read_text())
             checked=validate(path.read_text(),site['brand_name'])
-            if evidence.get('batch_id')==args.batch_id and checked['valid'] and not evidence_check(checked['data'],evidence):
+            if evidence.get('batch_id')==args.batch_id and checked['valid'] and assess(site,path.read_text(),evidence,ROOT)['admitted']:
                 state['results'][site['slug']]=dict(slug=site['slug'],status='done',canonical_url=canonical_url(site['url']))
     if args.retry_failed:
         state['results']={s:r for s,r in state['results'].items() if r['status'] not in ('failed','blocked')}

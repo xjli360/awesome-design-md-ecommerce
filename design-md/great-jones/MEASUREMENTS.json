@@ -1,0 +1,827 @@
+{
+  "schema_version": 1,
+  "source_url": "https://greatjonesgoods.com/",
+  "method": "browser-computed-components",
+  "viewports": [
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "Cookie consent\n\nWe and our partners, including Shopify, use ",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 2461.34375
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(250, 237, 223)",
+            "font-family": "HopeSans, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "0.4px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "navigation",
+          "selector": "#shopify-section-header > nav:nth-of-type(1)",
+          "label": "New Arrivals\nShop All \nThe Dutchess\n$205\nLarge Fry\n$105\nKing",
+          "box": {
+            "x": 10,
+            "y": 49,
+            "width": 1420,
+            "height": 56.953125
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "HopeSans, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "0.4px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "section-heading",
+          "selector": "#shopify-section-template--18247228457039__16522825296c7d3f59 > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "label": "Welcome to Great Jones",
+          "box": {
+            "x": 318,
+            "y": 331.5,
+            "width": 804,
+            "height": 54
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "CooperBT, Times, \"Times New Roman\", serif",
+            "font-size": "34px",
+            "font-weight": "400",
+            "line-height": "34px",
+            "letter-spacing": "-0.68px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(255, 255, 255)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "body-copy",
+          "selector": "#main > p:nth-of-type(1)",
+          "label": "You have navigated to the home page",
+          "box": {
+            "x": -1,
+            "y": 33,
+            "width": 1,
+            "height": 1
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "HopeSans, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "0.4px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "-1px",
+            "margin-bottom": "-1px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--18247228457039__16367287275c06c73f > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "Shop All",
+          "box": {
+            "x": 663.421875,
+            "y": 1399.34375,
+            "width": 113.140625,
+            "height": 40
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(14, 85, 64)",
+            "font-family": "HopeSans, Helvetica, Arial, sans-serif",
+            "font-size": "18px",
+            "font-weight": "700",
+            "line-height": "18px",
+            "letter-spacing": "0.4px",
+            "padding-top": "12px",
+            "padding-right": "20px",
+            "padding-bottom": "13px",
+            "padding-left": "20px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "5px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(14, 85, 64)",
+            "display": "inline-block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--18247228457039__16367287275c06c73f > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+          "label": "Shop All",
+          "box": {
+            "x": 663.421875,
+            "y": 1399.34375,
+            "width": 113.140625,
+            "height": 40
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(14, 85, 64)",
+            "font-family": "HopeSans, Helvetica, Arial, sans-serif",
+            "font-size": "18px",
+            "font-weight": "700",
+            "line-height": "18px",
+            "letter-spacing": "0.4px",
+            "padding-top": "12px",
+            "padding-right": "20px",
+            "padding-bottom": "13px",
+            "padding-left": "20px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "5px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(14, 85, 64)",
+            "display": "inline-block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "#shopify-section-footer > footer:nth-of-type(1)",
+          "label": "Serving up fresh news, recipes, exclusives, and more.\nJoin o",
+          "box": {
+            "x": 0,
+            "y": 1539.34375,
+            "width": 1440,
+            "height": 922
+          },
+          "styles": {
+            "color": "rgb(250, 237, 223)",
+            "background-color": "rgb(14, 85, 64)",
+            "font-family": "HopeSans, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "0.4px",
+            "padding-top": "47px",
+            "padding-right": "138px",
+            "padding-bottom": "0px",
+            "padding-left": "138px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(250, 237, 223)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://greatjonesgoods.com/cdn/shop/products/holly-sheet_01-blue_453x302_crop_center.png?v=1762440832",
+          "alt": "Holy Sheet bakeware Great Jones Blueberry",
+          "width": 453,
+          "height": 302
+        },
+        {
+          "url": "https://greatjonesgoods.com/cdn/shop/files/holy-sheet_lifestyle-blueberry_453x302_crop_center.jpg?v=1744228065",
+          "alt": "",
+          "width": 453,
+          "height": 302
+        },
+        {
+          "url": "https://greatjonesgoods.com/cdn/shop/products/BABYDUTCH_14296_211119-5_453x302_crop_center.png?v=1762443730",
+          "alt": "Dutch Baby cookware Great Jones Blueberry",
+          "width": 453,
+          "height": 302
+        },
+        {
+          "url": "https://greatjonesgoods.com/cdn/shop/files/PDPImages_Lifestyle_9a12484d-53e4-4fb3-b1f9-83168d14a3d2_453x302_crop_center.png?v=1744230670",
+          "alt": "",
+          "width": 453,
+          "height": 302
+        },
+        {
+          "url": "https://greatjonesgoods.com/cdn/shop/files/IsabelCoss_Desktop1_1440x810_crop_center.png?v=1751380016",
+          "alt": "",
+          "width": 1440,
+          "height": 810
+        },
+        {
+          "url": "https://greatjonesgoods.com/cdn/shop/products/dutchess_45_01-green_453x302_crop_center.png?v=1697667565",
+          "alt": "The Dutchess cookware Great Jones Broccoli",
+          "width": 453,
+          "height": 302
+        },
+        {
+          "url": "https://greatjonesgoods.com/cdn/shop/files/G_JONES_NF_420_1479_336c36b7-0666-4a70-aa90-aa58cd61e621_453x302_crop_center.jpg?v=1744309062",
+          "alt": "",
+          "width": 453,
+          "height": 302
+        },
+        {
+          "url": "https://greatjonesgoods.com/cdn/shop/products/holly-sheet_01-blue_453x302_crop_center.png?v=1762440832",
+          "alt": "Holy Sheet bakeware Great Jones Blueberry",
+          "width": 453,
+          "height": 302
+        },
+        {
+          "url": "https://greatjonesgoods.com/cdn/shop/files/holy-sheet_lifestyle-blueberry_453x302_crop_center.jpg?v=1744228065",
+          "alt": "",
+          "width": 453,
+          "height": 302
+        },
+        {
+          "url": "https://greatjonesgoods.com/cdn/shop/files/great-fellow_blueberry_01_453x302_crop_center.png?v=1762451911",
+          "alt": "Great Jones x Fellow EKG Pro Kettle Accessories Great Jones ",
+          "width": 453,
+          "height": 302
+        },
+        {
+          "url": "https://greatjonesgoods.com/cdn/shop/files/great-fellow_lifestyle-blueberry_453x302_crop_center.jpg?v=1744227967",
+          "alt": "",
+          "width": 453,
+          "height": 302
+        },
+        {
+          "url": "https://greatjonesgoods.com/cdn/shop/files/1_04f4ac7e-c9ef-4084-afcf-ac64ba30c0f4_453x302_crop_center.png?v=1762444961",
+          "alt": "Little Hottie bakeware Great Jones Blueberry",
+          "width": 453,
+          "height": 302
+        }
+      ],
+      "document_width": 1440,
+      "viewport": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 1000
+      },
+      "states": {
+        "initial": "observed",
+        "hover": "not_measured",
+        "focus": "not_measured",
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-desktop.png",
+        "sha256": "653aa5d89833cfdc849d217a51aed6fc90e91d48003be757f25f53459a353372",
+        "public_path": "evidence/viewport-desktop.png"
+      }
+    },
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "Cookie consent\n\nWe and our partners, including Shopify, use ",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 2921.65625
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(250, 237, 223)",
+            "font-family": "HopeSans, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "0.4px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "section-heading",
+          "selector": "#shopify-section-template--18247228457039__16522825296c7d3f59 > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "label": "Welcome to Great Jones",
+          "box": {
+            "x": 30,
+            "y": 192,
+            "width": 708,
+            "height": 52.796875
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "CooperBT, Times, \"Times New Roman\", serif",
+            "font-size": "34px",
+            "font-weight": "500",
+            "line-height": "40.8px",
+            "letter-spacing": "-0.68px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(255, 255, 255)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "body-copy",
+          "selector": "#main > p:nth-of-type(1)",
+          "label": "You have navigated to the home page",
+          "box": {
+            "x": -1,
+            "y": 33,
+            "width": 1,
+            "height": 1
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "HopeSans, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "0.4px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "-1px",
+            "margin-bottom": "-1px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--18247228457039__16367287275c06c73f > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "Shop All",
+          "box": {
+            "x": 327.65625,
+            "y": 1654.75,
+            "width": 112.6875,
+            "height": 40
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(14, 85, 64)",
+            "font-family": "HopeSans, Helvetica, Arial, sans-serif",
+            "font-size": "17.8857px",
+            "font-weight": "688.5",
+            "line-height": "17.8857px",
+            "letter-spacing": "0.4px",
+            "padding-top": "12px",
+            "padding-right": "20px",
+            "padding-bottom": "13px",
+            "padding-left": "20px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "5px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(14, 85, 64)",
+            "display": "inline-block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--18247228457039__16367287275c06c73f > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+          "label": "Shop All",
+          "box": {
+            "x": 327.65625,
+            "y": 1654.75,
+            "width": 112.6875,
+            "height": 40
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(14, 85, 64)",
+            "font-family": "HopeSans, Helvetica, Arial, sans-serif",
+            "font-size": "17.8857px",
+            "font-weight": "688.5",
+            "line-height": "17.8857px",
+            "letter-spacing": "0.4px",
+            "padding-top": "12px",
+            "padding-right": "20px",
+            "padding-bottom": "13px",
+            "padding-left": "20px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "5px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(14, 85, 64)",
+            "display": "inline-block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "#shopify-section-footer > footer:nth-of-type(1)",
+          "label": "Serving up fresh news, recipes, exclusives, and more.\nJoin o",
+          "box": {
+            "x": 0,
+            "y": 1751.75,
+            "width": 768,
+            "height": 1169.90625
+          },
+          "styles": {
+            "color": "rgb(250, 237, 223)",
+            "background-color": "rgb(14, 85, 64)",
+            "font-family": "HopeSans, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "0.4px",
+            "padding-top": "50px",
+            "padding-right": "20px",
+            "padding-bottom": "0px",
+            "padding-left": "20px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(250, 237, 223)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [],
+      "document_width": 768,
+      "viewport": {
+        "name": "tablet",
+        "width": 768,
+        "height": 1024
+      },
+      "states": {
+        "initial": "observed",
+        "hover": "not_measured",
+        "focus": "not_measured",
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-tablet.png",
+        "sha256": "6fb9ad4511e6d59de8b876aca01e7f315356314491d970e2ac6d3acd4f3ad5a7",
+        "public_path": "evidence/viewport-tablet.png"
+      }
+    },
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "Cookie consent\n\nWe and our partners, including Shopify, use ",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 2650.84375
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(250, 237, 223)",
+            "font-family": "HopeSans, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "0.4px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "section-heading",
+          "selector": "#shopify-section-template--18247228457039__16522825296c7d3f59 > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "label": "Welcome to Great Jones",
+          "box": {
+            "x": 30,
+            "y": 210,
+            "width": 330,
+            "height": 93.59375
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "CooperBT, Times, \"Times New Roman\", serif",
+            "font-size": "34px",
+            "font-weight": "500",
+            "line-height": "40.8px",
+            "letter-spacing": "-0.68px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(255, 255, 255)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "body-copy",
+          "selector": "#main > p:nth-of-type(1)",
+          "label": "You have navigated to the home page",
+          "box": {
+            "x": -1,
+            "y": 51,
+            "width": 1,
+            "height": 1
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "HopeSans, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "0.4px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "-1px",
+            "margin-bottom": "-1px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--18247228457039__16367287275c06c73f > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "Shop All",
+          "box": {
+            "x": 140,
+            "y": 1489.9375,
+            "width": 110,
+            "height": 40
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(14, 85, 64)",
+            "font-family": "HopeSans, Helvetica, Arial, sans-serif",
+            "font-size": "16.1211px",
+            "font-weight": "512",
+            "line-height": "16.1211px",
+            "letter-spacing": "0.4px",
+            "padding-top": "12px",
+            "padding-right": "20px",
+            "padding-bottom": "13px",
+            "padding-left": "20px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "5px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(14, 85, 64)",
+            "display": "inline-block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--18247228457039__16367287275c06c73f > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+          "label": "Shop All",
+          "box": {
+            "x": 140,
+            "y": 1445.96875,
+            "width": 110,
+            "height": 40
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(14, 85, 64)",
+            "font-family": "HopeSans, Helvetica, Arial, sans-serif",
+            "font-size": "16.1211px",
+            "font-weight": "512",
+            "line-height": "16.1211px",
+            "letter-spacing": "0.4px",
+            "padding-top": "12px",
+            "padding-right": "20px",
+            "padding-bottom": "13px",
+            "padding-left": "20px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "5px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(14, 85, 64)",
+            "display": "inline-block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "#shopify-section-footer > footer:nth-of-type(1)",
+          "label": "Serving up fresh news, recipes, exclusives, and more.\nJoin o",
+          "box": {
+            "x": 0,
+            "y": 1586.9375,
+            "width": 390,
+            "height": 1063.90625
+          },
+          "styles": {
+            "color": "rgb(250, 237, 223)",
+            "background-color": "rgb(14, 85, 64)",
+            "font-family": "HopeSans, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "0.4px",
+            "padding-top": "50px",
+            "padding-right": "20px",
+            "padding-bottom": "0px",
+            "padding-left": "20px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(250, 237, 223)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [],
+      "document_width": 390,
+      "viewport": {
+        "name": "mobile",
+        "width": 390,
+        "height": 844
+      },
+      "states": {
+        "initial": "observed",
+        "hover": "not_measured",
+        "focus": "not_measured",
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-mobile.png",
+        "sha256": "3953d5f91205cb9c0e5044d01944540e62a8ced394f769a40a29be53863d0338",
+        "public_path": "evidence/viewport-mobile.png"
+      }
+    }
+  ],
+  "visual_validation": {
+    "status": "not_performed",
+    "reason": "No implementation generated from DESIGN.md has been compared with the reference."
+  },
+  "brand_review": {
+    "decision": "matched_brand",
+    "reviewed_on": "2026-09-30",
+    "title": "Cast Iron, Ceramic & Stainless Steel Cookware & Bakeware | Great Jones",
+    "final_url": "https://greatjonesgoods.com/",
+    "capture_id": "5c7027f4db5e4247ab97914e9ca59ff6",
+    "expected_brand": "Great Jones"
+  },
+  "requested_url": "https://greatjonesgoods.com",
+  "captured_at": "2026-09-30T09:11:45.053593+00:00",
+  "capture_id": "5c7027f4db5e4247ab97914e9ca59ff6",
+  "landing_page_sha256": "669d3b6ef18ea6affeffe5981a72302131f78fba00b1b343d32059f8a66456bb"
+}

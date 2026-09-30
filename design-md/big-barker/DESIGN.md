@@ -4,6 +4,10 @@ name: "Big Barker"
 source_url: "https://bigbarker.com"
 captured_at: "2026-09-28T04:17:31.246359+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Big Barker's storefront CSS exposes a neutral, high-contrast base (white canvas, near-black
   ink and button colors) paired with a small set of warm, muted accent tones — a sage-green
@@ -159,6 +163,14 @@ components:
 Proposed breakpoints (not measured from the live site): mobile ≤480px, tablet 481–768px, desktop 769–1200px, wide ≥1201px. Navigation is assumed to collapse into a hamburger/drawer below tablet width, consistent with the `icon-hamburger` and drawer color tokens present in evidence. Touch targets for buttons and nav items should be at least 44×44px. Product grids likely reduce from multi-column to single/double column on mobile, using the observed 22px grid gutter as a baseline. This section is a recommendation only; no responsive CSS or viewport behavior was captured.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/custom-property extraction only; no rendered DOM, computed styles, or interaction states were observed. The `--typeHeaderPrimary` variable references "Urbanist," a font not present in the supplied font-family evidence, and was therefore excluded from typography roles per policy — actual header rendering may differ from this interpretation. Several color-to-role assignments (success, alert, badge, search) are inferred from adjacent naming or isolated tokens rather than confirmed component usage. All spacing and radius values follow a standard proposed scale, not measured pixel values from the site. Hover/focus/active states beyond the two documented button `:hover` rules are proposed. Mobile menu behavior, carousel mechanics beyond button color, and checkout/cart flows were not observed. Font licensing and self-hosting/CDN availability for DM Sans, Fraunces, Outfit, and Ovo were not verified.

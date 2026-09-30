@@ -4,6 +4,10 @@ name: "Buck Mason"
 source_url: "https://buckmason.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Rust and sand — Buck Mason's visual identity rests on the contrast between #b73e25, a terracotta pulled from the American Southwest, and the warm putty tones (#dddad0, #fafaf8) that replace clinical white on every surface. The primary activates sparingly: buy buttons, sold-out markers, sale callouts, nothing else. Everything between those red moments is a studied sequence of near-neutrals that makes product photography do the work a brand with more insecurity would hand to graphic pattern or color block. BigCaslon FB anchors the editorial layer — full-width hero headlines at 56px, weight 400, bracketed serifs that recall mid-century American catalog lettering. Acumin Pro Condensed takes the operational layer: all caps, tight tracking, at 11–14px it labels navigation, filters, category headers, and product name lines without competing with the image. Proxima Nova Wide handles CTAs and overlines, its wide stance lending quiet authority to 13px uppercase button text. Overpass Mono surfaces only at micro-scale for SKU codes and size-chart reference numbers, a typographic register that signals manufacturing traceability rather than affectation. Corner radius is effectively zero ({rounded.none}) on every interactive component — buttons, inputs, filter chips, size selectors — a hard edge that reads as functional rather than decorative, the UI equivalent of a raw seam. The announcement bar alternates between near-black (#111111) for evergreen messaging and neon #4bff40 for sale events, a shock-contrast move that makes the brand's usual restraint read as deliberate economy. An olive (#7c7d5f) bridges the warm neutrals and the earthy product range — field fatigue colors, washed indigo — appearing in category navigation highlights and editorial background blocks. The product grid uses a strict 3/4 portrait ratio with no hover overlays beyond a discreet secondary colorway swatch; the image alone closes the sale, trusting the product to speak first.
 
@@ -398,6 +402,14 @@ components:
 - Footer four-column layout collapses to single-column accordion on mobile; each heading is a tap-to-expand disclosure
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

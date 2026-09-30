@@ -4,6 +4,10 @@ name: "Kandao"
 source_url: "https://kandaovr.com"
 captured_at: "2026-09-28T09:41:20.115465+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Kandao (看到科技) markets VR/360 cameras (Obsidian, Qoocam) and video-conferencing
   hardware (Meeting series) through a Next.js-rendered marketing site. The extracted
@@ -162,6 +166,11 @@ Recommended, not measured breakpoints:
 Touch targets should be at least 44×44px for pill buttons and nav items. Collapse of the language switcher (中文简体/English/日本語) and category menu into a drawer or accordion on mobile is a reasonable but unverified assumption.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This spec is derived from static CSS/text extraction only; no rendered layout, hover state, animation, or actual responsive breakpoint was observed. Color-role assignments (e.g. teal/cyan as product-line accents, danger red) are inferred from palette presence, not from confirmed selector-to-component mapping. No proprietary typeface was found in the CSS; "Noto Sans" is used as a generic CJK-friendly stack, and its licensing/availability for production use is not verified here. All rounded and spacing scale values beyond the observed 50px pill button and 8px `--radius` variable are proposed defaults. Component states (hover, focus, disabled, error) and mobile navigation behavior are proposed conventions only and require live-site verification before implementation.

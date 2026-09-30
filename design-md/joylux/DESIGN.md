@@ -4,6 +4,10 @@ name: "Joylux"
 source_url: "https://joylux.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Coral (#ec523e) pulled against a near-black base (#121212) is Joylux's central design argument: that a medical-grade pelvic floor light therapy device can be sold with the same warmth and directness as premium skincare. The brand runs Work Sans at 600–700 weight for all display copy, giving headlines a confident upward lean that avoids both the sterility of a clinical typeface and the softness of a lifestyle script. Body copy shifts to Assistant — slightly rounder, more conversational — bridging efficacy language and empathetic storytelling. The pairing can hold "FDA-cleared" and "feel like yourself again" in the same scroll without tonal whiplash.
 
@@ -350,6 +354,13 @@ components:
 - Footer: 4-column link grid → 2-column (tablet) → accordion-collapsed sections (mobile)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

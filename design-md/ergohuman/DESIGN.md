@@ -4,6 +4,10 @@ name: "Ergohuman"
 source_url: "https://ergohuman.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every hero image on Ergohuman's site is a product photograph, never a lifestyle scene — a mesh back panel or an aluminum crossbar fills the viewport with the matter-of-factness of a technical manual, trusting the chair's joint geometry to do persuasion work that copywriting usually handles. The interface wraps this hardware confidence in Poppins, a geometric sans that occupies the precise midpoint between an engineer's data sheet and a consumer catalogue; its rounded apertures soften the precision of mechanical photography without deflecting it. The palette, as best can be determined from brand knowledge rather than live extraction (see Known Gaps), runs on near-black charcoal (#1a1a1a) for body text, a bright orange-red (#e05525) for every actionable surface — add-to-cart buttons, configurator selectors, promotional badges — and a white-to-light-grey field (#f7f7f7, #ffffff) that keeps photography from competing with the interface. Corners are controlled and confident: product cards sit at {rounded.sm}, primary buttons at {rounded.xs}, and the interface never reaches for pill shapes — the brand is too technically anchored to adopt the friendly-consumer softness {rounded.full} implies. Spacing is generous by category standards; the product configurator — a signature interaction for a brand that sells chairs across mesh-colour and base-finish variants — uses {spacing.xxl} gutters between option swatches and a persistent sticky summary panel rather than an accordion. The nav carries model-hierarchy complexity directly: sub-models (Ergohuman Plus, Pro, Fit) appear in a structured mega-menu grid rather than a flattened link list. The overall effect is a brand that prioritises specification legibility and purchase confidence over visual warmth: someone committing to a four-figure task chair wants to know exactly what they are buying before they want to feel good about it.
 
@@ -340,6 +344,13 @@ components:
 - Footer link columns → accordion collapsed by default on mobile with chevron expand toggle
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

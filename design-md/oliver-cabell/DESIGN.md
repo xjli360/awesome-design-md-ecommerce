@@ -4,6 +4,10 @@ name: "Oliver Cabell"
 source_url: "https://olivercabell.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The Future Mono typeface printing a cost breakdown — "Materials: $28.40 | Labor: $14.60 | Duties: $8.20 | Transport: $5.10 | True Cost: $56.30" — beside a $130 sneaker is the Oliver Cabell tell. No other footwear brand publishes factory-floor ledger data at the SKU level, and selecting a monospaced geometric typeface for that disclosure is not incidental: it signals receipts, not marketing copy. The warm off-white canvas (#f6f6f3) reads like unbleached cotton, calm and material-honest, interrupted once by a single high-voltage note — #ffcf2a, a marigold yellow that fires exclusively on primary CTAs and promotional banners. Deep navy (#272d45) anchors dark hero blocks and the footer, while the in-between lavender-gray (#676986) handles muted labels, secondary UI states, and category metadata — a hue sitting precisely where neutral and brand-tinted overlap. Mint (#b2f9e9) and teal (#0e7a82) surface as accent backgrounds for comfort-technology and pain-relief feature callouts, giving clinical credibility without pharmaceutical coldness. ArizonaSerif carries editorial weight in tall, humanist letterforms for hero headlines and brand storytelling. NeueHelveticaCondensedBold stacks campaign copy into tight columns. The Future handles navigation and UI chrome with geometric confidence, and The Future Mono earns a dedicated data role — cost tables, factual specs, price display — where a proportional-width font would feel dishonest. Corners are near-flat throughout: product cards sit at a hairline radius ({rounded.xs}), buttons carry minimal rounding ({rounded.sm}), and pills surface only on filter tags and small badges ({rounded.full}). Grid structure is generous and measured, with substantial breathing room between editorial storytelling and commerce zones — a rhythm that communicates quality over volume even when the catalog runs dozens of colorways.
 
@@ -389,6 +393,13 @@ components:
 - Factory-origin-block: flag + location text collapses to single centered line on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

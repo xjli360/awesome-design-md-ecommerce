@@ -4,6 +4,10 @@ name: "BlueStar"
 source_url: "https://www.bluestarcooking.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep royal blue (#003388) saturates the header bar, CTAs, and navigation anchors the way enamel coats cast iron — thick, opaque, unapologetic. BlueStar's digital presence borrows confidence from its product line: professional-grade burners that ship in 750+ custom colors, so the site itself runs a restrained two-hue system of that signature cobalt against a warm antique-gold accent (#e2af38) reserved for promotional callouts, hover states, and "Build Your Own" configuration highlights. Trade Gothic — a mid-century grotesque with squared terminals and narrow proportions — sets every headline and navigation label in weights that read like stamped steel nameplates, while Open Sans softens body copy into comfortable reading at 16px/1.6. The layout grid is wide and confident: hero photography bleeds edge-to-edge at 1440px+, product cards stack on a rigid 3-up desktop grid with `{rounded.xs}` corners that stay nearly flush, and generous `{spacing.section}` vertical rhythm keeps each product family (Platinum, Residential, RNB series) visually quarantined. Buttons are squared-off rectangles (`{rounded.xs}`) with uppercase Trade Gothic labels — no pills, no softness, just machined edges that echo brushed-stainless control knobs. The dark navy tone (#172a54) appears in footers and overlay panels, creating depth without resorting to pure black, while a constellation of utility grays (#949494 for muted labels, #f0f0f0 and #f5f5f5 for alternating section bands) keeps the chrome-and-steel metaphor intact. Gold (#e2af38) punctuates sparingly: award badges, "?"  icons on the range configurator, and the occasional promotional banner — it functions as a maker's mark rather than a call to action.
 
@@ -410,6 +414,14 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

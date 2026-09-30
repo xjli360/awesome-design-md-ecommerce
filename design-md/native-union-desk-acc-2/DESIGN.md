@@ -4,6 +4,10 @@ name: "Native Union"
 source_url: "https://www.nativeunion.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Signal orange (#ef521b) declares itself exactly once per page — on the primary CTA button, nowhere else — while near-black (#111111) absorbs everything around it: nav labels, product titles, icon strokes, footer columns. That single-voltage restraint is the Native Union grammar. Neue Haas Grotesk (drawn across its display and text cuts) delivers Swiss-grid precision to a product category — braided charging cables, magnetic desktop hubs, bamboo desk mats, cord organizers — that most brands render with catalog indifference. museo-sans enters the body layer with enough humanist curvature to offset the rationalist headline stack without undermining its authority; museo-sans-condensed compresses into material labels and filter chips where horizontal space is borrowed; museo-sans-rounded handles badge pills with the same warmth. A gold-bronze tone (#cb8a3d) is not a declared brand color — it surfaces through product photography of woven fabric finishes and natural wood desk companions, then bleeds into the palette as the system's material witness, appearing in callout blocks and material-specification chips. White canvas (#ffffff) hosts the product grid; #dedede hairlines mark card edges; muted mid-gray (#9a9a9a) renders compatibility annotations and secondary SKU metadata without competing for the eye. Primary buttons are squared to near-nothing — {rounded.xs} reads as engineered hardware, deliberately set beside the filter pills that reach {rounded.full}. Spacing opens generously at section breaks but compresses inside product cards, creating a browse rhythm that feels spacious and inventory-confident simultaneously. The extracted near-black pair (#111111 ink, #121212 dark surface) enables a tonal frame: a dark navigation bar and dark footer bracket the white product zone, directing the eye to photography the instant it enters the page. Cable braids, matte aluminum, and stone-grain textures carry the persuasion — the typographic system steps aside and lets materials do the brand storytelling.
 
@@ -408,6 +412,13 @@ Four-column link grid on `{colors.surface-dark}` mirroring the nav. Column headi
 - Announcement bar: present at all breakpoints; text truncates with ellipsis below 375px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

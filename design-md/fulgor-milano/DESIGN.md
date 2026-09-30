@@ -4,6 +4,10 @@ name: "Fulgor Milano"
 source_url: "https://www.fulgor-milano.com/us/en"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The heaviest object in any kitchen — a 48-inch dual-fuel range in brushed stainless — sets the visual temperature for Fulgor Milano's entire digital presence. A single extracted charcoal (#313131) dominates the interface the way carbon steel dominates a professional burner grate: it is the primary fill for CTAs, headlines, navigation text, and the persistent header bar, leaving no room for the candy-coloured accents that consumer appliance brands typically lean on. Without a secondary hue fighting for attention, the layout cedes all chromatic energy to the product photography itself — polished stainless fascias, matte black oven doors, brushed copper knobs — against a clean white canvas (#ffffff) and barely-there warm surfaces ({colors.surface-warm}). Typography runs on a system sans-serif stack; no custom display face was detected, consistent with a site guarded by anti-bot middleware (the page title returned "Just a moment..." rather than brand copy). The type scale is set at moderate weights — 400 for body, 600 for titles, 700 for display — with tight letter-spacing that mirrors the precision engineering the brand sells. Corners are near-square throughout: `{rounded.xs}` (2px) on buttons and inputs, `{rounded.sm}` (4px) on product cards, reflecting the rectilinear geometry of built-in ovens and cooktop cutouts. Navigation follows a flat mega-menu pattern housing the product taxonomy — ranges, cooktops, wall ovens, ventilation, outdoor — with category thumbnails and series badges ("Sofia," "Catania," "Distinto"). Product detail pages are specification-dense: alternating-row data tables, finish swatches rendered as small squares rather than circles, and multi-angle gallery carousels with thumbnail strips. The overall rhythm is showroom-still — generous `{spacing.section}` vertical breathing between content blocks, full-bleed hero photography, and a dark footer ({colors.footer-bg}) that closes the page like the back wall of a Milan design studio.
 
@@ -463,6 +467,13 @@ components:
 - Series card grid drops from 3-up to 2-up at tablet and single-column at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

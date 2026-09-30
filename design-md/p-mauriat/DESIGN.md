@@ -4,6 +4,10 @@ name: "P. Mauriat"
 source_url: "https://www.pmauriatmusic.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, resonant navy (#003388) anchors the P. Mauriat digital presence — not as a background but as the primary voltage for CTAs, navigation bars, and product highlights, evoking the dark lacquer of a professional saxophone bell. The palette is unexpectedly cool and aquatic: a pale cyan (#ccffff) washes over hero sections and hover states like stage light through smoke, while teal (#247390) and steel blue (#0068a0) provide secondary depth. The brand avoids the warm brass-and-amber clichés of wind-instrument marketing, instead leaning into a clean, almost clinical precision with generous white canvas (#fcfbfe) and soft gray surfaces (#e9e6ed, #cfc8d8). Typography runs Open Sans at modest weights — body text at 400, headings at 600 — with Arial and Helvetica as reliable fallbacks, suggesting a pragmatic approach to legibility over typographic flair. Sharp 4px corners (`{rounded.xs}`) on buttons and cards read as precise and engineered, while the full pill radius (`{rounded.full}`) is reserved for search bars and badge indicators, creating a single friendly gesture in an otherwise rectilinear system. The product grid uses shadowless cards with thin hairline borders (#dcdde1), letting instrument photography — rich brass gradients and dark keywork — provide all the visual weight. A distinctive purple accent (#720eec) appears sparingly for sale badges and limited-edition callouts, adding a rare jolt of unexpected color that signals exclusivity.
 
@@ -432,6 +436,13 @@ components:
 - Hero sections reduce padding and font size on mobile, with optional image removal
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

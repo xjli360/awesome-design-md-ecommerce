@@ -4,6 +4,10 @@ name: "Automic Gold"
 source_url: "https://www.automicgold.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep violet (#350b60) saturates every hero edge at Automic Gold — not the lavender of spas or the dusty mauve of minimalism, but a full-chroma jewel tone that reads as political and expensive in the same breath. Against it sits a 24-karat gold (#ffcc33) that matches the brand name literally: coin-bright, high-chroma, worn as both primary accent and ideological declaration. This purple-and-gold pairing is the brand's most legible statement — a queer-owned New York fine jeweler refusing the safe beige-and-ivory grammar of the category. The palette runs from this violet peak down through dark indigo (#18084d), to near-void navy (#08003c) at footers and editorial dividers, so the page travels from noon gold to absolute midnight. Blush (#fce2e6) enters as surface relief — the campaign-image fill or product-card background that prevents the composition from reading as all nightclub, all the time.
 
@@ -358,6 +362,14 @@ components:
 - PDP image gallery: vertical thumbnail column on desktop → horizontal thumbnail strip on tablet → hidden strip with dot-indicator pagination on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

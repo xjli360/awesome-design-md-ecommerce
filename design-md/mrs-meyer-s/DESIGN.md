@@ -4,6 +4,10 @@ name: "Mrs. Meyer's"
 source_url: "https://mrsmeyers.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A garden-apron palette anchored on #3f2021 (a deep, soil-rich brown) that runs through every product label, navigation bar, and footer — not as an accent but as the brand's steady, grounded presence. The secondary voice is #a6192e (a dried-rose red) that appears on sale badges, limited-edition banners, and the signature "M" mark, while #f3e008 (marigold yellow) and #22c55e (stem green) surface on seasonal labels and ingredient callouts. The site uses Clarendon BT W05 Roman at display sizes — a serif with the weight of a garden trowel — paired with NewsGoth BT for body copy, creating a farmstand-meets-utility-company contrast. Product cards sit on #fafafa canvas with {rounded.sm} corners and a single #e5e5e5 hairline, letting the label photography (each scent rendered as a watercolor botanical) carry the emotional weight. The top nav is a full-width #3f2021 band with white Clarendon text, and the search bar is a pill-shaped field with #d3d3d3 border that expands on focus to reveal a #f0f9ff background. Buttons are solid #3f2021 rectangles with {rounded.xs} corners and white NewsGoth — no gradients, no shadows, just the directness of a clean kitchen counter. The checkout flow introduces #1878b9 (a bright, unexpected blue) on the "Add to Cart" confirmation, a small jolt of clarity in an otherwise warm, earth-toned system.
 
@@ -443,6 +447,13 @@ components:
 - Product card sale badges and limited badges remain visible on all breakpoints, but reduce font size to 10px on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

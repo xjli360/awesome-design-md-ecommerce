@@ -22,43 +22,28 @@
     }
   ],
   "colors": {
+    "#3487dc": {
+      "count": 1,
+      "sources": [
+        "https://www.mobvoi.com/us"
+      ]
+    },
     "#ffffff": {
       "count": 55,
       "sources": [
-        "https://www.mobvoi.com/us",
-        "https://www.mobvoi.com/us#computed-style-snapshot"
-      ]
-    },
-    "#333333": {
-      "count": 44,
-      "sources": [
-        "https://www.mobvoi.com/us",
-        "https://www.mobvoi.com/us#computed-style-snapshot"
-      ]
-    },
-    "#232427": {
-      "count": 36,
-      "sources": [
-        "https://www.mobvoi.com/us#computed-style-snapshot"
-      ]
-    },
-    "#3e3a39": {
-      "count": 28,
-      "sources": [
-        "https://www.mobvoi.com/us#computed-style-snapshot"
-      ]
-    },
-    "#0000ee": {
-      "count": 26,
-      "sources": [
-        "https://www.mobvoi.com/us#computed-style-snapshot"
+        "https://www.mobvoi.com/us"
       ]
     },
     "#000000": {
       "count": 13,
       "sources": [
-        "https://www.mobvoi.com/us",
-        "https://www.mobvoi.com/us#computed-style-snapshot"
+        "https://www.mobvoi.com/us"
+      ]
+    },
+    "#333333": {
+      "count": 44,
+      "sources": [
+        "https://www.mobvoi.com/us"
       ]
     },
     "#0091ff": {
@@ -67,13 +52,7 @@
         "https://www.mobvoi.com/us"
       ]
     },
-    "#999999": {
-      "count": 2,
-      "sources": [
-        "https://www.mobvoi.com/us#computed-style-snapshot"
-      ]
-    },
-    "#3487dc": {
+    "#00000000": {
       "count": 1,
       "sources": [
         "https://www.mobvoi.com/us"
@@ -91,6 +70,30 @@
         "https://www.mobvoi.com/us"
       ]
     },
+    "#0000ee": {
+      "count": 26,
+      "sources": [
+        "https://www.mobvoi.com/us#computed-style-snapshot"
+      ]
+    },
+    "#999999": {
+      "count": 2,
+      "sources": [
+        "https://www.mobvoi.com/us#computed-style-snapshot"
+      ]
+    },
+    "#232427": {
+      "count": 36,
+      "sources": [
+        "https://www.mobvoi.com/us#computed-style-snapshot"
+      ]
+    },
+    "#3e3a39": {
+      "count": 28,
+      "sources": [
+        "https://www.mobvoi.com/us#computed-style-snapshot"
+      ]
+    },
     "#767676": {
       "count": 1,
       "sources": [
@@ -99,31 +102,28 @@
     }
   },
   "font_families": {
+    "SFProText-Bold": [
+      "https://www.mobvoi.com/us"
+    ],
+    "SFProText": [
+      "https://www.mobvoi.com/us"
+    ],
+    "sfTextRegular": [
+      "https://www.mobvoi.com/us#computed-style-snapshot"
+    ],
     "Microsoft JhengHei": [
       "https://www.mobvoi.com/us#computed-style-snapshot"
     ],
     "Microsoft YaHei": [
       "https://www.mobvoi.com/us#computed-style-snapshot"
     ],
-    "SFProText": [
-      "https://www.mobvoi.com/us"
-    ],
-    "SFProText-Bold": [
-      "https://www.mobvoi.com/us"
-    ],
     "SimHei": [
-      "https://www.mobvoi.com/us#computed-style-snapshot"
-    ],
-    "WenQuanYi Micro Hei": [
       "https://www.mobvoi.com/us#computed-style-snapshot"
     ],
     "sans-serif": [
       "https://www.mobvoi.com/us#computed-style-snapshot"
     ],
     "sfTextBold": [
-      "https://www.mobvoi.com/us#computed-style-snapshot"
-    ],
-    "sfTextRegular": [
       "https://www.mobvoi.com/us#computed-style-snapshot"
     ]
   },
@@ -181,10 +181,11 @@
       "sha256": "d0d830da4fbed6a6551ad67fb36677d886420fd1d8e5422545531f49b5c4499f"
     }
   ],
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "remaining-20260929",
   "tokens": {
     "colors.primary": {
+      "value": "#0091ff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -192,6 +193,7 @@
       ]
     },
     "colors.primary-alt": {
+      "value": "#3487dc",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -199,30 +201,31 @@
       ]
     },
     "colors.ink": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.mobvoi.com/us",
-        "https://www.mobvoi.com/us#computed-style-snapshot"
+        "https://www.mobvoi.com/us"
       ]
     },
     "colors.body": {
+      "value": "#333333",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.mobvoi.com/us",
-        "https://www.mobvoi.com/us#computed-style-snapshot"
+        "https://www.mobvoi.com/us"
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.mobvoi.com/us",
-        "https://www.mobvoi.com/us#computed-style-snapshot"
+        "https://www.mobvoi.com/us"
       ]
     },
     "colors.muted": {
+      "value": "#999999",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -230,6 +233,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#767676",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -237,6 +241,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#3e3a39",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -244,6 +249,7 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#232427",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -251,14 +257,15 @@
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.mobvoi.com/us",
-        "https://www.mobvoi.com/us#computed-style-snapshot"
+        "https://www.mobvoi.com/us"
       ]
     },
     "colors.accent-sale": {
+      "value": "#ff5c5c",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -266,6 +273,7 @@
       ]
     },
     "colors.accent-sale-strong": {
+      "value": "#f23434",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -273,6 +281,7 @@
       ]
     },
     "colors.link": {
+      "value": "#0000ee",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -280,110 +289,426 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "sfTextBold, SFProText-Bold, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "sfTextBold, SFProText-Bold, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "sfTextBold, SFProText-Bold, \"Microsoft JhengHei\", sans-serif",
+        "fontSize": "21px",
+        "fontWeight": 700,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "sfTextRegular, SFProText, \"Microsoft YaHei\", SimHei, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "sfTextRegular, SFProText, \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "sfTextRegular, SFProText, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.1px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "sfTextBold, SFProText-Bold, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 700,
+        "lineHeight": 1.7,
+        "letterSpacing": "0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.on-primary}",
+        "borderColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "borderColor": "{colors.hairline}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.on-primary}",
+        "titleTypography": "{typography.display-xl}",
+        "ctaComponent": "button-secondary",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.muted}",
+        "linkColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-sale-strong}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xs} {spacing.md}"
+      },
       "status": "inferred"
     },
     "components.spec-highlight": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.on-primary}",
+        "accentColor": "{colors.primary}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#3487dc": {
+        "selector": ".header-buy-btn",
+        "property": "background",
+        "declaration": "#3487dc",
+        "url": "https://www.mobvoi.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "3879999637fb91caf78112c654dfac638327f041b61909d5edd9214637f65203"
+      },
+      "#ffffff": {
+        "selector": ".header-buy-btn",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://www.mobvoi.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "3879999637fb91caf78112c654dfac638327f041b61909d5edd9214637f65203"
+      },
+      "#000000": {
+        "selector": ".header .site-map .site-select-icon",
+        "property": "color",
+        "declaration": "#000",
+        "url": "https://www.mobvoi.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "3879999637fb91caf78112c654dfac638327f041b61909d5edd9214637f65203"
+      },
+      "#333333": {
+        "selector": ".site-pick .continent-name",
+        "property": "color",
+        "declaration": "#333",
+        "url": "https://www.mobvoi.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "3879999637fb91caf78112c654dfac638327f041b61909d5edd9214637f65203"
+      },
+      "#0091ff": {
+        "selector": ".index-banner-img .word-label",
+        "property": "background-color",
+        "declaration": "#0091FF",
+        "url": "https://www.mobvoi.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "3879999637fb91caf78112c654dfac638327f041b61909d5edd9214637f65203"
+      },
+      "#00000000": {
+        "selector": ".pagination-wrapper .next-slide-btn",
+        "property": "border-top",
+        "declaration": ".06rem solid transparent",
+        "url": "https://www.mobvoi.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "3879999637fb91caf78112c654dfac638327f041b61909d5edd9214637f65203"
+      },
+      "#ff5c5c": {
+        "selector": ".subscribe .tips[data-v-8a7b8212]",
+        "property": "color",
+        "declaration": "#FF5C5C",
+        "url": "https://www.mobvoi.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "3879999637fb91caf78112c654dfac638327f041b61909d5edd9214637f65203"
+      },
+      "#f23434": {
+        "selector": ".common-subscribe .subscribe-inner .subscribe-tips[data-v-b0c91ad4]",
+        "property": "color",
+        "declaration": "#f23434",
+        "url": "https://www.mobvoi.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "3879999637fb91caf78112c654dfac638327f041b61909d5edd9214637f65203"
+      },
+      "#0000ee": {
+        "selector": ".sample-3-a",
+        "property": "color",
+        "declaration": "rgb(0, 0, 238)",
+        "url": "https://www.mobvoi.com/us#computed-style-snapshot",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "d9b1288056b5bc090e181f41cb008b11b64efcbf166127addb3c805ad5282aa5"
+      },
+      "#999999": {
+        "selector": ".sample-35-a",
+        "property": "color",
+        "declaration": "rgb(153, 153, 153)",
+        "url": "https://www.mobvoi.com/us#computed-style-snapshot",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "d9b1288056b5bc090e181f41cb008b11b64efcbf166127addb3c805ad5282aa5"
+      },
+      "#232427": {
+        "selector": ".sample-36-p",
+        "property": "color",
+        "declaration": "rgb(35, 36, 39)",
+        "url": "https://www.mobvoi.com/us#computed-style-snapshot",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "d9b1288056b5bc090e181f41cb008b11b64efcbf166127addb3c805ad5282aa5"
+      },
+      "#3e3a39": {
+        "selector": ".sample-40-p",
+        "property": "color",
+        "declaration": "rgb(62, 58, 57)",
+        "url": "https://www.mobvoi.com/us#computed-style-snapshot",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "d9b1288056b5bc090e181f41cb008b11b64efcbf166127addb3c805ad5282aa5"
+      },
+      "#767676": {
+        "selector": ".sample-96-input",
+        "property": "border-top-color",
+        "declaration": "rgb(118, 118, 118)",
+        "url": "https://www.mobvoi.com/us#computed-style-snapshot",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "d9b1288056b5bc090e181f41cb008b11b64efcbf166127addb3c805ad5282aa5"
+      }
+    },
+    "font_families": {
+      "SFProText-Bold": {
+        "selector": ".subscribe input[data-v-8a7b8212]",
+        "property": "font-family",
+        "declaration": "SFProText-Bold, SFProText",
+        "url": "https://www.mobvoi.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "3879999637fb91caf78112c654dfac638327f041b61909d5edd9214637f65203"
+      },
+      "SFProText": {
+        "selector": ".subscribe input[data-v-8a7b8212]",
+        "property": "font-family",
+        "declaration": "SFProText-Bold, SFProText",
+        "url": "https://www.mobvoi.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "3879999637fb91caf78112c654dfac638327f041b61909d5edd9214637f65203"
+      },
+      "sfTextRegular": {
+        "selector": ".sample-0-body",
+        "property": "font-family",
+        "declaration": "sfTextRegular, \"Microsoft JhengHei\", \"Microsoft YaHei\", SimHei, \"WenQuanYi Micro Hei\", sans-serif",
+        "url": "https://www.mobvoi.com/us#computed-style-snapshot",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "d9b1288056b5bc090e181f41cb008b11b64efcbf166127addb3c805ad5282aa5"
+      },
+      "Microsoft JhengHei": {
+        "selector": ".sample-0-body",
+        "property": "font-family",
+        "declaration": "sfTextRegular, \"Microsoft JhengHei\", \"Microsoft YaHei\", SimHei, \"WenQuanYi Micro Hei\", sans-serif",
+        "url": "https://www.mobvoi.com/us#computed-style-snapshot",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "d9b1288056b5bc090e181f41cb008b11b64efcbf166127addb3c805ad5282aa5"
+      },
+      "Microsoft YaHei": {
+        "selector": ".sample-0-body",
+        "property": "font-family",
+        "declaration": "sfTextRegular, \"Microsoft JhengHei\", \"Microsoft YaHei\", SimHei, \"WenQuanYi Micro Hei\", sans-serif",
+        "url": "https://www.mobvoi.com/us#computed-style-snapshot",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "d9b1288056b5bc090e181f41cb008b11b64efcbf166127addb3c805ad5282aa5"
+      },
+      "SimHei": {
+        "selector": ".sample-0-body",
+        "property": "font-family",
+        "declaration": "sfTextRegular, \"Microsoft JhengHei\", \"Microsoft YaHei\", SimHei, \"WenQuanYi Micro Hei\", sans-serif",
+        "url": "https://www.mobvoi.com/us#computed-style-snapshot",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "d9b1288056b5bc090e181f41cb008b11b64efcbf166127addb3c805ad5282aa5"
+      },
+      "sans-serif": {
+        "selector": ".sample-0-body",
+        "property": "font-family",
+        "declaration": "sfTextRegular, \"Microsoft JhengHei\", \"Microsoft YaHei\", SimHei, \"WenQuanYi Micro Hei\", sans-serif",
+        "url": "https://www.mobvoi.com/us#computed-style-snapshot",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "d9b1288056b5bc090e181f41cb008b11b64efcbf166127addb3c805ad5282aa5"
+      },
+      "sfTextBold": {
+        "selector": ".sample-6-a",
+        "property": "font-family",
+        "declaration": "sfTextBold, \"Microsoft JhengHei\", \"Microsoft YaHei\", SimHei, \"WenQuanYi Micro Hei\", sans-serif",
+        "url": "https://www.mobvoi.com/us#computed-style-snapshot",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "d9b1288056b5bc090e181f41cb008b11b64efcbf166127addb3c805ad5282aa5"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

@@ -4,6 +4,10 @@ name: "Akko"
 source_url: "https://en.akkogear.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep violet current (#6f5cae) runs through Akko's mechanical-keyboard universe, a brand that treats switches and keycaps the way a paint company treats pigment swatches. The primary purple sits across from a navy anchor (#003366) and a near-black ink (#212121), creating a palette that reads as nocturnal and precision-oriented rather than playful or pastel. Typography splits between Poppins for English headers — a geometric sans with open, friendly counters — and Microsoft Yahei for Chinese, reflecting the brand's dual-market identity. Product photography dominates: keyboard builds shown in exploded views, switch stems exposed, keycap profiles rendered in cross-section. The search bar uses a full-pill radius ({rounded.full}) against a dark canvas, and category navigation runs as a horizontal strip of illustrated icons — each switch type (linear, tactile, clicky) gets its own glyph. Badges appear in a secondary purple (#8071b3) for "NEW" flags and in a warm pink (#f78da7) for limited-edition collaborations. The checkout flow swaps the dark theme for a clean white surface-card, suggesting the brand knows when to step back and let the product's own color — a gradient PBT keycap set, a translucent polycarbonate case — do the selling. There is no hero video; instead, the hero is a static 3D render of the latest keyboard, lit from above, with the model number set in Poppins-Medium at 28px. The footer collapses into a single column of small, gray links (#8f9196) — no social icons, no newsletter signup, just support, about, and distributor pages. The entire experience feels like a tool catalog that happens to be beautiful, not a lifestyle brand that happens to sell keyboards.
 
@@ -425,6 +429,14 @@ components:
 - Search bar moves from inline to full-width overlay on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

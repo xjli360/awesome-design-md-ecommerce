@@ -38,100 +38,14 @@
     }
   ],
   "colors": {
-    "#121212": {
-      "count": 16,
-      "sources": [
-        "https://neuraldsp.com/"
-      ]
-    },
-    "#ffffff": {
-      "count": 8,
-      "sources": [
-        "https://neuraldsp.com/",
-        "https://neuraldsp.com/_next/static/css/373123ed069d07bc.css"
-      ]
-    },
-    "#2e2e2e": {
-      "count": 7,
-      "sources": [
-        "https://neuraldsp.com/"
-      ]
-    },
-    "#212121": {
-      "count": 4,
-      "sources": [
-        "https://neuraldsp.com/"
-      ]
-    },
-    "#45f862": {
-      "count": 3,
-      "sources": [
-        "https://neuraldsp.com/"
-      ]
-    },
-    "#ffd236": {
-      "count": 3,
-      "sources": [
-        "https://neuraldsp.com/"
-      ]
-    },
-    "#dddddd": {
-      "count": 3,
-      "sources": [
-        "https://neuraldsp.com/"
-      ]
-    },
-    "#101010": {
-      "count": 2,
-      "sources": [
-        "https://neuraldsp.com/"
-      ]
-    },
-    "#616161": {
-      "count": 2,
-      "sources": [
-        "https://neuraldsp.com/"
-      ]
-    },
-    "#ff2727": {
-      "count": 2,
-      "sources": [
-        "https://neuraldsp.com/"
-      ]
-    },
-    "#ff7000": {
-      "count": 2,
-      "sources": [
-        "https://neuraldsp.com/"
-      ]
-    },
     "#000000": {
       "count": 2,
       "sources": [
-        "https://neuraldsp.com/",
-        "https://neuraldsp.com/_next/static/css/373123ed069d07bc.css"
-      ]
-    },
-    "#3500f1": {
-      "count": 1,
-      "sources": [
         "https://neuraldsp.com/"
       ]
     },
-    "#1a1a1a": {
-      "count": 1,
-      "sources": [
-        "https://neuraldsp.com/"
-      ]
-    },
-    "#0a0a0a": {
-      "count": 1,
-      "sources": [
-        "https://neuraldsp.com/"
-      ]
-    },
-    "#161616": {
-      "count": 1,
+    "#121212": {
+      "count": 16,
       "sources": [
         "https://neuraldsp.com/"
       ]
@@ -148,43 +62,19 @@
         "https://neuraldsp.com/"
       ]
     },
-    "#252525": {
-      "count": 1,
-      "sources": [
-        "https://neuraldsp.com/"
-      ]
-    },
     "#373737": {
       "count": 1,
       "sources": [
         "https://neuraldsp.com/"
       ]
     },
-    "#404040": {
-      "count": 1,
-      "sources": [
-        "https://neuraldsp.com/"
-      ]
-    },
-    "#525252": {
-      "count": 1,
+    "#dddddd": {
+      "count": 3,
       "sources": [
         "https://neuraldsp.com/"
       ]
     },
     "#959595": {
-      "count": 1,
-      "sources": [
-        "https://neuraldsp.com/"
-      ]
-    },
-    "#ababab": {
-      "count": 1,
-      "sources": [
-        "https://neuraldsp.com/"
-      ]
-    },
-    "#cdcdcd": {
       "count": 1,
       "sources": [
         "https://neuraldsp.com/"
@@ -196,34 +86,52 @@
         "https://neuraldsp.com/"
       ]
     },
-    "#1a3af8": {
+    "#ffffff": {
+      "count": 8,
+      "sources": [
+        "https://neuraldsp.com/"
+      ]
+    },
+    "#45f862": {
+      "count": 3,
+      "sources": [
+        "https://neuraldsp.com/"
+      ]
+    },
+    "#3500f1": {
       "count": 1,
       "sources": [
         "https://neuraldsp.com/"
       ]
     },
-    "#f00a05": {
+    "#1a1a1a": {
       "count": 1,
       "sources": [
         "https://neuraldsp.com/"
       ]
     },
-    "#ededed": {
+    "#00000000": {
       "count": 1,
       "sources": [
         "https://neuraldsp.com/"
       ]
     },
-    "#bcbcbc": {
-      "count": 1,
+    "#ff2727": {
+      "count": 2,
       "sources": [
         "https://neuraldsp.com/"
       ]
     },
-    "#a0a0a0": {
-      "count": 1,
+    "#ffd236": {
+      "count": 3,
       "sources": [
-        "https://neuraldsp.com/_next/static/css/373123ed069d07bc.css"
+        "https://neuraldsp.com/"
+      ]
+    },
+    "#ff7000": {
+      "count": 2,
+      "sources": [
+        "https://neuraldsp.com/"
       ]
     },
     "#007aff": {
@@ -238,9 +146,6 @@
       "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap"
     ],
     "monospace": [
-      "https://neuraldsp.com/_next/static/css/373123ed069d07bc.css"
-    ],
-    "swiper-icons": [
       "https://neuraldsp.com/_next/static/css/373123ed069d07bc.css"
     ]
   },
@@ -267,10 +172,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Neural DSP - Algorithmically Perfect - Neural DSP",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-200",
   "tokens": {
     "colors.primary": {
+      "value": "#45f862",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -278,14 +184,15 @@
       ]
     },
     "colors.ink": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://neuraldsp.com/",
-        "https://neuraldsp.com/_next/static/css/373123ed069d07bc.css"
+        "https://neuraldsp.com/"
       ]
     },
     "colors.canvas": {
+      "value": "#121212",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -293,6 +200,7 @@
       ]
     },
     "colors.body": {
+      "value": "#dddddd",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -300,6 +208,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#959595",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -307,6 +216,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#373737",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -314,6 +224,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#1a1a1a",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -321,6 +232,7 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#1e1e1e",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -328,6 +240,7 @@
       ]
     },
     "colors.on-primary": {
+      "value": "#121212",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -335,6 +248,7 @@
       ]
     },
     "colors.accent-blue": {
+      "value": "#007aff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -342,6 +256,7 @@
       ]
     },
     "colors.accent-violet": {
+      "value": "#3500f1",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -349,6 +264,7 @@
       ]
     },
     "colors.accent-yellow": {
+      "value": "#ffd236",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -356,6 +272,7 @@
       ]
     },
     "colors.accent-red": {
+      "value": "#ff2727",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -363,6 +280,7 @@
       ]
     },
     "colors.accent-orange": {
+      "value": "#ff7000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -370,6 +288,7 @@
       ]
     },
     "colors.border-strong": {
+      "value": "#454545",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -377,6 +296,7 @@
       ]
     },
     "colors.surface-alt": {
+      "value": "#f4f4f4",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -384,114 +304,418 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "IBM Plex Sans, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "IBM Plex Sans, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "-0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "IBM Plex Sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "IBM Plex Sans, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "IBM Plex Sans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "IBM Plex Sans, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 500,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "IBM Plex Sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 600,
+        "lineHeight": 1,
+        "letterSpacing": "0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.mono-spec": {
+      "value": {
+        "fontFamily": "monospace",
+        "fontSize": "13px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.border-strong}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}",
+        "hairline": "{colors.hairline}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-yellow}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.spec-panel": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.mono-spec}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}",
+        "hairline": "{colors.hairline}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#000000": {
+        "selector": "[data-theme=\"storefront\"]",
+        "property": "--neural-n0",
+        "declaration": "rgba(0,0,0,1)",
+        "url": "https://neuraldsp.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c419bad3190439ca28ee5ad7b0b353cff81b92a5015c51067b03d62d6ae0e28b"
+      },
+      "#121212": {
+        "selector": "[data-theme=\"storefront\"]",
+        "property": "--neural-n20",
+        "declaration": "rgba(18,18,18,1)",
+        "url": "https://neuraldsp.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c419bad3190439ca28ee5ad7b0b353cff81b92a5015c51067b03d62d6ae0e28b"
+      },
+      "#454545": {
+        "selector": "[data-theme=\"storefront\"]",
+        "property": "--neural-n27",
+        "declaration": "rgb(69,69,69)",
+        "url": "https://neuraldsp.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c419bad3190439ca28ee5ad7b0b353cff81b92a5015c51067b03d62d6ae0e28b"
+      },
+      "#1e1e1e": {
+        "selector": "[data-theme=\"storefront\"]",
+        "property": "--neural-n30",
+        "declaration": "rgba(30,30,30,1)",
+        "url": "https://neuraldsp.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c419bad3190439ca28ee5ad7b0b353cff81b92a5015c51067b03d62d6ae0e28b"
+      },
+      "#373737": {
+        "selector": "[data-theme=\"storefront\"]",
+        "property": "--neural-n45",
+        "declaration": "rgba(55,55,55,1)",
+        "url": "https://neuraldsp.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c419bad3190439ca28ee5ad7b0b353cff81b92a5015c51067b03d62d6ae0e28b"
+      },
+      "#dddddd": {
+        "selector": "[data-theme=\"storefront\"]",
+        "property": "--neural-n76",
+        "declaration": "rgba(221,221,221,1)",
+        "url": "https://neuraldsp.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c419bad3190439ca28ee5ad7b0b353cff81b92a5015c51067b03d62d6ae0e28b"
+      },
+      "#959595": {
+        "selector": "[data-theme=\"storefront\"]",
+        "property": "--neural-n80",
+        "declaration": "rgb(149,149,149)",
+        "url": "https://neuraldsp.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c419bad3190439ca28ee5ad7b0b353cff81b92a5015c51067b03d62d6ae0e28b"
+      },
+      "#f4f4f4": {
+        "selector": "[data-theme=\"storefront\"]",
+        "property": "--neural-n96",
+        "declaration": "rgb(244,244,244)",
+        "url": "https://neuraldsp.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c419bad3190439ca28ee5ad7b0b353cff81b92a5015c51067b03d62d6ae0e28b"
+      },
+      "#ffffff": {
+        "selector": "[data-theme=\"storefront\"]",
+        "property": "--neural-n100",
+        "declaration": "rgba(255,255,255,1)",
+        "url": "https://neuraldsp.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c419bad3190439ca28ee5ad7b0b353cff81b92a5015c51067b03d62d6ae0e28b"
+      },
+      "#45f862": {
+        "selector": "[data-theme=\"storefront\"]",
+        "property": "--devices-comp-success",
+        "declaration": "rgba(69,248,98,1)",
+        "url": "https://neuraldsp.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c419bad3190439ca28ee5ad7b0b353cff81b92a5015c51067b03d62d6ae0e28b"
+      },
+      "#3500f1": {
+        "selector": "[data-theme=\"storefront\"]",
+        "property": "--device-comp-modulation",
+        "declaration": "#3500f1",
+        "url": "https://neuraldsp.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c419bad3190439ca28ee5ad7b0b353cff81b92a5015c51067b03d62d6ae0e28b"
+      },
+      "#1a1a1a": {
+        "selector": "[data-theme=\"storefront\"]",
+        "property": "--footer-background-accent",
+        "declaration": "linear-gradient(90deg,#121212,#1a1a1a 51%,#121212)",
+        "url": "https://neuraldsp.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c419bad3190439ca28ee5ad7b0b353cff81b92a5015c51067b03d62d6ae0e28b"
+      },
+      "#00000000": {
+        "selector": ".gOfuSR",
+        "property": "border",
+        "declaration": "solid 1px transparent",
+        "url": "https://neuraldsp.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c419bad3190439ca28ee5ad7b0b353cff81b92a5015c51067b03d62d6ae0e28b"
+      },
+      "#ff2727": {
+        "selector": ".dracxb",
+        "property": "background-color",
+        "declaration": "#FF2727",
+        "url": "https://neuraldsp.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c419bad3190439ca28ee5ad7b0b353cff81b92a5015c51067b03d62d6ae0e28b"
+      },
+      "#ffd236": {
+        "selector": ".fZQiEv",
+        "property": "background-color",
+        "declaration": "#FFD236",
+        "url": "https://neuraldsp.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c419bad3190439ca28ee5ad7b0b353cff81b92a5015c51067b03d62d6ae0e28b"
+      },
+      "#ff7000": {
+        "selector": ".bUuLAv",
+        "property": "background-color",
+        "declaration": "#FF7000",
+        "url": "https://neuraldsp.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c419bad3190439ca28ee5ad7b0b353cff81b92a5015c51067b03d62d6ae0e28b"
+      },
+      "#007aff": {
+        "selector": ":root",
+        "property": "--swiper-theme-color",
+        "declaration": "#007aff",
+        "url": "https://neuraldsp.com/_next/static/css/373123ed069d07bc.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "4093fee4c06ede038ee90e778b7844af709915916897e4b912d9700c370abb22"
+      }
+    },
+    "font_families": {
+      "IBM Plex Sans": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"IBM Plex Sans\"",
+        "url": "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "74f54e35f7f1b6ba69bc67d08a8b3f8310182c12d80036eaadd8bd70baba4860"
+      },
+      "monospace": {
+        "selector": ":where(pre)",
+        "property": "font-family",
+        "declaration": "monospace,monospace",
+        "url": "https://neuraldsp.com/_next/static/css/373123ed069d07bc.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "4093fee4c06ede038ee90e778b7844af709915916897e4b912d9700c370abb22"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

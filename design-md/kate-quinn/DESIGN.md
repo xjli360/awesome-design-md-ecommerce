@@ -4,6 +4,10 @@ name: "Kate Quinn"
 source_url: "https://katequinn.com"
 captured_at: "2026-09-29T03:57:57.059273+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Kate Quinn's storefront theme (Shopify) exposes a restrained, editorial palette anchored in near-black (#111111, #000000) buttons and text over a white (#ffffff) canvas, with a family of soft neutral grays (#f2f2f2, #f5f5f5, #fafafa, #e6e6e6, #c9c9c9) used for dimmed sections, cards, and hairlines per the theme's CSS custom properties (--colorBtnPrimary, --colorBodyDim, --colorBorder). A dark charcoal (#27282a) marks the announcement bar, and a muted slate (#45494c) appears in the review-widget's text/star color, suggested here as a secondary body-text tone. A single warm red (#d02e2e) is proposed as the sale/clearance accent, inferred from an inline "color: red" rule on the Seasonal Clearance link, since no literal red hex was declared there. Typography is serif-forward: Gilda Display drives both the --typeHeaderPrimary and --typeBasePrimary tokens (38px headers, 16px body, weight 400), while Goudy Old Style appears on product-recommendation titles (24px, uppercase, centered). Arial/Helvetica sans-serif fallbacks are assumed for compact UI text such as buttons and quantity controls, where a bold weight was observed. Buttons use a squared corner (--buttonRadius: 0), while a 5px radius appears on hotspot tooltips — both are preserved as distinct rounding tokens. This interpretation favors a quiet, heirloom-boutique feel consistent with the brand's "heirloom quality" customer language.
 
@@ -153,6 +157,13 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets for buttons and size-selector chips should maintain a minimum 44×44px hit area on mobile. Navigation collapse behavior (hamburger icon referenced as `icon-hamburger` in page text) is assumed standard for Shopify themes but was not confirmed via interaction testing.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

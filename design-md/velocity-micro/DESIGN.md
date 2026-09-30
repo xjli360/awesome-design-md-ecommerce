@@ -4,6 +4,10 @@ name: "Velocity Micro"
 source_url: "https://www.velocitymicro.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Steel-blue (#486d97) glows against near-black panels the way a single RGB strip illuminates the interior of a hand-built tower — that restrained accent is the optical signature of a builder that ships machines one at a time, not by the container. The palette runs overwhelmingly dark: a #181818 canvas absorbs light on hero sections and product showcases while #262626 surfaces lift configurator cards just enough to separate them from the void. Where most gaming brands saturate every pixel, Velocity Micro keeps voltage in reserve, deploying #3086ab teal and #005a78 deep-ocean highlights only for interactive affordances — configure buttons, spec-highlight pills, and hover states on the nav bar. Typography is industrial and condensed: Roboto Condensed carries headlines at weight 700 with negative letter-spacing that mirrors the compressed geometry of a CNC-milled chassis, while Open Sans at 400/600 handles body copy and UI labels with quiet legibility. Corner radii stay minimal — `{rounded.xs}` on buttons and cards, `{rounded.none}` on hero banners — communicating precision engineering rather than consumer friendliness. The 80px top navigation holds a wordmark left-aligned against `{colors.dark-canvas}` with category links in `{typography.nav-link}` white type, each underscored on hover by a 2px `{colors.primary}` rule. Product cards stack a full-bleed system photograph over a `{colors.dark-surface}` spec block, price in `{typography.title-md}`, and a "Configure" CTA in `{colors.primary}` with `{colors.on-primary}` text. Section padding runs generous at `{spacing.section}` vertically, letting each build class breathe — the layout trusts the photography and the specs, not ornament.
 
@@ -393,6 +397,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

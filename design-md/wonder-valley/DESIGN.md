@@ -4,6 +4,10 @@ name: "Wonder Valley"
 source_url: "https://welcometowondervalley.com/"
 captured_at: "2026-09-29T03:58:28.705618+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Wonder Valley is a California olive-oil and skincare brand (Joshua Tree, since 2014) presented on a
   Shopify-hosted storefront. The supplied CSS exposes a warm, sand-and-desert palette: near-black ink
@@ -140,6 +144,13 @@ components:
 Recommended, not measured: mobile <480px (single-column product grid, stacked nav collapsing behind a menu toggle, min touch target 44px), tablet 480–1024px (2-column product grid, condensed nav), desktop >1024px (4+ column product grid per the observed dense product list, full horizontal nav). Buttons and inputs should maintain minimum 44px hit area on touch; the promotional ticker ("Free Domestic Shipping…") is assumed to marquee or repeat horizontally on narrow viewports.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This specification is derived from static CSS/text extraction only; no rendered layout, computed box model, or breakpoint behavior was observed. Semantic role assignments (primary, ink, canvas, surfaces) are inferred from color frequency and typical e-commerce contrast patterns, not from confirmed component screenshots. Type sizes, weights, and line-heights beyond the Okendo widget variables are proposed defaults, not measured from the live site. Interaction states (hover, focus, active, loading) for buttons and inputs beyond the Okendo/Shopify widget definitions are proposed. Mobile/responsive layout, menu collapse behavior, and touch interactions were not observed and are recommendations only. Availability and licensing of "Le Jeune Deck" and "Caslons Egyptian" as web fonts were not verified from the supplied evidence; both are used here only because they appear in the observed font_families list, with system serif/sans-serif fallbacks applied per usage.

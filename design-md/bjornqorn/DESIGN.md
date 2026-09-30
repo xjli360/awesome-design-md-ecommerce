@@ -4,6 +4,10 @@ name: "BjornQorn"
 source_url: "https://bjornqorn.com"
 captured_at: "2026-09-29T04:04:47.343398+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   BjornQorn is a Shopify-hosted popcorn/snack storefront built on a plain-goods
   aesthetic: white canvas, black body text, and a single high-visibility yellow
@@ -167,6 +171,14 @@ Recommended, not measured:
 Touch targets should be at least 44px tall; buttons using `{spacing.sm} {spacing.lg}` padding should be checked against this minimum on small screens. Nav collapse and mobile menu behavior are proposed patterns; no mobile markup or media queries were included in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This interpretation is built from static CSS/text extraction only; no rendered layout, mobile view, or interaction states (focus, active, animation) were observed. Several `:root` custom properties (`--color-accent`, `--color-main-background`, `--font-heading`, `--font-body`) were empty in the source and have been inferred from concrete rule usage elsewhere (e.g., button and header-bar colors) rather than measured directly. Card, hero, badge, and flavor-swatch components are proposed for category fit and are not backed by matching selectors in evidence. Montserrat's licensing/self-hosting and actual font-loading behavior were not verified. All spacing and rounded scale values beyond the confirmed 2px button radius are proposed conventions, not extracted measurements.

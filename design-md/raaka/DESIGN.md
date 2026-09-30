@@ -4,6 +4,10 @@ name: "Raaka"
 source_url: "https://raakachocolate.com"
 captured_at: "2026-09-28T09:45:00.353891+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Raaka's evidence points to a bean-to-bar chocolate maker whose site pairs a deep cacao-brown
   (#351503) with near-black ink (#171c23) against warm off-white canvases (#fbfbf5, #f0f0e6).
@@ -185,6 +189,13 @@ tablet width. This table is a general recommendation based on typical ecommerce 
 measured breakpoints from the live site.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

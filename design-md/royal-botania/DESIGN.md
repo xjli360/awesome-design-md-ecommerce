@@ -4,6 +4,10 @@ name: "Royal Botania"
 source_url: "https://www.royalbotania.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Bronze light pooling on a teak slat at golden hour — that is the color temperature Royal Botania builds its entire digital presence around. The extracted palette pivots on #ba8748, a burnished amber that appears in hover states, accent lines, and primary CTAs, pulling the user's eye toward configurators and collection links the way afternoon sun catches oiled wood grain. Supporting it is a full gradient of warm earth tones (#cec9c0 through #342f28) that replace the cold grays most luxury sites default to; even the lightest canvas (#fafafb) carries a barely-perceptible warmth at #fbfaf9 and #f5eee5, so white space reads as sunlit limestone rather than sterile gallery wall. Typography pairs a refined serif (used for display headings and product names — loaded as `fontSecondary` via Next.js font optimization) with a clean geometric sans-serif (`fontPrimary`) handling navigation, body copy, and interface labels. Weights stay restrained: display type at 300–400, body at 400, buttons at 500 — the brand whispers rather than shouts. Corner radii are minimal throughout; product cards and image containers sit at `{rounded.xs}` or `{rounded.none}`, reinforcing the architectural precision of the furniture itself. Buttons use a subtle `{rounded.xs}` with generous horizontal padding, reading as slim material strips rather than bubbly pills. Spacing is generous — section gaps push to 80–120px on desktop, letting full-bleed lifestyle photography breathe. The navigation bar is a thin, transparent-to-white element that overlays hero imagery, collapsing to a hamburger early (below 1024px) to preserve visual real estate. Color-coded collection badges use muted earth variants (#9b907d, #655c4e) rather than saturated tags, keeping the page temperature unified. The overall effect is a digital showroom that feels like walking through a Belgian courtyard — warm stone, polished metal, and diffused natural light.
 
@@ -394,6 +398,13 @@ components:
 - Image gallery thumbnails move from vertical side strip to horizontal scroll beneath the main image on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

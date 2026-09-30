@@ -4,6 +4,10 @@ name: "EarthQuaker Devices"
 source_url: "https://www.earthquakerdevices.com"
 captured_at: "2026-09-29T04:12:01.800778+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   EarthQuaker Devices is an Akron, Ohio guitar-pedal maker whose Squarespace-hosted storefront presents a dark, workshop-adjacent aesthetic: near-black inks (#111111, #000000, #1c1c1c) against a white canvas, with a single warm orange (#f58220) and a secondary red-orange (#f0523d) available as accent colors for calls-to-action and status marks. Neutrals span a wide gray range (#333333 to #cccccc) used for body copy, dividers, and card surfaces, consistent with a photography-forward site where pedal artwork carries the color load rather than the UI chrome.
   Font evidence points to a Squarespace font stack rather than site-authored custom type: declared families include Libre Franklin, Open Sans, proxima-nova, Clarkson, Ultra, and Calibre alongside Helvetica/Arial fallbacks. Because no CSS rule confirms which family renders headlines versus body copy, this spec infers Clarkson/Ultra for display roles (consistent with Squarespace's own display-font naming) and Libre Franklin/proxima-nova for body and UI text; these mappings are explicitly inferred, not observed in computed styles. Button typography (uppercase, 15px/400) and cookie-banner caption styling (12px, 0.05em tracking) are the two directly observed type rules and anchor the button-md and caption tokens below.
@@ -137,6 +141,13 @@ components:
 Proposed breakpoints (not measured): mobile ≤600px, tablet 601–1024px, desktop ≥1025px. Nav collapses to a hamburger/off-canvas menu below tablet width; product-card grids proposed at 1 column (mobile), 2 columns (tablet), 3–4 columns (desktop). Touch targets for button-primary/secondary should maintain a minimum 44px height. Hero headline typography (display-xl) should step down toward display-md scale on mobile to avoid overflow. This section is a recommendation derived from common e-commerce patterns, not an observation of the live site's responsive CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This spec is built from static CSS excerpts and page text only; no rendered screenshots, computed styles, or DOM layout were available. Font-role mapping (which family serves headlines vs. body vs. buttons) is inferred from Squarespace's typical font-library naming (Clarkson, Ultra, Calibre, proxima-nova) rather than confirmed selector-level usage. Rounded-corner and spacing scales are proposed defaults, not measured border-radius/margin values from the site. Interactive states (hover/focus/active) beyond the two documented Affirm-button and tooltip-button rules are unverified. Mobile navigation, cart, and product-detail layouts were not observed. Availability and licensing of the named custom fonts (Clarkson, Ultra, Calibre, proxima-nova, futura-pt-bold) were not verified and may require separate licensing from Squarespace or the respective foundries before reuse.

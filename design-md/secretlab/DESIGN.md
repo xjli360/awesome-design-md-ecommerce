@@ -4,6 +4,10 @@ name: "Secretlab"
 source_url: "https://secretlab.co"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, aggressive red — #a72a2f — is the brand's primary voltage, appearing on every primary CTA, the logo mark, and the stitching of the flagship Titan Evo chair; it reads as performance-oriented rather than playful, closer to a supercar's brake caliper than a gaming peripheral's LED strip. The palette is anchored by a near-black ink (#18181b) and a warm off-white canvas (#fafafa), with a secondary accent of muted gold (#e8d087) that appears on limited-edition stitching and badge details — a nod to the brand's "Stealth" and "SoftWeave Plus" fabric tiers. Typography runs din-2014 for display and Soleil for body, giving the interface a condensed, technical feel: headlines sit at 28–32px with tight letter-spacing, while body copy stays at 14–16px with generous line-height for readability. The brand's signature design move is the "pillar" layout — a full-width hero section with a single product image floating above a gradient backdrop, flanked by spec badges and a sticky "Configure" bar that follows the user as they scroll. Cards use sharp corners ({rounded.none}) for product imagery and soft 8px radii ({rounded.sm}) for feature callouts, creating a contrast between precision and approachability. The "NEO Hybrid" foam and "PRISM" fabric names are treated as badge-level typography, often set in uppercase with a hairline border (#d4d4d8) and a subtle drop shadow. The overall mood is industrial but refined — a showroom for high-end ergonomic gear rather than a typical gaming aisle.
 
@@ -392,6 +396,13 @@ components:
 - Product specifications (accordion) are collapsed by default on all screen sizes.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Inside Weather"
 source_url: "https://insideweather.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Inside Weather is a direct-to-consumer furniture brand that builds its visual identity around the tension between warm, approachable comfort and sharp, modern precision. The palette is anchored by a deep, almost-black ink (`#222222`) and a clean white canvas (`#fbfbfb`), with a secondary layer of soft grays (`#ebebeb`, `#e8e9eb`, `#e9e9e9`) that create a quiet, residential backdrop. Against this restraint, the brand deploys a single, high-voltage accent — a vivid coral-orange (`#f57e61`) and a bolder red-orange (`#ff3300`) — used sparingly on primary CTAs, sale badges, and key interactive elements. This is not a system that shouts; it whispers with texture. The typography relies on Poppins, a geometric sans-serif with a friendly, open feel, set at moderate weights (400–600) and generous line heights, letting product photography and whitespace carry the emotional weight. Corners are softly rounded (`{rounded.sm}` 8px on buttons, `{rounded.md}` 12px on cards), avoiding the harshness of sharp edges while staying more structured than the pill-shaped friendliness of, say, a marketplace. The overall mood is one of curated calm — a digital showroom that feels like a well-edited apartment, where every element, from the hairline-thin borders (`#d2d5d8`) to the muted secondary text (`#7a7a7a`), is designed to make the furniture the hero. The brand's signature move is the use of a warm, almost greige surface (`#f6f6f7`) for cards and soft surfaces, creating depth without contrast, and a single green accent (`#3ea36a`) for success states or eco-friendly badges, hinting at a sustainability ethos.
 
@@ -424,6 +428,13 @@ components:
 - Product filters collapse into a slide-out drawer on mobile, rather than a persistent sidebar.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Lila & Hayes"
 source_url: "https://lilaandhayes.com"
 captured_at: "2026-09-29T04:33:44.774810+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Lila & Hayes presents itself as a Southern-preppy family apparel label built on Pima cotton, monogramming, and seasonal "collection drop" merchandising (Fall, Game Day, Preppy Pumpkins). The observed CSS exposes a navy-blue theme family — {colors.primary} "#3b5789" alongside related steps "#203450" and "#4b6ca0" — used consistently across header, line, and button custom-property groups (--colors-text-header, --colors-line-header, --colors-button), which is why navy is treated as the brand's structural color rather than the many app-injected hues also present in the palette (Loop Returns' "#3256e5"/grays, Swym wishlist teals like "#2cb29b"/"#1990c6", and generic Tailwind neutrals such as "#374151"/"#d1d5db"). Those third-party colors are excluded from brand claims. Neutrals lean on a near-black body ink "#282928," a warm mid-gray "#767474," and very light blue-tinted surfaces "#eff2f7"/"#f9fafb," giving a soft, laundered, catalog-like canvas typical of children's apparel photography.
 
@@ -151,6 +155,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be at least 44×44px for buttons and nav items on sm/md. The announcement/promo bar and mega-menu (COLLECTIONS, GIRLS, BOYS, LH SPORT, etc.) likely collapse into an accordion-style mobile menu below `lg`, but this collapse behavior was not directly observed and is a UX recommendation only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no live page, hover, or mobile-menu interaction was observed. CSS custom properties (`--colors-button`, `--colors-text-header`, etc.) reference variables whose resolved runtime values were not supplied, so button/header colors are inferred from the most frequently repeated navy hexes rather than confirmed computed output. Several palette entries (Loop Returns modal blues/grays, Swym wishlist teals, generic Tailwind-style neutrals like `#374151`/`#d1d5db`/`#9ca3af`) are attributable to third-party app widgets and were deliberately excluded from brand-identity claims. The sale/badge accent color is unverified as an official brand color. Font usage (`big-caslon-fb`, `futura-pt`, `untitled sans`, `CafeParadis-SlantedScript`) is based on family names present in CSS; actual licensing, hosting, and per-element application were not verified. All spacing and radius values follow a proposed standard scale, not measured site dimensions.

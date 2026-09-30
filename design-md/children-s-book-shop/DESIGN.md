@@ -4,6 +4,10 @@ name: "The Children's Book Shop"
 source_url: "https://www.childrensbookshop.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep red storefront — #842222 — anchors the identity of this Hay-on-Wye children's bookstore, a color that reads less like a brand choice and more like a weathered brick wall or a well-loved book spine. The palette is deliberately restrained: warm parchment tones (#ddddd0, #eeeee0) form the canvas, while a sharp accent yellow (#fff580) appears sparingly for price tags, sale badges, and small interactive flourishes. The site trusts its inventory photography over decorative imagery — every page is a grid of book covers, each one a miniature artwork that carries the visual weight. Typography runs a simple sans-serif stack at modest sizes, never competing with the covers themselves. Navigation is flat and categorical (Picture Books, Middle Grade, Young Adult, Events), with the deep red appearing in the top bar and primary buttons. The overall mood is that of a quiet, serious shop where the books are the decoration — the design steps back and lets the inventory speak.
 
@@ -311,6 +315,13 @@ components:
 - Hero: full-width on all sizes, reduced padding on mobile (32px instead of 64px)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

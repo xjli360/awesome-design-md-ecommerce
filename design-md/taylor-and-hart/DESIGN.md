@@ -4,6 +4,10 @@ name: "Taylor & Hart"
 source_url: "https://www.taylorandhart.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   GT Sectra Fine's narrow ink-trap serifs carry display type at sizes where most fine-jewelry brands would reach for a generic didone — that specific editorial serif choice is the clearest signal that Taylor & Hart means bespoke in its typographic grammar as much as in its stones. Every content surface rests on a warm cream (#fcf6ea, #fefcf8) that reads closer to premium paper stock than digital white, setting ring photography against a background that signals physical workshop rather than sterile studio. Navy (#334e80) is rationed to CTA surfaces only — a single confident button color kept clear of the palette's warmer accents, so there is no ambiguity about where to click inside the multi-step ring configurator. Effra, a geometric humanist with open counters, manages the cognitive load of a bespoke flow — metal choice, stone shape, carat, engraving — across form steps that must feel unhurried even while carrying dense decision trees. Accent tokens branch across occasion: gold (#e7d698) and blush (#e5c7c6) for warmth; sage (#d7e0db) and forest (#1b3a2e) for contemporary naturalism; deep mauve (#703952) for intimate ceremony. Crimson (#da0039) appears only for sale callouts and error validation, isolated so its urgency reads instantly. TH Icons — the brand's proprietary glyph set — takes ring-style selector icons out of generic symbol libraries and into a vocabulary that belongs only to this configurator. Radii stay near zero on product cards and form inputs (`{rounded.xs}` at 4px), ensuring ring imagery rather than interface geometry commands attention; filter pills and swatch selectors take `{rounded.full}` to signal interactivity without visual noise.
 
@@ -388,6 +392,13 @@ components:
 - Footer four-column layout reduces to two columns at tablet, single accordion on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

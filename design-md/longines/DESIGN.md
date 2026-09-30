@@ -4,6 +4,10 @@ name: "Longines"
 source_url: "https://www.longines.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The winged hourglass stamped on every Longines dial since 1889 doubles as a design philosophy — precision housed inside a silhouette so spare it approaches abstraction. On screen the same economy holds: a white canvas ({colors.canvas}) stretches to the viewport edge and the signature red (#BF1B2C) deploys only at counted pressure points — the primary CTA fill, the logo's outer border accent, the thin rule beneath an active category tab — never as ambient wash or atmospheric fill. Display type defaults to a classical serif, evoking the engraved lettering found on a watch caseback rather than a screen-native grotesque; body copy shifts to a neutral sans-serif so long-form readability stays unforced. Longines occupies a precise niche between haute horlogerie and aspirational luxury, and the component system reflects that calibration: corners barely register ({rounded.xs} at 2px), hero images run cinematically full-bleed and unhurried, and gold (#B8966C) surfaces only in material selectors and price readouts, never as a brand color spread broadly. Product cards behave like museum frames — white ground, centered watch photography, a minimum of metadata beneath — while the model selector for case diameter and strap material reads as a printed specification table rather than a style configurator. Filter and navigation overlays are quiet and quickly dismissed; the search field expands on focus from a single understated icon. Every interactive decision is soft but definitive, echoing the haptic precision of a correctly regulated crown. The overall register is that of an atelier catalogue: scroll depth, hero pacing, and whitespace allocations operate at a cadence slower than typical e-commerce convention, trusting photography to carry the selling weight and reserving brand red for the one moment a visitor needs to act.
 
@@ -338,6 +342,13 @@ components:
 - Hero CTA button shifts from bottom-left to center-bottom on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

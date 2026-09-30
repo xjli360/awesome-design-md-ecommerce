@@ -4,6 +4,10 @@ name: "Turtle Wax"
 source_url: "https://turtlewax.com"
 captured_at: "2026-09-29T04:12:56.431791+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Turtle Wax's storefront CSS shows a white-canvas, black-ink foundation accented by a
   saturated green (#168246, with a near-twin #00953a used as "--color-link-green") that
@@ -157,6 +161,12 @@ components:
 Recommended, not measured: mobile <768px stacks the mega-menu into an accordion, hero text drops from `display-xl` (55px) toward `display-md` (36px), and CTA buttons retain full pill radius with a minimum 44px touch target. Tablet 768–1023px keeps a two-column product-card grid; desktop ≥1024px expands to three or four columns. The one observed mobile-specific rule (`.mobile-button-wrapper .button`, 24px radius, black fill) suggests a distinct compact CTA treatment below the primary breakpoint, but the exact breakpoint value was not present in evidence, so 768px/1024px are proposed conventions.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered layout, computed styles, hover/focus states, or JavaScript-driven behavior were observed. The mapping of TradeGothicLTStd vs. Libre Franklin to specific heading/body roles is inferred from typical brand usage, not confirmed via `--font-body-family`/`--font-heading-family` values, which were not resolved in the supplied CSS. Base font-size (`1.5rem` on `body`) could yield a larger-than-typical body size if root font-size is 16px, or a smaller one under a common 62.5% root reset; actual root value was not supplied, so `body-md` at 16px is a proposed approximation. Spacing and rounded scales beyond the directly observed 100px/24px radii and button padding are proposed conventions, not measured. Licensing and web-availability of TradeGothicLTStd and Exo were not verified. Mobile/tablet layout behavior, navigation collapse mechanics, and card grid breakpoints are proposed design recommendations only.

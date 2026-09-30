@@ -4,6 +4,10 @@ name: "Viori Beauty"
 source_url: "https://viori.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A bath-and-shower brand that leads with a hot-pink voltage — #e5067e — a color so saturated it reads as both floral and synthetic, like a peony bred in a lab. This pink (and its deeper sibling #d90073) drives every primary button, badge, and accent, while the brand's canvas stays a warm off-white #f6f4f1 that softens the clinical edge of standard ecommerce whites. The typography stack is deliberately eclectic: Feeling Passionate, a decorative script with dramatic swashes, appears in hero headlines and product titles, while JetBrains Mono — a developer-favorite monospace — shows up in price tags and ingredient callouts, creating a jarring but memorable contrast between romance and precision. Montserrat handles body copy and navigation, grounding the system in a reliable sans-serif. Buttons use full-pill radii ({rounded.full}) for a glossy, almost cosmetic-tube feel, and product cards float on {rounded.md} corners with thin hairlines (#cfcfcf). The brand's secondary palette is equally assertive: a deep green (#1f7a1f) for "natural" badges and sustainability claims, a gold (#f5c518) for star ratings and sale flags, and a crimson (#c5003e) for urgency markers. The overall effect is maximalist but controlled — every surface carries a purpose, every pink clickable element promises a sensory payoff.
 
@@ -375,6 +379,13 @@ components:
 - Multi-row product features collapse to accordion on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Sweet Loren's"
 source_url: "https://sweetlorens.com"
 captured_at: "2026-09-28T05:02:58.602441+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Sweet Loren's presents itself as a playful, better-for-you baking brand: gluten-free,
   vegan, nut-free cookie dough and refrigerated doughs sold in bold case-pack SKUs.
@@ -170,6 +174,12 @@ This is a recommended, unmeasured breakpoint scheme — no responsive CSS or vie
 Touch targets should be ≥44px height; `--button-height:50px` and `--button-height-small:40px` were observed as CSS custom properties, supporting a 40–50px tappable button range. Carousel controls (scroll buttons, swiper pagination) should collapse to swipe-only gestures below tablet width.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

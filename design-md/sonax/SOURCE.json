@@ -28,18 +28,6 @@
         "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
       ]
     },
-    "#000000": {
-      "count": 9,
-      "sources": [
-        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
-      ]
-    },
-    "#0000000d": {
-      "count": 4,
-      "sources": [
-        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
-      ]
-    },
     "#e3000b": {
       "count": 1,
       "sources": [
@@ -76,12 +64,6 @@
         "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
       ]
     },
-    "#b4b4b4": {
-      "count": 1,
-      "sources": [
-        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
-      ]
-    },
     "#888888": {
       "count": 1,
       "sources": [
@@ -106,13 +88,13 @@
         "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
       ]
     },
-    "#ffffff": {
-      "count": 1,
+    "#000000": {
+      "count": 9,
       "sources": [
         "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
       ]
     },
-    "#00000026": {
+    "#ffffff": {
       "count": 1,
       "sources": [
         "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
@@ -285,10 +267,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Car care, polishes and car wash products from SONAX - clean and polish like the professionals",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "remaining-20260929",
   "tokens": {
     "colors.primary": {
+      "value": "#e3000b",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -296,6 +279,7 @@
       ]
     },
     "colors.ink": {
+      "value": "#1b1a1a",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -303,6 +287,7 @@
       ]
     },
     "colors.canvas": {
+      "value": "#f9f9f9",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -310,6 +295,7 @@
       ]
     },
     "colors.body": {
+      "value": "#313030",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -317,6 +303,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#888888",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -324,6 +311,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#e0e0e0",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -331,6 +319,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#ebebeb",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -338,6 +327,7 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -345,6 +335,7 @@
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -352,6 +343,7 @@
       ]
     },
     "colors.danger": {
+      "value": "#be2832",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -359,6 +351,7 @@
       ]
     },
     "colors.strong": {
+      "value": "#5d5c5c",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -366,6 +359,7 @@
       ]
     },
     "colors.focus-ring": {
+      "value": "#3b82f6",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -373,110 +367,379 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "Lufga, sans-serif",
+        "fontSize": "62px",
+        "fontWeight": 600,
+        "lineHeight": 1.0,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "Lufga, sans-serif",
+        "fontSize": "44px",
+        "fontWeight": 600,
+        "lineHeight": 1.09,
+        "letterSpacing": "-0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "Lufga, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "Lufga, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": 400,
+        "lineHeight": 1.67,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Lufga, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Lufga, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.43,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "Lufga, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 600,
+        "lineHeight": 1.0,
+        "letterSpacing": "0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairlineColor": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.range-tile": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "accentColor": "{colors.primary}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-md}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.muted}",
+        "linkColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "placeholderColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#00000000": {
+        "selector": "*",
+        "property": "-webkit-tap-highlight-color",
+        "declaration": "transparent",
+        "url": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "1fc2b3279add14e2e96bf1368146abae6a1d8ec594c91f731456b396b1ec6d45"
+      },
+      "#e3000b": {
+        "selector": ":root",
+        "property": "--ui-sonax-red",
+        "declaration": "#e3000b",
+        "url": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "1fc2b3279add14e2e96bf1368146abae6a1d8ec594c91f731456b396b1ec6d45"
+      },
+      "#be2832": {
+        "selector": ":root",
+        "property": "--ui-danger",
+        "declaration": "#be2832",
+        "url": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "1fc2b3279add14e2e96bf1368146abae6a1d8ec594c91f731456b396b1ec6d45"
+      },
+      "#f9f9f9": {
+        "selector": ":root",
+        "property": "--ui-white",
+        "declaration": "#f9f9f9",
+        "url": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "1fc2b3279add14e2e96bf1368146abae6a1d8ec594c91f731456b396b1ec6d45"
+      },
+      "#1b1a1a": {
+        "selector": ":root",
+        "property": "--ui-black",
+        "declaration": "#1b1a1a",
+        "url": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "1fc2b3279add14e2e96bf1368146abae6a1d8ec594c91f731456b396b1ec6d45"
+      },
+      "#ebebeb": {
+        "selector": ":root",
+        "property": "--ui-subtle",
+        "declaration": "#ebebeb",
+        "url": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "1fc2b3279add14e2e96bf1368146abae6a1d8ec594c91f731456b396b1ec6d45"
+      },
+      "#e0e0e0": {
+        "selector": ":root",
+        "property": "--ui-soft",
+        "declaration": "#e0e0e0",
+        "url": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "1fc2b3279add14e2e96bf1368146abae6a1d8ec594c91f731456b396b1ec6d45"
+      },
+      "#888888": {
+        "selector": ":root",
+        "property": "--ui-neutral",
+        "declaration": "#888",
+        "url": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "1fc2b3279add14e2e96bf1368146abae6a1d8ec594c91f731456b396b1ec6d45"
+      },
+      "#5d5c5c": {
+        "selector": ":root",
+        "property": "--ui-strong",
+        "declaration": "#5d5c5c",
+        "url": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "1fc2b3279add14e2e96bf1368146abae6a1d8ec594c91f731456b396b1ec6d45"
+      },
+      "#313030": {
+        "selector": ":root",
+        "property": "--ui-emphasis",
+        "declaration": "#313030",
+        "url": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "1fc2b3279add14e2e96bf1368146abae6a1d8ec594c91f731456b396b1ec6d45"
+      },
+      "#3b82f6": {
+        "selector": ":root",
+        "property": "--focus-ring",
+        "declaration": "#3b82f6",
+        "url": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "1fc2b3279add14e2e96bf1368146abae6a1d8ec594c91f731456b396b1ec6d45"
+      },
+      "#000000": {
+        "selector": ".stage__background:after",
+        "property": "background",
+        "declaration": "radial-gradient(93.99% 93.99% at 50% 42.17%,#0000 0%,#000 100%)",
+        "url": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "1fc2b3279add14e2e96bf1368146abae6a1d8ec594c91f731456b396b1ec6d45"
+      },
+      "#ffffff": {
+        "selector": "& option",
+        "property": "background-color",
+        "declaration": "#fff",
+        "url": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "1fc2b3279add14e2e96bf1368146abae6a1d8ec594c91f731456b396b1ec6d45"
+      }
+    },
+    "font_families": {
+      "Lufga": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Lufga",
+        "url": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "1fc2b3279add14e2e96bf1368146abae6a1d8ec594c91f731456b396b1ec6d45"
+      },
+      "sans-serif": {
+        "selector": "html,body,*",
+        "property": "font-family",
+        "declaration": "Lufga,sans-serif",
+        "url": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "1fc2b3279add14e2e96bf1368146abae6a1d8ec594c91f731456b396b1ec6d45"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

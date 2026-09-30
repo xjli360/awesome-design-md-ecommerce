@@ -4,6 +4,10 @@ name: "Soma"
 source_url: "https://drinksoma.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Orange as ripe as a California sunset (#f15623) punctuates every call-to-action on a site that otherwise breathes in glacial pale blue-greens and whisper-soft grays — the visual equivalent of pouring filtered water into a sunlit glass. Soma pairs Cormorant, a high-contrast transitional serif, with Instrument Sans for body copy, creating a tension between editorial elegance and lab-clean utility that mirrors the brand's pitch: beautiful objects that happen to remove microplastics. Display headlines land large in Cormorant at 600-weight, their hairline serifs implying precision; below, Instrument Sans at 400-weight holds ingredient lists and filter specs in neat, readable stacks. A secondary electric chartreuse (#e8ff7a) flashes on promotional badges and hover states — an unexpected, almost neon punctuation that keeps the palette from drifting into spa-brochure territory. Cards and product tiles float on `{colors.surface-card}` (#ffffff) with `{rounded.md}` corners and a single-pixel `{colors.hairline}` border, while section backgrounds alternate between pure canvas and `{colors.surface-soft}` (#f8f8f8) tinted with the faintest aqua undertone (`{colors.surface-mist}` #ebf2f2). The layout grid caps at 1440px, padding generously with `{spacing.section}` between feature blocks so each filtration claim — microplastic removal, sustainable materials, carbon offset — occupies its own visual room. Navigation is minimal: a sticky top bar at 64px with Poppins medium links, a single search icon, and the orange cart indicator. Touch targets on mobile run 48px minimum, and the product card grid collapses from three columns to a single swipeable rail below 744px. The overall rhythm is slow and confident — long scroll sections, oversized product photography bleeding to container edges, and generous 48px vertical gaps between content clusters — letting water imagery and white space do the persuasion that most DTC brands delegate to dense copy.
 
@@ -355,6 +359,13 @@ components:
 - Announcement bar text truncates with ellipsis on very narrow viewports; a "Details" tap expands it
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

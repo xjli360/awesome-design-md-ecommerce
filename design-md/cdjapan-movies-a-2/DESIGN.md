@@ -4,6 +4,10 @@ name: "CDJapan"
 source_url: "https://www.cdjapan.co.jp"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A dense, information-rich marketplace for Japanese pop culture imports, CDJapan reads like a well-stocked Tokyo tower record store translated into a web interface — every pixel carries data, every link is a discovery path. The palette is anchored on a cool, trustworthy cyan (#0099cc) that appears in primary CTAs, category headers, and the site's signature "Add to Cart" buttons, supported by a deep navy ink (#112222) for body text and a warm accent red (#e82020) for sale badges and price drops. The canvas is a soft off-white (#f7f7f7) with card surfaces in pure white (#ffffff), while the extensive gray scale — from #d8d8d8 hairline borders through #5f5f5f muted text to #282828 for secondary headings — creates a legible hierarchy across the sprawling catalog. Typography is a pragmatic mix: Lato for clean, modern body text, ArialRoundedMTBold for price badges and sale tags, and Japanese system fonts (Hiragino Kaku Gothic Pro, MS PGothic, Meiryo) for product titles and descriptions in kanji and kana. The layout is columnar and dense, with 12px rounded corners (`{rounded.sm}`) on product thumbnails and 4px (`{rounded.xs}`) on small badges, while the search bar stretches full-width with a `{rounded.full}` pill shape. CDJapan's design doesn't whisper — it announces every deal, every pre-order bonus, every limited edition with bold price tags, countdown timers, and stock indicators in #d84000 and #eabe00, creating a sense of urgency that drives the collector's impulse.
 
@@ -492,6 +496,13 @@ components:
 - **Pagination**: On mobile, pagination collapses to "Previous" and "Next" buttons with a page count indicator (e.g., "Page 3 of 24"). The full page number list is hidden.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

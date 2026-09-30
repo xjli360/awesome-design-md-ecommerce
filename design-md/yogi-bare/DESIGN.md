@@ -4,6 +4,10 @@ name: "Yogi Bare"
 source_url: "https://www.yogi-bare.co.uk"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, earth-bound palette anchored on #5b1d10 — a burnt umber that reads like sun-baked clay — and lifted by #ab8c52, a muted brass that catches light like a brass singing bowl. The brand’s canvas is #f5f2ec, a warm off-white that avoids the clinical chill of pure white, while #212121 provides the ink weight for body text and #2e2e2e for secondary copy. Typography pairs the clean, geometric Figtree (for UI and body) with the carved-wood serifs of PPWoodland (for display and hero headings) and the condensed MiletusGrotesk (for badges and small labels), creating a layered voice that moves between modern clarity and handcrafted warmth. Product cards use soft {rounded.md} corners on a #fcfbf9 surface, with price tags and “Eco” badges set in #ab8c52 on #f5f2ec backgrounds. The checkout flow introduces #00164d — a deep navy — as an accent for trust signals (Klarna, PayPal badges) and footer links, while #c65d52 (a dried-rose red) marks sale prices and limited-stock warnings. Buttons are pill-shaped ({rounded.full}) in the primary #5b1d10 with white text, and secondary buttons invert to a #f5f2ec fill with #5b1d10 text and a #ab8c52 border. The overall mood is grounded, warm, and materially honest — like a studio that smells of cork and cedar.
 
@@ -372,6 +376,13 @@ components:
 - The search bar collapses from a full input to a magnifying-glass icon that expands on tap.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "AGA"
 source_url: "https://www.aga-ranges.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Cast iron rendered as code — the first thing that registers on AGA's digital presence is the weight of the product itself, translated through dense hero imagery of enamelled cookers in jewel tones against warm domestic interiors. The primary brand navy (#1a2a4a) anchors headers, CTAs, and the persistent navigation bar, a colour drawn directly from the darkest swatch in AGA's classic cooker palette. Supporting it is a heritage cream (#f5f0e8) that replaces the sterile white canvas most appliance brands default to, lending warmth that evokes the perpetual heat of an AGA's cast-iron core. Typography leans on a clean geometric sans-serif stack — likely Proxima Nova or similar — set at moderate weights (400 body, 600 titles, 700 display) with generous line-height to let the photography breathe. Product cards use `{rounded.sm}` corners and subtle `{colors.hairline}` borders, never competing with the curves of the cookers themselves. Buttons are squared-off at `{rounded.xs}`, reinforcing the industrial solidity of the brand; a `{colors.accent-red}` (#c41e3a) appears sparingly for promotional badges and sale callouts, recalling AGA's iconic claret enamel finish. The layout grid is conservative — a maxed 1280px content width with generous `{spacing.section}` vertical rhythm between feature blocks. Navigation carries a mega-menu pattern housing AGA's deep product taxonomy (range cookers, modules, refrigeration, outdoor) with category thumbnails. The overall impression is one of engineered permanence: nothing trendy, nothing transient, a digital showroom designed to feel as enduring as the hundred-year-old product it sells.
 
@@ -442,6 +446,14 @@ components:
 - Breadcrumb truncates middle segments on mobile, showing first and last two levels with "..." ellipsis
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

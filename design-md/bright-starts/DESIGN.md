@@ -4,6 +4,10 @@ name: "Bright Starts"
 source_url: "https://www.brightstarts.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A navy-and-crimson world for the earliest years, where #0f193f (a deep, almost ink-blue) anchors the entire experience — from the meta theme-color to the primary navigation and footer — while #ec2c3e (a sharp, primary red) provides the voltage for CTAs, sale badges, and playful accent elements. The palette reads like a classic children’s board book: #f2f2f2 and #f7f7f7 create a soft, warm canvas, while #314439 and #3c5345 introduce earthy greens that echo the brand’s natural, developmental focus. Bright Starts uses generous whitespace and {rounded.sm} corners to keep the interface approachable for new parents navigating sleep-deprived shopping sessions. Product photography is the hero — toys, bouncers, and activity centers float on clean white or light gray backgrounds, with the occasional splash of #ffdf00 (a warm marigold) or #76dca1 (a minty green) in badges and promotional banners. The typography runs Karla and Lato, both humanist sans-serifs that feel friendly without being cartoonish. Buttons are pill-shaped ({rounded.full}) for the primary call-to-action, while secondary actions use {rounded.sm} to differentiate hierarchy. The overall mood is one of gentle confidence: the navy says “trust us,” the red says “this is fun,” and the greens whisper “we understand development.” There are no hard edges in the UI — even the search bar and input fields carry a soft radius — and the checkout flow inherits the same navy-and-crimson DNA, ensuring a cohesive experience from browse to buy.
 
@@ -339,6 +343,14 @@ components:
 - Accordion content: On mobile, all accordions start collapsed to save vertical space
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

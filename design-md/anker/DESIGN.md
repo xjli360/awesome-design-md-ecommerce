@@ -4,6 +4,10 @@ name: "Anker"
 source_url: "https://www.anker.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep blue-black canvas of #080a0f — the color of a phone screen in standby — grounds a brand that sells the promise of never being unpowered. The extracted palette is dominated by a cold, technical spectrum: #1d1d1f ink, #75787f muted steel, and a single electric accent in #00befa that reads like a charging indicator LED. Anker's typography stack is pure system — Apple's San Francisco (-apple-system, Helvetica Neue) and monospace fallbacks (SFMono-Regular, Consolas) — suggesting a brand that doesn't editorialize with type but lets product photography and spec sheets carry the story. Buttons use {rounded.full} pill shapes at 48px height, a shape borrowed from the charging cables and power banks themselves. The secondary accent cluster — #00db84 (charging-complete green), #ff9900 (warning amber), #da3c3c (error red) — maps directly to battery-status semantics. This is a brand that thinks in voltage, capacity, and uptime: the hero section is likely a dark-field product shot with a glowing ring or LED strip, not a lifestyle scene. The Shopify platform backbone means checkout components (PayPal blue, Klarna pink) leak into the palette, but the core Anker identity is the black field and the cyan pulse.
 
@@ -366,6 +370,14 @@ components:
 - Search bar moves from nav to full-width below nav on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

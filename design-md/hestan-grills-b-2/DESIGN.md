@@ -4,6 +4,10 @@ name: "Hestan"
 source_url: "https://hestanoutdoor.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Burnt orange ceramic coating on a commercial-grade stainless steel chassis — Hestan's signature color (#E8582D) originates not from a brand agency but from the infrared glow of their patented Trellis burner system, and the entire digital experience treats that orange as a single high-voltage accent against a predominantly dark-canvas environment. The site opens with full-bleed hero photography showing outdoor kitchens shot at dusk, where stainless steel catches ambient light and the orange knobs and grill accents pop from charcoal surrounds. Typography is restrained and geometric — likely a Montserrat or similar sans-serif stack rendered at medium weights, with generous letter-spacing on uppercase navigation labels that echo the precision-machined aesthetic of the product itself. Display headlines run large (40–56px) but never heavy; weight 600 is the ceiling, letting negative space and image-forward layouts do the visual work. Cards for product configurations use `{rounded.xs}` or `{rounded.none}` — hard architectural corners that reference the squared-off geometry of built-in grill islands. The spacing system leans generous at section-level (`{spacing.section}` and beyond), creating a showroom pace: one product hero, one value proposition, one configurator step per viewport. Navigation is minimal — a slim top bar with wordmark left, utility icons right, and a mega-menu for the product taxonomy (Built-In Grills, Freestanding, Islands, Components). The configurator experience is signature: users select grill width, fuel type, and color finish through swatch selectors where the brand's twelve powder-coat colors appear as `{rounded.full}` circles against a dark surface. Footer architecture is wide and informative, organized into four columns with small-caps headings and a final row of compliance and warranty links. Overall, the system communicates premium engineering rather than lifestyle aspiration — every element is sized, spaced, and colored to feel like a spec sheet that happens to be beautiful.
 
@@ -411,6 +415,13 @@ components:
 - Configurator steps move from horizontal stepper to vertical accordion on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

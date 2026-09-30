@@ -4,6 +4,10 @@ name: "Aesop"
 source_url: "https://www.aesop.com"
 captured_at: "2026-09-28T04:09:52.675206+00:00"
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Aesop’s visual language is one of deliberate restraint, where every element earns its place through texture, weight, and quiet authority. The brand operates on a near-monochromatic palette anchored by a deep, almost-black ink (#313131) that reads as sophisticated rather than severe — it’s the color of well-worn leather, of apothecary jars, of a perfectly bound notebook. This single dark tone carries the entire typographic system, from display headlines to the smallest caption, creating a reading experience that feels like a private consultation rather than a broadcast. The canvas is always white, always clean, with no competing colors, no gradients, no decorative flourishes — just the stark beauty of type on page. Rounded corners are used sparingly and subtly: a soft `{rounded.sm}` on buttons, a gentle `{rounded.md}` on product cards, but never the pill-shaped extremes of consumer brands. The typography relies on the system-native stack — `-apple-system`, `BlinkMacSystemFont`, `Segoe UI`, `Roboto`, `Helvetica Neue`, `Arial`, `Noto Sans`, `system-ui`, `sans-serif`, plus the emoji and symbol fallbacks — which gives the site a chameleon-like quality: it feels native and familiar on every device, never fighting the operating system’s own type rendering. This is not a brand that shouts; it’s a brand that speaks in a low, measured tone, trusting that the quality of its products and the precision of its prose will hold attention. The `{spacing.section}` of 64px creates generous breathing room between content blocks, while `{spacing.base}` of 16px governs the internal rhythm of cards and buttons. There is no primary color in the traditional sense — no red CTA, no blue link — because Aesop doesn’t need to direct your eye; it assumes you are already looking. The only visual punctuation comes from product photography and the occasional botanical illustration, which sit against the white canvas like specimens in a vitrine. The result is a design system that feels less like a system and more like a philosophy: reduce until only the essential remains, then polish that essence until it gleams.
 
@@ -390,6 +394,14 @@ components:
 - Accordion sections remain expanded on desktop, collapse on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

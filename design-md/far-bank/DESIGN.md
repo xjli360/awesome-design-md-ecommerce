@@ -4,6 +4,10 @@ name: "Far Bank"
 source_url: "https://farbank.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep-navy (#001d40) and near-black (#1a1919) palette that feels less like outdoor gear and more like a fly-fishing library at dusk — the brand trusts darkness as its canvas, not white. The primary voltage comes from a cool steel-blue (#789fbb), used sparingly on CTAs and accent lines, while a brighter cobalt (#334fb4) appears as a secondary jolt on select links and badges. Typography is a layered system of display faces — ff-good-headline-web-pro-con for condensed hero headlines, bagatela for serif elegance on editorial spreads, and Assistant for clean body copy — creating a hybrid of sporting-club heritage and modern utility. Corners are mostly soft but never pill-shaped; cards use {rounded.md} (12px) and buttons use {rounded.sm} (8px), with the occasional full-radius on small badge elements. The nav bar sits at 80px tall, transparent on hero imagery, then snaps to a solid {colors.ink} scrim on scroll. Product photography is moody and low-contrast, with fly rods and reels shot against dark surfaces, making the silver hardware and bright fly line the only highlights. The search bar is a dark field with a subtle {colors.hairline} border, not a glowing orb. This is a brand that says "we are serious about the craft" through restraint — no bright oranges, no hero gradients, no playful illustrations. Every component feels engineered for a customer who values precision over flash.
 
@@ -335,6 +339,13 @@ components:
 - Search bar becomes a full-width overlay on mobile, triggered by icon tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

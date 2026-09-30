@@ -4,6 +4,10 @@ name: "Nanoleaf"
 source_url: "https://nanoleaf.me"
 captured_at: "2026-09-28T10:00:14.273511+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Nanoleaf's storefront CSS shows a Shopify-based smart-home retailer layered over a
   restrained neutral palette punctuated by a single signature green. The authoritative
@@ -194,6 +198,13 @@ mobile menu interaction were not observed and are proposed based on common e-com
 patterns.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

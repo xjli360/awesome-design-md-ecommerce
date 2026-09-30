@@ -4,6 +4,10 @@ name: "Mammut"
 source_url: "https://mammut.com"
 captured_at: "2026-09-29T04:21:19.300015+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from Mammut's Next.js-served stylesheet fragments and Yotpo review-widget overrides, which together expose the brand's typographic and chromatic system rather than a full page layout. Two observed font families anchor the type system: __AGNext (a proportional sans used for headings, review titles, and body text) and __BaselGroteskMonoBook (a monospaced, uppercase-tracked face used for buttons, labels, and "read more" links). The palette is dominated by true black (#000000) and white (#ffffff), with the CSS custom property --accentColor explicitly set to #ed001b, a saturated red used sparingly as the brand accent. Supporting neutrals (#676767, #cdcdcd, #e1e1e1, #f0f0f0, #dadada, #999999) form a grayscale hairline-and-surface system, while additional hues (#4b9524, #fe5219, #dfff54, #1cc286, #db3a00, #23293c) appear in the palette but their functional roles are not evidenced in the supplied rules, so they are treated as inferred accent/status candidates rather than assigned primary meaning. Borders and buttons favor a tight 2px corner radius. The overall interpretation proposes a restrained, high-contrast, performance-oriented alpine aesthetic: black/white foundation, red accent for calls to action, and monospaced uppercase micro-copy for a technical, athletic tone.
 
@@ -148,6 +152,13 @@ Recommended, not measured: mobile (<480px) collapses navigation into a hamburger
 | Desktop | > 1024px | Full mega-menu, 3–4 column product grid |
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is built from a partial CSS extraction (primarily a single bundled chunk plus Yotpo review-widget overrides) and the visible page text; no full page layout, header/footer markup, or product-listing CSS was supplied, so nav-bar, product-card, hero, footer, search, and pack-spec-table are proposed/inferred components, not observed styles. The two font families (__AGNext, __BaselGroteskMonoBook) are Next.js-obfuscated local-font identifiers; their visual rendering, weights beyond those shown (400/500), and licensing/availability are not verified. Many palette entries (#4b9524, #fe5219, #dfff54, #1cc286, #db3a00, #23293c, and various alpha-channel blacks/whites) appear in the supplied color list without an associated selector, so their semantic roles (status colors, chart colors, overlays) are inferred guesses rather than confirmed mappings. All spacing, radius scale (beyond the confirmed 2px button radius), breakpoints, and hover/focus interaction states are proposed conventions for a performance-outdoor storefront and have not been visually confirmed against the live site.

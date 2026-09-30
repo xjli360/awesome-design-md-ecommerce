@@ -4,6 +4,10 @@ name: "Tocris Bioscience"
 source_url: "https://www.tocris.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Each compound page at Tocris arrives pre-loaded as a condensed scientific briefing — target class badge, biological activity summary, molecular weight, solubility window, and peer-reviewed citations all appear before any add-to-cart button. This data-first hierarchy is the dominant visual fact of the design: product identity is established through pharmacological precision, not lifestyle photography. The primary color is an estimated corporate-science blue (approximately #005A9C, documented here with low confidence — see Known Gaps), applied to headers, primary CTAs, and navigation anchors against a near-white canvas. Gray hairlines at roughly #DDDDDD divide compound data tables and filter sidebars with the same measured regularity as ruled laboratory notebook pages. Rounded values are minimal throughout — buttons and cards carry tight radii near `{rounded.xs}` to `{rounded.sm}`, consistent with institutional software that prioritizes information density over consumer warmth. Typography leans on system sans-serif stacks at moderate weights; display headings stay restrained (font-weight 600 at most) while body copy drops to 14px in data tables to accommodate the volume of technical annotation per compound. The catalog browsing experience features a deep filter sidebar — target, pathway, research area, product type — that behaves more like a database query interface than a typical e-commerce facet panel. Product cards in grid view carry compound name, catalog number, target class, and biological activity summary as four mandatory fields before price, communicating that this audience reads assay data before checking cost. Structural signals reinforce the scientific register: monospace digits for catalog numbers, tabular-nums alignment in pricing columns, and tightly leaded captions for citation metadata. The footer organizes resources (literature, protocols, FAQs) with the same categorical discipline as the catalog itself, treating documentation as a first-class destination rather than legal boilerplate.
 
@@ -440,6 +444,13 @@ components:
 - Footer columns stack vertically, each section header becomes an accordion toggle to save vertical space
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

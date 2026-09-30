@@ -4,6 +4,10 @@ name: "King Shocks"
 source_url: "https://kingshocks.com"
 captured_at: "2026-09-28T09:24:54.037398+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   King Shocks' storefront evidence is dominated by a legacy cart/catalog module (wsm_base.css) built on a dark, utilitarian palette: near-black headers (#333, #3d3d3d, #111), white canvas, and a single explicit accent, #005cb8, applied to the site search button. Bootstrap-style contextual colors (success #5cb85c, warning #f0ad4e, danger #d9534f, info #5bc0de) appear throughout the swatch list, consistent with form validation and alert states rather than brand identity. A recurring red family (#cc0000, #dd0000, #cd0a0a, #990000, #ed2424) is present but its role is not confirmed by any supplied selector, so it is treated here as an inferred accent suited to a racing/performance brand rather than a proven primary.
 
@@ -152,6 +156,13 @@ Recommended, not measured, breakpoints:
 Touch targets should be a minimum of 44px, with `button-primary`/`search` padding (`{spacing.md} {spacing.lg}`) satisfying this at desktop scale but requiring vertical padding increases on touch devices. Mega-menu categories (OEM Performance, Off-Road, UTV brand sub-lists) should collapse into an accordion pattern below `tablet`. This table is a design recommendation only; no live responsive behavior was observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

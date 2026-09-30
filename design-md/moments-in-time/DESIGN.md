@@ -4,6 +4,10 @@ name: "Moments In Time"
 source_url: "https://momentsintime.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Archival gravity, not storefront warmth — the dominant `#112337` navy reads like ledger ink rather than brand enthusiasm, anchoring header rails, section banners, and primary CTA buttons in a single institutional hue that signals long-term credibility over conversion pressure. The palette seldom strays from this axis: an achromatic gray ladder (`#f5f5f5` canvas, `#eeeeee` card surfaces, `#e6e6e6` inner fills, `#c4c4c4` hairlines) supports the navy without competing, creating a depth hierarchy so compressed it reads as catalogue pages rather than layered UI. The one chromatic intrusion is `#cc0000`, used narrowly on sale banners and urgency flags — functioning like a red wax seal on a certificate rather than a standard conversion nudge. No custom webfonts appear in the extracted stack; Arial and Helvetica carry everything from display headings to provenance microcopy. The flatness is appropriate: a buyer comparing a 1967 Mickey Mantle single against a 1969 Joe Namath team-signed photograph needs legible specification text, not expressive type. Product cards sit at `{rounded.xs}` — virtually sharp-cornered — which contrasts with `{rounded.full}` pill filters used for sport and era navigation, creating a two-register system: catalogue items get the hard edge, filters get the approachable pill. Authentication vocabulary drives the component set more than brand expression does. Certificate of Authenticity badges inherit the primary navy as their background, white-reversing the text in `{typography.label-upper}` uppercase tracking — functioning as institutional seals, not marketing labels. Trust copy, guarantee language, and provenance footnotes occupy persistent real estate in the footer's deep `#0a1c4c` block, which reads as the legal annex of a physical dealer catalogue brought online. The overall register is a reputable specialist dealer who considers the interface a transparent container for the objects, not a surface for brand performance.
 
@@ -340,6 +344,13 @@ components:
 - Section heading strips maintain full width at all breakpoints; left-border accent scales with padding
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Tia"
 source_url: "https://asktia.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep plum #663399 in the browser tab, a flash of fuchsia #ef308d on the page — Tia announces itself as a women’s health clinic that refuses to be quiet or clinical. The brand lives in a warm, earthy tension: a canvas of #fcf4e9 (a pale, sunlit cream) against accents of #831a4a (a crushed-berry wine) and #f95647 (a coral that leans into fire). The extracted palette is unusually rich — sage #d6deba, mint #0cc67b, sky #e4f3ff, marigold #f9b146 — suggesting a system that uses color not as decoration but as wayfinding across care pathways (primary care, gynecology, mental health, wellness). Type runs on Basis Grotesque Pro for clean, modern readability, paired with Inferi (a serif with warmth) for moments of narrative weight — a rare combination that signals both clinical authority and human tenderness. Buttons are pill-shaped ({rounded.full}), CTAs pulse in #ef308d or #f95647, and the overall mood is one of generous, unapologetic care: a brand that uses rounded corners, soft shadows, and a deliberately non-sterile palette to make healthcare feel like something you’d choose, not endure.
 
@@ -511,6 +515,13 @@ components:
 - Service category badges in a horizontal strip collapse to a scrollable horizontal row with overflow hidden.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

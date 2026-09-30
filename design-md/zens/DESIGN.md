@@ -4,6 +4,10 @@ name: "Zens"
 source_url: "https://www.zens.tech"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Four near-identical darks stacked in micro-steps — #121212 as the base void, #171717 as the page canvas, #1f1f1f lifting card surfaces just barely above it — give Zens a topology you feel more than see. Against that compressed darkness, a single off-white at #dedede does every unit of expressive work the brand allows itself: CTA borders, price figures, product silhouettes snapping out of shadow. There is no accent hue, no brand color, no warm-or-cool statement. The chromatic restraint is not austerity for its own sake — it mirrors the product itself, a charging pad that disappears into the desk and leaves only the charged device visible. Inter runs the entire type system at measured weights; display headings sit at 600 rather than 800, because the brand does not shout about convenience, it assumes it. Letter-spacing opens slightly at caption and label scale, keeping small text readable against surfaces that offer almost no luminance contrast as a safety margin. Rounded values stay decisively modest — {rounded.sm} on cards, {rounded.xs} on spec badges — signaling precision-engineered hardware rather than consumer softness. A {rounded.md} appears only on interactive inputs and buttons where a softer profile signals touch-friendly affordance. Section cadence is open: {spacing.section} between content bands lets each charging solution present as a self-contained object study, and {spacing.xxl} governs the internal rhythm of product detail blocks. The footer inherits the same near-black palette with no sharp contrast break, dissolving the page boundary the way a wireless charging surface dissolves the cable. Where most tech accessories brands chase a hero color to anchor brand recognition, Zens bets entirely on material authority: deep matte backgrounds, unhurried typography, and photography that carries all chromatic weight the design system withholds.
 
@@ -371,6 +375,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

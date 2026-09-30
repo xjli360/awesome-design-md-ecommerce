@@ -4,6 +4,10 @@ name: "Deaf Crocodile"
 source_url: "https://www.deafcrocodile.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A midnight-black canvas (#111111) that feels less like a background and more like a theater curtain before the film starts — the brand's signature move is to let near-black absorb the page while a single olive-green accent (#77804b) acts as the house light, appearing on primary buttons, category tags, and hover states. The palette is deliberately restrained: a warm off-white canvas (#f5f5f5) for product cards and content areas, a cooler white (#ebebeb) for secondary surfaces, and a muted gray (#888888) for secondary text and borders. Color is used sparingly but with intent — a deep maroon (#d0473e) for sale badges and limited-edition markers, a muted teal (#7396a2) for special collection headers, and a restrained navy (#5487a0) for informational links. The typography runs Archivo at modest weights — display headlines sit at 500 weight rather than the heavy 700+ that entertainment brands often use, trusting the stark contrast of black on white rather than typographic muscle. Buttons are softly rounded (`{rounded.sm}`) and pill-shaped search bars (`{rounded.full}`) read as approachable, while product cards use a gentle corner (`{rounded.md}`) that keeps the interface feeling curated without being precious. The overall effect is a digital storefront that respects the films it sells — the design gets out of the way, letting the movie posters and cover art provide the color and drama.
 
@@ -427,6 +431,13 @@ components:
 - Search bar moves from inline in the nav to a full-width bar below the nav on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

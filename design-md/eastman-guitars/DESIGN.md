@@ -4,6 +4,10 @@ name: "Eastman Guitars"
 source_url: "https://www.eastmanguitars.com"
 captured_at: "2026-09-28T10:24:27.961445+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from a NationBuilder-hosted Bootstrap theme rather
   than bespoke brand CSS, so the palette is dominated by neutral grays (#ffffff,
@@ -164,6 +168,13 @@ A proposed, non-measured breakpoint scheme suitable for a catalog/marketing site
 Touch targets should be at least 44px in the effective tap area for buttons and nav links. Navigation collapse to a hamburger/off-canvas pattern below `md` is a recommendation based on common Bootstrap-era conventions, not a confirmed behavior of this site. No live responsive layout, breakpoint values, or JavaScript interaction was observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered page, computed layout, or DOM interaction was observed. The selection of `#dd1144` as the primary brand accent is an inference — its actual usage context (link, tag, or incidental UI element) is not confirmed in the supplied rules. Heading and body font sizes for `display-xl`, `display-md`, `title-md`, `body-sm`, `caption`, and `button-md` are proposed values, not measured from live typography scales. Spacing and rounded-corner tokens are proposed system defaults, not extracted from layout CSS. Custom font availability and licensing for "neue-haas-unica" and "TTCommons-VarRoman" were not verified and may require licensing confirmation before implementation. Component states (hover, focus, disabled, error) are proposed conventions only. Mobile/responsive behavior and interaction patterns were not observed and are recommendations based on common practice for catalog-style sites.

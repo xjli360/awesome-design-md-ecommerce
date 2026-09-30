@@ -4,6 +4,10 @@ name: "Tea Collection"
 source_url: "https://teacollection.com"
 captured_at: "2026-09-28T09:39:00.275892+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Tea Collection's observed CSS points to a warm, editorial identity built around a
   deep espresso-brown ink (#3e1a04, mapped to --color-tea-brown) used for both body
@@ -149,6 +153,13 @@ This is a proposed breakpoint structure, not measured from live rendering:
 Touch targets for buttons and size-selector chips should maintain a minimum 44px hit area, consistent with the observed `--wk-button-min-height: 45px` and `--wk-input-min-height: 45px` tokens. Mega-menu collapse into an accordion-style drawer below 1024px is a reasonable proposal given the deep category nesting in the evidence, but actual collapse behavior was not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS custom properties, selector fragments, and page text only; no rendered layout, computed styles, or interaction states were observed. The mapping of `#108474` to a primary/functional accent role is inferred from its use in the Judge.me review widget, not from confirmed brand usage elsewhere on the site. The `--color-brown-700` hover value and `--color-focus` outline color have no confirmed hex in the supplied evidence; both are approximated from nearby palette entries. Letter-spacing values for `display-*` typography are carried over from `--font-block-heading` tokens and may not apply identically to all heading contexts. Button, input, and badge rounding follow the confirmed `0px` radius tokens, but card and hero radii are proposed defaults, not observed. Font licensing and self-hosting status for Recoleta and Nunito Sans were not verified. Mobile menu behavior, cart drawer interactions, and product-card hover states are proposed patterns only and were not confirmed through live interaction testing.

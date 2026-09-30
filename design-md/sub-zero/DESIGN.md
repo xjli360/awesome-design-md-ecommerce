@@ -4,6 +4,10 @@ name: "Sub-Zero"
 source_url: "https://www.subzero-wolf.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Dusky amethyst (#5b5378) anchoring a refrigeration brand — not the expected stainless silver or clinical white, but a bruised-grape tone running through navigation accents, section overlays, and interactive hover states, pulling the entire digital experience toward a palette more at home in a fashion atelier than a kitchen showroom. The deepest shade, a near-black plum (#2d293c), saturates the persistent nav bar and hero overlays, creating a cinematic darkness against which full-bleed kitchen photography glows warm with incandescent light. Sub-Zero's type system leans entirely on Museo Sans across ExtraLight (200), Light (300), and Medium (500) weights — the lighter cuts carry headlines at generous sizes, letting letter-forms breathe with architectural restraint, while Medium anchors navigation links and button labels with measured authority. Corners stay conservative: `{rounded.xs}` on cards and interactive elements, `{rounded.sm}` on buttons, never pill-shaped, never playful — edges communicate precision engineering rather than consumer friendliness. The brand actually operates as a triptych of appliance families: Sub-Zero refrigeration pulls a cool institutional blue (#0081c6), Wolf cooking ranges claim a deep crimson (#af272e) that darkens toward brick (#893424) in hover states, and Cove dishwashers own a saturated teal (#00393b), each appearing as accent strokes on their respective product sections while the overarching purple-charcoal palette unifies the three sub-brands into a single showroom. A surprise chartreuse (#c4d600) punctuates sustainability callouts and energy-efficiency badges, sharp and almost electric against the dark canvas. Spacing is architectural — `{spacing.section}` gaps between content blocks mirror the deliberate negative space of a high-end kitchen layout, and product cards sit in rigid grids with `{spacing.lg}` gutters that never collapse into masonry. A secondary monospace stack (Courier New) surfaces in specification tables and model numbers, lending technical credibility to performance data. The overall effect is a site that feels like walking through a showroom after hours: dim, intentional, every surface and finish selected with the specificity of a materials specification sheet.
 
@@ -510,6 +514,13 @@ components:
 - Breadcrumb navigation truncates with ellipsis on mobile, showing only current and parent
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

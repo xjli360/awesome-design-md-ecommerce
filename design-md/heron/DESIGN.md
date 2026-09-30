@@ -4,6 +4,10 @@ name: "Heron"
 source_url: "https://www.heronwatches.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The theme color — #211f1e — sits a degree warmer than neutral black, reading like a vintage darkroom under incandescent light rather than a cold void. Héron Watch Co. builds its entire digital environment inside this single warm shadow, layering it with #1c1d1d panels and #141212 card wells until the depth feels physical rather than flat. Against that atmosphere, the brand's singular accent — a vivid orange-red at #ff4f33 — performs the same optical work a lume application does on a dark dial: a single precisely placed signal that reads immediately without disturbing the surrounding calm.
 
@@ -329,6 +333,13 @@ components:
 - Footer: four-column grid → two-column at tablet → single-column accordion at mobile, sections collapsed by default with Montserrat uppercase label as the toggle trigger
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Elenco"
 source_url: "https://www.elenco.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Snap Circuits' numbered grid panels and primary-colored components snap together with a satisfying click — that modular clarity is the organizing principle behind Elenco's digital presence. Where competitor STEM brands chase dark, garage-maker aesthetics, Elenco holds to a bright, classroom-optimized palette: bold red (`#c8202d`) against white canvas, with navy (`#1e3a6e`) anchoring navigation and institutional messaging, and safety-orange (`#f47920`) carrying age-range badges and promotional callouts. The effect is trusted educational catalog rather than startup — visual language shaped by decades of shipping kits to parents, teachers, and gift-buyers who need immediate legibility over atmosphere.
 
@@ -350,6 +354,13 @@ components:
 - Educator strip: 2-column horizontal → single-column stacked on mobile with full-width outlined CTA
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

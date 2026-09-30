@@ -4,6 +4,10 @@ name: "Brooks"
 source_url: "https://www.brooksrunning.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A performance running brand that uses a restrained palette anchored on a deep, confident blue (#1a2b4c) as its primary voltage — not the electric neons of competitors, but a saturated navy that reads as endurance and precision. The brand's canvas is a clean white (#ffffff), with body text in a near-black (#1a1a1a) that keeps readability high across product detail pages and training guides. Brooks trusts a single accent — a vibrant energy orange (#ff6b35) — to drive CTAs and highlight performance metrics, creating a visual system that feels more like a technical lab than a lifestyle magazine. Typography runs on a geometric sans-serif (likely a proprietary or licensed face like "Brooks Standard" or a close relative of DIN or Trade Gothic) at moderate weights — display headlines sit at 32px weight 600, body copy at 16px weight 400, and button labels at 14px weight 500 — prioritizing clarity over personality. Cards and buttons use a gentle 8px radius (`{rounded.sm}`), while hero sections and feature panels employ a more generous 16px (`{rounded.md}`) to soften the technical edge. The product grid uses a 4-column layout on desktop, collapsing to 2 on tablet and 1 on mobile, with each card featuring a 3:4 aspect ratio image, a bold product name in 18px weight 600, and a subdued price in 14px weight 400. The brand's signature design move is the "Run Happy" badge — a small, pill-shaped tag (`{rounded.full}`) in the primary blue with white text, applied to shoes that meet the brand's cushioning and support standards. Navigation is a fixed top bar with a logo lockup on the left, a centered search bar with a 40px height and 8px radius, and utility icons (account, cart) on the right. The footer is dense with links in 14px weight 400, organized under 16px weight 600 category headers, all on a light gray surface (#f5f5f5). The overall mood is athletic but serious — the brand doesn't shout; it performs.
 
@@ -348,6 +352,14 @@ components:
 - Hero banners stack content vertically below 744px, with text above imagery
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

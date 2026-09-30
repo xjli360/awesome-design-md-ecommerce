@@ -4,6 +4,10 @@ name: "Meletrix"
 source_url: "https://meletrix.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A desktop art creator that builds keyboards as if they were gallery pieces — the brand's visual system is anchored on a deep, almost-black ink (#212121) against a warm off-white canvas (#f9fafb), with a single electric accent in #108474 that appears in product highlights, hover states, and select badges. The extracted palette reveals a surprisingly playful secondary language: a marigold (#ffeb3c) and neon chartreuse (#e2ff3f) appear in limited-edition keycap sets and packaging accents, while #de3813 (a rusted orange) and #5d6ac0 (a muted periwinkle) suggest a brand that's comfortable with color-blocking and unexpected pairings. The typography runs Jost at display sizes — a geometric sans with humanist warmth — paired with Nunito Sans for body copy, creating a system that feels both precise and approachable. Cards use generous padding ({spacing.lg}) and soft radii ({rounded.md}), while the primary CTA button takes a full-pill shape ({rounded.full}) in the brand teal, creating a single focal point per view. The nav bar is minimal — a thin hairline (#e9e9e9) separates it from content, and the logo sits left with a compact product-menu strip. Product cards feature a large hero image (often a full-keyboard flat lay), a bold price in display weight, and a subtle "in stock" badge in #2a8156. The checkout flow uses Shopify's default widget colors, which introduce a cooler gray (#7b7b7b) and a lighter surface (#f2f2f2) that don't fully match the brand's warmer palette — a known gap. Overall, Meletrix reads as a brand that treats mechanical keyboards as functional art: the design system is clean enough to let the product photography sing, but playful enough to accommodate limited-edition drops with neon accents and custom keycap sets.
 
@@ -475,6 +479,13 @@ components:
 - Secondary navigation (category strip) collapses to a dropdown on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

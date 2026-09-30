@@ -14,7 +14,7 @@ from pathlib import Path
 from design_system import ROOT, atomic_write, attach_evidence, load_sites, validate
 from extract_site import Page
 
-PUBLIC_ARTIFACTS=('README.md','INDEX.md','STATUS.md','data/brands.csv','data/manifest.json','assets/hero.svg')
+PUBLIC_ARTIFACTS=('README.md','INDEX.md','STATUS.md','RECOMMENDED.md','HISTORICAL.md','MEASURED.md','data/brands.csv','data/manifest.json','assets/hero.svg')
 
 def run(script,*args):
     subprocess.run([sys.executable,str(ROOT/'scripts'/script),*args],check=True,cwd=ROOT)
@@ -31,7 +31,8 @@ def main():
         exhaustive=state.get('all_remaining',False)
         if state['status']!=('reviewed' if exhaustive else 'complete'):raise SystemExit('Batch is not complete')
         if exhaustive and {r['slug'] for r in state['queue']}-set(state['results']):raise SystemExit('Unattempted queue entries remain')
-        run('index_retained_colors.py','--apply')
+        # Palette/proof mappings are produced atomically by the worker; do not mutate
+        # published evidence independently during finalization.
         run('verify_batch.py',args.batch_id)
         all_slugs={p.parent.name for p in (ROOT/'design-md').glob('*/DESIGN.md')}
         new_slugs=all_slugs-set(state['baseline_slugs'])
@@ -39,7 +40,9 @@ def main():
         if (not exhaustive and len(new_slugs)!=state['target']) or new_slugs!=done:
             raise SystemExit('Exact file-delta check failed')
         rows={r['slug']:r for r in load_sites()}
+        frozen=json.loads((ROOT/'data/legacy_documents.json').read_text()).get('documents',{})
         for slug in state['baseline_slugs']:
+            if slug in frozen:continue
             folder=ROOT/'design-md'/slug
             if not (folder/'SOURCE.json').exists():
                 path=folder/'DESIGN.md'
@@ -48,6 +51,7 @@ def main():
                 if not validate(content,rows[slug]['brand_name'])['valid']:raise ValueError(f'Invalid historical metadata: {slug}')
                 atomic_write(path,content)
         for source_path in (ROOT/'design-md').glob('*/SOURCE.json'):
+            if source_path.parent.name in frozen:continue
             source=json.loads(source_path.read_text());path=source_path.parent/'DESIGN.md'
             snapshot=ROOT/'_state/evidence'/path.parent.name/'homepage.html'
             if snapshot.exists():
@@ -61,6 +65,7 @@ def main():
             atomic_write(path,content)
         run('check_format.py')
         run('check_evidence.py')
+        run('check_measurements.py')
         run('build_index.py')
         first={p:hashlib.sha256((ROOT/p).read_bytes()).hexdigest() for p in PUBLIC_ARTIFACTS}
         run('build_index.py')
@@ -76,7 +81,7 @@ def main():
                 rel=Path(raw.decode());src=ROOT/rel
                 if not src.is_file():continue
                 dest=clean/rel;dest.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(src,dest)
-            for script in ('check_format.py','check_evidence.py','build_index.py'):
+            for script in ('check_format.py','check_evidence.py','check_measurements.py','build_index.py'):
                 subprocess.run([sys.executable,str(clean/'scripts'/script)],check=True,cwd=clean)
             clean_hashes={p:hashlib.sha256((clean/p).read_bytes()).hexdigest() for p in PUBLIC_ARTIFACTS}
             if clean_hashes!=second:raise SystemExit('Clean-copy outputs differ from the working collection')

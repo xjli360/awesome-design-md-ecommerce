@@ -4,6 +4,10 @@ name: "AGFA (American Genre Film Archive)"
 source_url: "https://www.americangenrefilm.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A neon-drenched archive of cult, exploitation, and underground cinema, AGFA’s identity is a deliberate collision of VHS-era grit and institutional clarity. The brand’s primary voltage comes from a deep, authoritative blue (#003388) — not a friendly sky blue, but the kind of saturated, serious blue you’d expect on a revival-house marquee or a collector’s edition Blu-ray spine. This blue anchors the entire system, appearing on primary buttons, navigation bars, and key interactive elements. Against a near-black canvas (#121212), the site reads as a dark, immersive theater lobby — the kind where the only light comes from the screen and the neon EXIT sign. Accents of cyan (#02e49b) and orange (#ff9900) puncture the darkness like arcade cabinet glow or faded poster ink, used sparingly for badges, price tags, and hover states. Typography runs Lato and futura-pt — clean, geometric, slightly condensed — set at modest weights (400–600) that never compete with the movie posters and stills that do the real storytelling. Buttons are hard-cornered ({rounded.none}) and compact, echoing the no-frills utility of a ticket booth or a VHS clamshell case. Cards and modals use a soft 8px radius ({rounded.sm}) for a hint of approachability, but the overall mood remains stark, archival, and unapologetically analog. The site’s grid is generous but disciplined — whitespace is used to isolate each film poster as an artifact, not a thumbnail. The result is a digital space that feels less like a streaming platform and more like walking into a repertory cinema that’s been running 35mm prints since 1976.
 
@@ -424,6 +428,14 @@ components:
 - Hero content (title, subtitle, CTA) stacks vertically on mobile, with the CTA button moving below the text.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

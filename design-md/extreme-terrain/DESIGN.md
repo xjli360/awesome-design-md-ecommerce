@@ -4,6 +4,10 @@ name: "Extreme Terrain"
 source_url: "https://extremeterrain.com"
 captured_at: "2026-09-28T04:30:38.547514+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   ExtremeTerrain's observed CSS points to a utilitarian, catalog-driven storefront built around a single olive-green brand accent (#738537, with a deeper variant #4c5f1b used on light buttons) set against neutral grays and near-black text (#212121). Promotional buttons introduce a secondary orange (#e83d00) and a caution yellow (#ffce3e), both tied to hover/pressed states on marketing CTAs, suggesting a layered accent system: green for primary brand actions, orange/yellow for urgency and secondary promos. Typography mixes "Inter" for pricing figures, "Roboto Flex" for buttons and marketing headers, and an Arial/Helvetica Neue/Lucida Grande stack presumably for default body copy where no webfont is declared. Card-level UI (fitment text, review counts, badges) relies on small 12px gray labels (#797979) against white/off-white card surfaces (#ffffff, #edeeee), implying a dense, information-forward product grid typical of parts catalogs. Rounded pill badges (border-radius:100px) and 4px button corners are the only radius values directly observed. This interpretation proposes a cohesive scale around these fragments; exact layout, spacing rhythm, and most typographic sizes beyond the ones cited are inferred, not measured.
 
@@ -149,6 +153,13 @@ This is a recommended pattern, not measured site behavior — no media queries o
 Touch targets should be at least 40px in height, matching the observed `.top_finds_buttons a` button height. Badges and caption text remain small (12px) and are not intended as tap targets themselves — wrap them in adequately sized touch areas on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

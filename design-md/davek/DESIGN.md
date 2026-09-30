@@ -4,6 +4,10 @@ name: "Davek"
 source_url: "https://davekny.com"
 captured_at: "2026-09-28T05:06:15.243886+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Davek's storefront evidence points to a restrained, technical-outdoor aesthetic built around a single dark navy anchor color, #1a2431, which appears explicitly as the Judge.me review-widget primary/star/reviewer color and is the strongest brand-color signal in the supplied CSS. Neutral grayscale values (#ffffff, #f5f5f5, #eeeeee, #dddddd, #333333, #000000) dominate the remaining palette, consistent with a product-photography-forward umbrella catalog rather than a saturated lifestyle brand. A small set of saturated colors (#eb001b, #00730b, #fbcd0a) surface in the raw palette dump without confirmed selectors; these are treated as inferred utility colors (sale/clearance, success/in-stock, highlight) rather than core brand colors, since their roles are not evidenced by the supplied rules.
   Typography is more clearly evidenced: heading elements (h1–h6) explicitly load a custom family, "neuzeits," at font-weight 100, giving headlines an intentionally light, editorial feel — this is an unusual and specific observed choice, not a default. Body typography references a CSS variable (--font-body) whose resolved value was not captured in evidence; Karla is used here as the most plausible sans candidate from the observed font list, alongside Montserrat, Nunito Sans, and Instrument Sans, and this assignment is explicitly inferred, not confirmed. Layout tokens use a --spacing-unit of 4px, which anchors the spacing scale below.
@@ -145,6 +149,13 @@ This is a recommended breakpoint strategy, not measured site behavior:
 Touch targets are proposed at a minimum 44×44px for buttons and nav icons. Mega-menu collapse into an accordion drawer below 1024px is a reasonable inference given the deep BY MODEL / BY TYPE / BY USE menu structure, but no mobile-menu markup or breakpoint values were present in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

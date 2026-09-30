@@ -4,6 +4,10 @@ name: "Vornado"
 source_url: "https://www.vornado.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The vortex spiral pressed into every Vornado housing — its physical signature of air-column engineering — carries into the digital system as one act of visual compression: nearly everything routes through #d3161f, an industrial red with no warm undertone, punched against deep charcoal (#2d2d2d) and a cool near-white (#f4f4f4) grid with no softening intermediary. This is not a brand that distributes energy across a spectrum of accent colors; it bets the entire CTA layer on one signal, trusting the red to do simultaneous work as buy button, sale badge, urgency callout, and hover state. The discipline reads closer to power-tool branding than home-comfort lifestyle.
 
@@ -368,6 +372,13 @@ components:
 - Hero subhead text hides on viewports narrower than 375px to keep headline and CTA above the fold
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

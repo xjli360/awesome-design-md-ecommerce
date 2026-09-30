@@ -4,6 +4,10 @@ name: "4AD"
 source_url: "https://www.4ad.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A label whose visual identity is built on a trinity of extracted hexes — #e0e1e1 (a cool, almost concrete gray), #343434 (a deep near-black ink), and #bbaf80 (a pale, dusty gold that reads as aged brass or dried wheat). The gold is the brand's true voltage: it appears sparingly — a single accent line, a hover state, a release-year numeral — and carries the entire weight of the label's mystique. The site uses a stark, almost brutalist grid: full-bleed hero images, no rounded corners except `{rounded.sm}` on shop buttons, and a typographic hierarchy that trusts `{typography.display-md}` at 24px in bold Georgia over the more common sans-serif hero. The nav is a single horizontal bar of `{typography.nav-link}` in Roboto Condensed, all-caps, tracking 1.2px, sitting on `{colors.canvas}` (#ffffff) with a `{colors.hairline}` (#d4d4d4) bottom border. The shop section feels like a gallery: product cards are `{colors.surface-card}` (#ffffff) with `{rounded.none}`, `{colors.ink}` (#343434) body text, and `{colors.muted}` (#8a8a8a) prices. The gold `{colors.primary}` (#bbaf80) only appears on the add-to-cart button and the "Buy" link — a deliberate withholding that makes the action feel significant. The footer is a dense block of `{colors.surface-soft}` (#f2f2f2) with `{typography.body-sm}` links in Roboto Condensed, no icons, no social proof — just text and a mailing-list signup. The overall mood is austere, literary, and slightly archival: the site of a label that has been releasing records since 1980 and doesn't need to shout.
 
@@ -350,6 +354,14 @@ components:
 - Release list: year column hidden on mobile; artist and title remain
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

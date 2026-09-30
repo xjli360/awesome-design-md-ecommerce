@@ -4,6 +4,10 @@ name: "Ferkos Fine Jewelry"
 source_url: "https://www.ferkosfinejewelry.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The site's dominant color is the same clay-rose as the interior of a well-worn gold ring box — #a38473 warms every primary CTA and category hover state, occupying the exact register between champagne gold and bare skin. Antic Didone, a high-contrast editorial serif with dramatic thin-thick stroke transitions, handles all display text; at 48px those hairline strokes dissolve into geometry, creating the same visual tension as a delicate gold chain photographed against pale linen. Montserrat in weights 400–600 carries the entire UI shell — nav labels, button caps, captions, form fields — its clean geometry making a deliberate counterpoint to Antic Didone's theatrical vertical rhythm. The canvas stays near-white (#fbfbfb, #f7f7f7), keeping product photography primary, while warm cream (#e2d2ab) and deeper blush (#dcc8ba) resurface as surface tints for collection banners and callout modules — the palette reads like the inside of a luxury packaging suite rather than interface chrome.
 
@@ -355,6 +359,13 @@ components:
 - Footer four-column layout collapses to two-column on tablet and single-column stacked on mobile with accordion disclosure for link groups
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

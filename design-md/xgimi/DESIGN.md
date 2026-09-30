@@ -4,6 +4,10 @@ name: "XGIMI"
 source_url: "https://www.xgimi.com"
 captured_at: "2026-09-29T04:17:27.363265+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from XGIMI's official Chinese storefront (极米科技官方网站), a mainland-hosted mall presenting the brand's projector and laser-TV catalog (X50 Ultra Max, RS 20, T10, Play 6, AURA2, Sunlight). The observed CSS shows a neutral, product-photography-led foundation: white canvas, dark-gray body text (#333 at 14px/1.5 with .7px letter-spacing), a light gray page background, and thin hairline grays used for cards and dividers. No single CSS rule labels a "brand color," so the orange (#ec6c00) is treated as an inferred primary accent, selected because warm oranges recur across the palette (#ff6700, #ff5644, #f89429) consistent with promotional badges ("新品", "热销") seen in the page text. A teal (#19caa6) and blue (#2566e8) are reused as secondary/tag accents rather than invented. Typography is inferred from the explicit Roboto/Helvetica/Arial stack plus commonly bundled CJK families (PingFang SC, Microsoft Yahei) for headings, since the source is Chinese-language. Layout patterns (hero carousel, grid product cards, dark footer) are proposed conventions for a projector/TV e-commerce catalog, not measured page geometry, and are flagged accordingly throughout.
 
@@ -145,6 +149,13 @@ Recommended, not measured, breakpoints:
 Touch targets for buttons and badges should be at minimum 40–44px in height on mobile. Navigation should collapse into a drawer/menu below the tablet breakpoint. These recommendations are standard e-commerce practice applied to the observed component set; no actual responsive CSS or media queries were present in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

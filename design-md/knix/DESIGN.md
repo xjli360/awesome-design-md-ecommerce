@@ -4,6 +4,10 @@ name: "Knix"
 source_url: "https://knix.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Strip away every accent color from a lingerie site and what remains is a bet — that the human body itself is the only pigment the interface needs. Knix commits to this wager fully, running an almost colorless palette of near-blacks (#141414, #121212), mid-grays (#545454), and whisper-light surfaces (#f6f6f6, #e2e2e2, #dedede) that recede behind full-bleed campaign photography of unretouched torsos, stretch marks, and post-surgical scars. The typography is Inter — clean, geometric, emotionally neutral — loaded at weights 400 through 700 without display fireworks, because the editorial voice here is the copy itself ("Wear what moves you," "Designed for every body") rather than the letterforms carrying it. Buttons are solid rectangles of #141414 with `{rounded.sm}` corners and white text, giving CTAs the density of a rubber stamp pressed onto paper; there is no gradient, no shadow, no color-coded hierarchy — just ink-on-canvas confidence. Product cards sit on `{colors.surface-card}` with `{rounded.md}` softness, each one a quiet frame for the product image that dominates its area. The announcement bar runs full-width in `{colors.announcement-bg}` (#141414) with `{typography.announcement}` text in white, cycling through promotions with the cadence of a departures board. Category navigation uses oversized lifestyle imagery rather than icon glyphs, turning the mega-menu into a mood board. Size-inclusive quiz flows, prominent "Find Your Fit" CTAs, and trust badges ("Leak-proof," "Wire-free," "60-day trial") appear as first-class UI components rather than afterthoughts, reflecting a brand where conversion and body confidence are the same goal. Spacing is generous — `{spacing.section}` (64px) between content blocks, `{spacing.lg}` (24px) gutters — creating the breathing room of a magazine editorial spread rather than a cluttered marketplace. The overall sensation is of a dressing room with excellent lighting: minimal, warm, and designed to make you look at yourself rather than the furniture.
 
@@ -575,6 +579,13 @@ components:
 - Press logo bar scrolls horizontally on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

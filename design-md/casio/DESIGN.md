@@ -4,6 +4,10 @@ name: "Casio"
 source_url: "https://www.casio.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Forty years of LCD panel engineering left Casio's visual language shaped by the segmented digit — the seven-bar display that renders every numeral readable at arm's length under fluorescent light. That commitment to legibility under adverse conditions carries directly into the digital interface: a #cc0000 brand red concentrates every primary CTA onto a single high-energy frequency against white product fields, borrowing the hard contrast that makes a quartz display readable in direct sunlight. The nav band runs near-black (#0a0a0a), partitioning catalogue-brand authority from the white product-browsing space below — a structural device common in Japanese consumer electronics where the header functions as a second brand lockup, not merely a link cluster.
 
@@ -327,6 +331,13 @@ components:
 - Price and model number remain visible on card at all breakpoints; only secondary metadata (series name, short description) truncates
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

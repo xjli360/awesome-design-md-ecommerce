@@ -4,6 +4,10 @@ name: "Trunki"
 source_url: "https://www.trunki.co.uk/"
 captured_at: "2026-09-29T04:37:19.531217+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Trunki's storefront CSS exposes a compact root palette: white canvas
   (#ffffff), a deep navy foreground (#123b62) used for body copy, badge
@@ -140,6 +144,13 @@ components:
 Proposed breakpoints (not measured from rendered site): `sm` ≤480px (single-column product grid, stacked nav), `md` 481–768px (2-column grid, condensed nav), `lg` 769–1024px (3–4 column grid, full nav), `xl` ≥1025px (full desktop grid, multi-column footer). Touch targets should be ≥44px height for pill buttons and swatch pickers given the kids/parent audience. Navigation is expected to collapse into a hamburger/drawer pattern below `md`, and product filters/sort controls likely stack above the grid on narrow viewports. This table is a recommendation based on common ecommerce patterns, not an observation of Trunki's actual responsive CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This interpretation is derived from static CSS/text extraction only; no rendered layout, JavaScript-driven interactions, or mobile breakpoints were observed. The `--color-heading` variable (#80d2ec) has no confirmed visible-text usage in the supplied rules and is marked unverified. Several neutral grays (#ced4da, #6c757d, #495057, #80bdff) resemble generic framework/Bootstrap defaults and may not represent intentional brand choices; they are used sparingly and only where no clearer brand-specific value existed. Cookie-consent button colors (e.g., #e5e97e) and review-widget colors were explicitly excluded from brand-identity claims per guidance. Poppins is the only font with a verified `@font-face` declaration in evidence; Josefin Sans, Avenir Next Rounded, and other listed families are unconfirmed as to actual role or licensing. All pixel sizes in the typography scale are proposed, not measured. Component states (hover/focus/active beyond the two documented button hovers) and mobile navigation behavior are not observed and are labeled proposed throughout.

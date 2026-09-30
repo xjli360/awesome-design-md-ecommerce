@@ -4,6 +4,10 @@ name: "Meross"
 source_url: "https://meross.com"
 captured_at: "2026-09-28T04:56:53.505960+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Meross's site evidence shows a clean, light-mode Vue/Element-UI-based storefront with a
   saturated cyan-blue accent (#0097e0, with a slightly deeper #0d8ed6 used on hover states)
@@ -152,6 +156,13 @@ Recommendation only — no responsive/mobile layout was observed in the supplied
 Touch targets should be at least 44×44px; the pill button radius (`{rounded.full}`) and generous horizontal padding in the observed cookie button support this at desktop scale. The multi-column "submenu-full-screen" pattern observed in CSS should collapse to a vertical accordion below tablet width — this collapse behavior is proposed, not measured.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered layout, computed styles, or interaction states (hover/focus/active, form validation, mobile menu behavior) were directly observed. Several palette entries (e.g., success/warning/danger/info blues, greens, oranges, and grays) match default Element UI component-library colors rather than confirmed brand-specific choices, and are labeled as inferred semantic/status colors rather than verified brand identity. Button fill colors, hero section styling, footer background, product-card, and search-input styling were not present in the supplied CSS and are proposed patterns only. Font sizes not directly present in the supplied rules (display-xl, display-md, body-md, body-sm, caption) are proposed scale values, not measured. Availability, licensing, and web-font-loading behavior of the proprietary "CentraNo2" family were not verified. No breakpoint values or media queries were present in the supplied CSS; the responsive table above is a design recommendation only.

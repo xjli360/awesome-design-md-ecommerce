@@ -4,6 +4,10 @@ name: "Stix"
 source_url: "https://getstix.co"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Pregnancy tests have lived in sterile white boxes with black clinical type for fifty years — Stix built its entire visual language as a deliberate counter-argument to that experience. The primary voltage is a warm coral (#E8645A), appearing on every CTA button, hero accent wash, and illustrative detail, but the surrounding canvas stays a clean #FFFFFF with faint blush (#FDF0EE) section fills rather than pink-saturated backgrounds, keeping the palette legible rather than precious. Typography runs a geometric sans-serif at modest weights: display text sits at 36–48px in weight 600 rather than heavy 800, trusting whitespace and product photography over typographic muscle. Body copy steps cleanly to 16px/400 weight, giving clinical instruction copy the same breathing room as lifestyle editorial — the two register the same, which is the point. Rounded corners sit at `{rounded.full}` on all primary buttons and pill badges, and `{rounded.lg}` on product cards, quiz containers, and plan selectors, producing a vocabulary that reads reassuring rather than sharp. The navigation holds slim and white at 64px, collapsing cleanly to a hamburger on mobile without sacrificing the logo or cart icon. Product photography leans into warm neutral backgrounds — cream, soft white — with packaging centered and given generous padding, so the coral accent colors land with presence rather than competing against loud backdrops. Section-level spacing runs at `{spacing.section}` (64px) on desktop; mobile condenses to `{spacing.xxl}` (48px) without crowding. A quiz-driven product-recommendation flow is a signature interaction pattern: stepped cards with a progress bar in coral, full-width answer tiles that highlight with a 2px coral border on selection, and a result page that resolves to the correct test kit. The effect is a women's health brand that reads closer to a modern wellness startup than a pharmacy shelf — the coral signals energy and approachability, the white canvas signals clarity, and the pill-shaped vocabulary signals that this was designed by people who have actually taken a pregnancy test at 6 a.m. and wanted to feel less alone.
 
@@ -370,6 +374,13 @@ components:
 - Subscription plan cards → vertical stack (one card per row) on mobile, maintaining full border and selection state
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

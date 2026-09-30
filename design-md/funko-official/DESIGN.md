@@ -4,6 +4,10 @@ name: "Funko Official"
 source_url: "https://funko.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Dimbo-Italic — the stout, round-edged display slab used for every top-of-page headline — announces the brand's register before a single product image loads; those cartoon-adjacent letterforms are as deliberate a signal as the oversized vinyl heads themselves. The canvas splits between a deep charcoal #1d2124 header and a near-white #f3f3f7 body, staging product photography against a dim backdrop that reads as display-case lighting rather than lifestyle whitespace. Primary CTAs fire in one optic yellow (#fed555) — precisely the hue pressed onto physical Funko packaging — with dark #111111 ink on top rather than white, a counterintuitive choice that keeps the energy without reaching for contrast polish. ProximaNova handles all body and UI hierarchy across five weights (Regular through Black) plus two condensed cuts; the condensed variants compress category headers and sale callouts into tight horizontal bands suited for a catalog running to thousands of SKUs that must scan cleanly at mobile widths. Corners hold at {rounded.sm} on product cards and callout panels, {rounded.xs} on CTA buttons, and reach {rounded.full} only on filter chips — a restraint that distinguishes the store from lifestyle apps that pill-shape everything. Five accent colors carry semantic weight without announcement: red (#c92a1d) marks clearance and urgency; forest green (#008827) confirms availability and price drops; ocean blue (#0070cc) carries secondary links and interactive states; teal (#117a8b) marks collector-exclusive tiers; deep gold (#fec822) surfaces on premium and limited-edition callouts. The dark navy #1c1b37 hero and footer backdrop creates a theatric display-case quality — a spotlight void behind illuminated figures — rather than the neutral-warm canvas most DTC brands default to. Spacing runs generous for the category: {spacing.xl} gutters between product rows prevent the dense SKU grid from collapsing into noise, and {spacing.section} padded hero panels give editorial moments room to breathe against catalog density.
 
@@ -390,6 +394,13 @@ components:
 - Price display stacks sale and original price vertically at mobile rather than inline
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

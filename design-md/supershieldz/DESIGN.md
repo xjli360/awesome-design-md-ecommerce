@@ -4,6 +4,10 @@ name: "Supershieldz"
 source_url: "https://www.supershieldz.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep violet #221155 — the color of a late-summer Concord grape — is the single brand voltage that runs through every button, badge, and product highlight on Supershieldz. It appears against a stark white canvas (#ffffff) with almost no intermediary grays, creating a high-contrast, no-nonsense visual system that mirrors the brand's value proposition: screen protectors that are cheap, effective, and ship fast. The typography is a single-weight system built on system sans-serif stacks, with no custom font investment — the brand trusts its product photography and price tags to do the selling. Buttons are pill-shaped ({rounded.full}) and generously padded, making the CTA to "Add to Cart" feel like the easiest tap on the page. Product cards use a soft {rounded.md} corner and a clean white surface-card background, letting the protector's own packaging and the phone model it fits dominate the visual field. There is no hero imagery, no lifestyle photography — just rows of SKUs, each with a "Compatible With" label, a price in bold, and a star rating. The navigation is a thin, utilitarian strip: logo left, search bar center, cart icon right. The brand's design language is one of radical simplicity, where the deep violet acts as a signature stamp rather than a decorative accent.
 
@@ -254,6 +258,13 @@ components:
 - Footer columns stack vertically below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

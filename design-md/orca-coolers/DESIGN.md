@@ -4,6 +4,10 @@ name: "Orca Coolers"
 source_url: "https://orcacoolers.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A brand built on the tension between deep marine #3b4459 and a single, unflinching red #d02c2e — the kind of red you’d paint a rescue buoy or a fire extinguisher, not a marketing button. The canvas is #f4f4f4, a warm off-white that reads like weathered dock wood rather than sterile gallery white, and the entire system runs on Montserrat at modest weights, letting the product photography — ice-filled coolers on boat decks, tailgate spreads in golden hour light — carry the emotional weight. Signature moves include a gold accent #c6ad6f used sparingly on badge details and limited-edition hardware, a secondary green #108043 for “sustainable” or “BPA-free” callouts, and a caution-yellow #dd9a1a for warranty or safety tags. Every corner is either sharp ({rounded.none}) for structural elements like the nav bar and product grid, or generously pillowed ({rounded.full}) for CTAs and the search bar — there is no middle-radius compromise. The footer collapses into a dense, link-heavy stack on mobile, while the product card keeps its image-to-text ratio at roughly 3:1, with the red CTA floating at the bottom like a sealed latch.
 
@@ -438,6 +442,13 @@ components:
 - Related products section collapses from 4-column grid to 2-column grid on tablet, single column on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

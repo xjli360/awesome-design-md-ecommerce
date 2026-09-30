@@ -4,6 +4,10 @@ name: "Mogix"
 source_url: "https://www.mogixaccessories.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The product is a USB-C cable coiled inside a retail blister pack — Mogix lives entirely in the utility tier of phone accessories, where specs (cable gauge, wattage, compatibility chip) do more selling than visual style. That pragmatic honesty should shape the entire design system: a single assertive action color against a clean white canvas, dense product grids that echo an online tech shelf, and trust signals — compatibility badges, warranty callouts, certification marks — surfaced prominently rather than buried in footers. No live site tokens were extractable (the site appears to serve tokens via JavaScript or is behind bot-detection), so the palette and type stack below are inferred from the brand's public product presence rather than confirmed source CSS. The blue-forward primary (#0055aa, inferred) belongs to the family of colors tech-utility brands historically reach for — legible on white, assertive enough for CTAs, neutral enough not to clash with product photography on matte black, gray, or stark white backgrounds. Type is expected to run on a system sans-serif or clean geometric grotesque at weights 400–600; no custom display typeface has been documented. Layout follows a mobile-first grid where search and category filters compress into a bottom-sheet drawer below 744px, since most accessory discovery happens on the very phone being accessorized. Rounded corners stay conservative — `{rounded.sm}` for cards, `{rounded.md}` for modals — functional rather than playful. Cart and quick-add interactions should feel instantaneous: tap, brief confirmation micro-animation, done. A trust band placed beneath the hero, showing shipping-threshold callouts, secure-checkout icons, and return-policy copy, is the brand's primary purchase-anxiety reducer and must remain visible above the fold on desktop. The canvas is white (#ffffff) with a barely-tinted surface (#f5f6f8) for card wells and alternating section backgrounds. Ink (#1a1a1a) anchors all body copy.
 
@@ -343,6 +347,13 @@ components:
 - Trust band: four items remain inline at tablet and desktop; wraps to 2×2 icon grid on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

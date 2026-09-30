@@ -4,6 +4,10 @@ name: "Posh Peanut"
 source_url: "https://poshpeanut.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A soft, playful baby-and-family brand built on a distinctive teal-mint palette anchored by #087780 and #54bdb6, where rounded corners and generous white space create a gentle, trustworthy shopping experience. The brand's signature move is pairing deep charcoal ink (#343132) with these vibrant aqua tones, using the teal as both primary action color and decorative accent across buttons, badges, and product-card highlights. The canvas (#f4f4f6) stays light and airy, while muted tones (#676986, #9a9db1) provide subtle structure without competing with the colorful product photography. Buttons use a pill-like shape with {rounded.full} corners, and the search bar follows the same friendly radius — there are no sharp edges in the interface. The typography system relies on a clean sans-serif stack (inherit declarations suggest system fonts or a Shopify theme default), with display sizes kept moderate to let the product images lead. Product cards feature a soft {rounded.sm} corner, a clean white surface, and the teal accent appearing in sale badges, size-selector highlights, and add-to-cart buttons. The brand's secondary palette includes a warm blush (#d9f5f6), a deeper navy (#272d45), and a bright accent green (#00caaa) used sparingly for promotional elements. The overall feeling is one of calm, trustworthy playfulness — the digital equivalent of a well-designed nursery where every edge has been softened and every color chosen to feel both cheerful and safe.
 
@@ -386,6 +390,13 @@ components:
 - Multi-column layouts (product grids, feature sections) collapse to single column below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

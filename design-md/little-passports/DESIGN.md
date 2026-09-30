@@ -4,6 +4,10 @@ name: "Little Passports"
 source_url: "https://www.littlepassports.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep navy anchor (#20366a) grounds the entire experience, appearing in the top navigation, footer backgrounds, and primary button fills — a color choice that signals trust and the weight of world exploration for a young audience. Against this, a bright cyan accent (#00b3f0) and a warm coral (#f05636) create a playful, energetic counterpoint, often used for interactive elements like hover states, secondary buttons, and illustrative accents. The brand’s typography mixes a custom display font, Kookie, for headlines and playful moments, with Poppins for body text and UI labels, creating a contrast between whimsy and readability. Rounded corners are generous but not pill-like — cards and buttons use a consistent 12px radius (`{rounded.md}`), while larger containers like the hero section’s call-to-action panel use 20px (`{rounded.lg}`). The overall layout is airy, with generous whitespace and a clean white canvas (`#ffffff`) that lets the navy and accent colors breathe. Illustrations and photography of children engaged in hands-on activities are central to the brand’s storytelling, often framed by soft, rounded corners and subtle drop shadows. The design feels approachable and educational without being childish — the navy provides authority, the coral injects energy, and the cyan suggests discovery and digital-native interaction.
 
@@ -358,6 +362,13 @@ components:
 - Search functionality shifts from an inline bar to a full-screen overlay on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

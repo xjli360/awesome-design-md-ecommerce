@@ -4,6 +4,10 @@ name: "Optima Batteries"
 source_url: "https://optimabatteries.com"
 captured_at: "2026-09-29T03:59:32.944901+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Optima Batteries presents a dark, high-contrast storefront running on a Salesforce
   Commerce/Experience Cloud stack (visible via slds-, dxp-, and lwc- prefixed
@@ -167,6 +171,9 @@ Recommended (not measured) breakpoints:
 Touch targets should be at least 44×44px for finder dropdowns and nav buttons. The mobile nav close button and hamburger lines observed in CSS imply a slide-in or overlay pattern on small screens; exact animation, breakpoint values, and collapse thresholds are proposed defaults, not measured from live responsive testing.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

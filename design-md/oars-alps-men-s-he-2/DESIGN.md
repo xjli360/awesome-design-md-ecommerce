@@ -4,6 +4,10 @@ name: "Oars + Alps"
 source_url: "https://oarsandalps.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep navy ink (#1f2021) anchors a brand that lives at the intersection of outdoor performance and deliberate grooming, where the color story reads like a tide chart — teal accents (#025776, #037ca8, #69ced7) pulse through CTAs and product badges against a canvas of pale gray (#f6f6f6) and white. The brand's signature voltage is a sharp coral-red (#d02e2e) that appears sparingly on sale badges and error states, providing the only warm interruption to an otherwise cool, oceanic palette. Type runs Fabriga and Fabrica Regular — clean, utilitarian sans-serifs with modest weight contrast (400–700) that never compete with the product photography. Buttons use tight 8px radii (`{rounded.sm}`) and compact 40px heights, favoring efficiency over pill-shaped friendliness; the brand trusts its deep teal primary to do the heavy lifting rather than oversized tap targets. Product cards sit on white surfaces with thin hairline borders (`{colors.hairline}`), while the persistent top nav uses the full-width ink background — a rare choice for a DTC brand, signaling authority and premium shelf presence rather than airy discovery. The result is a system that feels less like a lifestyle blog and more like a well-edited gear shop: organized, confident, and built for repeat purchase.
 
@@ -404,6 +408,13 @@ components:
 - Product detail page reorders: images stack vertically, add-to-cart section moves below fold on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

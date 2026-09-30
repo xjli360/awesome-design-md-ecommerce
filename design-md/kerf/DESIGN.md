@@ -4,6 +4,10 @@ name: "Kerf"
 source_url: "https://www.kerfcase.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The first thing a visitor registers on kerfcase.com is absence — no gradient hero, no overlapping type lockup, no badge confetti. A single burnt-sienna mark (#B5452D), the exact red-oxide tone of freshly planed padauk heartwood, anchors the logotype at the top of an otherwise achromatic page and then steps back so that full-bleed walnut grain and cherry figure can flood the viewport unchallenged. The white canvas ({colors.canvas}) runs unbroken from a slim sticky nav through the product grid to a hard transition into a near-black footer ({colors.footer-bg}), producing the visual equivalent of clean joinery — two flat planes meeting at a precise line. Typography leans on the operating system's native sans-serif stack, arriving crisp at every weight without a custom webfont download; headlines land at weight 700 with negative tracking but never exceed 40 px, trusting generous whitespace rather than scale to command attention. Navigation labels carry light letter-spacing ({typography.nav-link}) that reads as engineered calm — appropriate for a brand named after the exact width of material a saw blade removes, measured in thousandths of an inch. Corner radii stay near zero: `{rounded.xs}` (2 px) on buttons and inputs, `{rounded.none}` on product cards, reinforcing the straight-edge workshop aesthetic. The single exception is the wood-species swatch, a `{rounded.full}` circle that previews each timber's natural color on the product detail page. Product imagery dominates every layout — cards show a 1:1 square crop, hero banners stretch to at least 560 px, and the collection grid leaves no decorative filler between frames. The palette is intentionally binary: deep ink (#1A1A1A) for text and primary buttons, white for everything behind them, with #B5452D reserved as a sparing signature on the logotype and the occasional sale tag. Feature cards separate on a warm off-white surface ({colors.surface-soft}, #F7F5F3) without introducing a competing hue. The result reads less like a tech-accessory store and more like a furniture maker's portfolio — serious about material, indifferent to trend.
 
@@ -422,6 +426,13 @@ components:
 - The wood-species swatch row scrolls horizontally if more than 5 species are available on a narrow viewport.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

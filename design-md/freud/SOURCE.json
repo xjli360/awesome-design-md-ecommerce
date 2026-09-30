@@ -30,32 +30,16 @@
     }
   ],
   "colors": {
-    "#ffffff": {
-      "count": 102,
-      "sources": [
-        "https://www.freudtools.com/",
-        "https://www.freudtools.com/#computed-style-snapshot"
-      ]
-    },
     "#000000": {
       "count": 28,
       "sources": [
-        "https://www.freudtools.com/",
-        "https://www.freudtools.com/#computed-style-snapshot"
+        "https://www.freudtools.com/"
       ]
     },
-    "#999999": {
-      "count": 20,
+    "#ffffff": {
+      "count": 102,
       "sources": [
-        "https://www.freudtools.com/",
-        "https://www.freudtools.com/#computed-style-snapshot"
-      ]
-    },
-    "#dddddd": {
-      "count": 16,
-      "sources": [
-        "https://www.freudtools.com/",
-        "https://www.freudtools.com/#computed-style-snapshot"
+        "https://www.freudtools.com/"
       ]
     },
     "#555555": {
@@ -64,21 +48,8 @@
         "https://www.freudtools.com/"
       ]
     },
-    "#333333": {
-      "count": 10,
-      "sources": [
-        "https://www.freudtools.com/",
-        "https://www.freudtools.com/#computed-style-snapshot"
-      ]
-    },
-    "#eeeeee": {
-      "count": 6,
-      "sources": [
-        "https://www.freudtools.com/"
-      ]
-    },
-    "#282828": {
-      "count": 6,
+    "#dddddd": {
+      "count": 16,
       "sources": [
         "https://www.freudtools.com/"
       ]
@@ -89,68 +60,8 @@
         "https://www.freudtools.com/"
       ]
     },
-    "#bbbbbb": {
-      "count": 4,
-      "sources": [
-        "https://www.freudtools.com/"
-      ]
-    },
-    "#cccccc": {
-      "count": 3,
-      "sources": [
-        "https://www.freudtools.com/"
-      ]
-    },
-    "#f8f8f8": {
-      "count": 3,
-      "sources": [
-        "https://www.freudtools.com/"
-      ]
-    },
-    "#7d7e7d": {
-      "count": 3,
-      "sources": [
-        "https://www.freudtools.com/"
-      ]
-    },
-    "#f5f5f5": {
-      "count": 3,
-      "sources": [
-        "https://www.freudtools.com/"
-      ]
-    },
-    "#0e0e0e": {
-      "count": 2,
-      "sources": [
-        "https://www.freudtools.com/"
-      ]
-    },
-    "#222222": {
-      "count": 2,
-      "sources": [
-        "https://www.freudtools.com/"
-      ]
-    },
-    "#4f5d75": {
-      "count": 2,
-      "sources": [
-        "https://www.freudtools.com/"
-      ]
-    },
-    "#fefefe": {
-      "count": 1,
-      "sources": [
-        "https://www.freudtools.com/"
-      ]
-    },
-    "#888888": {
-      "count": 1,
-      "sources": [
-        "https://www.freudtools.com/"
-      ]
-    },
-    "#404040": {
-      "count": 1,
+    "#eeeeee": {
+      "count": 6,
       "sources": [
         "https://www.freudtools.com/"
       ]
@@ -161,37 +72,31 @@
         "https://www.freudtools.com/"
       ]
     },
-    "#3b3b3b": {
-      "count": 1,
+    "#333333": {
+      "count": 10,
       "sources": [
         "https://www.freudtools.com/"
       ]
     },
-    "#535353": {
-      "count": 1,
+    "#f8f8f8": {
+      "count": 3,
       "sources": [
         "https://www.freudtools.com/"
       ]
     },
-    "#e8e8e8": {
-      "count": 1,
+    "#282828": {
+      "count": 6,
       "sources": [
         "https://www.freudtools.com/"
       ]
     },
-    "#ffff00": {
-      "count": 1,
+    "#4f5d75": {
+      "count": 2,
       "sources": [
         "https://www.freudtools.com/"
       ]
     },
-    "#ff00ff": {
-      "count": 1,
-      "sources": [
-        "https://www.freudtools.com/"
-      ]
-    },
-    "#fafafa": {
+    "#505050cc": {
       "count": 1,
       "sources": [
         "https://www.freudtools.com/"
@@ -205,38 +110,20 @@
     }
   },
   "font_families": {
-    "Arial": [
-      "https://www.freudtools.com/#computed-style-snapshot"
-    ],
-    "Font Awesome\\ 6 Brands": [
-      "https://www.freudtools.com/"
-    ],
-    "Font Awesome\\ 6 Free": [
-      "https://www.freudtools.com/"
-    ],
-    "Montserrat": [
-      "https://www.freudtools.com/"
-    ],
     "Nunito": [
-      "https://www.freudtools.com/",
-      "https://fonts.googleapis.com/css?family=Nunito:600,800",
-      "https://www.freudtools.com/#computed-style-snapshot"
-    ],
-    "Times": [
       "https://www.freudtools.com/"
     ],
-    "Times New Roman": [
+    "sans-serif": [
       "https://www.freudtools.com/"
     ],
     "nexa": [
       "https://www.freudtools.com/"
     ],
-    "sans-serif": [
-      "https://www.freudtools.com/",
-      "https://www.freudtools.com/#computed-style-snapshot"
-    ],
-    "serif": [
+    "Montserrat": [
       "https://www.freudtools.com/"
+    ],
+    "Arial": [
+      "https://www.freudtools.com/#computed-style-snapshot"
     ]
   },
   "css_rules": [
@@ -353,10 +240,11 @@
       "sha256": "534d969b2e19c08a39dd8363c57a9314bc1ba2e76af20c5fa83a2127f3f44df1"
     }
   ],
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "remaining-20260929",
   "tokens": {
     "colors.primary": {
+      "value": "#4f5d75",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -364,30 +252,31 @@
       ]
     },
     "colors.ink": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.freudtools.com/",
-        "https://www.freudtools.com/#computed-style-snapshot"
+        "https://www.freudtools.com/"
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.freudtools.com/",
-        "https://www.freudtools.com/#computed-style-snapshot"
+        "https://www.freudtools.com/"
       ]
     },
     "colors.body": {
+      "value": "#333333",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.freudtools.com/",
-        "https://www.freudtools.com/#computed-style-snapshot"
+        "https://www.freudtools.com/"
       ]
     },
     "colors.muted": {
+      "value": "#767676",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -395,14 +284,15 @@
       ]
     },
     "colors.hairline": {
+      "value": "#dddddd",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.freudtools.com/",
-        "https://www.freudtools.com/#computed-style-snapshot"
+        "https://www.freudtools.com/"
       ]
     },
     "colors.surface-soft": {
+      "value": "#f8f8f8",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -410,22 +300,23 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.freudtools.com/",
-        "https://www.freudtools.com/#computed-style-snapshot"
+        "https://www.freudtools.com/"
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.freudtools.com/",
-        "https://www.freudtools.com/#computed-style-snapshot"
+        "https://www.freudtools.com/"
       ]
     },
     "colors.surface-dark": {
+      "value": "#282828",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -433,6 +324,7 @@
       ]
     },
     "colors.accent-info": {
+      "value": "#2196f3",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -440,6 +332,7 @@
       ]
     },
     "colors.neutral-mid": {
+      "value": "#a3a3a3",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -447,6 +340,7 @@
       ]
     },
     "colors.neutral-btn": {
+      "value": "#555555",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -454,6 +348,7 @@
       ]
     },
     "colors.border-light": {
+      "value": "#eeeeee",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -461,110 +356,401 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "nexa, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "-0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 700,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "Nunito, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Nunito, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 700,
+        "lineHeight": 1,
+        "letterSpacing": "1px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-dark}",
+        "overlay": "rgba(80,80,80,.8)",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-md}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-dark}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.neutral-btn}",
+        "padding": "{spacing.xl} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.neutral-btn}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "border": "1px solid {colors.hairline}",
+        "accentButton": "{colors.primary}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}"
+      },
       "status": "inferred"
     },
     "components.product-spec-table": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "hairline": "{colors.hairline}",
+        "headerTextColor": "{colors.ink}",
+        "valueTextColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#000000": {
+        "selector": ".x-modal[data-v-86b60bd4]",
+        "property": "background-color",
+        "declaration": "#000",
+        "url": "https://www.freudtools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d76f0eebcd9cd5007d0193fd22eb0de89b716fb45c954cec56dac92162ea22cf"
+      },
+      "#ffffff": {
+        "selector": ".x-modal .x-modal-footer[data-v-86b60bd4]",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://www.freudtools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d76f0eebcd9cd5007d0193fd22eb0de89b716fb45c954cec56dac92162ea22cf"
+      },
+      "#555555": {
+        "selector": ".x-search-nav-drop .s-results[data-v-60e3daaf]",
+        "property": "color",
+        "declaration": "#555",
+        "url": "https://www.freudtools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d76f0eebcd9cd5007d0193fd22eb0de89b716fb45c954cec56dac92162ea22cf"
+      },
+      "#dddddd": {
+        "selector": ".x-nav-menu-no-panels .title[data-v-eed61a0e]",
+        "property": "text-shadow",
+        "declaration": "1px 1px 1px #ddd",
+        "url": "https://www.freudtools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d76f0eebcd9cd5007d0193fd22eb0de89b716fb45c954cec56dac92162ea22cf"
+      },
+      "#a3a3a3": {
+        "selector": ".x-nav-menu-boxes .sd1 .sd1-link[data-v-0dce3c93]",
+        "property": "background",
+        "declaration": "#a3a3a3",
+        "url": "https://www.freudtools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d76f0eebcd9cd5007d0193fd22eb0de89b716fb45c954cec56dac92162ea22cf"
+      },
+      "#eeeeee": {
+        "selector": ".x-redefining-recip-banner[data-v-088949f6]",
+        "property": "background",
+        "declaration": "#eee",
+        "url": "https://www.freudtools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d76f0eebcd9cd5007d0193fd22eb0de89b716fb45c954cec56dac92162ea22cf"
+      },
+      "#2196f3": {
+        "selector": ".container input:checked~.checkmark[data-v-3eb3e7d8]",
+        "property": "background-color",
+        "declaration": "#2196f3",
+        "url": "https://www.freudtools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d76f0eebcd9cd5007d0193fd22eb0de89b716fb45c954cec56dac92162ea22cf"
+      },
+      "#333333": {
+        "selector": "a.dark[data-v-b128dc24],table[data-v-b128dc24]",
+        "property": "color",
+        "declaration": "#333",
+        "url": "https://www.freudtools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d76f0eebcd9cd5007d0193fd22eb0de89b716fb45c954cec56dac92162ea22cf"
+      },
+      "#f8f8f8": {
+        "selector": "#x-navigation.diablotools #x-nav-desktop-menu .nav-container[data-v-72e0d6cb]",
+        "property": "background",
+        "declaration": "#f8f8f8",
+        "url": "https://www.freudtools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d76f0eebcd9cd5007d0193fd22eb0de89b716fb45c954cec56dac92162ea22cf"
+      },
+      "#282828": {
+        "selector": "#x-navigation.freudtools .nav-top[data-v-72e0d6cb]",
+        "property": "background-color",
+        "declaration": "#282828",
+        "url": "https://www.freudtools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d76f0eebcd9cd5007d0193fd22eb0de89b716fb45c954cec56dac92162ea22cf"
+      },
+      "#4f5d75": {
+        "selector": ".x-home-cube .icon-rocket[data-v-7056c376]",
+        "property": "color",
+        "declaration": "#4f5d75",
+        "url": "https://www.freudtools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d76f0eebcd9cd5007d0193fd22eb0de89b716fb45c954cec56dac92162ea22cf"
+      },
+      "#505050cc": {
+        "selector": ".headline-slider .headline-body[data-v-7056c376]",
+        "property": "background",
+        "declaration": "rgba(80,80,80,.8)",
+        "url": "https://www.freudtools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d76f0eebcd9cd5007d0193fd22eb0de89b716fb45c954cec56dac92162ea22cf"
+      },
+      "#767676": {
+        "selector": ".sample-21-input",
+        "property": "border-top-color",
+        "declaration": "rgb(118, 118, 118)",
+        "url": "https://www.freudtools.com/#computed-style-snapshot",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "97054b0ef2bcea0d89ce49f408a325eef31a97d20eceadff8ba194253e58c5bb"
+      }
+    },
+    "font_families": {
+      "Nunito": {
+        "selector": "#x-footer",
+        "property": "font-family",
+        "declaration": "Nunito,sans-serif",
+        "url": "https://www.freudtools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d76f0eebcd9cd5007d0193fd22eb0de89b716fb45c954cec56dac92162ea22cf"
+      },
+      "sans-serif": {
+        "selector": "#x-footer",
+        "property": "font-family",
+        "declaration": "Nunito,sans-serif",
+        "url": "https://www.freudtools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d76f0eebcd9cd5007d0193fd22eb0de89b716fb45c954cec56dac92162ea22cf"
+      },
+      "nexa": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "nexa",
+        "url": "https://www.freudtools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d76f0eebcd9cd5007d0193fd22eb0de89b716fb45c954cec56dac92162ea22cf"
+      },
+      "Montserrat": {
+        "selector": ".lr-homepage-wrapper p[data-v-7056c376]",
+        "property": "font-family",
+        "declaration": "Montserrat,sans-serif",
+        "url": "https://www.freudtools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d76f0eebcd9cd5007d0193fd22eb0de89b716fb45c954cec56dac92162ea22cf"
+      },
+      "Arial": {
+        "selector": ".sample-21-input",
+        "property": "font-family",
+        "declaration": "Arial",
+        "url": "https://www.freudtools.com/#computed-style-snapshot",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "97054b0ef2bcea0d89ce49f408a325eef31a97d20eceadff8ba194253e58c5bb"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

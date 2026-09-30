@@ -4,6 +4,10 @@ name: "Stock Tank Pool"
 source_url: "https://www.stocktankpool.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Galvanized steel — the material of livestock operations and farm infrastructure — gets recast here as a backyard aspiration object, and the extracted color palette mirrors that tension precisely. The most distinctive non-framework color in the set is `#bcff05`, an electric lime that sits nowhere on a conventional pool company's palette; it fires as a voltage accent against the deep navy-teal `#11262f`, a pairing that reads more surf-brand than spa catalog. The primary green `#2aa527` carries primary CTAs — vivid enough to signal action, natural enough to stay coherent with the brand's outdoor-hardware origin. Mid-tone grays `#a3abb5`, `#b1b8be`, `#d2d6da` form a galvanized-steel gradient that maps directly onto the product's surface finish, creating an unintentional but useful material resonance between the UI neutral scale and the thing being sold. Light surfaces at `{colors.surface-soft}` (`#f3f6f8`) and `{colors.surface-card}` (`#f0f3f6`) register as cloud-gray rather than white-room, keeping the canvas warm-adjacent without slipping into beige. No custom typeface loads on the live domain — it is currently a HugeDomains parking page — so the system falls back to Roboto and the system UI stack, which suits a direct-sell, hardware-focused commerce context. Buttons sit at `{rounded.lg}` — human but not pill-soft — and product photography carries the persuasion load rather than display type. The `{colors.accent}` lime paired with `{colors.deep-teal}` on promo strips and hero CTAs is the single loudest brand differentiator in the system: no traditional pool installer would publish that combination, which is exactly the point.
 
@@ -360,6 +364,13 @@ components:
 - Promo strip text truncates with ellipsis on screens < 375px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

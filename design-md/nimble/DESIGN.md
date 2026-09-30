@@ -4,6 +4,10 @@ name: "Nimble"
 source_url: "https://www.gonimble.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A tech brand that wraps its sustainable-materials mission in a cyan #00bbff voltage — the single electric accent that charges every primary CTA, progress indicator, and product-highlight badge against a mostly neutral canvas of #cacac8, #dedede, and #ffffff. The palette reads like a workshop floor: warm browns (#5f3f3f, #64162e) for leather-goods accents, muted sage (#708270) for plant-based materials, and a deep navy (#081d4e) for footer authority, all grounded by a near-black #212322 for body text. Acumin Pro runs the typography at moderate weights — display sits at 24–32px in weight 400/600 rather than heavy 700+ — letting material textures and product photography carry the emotional load. Buttons are softly rectangular ({rounded.sm} ~6px), product cards use a gentle {rounded.md} ~12px, and the search bar adopts a pill shape ({rounded.full}) that echoes the brand's "smooth, rounded" product design language. The nav bar stays transparent-to-white on scroll, with a thin {colors.hairline} bottom border that separates without shouting. Badges appear in both {colors.primary} cyan for "New" and a warm {colors.primary-active} #0064cd for "Bestseller," while sustainability callouts use a sage #708270 chip. The overall feeling is conscientious but not precious — a workshop aesthetic where every corner has a purpose and every color has a material origin story.
 
@@ -388,6 +392,13 @@ components:
 - Search bar collapses from full-width to icon-only on mobile, expanding on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

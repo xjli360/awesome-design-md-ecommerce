@@ -4,6 +4,10 @@ name: "Sanzo"
 source_url: "https://drinksanzo.com"
 captured_at: "2026-09-28T10:05:18.980838+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Sanzo's public storefront evidence points to a bold, culturally-rooted beverage
   brand built around a deep magenta/burgundy announcement bar (#8d164e) paired
@@ -158,6 +162,13 @@ components:
 Proposed breakpoints (not measured): mobile ≤480px, tablet 481–768px, desktop 769–1200px, wide ≥1201px. Navigation is expected to collapse into a hamburger/off-canvas menu below tablet width; the flavor grid likely reflows from a multi-column desktop layout to 2-column tablet and single-column mobile stacks. Touch targets for buttons and swatches should maintain a minimum 44px hit area. Announcement bar height (40px, observed) is likely fixed across breakpoints but may wrap text on narrow viewports. This section is a recommendation based on common ecommerce patterns, not verified against live responsive behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

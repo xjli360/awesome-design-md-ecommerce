@@ -54,33 +54,31 @@
     }
   ],
   "colors": {
-    "#ffffff": {
-      "count": 8,
-      "sources": [
-        "https://www.rumispice.com/",
-        "https://www.rumispice.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://www.rumispice.com/cdn/shop/t/51/assets/base.css?v=176079619892734163591722353144"
-      ]
-    },
-    "#251c14": {
-      "count": 8,
-      "sources": [
-        "https://www.rumispice.com/"
-      ]
-    },
     "#fef7e5": {
       "count": 4,
       "sources": [
         "https://www.rumispice.com/"
       ]
     },
-    "#ffffff00": {
-      "count": 3,
+    "#ffffff": {
+      "count": 8,
       "sources": [
-        "https://www.rumispice.com/cdn/shop/t/51/assets/base.css?v=176079619892734163591722353144"
+        "https://www.rumispice.com/"
+      ]
+    },
+    "#f2b41c": {
+      "count": 2,
+      "sources": [
+        "https://www.rumispice.com/"
       ]
     },
     "#f4edd8": {
+      "count": 2,
+      "sources": [
+        "https://www.rumispice.com/"
+      ]
+    },
+    "#000000": {
       "count": 2,
       "sources": [
         "https://www.rumispice.com/"
@@ -98,93 +96,8 @@
         "https://www.rumispice.com/"
       ]
     },
-    "#f2b41c": {
-      "count": 2,
-      "sources": [
-        "https://www.rumispice.com/"
-      ]
-    },
-    "#000000": {
-      "count": 2,
-      "sources": [
-        "https://www.rumispice.com/",
-        "https://www.rumispice.com/cdn/shop/t/51/assets/base.css?v=176079619892734163591722353144"
-      ]
-    },
-    "#00000000": {
-      "count": 2,
-      "sources": [
-        "https://www.rumispice.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
-    "#dedede": {
-      "count": 2,
-      "sources": [
-        "https://www.rumispice.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
-    "#0000000d": {
-      "count": 2,
-      "sources": [
-        "https://www.rumispice.com/cdn/shop/t/51/assets/base.css?v=176079619892734163591722353144"
-      ]
-    },
-    "#333333": {
-      "count": 2,
-      "sources": [
-        "https://www.rumispice.com/cdn/shop/t/51/assets/base.css?v=176079619892734163591722353144"
-      ]
-    },
-    "#0071ce": {
-      "count": 1,
-      "sources": [
-        "https://www.rumispice.com/"
-      ]
-    },
-    "#1c1c1c": {
-      "count": 1,
-      "sources": [
-        "https://www.rumispice.com/"
-      ]
-    },
-    "#232323": {
-      "count": 1,
-      "sources": [
-        "https://www.rumispice.com/"
-      ]
-    },
-    "#eb001b": {
-      "count": 1,
-      "sources": [
-        "https://www.rumispice.com/"
-      ]
-    },
-    "#f79e1b": {
-      "count": 1,
-      "sources": [
-        "https://www.rumispice.com/"
-      ]
-    },
-    "#ff5f00": {
-      "count": 1,
-      "sources": [
-        "https://www.rumispice.com/"
-      ]
-    },
-    "#142fbd": {
-      "count": 1,
-      "sources": [
-        "https://www.rumispice.com/"
-      ]
-    },
-    "#1532cb": {
-      "count": 1,
-      "sources": [
-        "https://www.rumispice.com/"
-      ]
-    },
-    "#f48720": {
-      "count": 1,
+    "#251c14": {
+      "count": 8,
       "sources": [
         "https://www.rumispice.com/"
       ]
@@ -195,14 +108,8 @@
         "https://www.rumispice.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
       ]
     },
-    "#136f99": {
-      "count": 1,
-      "sources": [
-        "https://www.rumispice.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
-    "#121212": {
-      "count": 1,
+    "#dedede": {
+      "count": 2,
       "sources": [
         "https://www.rumispice.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
       ]
@@ -213,20 +120,8 @@
         "https://www.rumispice.com/cdn/shop/t/51/assets/base.css?v=176079619892734163591722353144"
       ]
     },
-    "#f8ebcb": {
-      "count": 1,
-      "sources": [
-        "https://www.rumispice.com/cdn/shop/t/51/assets/base.css?v=176079619892734163591722353144"
-      ]
-    },
-    "#007bff": {
-      "count": 1,
-      "sources": [
-        "https://www.rumispice.com/cdn/shop/t/51/assets/base.css?v=176079619892734163591722353144"
-      ]
-    },
-    "#0056b3": {
-      "count": 1,
+    "#333333": {
+      "count": 2,
       "sources": [
         "https://www.rumispice.com/cdn/shop/t/51/assets/base.css?v=176079619892734163591722353144"
       ]
@@ -235,9 +130,6 @@
   "font_families": {
     "Open Sans": [
       "https://www.rumispice.com/"
-    ],
-    "object-fit: contain": [
-      "https://www.rumispice.com/cdn/shop/t/51/assets/component-predictive-search.css?v=118923337488134913561721393352"
     ]
   },
   "css_rules": [
@@ -398,10 +290,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Rumi Spice: Directly sourced spices from Afghanistan",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-300",
   "tokens": {
     "colors.primary": {
+      "value": "#e65300",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -409,6 +302,7 @@
       ]
     },
     "colors.ink": {
+      "value": "#251c14",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -416,6 +310,7 @@
       ]
     },
     "colors.canvas": {
+      "value": "#fef7e5",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -423,6 +318,7 @@
       ]
     },
     "colors.body": {
+      "value": "#251c14",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -430,6 +326,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#333333",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -437,6 +334,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#dedede",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -444,6 +342,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#f4edd8",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -451,6 +350,7 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#fdf9f2",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -458,15 +358,15 @@
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.rumispice.com/",
-        "https://www.rumispice.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://www.rumispice.com/cdn/shop/t/51/assets/base.css?v=176079619892734163591722353144"
+        "https://www.rumispice.com/"
       ]
     },
     "colors.accent-gold": {
+      "value": "#f2b41c",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -474,6 +374,7 @@
       ]
     },
     "colors.overlay": {
+      "value": "#00000080",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -481,6 +382,7 @@
       ]
     },
     "colors.payment-accent": {
+      "value": "#1990c6",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -488,110 +390,361 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.3px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 600,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0.6px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0.4px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 500,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1,
+        "letterSpacing": "0.6px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairlineColor": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.canvas}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "placeholderColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.sourcing-trust-strip": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "accentColor": "{colors.accent-gold}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.lg} {spacing.base}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#fef7e5": {
+        "selector": ":root,\n        .color-background-1",
+        "property": "--gradient-background",
+        "declaration": "#fef7e5",
+        "url": "https://www.rumispice.com/",
+        "snapshot": "homepage.html",
+        "sha256": "47749a3b1da8f5f3f5f8a0ca442209df9ab311a9b85d0e3ab2504e7f13eb09d6"
+      },
+      "#ffffff": {
+        "selector": ".color-background-2",
+        "property": "--gradient-background",
+        "declaration": "#ffffff",
+        "url": "https://www.rumispice.com/",
+        "snapshot": "homepage.html",
+        "sha256": "47749a3b1da8f5f3f5f8a0ca442209df9ab311a9b85d0e3ab2504e7f13eb09d6"
+      },
+      "#f2b41c": {
+        "selector": ".color-inverse",
+        "property": "--gradient-background",
+        "declaration": "linear-gradient(127deg, rgba(242, 180, 28, 1) 11%, rgba(244, 135, 32, 1) 81%)",
+        "url": "https://www.rumispice.com/",
+        "snapshot": "homepage.html",
+        "sha256": "47749a3b1da8f5f3f5f8a0ca442209df9ab311a9b85d0e3ab2504e7f13eb09d6"
+      },
+      "#f4edd8": {
+        "selector": ".color-accent-2",
+        "property": "--gradient-background",
+        "declaration": "#f4edd8",
+        "url": "https://www.rumispice.com/",
+        "snapshot": "homepage.html",
+        "sha256": "47749a3b1da8f5f3f5f8a0ca442209df9ab311a9b85d0e3ab2504e7f13eb09d6"
+      },
+      "#000000": {
+        "selector": ".color-scheme-6665bf77-95e8-4108-84b8-e089a7bd0038",
+        "property": "--payment-terms-background-color",
+        "declaration": "rgb(0 0 0)",
+        "url": "https://www.rumispice.com/",
+        "snapshot": "homepage.html",
+        "sha256": "47749a3b1da8f5f3f5f8a0ca442209df9ab311a9b85d0e3ab2504e7f13eb09d6"
+      },
+      "#e65300": {
+        "selector": ".color-scheme-63aa04e6-f45f-41e7-97e2-55d51bf0cfbf",
+        "property": "--gradient-background",
+        "declaration": "#e65300",
+        "url": "https://www.rumispice.com/",
+        "snapshot": "homepage.html",
+        "sha256": "47749a3b1da8f5f3f5f8a0ca442209df9ab311a9b85d0e3ab2504e7f13eb09d6"
+      },
+      "#fdf9f2": {
+        "selector": ".color-scheme-e6261c12-9371-4b88-8390-e21a2bb5d838",
+        "property": "--gradient-background",
+        "declaration": "#fdf9f2",
+        "url": "https://www.rumispice.com/",
+        "snapshot": "homepage.html",
+        "sha256": "47749a3b1da8f5f3f5f8a0ca442209df9ab311a9b85d0e3ab2504e7f13eb09d6"
+      },
+      "#251c14": {
+        "selector": ".color-scheme-f7e7af0c-47fe-4356-9782-58c65c862134",
+        "property": "--gradient-background",
+        "declaration": "#251c14",
+        "url": "https://www.rumispice.com/",
+        "snapshot": "homepage.html",
+        "sha256": "47749a3b1da8f5f3f5f8a0ca442209df9ab311a9b85d0e3ab2504e7f13eb09d6"
+      },
+      "#1990c6": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#1990c6",
+        "url": "https://www.rumispice.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://www.rumispice.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#00000080": {
+        "selector": ".animate--hover-3d-lift .card-wrapper:hover .card--card,.animate--hover-3d-lift .card-wrapper:hover .card--standard .card__inner,.animate--hover-3d-lift .button:not(.button--tertiary):not([disabled]):hover,.animate--hover-3d-lift .shopify-challenge__button:not([disabled]):hover,.animate--hover-3d-li",
+        "property": "box-shadow",
+        "declaration": "-1rem -1rem 1rem -1rem #0000000d,1rem 1rem 1rem -1rem #0000000d,0 0 .5rem #fff0,0 2rem 3.5rem -2rem #00000080",
+        "url": "https://www.rumispice.com/cdn/shop/t/51/assets/base.css?v=176079619892734163591722353144",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "8ffc7736a943185b7c1acfba0bcbca7ced3d0c3908d54ba01fe7a6df24364941"
+      },
+      "#333333": {
+        "selector": ".breadcrumb a",
+        "property": "color",
+        "declaration": "#333",
+        "url": "https://www.rumispice.com/cdn/shop/t/51/assets/base.css?v=176079619892734163591722353144",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "8ffc7736a943185b7c1acfba0bcbca7ced3d0c3908d54ba01fe7a6df24364941"
+      }
+    },
+    "font_families": {
+      "Open Sans": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Open Sans\"",
+        "url": "https://www.rumispice.com/",
+        "snapshot": "homepage.html",
+        "sha256": "47749a3b1da8f5f3f5f8a0ca442209df9ab311a9b85d0e3ab2504e7f13eb09d6"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

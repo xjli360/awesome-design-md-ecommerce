@@ -4,6 +4,10 @@ name: "Hey Maeve"
 source_url: "https://www.heymaeve.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Ovo serif — an old-style typeface with the gentle stroke contrast of hand-lettering — carries every headline at Hey Maeve, a choice that immediately separates it from the grotesque-heavy pack of DTC accessories brands. That editorial gravity anchors a palette of studied softness: the hero action color is a dusty rose (#c87480), muted enough to read as elegant against the near-white canvas (#f8fafc) rather than saccharine. Blush surfaces (#f0dede) appear as background washes behind editorial and collection headers — the same pink family as the primary, but dialed down to a whisper. Near-black (#121212) stands in for true black everywhere text runs long, shaving the harshest edge off high-contrast screens. Ink-level grays (#374151, #64748b) handle metadata and secondary copy, while blue-grays (#e2e8f0, #cbd5e0) serve as border and divider strokes — the Tailwind-adjacent slate family doing structural work without calling attention to itself. Buttons run at full-radius (`{rounded.full}`), consistent with the brand's soft femininity; inputs and cards take a gentle `{rounded.sm}` so edges read as contemporary rather than clinical. Navigation lives in Inter — small, moderately spaced, nearly invisible — letting product photography lead. The Ovo–Inter pairing is the central typographic tension: a serif that says slow down and an interface sans that says get there efficiently, balanced by white space rather than weighted toward either pole. Product cards surface price cleanly in Inter numerals, with minimal badge treatment and no aggressive discounting vocabulary. The site leans on the accessory-as-object frame — single-product hero moments, close-cropped material shots, and an absence of lifestyle clutter that keeps the jewelry's own finish and scale readable.
 
@@ -320,6 +324,13 @@ components:
 - PDP image gallery collapses to a swipeable single-image carousel on mobile; desktop shows stacked vertical scroll or two-column grid
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

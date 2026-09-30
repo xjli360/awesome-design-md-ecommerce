@@ -4,6 +4,10 @@ name: "Rhode"
 source_url: "https://www.rhode skin.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Glazed-skin close-ups fill the page before the product ever appears — Rhode's art direction treats the formula as the final act, not the subject, letting sun-caught cheekbones and slow-blink video loops carry the brand's warmth before a single ingredient is named. The palette lives in a narrow corridor of roasted cream and near-white: {colors.canvas} (#faf6f0) as the site floor, {colors.surface-soft} (#f4ede1) lifting product cards off the ground, and a near-black {colors.primary} (#1c1c1c) carrying every CTA and the wordmark itself. There is almost no chromatic saturation anywhere on the page — not because the brand is cold, but because pinkish warmth is already embedded in the cream base tones and the photography, making a separate accent hue unnecessary. Type runs in two registers: a classic light-weight serif at display scale that evokes a fashion-magazine masthead rather than a lab panel, and a spare geometric sans for body copy, ingredient lists, and labels. Sizing stays modest — display never pushes past 40px and body holds at 15–16px — which means the grid and photography absorb visual weight rather than headline type. Corners are restrained: most surfaces sit at {rounded.sm} or {rounded.xs}, swatch selectors use {rounded.full} for the small circle forms, and buttons read nearly rectangular in keeping with the editorial restraint. Rhode's signature cylindrical lip case appears as an organizing motif in campaign hero images, shadow-cast product stills, and ingredient-panel illustrations. Generosity lives in spacing rather than in decoration: section gaps run wide, product cards breathe inside a loose grid, and the add-to-cart flow collapses to a single prominent sticky strip on mobile rather than stacking secondary options. Ingredient storytelling panels break the commerce flow with a slower editorial register — large serif headline, short body prose, simple line illustration — signaling a brand comfortable making the user pause rather than accelerating them toward checkout.
 
@@ -329,6 +333,13 @@ components:
 - Footer columns collapse to an accordion list on mobile with {typography.title-sm} section headers as toggles
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

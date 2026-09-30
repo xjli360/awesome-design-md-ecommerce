@@ -4,6 +4,10 @@ name: "Dremel"
 source_url: "https://dremel.com"
 captured_at: "2026-09-29T03:57:41.698740+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Dremel's site CSS evidence shows a utilitarian, high-contrast industrial-tool palette built on white canvases, near-black ink (#000, #232628), and a cool desaturated gray-blue neutral scale (#c1c7cc, #a4abb3, #71767c, #eff1f2) used for hairlines and soft surfaces. A steel blue (#005293, with darker #004975/#004276 variants) appears repeatedly as the interactive/link and hover color on gallery arrows and commerce buttons, so it is inferred here as the primary brand action color. Bright signal reds (#ed0007, #d50005) mark sale pricing and destructive/error states; a green pair (#006c3a on #e2f5e7) and amber pair (#806700 on #ffefd1) appear in modal headers, inferred as success and warning semantics respectively. Typography is set in the proprietary "boschsans" family with Helvetica Neue/Helvetica/Arial/sans-serif fallbacks, base 1rem body copy at 1.5 line-height — consistent with a functional, spec-driven power-tool retailer rather than a lifestyle brand. This interpretation proposes a rugged, information-dense UI: flat surfaces, small-radius controls, tight hairline dividers, and a restrained accent palette reserved for pricing, alerts, and calls to action, leaving neutrals to carry the bulk of the product-catalog and support-content layout.
 
@@ -156,6 +160,13 @@ The following breakpoint table is a **recommendation**, not measured site behavi
 Touch targets should be a minimum 44×44px for buttons and nav items (proposed, WCAG-aligned convention). Navigation is expected to collapse into a drawer or accordion below tablet width; this is a UX convention assumption, not an observed interaction.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

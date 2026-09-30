@@ -4,6 +4,10 @@ name: "SteelSeries"
 source_url: "https://steelseries.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A dark, precise gaming-hardware brand that uses its own violet #9a8be5 as the single signal color against a near-black #383838 canvas — a deliberate inversion of the typical gaming RGB rainbow. The brand's visual system is built on hard corners and tight tolerances: product shots sit in 4px rounded frames (`{rounded.xs}`), buttons use 8px corners (`{rounded.sm}`), and the only generous radius is reserved for the search bar at `{rounded.full}`. Typography runs system-native — -apple-system, Helvetica, Roboto — at modest weights (400–500 for body, 600 for buttons), never competing with the product imagery. The primary CTA uses the violet #9a8be5 on white, while secondary actions drop to a transparent background with a 1px hairline in #383838. Navigation is a persistent 64px dark bar with white text and a subtle 1px bottom border, housing a search icon that expands into a full-width pill on interaction. Product cards are flat, borderless, and rely on the contrast between #383838 backgrounds and white text, with hover states that reveal a subtle violet glow. The brand avoids gradients, shadows, and decorative flourishes — every element serves the product, and the product is always the brightest thing on screen.
 
@@ -457,6 +461,13 @@ components:
 - Dropdowns convert to full-screen overlays on mobile for easier navigation
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

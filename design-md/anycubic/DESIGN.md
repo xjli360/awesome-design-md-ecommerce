@@ -4,6 +4,10 @@ name: "Anycubic"
 source_url: "https://www.anycubic.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every color token in Anycubic's extracted palette maps almost perfectly to Element UI's default Vue component theme — #409eff as primary, a stepped gray scale running #c0c4cc / #909399 / #606266 / #303133, and semantic status tokens in danger-red (#f56c6c), warning-amber (#e6a23c), and success-green (#67c23a) — which places the brand's visual identity in product photography and layout density rather than a bespoke color language. The electric blue at #409eff reads as generous and pragmatic rather than corporate: it carries every primary CTA, filter-active state, and in-page link without modification, sitting cleanly against both the white-canvas product grid and the near-black workshop darks (#1a1a1a, #303133) that frame hero sections. MiSans appears in the font stack — a Chinese sans-serif released by Xiaomi that signals Shenzhen maker-community roots while preserving Latin legibility — falling back through Helvetica Neue and system-ui for non-CJK environments. No proprietary display typeface was pulled from CSS; the brand trusts hardware credibility and competitive pricing over editorial font investment.
 
@@ -430,6 +434,14 @@ components:
 - Spec tables gain `overflow-x: scroll` on mobile rather than wrapping values; row labels remain sticky at left
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

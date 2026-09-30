@@ -4,6 +4,10 @@ name: "Ilia Beauty"
 source_url: "https://iliabeauty.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Ilia Beauty is clean makeup that doesn't whisper "natural" — it speaks in a warm, earthy palette of #271f1f, #5e5047, and #bba293, punctuated by a signature pop of #ffcf2a that feels like a sunlit moment. The brand lives in the tension between raw, organic textures and a polished, modern sensibility, using a canvas of #f7f7f8 and #fafafa to let its hero products breathe. Typography leans on the rounded, humanist warmth of Brown and Post Grotesk, with display sizes that feel approachable rather than authoritative — a deliberate choice that mirrors the brand's "skin first, makeup second" philosophy. Buttons and cards carry soft radii (`{rounded.sm}` to `{rounded.md}`), while the occasional sharp accent in #0018ff or #ff5742 adds a jolt of unexpected energy. The overall mood is grounded, optimistic, and quietly luxurious — a clean beauty brand that trusts its ingredients, its colors, and its customer's intelligence.
 
@@ -520,6 +524,13 @@ components:
 - Search bar collapses to an icon on mobile, expanding to full-width on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

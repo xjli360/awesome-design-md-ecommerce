@@ -4,6 +4,10 @@ name: "Trayvax"
 source_url: "https://trayvax.com"
 captured_at: "2026-09-28T10:08:34.562904+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Trayvax's storefront is a Shopify (Dawn-derived) theme built on a neutral,
   high-contrast grayscale system — pure black (#000000), near-black ink
@@ -169,6 +173,12 @@ components:
 Touch targets are recommended at a minimum 44×44px for nav, cart, and swatch controls. Mobile navigation is assumed to collapse into a hamburger/off-canvas menu ("Open navigation menu" text was present in evidence), but the actual collapse mechanics, animation, and menu layout were not observed and are proposed conventions only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Lululemon"
 source_url: "https://lululemon.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Black CTAs against white canvas, no accent color anywhere except markdown red — Lululemon's digital system runs monochromatic by design, and the restraint becomes legible once you notice the only non-neutral chromatic signal in the entire interface is the sale price color (#c8102e) surfacing on "We Made Too Much" pages. Product photography handles all chromatic expression: a Sonic Pink Align tank or a Heritage 365 hoodie in Dark Olive provides the color story the UI refuses to supply itself. Type is set in a clean geometric sans-serif at restrained weights — display heads sit at fontWeight 600 rather than 700–800, maintaining an editorial calm that positions the brand closer to premium outerwear than performance sportswear. Buttons run nearly cornered ({rounded.none}), uppercase-tracked at 0.08em letter spacing, and locked to 48px height — a format that reads as architectural rather than friendly. Navigation carries significant category depth (women's, men's, accessories, footwear, membership, Studio) behind a sticky 60px top bar that refuses to compete with the hero imagery below. Product cards present at 3:4 aspect ratio with no border radius, no card shadow, and 20px circular color swatches ({rounded.full}) inlaid at the bottom edge — a pattern that gives shoppers chromatic preview without opening a PDP. The checkout and membership flows inherit the same vocabulary: black button, white modal, hairline-bordered input at 1px in {colors.hairline} gray. No gradients, no elevation shadows beyond a faint rgba(0,0,0,0.06) scrim on drawer overlays. The brand communicates premium through proportion, negative space, and the confidence to let a $138 legging sell on product description alone — fabric technology names like Luon, Nulu, and Everlux appear as structural UI labels rendered in dedicated {typography.fabric-label} chips, not marketing copy tucked into fine print. The overall effect is a design system that reads like a premium basics house that also makes sportswear, which is precisely the market position the company has pursued in its Power of Three growth strategy.
 
@@ -364,6 +368,13 @@ components:
 - Announcement bar is dismissible via close icon on mobile; persists on desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

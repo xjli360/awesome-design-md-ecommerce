@@ -4,6 +4,10 @@ name: "Biblio"
 source_url: "https://www.biblio.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, quiet marketplace for used and rare books, built on a single strong neutral — #313131 — that anchors every headline, body link, and navigation label against a warm off-white canvas. The brand trusts the book cover, not the interface: product photography occupies the full width of the listing card, and typography stays in the background with a system-native stack of -apple-system, BlinkMacSystemFont, Segoe UI, and Roboto at modest weights. There is no hero animation, no gradient, no brand illustration — the design is a library shelf, not a storefront window. Search sits in a full-width bar with a soft inner shadow and a pill-shaped submit button (`{rounded.full}`), and category navigation runs as a horizontal scroll of text-only links under a thin hairline. The footer collapses into a dense column of links, contact info, and payment badges, all set in `{colors.muted}` gray. The only color beyond the neutral scale is the occasional Amazon-orange affiliate badge and the green of a "Add to Cart" button, both inherited from third-party checkout flows rather than brand choice. The extraction returned only one distinctive hex — #313131 — and a generic system font stack, so the system is defined by what it does not do: no brand color, no custom typeface, no decorative border. It is a functional, text-first marketplace that treats every pixel as a cost.
 
@@ -301,6 +305,14 @@ components:
 - Search bar moves from the header row to below the logo on mobile, full-width
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

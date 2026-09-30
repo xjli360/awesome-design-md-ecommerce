@@ -4,6 +4,10 @@ name: "Eggtronic"
 source_url: "https://www.eggtronic.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A teal-and-aqua electronics brand that wraps its accessories in a surprising softness — #226d7a as the primary anchor, a deep teal that reads more like a tidepool than a tech spec, paired with a pale cyan #b0e0e9 that floods backgrounds and card surfaces. The palette is almost aquatic: #e4f5fa as the lightest canvas wash, #22b8d1 as a bright accent that pops against the deeper teal, and #1e6d7a as the active-state variant. Typography runs a conservative stack of Arial, Open Sans, Roboto, and sans-serif fallbacks — no proprietary brand typeface, suggesting a lean design operation that prioritizes clarity over typographic distinction. Buttons and badges use pill-shaped radii (`{rounded.full}`) that make even a charging-cable add-to-cart feel approachable, while product cards take a gentler curve (`{rounded.md}`) to frame device photos. The brand's voice is direct and utility-first — product titles in `{typography.title-md}` at 16px, specs in `{typography.body-sm}` at 14px — but the color story keeps it from feeling cold. The teal primary (#226d7a) appears on every primary CTA, the top nav background, and footer accents, while the pale cyan (#b0e0e9) softens the page chrome. It's a system that says "we sell phone cables and chargers" without shouting, using color temperature rather than typographic weight to signal warmth.
 
@@ -359,6 +363,13 @@ components:
 - Product card image and text layout remains consistent across breakpoints — only the grid column count changes
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

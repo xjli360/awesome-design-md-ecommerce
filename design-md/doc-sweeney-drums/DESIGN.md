@@ -4,6 +4,10 @@ name: "Doc Sweeney Drums"
 source_url: "https://www.docsweeneydrums.com"
 captured_at: "2026-09-29T03:53:12.900443+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Doc Sweeney Drums is a Carlsbad, CA custom-shell drum builder running on a Squarespace
   template; the supplied CSS is largely platform boilerplate (cookie banner, tooltip,
@@ -163,6 +167,13 @@ Proposed breakpoints (not measured from live rendering):
 Touch targets should be at least 44×44px; the primary nav is expected to collapse into a hamburger/off-canvas menu below tablet width. This table is a recommendation based on common Squarespace responsive conventions, not observed site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Supplied CSS is dominated by Squarespace platform boilerplate (cookie banner, tooltip, confirmation-button rules); minimal brand-specific selectors were available, so most component styling above is proposed rather than observed.

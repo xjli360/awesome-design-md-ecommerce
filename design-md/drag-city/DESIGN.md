@@ -4,6 +4,10 @@ name: "Drag City"
 source_url: "https://www.dragcity.com"
 captured_at: "2026-09-28T05:08:56.706490+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Drag City's stylesheet reflects a long-running independent label site built on
   restrained, editorial conventions rather than a modern branded system. Body copy
@@ -177,6 +181,13 @@ This is a recommended breakpoint scheme, not measured site behavior (no media qu
 Touch targets should be at least 40×40px; the observed 26px mp3-player buttons would need visual padding to meet this on touch devices — a proposed adjustment, not an existing pattern.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Evidence is static CSS extraction plus one text excerpt; no live rendering, computed layout, or DOM structure was observed.

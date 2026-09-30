@@ -4,6 +4,10 @@ name: "Bobo Choses"
 source_url: "https://bobochoses.com"
 captured_at: "2026-09-28T09:21:11.058493+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Bobo Choses presents as a Barcelona-rooted kids and family clothing storefront (0–12 years plus a women's line), built on a neutral, high-contrast Shopify foundation rather than a saturated "kids brand" palette. The dominant tones are near-black ink (#181818, #000000) against white and off-white canvases (#ffffff, #f8f8f8), with a single confident accent — a saturated green (#089562, deepening to #00a37e on active states) — reserved for primary commerce actions like add-to-cart. Supporting grays (#404040, #7a7a7a, #e0e0e0, #ebebeb) structure hairlines, muted text, and soft surface fills. A small cluster of warmer, pastel-adjacent hues (#ff673b, #e0342d, #fcebea) appears in the raw palette and is treated here as inferred accent/sale/badge color, since no CSS role was directly observed for them. Typography is exclusively Helvetica Neue with system sans-serif fallback; no display or serif face was found, so heading sizes above the observed 1.4rem/2.2rem body rule are proposed, not measured. Buttons consistently use pill-shaped, large-radius (40px) shapes, which this spec approximates via a full-radius token. The overall interpretation favors a clean, editorial, product-forward retail interface with a single trustworthy green call-to-action color, echoing the site's stated sustainable/organic positioning without over-inventing decoration.
 
@@ -161,6 +165,14 @@ Proposed, not measured — no breakpoint or media-query evidence was supplied.
 Touch targets should be at least 44×44px for buttons and chip selectors. Navigation is expected to collapse into a slide-in or overlay menu below tablet width, consistent with the presence of a `.close-button` overlay pattern in the supplied CSS, though the exact mobile menu behavior was not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This specification is derived from static CSS and text extraction only; no rendered layout, JavaScript-driven interaction, or real breakpoint behavior was observed. Root font-size (rem base) was not confirmed, so all pixel conversions from `rem` values (e.g., body font-size/line-height) are inferred assuming a common 10px-root convention and should be verified. Only Helvetica Neue was found in font-family declarations; no licensing or brand-proprietary font was verified, and generic sans-serif fallback is assumed. Several palette colors (warm coral, red, blue, pastel accents) appear in the raw color list without a confirmed CSS selector role and have been assigned inferred, conservative roles (badge/sale) rather than primary brand meaning. Component states such as focus rings, disabled buttons, form validation, and mobile menu transitions are proposed patterns only. Product card, hero, and footer layouts are category-appropriate proposals, not confirmed from rendered page structure.

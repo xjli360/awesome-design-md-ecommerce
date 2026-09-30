@@ -4,6 +4,10 @@ name: "Exploding Kittens"
 source_url: "https://www.explodingkittens.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A game brand that weaponizes the warm, off-white canvas of #fcf8ee against the absolute black of #0f0f0f, creating a visual tension that mirrors the tension of drawing from a deck that might blow up in your face. The brand’s signature voltage comes from a blood-red #840815 that appears in product badges, card backs, and the iconic exploding kitten icon itself — a color so specific it reads as both playful and dangerous. Type runs Epilogue at moderate weights (400–600) for body and Instrument Sans for display headlines, with bebas-neue-pro reserved for explosive sale banners and limited-edition drops. The site uses a near-black #0c0c0c for primary text on the off-white canvas, with #767676 and #4d4d4d as muted stepping stones. Accent colors arrive like wild cards: a marigold #ffd045 for star ratings and “NEW” badges, a sage #aaccaa for expansion-pack headers, and a deep navy #272d45 for footer and legal text. Product cards float on the #fcf8ee canvas with soft shadows and {rounded.md} corners, while CTA buttons sit in full #840815 with white text — no ambiguity about which action detonates the game. The overall feel is a clean, slightly irreverent game shop: high contrast, generous whitespace, and color used as a surprise mechanic rather than decoration.
 
@@ -386,6 +390,13 @@ components:
 - Category strip becomes horizontally scrollable on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

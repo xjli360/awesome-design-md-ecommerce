@@ -4,6 +4,10 @@ name: "Hers"
 source_url: "https://www.forhers.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A direct-to-consumer wellness brand that uses a single, unapologetic dark gray — #313131 — as its anchor, a choice that reads as clinical, serious, and trustworthy in a category that often defaults to pastels or aspirational whites. This ink-like primary sits on a pure white canvas (#ffffff), creating a high-contrast, almost editorial layout where product photography and medical-grade copy do the heavy lifting. The typography stack is a system-native fallback chain (system-ui, -apple-system, sans-serif), suggesting a pragmatic, load-speed-first approach rather than a bespoke typeface investment; the brand trusts its color and photography to carry personality. Buttons are softly rectangular ({rounded.sm} ~8px), and the overall spacing is generous — section padding at 64px, card padding at 24px — giving the interface a clean, unhurried breathing room that feels more like a doctor's office brochure than a frantic e-commerce store. There is no bright accent color; the brand's visual tension comes from the interplay of #313131 against white, with subtle gray dividers (#e0e0e0) and muted body text (#6b6b6b) creating hierarchy without noise. The overall mood is one of quiet authority: a brand that sells prescription-grade treatments and wants you to take them seriously.
 
@@ -291,6 +295,13 @@ components:
 - Footer links collapse into a single column on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

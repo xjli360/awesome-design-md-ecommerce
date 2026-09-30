@@ -4,6 +4,10 @@ name: "Gnista"
 source_url: "https://gnistaspirits.com"
 captured_at: "2026-09-28T10:21:31.851146+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Gnista's evidence set is a Shopify (Dawn-derivative) theme with a warm,
   editorial palette anchored by a single burnt-orange accent (#bf570a,
@@ -91,7 +95,8 @@ components:
     padding: "{spacing.sm} {spacing.md}"
     typography: "{typography.body-md}"
   nav-bar:
-    backgroundColor: "transparent-over-hero, {colors.canvas} on scroll"
+    backgroundColor: "transparent"
+    backgroundStateNote: "Proposed scroll state: {colors.canvas}"
     textColor: "{colors.on-primary}"
     typography: "{typography.body-sm}"
     padding: "{spacing.base} {spacing.lg}"
@@ -167,6 +172,12 @@ Recommendation only, not measured site behavior:
 Touch targets should be ≥44px (matching the observed `--buttoned-input-size: 44px`). Mobile nav is assumed to collapse into a hamburger/drawer pattern typical of this Shopify theme family; this is proposed, not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Static CSS extraction provides variable names (e.g., `--btn-border-radius`, `--btn-bg-hover-color`) without resolved computed values, so radii, hover colors, and transform/case rules are inferred defaults, not confirmed.

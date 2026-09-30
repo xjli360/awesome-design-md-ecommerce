@@ -4,6 +4,10 @@ name: "DegreeArt"
 source_url: "https://www.degreeart.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every artwork on DegreeArt arrives with a provenance measured in studio hours rather than auction-house transactions — the platform was built on the premise that a graduation show is a buying event, not a portfolio review. That founding logic shapes the interface from the top down: the site defers entirely to the work, running `{colors.primary}` (#313131 charcoal) through headlines, borders, and primary CTAs alike so no interface colour competes with the canvas it sits beside. The palette confirmed from live extraction is narrow — one distinctive dark charcoal dominant, with surface neutrals inferred from gallery convention — which suits a platform whose true colour is its inventory.
 
@@ -320,6 +324,13 @@ components:
 - Footer: 4-col link grid → 2-col below 744px → single column below 480px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

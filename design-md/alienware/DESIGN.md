@@ -4,6 +4,10 @@ name: "Alienware"
 source_url: "https://www.alienware.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Fourteen-sided polygons cut into black glass — that is the first thing the eye registers on any Alienware surface, digital or physical. The brand's Legend industrial-design language translates directly into its UI: hard diagonal clips on hero panels, angular container edges, and a canvas so dark (#0D0D0D) it reads as the absence of light rather than a neutral background. Into that void, a single voltage accent arrives — a bright teal-cyan (#00FFC8) that pulses across primary CTAs, hover states, system-status rings, and the iconic alien-head wordmark. This is not a gaming brand that reaches for neon saturation everywhere; the teal operates surgically against near-black surfaces and cool charcoal cards (#1A1A1A, #242424), making every interactive element feel like bioluminescence in deep water. A secondary violet (#7B2FE0) appears in gradient washes and limited-edition product badging, reinforcing the extraterrestrial mythology without competing for CTA dominance. Typography runs a geometric sans-serif stack led by custom Alienware display cuts at aggressive letter-spacing (-1px to -2px on headlines), producing that wide-set futuristic register at `{typography.display-xl}`. Body copy stays neutral in weight 400 at 15–16px, readable against dark surfaces with an `{colors.body}` of #B8B8B8 that avoids pure-white glare. Buttons are clipped-corner rectangles (`{rounded.xs}` base with CSS clip-path diagonals), not pills — softness is deliberately absent. Product cards float on `{colors.surface-card}` with 1px `{colors.hairline}` borders that brighten to `{colors.primary}` on hover, and spacing runs generous at `{spacing.lg}` to `{spacing.xl}` between grid items, giving each machine its own theater. The overall system reads as: restrained darkness punctuated by precision light.
 
@@ -359,6 +363,14 @@ components:
 - Footer columns collapse into accordion sections on mobile with `{colors.hairline}` dividers
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

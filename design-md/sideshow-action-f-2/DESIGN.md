@@ -4,6 +4,10 @@ name: "Sideshow"
 source_url: "https://www.sideshow.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Near-black canvas (#0a0a0a) turns every product photograph into a light source — Sideshow's most consequential design decision is the one that disappears completely: background. A warm gold (#c9a84c) carries every primary CTA, price callout, and hover glow, behaving less like a brand color and more like a spotlight. The site is organized around a collector's taxonomy that most e-commerce platforms would flatten into categories: Sixth Scale Figure, Premium Format Figure, Statue, Diorama, and Polystone are first-class navigation concepts with their own badge language, edition-count limits, and filtering layer.
 
@@ -415,6 +419,13 @@ components:
 - Newsletter row stacks input above CTA button on mobile (full-width both)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

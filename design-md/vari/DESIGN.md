@@ -4,6 +4,10 @@ name: "Vari"
 source_url: "https://www.vari.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The standing desk category has long defaulted to gray-on-gray industrial minimalism — Vari breaks from this with a saturated teal primary (#007fad) that carries every major CTA and hover state on the site, a hue specific enough to be brand-ownable without tipping into healthcare or nautical territory. Deep navy (#002543) anchors both the header and footer, wrapping the site in a dark-light contrast frame that lets large product photography — desks shown mid-lift, in real offices, with people — land without compositional competition. Type runs Lato at firm weights across the stack: display headings push to 48px at weight 700, body copy sits at 14–16px with generous 1.6 line heights so product specs and dimension tables breathe on the page rather than compressing into data grids. Corner radii stay modest throughout — {rounded.xs} to {rounded.sm} — a deliberate choice for a brand selling to facilities managers and office procurement teams as much as to individual desk buyers.
 
@@ -390,6 +394,13 @@ components:
 - Product comparison tray reduces to icon + badge count below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

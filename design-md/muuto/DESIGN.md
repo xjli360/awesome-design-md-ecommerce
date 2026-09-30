@@ -4,6 +4,10 @@ name: "Muuto"
 source_url: "https://www.muuto.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Muuto is a Scandinavian design brand rooted in the belief that great design should be accessible, human, and quietly joyful. The brand’s palette is anchored by a warm, almost off-white canvas (`#f9f8f2`) that feels like natural light on a matte wall, with a secondary canvas of `#efeeeb` and `#eeecea` that adds subtle depth without breaking the calm. The primary ink is a deep, soft charcoal (`#282828`) rather than a harsh black, used for body text and key structural lines, while a secondary ink (`#574846`) introduces a faint brown warmth that keeps the brand from feeling cold or sterile. Accent colors are used sparingly but deliberately: a muted teal (`#7bc7c7`), a dusty sage (`#b7d692`), a pale sky blue (`#e2f1fd`), and a soft clay (`#ca8268`) appear in product details, badges, and seasonal collections. These accents never shout — they sit at 30–50% saturation, as if filtered through a Scandinavian winter light. The typography is built on a dual-axis system: EuclidFlex (a geometric sans-serif with a humanist touch) for headlines and navigation, and Spectral (a serif with a literary, editorial feel) for body copy and product descriptions. This pairing gives Muuto a voice that is both modern and timeless, like a design magazine that happens to sell furniture. The brand avoids hard corners wherever possible — buttons use `{rounded.sm}` (8px), cards use `{rounded.md}` (12px), and the hero search bar uses `{rounded.full}` (9999px) — creating a tactile, approachable feel. The overall mood is one of deliberate restraint: generous whitespace, muted tones, and a focus on materiality and form over decoration. Every hex value in the system — from the hairline `#d9d9d9` to the surface-soft `#eeecea` — is chosen to feel like it belongs in a softly lit room, not a sterile grid.
 
@@ -398,6 +402,13 @@ components:
 - Filter sidebar collapses to a bottom sheet on mobile, triggered by a "Filter" button in the sticky header
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Viva Raw"
 source_url: "https://vivarawpets.com"
 captured_at: "2026-09-28T05:09:04.503375+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Viva Raw's storefront pairs a warm, natural neutral base with a single
   saturated accent, reflecting the brand's "fresh, human-grade" positioning.
@@ -168,6 +172,12 @@ Proposed breakpoint recommendation (not measured from live rendering):
 Touch targets are recommended at a minimum 44×44px for buttons and nav items. Mobile nav is assumed to collapse into a hamburger/drawer pattern given the "Open navigation menu" text in the evidence, though the actual collapsed markup and interaction were not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS custom properties, color values, and font-family declarations only; no live rendering, computed layout, or DOM screenshots were available. Semantic color roles (ink vs. body vs. surface-soft) are inferred from generic naming conventions and typical usage patterns, not confirmed via inspected selectors applying them to text or backgrounds. Rounded and spacing scales follow a standard proposed token system rather than fully-confirmed site measurements (only the Judge.me widget's `--jdgm-border-radius: 10` was directly observed). Button, card, nav, and footer states (hover, focus, active, disabled) beyond the single confirmed `.button:hover` opacity rule (`--button-background-opacity: 0.85`) are proposed, not verified. Mobile/responsive breakpoints are estimated industry defaults, not measured from the site. Font availability, licensing, and exact weight/style ranges for Qanelas and Cabin were not verified beyond their appearance in `font-family` declarations.

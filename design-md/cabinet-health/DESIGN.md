@@ -4,6 +4,10 @@ name: "Cabinet Health"
 source_url: "https://cabinethealth.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A muted, clinical warmth defines Cabinet Health, where a primary of #0099ff — a clean, aqueous blue that reads more like a purified lab reagent than a lifestyle pastel — sits atop a grayscale spectrum anchored by #3c3c3c ink and #f7f7f7 canvas. The brand's visual language rejects the bright, frantic optimism of traditional OTC packaging in favor of a quiet, considered precision: secondary accents of #f39f52 (a warm, almost medicinal amber) and #fbf0a5 (a pale, buttery highlight) appear sparingly, like safety markings on a piece of laboratory equipment. Typography relies on Messina Sans Web, a geometric sans-serif with a subtle humanist warmth, set at modest weights — the brand trusts generous whitespace and a restrained palette to convey authority, not typographic volume. Rounded corners are present but never pill-like; {rounded.sm} (8px) on buttons and {rounded.md} (12px) on cards suggest a soft, approachable interface that still maintains a clinical edge. The color #cce3eb appears as a soft, icy blue surface tint, evoking the clean, sterile environment of a pharmacy counter, while #b1d3f2 and #5288ba provide a secondary blue hierarchy for links and secondary actions. The overall effect is one of a brand that has stripped away the noise of the medicine aisle — no bold claims, no bright reds or oranges — and instead presents a calm, trustworthy interface for a product that asks you to reconsider a mundane, everyday purchase.
 
@@ -271,6 +275,13 @@ components:
 - The search bar moves from the nav bar to a dedicated full-width section below the hero on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

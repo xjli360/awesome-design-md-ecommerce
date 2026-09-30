@@ -4,6 +4,10 @@ name: "Dieux"
 source_url: "https://www.dieuxskin.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Dieux is a skincare brand that feels like a quiet, clinical rebellion against the industry's noise. The canvas is a warm, off-white `#fbf8f0` that reads as paper or unglazed ceramic, not sterile lab white — a deliberate choice that signals transparency and honesty. The brand's primary voltage is a muted, dusty coral `#e0634e`, used sparingly on CTAs and accents, never screaming for attention. Text lives in a restrained palette of near-blacks (`#222222`, `#2e2e2e`) and soft grays (`#7f7f7f`, `#666666`), set in a mix of GT America for clean, modern body copy and the stately serif Perpetua for editorial moments. A secondary palette of muted blues (`#83adc5`, `#b9d9eb`) and a deep teal (`#3d7562`) appears in product photography and ingredient callouts, adding a layer of clinical calm. The system avoids hard corners — `{rounded.sm}` (8px) on buttons and `{rounded.md}` (12px) on cards keeps the interface approachable without being childish. There is no hero gradient, no heavy shadow; the design trusts typographic hierarchy, generous `{spacing.section}` (64px) breathing room, and the raw texture of ingredients photography. The overall mood is that of a well-edited lab notebook: precise, unadorned, and quietly confident.
 
@@ -352,6 +356,13 @@ components:
 - Accordion content is always collapsed by default on all breakpoints.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "SwitchBot"
 source_url: "https://switch-bot.com"
 captured_at: "2026-09-28T09:23:51.694522+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from CSS variables and inline rules captured on the SwitchBot International storefront, a Shopify-based smart-home ecommerce site. The clearest brand signal is the red accent (#e0393a), which appears as the Judge.me review primary color, search-button hover state, and hot-badge system, making it a strong candidate for the primary action color. Body copy uses dark neutral grays (#434343, #3c3c3c, #333844) against a white canvas (#ffffff), with a sticky header that switches menu-item color to pure black (#000000) on scroll — an inferred elevated-state treatment. Supporting neutrals (#e5e5e5, #f5f5f5, #f7f8f8) suggest hairline dividers and soft surface fills typical of a dense multi-category product catalog. An amber tone (#feae17) is explicitly used for a "hot" product-showcase badge, so it is retained here as a status/badge color rather than a brand primary. Typography is set in 'Noto Sans' for header/menu contexts per observed declarations; Nunito Sans, Open Sans, and Raleway are present in the font stack but their specific usage context was not captured, so they are treated as secondary/body candidates. All sizing, spacing, and radius values beyond the observed 0px Judge.me radius are proposed defaults suited to a dense smart-home product grid, not measured layout.
 
@@ -141,6 +145,13 @@ cart-drawer is a proposed, category-appropriate component for a multi-SKU smart-
 This is a recommended, non-measured breakpoint scheme suited to a Shopify catalog site: mobile <768px (single-column product grid, collapsed hamburger nav using `.switchbot-header-menu-mb`-style patterns already present in class names), tablet 768–1023px (two-column grid, condensed nav-bar), desktop ≥1024px (full horizontal nav, multi-column grid). Touch targets should be at least 44×44px for cart, search, and nav icons per standard accessibility guidance. The mobile menu should collapse into a full-height scrollable panel, mirroring the `overflow-y: scroll` behavior already declared on `.switchbot-header-menu-mb`. No responsive breakpoints or collapse animations were directly observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS declarations and a page-text excerpt only; no rendered layout, spacing, or interaction states were observed. Semantic color roles (primary, muted, surface-soft/card, footer-bg) are inferred from partial selector context and may not match the site's actual design intent. Several palette entries (e.g., #334fb4, #2332d5, #8051ff, #7967c0, #fa541c, #005bd3, #69ce82) had no clear selector context in the evidence and were either omitted or assigned cautious, clearly-labeled roles. All typography sizes except the observed 16px/600/150% mobile-menu rule are proposed, not measured. Hover, focus, disabled, and error states for buttons/inputs are proposed conventions, not confirmed interactions. Mobile and tablet layouts are not observed and are offered only as standard responsive recommendations. Font availability, licensing, and exact fallback rendering for Noto Sans, Open Sans, Nunito Sans, and Raleway were not verified beyond their presence in the font-family list.

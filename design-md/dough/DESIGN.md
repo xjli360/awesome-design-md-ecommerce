@@ -4,6 +4,10 @@ name: "Dough"
 source_url: "https://www.dough.tech"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   #fbe548 — the flattest, most saturated marigold in consumer display hardware — is Dough's single-volt brand identifier: every primary CTA and product-launch countdown runs on this electric yellow against an otherwise strict near-black (#363636) and graduated-gray scaffold. The brand name, slang for cash, winks at accessible pricing without cheapening the product photography; full-bleed monitor renders sit on dark canvas where backlit panel edges read as product authenticity rather than composited glamour. Alegreya Sans carries the type system — an unlikely selection, a humanist editorial face originally engineered for long-form reading, now stretched to 48px weight 700 for product headlines and compressed to 12px captions for spec notation; the humanist optical corrections give Dough's interface warmth that cold geometric sans-serifs common to monitor hardware cannot replicate. Body text runs at 16px weight 400 with generous line-height, practical on pages where specification tables, community forum excerpts, and comparison grids all compete for legibility. Corners are sharp-moderate: {rounded.sm} at 8px on cards and inputs, {rounded.xs} at 4px on spec badges, {rounded.full} on pill-shaped availability tags. A secondary cyan accent ({colors.accent}, #00adef) appears in feature callouts — a literal screen-glow reference that anchors the palette to the panels' own display output — while {colors.steel} (#4a5764) surfaces in secondary navigation and comparison column headers, bridging the electric yellow and charcoal body without a third accent hue. Product cards show monitors at 16:9 crop with a {colors.primary} pricing badge anchored bottom-left, community review scores appear in steel-fill chips with weight-600 numerals, and checkout surfaces stay on pure white ({colors.canvas}) with yellow focus rings on form fields, placing the brand color at the exact moment a purchase decision is made.
 
@@ -323,6 +327,13 @@ components:
 - Countdown timer: 4-digit horizontal row on desktop and tablet → 2×2 grid on mobile with larger digit size to compensate for narrower viewport
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

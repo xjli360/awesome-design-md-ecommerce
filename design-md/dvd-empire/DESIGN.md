@@ -4,6 +4,10 @@ name: "DVD Empire"
 source_url: "https://www.dvdempire.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep-catalog movie marketplace that wears its e-commerce heritage openly — #428bca is the primary voltage, a saturated cerulean that appears in every primary button, navigation link, and category header, set against a near-black ink (#080808) and a scaffold of warm grays (#eeeeee, #f5f5f5, #e7e7e7) that give the page a well-worn, utilitarian feel. The brand's accent palette is unusually vivid for a media retailer: a marigold #f2ea2c and its deeper sibling #e7c603 power sale badges and price highlights, while a traffic-light trio of green (#468847), amber (#c09853), and red (#b94a48) signals stock status and messaging — a system borrowed from admin dashboards rather than consumer design. The typography stack is resolutely system-native (Arial, Helvetica, sans-serif), with no custom typeface investment; the brand trusts dense information architecture over typographic personality. Buttons use sharp {rounded.sm} corners, product thumbnails sit in tight grids with {rounded.xs} borders, and the header carries a full-width utility bar in #080808 with white links — a classic two-tier nav that prioritizes categories (DVD, Blu-ray, 4K, New Releases) over brand storytelling. The checkout flow introduces a secondary blue (#076aab) and a purple (#491a79) that suggest third-party payment integrations rather than intentional brand extension. DVD Empire feels like a store that has been running since the early 2000s and never saw a reason to redesign — its charm is in its directness, its dense data density, and the honest way it shows you every price, format, and stock badge without apology.
 
@@ -389,6 +393,13 @@ components:
 - Product card metadata (format, release date) hides on mobile, shown on hover/expand
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

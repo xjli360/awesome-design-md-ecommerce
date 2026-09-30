@@ -4,6 +4,10 @@ name: "PlanToys"
 source_url: "https://plantoys.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Forty shades of forest open the PlanToys storefront: sage (#aacc98) anchors every primary action surface while #f0f6ed mint-washed panels separate editorial content from commerce, giving the layout the warmth of a toy shelf photographed at golden hour. The real design intelligence is in how the brand extends its product's own developmental color vocabulary into the interface — the primaries that appear on the toys themselves, red (#d21625), sky blue (#79c2d4), and sunshine yellow (#ffff00), reappear as category chips, age-range badges, and developmental-domain tags, so browsing a product grid teaches the same hue associations the product teaches a child. VAGRN-Bold carries all hero display text in a chunky, slightly compressed face that reads as hand-lettered without collapsing into whimsy; Nunito handles body paragraphs and product descriptions with rounded terminals that soften reading for a design-literate parent audience; Hind takes over for UI chrome — filter toggles, price strings, form labels — where optical neutrality beats personality. Corners are generous throughout: product cards sit at {rounded.md}, filter pills and age chips at {rounded.full}, and the primary CTA runs a full-radius pill that echoes the rounded profiles of the wooden objects on shelf. The sustainability mission is never subtext: a dedicated eco-badge system surfaces material certifications directly on product cards rather than relegating them to footer copy, and the sage-on-mint art direction anchors every hero to the brand's Thai forest origins. There are no hard dark backgrounds — the darkest structural element is the charcoal nav (#333336), which provides just enough contrast for wayfinding without importing the brand-tech gravity that would age the experience. The deepest purples (#50248f, #43467f) appear only in developmental-domain tags, functioning as a secondary signal system that turns product browsing into play rather than transaction.
 
@@ -335,6 +339,13 @@ components:
 - Sustainability strip: visible at all breakpoints; text truncates with ellipsis below 360px viewport width
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

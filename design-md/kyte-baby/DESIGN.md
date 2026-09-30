@@ -4,6 +4,10 @@ name: "Kyte Baby"
 source_url: "https://kytebaby.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A baby brand built on a muted, earthy palette where #e3ded2 — a warm, dusty beige — serves as the foundational canvas, wrapping the site in a soft, tactile atmosphere that feels more like a nursery than a storefront. The signature bamboo sleep bag, a flagship product, is echoed in the brand's visual language: gentle curves, generous whitespace, and a restrained use of color that prioritizes comfort over stimulation. The primary accent, #2e9e7b, a deep, calming sage green, appears on key CTAs and interactive elements, providing a quiet but confident anchor against the neutral backdrop. Typography leans on Lexend, a modern, geometric sans-serif with a friendly, open character, set at moderate weights (400-600) to maintain readability and a sense of calm. Product imagery is given prominence, often isolated on white or the #fbf6f3 blush-toned background, allowing the texture of the bamboo fabric to be the hero. The overall effect is one of serene, considered simplicity — a digital space that feels safe, clean, and inherently soft, avoiding the bright, primary-colored chaos of many competitors in the category.
 
@@ -329,6 +333,13 @@ components:
 - The secondary navigation (help, account, search) collapses into a single icon bar.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

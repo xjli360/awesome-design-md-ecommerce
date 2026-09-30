@@ -4,6 +4,10 @@ name: "GLDN"
 source_url: "https://www.gldn.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Four letters edit "golden" down to its skeleton, and the same compression governs the visual system — GLDN runs on a near-monochromatic foundation of near-black (#141414) through a range of warm grays to a pale surface (#f6f6f6), punctuated by a single warm amber (#ee9441) that stands in for the metal rather than illustrating it. Every primary CTA, price anchor, and personalization trigger flows through that amber; it carries exactly that one job, which is why it reads as material rather than marketing. Typography works across three registers: Spectral, a high-contrast literary serif with strong stroke contrast, handles editorial display text where slowed reading is the point; Freight Sans Compressed takes campaign headlines and category labels at tight tracking, where compressed density signals authority without loudness; Inter carries the transactional layer — field labels, cart totals, filter chips — at utilitarian precision. The phrase "Made Personal" is structural rather than tagline copy: engraving inputs, charm selectors, and metal-choice toggles occupy a persistent personalization panel sitting alongside the product image rather than collapsing into a last-step accordion. Buttons round at `{rounded.sm}` — four pixels, enough to soften without reading casual. Dark green (#006400) marks in-stock status in product tiles; a vivid pop-green (#3ed660) labels new arrivals with just enough voltage to register against the near-black canvas of promo banners. Dark red (#8b0000) handles sale ribbons and low-inventory states in a distinct temperature from the brand amber, ensuring those two signals never collide. The footer inverts to near-black (#121212), bracketing the page against the same dark register that opens the hero so the layout feels complete rather than trailing off.
 
@@ -326,6 +330,13 @@ components:
 - Hero text hierarchy preserves headline + CTA on smallest breakpoint; subhead text is hidden below 480px via display:none (not opacity) to reclaim vertical space
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

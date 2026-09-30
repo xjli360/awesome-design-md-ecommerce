@@ -4,6 +4,10 @@ name: "Unit Editions"
 source_url: "https://www.uniteditions.com"
 captured_at: "2026-09-28T04:09:58.569162+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is built from CSS evidence drawn almost entirely from third-party Shopify commerce widgets (BOGOS bundle/volume-discount modules and a free-gifts app) rather than from Unit Editions' core storefront templates. That distinction is treated as a constraint: colors such as the purple accent-alt and the blue accent are inferred to be functional/system colors introduced by app UI, not confirmed brand identity, and are reused here as secondary accents rather than primary brand signals.
 
@@ -153,6 +157,13 @@ The following breakpoint table is a recommendation based on common editorial/e-c
 Touch targets should maintain a minimum 44×44px hit area for buttons and nav items. Navigation is expected to collapse into a drawer or menu button below the tablet breakpoint. All of this is proposed guidance, not measured site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

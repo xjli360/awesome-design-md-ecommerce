@@ -4,6 +4,10 @@ name: "Eibach"
 source_url: "https://eibach.com"
 captured_at: "2026-09-28T04:28:50.058823+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Eibach's stylesheet centers on a high-contrast performance palette: a saturated red (#ed1c24, darkening to #c61017 on hover) as the primary accent against near-black ink (#2c2c2c, hovering to #131313) and clean white canvas. Supporting neutrals span a tight grey ramp (#969696, #d9d9d9, #f2f2f2, #cccccc) used for muted labels, hairlines, and soft surfaces in table striping and light buttons. A stray blue (#5897fb) appears only incidentally and is treated here as an inferred focus/link accent rather than a brand color. Typography draws on "Industry" for bold display headlines — fitting an industrial suspension brand — paired with Inter/Inter Tight for body copy and UI, falling back to Arial/Helvetica. Buttons are uppercase, bold, and rectangular with minimal rounding, reflecting a utilitarian, motorsport-adjacent tone. This interpretation extends observed button and table treatments into a fuller system: card surfaces, navigation, and a fitment/spec-table pattern, all flagged as proposed where the source CSS did not directly confirm layout or state.
 
@@ -158,6 +162,13 @@ The following breakpoint table is a **recommendation** based on common Bootstrap
 Touch targets should be at least 44px in height for buttons and nav links; the nav-bar is expected to collapse into a hamburger menu below `md`. These are proposed guidelines only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

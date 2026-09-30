@@ -4,6 +4,10 @@ name: "Spiritual Gangster"
 source_url: "https://www.spiritualgangster.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Five extracted colors — all of them neutrals, ranging from near-black (#121212) to pale silver (#dedede) — map a brand that refuses the soft sage-and-cream palette expected of yoga activewear. The darkest tone (#121212) functions as an anchor across hero sections and full-bleed overlays, while the slightly warmer charcoal (#343333) handles body text, giving the brand a chromatic temperature of graphite rather than pure ink. What breaks this austerity is not color but typeface: nitti-typewriter appears in five distinct cuts — cameo, corrected, normal, open, underlined — a monospace family that writes product callouts and mantra text as if struck on a midcentury machine, physically imperfect and analog-intimate in a digital storefront. Set against a clean grotesque like aktiv-grotesk or moderat for body copy and UI labels, the collision of utilitarian Swiss sans and typewriter letterpress creates the brand's spiritual-meets-streetwear tension without a single pixel of decoration. Navigation sits flat and typographic against the white canvas, buttons use near-black `{colors.primary}` with no visible hover glow — interaction is communicated through opacity rather than color shift. Product cards lean toward flush full-bleed imagery with caption overlays set in nitti-typewriter, treating each garment as an editorial spread rather than a standard e-commerce listing. Corners are spare: `{rounded.xs}` or `{rounded.none}` on most interactive elements, signaling that refinement here comes from proportion and material photography rather than softness of shape. The spiritual vocabulary — mantras, Sanskrit-inflected copy, eclipse and mandala motifs — lives almost entirely in the typography layer, not in brand color, making the nitti-typewriter family the brand's most singular visual asset and the clearest signal of its identity.
 
@@ -373,6 +377,13 @@ components:
 - Product filter panel shifts from a left sidebar on desktop to a bottom-sheet drawer on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

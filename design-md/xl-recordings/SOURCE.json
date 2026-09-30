@@ -22,14 +22,20 @@
     }
   ],
   "colors": {
+    "#00000000": {
+      "count": 8,
+      "sources": [
+        "https://www.xlrecordings.com/"
+      ]
+    },
     "#ffffff": {
       "count": 8,
       "sources": [
         "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css"
       ]
     },
-    "#00000000": {
-      "count": 8,
+    "#9ca3af": {
+      "count": 2,
       "sources": [
         "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css"
       ]
@@ -40,14 +46,14 @@
         "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css"
       ]
     },
-    "#f00b1b": {
-      "count": 3,
+    "#d6d7d9": {
+      "count": 1,
       "sources": [
         "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css"
       ]
     },
-    "#9ca3af": {
-      "count": 2,
+    "#f00b1b": {
+      "count": 3,
       "sources": [
         "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css"
       ]
@@ -69,19 +75,16 @@
       "sources": [
         "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css"
       ]
-    },
-    "#d6d7d9": {
-      "count": 1,
-      "sources": [
-        "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css"
-      ]
     }
   },
   "font_families": {
-    "ABC ROM Mono Light": [
+    "monospace": [
       "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css"
     ],
-    "Apple Color Emoji": [
+    "sans-serif": [
+      "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css"
+    ],
+    "ABC ROM Mono Light": [
       "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css"
     ],
     "Courier": [
@@ -90,34 +93,7 @@
     "Helvetica": [
       "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css"
     ],
-    "Noto Color Emoji": [
-      "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css"
-    ],
-    "Segoe UI Emoji": [
-      "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css"
-    ],
-    "Segoe UI Symbol": [
-      "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css"
-    ],
-    "Times New Roman": [
-      "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css"
-    ],
-    "helvetica": [
-      "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css"
-    ],
-    "monospace": [
-      "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css"
-    ],
-    "sans-serif": [
-      "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css"
-    ],
     "serif": [
-      "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css"
-    ],
-    "system-ui": [
-      "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css"
-    ],
-    "ui-sans-serif": [
       "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css"
     ]
   },
@@ -254,10 +230,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "XL Recordings",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-300",
   "tokens": {
     "colors.primary": {
+      "value": "#f00b1b",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -265,6 +242,7 @@
       ]
     },
     "colors.ink": {
+      "value": "#00120f",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -272,6 +250,7 @@
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -279,6 +258,7 @@
       ]
     },
     "colors.body": {
+      "value": "#808887",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -286,6 +266,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#9ca3af",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -293,6 +274,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#d6d7d9",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -300,6 +282,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#ebecec",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -307,6 +290,7 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -314,6 +298,7 @@
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -321,6 +306,7 @@
       ]
     },
     "colors.contrast": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -328,117 +314,389 @@
       ]
     },
     "colors.overlay": {
+      "value": "#00000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css"
+        "https://www.xlrecordings.com/"
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "Helvetica, serif",
+        "fontSize": "48px",
+        "fontWeight": 400,
+        "lineHeight": 1.13,
+        "letterSpacing": "-0.24px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "Helvetica, serif",
+        "fontSize": "32px",
+        "fontWeight": 400,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.16px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "Helvetica, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "Helvetica, monospace",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Helvetica, monospace",
+        "fontSize": "13px",
+        "fontWeight": 400,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "ABC ROM Mono Light, Courier, monospace",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "ABC ROM Mono Light, Courier, monospace",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "borderColor": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.body-md}",
+        "metaTypography": "{typography.caption}",
+        "metaColor": "{colors.muted}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.body}",
+        "overlayColor": "{colors.overlay}",
+        "textColor": "{colors.on-primary}",
+        "titleTypography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.body}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "borderColor": "{colors.hairline}",
+        "padding": "{spacing.xl} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.body}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "placeholderColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.release-list-item": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "catalogTypography": "{typography.caption}",
+        "catalogColor": "{colors.muted}",
+        "titleTypography": "{typography.body-md}",
+        "ctaComponent": "button-primary",
+        "padding": "{spacing.md} {spacing.base}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#00000000": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "transparent",
+        "url": "https://www.xlrecordings.com/",
+        "snapshot": "homepage.html",
+        "sha256": "01c410ec6ea46509b4533f3fdc424684eb7e598564cd5392e3191d415c1ff725"
+      },
+      "#ffffff": {
+        "selector": "*,:after,:before",
+        "property": "--tw-ring-offset-color",
+        "declaration": "#fff",
+        "url": "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "936d3fd7c04d761a708cc0470069d1fe75cb35b10152b52ca6e4e75e64ebebc0"
+      },
+      "#9ca3af": {
+        "selector": "input::-moz-placeholder,textarea::-moz-placeholder",
+        "property": "color",
+        "declaration": "#9ca3af",
+        "url": "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "936d3fd7c04d761a708cc0470069d1fe75cb35b10152b52ca6e4e75e64ebebc0"
+      },
+      "#00120f": {
+        "selector": ".js-focus-visible a.focus-visible,.js-focus-visible button.focus-visible,.js-focus-visible details.focus-visible,a.focus-visible.js-focus-visible,button.focus-visible.js-focus-visible,details.focus-visible.js-focus-visible",
+        "property": "outline-color",
+        "declaration": "#00120f",
+        "url": "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "936d3fd7c04d761a708cc0470069d1fe75cb35b10152b52ca6e4e75e64ebebc0"
+      },
+      "#d6d7d9": {
+        "selector": ":root",
+        "property": "--grey",
+        "declaration": "#d6d7d9",
+        "url": "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "936d3fd7c04d761a708cc0470069d1fe75cb35b10152b52ca6e4e75e64ebebc0"
+      },
+      "#f00b1b": {
+        "selector": ":root",
+        "property": "--red",
+        "declaration": "#f00b1b",
+        "url": "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "936d3fd7c04d761a708cc0470069d1fe75cb35b10152b52ca6e4e75e64ebebc0"
+      },
+      "#808887": {
+        "selector": ".bg-grey\\/100",
+        "property": "background-color",
+        "declaration": "#808887",
+        "url": "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "936d3fd7c04d761a708cc0470069d1fe75cb35b10152b52ca6e4e75e64ebebc0"
+      },
+      "#ebecec": {
+        "selector": ".bg-grey\\/50\\/100",
+        "property": "background-color",
+        "declaration": "#ebecec",
+        "url": "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "936d3fd7c04d761a708cc0470069d1fe75cb35b10152b52ca6e4e75e64ebebc0"
+      },
+      "#000000": {
+        "selector": ".bg-transparent\\/100",
+        "property": "background-color",
+        "declaration": "#000",
+        "url": "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "936d3fd7c04d761a708cc0470069d1fe75cb35b10152b52ca6e4e75e64ebebc0"
+      }
+    },
+    "font_families": {
+      "monospace": {
+        "selector": "code,kbd,pre,samp",
+        "property": "font-family",
+        "declaration": "monospace,monospace",
+        "url": "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "936d3fd7c04d761a708cc0470069d1fe75cb35b10152b52ca6e4e75e64ebebc0"
+      },
+      "sans-serif": {
+        "selector": ":host,html",
+        "property": "font-family",
+        "declaration": "ui-sans-serif,system-ui,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji",
+        "url": "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "936d3fd7c04d761a708cc0470069d1fe75cb35b10152b52ca6e4e75e64ebebc0"
+      },
+      "ABC ROM Mono Light": {
+        "selector": "code,kbd,pre,samp",
+        "property": "font-family",
+        "declaration": "ABC ROM Mono Light,Courier,monospace",
+        "url": "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "936d3fd7c04d761a708cc0470069d1fe75cb35b10152b52ca6e4e75e64ebebc0"
+      },
+      "Courier": {
+        "selector": "code,kbd,pre,samp",
+        "property": "font-family",
+        "declaration": "ABC ROM Mono Light,Courier,monospace",
+        "url": "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "936d3fd7c04d761a708cc0470069d1fe75cb35b10152b52ca6e4e75e64ebebc0"
+      },
+      "Helvetica": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Helvetica,monospace",
+        "url": "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "936d3fd7c04d761a708cc0470069d1fe75cb35b10152b52ca6e4e75e64ebebc0"
+      },
+      "serif": {
+        "selector": "h1",
+        "property": "font-family",
+        "declaration": "helvetica,serif",
+        "url": "https://www.xlrecordings.com/_next/static/css/5c6d23d0f9ef7bbe.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "936d3fd7c04d761a708cc0470069d1fe75cb35b10152b52ca6e4e75e64ebebc0"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

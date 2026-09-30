@@ -4,6 +4,10 @@ name: "Lakland"
 source_url: "https://www.lakland.com"
 captured_at: "2026-09-29T04:03:19.172932+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Lakland's WordPress/Astra-based site presents a plain, trade-oriented storefront for a Chicago-built bass and guitar manufacturer. The only clearly site-authored colors in the supplied evidence are a mid-tone blue (#0274be) used for links, the mobile menu toggle, and all buttons, paired with a near-black neutral (#3a3a3a) used for hover states and default menu text. Backgrounds are unadorned white and off-white (#fafafa, #eeeeee), consistent with a WordPress theme's default code-block and comment-input tokens rather than bespoke brand surfaces. Most of the remaining supplied hex values (Bootstrap alert reds/greens/yellows, Facebook/Twitter/LinkedIn/Pinterest/WhatsApp brand colors) are plugin and social-share artifacts, not part of the product's visual identity, and are excluded from the working palette below.
   Typography is inherited from Astra's system-font stack (-apple-system, Segoe UI, Roboto, Helvetica Neue). A "Din Condensed" family also appears in the page's font list; given its condensed, display-oriented character and the site's use of bold all-caps section labels ("BASSES," "FEATURED MODELS"), it is inferred here as the display/heading family, though no selector evidence confirms this pairing. This interpretation proposes a spare, catalog-forward layout: flat 2px-radius buttons matching the observed CSS, thin hairline dividers, and generous whitespace suited to instrument photography.
@@ -149,6 +153,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets on button-primary/secondary should maintain a minimum 44px height given the observed `10px 40px` padding is text-height only. The mobile menu toggle's existing color tokens (`#0274be` icon, transparent background) should carry through to any hamburger/drawer implementation.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

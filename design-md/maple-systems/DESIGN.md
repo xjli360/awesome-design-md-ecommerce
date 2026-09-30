@@ -4,6 +4,10 @@ name: "Maple Systems"
 source_url: "https://www.maplesystems.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Maple Systems stakes its catalog on a single engineering-grade blue — #0675c4 — that runs every clickable element from the "Add to Cart" button on a 5-inch operator panel to the active state indicator in the top navigation. The industrial control palette underneath it is deliberately spare: near-black ink at #1e1e1e on a white canvas, hairlines at #dcddde separating specification blocks without announcing themselves, and a charcoal #313131 footer that closes each page like a panel enclosure lid; no accent color competes, and visual hierarchy is achieved through weight and spatial proximity rather than hue contrast. The deep navy #003388 surfaces only in promotional anchors and section dividers — a muted declaration of technical authority rather than a lifestyle pitch. Type runs entirely on the system font stack: Roboto leading with -apple-system, Segoe UI, and Helvetica Neue in the fallback chain, a choice that reads less as a budget default and more as an honest engineering standard — the same typeface purchasing managers encounter in their datasheet viewer and PLC configuration software. Display sizes land conservatively at 36px weight 700, making room for the dense spec tables and product grids that do the actual selling; button labels carry fontWeight 600 at 0.5px letter-spacing, pressed into corners rounded to just {rounded.sm} (4px) — a corner radius that tracks closer to a machined chamfer than consumer-app softness, with pill shapes and dramatic radii absent entirely. Product cards form the atomic unit of the catalog: a 1px {colors.hairline} border, a product thumbnail, a {typography.title-sm} name, abbreviated specs in {typography.caption} scale, and a price in {typography.title-md} — in that order, without decoration. The site's information architecture mirrors how industrial buyers actually shop: by product family, by display size, by I/O count and communication protocol. Spec tables, with their {colors.surface-soft} header rows and uppercase {typography.spec-label} column heads, serve as the primary persuasion mechanism — Maple Systems trusts engineering data over photography.
 
@@ -311,6 +315,13 @@ components:
 - Category-tab strip becomes horizontally scrollable at < 744px rather than wrapping or truncating tab labels
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

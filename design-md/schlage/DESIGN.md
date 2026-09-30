@@ -4,6 +4,10 @@ name: "Schlage"
 source_url: "https://schlage.com"
 captured_at: "2026-09-28T09:19:04.918579+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Schlage's residential site pairs a clinical, safety-grade visual system with warm
   accent color used sparingly for calls to action. The observed CSS is dominated by a
@@ -178,6 +182,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be at minimum 44×44px for CTA buttons and finish swatches. Primary nav is assumed to collapse into a drawer/hamburger below `md`, consistent with Bootstrap-based breakpoint conventions found in the shared CSS variables, but this collapse behavior was not directly observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered screenshots, computed layout, or interaction states were captured. Font-role assignments (Stag Web/Stag-Book for display, Avenir for body) are inferred from naming conventions in the stylesheet, not confirmed heading/body usage in rendered markup. All typography sizes except where noted are proposed, not measured. Component states (hover/focus) beyond the two explicitly supplied button rules are proposed patterns for consistency, not observed CSS. Mobile/responsive layout, nav collapse behavior, and card/grid breakpoints were not observed and are recommendations only. Availability and licensing of the Stag and Avenir font families for web use were not verified from the supplied evidence.

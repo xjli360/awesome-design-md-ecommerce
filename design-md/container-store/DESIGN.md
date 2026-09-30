@@ -4,6 +4,10 @@ name: "The Container Store"
 source_url: "https://www.containerstore.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The Container Store is a brand built on the promise of a perfectly organized life, where every drawer, closet, and shelf has a designated place. The visual language is clean, approachable, and utilitarian, favoring clarity over decoration. The primary brand voltage is a confident red (`#ce0e2d`), used sparingly but decisively on primary actions and key navigational elements, creating a sense of urgency and purpose. This red is anchored by a vast, almost clinical white canvas (`#fafbfc`), which gives the brand a sense of order and cleanliness. Secondary surfaces and soft dividers use a near-white grey (`#f0f1f2`), while subtle, warm greys (`#f0eeee`) and muted tones (`#b1b5b8`) provide gentle hierarchy without adding visual noise. Typography relies on the dependable, geometric clarity of Roboto, set in a restrained weight range that prioritizes readability and a no-nonsense, functional feel. The system uses soft, friendly corners (`{rounded.sm}`) for cards and buttons, but avoids the extreme pill shapes of consumer lifestyle brands, staying grounded in a practical, slightly squared-off aesthetic. The overall mood is one of calm, capable efficiency — the brand feels like a helpful, knowledgeable expert who has already solved your storage problems, not a flashy trendsetter. The signature design move is the use of the red (`#ce0e2d`) as a single, powerful accent against a sea of white and light grey, often in the form of a bold, rectangular button or a prominent top navigation bar. This creates a clear visual hierarchy that guides the user's eye directly to the most important actions, mirroring the brand's core promise of bringing order to chaos.
 
@@ -302,6 +306,13 @@ components:
 - Product filters are hidden behind a "Filter" button on mobile and tablet viewports.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

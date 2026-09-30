@@ -4,6 +4,10 @@ name: "Windmill Air"
 source_url: "https://windmillair.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Navy at #122940 — used so consistently it surfaces in three near-identical extracted variants (#122940, #122840, #142840) — carries all structural authority at Windmill Air, and then the rest of the palette immediately contradicts the category expectation. Warm peach (#f2a682), sage green (#b2c8a1), goldenrod (#fed31d), and coral-orange (#ec5039) are colors almost no HVAC manufacturer would claim as brand property; the visual argument is that an air conditioner belongs in the same conversation as furniture, not hidden behind a radiator cover. The blue-shifted near-whites (#f7f8fb, #f2f4f7) that fill the canvas lean cool and airy, reinforcing the product promise without resorting to clinical starkness.
 
@@ -364,6 +368,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

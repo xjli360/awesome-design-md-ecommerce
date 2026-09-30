@@ -4,6 +4,10 @@ name: "Aurate"
 source_url: "https://auratenewyork.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The decision to anchor a fine jewelry brand on deep forest green — #304038, the most distinctive hue in the extracted palette — is the first signal that Aurate operates outside jewelry's conventional white-and-gold script. This bottle-green primary carries every major CTA and structural marker, resting against warm parchment canvases (#efeae6, #f5f2f0) that photograph gold with the same enveloping warmth a gallery uses for illuminated manuscripts. The sustainability argument is inscribed in the color system itself: sage progressions move from #bfccb8 through #739487 to #42544f, a three-stop botanical gradient that reads as though the brand is literally rooted in the material ethics it argues on its sourcing pages. Gold in this system is amber, not yellow — #b26118 carries the mid-tone, #994707 the deeper rust-orange, and #ffd196 the pale champagne highlight; together they describe real gold across 10k, 14k, and 18k alloys, warm and variable, rather than the flat cartoon-yellow most jewelry brands reach for. The cream canvas tones (#ece6e2, #f5f2f0) function as a photography environment: low-contrast, warm-tinted, archival. Type structure leans on a serif-first display hierarchy consistent with editorial fine jewelry — large letterforms at low weight against the cream canvas, with generous tracking on uppercase labels and near-zero tracking on running body text; navigation and utility text drop to the system sans-serif stack, reserving the editorial register for moments where the brand is speaking rather than routing. Corner radius is architecturally conservative: pill shapes ({rounded.full}) appear on filter tags and sustainability callouts; product cards land on softer {rounded.sm} corners; the primary CTA takes {rounded.xs}, projecting confidence and structure over softness. Spacing is deliberately wide — {spacing.section} breathing room between content bands, narrow editorial columns flanked by large margins, and a product grid that never crowds more than two items per row on mobile.
 
@@ -342,6 +346,14 @@ components:
 - Footer: single-column accordion on mobile with sections collapsed; four-column grid on desktop with all sections expanded by default
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

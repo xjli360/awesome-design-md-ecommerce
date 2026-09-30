@@ -4,6 +4,10 @@ name: "Simplicity"
 source_url: "https://www.simplicityvac.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The #00b5d1 teal that anchors Simplicity's interface reads less like a brand color and more like the indicator light on the machine itself — poolwater-bright against a near-black #242424 grid, marking every active CTA, hover ring, and navigation state while the surrounding layout stays deliberately flat. The tagline "Simply Powerful" is not decoration; it is a layout constraint. Pages are wide, uncluttered corridors of product photography where Gotham headings label rather than persuade, and the chrome stays out of the way.
 
@@ -373,6 +377,13 @@ components:
 - Category tabs scroll horizontally on mobile rather than wrapping
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

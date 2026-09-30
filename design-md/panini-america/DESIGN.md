@@ -4,6 +4,10 @@ name: "Panini America"
 source_url: "https://www.paniniamerica.net"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Panini America anchors every surface in #091d3d — a navy so dark it reads almost black at thumbnail scale, holding arena photography and foil-card close-ups without competing for visual dominance. The brand's emotional center is the randomized pack: a sealed product that could contain a rookie card worth thousands or a serial-numbered parallel, which means every CTA is pitched at the elevated moment of anticipation — "what's inside." Gold cuts across this midnight field the way foil does on a Prizm Holo, signaling premium, licensed, official. The page architecture is built for collector urgency: product drops surface near the top of the hierarchy, countdown timers and "limited edition" copy appear close to imagery, and the overall palette resists the bright-white retail default in favor of a dark-gallery treatment that lets photography deliver full contrast. Navigation carries the weight of a dozen licensed leagues — NBA, NFL, NHL, MLB, FIFA, College — so the top rail is dense with category depth organized by sport. Card imagery is presented at generous scale with tight cropping on athlete faces, reflecting the hobby's fundamental value: the player, the moment, the signature. Type scales skew toward bold condensed styles that match the energy of a draft-night broadcast rather than a lifestyle brand's understated weight. Display headings arrive in all-caps at high weight, compressed to occupy as little horizontal space as possible so photography can push through at full width. The result is a digital storefront closer to a collector's vault than a traditional retail grid — drama-forward, dark-field, and always one click away from a product drop. The single confirmed brand color (#091d3d) anchors the palette; all secondary values are inferred from brand knowledge and standard sports-collectibles conventions.
 
@@ -441,6 +445,13 @@ components:
 - Badge priority on mobile when multiple apply: Limited > Hot > New > Exclusive — display only the highest-priority badge per card to prevent overlap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

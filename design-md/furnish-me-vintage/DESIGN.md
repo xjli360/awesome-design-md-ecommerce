@@ -4,6 +4,10 @@ name: "Furnish Me Vintage"
 source_url: "https://www.furnishmevintage.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The warm golden amber (#efc01d) that surfaces in accents and hover states isn't chosen arbitrarily — it's the color of aged teak, honey walnut, and the patina collectors spend years searching for, pulled directly into the interface. Built on WordPress with an Elegant Themes / Divi foundation (ETmodules icon font, system-first type stacks), Furnish Me Vintage subordinates every design decision to furniture photography: surfaces stay a clean off-white (#f4f4f4, #f3f3f3) and the grid exists primarily as a neutral stage. Transactional controls — navigation links, CTA buttons, price figures — lean into a cool authority blue (#006799, #2ea3f2), the Divi-default hue that anchors the buyer's action layer without competing with the merchandise. The amber warmth (#efc01d, #f0b849) reserves itself for highlights, category chips in active state, and "New Arrival" badge fills, functioning as the visual signature that distinguishes the brand from plain-white auction houses. Text runs Open Sans on near-black (#2f2f2f) — utilitarian typography that makes no aesthetic claim, ceding that space entirely to a well-lit photograph of a Hans Wegner chair or Arne Vodder credenza. Borders and separation layers draw from a tight band of grays (#d9d9d9 to #eeeeee), with a quiet muted blue-gray (#bcc8c9) appearing in soft card dividers and secondary surfaces — the digital equivalent of catalog linen. Rounded corners sit at a modest {rounded.sm} throughout buttons and cards, reading as approachable without the precious roundness of fashion or beauty brands. Sold items take a direct red (#cc1818), unambiguous and urgent. The dark footer (#43454b) provides the one moment of enclosure in an otherwise open layout. The system's restraint is the point: every UI element exists to move the eye toward the inventory, where a single teak sideboard does more brand communication than any color or typographic choice ever could.
 
@@ -395,6 +399,13 @@ components:
 - Search expands from icon to full input bar on mobile via tap; no persistent bar at narrow width
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

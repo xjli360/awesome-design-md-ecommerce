@@ -4,6 +4,10 @@ name: "Raptis Rare Books"
 source_url: "https://www.raptisrarebooks.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A scholarly, hushed e-commerce experience built on a single dark ink #313131 that runs through every headline, body paragraph, button label, and footer link — a deliberate monochrome restraint that lets the books themselves provide all the color. The site reads like a rare-book room in digital form: generous white canvas (#ffffff) with soft surface cards (#f7f7f7) and hairline-thin borders (#e0e0e0) that suggest archival-quality presentation rather than retail urgency. Typography runs a system-native stack of -apple-system, Helvetica Neue, and sans-serif at modest weights — no display faces, no decorative flourishes, just clean information hierarchy that defers entirely to the photographed spines, dust jackets, and author signatures. Buttons are minimal rectangles with {rounded.sm} corners and the same #313131 fill, and the primary CTA text sits in white (#ffffff) — there is no secondary accent color, no brand voltage, no gradient. The search bar is a simple bordered rectangle, the navigation is a thin horizontal strip of links, and the product grid uses soft {rounded.md} cards with generous {spacing.lg} gutters. Every design decision whispers "the object is the hero" — the interface is a glass case, not a storefront.
 
@@ -399,6 +403,13 @@ components:
 - Breadcrumbs truncate on mobile, showing only the current page and one parent level
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

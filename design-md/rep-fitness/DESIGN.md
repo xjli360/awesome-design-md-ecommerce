@@ -4,6 +4,10 @@ name: "Rep Fitness"
 source_url: "https://www.repfitness.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The most unusual moment in the Rep Fitness palette isn't the deep navies (#001730, #272d45) that absorb the header and hero sections — it's #ffcf2a, a high-chroma gold that detonates on promotional badges, sale callouts, and discount overlays against near-black backgrounds. The contrast is intentional and hard: molten amber on nighttime blue reads as earned value signal, not lifestyle flattery. Neue Haas Grotesk in two optical sizes — `neue-haas-grotesk-display` at heavy weights for headlines, `neue-haas-grotesk-text` at regular for body copy — grounds the UI in a precision-instrument register: the same typeface choice a camera manufacturer or mechanical watch brand might make, here applied to power racks and barbells. Primary interactive actions run on a confident medium blue (#0078b5), a cooler note that sits in visual tension with the warm gold and prevents the palette from ever reading as automotive. A second, higher-saturation blue (#136dff) handles active links and inline affordances where additional differentiation is needed. The surface system runs almost entirely cool: a tight progression from near-white (#f8f7f5, #f4f4f6) through lavender-gray dividers (#d3d4dd, #e5e5eb) to muted blue-slate (#676986), giving the UI a workshop atmosphere without resorting to true industrial grays. Cards sit low-elevation on the warm canvas, bordered by hairline lavender rather than neutral gray, creating a faintly technical cast that differentiates Rep from lifestyle-first fitness brands. Corner radii stay conservative — `{rounded.xs}` on buttons, `{rounded.sm}` on cards — none of the pill shapes associated with consumer wellness apps. Section spacing is generous, product grids are dense, and specification data surfaces at full weight: the brand assumes its customer wants to read the numbers before committing to a $1,200 barbell.
 
@@ -425,6 +429,13 @@ components:
 - Footer four-column grid becomes single-column accordion on mobile; each column header is a tap-to-expand toggle
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

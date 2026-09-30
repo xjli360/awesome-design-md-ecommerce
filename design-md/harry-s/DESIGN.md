@@ -4,6 +4,10 @@ name: "Harry's"
 source_url: "https://www.harrys.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Harry's is a men's grooming brand built on the conviction that quality shaving and personal care should be accessible at a fair price, not wrapped in luxury markup. The visual system is anchored by a deep, confident navy — `#0626a9` — that reads as both heritage and modernity, appearing across primary buttons, navigation bars, and key product accents. This is balanced by a secondary palette that draws from barbershop warmth: `#ed1f34` for sale badges and promotional highlights, `#d44316` and `#f36d21` for energetic accents, and `#e0a529` for gold-star moments. The canvas is predominantly clean white (`#f7f7f7` and `#ffffff`), with surfaces softened by `#ededed` and `#dddddd` hairlines. Typography runs on a system of `-apple-system`, `Segoe UI`, and `Roboto` — utilitarian, legible, and unpretentious — with display sizes at 28px and body text at 16px, all at moderate weights (400–600) that never shout. The brand's signature design move is the pill-shaped button (`{rounded.full}`) and softly rounded cards (`{rounded.md}` at 12px), creating a tactile, approachable feel that contrasts with the sharp geometry of competitor blades. Product photography is hero-scale and lifestyle-driven, often set against the deep blue field or a warm `#e1e7ea` backdrop. The overall mood is trustworthy, straightforward, and slightly nostalgic — a modern barbershop that doesn't try to be cool, just honest.
 
@@ -321,6 +325,13 @@ components:
 - Accordion replaces tabbed content on mobile for product details
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -46,76 +46,6 @@
     }
   ],
   "colors": {
-    "#000000": {
-      "count": 60,
-      "sources": [
-        "https://gracelee.com/",
-        "https://gracelee.com/cdn/shop/t/56/compiled_assets/styles.css?v=91110124623524419571788170292"
-      ]
-    },
-    "#ffffff": {
-      "count": 26,
-      "sources": [
-        "https://gracelee.com/",
-        "https://gracelee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://gracelee.com/cdn/shop/t/56/compiled_assets/styles.css?v=91110124623524419571788170292"
-      ]
-    },
-    "#f0efeb": {
-      "count": 14,
-      "sources": [
-        "https://gracelee.com/"
-      ]
-    },
-    "#666666": {
-      "count": 6,
-      "sources": [
-        "https://gracelee.com/"
-      ]
-    },
-    "#333333": {
-      "count": 6,
-      "sources": [
-        "https://gracelee.com/"
-      ]
-    },
-    "#00000000": {
-      "count": 5,
-      "sources": [
-        "https://gracelee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://gracelee.com/cdn/shop/t/56/compiled_assets/styles.css?v=91110124623524419571788170292"
-      ]
-    },
-    "#0000001a": {
-      "count": 4,
-      "sources": [
-        "https://gracelee.com/cdn/shop/t/56/compiled_assets/styles.css?v=91110124623524419571788170292"
-      ]
-    },
-    "#f2f2f2": {
-      "count": 2,
-      "sources": [
-        "https://gracelee.com/"
-      ]
-    },
-    "#dedede": {
-      "count": 2,
-      "sources": [
-        "https://gracelee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
-    "#00000026": {
-      "count": 2,
-      "sources": [
-        "https://gracelee.com/cdn/shop/t/56/compiled_assets/styles.css?v=91110124623524419571788170292"
-      ]
-    },
-    "#00000066": {
-      "count": 2,
-      "sources": [
-        "https://gracelee.com/cdn/shop/t/56/compiled_assets/styles.css?v=91110124623524419571788170292"
-      ]
-    },
     "#8b0000": {
       "count": 1,
       "sources": [
@@ -124,6 +54,12 @@
     },
     "#006400": {
       "count": 1,
+      "sources": [
+        "https://gracelee.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 26,
       "sources": [
         "https://gracelee.com/"
       ]
@@ -140,20 +76,32 @@
         "https://gracelee.com/"
       ]
     },
-    "#c8c8c8": {
-      "count": 1,
+    "#000000": {
+      "count": 60,
       "sources": [
         "https://gracelee.com/"
       ]
     },
-    "#262626": {
-      "count": 1,
+    "#f0efeb": {
+      "count": 14,
       "sources": [
         "https://gracelee.com/"
       ]
     },
-    "#c4c4c2": {
-      "count": 1,
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://gracelee.com/"
+      ]
+    },
+    "#333333": {
+      "count": 6,
+      "sources": [
+        "https://gracelee.com/"
+      ]
+    },
+    "#666666": {
+      "count": 6,
       "sources": [
         "https://gracelee.com/"
       ]
@@ -188,24 +136,36 @@
         "https://gracelee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
       ]
     },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://gracelee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 4,
+      "sources": [
+        "https://gracelee.com/cdn/shop/t/56/compiled_assets/styles.css?v=91110124623524419571788170292"
+      ]
+    },
     "#0a142f": {
       "count": 1,
+      "sources": [
+        "https://gracelee.com/cdn/shop/t/56/compiled_assets/styles.css?v=91110124623524419571788170292"
+      ]
+    },
+    "#00000066": {
+      "count": 2,
       "sources": [
         "https://gracelee.com/cdn/shop/t/56/compiled_assets/styles.css?v=91110124623524419571788170292"
       ]
     }
   },
   "font_families": {
-    "Anuphan": [
-      "https://gracelee.com/"
-    ],
-    "Assistant": [
-      "https://gracelee.com/"
-    ],
     "sans-serif": [
       "https://gracelee.com/"
     ],
-    "sans-serif !important": [
+    "Anuphan": [
       "https://gracelee.com/"
     ]
   },
@@ -367,18 +327,19 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "GRACE LEE",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-200",
   "tokens": {
     "colors.primary": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://gracelee.com/",
-        "https://gracelee.com/cdn/shop/t/56/compiled_assets/styles.css?v=91110124623524419571788170292"
+        "https://gracelee.com/"
       ]
     },
     "colors.ink": {
+      "value": "#121212",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -386,15 +347,15 @@
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://gracelee.com/",
-        "https://gracelee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://gracelee.com/cdn/shop/t/56/compiled_assets/styles.css?v=91110124623524419571788170292"
+        "https://gracelee.com/"
       ]
     },
     "colors.body": {
+      "value": "#333333",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -402,6 +363,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#666666",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -409,6 +371,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#dedede",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -416,6 +379,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#f0efeb",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -423,6 +387,7 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#f2f2f2",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -430,15 +395,15 @@
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://gracelee.com/",
-        "https://gracelee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://gracelee.com/cdn/shop/t/56/compiled_assets/styles.css?v=91110124623524419571788170292"
+        "https://gracelee.com/"
       ]
     },
     "colors.border-strong": {
+      "value": "#999999",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -446,6 +411,7 @@
       ]
     },
     "colors.border-subtle": {
+      "value": "#cccccc",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -453,6 +419,7 @@
       ]
     },
     "colors.footer-ink": {
+      "value": "#0a142f",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -460,6 +427,7 @@
       ]
     },
     "colors.overlay-scrim": {
+      "value": "#00000066",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -467,6 +435,7 @@
       ]
     },
     "colors.overlay-faint": {
+      "value": "#0000001a",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -474,6 +443,7 @@
       ]
     },
     "colors.accent-info": {
+      "value": "#1990c6",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -481,6 +451,7 @@
       ]
     },
     "colors.accent-info-deep": {
+      "value": "#136f99",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -488,6 +459,7 @@
       ]
     },
     "colors.status-success": {
+      "value": "#006400",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -495,6 +467,7 @@
       ]
     },
     "colors.status-success-bright": {
+      "value": "#3ed660",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -502,6 +475,7 @@
       ]
     },
     "colors.status-alert": {
+      "value": "#8b0000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -509,6 +483,7 @@
       ]
     },
     "colors.status-highlight": {
+      "value": "#ee9441",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -516,110 +491,421 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "Anuphan, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 400,
+        "lineHeight": 1.1,
+        "letterSpacing": "0em"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "Anuphan, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": "0em"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "Anuphan, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": 700,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.15em"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "Anuphan, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": 400,
+        "lineHeight": 1.8,
+        "letterSpacing": "0em"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Anuphan, sans-serif",
+        "fontSize": "10px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0em"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Anuphan, sans-serif",
+        "fontSize": "9px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.1em"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "Anuphan, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.15em"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.lg} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.display-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.footer-ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.status-highlight}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.metal-swatch-selector": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#8b0000": {
+        "selector": ":root",
+        "property": "--color-error",
+        "declaration": "#8B0000",
+        "url": "https://gracelee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45dc182b2c721b00f7e3b09c1b91efa5ce63d421704421e2845e93c660c9e5e9"
+      },
+      "#006400": {
+        "selector": ":root",
+        "property": "--color-success",
+        "declaration": "#006400",
+        "url": "https://gracelee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45dc182b2c721b00f7e3b09c1b91efa5ce63d421704421e2845e93c660c9e5e9"
+      },
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--color-white",
+        "declaration": "#FFFFFF",
+        "url": "https://gracelee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45dc182b2c721b00f7e3b09c1b91efa5ce63d421704421e2845e93c660c9e5e9"
+      },
+      "#3ed660": {
+        "selector": ":root",
+        "property": "--color-instock",
+        "declaration": "#3ED660",
+        "url": "https://gracelee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45dc182b2c721b00f7e3b09c1b91efa5ce63d421704421e2845e93c660c9e5e9"
+      },
+      "#ee9441": {
+        "selector": ":root",
+        "property": "--color-lowstock",
+        "declaration": "#EE9441",
+        "url": "https://gracelee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45dc182b2c721b00f7e3b09c1b91efa5ce63d421704421e2845e93c660c9e5e9"
+      },
+      "#000000": {
+        "selector": ".custom-color-quick-add",
+        "property": "--quick-add-foreground",
+        "declaration": "#000000",
+        "url": "https://gracelee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45dc182b2c721b00f7e3b09c1b91efa5ce63d421704421e2845e93c660c9e5e9"
+      },
+      "#f0efeb": {
+        "selector": ".color-custom-popover,\n    .color-custom-popover .text-block",
+        "property": "--color-background",
+        "declaration": "#F0EFEB",
+        "url": "https://gracelee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45dc182b2c721b00f7e3b09c1b91efa5ce63d421704421e2845e93c660c9e5e9"
+      },
+      "#f2f2f2": {
+        "selector": ":root",
+        "property": "--color-secondary-button-hover-border",
+        "declaration": "#f2f2f2",
+        "url": "https://gracelee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45dc182b2c721b00f7e3b09c1b91efa5ce63d421704421e2845e93c660c9e5e9"
+      },
+      "#333333": {
+        "selector": ":root",
+        "property": "--color-input-text",
+        "declaration": "rgb(51 51 51 / 1.0)",
+        "url": "https://gracelee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45dc182b2c721b00f7e3b09c1b91efa5ce63d421704421e2845e93c660c9e5e9"
+      },
+      "#666666": {
+        "selector": ":root",
+        "property": "--color-input-border",
+        "declaration": "rgb(102 102 102 / 1.0)",
+        "url": "https://gracelee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45dc182b2c721b00f7e3b09c1b91efa5ce63d421704421e2845e93c660c9e5e9"
+      },
+      "#999999": {
+        "selector": ":root",
+        "property": "--color-variant-text",
+        "declaration": "rgb(153 153 153 / 1.0)",
+        "url": "https://gracelee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45dc182b2c721b00f7e3b09c1b91efa5ce63d421704421e2845e93c660c9e5e9"
+      },
+      "#cccccc": {
+        "selector": "#cart-drawer .quantity-selector",
+        "property": "border",
+        "declaration": "1px solid rgb(204, 204, 204)",
+        "url": "https://gracelee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45dc182b2c721b00f7e3b09c1b91efa5ce63d421704421e2845e93c660c9e5e9"
+      },
+      "#1990c6": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#1990c6",
+        "url": "https://gracelee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#136f99": {
+        "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+        "property": "background-color",
+        "declaration": "#136f99",
+        "url": "https://gracelee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#121212": {
+        "selector": ".shopify-payment-button__button .path",
+        "property": "stroke",
+        "declaration": "#121212",
+        "url": "https://gracelee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://gracelee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#0000001a": {
+        "selector": ".layered-slideshow__panel--drop-shadow:not(:last-child) .layered-slideshow__panel-content",
+        "property": "box-shadow",
+        "declaration": "4px 0 12px #0000001a",
+        "url": "https://gracelee.com/cdn/shop/t/56/compiled_assets/styles.css?v=91110124623524419571788170292",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "cd2846e239b01f65a5692d7eaeef49865d8e912d5180bbfb0a33c4081022ef74"
+      },
+      "#0a142f": {
+        "selector": ".account-button__fallback",
+        "property": "background-color",
+        "declaration": "var(--shopify-account-color-accent, #0a142f)",
+        "url": "https://gracelee.com/cdn/shop/t/56/compiled_assets/styles.css?v=91110124623524419571788170292",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "cd2846e239b01f65a5692d7eaeef49865d8e912d5180bbfb0a33c4081022ef74"
+      },
+      "#00000066": {
+        "selector": ".slideshow-controls__dots button[aria-selected=true]:after",
+        "property": "box-shadow",
+        "declaration": "inset 0 0 0 1.5px #0006",
+        "url": "https://gracelee.com/cdn/shop/t/56/compiled_assets/styles.css?v=91110124623524419571788170292",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "cd2846e239b01f65a5692d7eaeef49865d8e912d5180bbfb0a33c4081022ef74"
+      }
+    },
+    "font_families": {
+      "sans-serif": {
+        "selector": ":root",
+        "property": "--font-body--family",
+        "declaration": "Assistant, sans-serif",
+        "url": "https://gracelee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45dc182b2c721b00f7e3b09c1b91efa5ce63d421704421e2845e93c660c9e5e9"
+      },
+      "Anuphan": {
+        "selector": ":root",
+        "property": "--font-heading--family",
+        "declaration": "\"Anuphan\", sans-serif",
+        "url": "https://gracelee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45dc182b2c721b00f7e3b09c1b91efa5ce63d421704421e2845e93c660c9e5e9"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

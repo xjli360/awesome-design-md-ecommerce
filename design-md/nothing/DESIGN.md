@@ -4,6 +4,10 @@ name: "Nothing"
 source_url: "https://nothing.tech"
 captured_at: "2026-09-28T09:07:53.103012+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Nothing's storefront is built on a strict monochrome foundation — pure black (#000000) and white (#ffffff) — accented by a small, deliberate set of signal colors defined as CSS custom properties: accent-red (#c6102e), accent-yellow (#ffc700), and accent-blue (#002f6c), plus supplementary brights (#27d4e0, #ff42ad, #ffee00, #f4e300) likely reserved for Glyph Interface or campaign call-outs. A neutral greyscale ramp (#f4f4f4, #f5f5f5, #e5e7eb, #b1b3b3, #999999) supports card surfaces, dividers, and muted text without competing with the black/white core.
   Typography is distinctive and brand-owned: Ndot-Regular renders product names in a lowercase, dot-matrix style (observed at 20px/55 weight), NType82-Regular serves body copy (observed at 16px/1.4 line-height), and NType82-Headline is inferred for larger display type though its size/weight were not directly observed. Geist Mono Variable and system monospace stacks are treated as inferred candidates for technical captions or spec labels, consistent with the brand's engineering-forward tone.
@@ -152,6 +156,11 @@ This is a recommended breakpoint structure, not measured site behavior, since no
 Touch targets for buttons and nav items should maintain a minimum 44×44px hit area; the nav-bar is expected to collapse into a drawer or overlay below the tablet breakpoint, though this collapse pattern was not observed in the supplied CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/token extraction only; no rendered page, computed layout, or interaction states were observed. The mapping of `--accent-red`, `--accent-yellow`, and `--accent-blue` to specific UI roles (e.g., primary button vs. badge vs. warning) is inferred from variable naming, not confirmed usage. Font sizes/weights for `display-xl`, `display-md`, `body-sm`, `caption`, and `button-md` are proposed scale extrapolations beyond the two directly observed rules (`.type-product-name`, `.type-body`). Ndot-Regular, Ndot-Bold, NType82-Regular, and NType82-Headline appear to be proprietary Nothing typefaces; their licensing and availability outside the brand's own assets were not verified. Mobile navigation collapse, hover/focus states, scroll behavior, and actual grid layouts were not observed and are marked proposed throughout. Additional palette colors (e.g., translucent blacks/whites, dark-mode overlay tints) exist in the evidence but were omitted from role assignment due to insufficient context on their applied usage.

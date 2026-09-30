@@ -30,24 +30,6 @@
     }
   ],
   "colors": {
-    "#ffffff": {
-      "count": 2,
-      "sources": [
-        "https://www.pipsnacks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
-    "#00000000": {
-      "count": 2,
-      "sources": [
-        "https://www.pipsnacks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
-    "#dedede": {
-      "count": 2,
-      "sources": [
-        "https://www.pipsnacks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
     "#95c058": {
       "count": 1,
       "sources": [
@@ -72,6 +54,18 @@
         "https://www.pipsnacks.com/"
       ]
     },
+    "#ffffff": {
+      "count": 2,
+      "sources": [
+        "https://www.pipsnacks.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.pipsnacks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
     "#1990c6": {
       "count": 1,
       "sources": [
@@ -89,6 +83,12 @@
       "sources": [
         "https://www.pipsnacks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
       ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.pipsnacks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
     }
   },
   "font_families": {
@@ -102,12 +102,7 @@
       "https://www.pipsnacks.com/"
     ],
     "sans-serif": [
-      "https://www.pipsnacks.com/",
-      "https://use.typekit.net/vis3rhj.css"
-    ],
-    "vinyl": [
-      "https://www.pipsnacks.com/",
-      "https://use.typekit.net/vis3rhj.css"
+      "https://www.pipsnacks.com/"
     ]
   },
   "css_rules": [
@@ -158,10 +153,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Pip's Heirloom Snacks | The Classics, Made Better with Heirloom Corn",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-300",
   "tokens": {
     "colors.primary": {
+      "value": "#95c058",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -169,6 +165,7 @@
       ]
     },
     "colors.ink": {
+      "value": "#512d1e",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -176,13 +173,15 @@
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.pipsnacks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+        "https://www.pipsnacks.com/"
       ]
     },
     "colors.body": {
+      "value": "#121212",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -190,6 +189,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#b69775",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -197,6 +197,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#dedede",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -204,6 +205,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#dedede",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -211,20 +213,23 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.pipsnacks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+        "https://www.pipsnacks.com/"
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.pipsnacks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+        "https://www.pipsnacks.com/"
       ]
     },
     "colors.accent-teal": {
+      "value": "#3eadb8",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -232,6 +237,7 @@
       ]
     },
     "colors.accent-blue": {
+      "value": "#1990c6",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -239,6 +245,7 @@
       ]
     },
     "colors.accent-blue-hover": {
+      "value": "#136f99",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -246,6 +253,7 @@
       ]
     },
     "colors.transparent": {
+      "value": "#00000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -253,110 +261,369 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "PlutoHeavy, sans-serif",
+        "fontSize": "56px",
+        "fontWeight": 800,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "Pluto, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "PlutoMedium, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 600,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "Pluto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Pluto, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Pluto, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 500,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "PlutoMedium, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": 500,
+        "lineHeight": 1,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "typography": "{typography.body-md}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.lg}",
+        "hairline": "{colors.hairline}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "accent": "{colors.muted}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "titleTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "ctaButton": "button-primary",
+        "padding": "{spacing.section} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-teal}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.full}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xs} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.farm-provenance-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.lg}",
+        "padding": "{spacing.lg}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "accent": "{colors.muted}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#95c058": {
+        "selector": ":root",
+        "property": "--solid-light-green",
+        "declaration": "#95C058",
+        "url": "https://www.pipsnacks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "3d5e262df2804784f9b67e10de6b19df6cf688aa8310bf866b0c3017cb7dbcf9"
+      },
+      "#512d1e": {
+        "selector": ":root",
+        "property": "--solid-cafe-noir",
+        "declaration": "#512D1E",
+        "url": "https://www.pipsnacks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "3d5e262df2804784f9b67e10de6b19df6cf688aa8310bf866b0c3017cb7dbcf9"
+      },
+      "#3eadb8": {
+        "selector": ":root",
+        "property": "--solid-light-blue",
+        "declaration": "#3EADB8",
+        "url": "https://www.pipsnacks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "3d5e262df2804784f9b67e10de6b19df6cf688aa8310bf866b0c3017cb7dbcf9"
+      },
+      "#b69775": {
+        "selector": ":root",
+        "property": "--solid-cardboard",
+        "declaration": "#B69775",
+        "url": "https://www.pipsnacks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "3d5e262df2804784f9b67e10de6b19df6cf688aa8310bf866b0c3017cb7dbcf9"
+      },
+      "#ffffff": {
+        "selector": ".pip-button",
+        "property": "color",
+        "declaration": "white",
+        "url": "https://www.pipsnacks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "3d5e262df2804784f9b67e10de6b19df6cf688aa8310bf866b0c3017cb7dbcf9"
+      },
+      "#00000000": {
+        "selector": ".shopify-payment-button__button",
+        "property": "box-shadow",
+        "declaration": "0 0 #0000",
+        "url": "https://www.pipsnacks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#1990c6": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#1990c6",
+        "url": "https://www.pipsnacks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#136f99": {
+        "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+        "property": "background-color",
+        "declaration": "#136f99",
+        "url": "https://www.pipsnacks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#121212": {
+        "selector": ".shopify-payment-button__button .path",
+        "property": "stroke",
+        "declaration": "#121212",
+        "url": "https://www.pipsnacks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://www.pipsnacks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      }
+    },
+    "font_families": {
+      "Pluto": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Pluto\"",
+        "url": "https://www.pipsnacks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "3d5e262df2804784f9b67e10de6b19df6cf688aa8310bf866b0c3017cb7dbcf9"
+      },
+      "PlutoHeavy": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"PlutoHeavy\"",
+        "url": "https://www.pipsnacks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "3d5e262df2804784f9b67e10de6b19df6cf688aa8310bf866b0c3017cb7dbcf9"
+      },
+      "PlutoMedium": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"PlutoMedium\"",
+        "url": "https://www.pipsnacks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "3d5e262df2804784f9b67e10de6b19df6cf688aa8310bf866b0c3017cb7dbcf9"
+      },
+      "sans-serif": {
+        "selector": ".tk-vinyl",
+        "property": "font-family",
+        "declaration": "\"vinyl\",sans-serif",
+        "url": "https://www.pipsnacks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "3d5e262df2804784f9b67e10de6b19df6cf688aa8310bf866b0c3017cb7dbcf9"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

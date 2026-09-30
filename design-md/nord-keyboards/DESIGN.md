@@ -4,6 +4,10 @@ name: "Nord Keyboards"
 source_url: "https://www.nordkeyboards.com"
 captured_at: "2026-09-28T09:15:16.479168+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is grounded in CSS extracted from the Nord Keyboards site, a Swedish
   manufacturer of stage pianos and organs. The defining brand color is a deep signature
@@ -176,6 +180,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be at least 44px in height, particularly for the primary/secondary buttons and header dropdown triggers. The header's dropdown panels (`Header__DropdownContent`) should collapse into accordions on mobile given their absolute-positioned, full-width desktop implementation.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

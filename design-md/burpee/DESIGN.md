@@ -4,6 +4,10 @@ name: "Burpee"
 source_url: "https://www.burpee.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Seed packets carry more data per square inch than most product pages ever attempt — days to maturity, USDA hardiness zones, germination rates, and spacing requirements all compete for real estate before price even enters the conversation. Burpee's UI inherits this density directly: product detail pages function closer to botanical data sheets than to standard e-commerce, and the navigation tree branches by plant family, sun tolerance, and harvest timing rather than by color or occasion. The brand's garden green (#3a6e2f) anchors primary actions and category headers, grounding every surface in something organically legible before any photograph loads. Against that green, an amber-orange (#e07228) signals sale events and promotional badges — a pairing that reads simultaneously as harvest-season warmth and commercial urgency, which is exactly what a spring seed sale requires. Type runs in a clean transitional serif for display — carrying the authority of a 150-year catalog without the rigidity of a financial institution — while body copy settles into a readable sans-serif that accommodates dense planting guides and customer reviews at the same scroll. White canvas (#ffffff) and a pale sage surface (#f3f7f0) create breathing room between photography-heavy category rows, while product cards float on surface-card white with a soft hairline border ({rounded.sm}) rather than drop shadows, keeping the focus on the seed packet artwork itself. Rounded corners stay conservative throughout — {rounded.sm} on cards, {rounded.xs} on badges — because this brand's visual credibility comes from specificity, not softness. The planting-zone finder widget, persistent in the footer and recallable from the header, anchors the entire experience in a geographic utility most DTC brands never need to consider; it is the most honest expression of what Burpee actually sells, which is not seeds but rather successful gardens in specific climates.
 
@@ -401,6 +405,14 @@ components:
 - Planting zone widget → full-width input on mobile; compact inline form on desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

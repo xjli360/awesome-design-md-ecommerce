@@ -54,19 +54,6 @@
     }
   ],
   "colors": {
-    "#ffffff": {
-      "count": 3,
-      "sources": [
-        "https://www.braveandkindbooks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://www.braveandkindbooks.com/cdn/shop/t/6/assets/base.css?v=94266557971103095941725463321"
-      ]
-    },
-    "#ffffff00": {
-      "count": 3,
-      "sources": [
-        "https://www.braveandkindbooks.com/cdn/shop/t/6/assets/base.css?v=94266557971103095941725463321"
-      ]
-    },
     "#fcfcfc": {
       "count": 2,
       "sources": [
@@ -97,22 +84,10 @@
         "https://www.braveandkindbooks.com/"
       ]
     },
-    "#00000000": {
-      "count": 2,
+    "#ffffff": {
+      "count": 3,
       "sources": [
         "https://www.braveandkindbooks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
-    "#dedede": {
-      "count": 2,
-      "sources": [
-        "https://www.braveandkindbooks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
-    "#0000000d": {
-      "count": 2,
-      "sources": [
-        "https://www.braveandkindbooks.com/cdn/shop/t/6/assets/base.css?v=94266557971103095941725463321"
       ]
     },
     "#1990c6": {
@@ -129,6 +104,12 @@
     },
     "#121212": {
       "count": 1,
+      "sources": [
+        "https://www.braveandkindbooks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
       "sources": [
         "https://www.braveandkindbooks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
       ]
@@ -309,10 +290,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Home\n – Brave + Kind Bookshop",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-200",
   "tokens": {
     "colors.primary": {
+      "value": "#103948",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -320,6 +302,7 @@
       ]
     },
     "colors.ink": {
+      "value": "#103948",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -327,6 +310,7 @@
       ]
     },
     "colors.canvas": {
+      "value": "#fcfcfc",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -334,6 +318,7 @@
       ]
     },
     "colors.body": {
+      "value": "#103948",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -341,6 +326,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#18566c",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -348,6 +334,7 @@
       ]
     },
     "colors.accent": {
+      "value": "#bc5631",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -355,6 +342,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#dedede",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -362,6 +350,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#ebeced",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -369,14 +358,15 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.braveandkindbooks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://www.braveandkindbooks.com/cdn/shop/t/6/assets/base.css?v=94266557971103095941725463321"
+        "https://www.braveandkindbooks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
       ]
     },
     "colors.on-primary": {
+      "value": "#fcfcfc",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -384,6 +374,7 @@
       ]
     },
     "colors.info": {
+      "value": "#1990c6",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -391,6 +382,7 @@
       ]
     },
     "colors.info-hover": {
+      "value": "#136f99",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -398,6 +390,7 @@
       ]
     },
     "colors.overlay": {
+      "value": "#00000080",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -405,6 +398,7 @@
       ]
     },
     "colors.dark": {
+      "value": "#121212",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -412,6 +406,7 @@
       ]
     },
     "colors.black": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -419,110 +414,363 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "Manuale, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.96px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "Manuale, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": 600,
+        "lineHeight": 1.25,
+        "letterSpacing": "0.96px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "Manuale, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0.96px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "Manuale, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 400,
+        "lineHeight": 1.8,
+        "letterSpacing": "0.96px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Manuale, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Manuale, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "Manuale, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 500,
+        "lineHeight": 1,
+        "letterSpacing": "0.96px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "border": "1px solid {colors.hairline}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "border": "1px solid {colors.hairline}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "typography": "{typography.body-sm}",
+        "borderBottom": "1px solid {colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}",
+        "shadow": "0 1px 2px {colors.overlay}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.primary}",
+        "border": "1px solid {colors.primary}",
+        "rounded": "{rounded.full}",
+        "typography": "{typography.caption}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "border": "1px solid {colors.hairline}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.cart-drawer": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "accentButton": "{colors.info}",
+        "accentButtonHover": "{colors.info-hover}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.lg}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#fcfcfc": {
+        "selector": ":root,\n        .color-scheme-1",
+        "property": "--gradient-background",
+        "declaration": "#fcfcfc",
+        "url": "https://www.braveandkindbooks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1c938c8f5a98b472414f4b60c567624a7f1450a12f905da49c4ae4d035f7cee6"
+      },
+      "#ebeced": {
+        "selector": ".color-scheme-2",
+        "property": "--gradient-background",
+        "declaration": "#ebeced",
+        "url": "https://www.braveandkindbooks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1c938c8f5a98b472414f4b60c567624a7f1450a12f905da49c4ae4d035f7cee6"
+      },
+      "#103948": {
+        "selector": ".color-scheme-3",
+        "property": "--gradient-background",
+        "declaration": "#103948",
+        "url": "https://www.braveandkindbooks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1c938c8f5a98b472414f4b60c567624a7f1450a12f905da49c4ae4d035f7cee6"
+      },
+      "#bc5631": {
+        "selector": ".color-scheme-4",
+        "property": "--gradient-background",
+        "declaration": "#bc5631",
+        "url": "https://www.braveandkindbooks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1c938c8f5a98b472414f4b60c567624a7f1450a12f905da49c4ae4d035f7cee6"
+      },
+      "#18566c": {
+        "selector": ".color-scheme-5",
+        "property": "--gradient-background",
+        "declaration": "#18566c",
+        "url": "https://www.braveandkindbooks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1c938c8f5a98b472414f4b60c567624a7f1450a12f905da49c4ae4d035f7cee6"
+      },
+      "#ffffff": {
+        "selector": ".shopify-payment-button__button",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://www.braveandkindbooks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#1990c6": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#1990c6",
+        "url": "https://www.braveandkindbooks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#136f99": {
+        "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+        "property": "background-color",
+        "declaration": "#136f99",
+        "url": "https://www.braveandkindbooks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#121212": {
+        "selector": ".shopify-payment-button__button .path",
+        "property": "stroke",
+        "declaration": "#121212",
+        "url": "https://www.braveandkindbooks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://www.braveandkindbooks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#000000": {
+        "selector": ".field__input:-webkit-autofill~.field__button,.field__input:-webkit-autofill~.field__label,.customer .field input:-webkit-autofill~label",
+        "property": "color",
+        "declaration": "#000",
+        "url": "https://www.braveandkindbooks.com/cdn/shop/t/6/assets/base.css?v=94266557971103095941725463321",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "ec0136e497b61a3a80bc251071e4b4e3dc0b71089d26063e58fa38a86c976a74"
+      },
+      "#00000080": {
+        "selector": ".animate--hover-3d-lift .card-wrapper:hover .card--card,.animate--hover-3d-lift .card-wrapper:hover .card--standard .card__inner,.animate--hover-3d-lift .button:not(.button--tertiary):not([disabled]):hover,.animate--hover-3d-lift .shopify-challenge__button:not([disabled]):hover,.animate--hover-3d-li",
+        "property": "box-shadow",
+        "declaration": "-1rem -1rem 1rem -1rem #0000000d,1rem 1rem 1rem -1rem #0000000d,0 0 .5rem #fff0,0 2rem 3.5rem -2rem #00000080",
+        "url": "https://www.braveandkindbooks.com/cdn/shop/t/6/assets/base.css?v=94266557971103095941725463321",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "ec0136e497b61a3a80bc251071e4b4e3dc0b71089d26063e58fa38a86c976a74"
+      }
+    },
+    "font_families": {
+      "Manuale": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Manuale",
+        "url": "https://www.braveandkindbooks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1c938c8f5a98b472414f4b60c567624a7f1450a12f905da49c4ae4d035f7cee6"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

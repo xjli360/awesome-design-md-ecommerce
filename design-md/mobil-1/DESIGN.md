@@ -4,6 +4,10 @@ name: "Mobil 1"
 source_url: "https://mobil.com"
 captured_at: "2026-09-29T04:29:43.522880+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from static CSS evidence for mobil.com, the corporate ExxonMobil site housing the Mobil™ and Mobil 1™ lubricants business. The observed palette is narrow and utilitarian: a single saturated blue (#0e469b) alongside a grayscale ink range (#333333, #454545, #848484) and white (#ffffff). No secondary brand accent, warning, or success colors were present in the supplied evidence, so status and decorative colors are proposed as reuses of the existing grayscale/blue values rather than invented.
 
@@ -150,6 +154,13 @@ components:
 Touch targets are recommended at a minimum 44×44px for buttons and nav items. The multi-level mega-menu (`.dropdown-submenu`, `.nav-meganav-subitem`) should collapse into an accordion pattern on narrow viewports. This table is a recommendation based on common responsive conventions, not measured site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

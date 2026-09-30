@@ -4,6 +4,10 @@ name: "Parasol"
 source_url: "https://parasolco.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A baby-care brand that wraps its products in a botanical green (#2b361b) and a blush pink (#f2bdb6) — a pairing that reads less like a nursery pastel and more like a forest floor at dawn. The green anchors the primary button and the top navigation bar, while the pink surfaces in secondary accents, hover states, and the soft glow of the subscription-callout badge. The canvas is a warm off-white (#f3efe9) rather than a clinical white, and the body text runs at #4f4f4f — a charcoal that avoids the harshness of pure black on a baby brand. Rubik, a geometric sans-serif with a friendly circular 'o' and open apertures, carries all text at modest weights (400 for body, 500 for buttons, 600 for titles), never exceeding 700. The system uses rounded corners sparingly — buttons get {rounded.sm} (8px), cards get {rounded.md} (12px), and only the subscription badge and search input reach {rounded.full} (pill shape). There is no hard corner on any interactive element, but the brand avoids the over-softness of a toy brand; the 8px radius on buttons feels intentional, not accidental. The product grid uses a 2-column layout on mobile and 3-column on desktop, with each card showing a single hero image, the product name in {typography.title-md}, a price line, and a "Subscribe & Save" toggle that switches the CTA from "Add to Cart" to "Subscribe Now" — the primary green button (#2b361b) with white text (#ffffff). The footer is a dense column of links in {typography.body-sm} at #4f4f4f, with a newsletter signup that mirrors the pill-shaped search bar. The brand's voice is direct and reassuring — "Gentle on skin. Strong on protection." — and the design system follows suit: clean, warm, and uncluttered, with the green-pink duo doing all the emotional work.
 
@@ -310,6 +314,13 @@ components:
 - Subscription toggle collapses from side-by-side to stacked on very narrow screens (< 480px)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

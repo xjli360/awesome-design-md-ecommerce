@@ -4,6 +4,10 @@ name: "Spillers Records"
 source_url: "https://spillersrecords.co.uk"
 captured_at: "2026-09-29T04:18:12.779701+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Spillers Records is presented through a standard WordPress "Twenty Twelve" theme installation, extended with Gutenberg block-editor defaults and a handful of third-party plugin styles (YouTube embed, Facebook dialog). No custom brand stylesheet or bespoke typeface was found in the supplied evidence; the visual identity observed is therefore largely the WordPress default toolkit rather than a purpose-built Spillers brand system.
   The one deliberately-set brand signal is a custom body background color, a warm mustard/gold (#edb621), applied via `body.custom-background`. Buttons across the block editor consistently render as a dark slate (#32373c) with white text, which is treated here as the primary interactive color. Supporting grays (#444444 body text, #757575 muted, #f4f4f4/#ebebeb surfaces, #d2d2d2/#cccccc hairlines) come from the theme's block CSS for buttons, file downloads, and hover/focus states. A red (#e62117) appears only on a YouTube-subscribe plugin button and is treated as an inferred "badge/urgent" accent, not a core brand color.
@@ -147,6 +151,13 @@ Proposed breakpoints (not measured from live site):
 Touch targets for button-primary and search should maintain a minimum ~44px tap height, consistent with the padding scale defined above. Navigation collapse behavior (hamburger vs. inline) is a recommendation only — no responsive or interaction CSS was present in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

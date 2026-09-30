@@ -4,6 +4,10 @@ name: "Supergiant Games Store"
 source_url: "https://store.supergiantgames.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A storefront that feels less like a shop and more like a developer’s personal table at a convention, built on a foundation of soft, airy pastels and the quiet confidence of a studio that lets its games speak first. The palette is anchored not by a single brand color but by a constellation of gentle tones — `#c1e9ff` and `#e1fcff` read as morning sky, `#eceafb` and `#f0edfe` as faint lavender, `#bde7ff` as a slightly deeper breath of blue — all set against a `#f4f5f6` canvas that is barely-there warm gray. The most distinctive accent, `#5b5b5b`, a warm dark charcoal, serves as the primary ink for body copy and UI text, avoiding the harshness of pure black and keeping the overall mood soft and approachable. Buttons and interactive elements use `{rounded.full}` pill shapes, echoing the friendly, hand-drawn quality of Supergiant’s character art. The typography runs Shopify Sans Medium and Regular, a clean, modern sans-serif that stays out of the way of the product photography and game key art. There are no hard corners on CTAs or badges — every interactive edge is softened, every surface feels like it’s been lightly brushed. The store’s design trusts the emotional weight of the game worlds (the warm golds of *Hades*, the neon pinks of *Transistor*, the deep greens of *Bastion*) to provide the visual drama, while the UI itself remains a calm, neutral container. This is a store that knows its audience is here for the art and the story, not the checkout flow.
 
@@ -331,6 +335,13 @@ components:
 - Badges remain visible on all breakpoints but may truncate text on very small screens (e.g., "Limited Edition" becomes "Limited").
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

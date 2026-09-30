@@ -4,6 +4,10 @@ name: "Phantom Glass"
 source_url: "https://www.phantom.glass"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A brand built on the tension between near-black obsidian and a single blood-red accent — #191919 as the infinite void of a turned-off screen, #a42121 as the alert, the heartbeat, the warning light that says this glass is alive. The extracted palette reads like a hardware spec sheet: #101010 for deepest shadow, #5f5f5f and #d6d6d6 for the graduated greys of a precision-machined edge, #e7ff14 as a neon-yellow jolt that appears in badges and highlights, and #1a7ac4 / #67b2ff as the cool blue of a tempered surface under studio lighting. The brand's typography stack splits between DM Sans (the clean, geometric sans for product names and navigation) and Playfair Display (the serif for hero headlines that want to feel like engraved steel). Every corner is either razor-sharp at `{rounded.none}` or softly radiused at `{rounded.sm}` — there is no pill shape, no friendliness. The canvas is `#ffffff` but the real canvas is `#191919`: dark mode is the default, light mode is the exception. Product cards float on `{colors.surface-card}` with `{colors.hairline}` borders that feel like the edge of a screen protector. The primary CTA is `{colors.primary}` (#a42121) on `{colors.on-primary}` (#ffffff), a red that reads as urgency, not warmth — this is a brand that sells protection, not comfort.
 
@@ -425,6 +429,13 @@ components:
 - Product image galleries switch from row to single-image swipe on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

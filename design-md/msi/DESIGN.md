@@ -4,6 +4,10 @@ name: "MSI"
 source_url: "https://www.msi.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A high-performance gaming and creator laptop brand that uses aggressive angular geometry and a dark, industrial palette to signal speed and precision. The brand's visual language is built around sharp lines and metallic accents — think carbon fiber chassis, dragon-emblazoned lids, and RGB keyboard backlighting that pulses through translucent keys. The primary color is a deep, almost-black charcoal (#1a1a1a) that serves as the canvas for most product pages, punctuated by a signature red (#d10000) that appears on gaming-series logos, CTA buttons, and performance badges. Secondary accents include gunmetal gray (#2d2d2d) for surface cards and a cool silver (#c0c0c0) for metallic highlights. Typography runs a clean sans-serif stack with heavy weights (600-700) for product names and performance metrics, creating a technical, spec-sheet feel. The brand avoids soft corners entirely — buttons use minimal rounding ({rounded.xs}), product cards have sharp edges ({rounded.none}), and the overall layout feels like a cockpit dashboard rather than a consumer electronics store. Hero sections often feature dramatic product shots with the laptop angled aggressively, surrounded by floating spec callouts and performance graphs. The footer is dense with support links and driver downloads, reflecting a brand that serves enthusiasts who dig into BIOS settings and overclocking utilities.
 
@@ -528,6 +532,13 @@ components:
 - Image galleries switch from grid to single-image carousel on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

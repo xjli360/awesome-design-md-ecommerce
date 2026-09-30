@@ -4,6 +4,10 @@ name: "Rolling Square"
 source_url: "https://rollingsquare.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The company calls itself "The lifehackers company" and then proves it with a color-coded product matrix where sky blue (#7fd7ff), teal (#108474), amber (#ffc100), salmon (#ff7f7f), lavender (#a89cc8), mint (#c1e6e6), and electric green (#17e260) each map to a cable finish or hub variant — a paint-chip logic where the palette encodes the SKU rather than decorating it. Basier Square Mono anchors the technical vocabulary: port labels, wattage specs, cable-length callouts set in a grid-aligned monospace that signals exactness over style. Montserrat handles display hierarchies at weight 700, providing geometric punch without serif softness; Inter carries body copy at comfortable reading weight. The meta theme color is black (#000000) — the nav and top chrome hold that dark register while product content lifts to a near-white canvas (#f2f2f2, #f9fafb), a dark-light toggle that frames each product photograph as primary information rather than surrounding UI. Cards sit on tight radii ({rounded.sm}) so the hardware itself reads as the dominant shape on screen. Deep navy (#004d8b) carries high-priority CTAs at a contrast weight that works equally on the light product grid and the dark global header — it is a different register from the sky-blue accent, colder and more decisive. Rolling Square's real design language is the spec table: amperage, compatibility matrices, and exact millimeter lengths set in Basier Square Mono on neutral backgrounds, a visual argument that the person buying a USB-C hub wants truth before advertising. Multiple product-line accent colors allow variant selectors to be parsed at a glance across the catalog without text labels — the color encodes the difference, the mono type confirms it.
 
@@ -365,6 +369,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

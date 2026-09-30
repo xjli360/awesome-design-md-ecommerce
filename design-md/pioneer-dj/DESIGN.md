@@ -4,6 +4,10 @@ name: "Pioneer DJ"
 source_url: "https://www.pioneerdj.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A dark, precision-oriented instrument brand where #313131 ink meets a single blue voltage of #0076bf — the color of a cue light on a CDJ-3000 jog wheel, the exact shade that says "locked" and "ready." The palette is almost entirely achromatic: #fdfdfd canvas, #444444 body text, #808080 muted, #d7d7d7 hairline, with #e40010 reserved for record-red recording indicators and #006f00 for sync-lock confirmation. The brand trusts its hardware photography to carry emotion; the UI stays out of the way. Type runs system-native — -apple-system, Arial, Helvetica Neue, Segoe UI — at modest weights (400 body, 600 headings), never decorative. Buttons are flat rectangles with {rounded.xs} corners, the same 4px radius as the chamfer on a mixer chassis. The top nav is a dark strip (#2b2a38) with white text, a deliberate inversion of the white-canvas norm, mirroring the dimmed booth of a nightclub. Product cards use {rounded.sm} and a single hairline border, letting the gear's own industrial design — silver faceplates, black knobs, blue displays — provide all the visual interest. The search bar is a dark pill (#313131 on #fdfdfd), and the primary CTA is a solid #0076bf rectangle that never changes shape: no gradient, no shadow, no hover lift. This is a brand that edits by subtraction — every pixel that remains has a job.
 
@@ -425,6 +429,13 @@ components:
 - Breadcrumbs truncate on mobile, showing only the current page and a "Back" link.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

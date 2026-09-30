@@ -4,6 +4,10 @@ name: "Shout! Factory"
 source_url: "https://shoutfactory.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A catalog-driven entertainment brand that uses a deep navy anchor (#163959) as its structural spine and a sharp red accent (#bd2426) as its purchase trigger — the red appears on “Add to Cart,” sale badges, and pre-order banners, while the navy governs headers, footer blocks, and the primary nav background. The palette reads like a mid-century movie poster: warm grays (#404040, #595959) for body text, a cool off-white (#ebebeb) for page backgrounds, and a secondary blue (#62a1d8) for informational links and category tags. What distinguishes Shout! Factory from a generic e‑commerce template is its use of green (#9bca3e) for stock indicators and “In Stock” badges — a color more commonly associated with organic or outdoor brands, here signaling availability with an almost botanical freshness against the navy-and-red scheme. The typography stack defaults to system fonts (Arial, Helvetica Neue, Segoe UI) with no custom brand typeface, which gives the site a utilitarian, database‑like feel — the content (thousands of Blu‑ray, DVD, and vinyl titles) is the hero, not the typography. Product cards use a soft rounded corner ({rounded.sm} ~8px) with a white surface ({colors.surface-card}) and a subtle hairline border ({colors.hairline}), while the search bar sits in a full‑width navy band with white text, creating a clear entry point. The overall mood is that of a well‑organized specialty video store: functional, genre‑rich, and unpretentious, with color used sparingly to direct attention to what matters — the cover art and the price.
 
@@ -470,6 +474,13 @@ components:
 - Product card badges hide on mobile to reduce visual clutter (stock indicator remains)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

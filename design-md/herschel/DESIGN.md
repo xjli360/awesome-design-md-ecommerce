@@ -4,6 +4,10 @@ name: "Herschel"
 source_url: "https://herschel.com"
 captured_at: "2026-09-28T05:04:14.205270+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from Shopify theme CSS (app.css) for Herschel's
   US storefront, a bag-and-luggage retailer whose Weekender/duffle line sits
@@ -170,6 +174,13 @@ This is a recommended breakpoint structure, not measured site behavior:
 Touch targets should be a minimum of 44×44px for cart, quantity, and remove-item controls, consistent with the `min-height:36px;min-width:36px` values seen on rebuy cart buttons (rounded up here for accessibility). Multi-level category submenus (Bags, Luggage & Travel, etc.) should collapse into an accordion/drill-down pattern on narrow viewports; this collapse behavior is proposed and was not observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

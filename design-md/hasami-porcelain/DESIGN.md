@@ -4,6 +4,10 @@ name: "Hasami Porcelain"
 source_url: "https://hasami-porcelain.com"
 captured_at: "2026-09-29T04:00:14.650500+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The observed CSS shows a near-monochrome system built on pure black (#000000) text
   against a white (#FFFFFF) canvas, with two warm neutrals — taupe #998d71 and graphite
@@ -156,6 +160,13 @@ components:
 Recommended, not measured breakpoints: mobile ≤480px, tablet 481–768px, desktop 769–1200px, wide ≥1201px. The fixed `#HEADER` (40px height + 25px/40px padding) suggests the nav likely collapses to a compact bar or hamburger below tablet width, but no mobile-menu CSS was supplied to confirm this. Touch targets for pill buttons should be enlarged to at least 44px tall on touch devices even though the observed `.btn_original`/`.btn_grey` padding (4px 20px) yields a visually smaller hit area on desktop. Product grids should reflow from a multi-column desktop layout to a single or two-column mobile stack; this is a proposed convention for a catalog site, not an observed grid.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

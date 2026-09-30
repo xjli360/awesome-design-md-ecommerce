@@ -4,6 +4,10 @@ name: "Collector's Cache"
 source_url: "https://www.collectorscache.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A collector's marketplace that wears its inventory's patina in its palette — the deep #1a1718 of a well-handled card sleeve, the tarnished gold of #a58e4a on a vintage booster pack, and the urgent #cd0a0a of a "Buy Now" button that reads like a red sticker slapped on a display case. The site is a dark, dense grid of product tiles on a #222222 canvas, each card image floating on a #302b2c surface-card with a subtle #363636 hairline. Typography runs Arial at modest weights — there is no hero type, no display face, no brand voice beyond the functional: "Add to Cart" and "View Details" in 14px body-sm. The navigation is a persistent top bar of #212121 with a gold-accented logo and a search field that opens into a full-screen overlay, the only moment the canvas goes to #111111. Badges for "Hot" and "Sold" use #cd0a0a and #b21f0f, while condition labels ("NM", "LP", "HP") sit in #5a6572 chips. The checkout flow introduces #146ff8 links and #f38300 sale tags, but the core experience is a monochrome stage for high-res card scans — the brand's real design move is getting out of the way.
 
@@ -329,6 +333,13 @@ components:
 - Hero banner text reduces from display-md to title-md on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

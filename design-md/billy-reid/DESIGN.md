@@ -4,6 +4,10 @@ name: "Billy Reid"
 source_url: "https://billyreid.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The site's near-absolute darkness is the first signal — charcoal (#252525), near-black (#010002), and dark slate (#252a2e) account for four of the top five extracted colors, a palette that mirrors the brand's indigo-dyed fabrics and aged brass hardware rather than the aspirational bright-white of premium American menswear. Against this dark field, a dusty rose-red (#d94d5e) operates as the sole CTA voltage — not a vivid red but a worn, specific hue, closer to a faded mill label than a stop sign; it appears sparsely, which makes every instance carry weight. Faktum, a contemporary geometric sans extracted from the live site stack, carries all UI text at light-to-regular weights; its clean geometry holds legibility in the near-dark palette while Andale Mono surfaces in editorial callouts as a nod to in-house print culture. Spacing is editorial and unhurried — sections breathe at {spacing.section} or wider, with product imagery afforded full-bleed real estate on mobile. Corner radii trend toward {rounded.none} on virtually every component, reading as architectural and material rather than soft; the rare exceptions are swatch selectors at {rounded.full} and form inputs at {rounded.xs}. A honey amber (#f59e0b) surfaces in promotional strips and editorial callouts, warming the cold dark palette the way candlelight behaves against deep denim. The nav sits thin, typeset in tracked uppercase Faktum, nearly dissolving into the dark canvas so photography carries commercial weight. Product cards are wide and minimal; hover states surface alternative colorways rather than overlaid text, trusting the garment to close the sale. Florence, Alabama origin is not a theme bolted on top — it is a material constraint the digital system mirrors directly: dark, durable, free of ornament.
 
@@ -375,6 +379,14 @@ components:
 - Product grid: 4 → 3 → 2 columns; card image ratio preserved at roughly 3:4 portrait across all breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

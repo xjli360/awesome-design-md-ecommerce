@@ -4,6 +4,10 @@ name: "Koch-Chemie"
 source_url: "https://koch-chemie.com"
 captured_at: "2026-09-28T10:01:27.307933+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Koch-Chemie's public site exposes a Bootstrap-derived design system layered with a single branded accent. The measured palette centers on a cyan-blue primary (#009FDA), paired with near-black ink (#1E1E1E) on white canvas, and a neutral grey (#919396) used as Bootstrap's "light" token. Bootstrap's full status-color ramp (success, danger, warning, info, secondary) is present in the CSS, suggesting these are retained for form validation, alerts, and admin-style UI rather than core brand expression. Typography uses "HelveticaNowDisplay" with Arial and sans-serif fallbacks, a clean, technical sans consistent with an industrial/professional chemical manufacturer rather than a lifestyle retailer.
   This interpretation treats #009FDA as the primary action color, #1E1E1E as body/ink, and white as the dominant canvas, with light greys (#f4f5f5, #ececec, #e6e6e6) inferred as soft surface and hairline tones for card separation and section banding, since no explicit surface tokens were supplied. Rounded corners follow the observed .25rem button radius. All sizing beyond the literal .btn padding and border-radius is proposed, scaled to a professional B2B/B2C hybrid catalog (product cards, spec sheets, dealer locator) rather than measured from live layout.
@@ -157,6 +161,13 @@ This is a recommendation based on Bootstrap breakpoint variables found in `:root
 Touch targets should be at least 44×44px for primary and secondary buttons on mobile. Navigation and any multi-region/language selector (noted in page text: Great Britain, Germany, USA, etc.) should collapse into an accordion or modal below the `md` breakpoint. None of this collapse/interaction behavior was directly observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

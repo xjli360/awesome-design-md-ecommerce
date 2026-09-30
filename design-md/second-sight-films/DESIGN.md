@@ -4,6 +4,10 @@ name: "Second Sight Films"
 source_url: "https://secondsightfilms.co.uk"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, cinematic red #aa1c07 — the meta-theme-color and the brand's primary voltage — anchors a site that feels like a collector's edition Blu-ray slipped from its slipcase. The palette is a study in contrast: near-black #231f20 and #1d1c1c form the ink and body text, while a cool, archival blue #006fcf surfaces for links and secondary accents, pulling the eye toward pre-order buttons and film-detail CTAs. The extracted hex list reveals a surprising density of warm oranges (#f48120, #f58720, #f79a20) and a single, sharp yellow (#ffd800) — these are not decorative; they are the brand's badge and price-sticker language, used sparingly to signal "limited edition" or "sale" without breaking the restrained, boutique tone. Cards and containers sit on a clean white canvas (#ffffff) with soft hairlines (#dedede, #ebebeb), letting the film posters — often dark, high-contrast imagery — dominate. There are no hard edges: buttons use a moderate {rounded.sm}, while larger promotional panels and search fields take {rounded.md} to soften the interface. The typography is absent from extracted hints, so a neutral, highly-legible system font stack is assumed — the kind that steps back and lets the cover art and the deep red CTA do the talking. The overall mood is that of a serious, passionate film archive: respectful of the source material, unafraid of darkness, and precise with its accents.
 
@@ -320,6 +324,13 @@ components:
 - Hero panels reduce their padding and font sizes on mobile to avoid overwhelming the viewport.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

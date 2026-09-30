@@ -4,6 +4,10 @@ name: "Wooden Cork"
 source_url: "https://woodencork.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A strand of gold (#cc9f53) threads through every significant moment on Wooden Cork — appearing in price callouts, featured-bottle highlights, and hover accents — bridging the deep-oak darkness of the canvas (#0d0b09, #1c1712) with warm cream surfaces (#f6efe2, #fcf4f1). The primary red, #ba4444, carries every principal CTA and navigation highlight, with #9d1e1e as the pressed state and #d73030 signaling urgency in discount ribbons and stock alerts. Arpona, a display serif with old-world editorial weight, sets Wooden Cork apart from the grotesque stacks common across Shopify liquor stores — its bracketed serifs read like ink printed directly on a label rather than pixels rendered on a screen. The resulting palette reads as the interior of a premium bottle shop at closing hour: near-black warmth in the shell (#0d0b09, #1c1712), crimson voltage on the signage, candlelight gold on featured items, and cream paper (#f6efe2, #fcf4f1) where product copy lives. Corner radii stay tight throughout — `{rounded.xs}` on buttons, `{rounded.sm}` on cards — rejecting the pill-shaped softness of mass-market beverage brands in favor of something closer to a catalog or auction house print aesthetic. The dark navy #263644 surfaces in footer regions and alternate section backgrounds, lending maritime depth suited to whisky provenance storytelling. Small uppercase Arpona badge tags in `{colors.accent-gold}` on dark backgrounds or `{colors.ink}` on cream carry the physical price-sticker logic of a brick-and-mortar wine shop onto the digital shelf — vintage year, proof, and region compressed into a single composable label unit.
 
@@ -330,6 +334,13 @@ components:
 - Hero dual-column collapses to stacked (text below image) on mobile; the dark overlay is restored at full opacity on the image crop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

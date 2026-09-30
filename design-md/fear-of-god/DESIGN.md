@@ -4,6 +4,10 @@ name: "Fear of God"
 source_url: "https://fearofgod.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   HelveticaNeueLTPro-Cn — the condensed weight, not the standard cut — sets the register before a single product image loads: tall, compressed letterforms that read as architectural index entries rather than retail copy. The entire UI lives inside a near-monochromatic compression of deep charcoals (#303030, #232323, #1a1a1a) against bleached near-whites (#fbfbfb, #f1f1f1), with corners held at {rounded.none} across every interactive surface — no pill buttons, no softened cards anywhere in the system. The canvas sits at #fbfbfb rather than pure white, giving editorial photography a slightly warmer temperature than the clinical whites favored by luxury competitors. A warm khaki sand (#c9c4ac) surfaces as a selective seasonal token, most visible in palette-adjacent editorial strips rather than persistent UI chrome. Jerry Lorenzo's label communicates through compression: product names run at light condensed weight over minimal metadata, letting oversized portrait shoots do the emotional lifting. The announcement bar inverts — dark #303030 field with #fbfbfb text — before the nav flips back to the light canvas, creating a deliberate clamp at the viewport top. Optima appears selectively against the Helvetica grid as an editorial counterweight, a serif intrusion that reads less like a brand signature and more like a private archival label. Status is communicated through minimal accent injections — #3ed660 for availability indicators, #8b0000 for low-stock and conditional pricing, #ee9441 for clearance thresholds — all constrained in size so they register as data points rather than marketing noise. Navigation runs uppercase and tight, treating the category menu as a directory. The deep navy #0a142f appears in capsule editorial contexts, signaling collection-specific variation rather than a persistent global tone.
 
@@ -362,6 +366,13 @@ components:
 - Hero subhead hides on mobile below 375px to prevent headline truncation
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Connor McGinn Studios"
 source_url: "https://connormcginnstudios.com"
 captured_at: "2026-09-28T09:31:43.375074+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Connor McGinn Studios sells handmade ceramic tableware for restaurants and homes,
   produced in Tarrytown, New York. The supplied CSS evidence shows a Shopify-based
@@ -153,6 +157,13 @@ Recommendation only; no live breakpoints, resize, or mobile interaction were obs
 All interactive elements should target a minimum 44×44px touch area; nav and filter menus are assumed to collapse below tablet width as a standard e-commerce pattern, not as an observed behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

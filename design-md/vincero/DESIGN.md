@@ -4,6 +4,10 @@ name: "Vincero"
 source_url: "https://vincerocollective.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep teal (#108474) shows up where most watch brands reach for navy or black — driving every primary CTA, hover state, and filter-active border in a category where chromatic restraint is the unspoken default. Oswald in condensed uppercase compresses editorial headings to an industrial density while EB Garamond handles product copy and brand storytelling in a serif voice borrowed from print; the two faces share no visual DNA, and their friction is the site's sharpest design statement. A warm near-black (#231f20) grounds dark-mode product pages without the cold screen quality of pure #000000, while a barely-differentiated off-white stack — #fdfdfd, #fafafa, #f9f9f9, #f9fafb — builds depth under bright studio photography without competing with it. Gold (#fbcd0a) earns its presence by echoing watch hardware finishes — yellow-case metals, polished gold bracelet links, metallic indices — surfacing as the active tint for star ratings and metallic callouts throughout the buying flow. A saturated hot-pink (#f046a9) arrives only at maximum urgency: flash-sale countdowns, clearance badges, and time-limited offer banners, delivered so far outside the composed palette that it registers as alarm rather than brand color. Buttons favor {rounded.sm} with {colors.primary} as the dominant CTA treatment; on mobile they extend full-width across the viewport. The announcement bar above the nav runs {colors.accent-gold} type on {colors.dark-bg} — the only surface where yellow serves as a text color on a dark field rather than a decorative metallic tint. Hero zones claim {spacing.section} of vertical breathing room; filter and sort rows compress to {spacing.sm}, establishing an unmistakable altitude difference between editorial immersion and transactional efficiency. The mint wash (#edf5f5, #c5f7f0) recurs in trust-bar backgrounds and informational callouts, keeping the teal brand hue active even in low-key utility zones.
 
@@ -377,6 +381,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

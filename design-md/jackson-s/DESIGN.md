@@ -4,6 +4,10 @@ name: "Jackson's"
 source_url: "https://jacksonschips.com"
 captured_at: "2026-09-29T03:55:22.714548+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Jackson's is a CPG snack brand (avocado-oil kettle chips, sweet potato chips,
   veggie straws) selling direct-to-consumer via Shopify. The supplied CSS
@@ -152,6 +156,13 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets should meet at least a 36–44px minimum, loosely consistent with the observed `--button-size-md: 36px` token. Mega-menu collapse behavior on mobile is proposed and was not observed in interaction.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS variable dumps and page text only; no rendered layout, hover/focus states, animation, or actual responsive breakpoints were observed. Semantic color roles (muted, surface-card, accent-orange, success, error, link) are inferred from generic CPG/e-commerce conventions and the presence of relevant-sounding hex values in the palette, not from confirmed selector usage. Typography sizes are proposed except where a specific pixel/weight value appeared in the CSS (e.g., font-weight 600 on text-block decorations). The font family "Sink" could not be verified as a real, licensed typeface and is excluded from component definitions; "inherit!important" was excluded as a non-font value. Spacing and radius scales are conventional proposals loosely cross-checked against the one observed button padding token (`2.5rem`) and one observed radius token (`--menu-image-border-radius: 0px`), but are not a full measured system. Mobile navigation, cart drawer, and subscription-flow interactions described in the page text were not available as CSS/DOM evidence.

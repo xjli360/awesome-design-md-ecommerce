@@ -4,6 +4,10 @@ name: "Ritual Zero Proof"
 source_url: "https://ritualzeroproof.com"
 captured_at: "2026-09-28T05:01:53.468749+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Ritual Zero Proof's evidence is dominated by a near-black ink (#161a14) used
   as the primary text and border color across the review/loyalty widget CSS,
@@ -152,6 +156,13 @@ components:
 Recommended, not measured, breakpoints: mobile ≤480px (single-column product grid, stacked nav collapsing into a hamburger/megamenu), tablet 481–1024px (2-column product grid, condensed nav), desktop ≥1025px (multi-column grid, full horizontal nav with mega-menu). Touch targets should be at least 44×44px for cart/add-to-cart controls, matching the 60px-tall buttons seen in the loyalty widget. Sticky "Add $40 for Free Shipping" and cart-drawer patterns implied by page text should collapse to a bottom sheet on mobile. All breakpoint values and collapse behavior are proposed conventions, not observed layout data.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered page, computed layout, or interaction states (hover, focus, active, mobile menu behavior) were observed. Semantic role mapping (e.g., which gray is "body" vs "muted") is inferred from limited widget-scoped CSS (Okendo reviews, loyalty modal) rather than main site templates. Spacing scale and most typography sizes beyond the explicitly captured 13/14/20/22/28/48px values are proposed, not measured. "Mission Accomplished," "Otoiwo Grotesk Ultra Wide," and "Figtree" appear only as font-family names in evidence with no confirming font-size/weight rule; their actual usage, availability, and licensing are unverified. Component existence (nav-bar, hero, footer, search, product-card) is inferred from page text and generic e-commerce convention, not from captured layout CSS.

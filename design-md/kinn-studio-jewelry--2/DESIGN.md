@@ -4,6 +4,10 @@ name: "Kinn Studio"
 source_url: "https://kinnstudio.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The most unusual decision in Kinn Studio's visual system is pairing a deep petrol-teal primary — #012e36, the near-black of a freshly struck hallmark stamp — against a warm parchment ground (#f9f5ec, #f0e6d9) that reads like unbleached cotton or the tissue paper inside a gift box. This is not the gold-on-white of conventional fine jewelry retail; it is closer to opening a green-velvet presentation tray under gallery lighting. Type divides into two distinct registers: Quarto Light and Cormorant carry all editorial display weight, their bracketed serifs giving every headline the gravity of a foundry document, while Neue Haas Grotesk handles the interface layer — navigation, pricing, form labels — in quiet uppercase tracking at modest weights. York Script ES materializes only as a calligraphic gesture, a signature flourish above a collection name or pull-quote, never at small sizes. The coral-red accent (#e93f2c) is used with economy: sale prices, countdown timers, occasional badges, appearing just enough to create voltage without competing with the warm golds and silvers of the jewelry photography itself. Corners are largely eliminated — primary CTAs, product cards, and grid tiles all sit at {rounded.none}, communicating quality print and editorial standards rather than consumer-app friendliness. The one notable exception is filter chips, which use {rounded.full} to differentiate them as interactive selectors within an otherwise flat visual field. Spacing across sections is wide and unhurried, with editorial breathing room at {spacing.section} and beyond, reflecting a curatorial pace that asks the visitor to linger. The deep-teal footer and navigation bar frame the warm interior like a bookbinding, closing the experience with the same #012e36 that anchors the brand mark — the tagline "Modern legacy — then, now, always" made structural.
 
@@ -354,6 +358,13 @@ components:
 - Script-headline decorative type hidden below 744px; the Cormorant heading stands alone without the York Script accent
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

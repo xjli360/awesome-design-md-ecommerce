@@ -4,6 +4,10 @@ name: "In Good Taste"
 source_url: "https://ingoodtaste.com"
 captured_at: "2026-09-28T10:22:12.334112+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   In Good Taste is a Sonoma-based DTC wine brand built around advent-calendar tasting flights of 187ml bottles. The observed CSS confirms a warm, editorial palette: a coral-red accent (#f94938) drives buttons, review widgets, and section titles against a soft blush canvas (#faf3f1) and near-black ink (#1e1e1e/#020617) body copy on white. A secondary set of theme color variables (--color_1 through --color_6, teal, plum, terracotta, violet) appears defined in the stylesheet but its on-page role is unconfirmed, so those are treated as inferred accent options rather than primary brand colors. The confirmed body font is Visby, falling back to Arial and system sans-serif; no serif or display webfont was observed in the CSS, so all typography tokens below use the Visby/Arial/sans-serif stack, with weight and size differences proposed to create hierarchy for hero, product-card, and calendar-door content. Rounded corners and spacing follow a conventional soft-retail scale (generous radii, moderate section spacing) appropriate to a gift-forward, unboxing-driven commerce experience, though exact pixel values are proposed defaults, not measured from layout.
 
@@ -152,6 +156,11 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets should be at minimum 44×44px for cart/CTA buttons; nav collapses to a drawer or hamburger below tablet width. These values derive from the `--small-resolution`, `--mobile-resolution`, `--tablet-resolution`, and `--desktop-resolution` CSS variables present in evidence, but actual grid/column behavior at each breakpoint was not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

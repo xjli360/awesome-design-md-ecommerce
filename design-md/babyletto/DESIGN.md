@@ -4,6 +4,10 @@ name: "Babyletto"
 source_url: "https://babyletto.com"
 captured_at: "2026-09-28T04:22:55.739142+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Babyletto's storefront pairs a warm, papery canvas (#FBF9F7 / #F9F4EE) with a
   terracotta-brown accent (#853A2D, deepening to #81321C on some button text)
@@ -167,6 +171,14 @@ components:
 Touch targets should be at least 44px in height, exceeding the observed 24px `--icon-size`, which likely needs padding to meet accessibility guidance. Mobile navigation is assumed to collapse into a hamburger/drawer pattern given the `--hambourger-icon-size` and `--drawer-menu-icon-size` custom properties, though the actual open/close behavior was not observed. This table is a recommendation for implementation, not a measurement of Babyletto's live responsive behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

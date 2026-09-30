@@ -4,6 +4,10 @@ name: "Hinkley"
 source_url: "https://www.hinkley.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The palette describes a thermal arc — gray-cool architectural metal (#aaabac, #c2c2c2) warming through antique brass (#a48b5f) toward the amber pulse of a live filament (#ff9635) — and in a catalog whose subject is the transition between dark and lit, this chromatic sequence serves as both brand vocabulary and product demonstration. Surfaces lean warm rather than clinical: plaster-cream (#f2f1f0), aged linen (#eae2d8), and parchment (#fdf0d5) make product photographs read as if the fixtures are already switched on. The deepest neutral is not pure black but an oiled-bronze near-dark (#2c251c), a color that appears in product-line finish names and in the footer stripe, making the structural chrome feel continuous with the merchandise itself.
 
@@ -356,6 +360,13 @@ components:
 - Promo-strip hides on viewports below 375px if content exceeds one line; a minimal version with only the CTA link remains
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

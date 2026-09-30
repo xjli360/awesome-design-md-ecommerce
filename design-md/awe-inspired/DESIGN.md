@@ -4,6 +4,10 @@ name: "Awe Inspired"
 source_url: "https://www.aweinspired.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep midnight navy (#272d45) is the first atmospheric impression at Awe Inspired — not a neutral backdrop but a deliberate choice that positions each piece as something ceremonial rather than commercial. The brand sells jewelry in the language of empowerment, energetic resonance, and intention-setting; the deep saturated navy communicates gravity without the harshness of pure black (#121212). From that foundation, dusty indigo (#676986) handles secondary surfaces — muted body text, supporting labels, quiet navigation links — giving the palette a ritualistic depth that most gold-and-ivory jewelry brands never attempt. The warm sand and gold tones (#baa58d, #d3bc8d) feel earned rather than decorative: they emerge from the dark canvas like precious metal catching ambient light, doing the work that overt metallic swatches usually overstate. Amber (#ee9441) appears in promotional badges and callout states, terracotta (#b44220) in limited accent contexts — together they form a warm chromatic arc echoing natural stone, resin, and unpolished gold without illustrating any of those things directly. A teal (#0e7a82) surfaces rarely, possibly for email capture modules or a specific collection line. Figtree — a geometric sans with subtly softened terminals — handles all type. It avoids both the cold sharpness of pure grotesques and the nostalgia of editorial serifs, landing in a zone that reads as modern and accessible without demanding attention away from the product. Display headings lean on weight 500–600 rather than bold; the brand trusts the deep navy canvas to carry visual authority without typographic force. Primary CTAs sit in full-pill geometry ({rounded.full}), echoing circle shapes common in amulet and talisman iconography, while product cards use softer {rounded.md} corners. The near-white canvas (#f4f4f6) carries a faint blue-lilac undertone that keeps the midnight navy from reading as oppressive and unifies surface treatments across page sections. The overall composition reads as digital altar rather than boutique storefront — precise and built for buyers who understand jewelry as a personal practice.
 
@@ -354,6 +358,14 @@ components:
 - Footer: multi-column grid collapses to accordion-style expandable sections on mobile; newsletter input remains visible above the accordion
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

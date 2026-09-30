@@ -4,6 +4,10 @@ name: "David Zwirner"
 source_url: "https://www.davidzwirner.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Twelve nav links at AvenirNext weight against #f7f7f7 — no icons, no decorative chrome, the gallery window opened as an infinite white room where text placement IS the design. Every surface floats on a graduated near-white stack (#fafafa, #f7f7f7, #f5f5f5) that reads not as background but as exhibition wall, with #0a0a0a ink that refuses to soften into accessible gray. The most arresting decision in the extracted palette is #faff1f — an electric chartreuse that would be alarming on a lifestyle brand but here operates as a precisely timed voltage, dropped into campaign banners and digital platform features against acres of silence, making the yellow read as almost violent before the canvas reclaims it. Deep navy (#112054) earns its gravity in archival and collection contexts, the typographic register of auction records and institutional provenance. The spectrum of additional accent values — #dc2626 crimson, #0d9a0d institutional green, #c48a16 amber, #b51912 deep red — are not permanent brand tokens but chromatic identities lent to individual exhibitions, each show consuming a color field for its duration before the white resets. AvenirDemi handles the weight of artist names and exhibition titles at display scale; AvenirNext carries body and caption with geometric steadiness; a monospace stack (Consolas, Courier New, Menlo) surfaces in edition records and dimensions, the typewriter register indexing document authority alongside art-historical data. `{rounded.none}` governs every interactive surface — no pill buttons, no softened card corners, every rectangle a hard frame. Shopify commerce operates nearly invisibly beneath an editorial grid that privileges the work over the transaction, edition numbers appearing in `{typography.monospace-caption}` beneath titles as if transcribed from a physical inventory sheet.
 
@@ -331,6 +335,13 @@ components:
 - Footer four-column layout stacks to a single accordion column on mobile, with label-caps headers acting as collapse toggles
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

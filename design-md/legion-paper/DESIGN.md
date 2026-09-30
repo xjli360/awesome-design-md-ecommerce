@@ -4,6 +4,10 @@ name: "Legion Paper"
 source_url: "https://www.legionpaper.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Three near-identical navies — #112233, #112244, #112255 — stack in Legion Paper's interface the way sheets stack in a ream: each imperceptibly different from the next, collectively communicating depth and material permanence rather than brand expressiveness. The dominant primary (#112244) reads as archival authority against the #f5f5f5 near-white canvas, a pairing that evokes a printer's proof sheet more than a commercial storefront. Navigation and hero backgrounds pull from this same deep field; the three navy variants likely separate header, hero, and footer treatments rather than occupying distinct semantic roles within a single screen.
 
@@ -347,6 +351,13 @@ components:
 - `section-header` rule remains full-width at all breakpoints; heading size may step down from `display-md` to `display-sm` on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

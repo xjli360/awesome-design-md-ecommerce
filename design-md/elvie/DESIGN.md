@@ -4,6 +4,10 @@ name: "Elvie"
 source_url: "https://elvie.com"
 captured_at: "2026-09-29T03:58:44.933049+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Elvie's storefront evidence points to a clinical-meets-soft aesthetic built around a muted slate-blue primary (#484b5d, darkening to #575b70 on hover) against a predominantly white canvas. Body copy uses near-black (#333333/#111111) for legibility, while warm off-white surfaces (#faf8f6, #f5f5f5) separate cards and sections from pure white. Accent hues are used sparingly and semantically: a muted teal (#54b8b3) suggests a wellness/calm accent tone, a deep red (#a70100) marks discount and sale badges, and a bronze/gold (#7e6b45) marks "best seller" badges — these role assignments are inferred from the supplied badge selectors, not confirmed brand guidelines. A system blue (#007aff) appears only in a Swiper carousel theme variable, so it is treated as a utility/interaction color rather than brand identity.
 
@@ -150,6 +154,13 @@ components:
 Recommended breakpoints (not measured, but aligned with the `--media-*` custom properties observed in theme CSS): mobile up to 479px, small tablet 480–719px, tablet 720–959px, desktop 960–1199px, wide desktop 1200px+ (theme also defines a 1400px max content width). Navigation should collapse to a hamburger/flyout below 960px, consistent with the observed `--flyout-width: 460px` variable suggesting an off-canvas panel pattern. Touch targets for buttons and badges should maintain a minimum 44px height, mirroring the Swiper navigation's own `--swiper-navigation-size: 44px`. Product grids are recommended to reflow from a multi-column desktop layout to single or two-column stacks on mobile. This section is a design recommendation only; no live responsive behavior was observed or tested.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

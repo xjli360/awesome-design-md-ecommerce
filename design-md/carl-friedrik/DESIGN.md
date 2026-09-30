@@ -4,6 +4,10 @@ name: "Carl Friedrik"
 source_url: "https://carlfriedrik.com"
 captured_at: "2026-09-28T09:30:14.361791+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Carl Friedrik's supplied evidence shows a neutral, editorial luggage-brand palette built on white canvas (#ffffff), near-black ink (#000000) and a warm mushroom/stone neutral (#dbd5cd) used for borders and soft framing. A rust-orange accent (#c56710) appears as the named `--color-rust` button background paired with white text, making it the clearest observed primary-action color. Secondary UI chrome (from the Okendo reviews widget) contributes a cool slate-blue system — #676986, #272d45, #dbdde4, #e5e5eb, #f7f7f8 — used here for muted text, hairlines and soft surfaces, since no other structural chrome colors were exposed. Product-collection names ("Heritage Cognac," dark olive Ayrton pieces) justify treating #5f261b and #273816 as inferred accent tones for material/colorway badges, not primary UI colors. Typography is the `grotesk` / `grotesk-condensed` family (with generic fallbacks); no numeric type scale was exposed beyond `leading-tight` headings and a ~1.35rem base line-height, so the scale below is proposed and labeled accordingly. Layout is unmeasured from static CSS; the interpretation favors a spacious, full-bleed product-photography grid typical of premium travel-goods retail, with restrained borders (--oke-border-width:1px) and a small 4px corner radius carried from the only observed border-radius token.
 
@@ -149,6 +153,13 @@ Proposed breakpoint recommendation (not measured from live rendering):
 Touch targets should target a minimum 44px height for buttons and swatch chips; the `.btn` full-width mobile pattern suggests primary actions collapse to full-bleed on small screens. Navigation collapse (hamburger vs. inline) was not observed and is assumed standard for a Shopify Oxygen storefront.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is built from static CSS/text extraction only; no live rendering, computed layout, or interaction states (hover, focus, active, disabled) were observed beyond the few explicit `:hover`/`:active` custom properties in the Okendo widget block. The `--color-rust`, `--color-mushroom`, `--color-black`, and `--color-white` Tailwind theme variables were referenced by name but not resolved to hex in the supplied evidence; hex mappings above (e.g., primary #c56710, mushroom #dbd5cd) are best-fit inferences from the surrounding palette and product-name context, not confirmed token values. Numeric type scale, spacing scale, and card/hero layout are proposed, not measured. The `bau-medium` font referenced inside the Okendo widget variables belongs to a third-party review widget and was excluded from the brand typography set. Custom font (`grotesk`, `grotesk-condensed`) availability, weights, and licensing were not verified. Mobile navigation, cart drawer, and gallery/carousel behavior were not observed in the supplied evidence.

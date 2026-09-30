@@ -4,6 +4,10 @@ name: "Kosterina"
 source_url: "https://kosterina.com"
 captured_at: "2026-09-28T10:21:00.998262+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Kosterina's observed CSS surfaces a cool, muted blue-grey system built around a
   primary button color of #55789e (rgb 85,120,158) against a white canvas, with
@@ -166,6 +170,12 @@ This is a recommendation, not measured site behavior — no media queries or bre
 Touch targets should be at least 44px (aligning with the observed `--shopify-accelerated-checkout-button-block-size:44px` default). Mega-menu flyouts should collapse into accordions below tablet width; this behavior is proposed based on menu content depth, not observed interaction.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS custom properties, selector fragments, and page text only — no rendered layout, computed styles, or JavaScript-driven interaction states were observed. Font role assignments (serif vs. sans vs. display) for "circe," "athelas," "campton," and "kudryashev-d-excontrast" are inferred from stack presence, not confirmed usage on specific elements, and licensing/availability of these proprietary families was not verified. Several accent colors (#970000, #d87787, #249e6b, #f6d86f, #e88d21) appear in the raw palette but their functional roles (sale, seasonal, category tagging) are inferred from limited selector context. Type scale sizes beyond the two literal CSS values found (14px button text, 1.6rem input text) are proposed for editorial consistency, not measured. Mobile menu behavior, hover/focus states beyond the documented input focus rule, and footer structure were not present in the supplied evidence and are marked proposed throughout.

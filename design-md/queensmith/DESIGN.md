@@ -4,6 +4,10 @@ name: "Queensmith"
 source_url: "https://www.queensmith.co.uk"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Walking into Queensmith begins with the question, not the object — the site positions the jeweler not as a catalog to browse but as a collaborator, opening on an invitation to design your own engagement ring rather than on a product grid. The near-black ink (#313131) on white canvas is the single confirmed chromatic fact the live site yields (behind its Cloudflare gate), and it reads with unusual precision: no blush-pink lifestyle gradients, no promotional red, no candy-colored hero. The palette operates in the register of a bespoke architect's practice — dark type on white, photography given room without interference.
 
@@ -359,6 +363,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

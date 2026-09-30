@@ -38,25 +38,27 @@
     }
   ],
   "colors": {
-    "#000000": {
-      "count": 175,
+    "#f5f3f4": {
+      "count": 2,
       "sources": [
-        "https://www.spinellikilcollin.com/",
-        "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css",
-        "https://www.spinellikilcollin.com/#computed-style-snapshot"
-      ]
-    },
-    "#222222": {
-      "count": 32,
-      "sources": [
-        "https://www.spinellikilcollin.com/#computed-style-snapshot"
+        "https://www.spinellikilcollin.com/"
       ]
     },
     "#ffffff": {
       "count": 20,
       "sources": [
-        "https://www.spinellikilcollin.com/",
-        "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css",
+        "https://www.spinellikilcollin.com/"
+      ]
+    },
+    "#000000": {
+      "count": 175,
+      "sources": [
+        "https://www.spinellikilcollin.com/"
+      ]
+    },
+    "#222222": {
+      "count": 32,
+      "sources": [
         "https://www.spinellikilcollin.com/#computed-style-snapshot"
       ]
     },
@@ -66,54 +68,25 @@
         "https://www.spinellikilcollin.com/#computed-style-snapshot"
       ]
     },
-    "#ffffffcc": {
-      "count": 3,
-      "sources": [
-        "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css"
-      ]
-    },
-    "#f5f3f4": {
-      "count": 2,
-      "sources": [
-        "https://www.spinellikilcollin.com/",
-        "https://www.spinellikilcollin.com/#computed-style-snapshot"
-      ]
-    },
     "#444443": {
       "count": 2,
       "sources": [
         "https://www.spinellikilcollin.com/#computed-style-snapshot"
       ]
-    },
-    "#000000cc": {
-      "count": 1,
-      "sources": [
-        "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css"
-      ]
-    },
-    "#ffffff66": {
-      "count": 1,
-      "sources": [
-        "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css"
-      ]
     }
   },
   "font_families": {
-    "Georgia": [
-      "https://www.spinellikilcollin.com/_next/static/immutable/chunks/2dfx4udk6n664.css",
-      "https://www.spinellikilcollin.com/#computed-style-snapshot"
-    ],
     "inferi": [
-      "https://www.spinellikilcollin.com/_next/static/immutable/chunks/2dfx4udk6n664.css",
-      "https://www.spinellikilcollin.com/#computed-style-snapshot"
+      "https://www.spinellikilcollin.com/_next/static/immutable/chunks/2dfx4udk6n664.css"
     ],
     "inferi Fallback": [
-      "https://www.spinellikilcollin.com/_next/static/immutable/chunks/2dfx4udk6n664.css",
-      "https://www.spinellikilcollin.com/#computed-style-snapshot"
+      "https://www.spinellikilcollin.com/_next/static/immutable/chunks/2dfx4udk6n664.css"
+    ],
+    "Georgia": [
+      "https://www.spinellikilcollin.com/_next/static/immutable/chunks/2dfx4udk6n664.css"
     ],
     "serif": [
-      "https://www.spinellikilcollin.com/_next/static/immutable/chunks/2dfx4udk6n664.css",
-      "https://www.spinellikilcollin.com/#computed-style-snapshot"
+      "https://www.spinellikilcollin.com/_next/static/immutable/chunks/2dfx4udk6n664.css"
     ]
   },
   "css_rules": [
@@ -255,37 +228,35 @@
       "sha256": "c1325ade8ca9d3b3b5ad581b472fa53b49b6f42f01ce9fd4dc85c6b7cda4693b"
     }
   ],
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "remaining-20260929",
   "tokens": {
     "colors.primary": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.spinellikilcollin.com/",
-        "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css",
-        "https://www.spinellikilcollin.com/#computed-style-snapshot"
+        "https://www.spinellikilcollin.com/"
       ]
     },
     "colors.ink": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.spinellikilcollin.com/",
-        "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css",
-        "https://www.spinellikilcollin.com/#computed-style-snapshot"
+        "https://www.spinellikilcollin.com/"
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.spinellikilcollin.com/",
-        "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css",
-        "https://www.spinellikilcollin.com/#computed-style-snapshot"
+        "https://www.spinellikilcollin.com/"
       ]
     },
     "colors.body": {
+      "value": "#222222",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -293,6 +264,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#444443",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -300,14 +272,15 @@
       ]
     },
     "colors.hairline": {
+      "value": "#f5f3f4",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.spinellikilcollin.com/",
-        "https://www.spinellikilcollin.com/#computed-style-snapshot"
+        "https://www.spinellikilcollin.com/"
       ]
     },
     "colors.surface-soft": {
+      "value": "#f9fafa",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -315,15 +288,15 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.spinellikilcollin.com/",
-        "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css",
-        "https://www.spinellikilcollin.com/#computed-style-snapshot"
+        "https://www.spinellikilcollin.com/"
       ]
     },
     "colors.on-primary": {
+      "value": "#f9fafa",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -331,131 +304,379 @@
       ]
     },
     "colors.overlay-scrim": {
-      "value_status": "observed_in_css",
+      "value": "#000000cc",
+      "value_status": "derived_opacity",
       "role_status": "inferred",
       "sources": [
-        "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css"
+        "https://www.spinellikilcollin.com/"
       ]
     },
     "colors.overlay-light": {
-      "value_status": "observed_in_css",
+      "value": "#ffffffcc",
+      "value_status": "derived_opacity",
       "role_status": "inferred",
       "sources": [
-        "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css"
+        "https://www.spinellikilcollin.com/"
       ]
     },
     "colors.overlay-faint": {
-      "value_status": "observed_in_css",
+      "value": "#ffffff66",
+      "value_status": "derived_opacity",
       "role_status": "inferred",
       "sources": [
-        "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css"
+        "https://www.spinellikilcollin.com/"
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "inferi, 'inferi Fallback', Georgia, serif",
+        "fontSize": "56px",
+        "fontWeight": 400,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "inferi, 'inferi Fallback', Georgia, serif",
+        "fontSize": "34px",
+        "fontWeight": 400,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "inferi, 'inferi Fallback', Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": 400,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "inferi, 'inferi Fallback', Georgia, serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "inferi, 'inferi Fallback', Georgia, serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "inferi, 'inferi Fallback', Georgia, serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.4px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "inferi, 'inferi Fallback', Georgia, serif",
+        "fontSize": "13px",
+        "fontWeight": 500,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.8px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.body}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.button-md}",
+        "borderBottom": "1px solid {colors.hairline}",
+        "padding": "{spacing.base} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "caption": "{typography.caption}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.base}",
+        "border": "1px solid {colors.hairline}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "overlay": "{colors.overlay-scrim}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "borderTop": "1px solid {colors.hairline}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.muted}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.appointment-cta": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.title-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.xl} {spacing.xl}",
+        "border": "1px solid {colors.hairline}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#f5f3f4": {
+        "selector": "inline-style",
+        "property": "--gradient-color",
+        "declaration": "#f5f3f4",
+        "url": "https://www.spinellikilcollin.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e7501edb53dad784a3ba850bbadfe2211a7f1366860fa73a410e1d861e4276db"
+      },
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "rgb(255, 255, 255)",
+        "url": "https://www.spinellikilcollin.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e7501edb53dad784a3ba850bbadfe2211a7f1366860fa73a410e1d861e4276db"
+      },
+      "#000000": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "rgb(0, 0, 0)",
+        "url": "https://www.spinellikilcollin.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e7501edb53dad784a3ba850bbadfe2211a7f1366860fa73a410e1d861e4276db"
+      },
+      "#222222": {
+        "selector": ".sample-14-button",
+        "property": "color",
+        "declaration": "rgb(34, 34, 34)",
+        "url": "https://www.spinellikilcollin.com/#computed-style-snapshot",
+        "snapshot": "rendered-style-3.css",
+        "sha256": "f8d0bc5fbe174e57df89b78647633709419e4382adf178b87ea027f532818a7d"
+      },
+      "#f9fafa": {
+        "selector": ".sample-21-nav",
+        "property": "color",
+        "declaration": "rgb(249, 250, 250)",
+        "url": "https://www.spinellikilcollin.com/#computed-style-snapshot",
+        "snapshot": "rendered-style-3.css",
+        "sha256": "f8d0bc5fbe174e57df89b78647633709419e4382adf178b87ea027f532818a7d"
+      },
+      "#444443": {
+        "selector": ".sample-26-p",
+        "property": "color",
+        "declaration": "rgb(68, 68, 67)",
+        "url": "https://www.spinellikilcollin.com/#computed-style-snapshot",
+        "snapshot": "rendered-style-3.css",
+        "sha256": "f8d0bc5fbe174e57df89b78647633709419e4382adf178b87ea027f532818a7d"
+      }
+    },
+    "font_families": {
+      "inferi": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "inferi",
+        "url": "https://www.spinellikilcollin.com/_next/static/immutable/chunks/2dfx4udk6n664.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "28de5dc28f6b0382ad4bc5114f6aaec5848797f315221381935b5813adb6e130"
+      },
+      "inferi Fallback": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "inferi Fallback",
+        "url": "https://www.spinellikilcollin.com/_next/static/immutable/chunks/2dfx4udk6n664.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "28de5dc28f6b0382ad4bc5114f6aaec5848797f315221381935b5813adb6e130"
+      },
+      "Georgia": {
+        "selector": ".inferi_d5cf7ce6-module__0AisEa__className",
+        "property": "font-family",
+        "declaration": "inferi,inferi Fallback,Georgia,serif",
+        "url": "https://www.spinellikilcollin.com/_next/static/immutable/chunks/2dfx4udk6n664.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "28de5dc28f6b0382ad4bc5114f6aaec5848797f315221381935b5813adb6e130"
+      },
+      "serif": {
+        "selector": ".inferi_d5cf7ce6-module__0AisEa__className",
+        "property": "font-family",
+        "declaration": "inferi,inferi Fallback,Georgia,serif",
+        "url": "https://www.spinellikilcollin.com/_next/static/immutable/chunks/2dfx4udk6n664.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "28de5dc28f6b0382ad4bc5114f6aaec5848797f315221381935b5813adb6e130"
+      }
+    }
+  },
+  "derived_colors": {
+    "#ffffffcc": {
+      "base": "#ffffff",
+      "status": "proposed_opacity",
+      "alpha": 0.8
+    },
+    "#000000cc": {
+      "base": "#000000",
+      "status": "proposed_opacity",
+      "alpha": 0.8
+    },
+    "#ffffff66": {
+      "base": "#ffffff",
+      "status": "proposed_opacity",
+      "alpha": 0.4
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

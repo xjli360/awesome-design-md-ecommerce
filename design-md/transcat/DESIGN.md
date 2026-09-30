@@ -4,6 +4,10 @@ name: "Transcat"
 source_url: "https://www.transcat.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Calibration is the science of knowing exactly where you stand — Transcat's interface extends that principle to its own visual ground truth, with the sole confirmed extraction being #313131, a warm near-black that reads like an instrument panel rather than a design affectation. The company straddles two distinct business lines: direct equipment sales across 130,000+ SKUs from Fluke, Keysight, and Tektronix, plus an ISO/IEC 17025-accredited calibration services division that makes Transcat one of the few metrology vendors that sells the tool and then certifies it afterward. That dual mandate shapes the interface's load — a product catalog must carry dense technical specifications, model comparators, and manufacturer facets simultaneously, while a services portal must communicate compliance authority to quality engineers and procurement managers who read certification marks the way consumers read star ratings.
 
@@ -384,6 +388,13 @@ components:
 - Footer 4-column grid collapses to single-column accordion at mobile, 2-column at tablet; accreditation badges remain visible at all breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

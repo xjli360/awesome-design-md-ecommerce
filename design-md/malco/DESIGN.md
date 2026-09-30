@@ -4,6 +4,10 @@ name: "Malco"
 source_url: "https://malcoproducts.com"
 captured_at: "2026-09-29T04:19:04.035129+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Malco Tools is a manufacturer-direct site for HVACR and building-construction hand tools, and the supplied CSS points to a utilitarian, catalog-driven interface rather than a lifestyle brand. The body font stack is futura-pt for running text and futura-pt-bold for all headings, falling back to system sans-serif stacks (-apple-system, Segoe UI, Roboto, etc.), giving the brand a geometric, industrial voice consistent with a tools manufacturer. The measured background is a near-white #fefefe with primary copy at #222 and a secondary dark tone of #333 appearing in form and hover states.
   The palette contains a cluster of saturated reds (#aa112c, #8b0019, #920f26, #7d131e, #880e23, #630012) that recur across many shades, which is treated here as the inferred brand-primary family, with #aa112c selected as the representative primary since it is the most saturated and central value in that cluster. A default WordPress button style uses a near-black slate (#32373c) with white text and a fully-rounded (9999px) pill shape; this is documented as an observed component pattern but labeled as a generic theme default rather than a confirmed brand-primary button, since no button rule ties it to the red cluster. Grays (#eee, #f1f1f1, #ddd, #8a8a8a, #313131) supply muted text, hairlines, and soft surfaces. No custom heading sizes beyond a 42px "huge" preset and 16px "normal" preset were observed, so most type sizes below are proposed, not measured.
@@ -148,6 +152,13 @@ Breakpoints are not measured from live layout; the following table is a proposed
 Touch targets are recommended at a minimum 44×44px for buttons and nav items, with the observed pill radius (`9999px`) retained at all sizes. Given the deep multi-level category taxonomy in the page text (Markets > sub-markets > products > sub-categories), mobile nav should collapse into a drill-down accordion rather than a flat hamburger list. None of this responsive behavior was directly observed in the supplied CSS; it is a recommendation only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is built from static CSS/text extraction only; no live rendering, computed layout, or DOM interaction was captured. The brand-primary red is inferred from a cluster of similar dark-red hex values with no single rule explicitly labeling one as "primary" or "brand" — actual brand-book usage may differ. The `#32373c` dark-slate button color is a WordPress theme default (`.wp-element-button`) and may not reflect the true production button style if overridden elsewhere on the live site. Heading and body sizes beyond the confirmed 16px/42px presets are proposed, not measured. The `futura-pt` and `futura-pt-bold` fonts are referenced by name in the CSS but their licensing, hosting method (e.g., Typekit/Adobe Fonts), and actual on-page rendering were not verified. No hover/focus/active states were observed except the single Gravity Forms submit-button hover rule and the product-card "Add to Toolbox" overlay; all other interaction states listed above are proposed conventions. Mobile menu behavior, breakpoint pixel values, and grid column counts are not observed and are presented only as reasonable defaults for a tools-catalog site.

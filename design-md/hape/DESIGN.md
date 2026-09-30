@@ -4,6 +4,10 @@ name: "Hape"
 source_url: "https://www.hape.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A primary red #d42520 — the same shade as a vintage Kawada toy block — anchors a brand that feels more like a playroom than a storefront. The extracted palette is unusually wide (30+ hex values), but the red is the only color that appears in the meta theme-color, the page title, and the brand's own logo lockup. It sits against a near-white canvas (#f0f0f0) and a deep charcoal ink (#32373c) that gives body text a sturdy, printed feel. The secondary accents — a bright cyan (#1ea0c3), a warm amber (#ff9900), and a soft mint (#02e49b) — read as toy-grade primaries, not corporate brand colors. Typography leans on a single serif face (the extracted `font-family: serif` is likely a system fallback for a custom Japanese typeface), set at modest sizes with generous line-height to keep readability child-friendly. Buttons use full-pill rounding ({rounded.full}) and the red primary, while product cards and navigation bars stay white with thin hairlines (#949494). The design trusts large hero photography and product imagery over decorative UI — the red acts as a visual exclamation point, not a background wash.
 
@@ -350,6 +354,13 @@ components:
 - Product card grids reduce columns as viewport narrows: 4 → 3 → 2 → 1.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Silicon Power"
 source_url: "https://www.silicon-power.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Silicon Power's palette reads like a circuit board shot in low light: the page surface is built from a cascade of near-identical grays — #f1f1f1, #f4f4f4, #f7f7f7, #ebebeb — laid over dark #272626 and #1c1c1c near-blacks that anchor headers and full-bleed hero sections. Against all of that ash and charcoal, a single voltage element fires: #f14595, a saturated magenta-pink that runs every primary CTA, product badge, and section accent bar. The move is deliberate for a Taiwanese storage hardware manufacturer — SSDs, USB drives, DRAM, memory cards — that uses the charcoal foundation to signal engineering precision and reserves the pink for the action path only, the way a dark drive enclosure might carry a single LED status light.
 
@@ -347,6 +351,13 @@ components:
 - Footer: 4-column grid → 2-column → single accordion (each section collapses independently)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "The Laundress"
 source_url: "https://thelaundress.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, dusty terracotta (#8c564b) anchors a brand that treats laundry as a ritual of care rather than a chore — this singular brown-rose appears on every primary CTA, product badge, and checkout button, grounding the experience in a warmth that feels more like a heritage apothecary than a detergent company. The palette pairs this earthy anchor with a soft lavender (#413389) used sparingly for sale tags and editorial accents, while a clean white canvas (#f0f0f0) and near-black ink (#121212) keep the system legible and premium. Typography runs a deliberate contrast: Bodoni Moda and Didot LT Pro for display — serifed, editorial, recalling a 1950s French laundry manual — paired with Futura and Jost for body and buttons, their geometric sans-serif forms adding a crisp, modern utility. Product cards use a generous {rounded.md} with soft shadows, while buttons round at {rounded.sm}, never fully pill-shaped, preserving a tailored, not playful, personality. The top nav is a simple, centered logo on white with a thin {colors.hairline} bottom border — no mega-menu, no search bar, just a single "Shop" dropdown and a cart icon. The brand trusts its product photography (bottles on marble, linen in sunlight) over illustration or pattern, letting the #8c564b bottle cap and label do the heavy lifting of recognition.
 
@@ -428,6 +432,13 @@ components:
 - Accordion content collapses by default on all breakpoints; triggered by tap/click
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

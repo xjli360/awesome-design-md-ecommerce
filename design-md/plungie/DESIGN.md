@@ -4,6 +4,10 @@ name: "Plungie"
 source_url: "https://plungie.com"
 captured_at: "2026-09-28T04:04:23.773866+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Plungie's observed CSS centers on a deep navy palette (`#13294b`, `#11284b`,
   `#0d1d38`, `#1d3765`) paired with a saturated cyan (`#00bad2` / `#39c2d4`)
@@ -170,6 +174,13 @@ This is a recommended breakpoint scheme, not measured site behavior — no media
 Touch targets should be at minimum 44×44px for all interactive elements (buttons, nav links, form controls); the observed 8px/24px button padding should be increased on touch devices to meet this. Collapse behavior for navigation and filtering UI is a proposal, not an observed interaction.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

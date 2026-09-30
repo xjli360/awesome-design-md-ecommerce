@@ -4,6 +4,10 @@ name: "Retro-Cade"
 source_url: "https://www.retro-cade.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A neon-lit arcade cabinet builder that wears its primary voltage — #ff0000 — like a marquee sign on a 1980s boardwalk, then undercuts that aggression with a secondary pulse of cyan (#34e2e4) and deep indigo (#4721fb) that reads more vaporwave than straight-up retro. The palette is deliberately oversaturated: #d92e3a for error states, #ff6b7a for hover glows, #00d084 for "in stock" badges, and #7a00df for limited-edition finishes. But the real surprise is the canvas: #eeeeee, a warm off-white that softens the high-voltage palette and keeps the cabinet configurator from feeling like a casino floor. Typography runs system-native — -apple-system, Arial, Helvetica Neue, Roboto — no custom arcade font, which is a deliberate choice: the brand lets the cabinet artwork and CRT-style screen mockups carry the period flavor while the UI stays legible. Buttons use {rounded.sm} (8px) — a slight softening of the hard-cornered aesthetic you'd expect from a retro brand — while badge pills go {rounded.full} to contrast against the angular cabinet mockups. The nav bar sits at 72px with a sticky white background and a search bar that uses {rounded.full} with a #ff0000 orb, making the primary action feel like a joystick button. Product cards use {rounded.md} (12px) with a #ffffff surface and a hairline border (#dddddd), but the real signature is the "Build Your Own" CTA that uses a gradient from #ff0000 to #d92e3a, mimicking the gradient stripes on a classic arcade cabinet side panel. The brand trusts high-contrast text (#313131 body, #282828 headings) over the #888888 muted tones, keeping readability high even as the palette screams.
 
@@ -604,6 +608,13 @@ components:
 - Search bar collapses to icon-only orb on mobile, expands on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

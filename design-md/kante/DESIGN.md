@@ -4,6 +4,10 @@ name: "Kante"
 source_url: "https://kanteplanters.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The design trick is borrowed from the product itself — a planter engineered to read like poured concrete but weighing a fraction of real masonry. Kante's visual language mirrors that sleight of hand: a palette stripped to cool whites, warm grays, and near-blacks that evoke cast stone without ever feeling industrial or harsh. CTAs and interactive elements anchor in a deep charcoal (#2d2d2d) that doubles as the brand's ink color, collapsing the usual contrast between brand-voltage and text into a single unified tone. There is no electric accent, no lifestyle-brand coral, no botanical green — the restraint is total and intentional. Type runs in a neutral geometric sans at weights that hover between 300 and 600; headings earn their scale through generous leading and wide letter-spacing rather than heavy weight. Product cards sit on a barely-warm off-white surface (#f6f5f3), giving the planters — all neutrals themselves — just enough separation from the canvas to read as objects on a shelf rather than images on a screen. Buttons are mildly rounded (`{rounded.sm}`) rather than pill-shaped, keeping the experience in architectural territory. The grid is sparse, with wide gutters and section padding that would feel excessive in a crowded DTC context but reads correctly when the product is a large-format outdoor object meant to be studied rather than impulse-purchased. Search and filtering stay subordinate — this is a considered-purchase brand where the full catalog is small enough to browse visually. Navigation is horizontal and flat, anchored by the wordmark left and a minimal utility cluster right. No mega-menus. No badge inflation. Kante trusts that a customer who would spend on a concrete-look planter does not need urgency mechanics.
 
@@ -452,6 +456,13 @@ components:
 - Footer navigation columns collapse to accordion on mobile, revealing links on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

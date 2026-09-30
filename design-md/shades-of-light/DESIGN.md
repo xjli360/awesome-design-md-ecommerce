@@ -4,6 +4,10 @@ name: "Shades of Light"
 source_url: "https://shadesoflight.com"
 captured_at: "2026-09-28T04:50:05.947614+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Shades of Light is an online home-furnishings retailer spanning chandeliers, sconces,
   ceiling fans, lamps, mirrors, rugs and furniture. The only font evidence supplied is
@@ -142,6 +146,11 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets should be at least 44px in the compact/mobile nav drawer; the mega-menu's many category links suggest search should be prioritized above browsing on small screens. No mobile layout, menu collapse animation, or touch interaction was actually observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 Static CSS/text extraction provides no rendered layout, so grid structure, spacing rhythm, and breakpoint values above are proposed conventions, not measurements. Color-to-role mapping (brass as primary/brand accent, red as sale/alert, blue as link) is inferred from typical retail conventions and hue frequency, not from confirmed component usage in the supplied CSS. The only typography evidence is the Next.js-generated Montserrat variable and its fallback class names; actual font weights, license terms, and self-hosting status were not verified. Interactive states (hover, focus, disabled, mobile menu behavior) were not observed and are marked proposed throughout. The `--radius: 0.5rem` token was the only concrete radius value found; all other radius steps are extrapolated. Shadow color values reuse only alpha-blended black tones present in the supplied palette, since the site's actual box-shadow color token fell outside the observed palette list.

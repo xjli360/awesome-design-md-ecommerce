@@ -4,6 +4,10 @@ name: "DoorStepInk"
 source_url: "https://doorstepink.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The most literal brand move in the ink category — DoorStepInk built its chromatic identity around the actual colors that come out of printer cartridges. The primaries, #ba0e0e crimson, #e32e00 signal red, and #971e00 deep maroon, read as a tube of pigment squeezed onto a palette rather than a committee-approved corporate hue. More revealing is the accent layer: #ffcb67 amber-yellow, #ed66b2 magenta-pink, #86469c violet, and #1b6109 forest green appear in the extracted palette like a CMYK ink set converted into UI tokens, each mapping to a cartridge color the site actually sells. The canvas sits at near-white #f8f8f8 and a cooler #f3f3f8, with card surfaces staying white against charcoal ink text at #292929 — a high-contrast technical-catalog register rather than a lifestyle brand affect. Type runs Poppins for display and headings and Nunito for running text and UI labels, both geometric and slightly rounded in letterform, a combination that delivers a friendly-technical hybrid voice matching the blunt "Made in the USA" directness in the page title. Rounding stays moderate: buttons and badges at {rounded.sm} or {rounded.md}, never pill-shaped, keeping the brand in utilitarian rather than premium territory. Navigation leans dark — near-black #262626 surfaces carry the header, grounding crimson CTAs against a neutral that reads like an ink-stained workbench. Pricing is the brand's second language; large Poppins 700 numerals foreground a value-for-money message over aspirational mystique. The "Made in USA" signal is structural — wired into badge components and trust-band layout — and the entire system is optimized to move cartridge SKUs efficiently, not to cultivate a mood.
 
@@ -405,6 +409,13 @@ components:
 - Footer columns collapse from 4-up to 2-up at tablet and single-column at mobile, with accordion expand on each section heading
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

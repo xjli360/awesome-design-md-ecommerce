@@ -4,6 +4,10 @@ name: "Fuse Chicken"
 source_url: "https://www.fusechicken.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A marigold #e9be33 voltage cuts across a charcoal #31373d and steel #6c6c6c chassis — Fuse Chicken builds phone accessories that look like they could survive a drop from a construction crane, and the design system follows suit. The brand’s primary yellow is not a friendly accent but a functional signal: it marks every add-to-cart button, every configurable strap toggle, every warranty upsell. Against a #eaeaea canvas and soft #6c6c6c body text, that yellow reads as industrial-grade urgency rather than playfulness. Typography runs Arial and Helvetica Neue at conventional weights — no custom typeface, no display-size hero text, no letter-spacing theatrics. The system trusts its product photography (magnetic mounts, braided cables, rugged cases) to carry the story; the UI stays out of the way with flat buttons, thin 1px hairlines, and generous {spacing.lg} gutters. Corners are mostly {rounded.sm} (8px) — enough to soften the industrial edge without going pill-shaped. The nav bar is a dark band of {colors.ink} with white text, a rare inversion that signals the brand’s B2B-adjacent confidence. There is no hero carousel, no gradient, no decorative illustration. Every pixel earns its place.
 
@@ -338,6 +342,13 @@ components:
 - Accordion: remains functional at all breakpoints; no collapse needed
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

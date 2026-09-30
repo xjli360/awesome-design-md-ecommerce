@@ -4,6 +4,10 @@ name: "Armytrix"
 source_url: "https://armytrix.com"
 captured_at: "2026-09-28T10:18:33.986230+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is grounded in the ARMYTRIX Bootstrap-derived stylesheet, which exposes a
   neutral, utilitarian base (white canvas, black ink, a run of mid-to-light grays for chrome and
@@ -166,6 +170,14 @@ components:
 Recommended breakpoints (proposed, not measured): `sm` 480px, `md` 768px, `lg` 1024px, `xl` 1280px. Below `md`, the nav-bar should collapse into a hamburger/off-canvas pattern and the fitment-selector's three dropdowns should stack vertically at full width. Touch targets for button-primary, button-accent, and fitment-selector controls should maintain a minimum 44px hit area. Product-card grids should reduce from multi-column to single or two-column layouts under `md`. This section is a recommendation only; no live responsive behavior was observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

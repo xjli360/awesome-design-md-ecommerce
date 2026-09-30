@@ -4,6 +4,10 @@ name: "Wilderness Systems"
 source_url: "https://www.wildernesssystems.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep green (#108474) anchors Wilderness Systems not as a background but as the brand's central current — it floods the primary navigation bar, fills the "Shop Now" CTA, and appears as the dominant color in product imagery overlays, evoking the shadowed undersides of river canopies rather than a corporate identity. The palette draws from the extracted site: a secondary forest green (#277158) sits alongside a bright lime accent (#d2de31) that appears in sale badges and size-selector highlights, while a warm yellow (#fbcd0a) surfaces in star ratings and promotional ribbons. The typography stack runs Geologica for headlines — a geometric sans with subtle ink traps that suggest both precision and outdoor durability — paired with Inter for body copy, creating a clean information hierarchy across product detail pages. Cards use a soft {rounded.sm} corner radius (8px), avoiding the extreme pill shapes of lifestyle brands in favor of a more grounded, tool-like feel. The footer and secondary surfaces use a light gray (#f9fafb) that keeps the experience airy despite the heavy green palette, and product swatches appear as small circular thumbnails with {rounded.full} clipping. The overall mood is one of capable adventure — the greens are never military or camouflage, but rather the living green of riverbank vegetation, and the yellow accents read as safety-bright rather than playful.
 
@@ -315,6 +319,13 @@ components:
 - Secondary navigation (category filters) collapses to a dropdown on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

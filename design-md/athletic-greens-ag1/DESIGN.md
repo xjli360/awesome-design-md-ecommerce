@@ -4,6 +4,10 @@ name: "Athletic Greens (AG1)"
 source_url: "https://drinkag1.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep green wellness system that uses a single saturated accent — #0070f3, a vivid cobalt — to cut through an otherwise monochrome interface of black, white, and gray. The brand's visual identity is built on clinical precision: a dark ink (#000000) for headlines, a clean white canvas (#ffffff), and hairline-thin borders (#e5e7eb) that segment information without visual noise. Typography runs system-native (-apple-system, sans-serif) at modest sizes — body text sits at 16px with generous line-height (1.6), while display headlines scale to 36px with tight tracking (-0.5px). The cobalt primary appears exclusively in CTAs and interactive elements, never decorative; it's the single voltage that signals action. Cards use a soft 12px radius ({rounded.md}), buttons are pill-shaped at 8px ({rounded.sm}), and the overall spacing grid favors 24px and 48px increments ({spacing.lg}, {spacing.xxl}) — a rhythm that feels clinical but not cold. The brand trusts white space and scientific language over illustration or photography; there are no hero images, only structured content blocks. This is a supplement brand that behaves like a SaaS dashboard: clean, data-forward, and built for subscription conversion.
 
@@ -372,6 +376,14 @@ components:
 - Hero section reduces padding from 64px to 32px on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

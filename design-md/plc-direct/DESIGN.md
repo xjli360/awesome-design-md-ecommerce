@@ -4,6 +4,10 @@ name: "PLC Direct"
 source_url: "https://www.plcdirect.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Part numbers outnumber brand moments on every page — PLC Direct leads with catalog density, not storytelling, and that choice is itself the brand statement. Sixteen-digit part numbers rendered in monospace beside thumbnail photographs of DIN-rail modules tell you the audience: controls engineers who arrive with a BOM and leave with an order confirmation. The palette is anchored in a deep industrial navy (approximately #0057A4) drawn from the aerospace-adjacent visual vocabulary shared by Rockwell, Siemens, and AutomationDirect — the parent company that powers plcdirect.com — where blue signals reliability and certification rather than aspiration. Canvas stays a clinical #FFFFFF with table rows alternating onto a faint #F5F7FA, so part grids scan like datasheets. Text hierarchy compresses unusually flat: display and body sit one or two steps apart because engineers trust precision over drama. Buttons are moderate-radius rectangles (approximately `{rounded.xs}`–`{rounded.sm}`) — nothing pill-shaped, nothing hard-cornered — inheriting the industrial middle ground. Search is the dominant interaction surface, surfaced prominently in the header with a full-width input that accepts part numbers, keywords, or cross-reference codes. Navigation is tab-and-mega-menu driven, organized around product families (PLCs, HMIs, Drives, I/O, Sensors), not lifestyle categories. Product cards render as dense table rows on desktop — image, part number, short description, price, stock indicator, and add-to-cart in one horizontal band — because the buyer already knows what they want. The overall register is a technical reference manual made clickable: authoritative, legible, and deliberately free of anything that would slow down a procurement workflow.
 
@@ -435,6 +439,13 @@ components:
 - `spec-table` wraps into a single-column definition list below 480px rather than horizontal scroll, to avoid tiny text
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Fossil Farms"
 source_url: "https://fossilfarms.com"
 captured_at: "2026-09-28T10:06:19.646664+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Fossil Farms sells premium and exotic game meats to home cooks and chefs, and the
   observed CSS reflects a lean, utilitarian Shopify theme rather than a fully custom
@@ -159,6 +163,13 @@ Proposed breakpoints (not measured from live layout):
 Touch targets should be a minimum 44×44px for cart/menu icons and buttons. Mega-menu category lists (extensive per evidence: Bison, Elk, Wagyu tiers, Exotics, etc.) should collapse into accordions on mobile. This section is a recommendation only; no responsive behavior was directly observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

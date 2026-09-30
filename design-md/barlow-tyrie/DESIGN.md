@@ -4,6 +4,10 @@ name: "Barlow Tyrie"
 source_url: "https://www.teak.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Forest green on white linen — that is the first impression teak.com delivers, the palette of an English garden lunch translated into a digital system anchored on #2c5234, a deep verdant primary that colours every CTA, navigation accent, and collection heading. The gold (#f1d600) that appears alongside it is not decorative excess; it serves as the heritage mark, the "Since 1920" badge, and the occasional promotional flash against an otherwise restrained canvas. Typography runs a deliberate dual track — Goudy Old Style, a serif designed in 1915 (five years before the company was founded), handles display headlines and collection titles, lending the gravitas of letterpress catalogues to a screen medium. Source Sans Pro takes over for body copy, navigation, and interface text, its open apertures and generous x-height keeping long product descriptions legible at `{typography.body-md}` 16px. The overall weight distribution is lighter than most luxury-goods sites: display tops out at 600 rather than 800, body sits at 400, and Helvetica Neue Light appears in select caption and breadcrumb contexts where a near-whisper weight reinforces the hierarchy without competing with the product imagery. Corners stay tight — `{rounded.xs}` on buttons and inputs, `{rounded.sm}` on cards — because the furniture itself is the source of curvature, all sweeping arm rests and curved bench lines, and the UI should not mimic what the photography already shows. Spacing follows a disciplined vertical rhythm with `{spacing.section}` (64px) between major content blocks and `{spacing.lg}` (24px) between card-grid rows, giving each piece of furniture the visual breathing room it gets on an actual terrace. The colour palette is overwhelmingly neutral: five extracted grays between #626263 and #9a9a9a handle everything from body text to disabled states to metadata, while the single hairline value #e4e4e4 draws subtle borders across tables and cards. Product cards float on a warm-white surface (`{colors.surface-soft}` at #f7f6f3) that avoids the clinical sterility of pure white, hinting at the natural teak grain that dominates every product photograph. The overall system reads as an architect's specification sheet given just enough warmth to feel residential.
 
@@ -517,6 +521,14 @@ components:
 - Collection header centres text and removes max-width constraint on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

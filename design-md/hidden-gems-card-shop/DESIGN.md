@@ -4,6 +4,10 @@ name: "Hidden Gems Card Shop"
 source_url: "https://hiddengemscardshop.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A collector's marketplace where #222233 — a deep midnight ink — sets the stage for cards, slabs, and sealed product to glow like actual discoveries. The palette reads as a trading-card binder opened under good light: #101828 for primary headers, #e5e7eb for body text on the dark canvas, and a single neon accent in #53eafd that pulses through price tags, sold badges, and add-to-cart buttons. The brand leans hard into its dark mode by default — `{colors.canvas}` is #18181b, not white — and uses `{rounded.sm}` cards with `{rounded.md}` inner containers to create layered depth that mimics graded slab cases. GeneralSans, a geometric grotesk with subtle warmth, runs at modest weights (400–600) across display and body sizes, never competing with the product photography. The top nav is a thin 48px strip of `{colors.ink}` (#364153) with `{colors.hairline}` (#e4e4e7) borders, while the hero section uses a full-bleed image with a `{colors.scrim}` overlay at 60% opacity. Search is a `{rounded.full}` pill with `{colors.surface-soft}` (#f4f4f5) background and `{colors.muted}` (#71717b) placeholder text. The checkout flow introduces Shopify's default green (#00d294) for success states and #fac800 for warnings — these feel borrowed rather than native, but the brand's own #53eafd cyan reappears consistently on product cards as a "last one" urgency badge and on the floating cart icon. The overall mood is serious but not sterile: a card shop that trusts its inventory to provide the color, using the UI as a dark velvet display case.
 
@@ -466,6 +470,13 @@ components:
 - Category chip strip becomes horizontally scrollable on mobile with snap points
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

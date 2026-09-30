@@ -4,6 +4,10 @@ name: "Helen Levi"
 source_url: "https://helenlevi.com"
 captured_at: "2026-09-29T04:10:20.973774+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Helen Levi Ceramics presents a spare, ink-on-paper aesthetic built around two typefaces: HL-T, a custom uppercase display face used sparingly for page titles and section headers, and Everson Mono, a bold monospace that carries body copy, navigation, form controls, and product metadata. The observed palette is tight and print-like: a deep indigo-blue (#2F3490) serves as both the primary brand color and default body-text color, paired against a warm off-white cream (#F5F2E3) that functions as the dominant background/canvas. Near-black (#121212/#000000) and white (#ffffff) appear as secondary ink and surface values, while soft grays (#dedee2/#dedede) and alpha-blended blacks (#00000033, #0000004d, #0000001a) suggest hairlines, overlays, and disabled or inactive states. Two cyan-blue accents (#1990c6, #136f99) are inferred as link/interactive-hover colors distinct from the primary indigo. Inputs and buttons observed in CSS use cream backgrounds with a 1px cream-tint border and 2px border-radius, giving a boxy, stamped-label feel appropriate to handmade pottery. Layout spacing is generous and grid-based (12-column, 48-96px page margins, 64px vertical rhythm), reinforcing a gallery-like, uncluttered presentation of ceramic objects. All semantic role assignments below (ink vs. muted vs. hairline) are inferred from usage context, not explicitly labeled in source CSS.
 
@@ -149,6 +153,12 @@ components:
 Touch targets should be at least 44px in the mobile overlay nav given the 40px `gap` already specified between menu items. Collapse behavior (hamburger toggle, cart drawer) is referenced by class names (`.menu--open`, `.header__cart`) but actual interaction/animation was not observed in static CSS. This table is a recommendation based on variable naming, not measured site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

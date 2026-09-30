@@ -4,6 +4,10 @@ name: "Hamilton Beach"
 source_url: "https://www.hamiltonbeach.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Hamilton Beach's #c82027 sits closer to tomato-paste crimson than fire-engine red — a food-adjacent color that has anchored every primary CTA, promotional badge, and header element for decades without apology. The site runs entirely on Arial and Helvetica (system fonts), a choice that directs design energy toward product photography and specification density rather than typeface investment; body text flows at 16px with weight 400, and heading scales rely on heavier 600–700 weights to create clear hierarchy on category-dense grids. The secondary surface is the extracted #eeeeee — a light warm-gray that appears beneath spec-comparison modules and section dividers, separating product-canvas zones from supporting content without introducing an additional hue. Rounded values stay conservative throughout: small radii on buttons ({rounded.xs}–{rounded.sm}) and product cards signal the practical, value-oriented home-appliance buyer rather than the lifestyle-premium shopper who expects pillowy, high-radius components. Font Awesome supplies iconography in place of a custom set, reinforcing the utility framing that runs through every navigation tier. Promotional labels — SALE, NEW, BEST SELLER — render in the primary crimson on white, yielding high-contrast callout badges that hold legibility at the small sizes demanded by dense product grids. Price figures earn deliberate scale and weight — larger than surrounding body text — so the value proposition registers before the product description. Hero banners feature a single appliance against a lifestyle background, with a solid crimson CTA anchored in the left copy block; no gradient, no glassmorphism, no textured overlay. The overall system is built around catalog trust: the red is an action signal and a brand marker, not a lifestyle aspiration, and every spacing and type decision supports efficient browsing rather than editorial dwell time.
 
@@ -342,6 +346,13 @@ components:
 - Hero banner copy and image stack vertically on mobile with copy above, image below
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

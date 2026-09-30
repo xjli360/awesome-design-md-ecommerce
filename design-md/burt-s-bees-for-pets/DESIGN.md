@@ -4,6 +4,10 @@ name: "Burt's Bees for Pets"
 source_url: "https://burtsbeesforpets.com"
 captured_at: "2026-09-28T10:13:14.192955+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from a small set of global CSS rules and a
   supplied color/font inventory for burtsbeesforpets.com, a Wix-built
@@ -170,6 +174,13 @@ The following breakpoints are a **recommendation only**, not measured from the l
 Touch targets should target a minimum of 44×44px for buttons and nav items. Navigation collapse into a hamburger/drawer pattern below tablet width is a common Wix-site convention and is proposed here, not confirmed via the supplied CSS (only a generic `:root` viewport-unit setup and a reset-button utility were present, with no explicit media queries supplied).
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

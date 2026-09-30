@@ -4,6 +4,10 @@ name: "Anzie"
 source_url: "https://www.anzie.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Where most fine jewelers treat color as accent, Anzie builds entire collections around it — the midnight depth of London blue topaz, the warm amber of Mexican fire opal, the soft translucency of nephrite jade — with each stone's saturation setting the mood for the surrounding metalwork. The digital environment follows that instinct: a deep navy (#163959) grounds all primary CTAs and navigation against white, while a warm amber-orange (#f68b1f) marks discovery moments and editorial callouts without overpowering the jewelry itself. The neutral spine — #272727 near-black ink, #404040 body text, #dedede and #ebebeb as hairlines and soft surface tints — steps back so product photography carries expressive weight. Type runs entirely on system stacks, with -apple-system, Helvetica Neue, and Arial providing a clean, invisible typographic scaffold; hierarchy is built through weight steps and generous line heights rather than a commissioned display face, letting the gem photography speak at full volume. Rounded geometry appears throughout: pill-shaped filter chips (`{rounded.full}`), gently curved product cards, and full-radius icon buttons echo the organic silhouettes of baroque pearls and bezel-set stones, while primary buttons hold sharp corners (`{rounded.none}`) for deliberate contrast. Product cards float on a white canvas behind `{colors.hairline}` borders that dissolve when the eye settles on the stone. The alert red (#bd2426) marks sale flags and form errors — a functional signal, not a brand statement — while the broader gem-tone spectrum cycling through the catalog (blues, ambers, greens, corals) supplies all chromatic expressiveness without baking saturated tones into the UI shell. The breadth of stone types makes robust filtering a signature UI moment: the filter strip uses `{colors.surface-soft}` chips with `{rounded.full}` geometry to keep the browsing layer legible above the product canvas, and the search experience prioritizes stone name and collection over generic department labels.
 
@@ -365,6 +369,14 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

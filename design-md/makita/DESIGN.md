@@ -4,6 +4,10 @@ name: "Makita"
 source_url: "https://makitatools.com"
 captured_at: "2026-09-28T04:19:54.764562+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Makita's observed CSS evidence surfaces a legacy jQuery UI theme rather than
   the primary brand stylesheet, so this interpretation treats the small set of
@@ -168,6 +172,13 @@ Recommended (not measured) breakpoints:
 Touch targets should be at least 44×44px for buttons and nav items. Primary navigation is expected to collapse into a hamburger/drawer pattern below tablet width. All figures are proposed defaults for a tool-catalog site, not measured from Makita's live responsive behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

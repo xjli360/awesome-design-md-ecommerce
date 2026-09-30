@@ -4,6 +4,10 @@ name: "Piel Frama"
 source_url: "https://www.pielframa.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A Spanish leather workshop that has been handcrafting cases for mobile devices since 1996, Piel Frama’s digital presence is a study in restrained material honesty — the brand’s signature marigold-orange accent (#ff9a52) cuts through a near-monochrome palette of deep charcoal (#0a0a0a), warm taupe (#85502b), and cool gray (#acaaa6) like a thread of saddle-stitching across dark bridle leather. The site reads as a catalog of craft: product photography dominates, text is set in system sans-serif stacks (Arial, Helvetica Neue, Roboto) at modest weights, and the only decorative flourish is that single orange voltage used sparingly on add-to-cart buttons, navigation highlights, and category markers. There is no hero video, no parallax, no full-bleed imagery — the brand trusts the grain of the leather and the precision of the cut to sell itself. Typography runs small and tight: body copy at 14px, captions at 12px, with generous vertical spacing between product rows. The checkout flow introduces a secondary blue (#b3d7ff) for informational banners and status indicators, but the core identity remains anchored in warm neutrals and that singular orange point of entry. The overall impression is of a workshop showroom translated into a single-page application — utilitarian, unhurried, and confident in the quality of its raw materials.
 
@@ -322,6 +326,13 @@ components:
 - Hero section text and image stack vertically below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

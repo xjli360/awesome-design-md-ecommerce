@@ -1,0 +1,1196 @@
+{
+  "schema_version": 1,
+  "source_url": "https://smithey.com/",
+  "method": "browser-computed-components",
+  "viewports": [
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "#smithey-ironware-company-premium-cast-iron-cookware",
+          "label": "Skip to content\nSHOP\nCOOK\nCARE\nABOUT\nSERVICES\nSUPPORT\nYOUR C",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 7282.953125
+          },
+          "styles": {
+            "color": "rgb(17, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Gotham, Helvetica, Roboto, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "25.6px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(17, 38, 38)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#shopify-section-header > header:nth-of-type(1)",
+          "label": "SHOP\nCOOK\nCARE\nABOUT\nSERVICES\nSUPPORT",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 88
+          },
+          "styles": {
+            "color": "rgb(243, 243, 243)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Gotham, Helvetica, Roboto, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "25.6px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(243, 243, 243)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "heading",
+          "selector": "#shopify-section-template--16101126176925__smithey_vs_ntja9V > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "label": "COOK WITH CONFIDENCE,\nNOT CHEMICALS.",
+          "box": {
+            "x": 820,
+            "y": 1935.84375,
+            "width": 520,
+            "height": 158.390625
+          },
+          "styles": {
+            "color": "rgb(245, 241, 232)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Gotham, ui-sans-serif, \"sans-serif\"",
+            "font-size": "48px",
+            "font-weight": "600",
+            "line-height": "52.8px",
+            "letter-spacing": "0.48px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "32px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(245, 241, 232)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "section-heading",
+          "selector": "#shopify-section-template--16101126176925__whySmithey > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1)",
+          "label": "WHY SMITHEY?",
+          "box": {
+            "x": 163,
+            "y": 894.015625,
+            "width": 327.390625,
+            "height": 39.953125
+          },
+          "styles": {
+            "color": "rgb(182, 139, 50)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Gotham, ui-sans-serif, \"sans-serif\"",
+            "font-size": "36px",
+            "font-weight": "600",
+            "line-height": "39.96px",
+            "letter-spacing": "1.8px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "8px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(182, 139, 50)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "body-copy",
+          "selector": "#shopify-section-template--16101126176925__hero > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h6:nth-of-type(1) > p:nth-of-type(1)",
+          "label": "THIS AUTUMN",
+          "box": {
+            "x": 22,
+            "y": 584,
+            "width": 665.03125,
+            "height": 17
+          },
+          "styles": {
+            "color": "rgb(243, 243, 243)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Gotham, ui-sans-serif, sans-serif",
+            "font-size": "14px",
+            "font-weight": "500",
+            "line-height": "17px",
+            "letter-spacing": "0.14px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "14px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(243, 243, 243)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--16101126176925__hero > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "THIS AUTUMN\n\nELEVATE EVERYDAY\nSHOP NOW",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 810
+          },
+          "styles": {
+            "color": "rgb(17, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Gotham, Helvetica, Roboto, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "25.6px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(17, 38, 38)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--16101126176925__productSlider > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "label": "SHOP ALL BEST SELLERS",
+          "box": {
+            "x": 598.15625,
+            "y": 1710.046875,
+            "width": 243.671875,
+            "height": 49
+          },
+          "styles": {
+            "color": "rgb(17, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Gotham, Helvetica, Roboto, Arial, sans-serif",
+            "font-size": "14px",
+            "font-weight": "600",
+            "line-height": "17px",
+            "letter-spacing": "0.7px",
+            "padding-top": "0px",
+            "padding-right": "16px",
+            "padding-bottom": "0px",
+            "padding-left": "16px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "1px",
+            "border-top-width": "2px",
+            "border-top-color": "rgb(182, 139, 50)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "#shopify-section-footer > footer:nth-of-type(1)",
+          "label": "US MADE COOKWARE\nUSE IT WELL\nNEWSLETTER\n\nJoin our community ",
+          "box": {
+            "x": 0,
+            "y": 6344.703125,
+            "width": 1440,
+            "height": 938.25
+          },
+          "styles": {
+            "color": "rgb(17, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Gotham, Helvetica, Roboto, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "25.6px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(17, 38, 38)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://smithey.com/cdn/shop/files/acc-1_9.png?v=1695308725&width=100",
+          "alt": "Seasoning Oil",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/acc-1_30.png?v=1695315321&width=100",
+          "alt": "Mighty Spatula",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/10112024-Smithey6Dual-STUDIO27105_ebc13730-8ca9-432b-adf2-f96ee5df076f.jpg?v=1730301568&width=100",
+          "alt": "No. 6 Dual Handle Skillet",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/2609_Desktop-Hero_gradient.jpg?v=1790019861&width=1920",
+          "alt": "",
+          "width": 1440,
+          "height": 810
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/2609_Mobile-Hero_gradient.jpg?v=1790019876&width=1000",
+          "alt": "",
+          "width": 1440,
+          "height": 1759
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/no_10_chef_skillet_dark_with_8_low_res_500x.jpg?v=1635265914",
+          "alt": "",
+          "width": 500,
+          "height": 333
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/Boxes_Flags-small_500x.jpg?v=1667411482",
+          "alt": "",
+          "width": 500,
+          "height": 333
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/smithey_holiday_2021_2.1_26637-small_500x.jpg?v=1667411253",
+          "alt": "",
+          "width": 500,
+          "height": 333
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/MicrosoftTeams-image_23.jpg?v=1676485368&width=600",
+          "alt": "",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/7.5QtDutchOven1.jpg?v=1721226088&width=600",
+          "alt": "7.25 QT Dutch Oven",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/8_chef_egg-medium.jpg?v=1676410137&width=600",
+          "alt": "",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/No8ChefSkillet1.jpg?v=1721226088&width=600",
+          "alt": "No. 8 Chef Skillet",
+          "width": 1440,
+          "height": 1440
+        }
+      ],
+      "document_width": 1440,
+      "viewport": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 1000
+      },
+      "states": {
+        "initial": "observed",
+        "hover": {
+          "selector": "#shopify-section-template--16101126176925__hero > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(17, 38, 38)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(17, 38, 38)",
+            "outline": "rgb(17, 38, 38) none 3px"
+          }
+        },
+        "focus": {
+          "selector": "#shopify-section-template--16101126176925__hero > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(17, 38, 38)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(17, 38, 38)",
+            "outline": "rgb(0, 95, 204) auto 1px"
+          }
+        },
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-desktop.png",
+        "sha256": "a9d8f1a1bebadc7789fa8dd4a0b2c733663eb8171b80f1a41bf5869e7c0e8053",
+        "public_path": "evidence/viewport-desktop.png"
+      }
+    },
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "#smithey-ironware-company-premium-cast-iron-cookware",
+          "label": "Skip to content\nYOUR CART (0)\nYou have no items\nin your cart",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 9793.5
+          },
+          "styles": {
+            "color": "rgb(17, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Gotham, Helvetica, Roboto, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "25.6px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(17, 38, 38)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#shopify-section-header > header:nth-of-type(1)",
+          "label": "",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 88
+          },
+          "styles": {
+            "color": "rgb(243, 243, 243)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Gotham, Helvetica, Roboto, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "25.6px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(243, 243, 243)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "heading",
+          "selector": "#shopify-section-template--16101126176925__smithey_vs_ntja9V > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "label": "COOK WITH CONFIDENCE,\nNOT CHEMICALS.",
+          "box": {
+            "x": 434,
+            "y": 2120.515625,
+            "width": 284,
+            "height": 184
+          },
+          "styles": {
+            "color": "rgb(245, 241, 232)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Gotham, ui-sans-serif, \"sans-serif\"",
+            "font-size": "40px",
+            "font-weight": "600",
+            "line-height": "46px",
+            "letter-spacing": "0.4px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "28px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(245, 241, 232)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "section-heading",
+          "selector": "#shopify-section-template--16101126176925__whySmithey > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1)",
+          "label": "WHY SMITHEY?",
+          "box": {
+            "x": 320.859375,
+            "y": 481.671875,
+            "width": 218.265625,
+            "height": 26.640625
+          },
+          "styles": {
+            "color": "rgb(182, 139, 50)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Gotham, ui-sans-serif, \"sans-serif\"",
+            "font-size": "24px",
+            "font-weight": "600",
+            "line-height": "26.64px",
+            "letter-spacing": "1.2px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "8px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(182, 139, 50)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "body-copy",
+          "selector": "#shopify-section-template--16101126176925__hero > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h6:nth-of-type(1) > p:nth-of-type(1)",
+          "label": "THIS AUTUMN",
+          "box": {
+            "x": 22,
+            "y": 171.578125,
+            "width": 638.34375,
+            "height": 17
+          },
+          "styles": {
+            "color": "rgb(243, 243, 243)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Gotham, ui-sans-serif, sans-serif",
+            "font-size": "30.72px",
+            "font-weight": "500",
+            "line-height": "17px",
+            "letter-spacing": "0.14px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "30.72px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(243, 243, 243)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--16101126176925__hero > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "THIS AUTUMN\n\nELEVATE EVERYDAY\nSHOP NOW",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 432
+          },
+          "styles": {
+            "color": "rgb(17, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Gotham, Helvetica, Roboto, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "25.6px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(17, 38, 38)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--16101126176925__productSlider > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "label": "SHOP ALL BEST SELLERS",
+          "box": {
+            "x": 10,
+            "y": 1914.71875,
+            "width": 748,
+            "height": 49
+          },
+          "styles": {
+            "color": "rgb(17, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Gotham, Helvetica, Roboto, Arial, sans-serif",
+            "font-size": "14px",
+            "font-weight": "600",
+            "line-height": "17px",
+            "letter-spacing": "0.7px",
+            "padding-top": "0px",
+            "padding-right": "16px",
+            "padding-bottom": "0px",
+            "padding-left": "16px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "1px",
+            "border-top-width": "2px",
+            "border-top-color": "rgb(182, 139, 50)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "#shopify-section-footer > footer:nth-of-type(1)",
+          "label": "US MADE COOKWARE\nUSE IT WELL\nNEWSLETTER\n\nJoin our community ",
+          "box": {
+            "x": 0,
+            "y": 8420.078125,
+            "width": 768,
+            "height": 1373.421875
+          },
+          "styles": {
+            "color": "rgb(17, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Gotham, Helvetica, Roboto, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "25.6px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(17, 38, 38)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://smithey.com/cdn/shop/files/acc-1_9.png?v=1695308725&width=100",
+          "alt": "Seasoning Oil",
+          "width": 768,
+          "height": 768
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/acc-1_30.png?v=1695315321&width=100",
+          "alt": "Mighty Spatula",
+          "width": 768,
+          "height": 768
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/10112024-Smithey6Dual-STUDIO27105_ebc13730-8ca9-432b-adf2-f96ee5df076f.jpg?v=1730301568&width=100",
+          "alt": "No. 6 Dual Handle Skillet",
+          "width": 768,
+          "height": 768
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/2609_Desktop-Hero_gradient.jpg?v=1790019861&width=1920",
+          "alt": "",
+          "width": 768,
+          "height": 432
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/2609_Mobile-Hero_gradient.jpg?v=1790019876&width=1000",
+          "alt": "",
+          "width": 767,
+          "height": 938
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/no_10_chef_skillet_dark_with_8_low_res_500x.jpg?v=1635265914",
+          "alt": "",
+          "width": 500,
+          "height": 333
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/Boxes_Flags-small_500x.jpg?v=1667411482",
+          "alt": "",
+          "width": 500,
+          "height": 333
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/smithey_holiday_2021_2.1_26637-small_500x.jpg?v=1667411253",
+          "alt": "",
+          "width": 500,
+          "height": 333
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/a_-_1_12.jpg?v=1677181980&width=600",
+          "alt": "",
+          "width": 768,
+          "height": 1024
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/No12Skillet1.jpg?v=1742318747&width=600",
+          "alt": "No. 12 Skillet",
+          "width": 768,
+          "height": 768
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/MicrosoftTeams-image_26.jpg?v=1676485488&width=600",
+          "alt": "",
+          "width": 768,
+          "height": 1024
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/FarmhouseSkillet1.jpg?v=1721226089&width=600",
+          "alt": "Farmhouse Skillet",
+          "width": 768,
+          "height": 768
+        }
+      ],
+      "document_width": 768,
+      "viewport": {
+        "name": "tablet",
+        "width": 768,
+        "height": 1024
+      },
+      "states": {
+        "initial": "observed",
+        "hover": {
+          "selector": "#shopify-section-template--16101126176925__hero > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(17, 38, 38)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(17, 38, 38)",
+            "outline": "rgb(17, 38, 38) none 3px"
+          }
+        },
+        "focus": {
+          "selector": "#shopify-section-template--16101126176925__hero > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(17, 38, 38)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(17, 38, 38)",
+            "outline": "rgb(0, 95, 204) auto 1px"
+          }
+        },
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-tablet.png",
+        "sha256": "ebb72596012f7c076173d57d2a52f13b82ca1427e7419976b360ba9fe343fff9",
+        "public_path": "evidence/viewport-tablet.png"
+      }
+    },
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "#smithey-ironware-company-premium-cast-iron-cookware",
+          "label": "Skip to content\nYOUR CART (0)\nYou have no items\nin your cart",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 8442.890625
+          },
+          "styles": {
+            "color": "rgb(17, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Gotham, Helvetica, Roboto, Arial, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "22.4px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(17, 38, 38)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#shopify-section-header > header:nth-of-type(1)",
+          "label": "",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 87.9375
+          },
+          "styles": {
+            "color": "rgb(243, 243, 243)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Gotham, Helvetica, Roboto, Arial, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "22.4px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(243, 243, 243)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "heading",
+          "selector": "#shopify-section-template--16101126176925__smithey_vs_ntja9V > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "label": "COOK WITH CONFIDENCE,\nNOT CHEMICALS.",
+          "box": {
+            "x": 30,
+            "y": 1885.5625,
+            "width": 330,
+            "height": 122.390625
+          },
+          "styles": {
+            "color": "rgb(245, 241, 232)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Gotham, ui-sans-serif, \"sans-serif\"",
+            "font-size": "34px",
+            "font-weight": "600",
+            "line-height": "40.8px",
+            "letter-spacing": "0.34px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "24px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(245, 241, 232)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "section-heading",
+          "selector": "#shopify-section-template--16101126176925__whySmithey > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1)",
+          "label": "WHY SMITHEY?",
+          "box": {
+            "x": 131.859375,
+            "y": 739.328125,
+            "width": 218.265625,
+            "height": 26.640625
+          },
+          "styles": {
+            "color": "rgb(182, 139, 50)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Gotham, ui-sans-serif, \"sans-serif\"",
+            "font-size": "24px",
+            "font-weight": "600",
+            "line-height": "26.64px",
+            "letter-spacing": "1.2px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "8px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(182, 139, 50)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "body-copy",
+          "selector": "#shopify-section-template--16101126176925__hero > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h6:nth-of-type(1) > p:nth-of-type(1)",
+          "label": "THIS AUTUMN",
+          "box": {
+            "x": 22,
+            "y": 463.96875,
+            "width": 323.171875,
+            "height": 13
+          },
+          "styles": {
+            "color": "rgb(243, 243, 243)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Gotham, ui-sans-serif, sans-serif",
+            "font-size": "15.6px",
+            "font-weight": "500",
+            "line-height": "13px",
+            "letter-spacing": "1.1px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "15.6px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(243, 243, 243)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--16101126176925__hero > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "THIS AUTUMN\n\nELEVATE EVERYDAY\nSHOP NOW",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 693.328125
+          },
+          "styles": {
+            "color": "rgb(17, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Gotham, Helvetica, Roboto, Arial, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "22.4px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(17, 38, 38)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--16101126176925__productSlider > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "label": "SHOP ALL BEST SELLERS",
+          "box": {
+            "x": 8.75,
+            "y": 1715.171875,
+            "width": 372.5,
+            "height": 49
+          },
+          "styles": {
+            "color": "rgb(17, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Gotham, Helvetica, Roboto, Arial, sans-serif",
+            "font-size": "14px",
+            "font-weight": "600",
+            "line-height": "17px",
+            "letter-spacing": "0.7px",
+            "padding-top": "0px",
+            "padding-right": "16px",
+            "padding-bottom": "0px",
+            "padding-left": "16px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "1px",
+            "border-top-width": "2px",
+            "border-top-color": "rgb(182, 139, 50)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "#shopify-section-footer > footer:nth-of-type(1)",
+          "label": "US MADE COOKWARE\nUSE IT WELL\nNEWSLETTER\n\nJoin our community ",
+          "box": {
+            "x": 0,
+            "y": 7089.0625,
+            "width": 390,
+            "height": 1353.828125
+          },
+          "styles": {
+            "color": "rgb(17, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Gotham, Helvetica, Roboto, Arial, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "22.4px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(17, 38, 38)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://smithey.com/cdn/shop/files/acc-1_9.png?v=1695308725&width=100",
+          "alt": "Seasoning Oil",
+          "width": 390,
+          "height": 390
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/acc-1_30.png?v=1695315321&width=100",
+          "alt": "Mighty Spatula",
+          "width": 390,
+          "height": 390
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/10112024-Smithey6Dual-STUDIO27105_ebc13730-8ca9-432b-adf2-f96ee5df076f.jpg?v=1730301568&width=100",
+          "alt": "No. 6 Dual Handle Skillet",
+          "width": 390,
+          "height": 390
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/2609_Desktop-Hero_gradient.jpg?v=1790019861&width=1920",
+          "alt": "",
+          "width": 389,
+          "height": 219
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/2609_Mobile-Hero_gradient.jpg?v=1790019876&width=1000",
+          "alt": "",
+          "width": 390,
+          "height": 476
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/no_10_chef_skillet_dark_with_8_low_res_500x.jpg?v=1635265914",
+          "alt": "",
+          "width": 500,
+          "height": 333
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/Boxes_Flags-small_500x.jpg?v=1667411482",
+          "alt": "",
+          "width": 500,
+          "height": 333
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/smithey_holiday_2021_2.1_26637-small_500x.jpg?v=1667411253",
+          "alt": "",
+          "width": 500,
+          "height": 333
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/a_-_1_12.jpg?v=1677181980&width=600",
+          "alt": "",
+          "width": 390,
+          "height": 520
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/No12Skillet1.jpg?v=1742318747&width=600",
+          "alt": "No. 12 Skillet",
+          "width": 390,
+          "height": 390
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/MicrosoftTeams-image_26.jpg?v=1676485488&width=600",
+          "alt": "",
+          "width": 390,
+          "height": 520
+        },
+        {
+          "url": "https://smithey.com/cdn/shop/files/FarmhouseSkillet1.jpg?v=1721226089&width=600",
+          "alt": "Farmhouse Skillet",
+          "width": 390,
+          "height": 390
+        }
+      ],
+      "document_width": 390,
+      "viewport": {
+        "name": "mobile",
+        "width": 390,
+        "height": 844
+      },
+      "states": {
+        "initial": "observed",
+        "hover": {
+          "selector": "#shopify-section-template--16101126176925__hero > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(17, 38, 38)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(17, 38, 38)",
+            "outline": "rgb(17, 38, 38) none 3px"
+          }
+        },
+        "focus": {
+          "selector": "#shopify-section-template--16101126176925__hero > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(17, 38, 38)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(17, 38, 38)",
+            "outline": "rgb(0, 95, 204) auto 1px"
+          }
+        },
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-mobile.png",
+        "sha256": "c23100054006b3e7046b8862a956235341b059bd8613e8b297b8a7570d651dfd",
+        "public_path": "evidence/viewport-mobile.png"
+      }
+    }
+  ],
+  "visual_validation": {
+    "status": "not_performed",
+    "reason": "No implementation generated from DESIGN.md has been compared with the reference."
+  },
+  "brand_review": {
+    "decision": "matched_brand",
+    "reviewed_on": "2026-09-30",
+    "title": "Smithey Ironware Company | Premium Cast Iron Cookware",
+    "final_url": "https://smithey.com/",
+    "capture_id": "6457a04ac6e64fc0a9894b61cb65c836",
+    "expected_brand": "Smithey"
+  },
+  "requested_url": "https://smithey.com",
+  "captured_at": "2026-09-30T09:11:45.319472+00:00",
+  "capture_id": "6457a04ac6e64fc0a9894b61cb65c836",
+  "landing_page_sha256": "1c7c994afdc1ae0eafa91417405cf491019089642053703d82e4a978103363ee"
+}

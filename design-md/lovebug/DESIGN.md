@@ -4,6 +4,10 @@ name: "Lovebug"
 source_url: "https://lovebugpetfood.com"
 captured_at: "2026-09-28T09:02:58.512613+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Lovebug's evidenced storefront is a Shopify-based pet-food brand built on
   Assistant as its declared body and heading font family (confirmed via
@@ -164,6 +168,12 @@ Recommended breakpoints (not measured from live site):
 Touch targets should be at least 44px tall (loosely consistent with the observed `clamp(25px, ..., 55px)` accelerated-checkout button height). Buttons and inputs should retain minimum horizontal padding of `{spacing.md}` at all sizes. This table is a proposed convention, not an observed responsive behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "East Fork"
 source_url: "https://eastfork.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   East Fork is a pottery and home goods brand rooted in Asheville, North Carolina, where the craft of wheel-thrown ceramics meets a deeply considered, earthy aesthetic. The brand’s visual language is anchored by a warm, off-white canvas of `#f4f3ee`, a color that feels like sun-dried clay, and is punctuated by the rich, terracotta-like `#ac624b` and the deep, grounding `#272d45` — a palette that mirrors the natural landscape of the Appalachian mountains. Signature design moves include generous use of soft, pill-shaped buttons (`{rounded.full}`) and cards with rounded corners (`{rounded.lg}`), creating a tactile, approachable feel that echoes the handmade quality of the products. The typography, while relying on system font stacks, is set in a clean, readable `body-md` at 16px, allowing the pottery’s texture and form to take center stage. Accents of `#ffcf2a` (a muted gold) and `#0e7a82` (a deep teal) appear sparingly, adding moments of unexpected warmth and depth without disrupting the overall calm. The brand feels unhurried and honest — every spacing unit, from `{spacing.sm}` (8px) to `{spacing.section}` (64px), is designed to breathe, creating a sense of quiet luxury that invites the user to slow down and appreciate the object in hand. This is not a brand that shouts; it’s one that speaks in the language of clay, light, and craft.
 
@@ -310,6 +314,13 @@ components:
 - Hero banners reduce text size and padding on mobile, often removing secondary copy.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

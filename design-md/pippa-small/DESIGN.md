@@ -4,6 +4,10 @@ name: "Pippa Small"
 source_url: "https://www.pippasmall.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Raw gold wire coiled around a rough-cut turquoise captures the Pippa Small ethos before a single navigation element loads — the store inherits the patience of artisans in Kabul and Rajasthan who fabricate the jewellery by hand. Near-black ink (#1c1b1b) sits over layered cool grounds (#efefef, #f1f1f1) that shift subtly by section rather than holding a single stark white canvas, giving the site the density of a museum catalogue rather than a product feed. Playfair Display carries every headline in its classical serif cut — the font choice never concedes to a condensed grotesque or a geometric alternative, committing fully to the handpress-book register and treating each collection name as a chapter heading. Against this composed neutral field a single voltage fires: a deep fuchsia-pink (#e13e82) that marks every primary call-to-action — Add to Cart, newsletter submit, checkout proceed — with the decisiveness of a wax seal on archival paper. Two ecological accent tones, sage (#d2e4c4) and forest green (#307a07), surface in provenance callouts and sustainability strips, anchoring the brand's artisan-community commitments across Afghanistan, Pakistan, and India without overwhelming the editorial neutral field. Warm silver (#c0c0c0) and muted blush (#e4c4c4) handle secondary surfaces: image overlays, hover tints, soft dividers. Rounded tokens sit at {rounded.none} on primary buttons — flat, sharp geometry that reads as hand-finished rather than factory-cast — while {rounded.xs} marks provenance tags as small pressed labels. Spacing breathes at {spacing.section} between story modules, giving documentary photography room to read fully before the next product grid begins. The overall cadence is slow and intentional, built for customers who expect to spend time reading provenance copy the way they would inspect a hallmark stamp — turning the piece over to find the maker's mark before committing.
 
@@ -327,6 +331,13 @@ components:
 - Sustainability strip remains full-width at all breakpoints; text wraps if needed rather than truncating
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

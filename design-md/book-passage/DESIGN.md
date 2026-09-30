@@ -4,6 +4,10 @@ name: "Book Passage"
 source_url: "https://www.bookpassage.com"
 captured_at: "2026-09-29T04:10:45.257135+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation draws from the observed Book Passage site CSS, which
   exposes a small set of interface colors and a plain system font stack
@@ -138,6 +142,12 @@ button-primary is proposed for primary calls to action such as "Add to Cart" or 
 Recommended, not measured: mobile (<640px) single-column stacking with the nav-bar collapsing into a toggled menu drawer; tablet (640–1024px) two-column event/product grids; desktop (>1024px) three- to four-column grids for events and books. Touch targets should be at least 44px in height for buttons and menu items. This breakpoint scheme is a general proposal for a content/commerce hybrid site and was not derived from any observed media query in the supplied CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is built from a partial, static CSS/text extraction and does not reflect live rendering, computed layout, or interaction states. The `--font-family: var(--font-raleway)` custom property suggests a Raleway typeface was intended by the theme, but no @font-face, font file, or family name was present in the supplied evidence, so all typography here uses only the confirmed Arial/Helvetica/sans-serif stack — actual rendered fonts may differ and should be re-verified against live font loads. Color role assignments (primary, secondary, muted, surface tones) are inferred from CSS variable names and jQuery UI widget theming, not from confirmed brand-guideline documentation. All font sizes, spacing, and rounded-corner values are proposed conventions rather than measured pixel values. Hover, focus, active, and disabled states for buttons, inputs, and nav items were not observed. Mobile menu behavior, grid column counts, and image/hero treatments were not present in the supplied evidence. Custom font licensing and availability (if Raleway is in fact used) were not verified.

@@ -4,6 +4,10 @@ name: "Carbon & Hyde"
 source_url: "https://www.carbonandhyde.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Carbon & Hyde wears its dark canvas (#191919) as a deliberate provocation — periwinkle (#899df1) glows against near-black the way a diamond catches stage light, turning the typically cream-and-gold language of fine jewelry into something electric. The brand's Los Angeles origin shows in a confident lightness: where heritage jewelers reach for antiquated serif hierarchies, Carbon & Hyde pairs Spectral (a screen-optimized editorial serif) against Untitled Sans Web in a system that reads equally well on phone glass and in a gallery caption. Borders and surfaces build in charcoal strata (#313131, #252525) rather than collapsing to white, so every product image floats as a lit specimen rather than a catalog scan. The periwinkle primary sits close enough to cornflower blue to feel gemstone-adjacent without feeling safe; it carries CTAs, hover states, and form focus rings, while steel blue (#8ba8c8) handles informational tags and link highlights. Red (#ff0000) is reserved for sale or urgency flags only — a pure signal with no decorative ambition. {rounded.none} to {rounded.sm} govern the hard geometry of buttons and inputs, echoing the faceted planes of cut stone; {rounded.full} appears only on badge pills, never on cards or CTAs. Spacing is generous at the product level — full-bleed hero imagery and wide column gutters — then collapses on mobile, where a single-column scroll treats each product card as a full-viewport moment. The overall register is Los Angeles studio-gallery: dark, lit, unhurried, with one charged color that holds all the energy.
 
@@ -306,6 +310,13 @@ components:
 - Announcement bar collapses to single-line scrolling marquee if content exceeds viewport width on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

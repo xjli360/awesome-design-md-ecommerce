@@ -4,6 +4,10 @@ name: "Pangaia"
 source_url: "https://pangaia.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   PANGAIA foregrounds material science before aesthetics — the site's masthead reads "Materials science brand on a mission to save our environment" where a fashion company would place a campaign slogan, and the color language enforces that hierarchy. A seafoam mint (#b2f9e9) functions as the primary accent: unusual enough to feel like a laboratory indicator rather than a trend color, clinical enough to signal that the brand's sustainability claims are technical, not decorative. The primary canvas runs #f7f7f8 — a cool off-white with a faint blue undertone — against near-black (#121212) body text, producing the high-contrast readability of a research document rather than the warm ivory-and-charcoal palette most sustainable fashion prefers.
 
@@ -359,6 +363,13 @@ components:
 - Announcement bar is always full-width and non-dismissible across all breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

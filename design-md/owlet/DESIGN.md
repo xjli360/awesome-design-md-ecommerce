@@ -4,6 +4,10 @@ name: "Owlet"
 source_url: "https://owletcare.com"
 captured_at: "2026-09-28T04:24:24.670966+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Owlet's storefront pairs a warm, nursery-adjacent palette with a clinical
   teal anchor, reflecting its positioning as an FDA-cleared health-tech
@@ -153,6 +157,12 @@ This is a recommended breakpoint strategy, not measured site behavior — no res
 Touch targets should be at least 44px tall (aligned with the observed Shopify accelerated-checkout button's 44px default block size). Primary navigation is expected to collapse below tablet width; this is a proposed convention, not confirmed markup.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Color variables were captured as RGB triples partially truncated in the CSS excerpt (e.g., `--color-accent-2`, `--color-border`); exact hex equivalents were approximated from the nearest values in the observed hex palette (e.g., hairline mapped to `#dedede`) and should be re-verified against live computed styles.

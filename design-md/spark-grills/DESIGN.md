@@ -4,6 +4,10 @@ name: "Spark Grills"
 source_url: "https://www.sparkgrills.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Charcoal inside a sealed, steel-shelled chamber with a brushless fan wired to a Bluetooth stack — Spark Grills converts the oldest cooking method into something you dial by degree from a phone. The site matches the product's logic: a dark carbon ground (`#111111`) holds the hero, while a single combustion orange (`#E8500A`) marks every interactive state, live temperature readout, and primary CTA. Nothing competes with it. Product photography shoots the grill from low angles under dramatic side-light, letting the lid geometry read as precision hardware rather than patio furniture.
 
@@ -360,6 +364,13 @@ components:
 - Sticky cart bar is present on Mobile and Tablet only; hidden at Desktop where the hero CTA anchor is always visible.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

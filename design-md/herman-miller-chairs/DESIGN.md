@@ -4,6 +4,10 @@ name: "Herman Miller (Chairs)"
 source_url: "https://store.hermanmiller.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every chair specification table on a Herman Miller product page runs in Soehne at 12px uppercase tracking — the same deliberate information density you'd find in a technical white-paper, not a lifestyle catalog. The palette anchors on an earthy, muted teal (#00816c) that darkens to #004e41 on hover and #004338 at section boundaries: three values of the same hue, no secondary chromatic accent doing decorative work at the UI layer. Against a #fafafa / #ffffff canvas with #252525 ink, the teal operates as the single active-state signal — search bars, primary CTAs, active nav underlines, and chair-category callouts all draw from the same well. A secondary register of alert colors — #e22d00 for clearance callouts, #cd4557 for promotional badges, #ce973d for select-collection highlights — enters only at the merchandising layer and never bleeds into core interface chrome.
 
@@ -399,6 +403,13 @@ components:
 - Promo banner: stays pinned on all breakpoints; dismissible only on desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

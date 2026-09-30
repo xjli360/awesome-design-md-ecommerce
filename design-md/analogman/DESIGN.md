@@ -4,6 +4,10 @@ name: "Analogman"
 source_url: "https://www.analogman.com"
 captured_at: "2026-09-29T04:21:06.555630+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Analogman's own site (analogman.com) is a legacy, text-first reference page that the
   company itself describes as its "original website," kept live for its archive of
@@ -152,6 +156,14 @@ components:
 Proposed breakpoints (not measured from the live site): mobile ≤480px, tablet 481–768px, desktop ≥769px. Below tablet, nav-bar and pedal-index-row are recommended to collapse into a single-column stacked list, since the source text explicitly notes a separate mobile-friendly commerce site (buyanalogman.com) rather than describing responsive behavior on analogman.com itself. Touch targets for button-primary/secondary and pedal-index-row links should be at least 44×44px per standard accessibility guidance. This section is a recommendation for a re-skin, not an observation of analogman.com's actual responsive markup or breakpoints.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

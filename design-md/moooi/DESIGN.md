@@ -4,6 +4,10 @@ name: "Moooi"
 source_url: "https://moooi.com"
 captured_at: "2026-09-28T04:20:42.949300+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Moooi's captured stylesheet is built on a restrained neutral scale (white, near-black,
   and a family of warm beiges such as #f8f4ed and #f1ece2) punctuated by a small set of
@@ -135,6 +139,13 @@ components:
 This is a proposed recommendation, not measured site behavior: a compact breakpoint table of mobile (< 600px), tablet (600–1024px), and desktop (> 1024px) is suggested. Below 600px, navigation should collapse into a drawer or bottom sheet — consistent with the observed `.styles_is-bottom-on-mobile` modal variant, which repositions the close control for small screens. Touch targets should stay at or above the observed 38px close-button dimension. Font sizing in the captured body rule uses viewport-relative units (`1.0666666667vw`) alongside a fixed 16px fallback, implying fluid type scaling on larger viewports that should be clamped for accessibility on very small or very large screens (proposed, not confirmed).
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS and a font/color inventory only; no rendered layout, breakpoint behavior, hover/focus states beyond the few captured selectors, or actual mobile navigation pattern were observed. The semantic roles of Brown, SangBleu Sans, and both Tiempos cuts are inferred from font-manifest presence alone, since no selector in the supplied evidence applies them — their assignment to display/title roles here is a plausible but unverified pairing. Festive-theme accent colors (green, red-orange, yellow) are assumed seasonal rather than core brand colors based solely on the `theme-festive` class name. All spacing, rounding, and non-Gill-Sans typographic sizes are proposed design-system values, not measured. Licensing and availability of the custom font families (Brown, Gill Sans, SangBleu Sans, Tiempos Fine/Text) were not verified and would require confirmation before implementation.

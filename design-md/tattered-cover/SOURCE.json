@@ -30,15 +30,32 @@
     }
   ],
   "colors": {
+    "#00000000": {
+      "count": 9,
+      "sources": [
+        "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582"
+      ]
+    },
+    "#c4c4c4": {
+      "count": 1,
+      "sources": [
+        "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582"
+      ]
+    },
     "#000000": {
       "count": 14,
       "sources": [
-        "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582",
-        "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582"
+        "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582"
       ]
     },
-    "#00000000": {
-      "count": 9,
+    "#204325": {
+      "count": 3,
       "sources": [
         "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582"
       ]
@@ -46,8 +63,7 @@
     "#ffffff": {
       "count": 8,
       "sources": [
-        "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582",
-        "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582"
+        "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582"
       ]
     },
     "#cccccc": {
@@ -56,22 +72,9 @@
         "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582"
       ]
     },
-    "#1f4324": {
-      "count": 6,
-      "sources": [
-        "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582"
-      ]
-    },
     "#21282d": {
       "count": 4,
       "sources": [
-        "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582"
-      ]
-    },
-    "#204325": {
-      "count": 3,
-      "sources": [
-        "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582",
         "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582"
       ]
     },
@@ -87,53 +90,10 @@
         "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582"
       ]
     },
-    "#333333": {
-      "count": 2,
-      "sources": [
-        "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582",
-        "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582"
-      ]
-    },
-    "#0000000d": {
-      "count": 2,
-      "sources": [
-        "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582"
-      ]
-    },
-    "#bbbbbb": {
-      "count": 2,
+    "#1f4324": {
+      "count": 6,
       "sources": [
         "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582"
-      ]
-    },
-    "#c4c4c4": {
-      "count": 1,
-      "sources": [
-        "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582"
-      ]
-    },
-    "#1c1c1c33": {
-      "count": 1,
-      "sources": [
-        "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582"
-      ]
-    },
-    "#00000033": {
-      "count": 1,
-      "sources": [
-        "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582"
-      ]
-    },
-    "#3636364d": {
-      "count": 1,
-      "sources": [
-        "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582"
-      ]
-    },
-    "#00000066": {
-      "count": 1,
-      "sources": [
-        "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582"
       ]
     },
     "#696969": {
@@ -160,6 +120,12 @@
         "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582"
       ]
     },
+    "#bbbbbb": {
+      "count": 2,
+      "sources": [
+        "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582"
+      ]
+    },
     "#757575": {
       "count": 1,
       "sources": [
@@ -168,33 +134,13 @@
     }
   },
   "font_families": {
-    "Consolas": [
-      "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582"
-    ],
-    "Courier New": [
-      "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582"
-    ],
-    "DellaRobbia": [
-      "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582"
-    ],
     "Figtree": [
-      "https://www.tatteredcover.com/",
-      "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582"
+      "https://www.tatteredcover.com/"
+    ],
+    "sans-serif": [
+      "https://www.tatteredcover.com/"
     ],
     "Figtree_Medium": [
-      "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582",
-      "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582"
-    ],
-    "Georgia": [
-      "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582"
-    ],
-    "Liberation Mono": [
-      "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582"
-    ],
-    "Menlo": [
-      "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582"
-    ],
-    "Monaco": [
       "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582"
     ],
     "Muli": [
@@ -203,24 +149,14 @@
     "Poynter": [
       "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582"
     ],
-    "SFMono-Regular": [
-      "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582"
-    ],
-    "monospace": [
-      "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582"
-    ],
-    "sans-serif": [
-      "https://www.tatteredcover.com/",
-      "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582"
-    ],
-    "sans-serif!important": [
+    "Georgia": [
       "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582"
     ],
     "serif": [
       "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582"
     ],
-    "ui-monospace": [
-      "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582"
+    "DellaRobbia": [
+      "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582"
     ]
   },
   "css_rules": [
@@ -381,10 +317,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Tattered Cover",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-300",
   "tokens": {
     "colors.primary": {
+      "value": "#1f4324",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -392,14 +329,15 @@
       ]
     },
     "colors.primary-alt": {
+      "value": "#204325",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582",
-        "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582"
+        "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582"
       ]
     },
     "colors.secondary": {
+      "value": "#21282d",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -407,6 +345,7 @@
       ]
     },
     "colors.ink": {
+      "value": "#1c1c1c",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -414,22 +353,23 @@
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582",
-        "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582"
+        "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582"
       ]
     },
     "colors.body": {
+      "value": "#333333",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582",
-        "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582"
+        "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582"
       ]
     },
     "colors.muted": {
+      "value": "#767676",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -437,6 +377,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#dddddd",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -444,6 +385,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#f5f5f5",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -451,22 +393,23 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582",
-        "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582"
+        "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582"
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582",
-        "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582"
+        "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582"
       ]
     },
     "colors.border-subtle": {
+      "value": "#cccccc",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -474,6 +417,7 @@
       ]
     },
     "colors.border-strong": {
+      "value": "#bbbbbb",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -481,6 +425,7 @@
       ]
     },
     "colors.neutral-200": {
+      "value": "#c4c4c4",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -488,6 +433,7 @@
       ]
     },
     "colors.neutral-300": {
+      "value": "#c1c1c1",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -495,6 +441,7 @@
       ]
     },
     "colors.neutral-400": {
+      "value": "#696969",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -502,6 +449,7 @@
       ]
     },
     "colors.neutral-500": {
+      "value": "#757575",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -509,110 +457,457 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "DellaRobbia, Georgia, serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "Poynter, Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "Figtree, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "Figtree, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Muli, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Figtree, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "Figtree_Medium, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 500,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.3px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.border-subtle}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "hairlineColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.base} {spacing.xxl}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.base}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xxl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.secondary}",
+        "textColor": "{colors.on-primary}",
+        "linkTypography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xxl}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.border-subtle}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.staff-pick-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "accentColor": "{colors.primary-alt}",
+        "titleTypography": "{typography.title-md}",
+        "noteTypography": "{typography.body-sm}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#00000000": {
+        "selector": "button,[type=button],[type=reset],[type=submit]",
+        "property": "background-color",
+        "declaration": "#0000",
+        "url": "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "431a299babc71f70c7a13d9cbd8c82bb55bab48f7f74a32dced34b437e551931"
+      },
+      "#333333": {
+        "selector": ".page-dots>*",
+        "property": "outline",
+        "declaration": "1px solid #333",
+        "url": "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "431a299babc71f70c7a13d9cbd8c82bb55bab48f7f74a32dced34b437e551931"
+      },
+      "#c4c4c4": {
+        "selector": ".floating-controls-container--on-hover>.floating-controls-container__control .circle-button",
+        "property": "border",
+        "declaration": "1px solid #c4c4c4",
+        "url": "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "431a299babc71f70c7a13d9cbd8c82bb55bab48f7f74a32dced34b437e551931"
+      },
+      "#000000": {
+        "selector": ":-webkit-autofill~.floating-label",
+        "property": "color",
+        "declaration": "#000",
+        "url": "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "431a299babc71f70c7a13d9cbd8c82bb55bab48f7f74a32dced34b437e551931"
+      },
+      "#204325": {
+        "selector": ".dot-checkbox:checked",
+        "property": "accent-color",
+        "declaration": "#204325",
+        "url": "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "431a299babc71f70c7a13d9cbd8c82bb55bab48f7f74a32dced34b437e551931"
+      },
+      "#ffffff": {
+        "selector": ".loading-bar",
+        "property": "background",
+        "declaration": "#fff",
+        "url": "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "431a299babc71f70c7a13d9cbd8c82bb55bab48f7f74a32dced34b437e551931"
+      },
+      "#cccccc": {
+        "selector": ".store",
+        "property": "border",
+        "declaration": "1px solid #ccc",
+        "url": "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "c1a25d939806cee03666fa257d17b04e307b31ddce55ee13c857c258cc4d7a8c"
+      },
+      "#21282d": {
+        "selector": ".change-store-button",
+        "property": "color",
+        "declaration": "#21282d",
+        "url": "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "c1a25d939806cee03666fa257d17b04e307b31ddce55ee13c857c258cc4d7a8c"
+      },
+      "#1c1c1c": {
+        "selector": ".pickup-button:hover",
+        "property": "background-color",
+        "declaration": "#1c1c1c",
+        "url": "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "c1a25d939806cee03666fa257d17b04e307b31ddce55ee13c857c258cc4d7a8c"
+      },
+      "#f5f5f5": {
+        "selector": ".location-banner",
+        "property": "background",
+        "declaration": "#f5f5f5",
+        "url": "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "c1a25d939806cee03666fa257d17b04e307b31ddce55ee13c857c258cc4d7a8c"
+      },
+      "#1f4324": {
+        "selector": ".location-store-name-text",
+        "property": "color",
+        "declaration": "#1f4324",
+        "url": "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "c1a25d939806cee03666fa257d17b04e307b31ddce55ee13c857c258cc4d7a8c"
+      },
+      "#696969": {
+        "selector": ".ropis-terms-text",
+        "property": "color",
+        "declaration": "#696969",
+        "url": "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "c1a25d939806cee03666fa257d17b04e307b31ddce55ee13c857c258cc4d7a8c"
+      },
+      "#c1c1c1": {
+        "selector": ".footer-border",
+        "property": "border-bottom",
+        "declaration": "1px solid #c1c1c1",
+        "url": "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "c1a25d939806cee03666fa257d17b04e307b31ddce55ee13c857c258cc4d7a8c"
+      },
+      "#767676": {
+        "selector": ".select-button-disabled",
+        "property": "color",
+        "declaration": "#767676",
+        "url": "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "c1a25d939806cee03666fa257d17b04e307b31ddce55ee13c857c258cc4d7a8c"
+      },
+      "#dddddd": {
+        "selector": ".select-button-disabled",
+        "property": "border",
+        "declaration": "1px solid #ddd",
+        "url": "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "c1a25d939806cee03666fa257d17b04e307b31ddce55ee13c857c258cc4d7a8c"
+      },
+      "#bbbbbb": {
+        "selector": ".pdp-thumbnail-carousel-borders",
+        "property": "border-bottom",
+        "declaration": "1px solid #bbb",
+        "url": "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "c1a25d939806cee03666fa257d17b04e307b31ddce55ee13c857c258cc4d7a8c"
+      },
+      "#757575": {
+        "selector": ".ropis-unavailable-text",
+        "property": "color",
+        "declaration": "#757575",
+        "url": "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "c1a25d939806cee03666fa257d17b04e307b31ddce55ee13c857c258cc4d7a8c"
+      }
+    },
+    "font_families": {
+      "Figtree": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Figtree",
+        "url": "https://www.tatteredcover.com/",
+        "snapshot": "homepage.html",
+        "sha256": "3f72d549182584bed724f3c0f98cd898ca106c29f2ce3a9eb20fe39a86d6fabe"
+      },
+      "sans-serif": {
+        "selector": ":root",
+        "property": "--heading-font-family",
+        "declaration": "Figtree, sans-serif",
+        "url": "https://www.tatteredcover.com/",
+        "snapshot": "homepage.html",
+        "sha256": "3f72d549182584bed724f3c0f98cd898ca106c29f2ce3a9eb20fe39a86d6fabe"
+      },
+      "Figtree_Medium": {
+        "selector": ".product-card__info",
+        "property": "font-family",
+        "declaration": "Figtree_Medium",
+        "url": "https://www.tatteredcover.com/cdn/shop/t/53/assets/theme.css?v=117779230998885814311788456582",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "431a299babc71f70c7a13d9cbd8c82bb55bab48f7f74a32dced34b437e551931"
+      },
+      "Muli": {
+        "selector": "h1,h2,h3,h4,h5,h6",
+        "property": "font-family",
+        "declaration": "Muli,sans-serif",
+        "url": "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "c1a25d939806cee03666fa257d17b04e307b31ddce55ee13c857c258cc4d7a8c"
+      },
+      "Poynter": {
+        "selector": ".modal-heading",
+        "property": "font-family",
+        "declaration": "Poynter,Georgia,serif",
+        "url": "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "c1a25d939806cee03666fa257d17b04e307b31ddce55ee13c857c258cc4d7a8c"
+      },
+      "Georgia": {
+        "selector": ".modal-heading",
+        "property": "font-family",
+        "declaration": "Poynter,Georgia,serif",
+        "url": "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "c1a25d939806cee03666fa257d17b04e307b31ddce55ee13c857c258cc4d7a8c"
+      },
+      "serif": {
+        "selector": ".modal-heading",
+        "property": "font-family",
+        "declaration": "Poynter,Georgia,serif",
+        "url": "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "c1a25d939806cee03666fa257d17b04e307b31ddce55ee13c857c258cc4d7a8c"
+      },
+      "DellaRobbia": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "DellaRobbia",
+        "url": "https://www.tatteredcover.com/cdn/shop/t/53/assets/tc-custom-global.css?v=110025111070327755561788456582",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "c1a25d939806cee03666fa257d17b04e307b31ddce55ee13c857c258cc4d7a8c"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

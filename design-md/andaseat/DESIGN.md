@@ -4,6 +4,10 @@ name: "AndaSeat"
 source_url: "https://www.andaseat.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A gaming throne brand that wraps its audience in a high-contrast visual system built on a deep ink canvas (#222222) and a sharp, unmistakable primary blue (#4388e8) that feels pulled from a neon-lit esports arena. The palette is deliberately aggressive — a secondary orange (#ff4200) and a hot pink (#e81e63) appear in badge work and accent details, while the body text runs on a near-black (#18191b) against a clean white (#ffffff) background, creating the kind of crisp legibility you need when scanning specs mid-match. Typography leans on Hind and Montserrat — both geometric sans-serifs with tight apertures and a mechanical precision that mirrors the brand's product language of adjustable armrests, lumbar support systems, and cold-rolled steel frames. Buttons carry the full weight of the primary blue with a {rounded.sm} corner that softens the industrial edge just enough to feel premium rather than hostile. Product cards use a subtle surface-soft (#f5f5f5) to lift the chair photography, while the footer collapses into a dense grid of muted (#878787) links on a dark surface (#111111). The brand's signature move is the orange-and-blue voltage: a CTA in #4388e8 next to a sale badge in #ff4200 creates the kind of competitive tension that says "buy now, this deal won't last." There is no hesitation in this system — every color choice is a call to action, every corner radius a concession to comfort in a category that could easily feel cold.
 
@@ -280,6 +284,14 @@ components:
 - Secondary navigation (category filters) collapses into a dropdown select on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

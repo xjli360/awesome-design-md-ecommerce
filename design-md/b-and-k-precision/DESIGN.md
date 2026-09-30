@@ -4,6 +4,10 @@ name: "B&K Precision"
 source_url: "https://www.bkprecision.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Amber needles on a dark panel — that is the visual logic threading through B&K Precision's digital language. The #f4b153 signal amber lifts against deep instrument teal (#325d75) the way a moving needle catches the eye against a dark bezel, and the pairing gives measurement product pages a legibility that polished B2B sites usually sacrifice for style. Typography falls back entirely to the operating system's monospace stack — Consolas, Menlo, Monaco, Courier New — an unselfconscious choice that reads, in context, as precision: specification tables, frequency ranges, and resistance tolerances rendered in the same fixed-width glyphs a lab notebook uses. Where marketing copy needs warmth, Georgia and Cambria carry the prose. Corner geometry is straight-cornered or barely radiused ({rounded.xs}), matching the physical form language of rack-mounted instruments and bench power supplies. Navigation sits in a dark #1f2937 shell that references instrument chassis rather than consumer SaaS chrome; product subcategory chips in muted #698796 act as secondary wayfinding without competing with the amber accent. Search is foregrounded — locating a specific model by specification is the dominant user job, and the search bar occupies the full utility row of the nav at desktop widths. Density sits higher than most electronics sites: more product links per viewport, a narrower vertical rhythm, data-forward cards that surface parameter ranges before lifestyle imagery. Hairlines at #e5e7eb separate catalog columns with the same economy a data sheet uses between rows. The site's overall refusal to adopt a custom display typeface is itself a design statement — engineers who trust instruments that don't waste material on ornamentation will trust a catalog that doesn't either.
 
@@ -353,6 +357,14 @@ components:
 - Footer columns → single accordion stack at mobile, 2-column grid at tablet
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

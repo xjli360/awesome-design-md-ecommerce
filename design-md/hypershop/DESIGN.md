@@ -4,6 +4,10 @@ name: "HyperShop"
 source_url: "https://www.hypershop.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   At rest, HyperShop's interface is nearly indistinguishable from the dark glass face of the devices it powers — the canvas sits at #121212, barely eighteen lux above true black, while product surfaces layer upward through #171717 and #1f1f1f in increments that read as material depth rather than color contrast. The lone departure from this monochrome compression is #dedede, a cool silver-gray that carries all readable text and every primary interactive signal; it is not white — its slight desaturation avoids the clinical glare of #ffffff and recalls the brushed aluminum chassis of the HyperDrive docks and HyperJuice battery packs the store sells. This single non-black value does the work of a full accent palette: it fills primary buttons, anchors product names on dark cards, and marks active category tabs, because contrast alone is strong enough against the near-black stack below. Typography runs through a proprietary font family — myFontLight, myFontRegular, myFontMedium, myFontBold — with Inter as the system fallback, a stack that signals custom brand investment while keeping OS rendering crisp at small sizes. The four named weights let a single typeface handle the range from 11px all-caps specification labels set in myFontMedium with 1.2px tracking, to 48px hero headlines in myFontBold, without importing a display face or a contrasting serif. Rounded corners hold at {rounded.xs} and {rounded.sm} throughout — 4px and 8px respectively — a range that reads as precisely machined rather than friendly or organic; there are no pill shapes or full radii in the core UI. The overall effect is a storefront that behaves like a settings screen from the device's own operating system: monochromatic, deliberate, and confident that the hardware will provide the color.
 
@@ -369,6 +373,13 @@ components:
 - Search bar moves from inline in the nav to a full-width bar below the logo row on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

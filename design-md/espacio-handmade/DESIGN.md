@@ -4,6 +4,10 @@ name: "Espacio Handmade"
 source_url: "https://espaciohandmade.com"
 captured_at: "2026-09-29T03:56:47.900039+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Espacio Handmade is a Shopify-powered storefront for a woman-owned Austin,
   Texas leather and wood goods studio. The observed palette centers on a
@@ -171,6 +175,13 @@ This is a recommended, non-measured breakpoint scheme:
 Touch targets for buttons and nav links should maintain a minimum 44px tap height, consistent with the `.btn` padding scale. Menu collapse thresholds and actual mobile stacking were not observed and should be validated against the live responsive implementation.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

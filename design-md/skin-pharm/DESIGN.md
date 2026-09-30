@@ -4,6 +4,10 @@ name: "Skin Pharm"
 source_url: "https://skinpharm.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Skin Pharm presents itself as a clinical yet approachable authority in cosmetic dermatology, balancing medical precision with a warm, human touch. The brand's canvas is a soft, almost papery off-white (`#f7f6f3`), a tone that feels less sterile than pure white and more like a luxury spa's waiting room. This is punctuated by a deep, almost-black ink (`#0c0c0c`) for primary text, creating a high-contrast, legible foundation. The signature accent is a muted, sophisticated clay-terracotta (`#c77743`), used sparingly for key CTAs and hover states, alongside a restrained gold (`#e2c36c`) that whispers of premium ingredients and results. A secondary palette of deep navies (`#272d45`) and muted sage greens (`#3d595b`) appears in badges and secondary elements, lending a clinical, trustworthy feel. The typography is a deliberate mix: the display and headings lean into the elegant, serifed 'Playfair Display', evoking a sense of heritage and bespoke care, while body copy and buttons use the clean, geometric 'Poppins' for readability and a modern edge. This creates a `{rounded.sm}` (8px) radius on buttons and cards, a subtle softening that prevents the clinical from feeling cold. The overall mood is one of quiet confidence — the brand doesn't shout; it reassures with clean lines, generous `{spacing.lg}` and `{spacing.xl}` whitespace, and a color story that feels both earthy and elevated.
 
@@ -334,6 +338,13 @@ components:
 - Hero sections reduce padding and font sizes, with CTA buttons stacking vertically.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -30,100 +30,32 @@
     }
   ],
   "colors": {
+    "#000000": {
+      "count": 185,
+      "sources": [
+        "https://www.martinguitar.com/"
+      ]
+    },
+    "#245c4f": {
+      "count": 51,
+      "sources": [
+        "https://www.martinguitar.com/"
+      ]
+    },
     "#ffffff": {
       "count": 432,
       "sources": [
         "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
       ]
     },
-    "#000000": {
-      "count": 185,
+    "#00000000": {
+      "count": 1,
       "sources": [
-        "https://www.martinguitar.com/",
         "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
       ]
     },
     "#edeae0": {
       "count": 180,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#4d4d4d": {
-      "count": 99,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#a3080f": {
-      "count": 76,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#008827": {
-      "count": 72,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#3091e7": {
-      "count": 63,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#245c4f": {
-      "count": 51,
-      "sources": [
-        "https://www.martinguitar.com/",
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#bebebe": {
-      "count": 50,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#ffcc00": {
-      "count": 40,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#6c757d": {
-      "count": 35,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#52c778": {
-      "count": 19,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#343a40": {
-      "count": 18,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#212529": {
-      "count": 16,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#e9ecef": {
-      "count": 14,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#73859f": {
-      "count": 13,
       "sources": [
         "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
       ]
@@ -134,56 +66,50 @@
         "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
       ]
     },
+    "#3091e7": {
+      "count": 63,
+      "sources": [
+        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
+      ]
+    },
+    "#a3080f": {
+      "count": 76,
+      "sources": [
+        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
+      ]
+    },
+    "#ffcc00": {
+      "count": 40,
+      "sources": [
+        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
+      ]
+    },
+    "#008827": {
+      "count": 72,
+      "sources": [
+        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
+      ]
+    },
+    "#6c757d": {
+      "count": 35,
+      "sources": [
+        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
+      ]
+    },
+    "#bebebe": {
+      "count": 50,
+      "sources": [
+        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
+      ]
+    },
+    "#4d4d4d": {
+      "count": 99,
+      "sources": [
+        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
+      ]
+    },
     "#dedad2": {
       "count": 13,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#dee2e6": {
-      "count": 13,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#495057": {
-      "count": 13,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#e83e8c": {
-      "count": 12,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#6610f2": {
-      "count": 11,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#6f42c1": {
-      "count": 11,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#fd7e14": {
-      "count": 11,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#20c997": {
-      "count": 11,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#17a2b8": {
-      "count": 11,
       "sources": [
         "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
       ]
@@ -193,291 +119,20 @@
       "sources": [
         "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
       ]
-    },
-    "#194b78": {
-      "count": 10,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#aed4f5": {
-      "count": 8,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#2b333f": {
-      "count": 7,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#f8f9fa": {
-      "count": 7,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#c5e0f8": {
-      "count": 6,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#adb5bd": {
-      "count": 6,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#d0e6fa": {
-      "count": 5,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#383d41": {
-      "count": 5,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#004714": {
-      "count": 5,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#856a00": {
-      "count": 5,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#550408": {
-      "count": 5,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#818182": {
-      "count": 5,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#1b1e21": {
-      "count": 5,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#c8cbcf": {
-      "count": 4,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#a7d6b4": {
-      "count": 4,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#ffec9f": {
-      "count": 4,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#dea7aa": {
-      "count": 4,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#ececf6": {
-      "count": 4,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#b9bbbe": {
-      "count": 4,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#a2cef4": {
-      "count": 4,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#1877cc": {
-      "count": 4,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#005518": {
-      "count": 4,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#72060b": {
-      "count": 4,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#d6d8db": {
-      "count": 3,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#b8dec3": {
-      "count": 3,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#fff1b8": {
-      "count": 3,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#e5babc": {
-      "count": 3,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#fdfdfe": {
-      "count": 3,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#c6c8ca": {
-      "count": 3,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#444444": {
-      "count": 2,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#240005": {
-      "count": 2,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#ff5760": {
-      "count": 2,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
-    },
-    "#93c6f3": {
-      "count": 2,
-      "sources": [
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-      ]
     }
   },
   "font_families": {
-    "-apple-system": [
-      "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-    ],
-    "Apple Color Emoji": [
-      "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-    ],
-    "Arial": [
-      "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-    ],
-    "BlinkMacSystemFont": [
-      "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-    ],
-    "Consolas": [
-      "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-    ],
-    "Courier New": [
-      "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-    ],
-    "Helvetica": [
-      "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-    ],
-    "Helvetica Neue": [
-      "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-    ],
-    "Liberation Mono": [
-      "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-    ],
     "Marsden Compact Bold": [
       "https://www.martinguitar.com/"
     ],
-    "Menlo": [
-      "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-    ],
-    "Monaco": [
-      "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-    ],
-    "Noto Color Emoji": [
-      "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
+    "sans-serif": [
+      "https://www.martinguitar.com/"
     ],
     "Noto Sans": [
       "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
     ],
     "Open Sans": [
       "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-    ],
-    "Roboto": [
-      "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-    ],
-    "SFMono-Regular": [
-      "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-    ],
-    "Segoe UI": [
-      "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-    ],
-    "Segoe UI Emoji": [
-      "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-    ],
-    "Segoe UI Symbol": [
-      "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-    ],
-    "VideoJS": [
-      "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-    ],
-    "icomoon": [
-      "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-    ],
-    "icomoon\" !important": [
-      "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-    ],
-    "marsden compact bold": [
-      "https://www.martinguitar.com/"
-    ],
-    "monospace": [
-      "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-    ],
-    "monospace !important": [
-      "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-    ],
-    "sans-serif": [
-      "https://www.martinguitar.com/",
-      "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
-    ],
-    "sans-serif !important": [
-      "https://www.martinguitar.com/"
     ]
   },
   "css_rules": [
@@ -638,18 +293,19 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Martin Guitars | The Choice of Musicians Worldwide | C.F. Martin",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-200",
   "tokens": {
     "colors.primary": {
+      "value": "#245c4f",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.martinguitar.com/",
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
+        "https://www.martinguitar.com/"
       ]
     },
     "colors.primary-dark": {
+      "value": "#2b3830",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -657,6 +313,7 @@
       ]
     },
     "colors.accent-gold": {
+      "value": "#c4a154",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -664,6 +321,7 @@
       ]
     },
     "colors.accent-red": {
+      "value": "#a3080f",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -671,14 +329,15 @@
       ]
     },
     "colors.ink": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.martinguitar.com/",
-        "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css"
+        "https://www.martinguitar.com/"
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -686,6 +345,7 @@
       ]
     },
     "colors.body": {
+      "value": "#4d4d4d",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -693,6 +353,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#6c757d",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -700,6 +361,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#bebebe",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -707,6 +369,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#edeae0",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -714,6 +377,7 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#dedad2",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -721,6 +385,7 @@
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -728,6 +393,7 @@
       ]
     },
     "colors.link": {
+      "value": "#3091e7",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -735,6 +401,7 @@
       ]
     },
     "colors.success": {
+      "value": "#008827",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -742,6 +409,7 @@
       ]
     },
     "colors.warning": {
+      "value": "#ffcc00",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -749,6 +417,7 @@
       ]
     },
     "colors.danger": {
+      "value": "#a3080f",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -756,110 +425,408 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Marsden Compact Bold', sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "'Marsden Compact Bold', sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "'Open Sans', 'Noto Sans', sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "'Open Sans', 'Noto Sans', sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Open Sans', 'Noto Sans', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "'Open Sans', 'Noto Sans', sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "'Open Sans', 'Noto Sans', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "hairline": "{colors.hairline}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.primary-dark}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-gold}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.product-spec-table": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "hairline": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#000000": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "rgb(0, 0, 0)",
+        "url": "https://www.martinguitar.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f5ff9026a39c65b48d3385f02f1e54382bf1fd876f2648cf619597e01c967068"
+      },
+      "#245c4f": {
+        "selector": ".embeddedServiceHelpButton .helpButton .uiButton",
+        "property": "background-color",
+        "declaration": "#245c4f",
+        "url": "https://www.martinguitar.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f5ff9026a39c65b48d3385f02f1e54382bf1fd876f2648cf619597e01c967068"
+      },
+      "#ffffff": {
+        "selector": ".video-js",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "cbab21d4cb3defdc660e8f353400ad0232839193e165a9963f51b03198ed640f"
+      },
+      "#00000000": {
+        "selector": ".vjs-loading-spinner:after,.vjs-loading-spinner:before",
+        "property": "border-color",
+        "declaration": "transparent",
+        "url": "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "cbab21d4cb3defdc660e8f353400ad0232839193e165a9963f51b03198ed640f"
+      },
+      "#edeae0": {
+        "selector": ":root",
+        "property": "--tab-border-color",
+        "declaration": "#edeae0",
+        "url": "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "cbab21d4cb3defdc660e8f353400ad0232839193e165a9963f51b03198ed640f"
+      },
+      "#2b3830": {
+        "selector": ":root",
+        "property": "--dark-green",
+        "declaration": "#2b3830",
+        "url": "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "cbab21d4cb3defdc660e8f353400ad0232839193e165a9963f51b03198ed640f"
+      },
+      "#3091e7": {
+        "selector": ":root",
+        "property": "--blue",
+        "declaration": "#3091e7",
+        "url": "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "cbab21d4cb3defdc660e8f353400ad0232839193e165a9963f51b03198ed640f"
+      },
+      "#a3080f": {
+        "selector": ":root",
+        "property": "--red",
+        "declaration": "#a3080f",
+        "url": "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "cbab21d4cb3defdc660e8f353400ad0232839193e165a9963f51b03198ed640f"
+      },
+      "#ffcc00": {
+        "selector": ":root",
+        "property": "--yellow",
+        "declaration": "#ffcc00",
+        "url": "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "cbab21d4cb3defdc660e8f353400ad0232839193e165a9963f51b03198ed640f"
+      },
+      "#008827": {
+        "selector": ":root",
+        "property": "--green",
+        "declaration": "#008827",
+        "url": "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "cbab21d4cb3defdc660e8f353400ad0232839193e165a9963f51b03198ed640f"
+      },
+      "#6c757d": {
+        "selector": ":root",
+        "property": "--gray",
+        "declaration": "#6c757d",
+        "url": "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "cbab21d4cb3defdc660e8f353400ad0232839193e165a9963f51b03198ed640f"
+      },
+      "#bebebe": {
+        "selector": ":root",
+        "property": "--gray",
+        "declaration": "#bebebe",
+        "url": "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "cbab21d4cb3defdc660e8f353400ad0232839193e165a9963f51b03198ed640f"
+      },
+      "#4d4d4d": {
+        "selector": ":root",
+        "property": "--dark-gray",
+        "declaration": "#4d4d4d",
+        "url": "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "cbab21d4cb3defdc660e8f353400ad0232839193e165a9963f51b03198ed640f"
+      },
+      "#dedad2": {
+        "selector": ":root",
+        "property": "--warm-vintage-gray",
+        "declaration": "#dedad2",
+        "url": "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "cbab21d4cb3defdc660e8f353400ad0232839193e165a9963f51b03198ed640f"
+      },
+      "#c4a154": {
+        "selector": ":root",
+        "property": "--gold",
+        "declaration": "#c4a154",
+        "url": "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "cbab21d4cb3defdc660e8f353400ad0232839193e165a9963f51b03198ed640f"
+      }
+    },
+    "font_families": {
+      "Marsden Compact Bold": {
+        "selector": ".embeddedServiceHelpButton .helpButton .uiButton",
+        "property": "font-family",
+        "declaration": "\"Marsden Compact Bold\", sans-serif",
+        "url": "https://www.martinguitar.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f5ff9026a39c65b48d3385f02f1e54382bf1fd876f2648cf619597e01c967068"
+      },
+      "sans-serif": {
+        "selector": ".embeddedServiceHelpButton .helpButton .uiButton",
+        "property": "font-family",
+        "declaration": "\"Marsden Compact Bold\", sans-serif",
+        "url": "https://www.martinguitar.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f5ff9026a39c65b48d3385f02f1e54382bf1fd876f2648cf619597e01c967068"
+      },
+      "Noto Sans": {
+        "selector": ":root",
+        "property": "--font-family-sans-serif",
+        "declaration": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "url": "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "cbab21d4cb3defdc660e8f353400ad0232839193e165a9963f51b03198ed640f"
+      },
+      "Open Sans": {
+        "selector": ".search-results .row:not(.d-md-none) .yotpo.yotpo-small .yotpo-bottomline .text-m",
+        "property": "font-family",
+        "declaration": "\"Open Sans\", sans-serif",
+        "url": "https://www.martinguitar.com/on/demandware.static/Sites-MartinGuitar_US-Site/-/default/v1790099069325/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "cbab21d4cb3defdc660e8f353400ad0232839193e165a9963f51b03198ed640f"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

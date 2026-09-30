@@ -4,6 +4,10 @@ name: "Parachute"
 source_url: "https://www.parachutehome.com"
 captured_at: "2026-09-28T04:10:23.977780+00:00"
 evidence_status: "historical_partial_css_evidence"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Parachute is a warm, tactile home brand that speaks in whispers of linen and stone. The canvas is never white — it's `#f8f8f8` or `#f1eee9`, a soft, almost chalky off-white that feels like sun-bleached cotton. The brand's signature mood is built on a muted, earthy palette: `#0c0c0c` for deep ink, `#3b3b3b` for body text, and `#88432a` or `#80422c` for warm terracotta accents that evoke clay and sunset. A quiet sage green (`#aab3a3`) and a deep teal (`#1b5351`) add depth, while `#fffcf1` provides a creamy highlight. The typography leans on Neue Montreal and Suisse Intl, set in clean, generous weights — never heavy, always inviting. Rounded corners are soft but not pillowy: `{rounded.sm}` (8px) for buttons, `{rounded.md}` (12px) for cards, and `{rounded.lg}` (20px) for hero sections. The overall effect is one of calm, considered simplicity — a digital space that feels as soothing as the products it sells.
 
@@ -317,6 +321,13 @@ components:
 - Hero section reduces padding and font size on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

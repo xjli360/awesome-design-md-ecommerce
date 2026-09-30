@@ -4,6 +4,10 @@ name: "Pique"
 source_url: "https://piquelife.com"
 captured_at: "2026-09-28T09:26:57.559845+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Pique Life presents as a wellness-and-beauty-forward supplement and tea storefront, and the extracted evidence supports a clinical-clean, editorial aesthetic rather than a rustic tea-shop look. The dominant neutral is a deep navy (#021832), confirmed as the design system's primary text, border, and button color via the site's review-widget CSS custom properties (--oke-text-primaryColor, --oke-border-color, --oke-button-backgroundColor). This pairs against light, near-white canvases (#fafafa, #ffffff) for a airy, apothecary-like field. A single high-saturation lime-chartreuse (#d4e85c) appears explicitly paired with navy text in a promotional rule, and is interpreted here as the brand's signature accent for callouts and highlight bands — consistent with Pique's "radiant"/wellness positioning. A muted blue-gray (#676986) is confirmed for secondary/meta text (review dates, helpful-vote labels) and is mapped to the muted role. Soft mint (#b2f9e9, #e8f4f4) and cream (#f6f1e5) tones are inferred as supporting surface colors for section backgrounds and badges, drawn from the observed palette but not confirmed in layout context. Typography is Proxima Nova (regular/semibold/bold, observed as the primary family, inferred as licensed/self-hosted) with Noto Serif available as an editorial accent face; both fall back to system sans-serif/serif stacks. Sizes below are proposed unless a CSS value (14px button text, 700 button weight) was directly observed.
 
@@ -146,6 +150,13 @@ components:
 Proposed breakpoints (not measured from live site behavior): mobile ≤599px (single-column product grid, collapsed hamburger nav, sticky "Add to cart" bar), tablet 600–1023px (2-column product grid, condensed nav), desktop ≥1024px (3–4 column grid, full horizontal nav with mega-menu for "Health Benefits"/"Products"). Touch targets should be at least 44px tall for buttons and the subscription-toggle control. Navigation is expected to collapse into a drawer or accordion below tablet width, given the multi-level "Shop Health Benefits / Products / About Us" menu structure implied by the page text. This section is a recommendation based on conventional e-commerce patterns, not observed responsive CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

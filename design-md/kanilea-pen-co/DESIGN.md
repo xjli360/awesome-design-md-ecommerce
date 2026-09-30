@@ -4,6 +4,10 @@ name: "Kanilea Pen Co."
 source_url: "https://kanileapenco.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Mahogany dark (#573837) carries the whole Kanilea visual identity — the color of koa wood grain, aged resin barrel stock, and a freshly turned pen body before its final lacquer. Alone against white canvas it registers as precise and warm without tipping into decoration; combined with its two extracted counterpoints — electric Pacific #00ccff and deep-ocean cobalt #092fb8 — it creates a three-note tonal system that maps directly onto the physical world of the product: wood, water, and ink. #573837 anchors every primary CTA, the footer band, and the nav logo treatment; #092fb8 handles link text and informational depth; #00ccff reads as a highlight accent and hover signal, the way light bounces off a lacquered barrel surface. Type runs in Geneva and Verdana, system humanists that predate custom web font stacks — not a fallback but a fitting match. Both faces were engineered for screen legibility at the sizes where pen specifications (nib grade: Extra Fine, Fine, Medium, Broad; fill system: cartridge/converter, piston, vacuum) must hold their form without blur. Verdana's wide inter-character spacing lets long model names breathe in product headers; Geneva handles tight navigation labels and price figures without muddying at 14px. The pairing reads functional and material, letting craft live in the product photography and handcrafted barrel resin rather than in a proprietary typeface. Corner radii stay conservative: `{rounded.sm}` (8px) on buttons and inputs, `{rounded.xs}` (4px) on nib-grade and material specification badges, `{rounded.md}` (12px) on product cards. No pill shapes or fully circular UI appears anywhere — the geometry signals a workshop over a consumer app, every edge squared as if cut on a lathe. Warm off-white `{colors.surface-soft}` cushions product imagery, preventing the optical flatten that pure white creates beneath photographed wood and resin. The footer reverses into solid `{colors.primary}` mahogany, anchoring the page with the same visual weight as the physical object being sold. Section spacing at `{spacing.section}` (64px) between content bands stays generous; component-internal gaps compress to `{spacing.sm}` (8px) — the same dense-but-airy balance of a well-typeset specification sheet.
 
@@ -305,6 +309,13 @@ components:
 - Pen detail panel transitions from side-by-side (≥744px) to stacked with a fixed-bottom add-to-cart bar at < 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

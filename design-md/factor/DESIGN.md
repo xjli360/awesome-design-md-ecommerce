@@ -4,6 +4,10 @@ name: "Factor"
 source_url: "https://factor75.com"
 captured_at: "2026-09-28T10:22:16.306491+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Factor's captured CSS confirms a white canvas (#ffffff) with near-black
   body text (#000000) set in plus-jakarta-sans, falling back to Arial
@@ -167,6 +171,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be at least 44px in height for buttons and plan-selector cards. Navigation collapse (hamburger/menu drawer) at the tablet breakpoint is a common pattern assumption, not confirmed from the extracted CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is built from a single static CSS/text snapshot and cannot confirm true rendered layout, responsive breakpoints, hover/focus/active states, or JavaScript-driven interactions (e.g., plan selection, video hero behavior). Color-to-role mapping (which hex serves as primary CTA vs. badge vs. section background) is inferred from palette proportion and typical meal-delivery site conventions, not from directly observed component-level rules — only the html/body background (#ffffff) and text color (#000000) declarations are directly confirmed. The relative roles of plus-jakarta-sans versus source-sans-pro are inferred, since only plus-jakarta-sans appears in the captured body font-family declaration. All spacing, rounding, and breakpoint values are proposed design-system defaults, not measured pixel values from the live site. Custom font licensing and self-hosted availability for plus-jakarta-sans/source-sans-pro were not verified in this evidence set.

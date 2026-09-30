@@ -4,6 +4,10 @@ name: "No. 2"
 source_url: "https://no2.co"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The name is already an object: the No. 2 pencil, cedar-bodied, cadmium-yellow, the single implement trusted to fill in Scantron bubbles and draft first novels. No. 2 the brand takes that inheritance and distills it into a paper goods system built around the same modest confidence — nothing decorative that isn't load-bearing. The palette reads like a stationery drawer: warm graphite (#1C1C1A) handles all primary type, a cream-paper canvas (#FEFCF7) serves as the default ground, and a single charge of pencil yellow (#F2C53D) activates every CTA, hover state, and accent mark. Supporting surfaces in #F5F1E8 recall the weight of uncoated stock — cream rather than brilliant white, as though the interface were printed on 80# text. Typography runs in two registers: a display serif for headlines gives the brand the editorial gravity of a printed goods catalog, while a humanist sans-serif handles body copy and UI chrome at weights that stay under 600 so nothing shouts over the objects. Corners are nearly absent — {rounded.xs} on cards and inputs, {rounded.sm} on buttons — because stationery is cut, not molded; precision matters more than softness. Only search and collection badges break to {rounded.full}, the single geometric concession in an otherwise rectilinear system. Spacing follows the logic of a well-margined printed page: {spacing.section} between major content breaks, generous internal padding inside product cards, hairlines used sparingly to separate rather than decorate. The primary CTA uses dark ink on yellow rather than white on color — a firm signal that this is a brand that puts the object first and the interface second.
 
@@ -311,6 +315,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

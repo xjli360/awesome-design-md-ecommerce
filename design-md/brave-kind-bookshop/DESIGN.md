@@ -4,6 +4,10 @@ name: "Brave + Kind Bookshop"
 source_url: "https://www.braveandkindbooks.com"
 captured_at: "2026-09-28T04:43:18.237357+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Brave + Kind Bookshop is a Shopify-built independent children's bookstore
   presenting a calm, ink-and-paper palette against a warm off-white canvas
@@ -168,6 +172,12 @@ Recommended, not measured, breakpoints:
 Touch targets should be at least 44px in height, matching the `clamp(25px, …, 55px)` range seen in the accelerated-checkout button CSS. Navigation collapse and drawer animation timing are proposed using the theme's observed duration tokens (0.2s–0.6s) but exact easing behavior on mobile was not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This specification is derived solely from static CSS and text evidence; no live rendering, computed layout, or interaction testing was performed. Font weight and style values for both body and heading contexts rely on unresolved CSS variables (`--font-body-weight`, `--font-heading-weight`), so all weights above 400/500/600 are proposed, not confirmed. Corner-radius and shadow values for buttons and product cards use unresolved custom properties (`--buttons-radius-outset`, `--product-card-corner-radius`, etc.), so the `rounded` scale here is a proposed system, not extracted from resolved output. The `--color-link` value (rgb 5,44,70) does not match any hex in the supplied observed palette and was therefore omitted rather than approximated. Mobile menu behavior, cart-drawer animation, and hover/focus states are inferred from Shopify theme conventions, not observed on the live site. Availability and licensing of the "Manuale" font were not verified.

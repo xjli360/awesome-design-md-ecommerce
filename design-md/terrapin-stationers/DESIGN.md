@@ -4,6 +4,10 @@ name: "Terrapin Stationers"
 source_url: "https://terrapinstationers.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Before a single typeface loads, #121212 on #ffffff states the brand's entire thesis — ink on paper, compressed into the two extracted hex values and nothing else. Terrapin Stationers operates as a division of GHP Media, Inc., a print-heritage company, and that origin shows in every layout decision: this is a digital catalog built by people who arrived from paper, not toward it. The silver-gray #dedede does structural load-bearing throughout as `{colors.hairline}`, edging every input field, product card, and section divider so the `{colors.canvas}` white breathes without a second accent color competing for attention. Corners hold as close to flat as interaction allows — `{rounded.xs}` on buttons and inputs at most, `{rounded.none}` on all cards — echoing the precise cut-edge geometry of a blank correspondence card or a perfectly folded broadside. Display headings earn their authority from a serif face at `{typography.display-md}` scale, borrowing editorial weight from print convention; navigation and secondary labels run in compact sans at `{typography.nav-label}` with tracking opened slightly, evoking the reference-number precision of a print specification sheet. Primary CTAs fill entirely with `{colors.primary}` and reverse to `{colors.on-primary}` white type; secondary actions invert the field to white with an `{colors.ink}` border, maintaining the strict two-tone grammar through every interactive state. A full-width announcement bar in `{colors.primary}` with reversed type is the brand's single moment of chromatic density at the top of each page; below that line, `{spacing.section}` row gaps let product photography carry the argument without copy competition. The footer mirrors that dark inversion to close the layout in the same register it opened — black band top, white body, black band bottom — a compositional format approximately four centuries older than any CSS specification.
 
@@ -292,6 +296,13 @@ components:
 - Product card titles truncate to two lines with `line-clamp: 2` at all breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

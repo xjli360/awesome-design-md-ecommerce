@@ -4,6 +4,10 @@ name: "Mount-It!"
 source_url: "https://mount-it.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The surprise in Mount-It!'s extracted palette is not the commanding steel-blue navy (#154775) anchoring every primary CTA and navigation bar, but the warm amber-browns — raw sienna (#964b00), teak (#774d3b), cognac (#7a6c60) — that surface throughout product imagery and discount-tier callouts. This is a brand that sells precision-machined aluminum monitor arms, yet its color world reads like a craftsman's workshop: cool authority at the top, warm wood-tone depth wherever the human hand appears in product staging. That tension is resolved by a shared neutrality — charcoal (#282a2c) for near-black ink, chalky off-whites (#f5f5f7, #f3f3f3) for surface and canvas — keeping the palette cohesive without forcing either register to recede.
 
@@ -414,6 +418,13 @@ components:
 - Spec table remains visible on all breakpoints; scrolls horizontally if column content overflows on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

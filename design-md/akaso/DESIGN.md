@@ -4,6 +4,10 @@ name: "Akaso"
 source_url: "https://akasotech.com"
 captured_at: "2026-09-28T04:25:46.408222+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The supplied evidence is dominated by a Vue.js Element-UI component library
   (date-picker, pagination, dialog, table-filter selectors), so most palette
@@ -158,6 +162,14 @@ The following breakpoints are a proposed recommendation, not measured from the l
 All interactive targets (buttons, nav links, badges) should maintain a minimum 44×44px touch area on mobile/tablet. Navigation is assumed to collapse below `tablet`; no actual mobile menu markup or breakpoint was observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This specification is derived from static CSS extraction dominated by a third-party Vue/Element-UI component library, not from rendered marketing pages; most palette hexes are that library's default interaction-state colors (info/success/warning/danger, hover blues, disabled grays) and may not represent Akaso's true brand palette. The promotion of #294033, #0f8cff, #0066cc, and #fff7e5 to primary/accent/link roles is an inference based on their absence from Element-UI defaults, not a confirmed brand-guideline match. Typography weights (Gabarito, Open Sans variants) are observed as font-family declarations, but exact size/line-height pairings for a full type scale, actual heading hierarchy, and font licensing/availability were not verified. No live layout, responsive breakpoints, hover/focus/active interaction states, or mobile navigation behavior were observed—all such details above are explicitly proposed. Component padding, radii, and spacing values are drawn from the fixed scale provided and are not measured from rendered elements.

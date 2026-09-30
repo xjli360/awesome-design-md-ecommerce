@@ -4,6 +4,10 @@ name: "Nonesuch Records"
 source_url: "https://www.nonesuch.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A record label and shop where the page itself feels like a listening room — dark, quiet, and entirely in service of the music. The canvas is a deep, ink-black (#000000) that pushes every album cover, track title, and concert date forward with the clarity of a gallery wall. There are no decorative flourishes, no gradients, no brand pattern — just a single white (#ffffff) body text on black, with a muted gray (#808080) for secondary metadata like release dates and catalog numbers. The primary action color is a restrained blue (#0066cc) used sparingly for links and the single "Shop" CTA, never competing with the album art. Typography runs a clean sans-serif stack — likely a system font or a neutral workhorse like Helvetica — at modest weights (400 for body, 600 for headings), with the album title itself acting as the hero display at 24px. Cards are sharp-cornered (`{rounded.none}`) rectangles, letting the square album cover dictate the geometry; the only softness comes from the 8px radius (`{rounded.sm}`) on the search bar and the 4px radius (`{rounded.xs}`) on small badge elements. The nav is a thin, fixed black strip with white text and a subtle 1px bottom border (`{colors.hairline}`) that barely separates it from the content. This is a brand that trusts its product — the music — to do the talking, and the design gets out of the way.
 
@@ -331,6 +335,13 @@ components:
 - **Hero**: On mobile, the hero subheading is hidden to reduce vertical space.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

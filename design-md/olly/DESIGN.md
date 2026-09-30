@@ -4,6 +4,10 @@ name: "OLLY"
 source_url: "https://olly.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A vitamin brand that feels more like a candy shop than a pharmacy, built on a palette of pastel optimism anchored by #510c76 — a deep grape purple that appears across packaging, badges, and the footer, grounding an otherwise sugary ecosystem. The brand’s signature move is the “gummy” product shot: each vitamin rendered as a glossy, jewel-toned piece of candy floating on white or tinted backgrounds, with the purple appearing as a consistent brand anchor. The extracted hexes read like a confectioner’s swatch book — #f0f7cf (pale lime), #fff6dc (cream), #2e6e36 (forest green for “Superfoods”), #ce275e (hot pink for “Women’s Multi”), #006383 (teal for “Stress”), #da3910 (burnt orange for “Energy”), #d41071 (magenta for “Beauty”), and #1d665f (deep teal for “Sleep”) — each product line claiming its own accent color while the purple #510c76 and its darker variant #46075d serve as the system’s unifying voltage. Buttons use the purple as primary CTA fill, with white text and soft 8px corners {rounded.sm}, while the canvas stays pure white #ffffff and cards lift off with a whisper of shadow. Typography runs Gotham at moderate weights — display titles sit at 500–600 weight, never the heavy 700+ of clinical brands — and body copy stays at 14–16px for a friendly, approachable read. The navigation is minimal: a sticky top bar with the logo, search, account, and cart icons, all in the purple or ink #161d25. The overall effect is a brand that says “vitamins should be fun” without sacrificing trust — the purple provides the seriousness, the pastels provide the joy.
 
@@ -426,6 +430,13 @@ components:
 - Category filter strip becomes horizontally scrollable on mobile, hiding overflow chips
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

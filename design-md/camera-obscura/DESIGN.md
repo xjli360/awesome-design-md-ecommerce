@@ -4,6 +4,10 @@ name: "Camera Obscura"
 source_url: "https://cameraobscurafilms.de/"
 captured_at: "2026-09-29T04:12:13.289746+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Camera Obscura Filmdistribution is a German boutique Blu-ray/UHD label
   (Shopify-powered storefront) specializing in Mediabook editions of cult,
@@ -167,6 +171,13 @@ components:
 Touch targets for buttons and nav items should be at least 44px tall. Nav collapse behavior, sticky header state, and cart-drawer interaction were not observed and are recommendations only, not measured site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

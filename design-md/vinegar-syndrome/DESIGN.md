@@ -4,6 +4,10 @@ name: "Vinegar Syndrome"
 source_url: "https://vinegarsyndrome.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A cult film preservation label that wears its archive’s patina on the surface — the palette is anchored on a weathered gold #edc236 that reads like an old video-store sign, not a brand mark. That gold carries across primary buttons, sale badges, and the site’s header strip, while a secondary gold #ffbe00 and a deep red #c62828 handle urgency and membership tiers. The canvas is a warm off-white #eeeeee, not pure white, and the body copy sits in #444444 — a softened black that avoids the clinical contrast of a standard e‑commerce site. Typography runs Archivo Narrow at condensed widths, giving product titles and navigation a dense, almost newspaper-classified feel that matches the label’s exhaustive catalog of forgotten genre films. Search bars and filter dropdowns use tight {rounded.sm} corners, while product cards and membership badges use {rounded.md} — nothing is pill-shaped; the system avoids the friendly roundness of modern DTC in favor of a slightly industrial, archival precision. The checkout flow and account pages shift to a cooler gray #f7f7f7 canvas, suggesting a functional zone separate from the browsing experience. Red badges #ff2626 on sold-out items and #4fc3f7 accent links provide the only high-saturation moments outside the gold family, creating a restrained but unmistakable visual language: this is a shop that treats every out-of-print VHS and 4K restoration as a museum artifact.
 
@@ -413,6 +417,13 @@ components:
 - Hero banner: On mobile, reduces to single-column layout with stacked text and CTA.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

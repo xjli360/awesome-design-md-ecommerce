@@ -4,6 +4,10 @@ name: "Stanley Gibbons"
 source_url: "https://www.stanleygibbons.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A Cape of Good Hope Triangular or a Penny Black arrives on the Stanley Gibbons website the same way it appears in their printed catalogue — lot reference in tight Montserrat capitals, catalogue value in Libre Baskerville roman, condition notes in Open Sans at sustained-reading weight — a tripartite typographic system descended directly from 170 years of auction print. The palette compresses that heritage into two anchor points: antique gold (#c9a84c) and near-black navy (#0e1a2e), the same combination embossed on the spine of every Stanley Gibbons World Catalogue since the Victorian era. Between them, a warm cream canvas (#f5f0e8) substitutes for archival stock, rejecting clinical digital white in favour of a tone that signals age and provenance. The pale gold (#f0e0a0) that washes certain panel surfaces echoes the ivory mounts collectors slide beneath their finest imperforates — not decorative, but referential. The navy is not monolithic: #0e1a2e anchors the deepest hero fields, #152340 handles section headers, #1d2f4f lifts the navigation strip, three steps creating perceived depth without resort to gradients. Corner radii are minimal — {rounded.xs} on cards, {rounded.sm} on primary action buttons — because hard geometry suits a dealer of historical documents. The gold primary CTA (#c9a84c) carries dark navy lettering ({colors.ink}), a pairing that reads as both legible and premium. Condition badges, rarity indicators, and catalogue-reference chips use 11px Montserrat all-caps with generous tracking — the digital equivalent of a dealer's hand-stamped stock notation, compact enough to sit beside a 32px stamp thumbnail without competing. Footer runs full-width in the deepest navy (#0e1a2e) with cream type ({colors.on-dark}) and gold rule separators, mirroring the colophon page of the printed catalogue in column division and typographic hierarchy.
 
@@ -416,6 +420,13 @@ components:
 - Four-column footer grid folds to single accordion column on mobile; Royal Warrant strip remains pinned at all breakpoints as a trust credential
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

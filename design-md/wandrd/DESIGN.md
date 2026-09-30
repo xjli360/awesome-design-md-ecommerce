@@ -4,6 +4,10 @@ name: "Wandrd"
 source_url: "https://wandrd.com"
 captured_at: "2026-09-29T04:16:25.000871+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is grounded in CSS extracted from wandrd.com's storefront and its embedded review widget (Okendo). The confirmed color palette centers on a warm orange-red accent (#ed5338, reused for the review widget's button background, border, and hover states) against a near-black ink (#111111) used as the widget's primary text color. Canvas is pure white (#ffffff). A muted slate-blue (#676986) appears as a secondary text color in review metadata, and light neutrals (#f7f7f8, #f4f4f6, #dedede, #e5e5eb) are inferred as soft surface and hairline tones consistent with a minimal ecommerce shell. Product swatch colors (clay, green, tan) are also present in the palette and are proposed here as optional accent roles rather than confirmed UI colors.
   Typography is a significant gap: the only concrete font-family token observed in the CSS is "monospace" (from Okendo's icon-font fallback chain), while the storefront's own body and display type reference unresolved CSS custom properties (--font-typeface-body, --font-typeface-display) whose actual values were not captured. This spec therefore uses monospace with sans-serif fallback as the sole documented family across all text roles, flagged explicitly as a coverage limitation rather than a stylistic choice. Layout patterns (buttons, uppercase tracking, 0-radius controls) are drawn directly from .btn--primary and Okendo button rules; all other components are proposed, not observed.
@@ -154,6 +158,12 @@ This is a recommendation, not measured site behavior, since no media queries or 
 Touch targets should be at least 44×44px for swatch selectors and buttons; the mega-menu (visible in page text as nested Backpacks/Slings/Accessories submenus) should collapse to an accordion pattern on mobile. All figures are proposed defaults, not measured from the live site.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Static CSS/text extraction does not capture rendered layout, so header height, grid columns, hero imagery, and mobile menu behavior are unobserved and marked proposed.

@@ -4,6 +4,10 @@ name: "Evodesk"
 source_url: "https://www.evodesk.com"
 captured_at: "2026-09-28T04:44:36.509647+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Evodesk's storefront markup exposes a compact, functional palette anchored by
   a warm coral primary (#ec785c) used for calls-to-action, a deep slate-navy
@@ -165,6 +169,13 @@ Recommended, not measured, breakpoint scale:
 Touch targets should be a minimum of 44px height for buttons and swatch controls; the `configurator-swatch` component should enlarge tap area beyond its visual chip on touch devices. Nav collapse to a hamburger/off-canvas pattern below `medium` is a convention recommendation only, as no header markup or media queries were included in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is built from static CSS/text extraction only; no rendered screenshots, computed layout, or DOM structure were available. Semantic role mapping (e.g., which neutral is "surface-card" vs. "surface-soft," footer color choice) is inferred from color frequency and likely usage, not confirmed via selector context. All font sizes except the `.button` `0.9rem` value are proposed, not observed. No breakpoint media-query values were supplied beyond a Foundation-style size-name string, so the responsive table above is a best-practice recommendation, not evidence of Evodesk's actual behavior. Hover/focus/active states beyond the two documented button rules, mobile nav behavior, and product-card real content are unobserved. Montserrat's licensing/self-hosting status was not verified; generic `sans-serif` fallback is assumed safe. The brand category supplied ("Gaming Desks") does not match the observed evidence, which describes adjustable-height/electric standing desks; this spec reflects the latter and avoids inventing gaming-specific visual claims.

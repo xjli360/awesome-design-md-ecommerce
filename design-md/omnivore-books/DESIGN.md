@@ -4,6 +4,10 @@ name: "Omnivore Books"
 source_url: "https://www.omnivorebooks.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A cookbook specialist’s library, where the warmth of a well-stocked kitchen shelf is translated into a digital storefront through a buttery canvas of #fffbf2 and a gilded accent of #ab8c52 that reads like aged brass or the spine of a vintage Le Cordon Bleu manual. The brand’s primary color, #ab8c52, appears on key interactive elements — the add-to-cart button, the search icon, and the footer’s newsletter signup — lending a sense of permanence and quality that resists the throwaway feel of generic e-commerce. Typography is set in Figtree for body and Fraunces for display, a pairing that balances Fraunces’s soft, ink-trap serifs (used for book titles and section headers at 24–32px) with Figtree’s clean, slightly condensed sans-serif for product descriptions and navigation. The site’s secondary palette is restrained: #222222 for ink, #444444 for body text, and #747474 for muted labels, all resting on the warm #fffbf2 canvas. Cards and surfaces use #ffffff for contrast, with hairline borders in #dedede and softer dividers in #eaeaea. A subtle #e7d2aa appears as a hover state on secondary buttons and as a background tint on featured collections, echoing the color of unbleached parchment. The overall mood is that of a serious but welcoming bibliophile’s corner — no aggressive sales tactics, just a quiet confidence in the curation. Signature design moves include a full-width hero section featuring a single cookbook cover at 60% of the viewport height, a persistent top nav with a search bar that expands on click, and a product grid that uses generous whitespace (48px between rows) to let each cover breathe. The checkout flow, while standard Shopify, is overlaid with the brand’s #fffbf2 canvas and #ab8c52 accents, avoiding the generic blue of default Shopify themes. The result is a site that feels less like a store and more like a personal recommendation from a trusted food historian.
 
@@ -333,6 +337,13 @@ components:
 - Featured collection sections maintain their background color but reduce horizontal padding from 32px to 16px on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

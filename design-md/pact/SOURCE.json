@@ -54,16 +54,32 @@
     }
   ],
   "colors": {
+    "#000000": {
+      "count": 51,
+      "sources": [
+        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css"
+      ]
+    },
     "#ffffff": {
       "count": 331,
       "sources": [
-        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css",
-        "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css"
+      ]
+    },
+    "#00000000": {
+      "count": 1,
+      "sources": [
         "https://static.wearpact.com/css/pact.min.11.4.12.css"
       ]
     },
     "#4d4a43": {
       "count": 277,
+      "sources": [
+        "https://static.wearpact.com/css/pact.min.11.4.12.css"
+      ]
+    },
+    "#94928e": {
+      "count": 73,
       "sources": [
         "https://static.wearpact.com/css/pact.min.11.4.12.css"
       ]
@@ -80,32 +96,8 @@
         "https://static.wearpact.com/css/pact.min.11.4.12.css"
       ]
     },
-    "#ebeae8": {
-      "count": 80,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#94928e": {
-      "count": 73,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#a6a5a1": {
-      "count": 61,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
     "#c8422d": {
       "count": 54,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#000000": {
-      "count": 51,
       "sources": [
         "https://static.wearpact.com/css/pact.min.11.4.12.css"
       ]
@@ -116,115 +108,7 @@
         "https://static.wearpact.com/css/pact.min.11.4.12.css"
       ]
     },
-    "#f0ad4e": {
-      "count": 23,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#5bc0de": {
-      "count": 19,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#dddddd": {
-      "count": 11,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#e1e1e1": {
-      "count": 10,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#425a91": {
-      "count": 8,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#5387e9": {
-      "count": 8,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#f0c14b": {
-      "count": 8,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#aaaaaa": {
-      "count": 7,
-      "sources": [
-        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css"
-      ]
-    },
-    "#32302b": {
-      "count": 7,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#003e51": {
-      "count": 7,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#809ea8": {
-      "count": 7,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#3c763d": {
-      "count": 6,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#31708f": {
-      "count": 6,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#8a6d3b": {
-      "count": 6,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#a94442": {
-      "count": 6,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#212121": {
-      "count": 5,
-      "sources": [
-        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css"
-      ]
-    },
-    "#31b0d5": {
-      "count": 5,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
     "#254d13": {
-      "count": 5,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#ec971f": {
       "count": 5,
       "sources": [
         "https://static.wearpact.com/css/pact.min.11.4.12.css"
@@ -236,99 +120,8 @@
         "https://static.wearpact.com/css/pact.min.11.4.12.css"
       ]
     },
-    "#eaf3e7": {
-      "count": 5,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#222222": {
-      "count": 4,
-      "sources": [
-        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css"
-      ]
-    },
-    "#cd0a0a": {
-      "count": 4,
-      "sources": [
-        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css"
-      ]
-    },
-    "#fcf8e3": {
-      "count": 4,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#d0e9c6": {
-      "count": 4,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#faf2cc": {
-      "count": 4,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#ebcccc": {
-      "count": 4,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#f9e3e0": {
-      "count": 4,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#a98d6d": {
-      "count": 4,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#292929": {
-      "count": 4,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#e6e6e6": {
-      "count": 3,
-      "sources": [
-        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css",
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#24231f": {
-      "count": 3,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#dff0d8": {
-      "count": 3,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#d9edf7": {
-      "count": 3,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#c4e3f3": {
-      "count": 3,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#f2dede": {
-      "count": 3,
+    "#ebeae8": {
+      "count": 80,
       "sources": [
         "https://static.wearpact.com/css/pact.min.11.4.12.css"
       ]
@@ -345,166 +138,30 @@
         "https://static.wearpact.com/css/pact.min.11.4.12.css"
       ]
     },
-    "#ecece7": {
-      "count": 3,
+    "#a98d6d": {
+      "count": 4,
       "sources": [
         "https://static.wearpact.com/css/pact.min.11.4.12.css"
       ]
     },
-    "#cccccc": {
-      "count": 2,
-      "sources": [
-        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css"
-      ]
-    },
-    "#d3d3d3": {
-      "count": 2,
-      "sources": [
-        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css"
-      ]
-    },
-    "#555555": {
-      "count": 2,
-      "sources": [
-        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css"
-      ]
-    },
-    "#999999": {
-      "count": 2,
-      "sources": [
-        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css",
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#fcefa1": {
-      "count": 2,
-      "sources": [
-        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css"
-      ]
-    },
-    "#fbf9ee": {
-      "count": 2,
-      "sources": [
-        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css"
-      ]
-    },
-    "#363636": {
-      "count": 2,
-      "sources": [
-        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css"
-      ]
-    },
-    "#908b7f": {
-      "count": 2,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#2c2b27": {
-      "count": 2,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#acaba8": {
-      "count": 2,
-      "sources": [
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
-      ]
-    },
-    "#2aabd2": {
-      "count": 2,
+    "#eaf3e7": {
+      "count": 5,
       "sources": [
         "https://static.wearpact.com/css/pact.min.11.4.12.css"
       ]
     }
   },
   "font_families": {
-    "-apple-system": [
-      "https://static.wearpact.com/css/pact.min.11.4.12.css"
-    ],
     "Arial": [
-      "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css",
-      "https://static.wearpact.com/css/pact.min.11.4.12.css"
+      "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css"
     ],
-    "Arial !important": [
-      "https://static.wearpact.com/css/pact.min.11.4.12.css"
+    "sans-serif": [
+      "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css"
     ],
     "Averta": [
       "https://static.wearpact.com/css/pact.min.11.4.12.css"
     ],
-    "Averta\" !important": [
-      "https://static.wearpact.com/css/pact.min.11.4.12.css"
-    ],
-    "Consolas": [
-      "https://static.wearpact.com/css/pact.min.11.4.12.css"
-    ],
-    "Courier New": [
-      "https://static.wearpact.com/css/pact.min.11.4.12.css"
-    ],
-    "Durer": [
-      "https://static.wearpact.com/css/pact.min.11.4.12.css"
-    ],
-    "Durer\" !important": [
-      "https://static.wearpact.com/css/pact.min.11.4.12.css"
-    ],
-    "FontAwesome": [
-      "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
-      "https://static.wearpact.com/css/pact.min.11.4.12.css"
-    ],
-    "GTEesti": [
-      "https://static.wearpact.com/css/pact.min.11.4.12.css"
-    ],
     "Helvetica Neue": [
-      "https://static.wearpact.com/css/pact.min.11.4.12.css"
-    ],
-    "Juana": [
-      "https://static.wearpact.com/css/pact.min.11.4.12.css"
-    ],
-    "Liberation Mono": [
-      "https://static.wearpact.com/css/pact.min.11.4.12.css"
-    ],
-    "Material Icons Outlined": [
-      "https://fonts.googleapis.com/icon?family=Material+Icons+Outlined"
-    ],
-    "Material Symbols Outlined": [
-      "https://static.wearpact.com/css/pact.min.11.4.12.css"
-    ],
-    "Menlo": [
-      "https://static.wearpact.com/css/pact.min.11.4.12.css"
-    ],
-    "Monaco": [
-      "https://static.wearpact.com/css/pact.min.11.4.12.css"
-    ],
-    "Storyboo": [
-      "https://static.wearpact.com/css/pact.min.11.4.12.css"
-    ],
-    "Storyboo\" !important": [
-      "https://static.wearpact.com/css/pact.min.11.4.12.css"
-    ],
-    "Thistails-Regular": [
-      "https://static.wearpact.com/css/pact.min.11.4.12.css"
-    ],
-    "Thistails-Regular\" !important": [
-      "https://static.wearpact.com/css/pact.min.11.4.12.css"
-    ],
-    "Times New Roman": [
-      "https://static.wearpact.com/css/pact.min.11.4.12.css"
-    ],
-    "Verdana": [
-      "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css"
-    ],
-    "averta-light 300": [
-      "https://static.wearpact.com/css/pact.min.11.4.12.css"
-    ],
-    "monospace": [
-      "https://static.wearpact.com/css/pact.min.11.4.12.css"
-    ],
-    "sans-serif": [
-      "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css",
-      "https://static.wearpact.com/css/pact.min.11.4.12.css"
-    ],
-    "serif": [
       "https://static.wearpact.com/css/pact.min.11.4.12.css"
     ]
   },
@@ -666,10 +323,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Pact | Dress Yourself Well",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-200",
   "tokens": {
     "colors.primary": {
+      "value": "#38761d",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -677,6 +335,7 @@
       ]
     },
     "colors.primary-dark": {
+      "value": "#254d13",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -684,6 +343,7 @@
       ]
     },
     "colors.ink": {
+      "value": "#4d4a43",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -691,15 +351,15 @@
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css",
-        "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
+        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css"
       ]
     },
     "colors.body": {
+      "value": "#4d4a43",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -707,6 +367,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#94928e",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -714,6 +375,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#ebeae8",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -721,6 +383,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#f7f7f5",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -728,6 +391,7 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#f0f0ed",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -735,15 +399,15 @@
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css",
-        "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
-        "https://static.wearpact.com/css/pact.min.11.4.12.css"
+        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css"
       ]
     },
     "colors.accent": {
+      "value": "#c8422d",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -751,6 +415,7 @@
       ]
     },
     "colors.accent-dark": {
+      "value": "#9e3424",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -758,6 +423,7 @@
       ]
     },
     "colors.sage": {
+      "value": "#516259",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -765,6 +431,7 @@
       ]
     },
     "colors.tan": {
+      "value": "#a98d6d",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -772,6 +439,7 @@
       ]
     },
     "colors.tint-green": {
+      "value": "#eaf3e7",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -779,6 +447,7 @@
       ]
     },
     "colors.border": {
+      "value": "#cac9c7",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -786,110 +455,416 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "Averta, 'Helvetica Neue', Arial, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 500,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "Averta, 'Helvetica Neue', Arial, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 500,
+        "lineHeight": 1.1,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "Averta, 'Helvetica Neue', Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 500,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "Averta, 'Helvetica Neue', Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Averta, 'Helvetica Neue', Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Averta, 'Helvetica Neue', Arial, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "Averta, 'Helvetica Neue', Arial, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 500,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.3px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.border}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.sage}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.tint-green}",
+        "textColor": "{colors.primary-dark}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.muted}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xs} {spacing.md}"
+      },
       "status": "inferred"
     },
     "components.certification-callout": {
+      "value": {
+        "backgroundColor": "{colors.tint-green}",
+        "textColor": "{colors.primary-dark}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#000000": {
+        "selector": ".ui-selectable-helper",
+        "property": "border",
+        "declaration": "1px dotted black",
+        "url": "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f9b751c1cd0d2b0f91862db987fed9dda48758b15e6f42ca67796b45f4b21702"
+      },
+      "#ffffff": {
+        "selector": ".ui-widget-content",
+        "property": "background",
+        "declaration": "#ffffff",
+        "url": "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f9b751c1cd0d2b0f91862db987fed9dda48758b15e6f42ca67796b45f4b21702"
+      },
+      "#00000000": {
+        "selector": "a",
+        "property": "background-color",
+        "declaration": "rgba(0,0,0,0)",
+        "url": "https://static.wearpact.com/css/pact.min.11.4.12.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "461d85d0d515c0e955846d4e12afe74be12d1eb00b672ee7f1929d9903627789"
+      },
+      "#4d4a43": {
+        "selector": "body",
+        "property": "color",
+        "declaration": "#4d4a43",
+        "url": "https://static.wearpact.com/css/pact.min.11.4.12.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "461d85d0d515c0e955846d4e12afe74be12d1eb00b672ee7f1929d9903627789"
+      },
+      "#94928e": {
+        "selector": "caption",
+        "property": "color",
+        "declaration": "#94928e",
+        "url": "https://static.wearpact.com/css/pact.min.11.4.12.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "461d85d0d515c0e955846d4e12afe74be12d1eb00b672ee7f1929d9903627789"
+      },
+      "#f7f7f5": {
+        "selector": ".blockquote",
+        "property": "border-left",
+        "declaration": ".25rem solid #f7f7f5",
+        "url": "https://static.wearpact.com/css/pact.min.11.4.12.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "461d85d0d515c0e955846d4e12afe74be12d1eb00b672ee7f1929d9903627789"
+      },
+      "#38761d": {
+        "selector": ".has-success .form-control-feedback,.has-success .form-control-label,.has-success .col-form-label,.has-success .form-check-label,.has-success .custom-control",
+        "property": "color",
+        "declaration": "#38761d",
+        "url": "https://static.wearpact.com/css/pact.min.11.4.12.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "461d85d0d515c0e955846d4e12afe74be12d1eb00b672ee7f1929d9903627789"
+      },
+      "#c8422d": {
+        "selector": ".has-danger .form-control-feedback,.has-danger .form-control-label,.has-danger .col-form-label,.has-danger .form-check-label,.has-danger .custom-control",
+        "property": "color",
+        "declaration": "#c8422d",
+        "url": "https://static.wearpact.com/css/pact.min.11.4.12.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "461d85d0d515c0e955846d4e12afe74be12d1eb00b672ee7f1929d9903627789"
+      },
+      "#cac9c7": {
+        "selector": ".btn-secondary",
+        "property": "border-color",
+        "declaration": "#cac9c7",
+        "url": "https://static.wearpact.com/css/pact.min.11.4.12.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "461d85d0d515c0e955846d4e12afe74be12d1eb00b672ee7f1929d9903627789"
+      },
+      "#254d13": {
+        "selector": ".btn-success:hover",
+        "property": "background-color",
+        "declaration": "#254d13",
+        "url": "https://static.wearpact.com/css/pact.min.11.4.12.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "461d85d0d515c0e955846d4e12afe74be12d1eb00b672ee7f1929d9903627789"
+      },
+      "#9e3424": {
+        "selector": ".btn-danger:hover",
+        "property": "background-color",
+        "declaration": "#9e3424",
+        "url": "https://static.wearpact.com/css/pact.min.11.4.12.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "461d85d0d515c0e955846d4e12afe74be12d1eb00b672ee7f1929d9903627789"
+      },
+      "#ebeae8": {
+        "selector": ".progress",
+        "property": "background-color",
+        "declaration": "#ebeae8",
+        "url": "https://static.wearpact.com/css/pact.min.11.4.12.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "461d85d0d515c0e955846d4e12afe74be12d1eb00b672ee7f1929d9903627789"
+      },
+      "#f0f0ed": {
+        "selector": ".popover.popover-bottom::after,.popover.bs-tether-element-attached-top::after",
+        "property": "border-bottom-color",
+        "declaration": "#f0f0ed",
+        "url": "https://static.wearpact.com/css/pact.min.11.4.12.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "461d85d0d515c0e955846d4e12afe74be12d1eb00b672ee7f1929d9903627789"
+      },
+      "#516259": {
+        "selector": ".holiday-theme-earthday .site-headline-message,.holiday-theme-earthday footer .footer-wrapper,.holiday-theme-earthday footer .footer-bottom-wrapper",
+        "property": "background",
+        "declaration": "#516259",
+        "url": "https://static.wearpact.com/css/pact.min.11.4.12.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "461d85d0d515c0e955846d4e12afe74be12d1eb00b672ee7f1929d9903627789"
+      },
+      "#a98d6d": {
+        "selector": ".popup-newaccount-confirmation .popup-newaccount-smswrap form label .btn-link",
+        "property": "color",
+        "declaration": "#a98d6d",
+        "url": "https://static.wearpact.com/css/pact.min.11.4.12.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "461d85d0d515c0e955846d4e12afe74be12d1eb00b672ee7f1929d9903627789"
+      },
+      "#eaf3e7": {
+        "selector": "#cart .cart-item-msg>span",
+        "property": "background",
+        "declaration": "#eaf3e7",
+        "url": "https://static.wearpact.com/css/pact.min.11.4.12.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "461d85d0d515c0e955846d4e12afe74be12d1eb00b672ee7f1929d9903627789"
+      }
+    },
+    "font_families": {
+      "Arial": {
+        "selector": ".ui-widget",
+        "property": "font-family",
+        "declaration": "Verdana,Arial,sans-serif",
+        "url": "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f9b751c1cd0d2b0f91862db987fed9dda48758b15e6f42ca67796b45f4b21702"
+      },
+      "sans-serif": {
+        "selector": ".ui-widget",
+        "property": "font-family",
+        "declaration": "Verdana,Arial,sans-serif",
+        "url": "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f9b751c1cd0d2b0f91862db987fed9dda48758b15e6f42ca67796b45f4b21702"
+      },
+      "Averta": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Averta\"",
+        "url": "https://static.wearpact.com/css/pact.min.11.4.12.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "461d85d0d515c0e955846d4e12afe74be12d1eb00b672ee7f1929d9903627789"
+      },
+      "Helvetica Neue": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Averta,\"Helvetica Neue\",Arial",
+        "url": "https://static.wearpact.com/css/pact.min.11.4.12.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "461d85d0d515c0e955846d4e12afe74be12d1eb00b672ee7f1929d9903627789"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

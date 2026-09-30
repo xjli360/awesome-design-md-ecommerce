@@ -1,0 +1,1406 @@
+{
+  "schema_version": 1,
+  "source_url": "https://www.jonesroadbeauty.com/",
+  "method": "browser-computed-components",
+  "viewports": [
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "Skip to content\n\nFree shipping on US orders over $55\n\nNEW: Y",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 4628.71875
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "RingsideWideWeb, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "17.6px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#main-header",
+          "label": "Face\nEyes\nLips\nBestsellers\nShop All\nFIND YOUR SHADE\n$USD",
+          "box": {
+            "x": 0,
+            "y": 35,
+            "width": 1440,
+            "height": 60
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "RingsideWideWeb, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "17.6px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "40px",
+            "padding-bottom": "0px",
+            "padding-left": "40px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "grid",
+            "gap": "0px",
+            "row-gap": "0px",
+            "column-gap": "0px",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "navigation",
+          "selector": "#main-header > nav:nth-of-type(1)",
+          "label": "Face\nEyes\nLips\nBestsellers\nShop All",
+          "box": {
+            "x": 40,
+            "y": 35,
+            "width": 575,
+            "height": 59
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "RingsideWideWeb, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "17.6px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "heading",
+          "selector": "#main-header > h1:nth-of-type(1)",
+          "label": "",
+          "box": {
+            "x": 615,
+            "y": 55.5,
+            "width": 210,
+            "height": 18
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"Roboto Condensed\", sans-serif",
+            "font-size": "32px",
+            "font-weight": "400",
+            "line-height": "35.2px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "10px",
+            "padding-bottom": "0px",
+            "padding-left": "10px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "section-heading",
+          "selector": "#shopify-section-template--19473349279894__hero_v3_ma9B8R > hero-v3-carousel:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(2)",
+          "label": "Meet Your New\nUnder-Eye Routine",
+          "box": {
+            "x": 48,
+            "y": 324.8125,
+            "width": 873.59375,
+            "height": 110
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Canela, serif",
+            "font-size": "42px",
+            "font-weight": "300",
+            "line-height": "50.4px",
+            "letter-spacing": "0.3px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "10px",
+            "row-gap": "10px",
+            "column-gap": "10px",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "body-copy",
+          "selector": "#shopify-section-template--19473349279894__hero_v3_ma9B8R > hero-v3-carousel:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+          "label": "A shockingly lightweight, surprisingly",
+          "box": {
+            "x": 48,
+            "y": 450.8125,
+            "width": 739.1875,
+            "height": 27.1875
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "RingsideWideWeb, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "325",
+            "line-height": "27.2px",
+            "letter-spacing": "0.4px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--19473349279894__hero_v3_ma9B8R > hero-v3-carousel:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "label": "SHOP NOW",
+          "box": {
+            "x": 48,
+            "y": 521.1875,
+            "width": 164,
+            "height": 44
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(0, 0, 0)",
+            "font-family": "BaseMonoWideWeb, Courier, \"Courier New\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "550",
+            "line-height": "16px",
+            "letter-spacing": "0.4px",
+            "padding-top": "0px",
+            "padding-right": "30px",
+            "padding-bottom": "0px",
+            "padding-left": "30px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "2px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--19473349279894__hero_v3_ma9B8R > hero-v3-carousel:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "label": "SHOP NOW",
+          "box": {
+            "x": 1488,
+            "y": 511.09375,
+            "width": 164,
+            "height": 44
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(0, 0, 0)",
+            "font-family": "BaseMonoWideWeb, Courier, \"Courier New\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "550",
+            "line-height": "16px",
+            "letter-spacing": "0.4px",
+            "padding-top": "0px",
+            "padding-right": "16px",
+            "padding-bottom": "0px",
+            "padding-left": "16px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "2px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "product-card",
+          "selector": "#pane-template--19473349279894__ccig_fp_v4_fegpq7-0 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+          "label": "BESTSELLER\nMIRACLE BALM\nSHOP NOW\n$38\nView Miracle Balm",
+          "box": {
+            "x": 36,
+            "y": 990.78125,
+            "width": 333,
+            "height": 452.1875
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "RingsideWideWeb, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "17.6px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "footer",
+          "selector": "#shopify-section-sections--19473347707030__footer > footer:nth-of-type(1)",
+          "label": "Stay up to date about product launches, makeup tips, and all",
+          "box": {
+            "x": 0,
+            "y": 4178.765625,
+            "width": 1440,
+            "height": 449.953125
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(246, 242, 235)",
+            "font-family": "RingsideWideWeb, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "17.6px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0424/9527/9254/files/united-states-of-america-flag-icon-64.png?v=1722345040",
+          "alt": " Flag",
+          "width": 64,
+          "height": 34
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0424/9527/9254/files/united-states-of-america-flag-icon-64.png?v=1722345040",
+          "alt": "flag",
+          "width": 64,
+          "height": 34
+        },
+        {
+          "url": "https://www.jonesroadbeauty.com/cdn/shop/files/jsLogo_2.svg?v=1773079002&width=256",
+          "alt": "",
+          "width": 190,
+          "height": 18
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0424/9527/9254/files/united-states-of-america-flag-icon-64.png?v=1722345040",
+          "alt": " Flag",
+          "width": 64,
+          "height": 34
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0424/9527/9254/files/united-states-of-america-flag-icon-64.png?v=1722345040",
+          "alt": "flag",
+          "width": 64,
+          "height": 34
+        },
+        {
+          "url": "https://www.jonesroadbeauty.com/cdn/shop/files/Homepage.jpg?v=1789478668&width=3000",
+          "alt": "",
+          "width": 2100,
+          "height": 700
+        },
+        {
+          "url": "https://www.jonesroadbeauty.com/cdn/shop/files/Launch_Desktop_Image_Option_2.jpg?v=1789133394&width=3000",
+          "alt": "",
+          "width": 2100,
+          "height": 700
+        },
+        {
+          "url": "https://www.jonesroadbeauty.com/cdn/shop/files/miraclebalm_dustyrose_grey_1.jpg?crop=center&height=360&v=1736962336&width=360",
+          "alt": "",
+          "width": 360,
+          "height": 360
+        },
+        {
+          "url": "https://www.jonesroadbeauty.com/cdn/shop/files/MB_AuNaturel_02_d84bb37a-cb7f-4f56-bd3c-3fadedd32d74.png?v=1657301039",
+          "alt": "A woman holding Miracle Balm in Au Naturel by Jones Road Bea",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://www.jonesroadbeauty.com/cdn/shop/files/What_the_Foundation-1_df8e2ddb-35c1-4950-a213-49818d45110f.jpg?crop=center&height=360&v=1718128076&width=360",
+          "alt": "",
+          "width": 360,
+          "height": 360
+        },
+        {
+          "url": "https://www.jonesroadbeauty.com/cdn/shop/files/image_5_92e38083-5299-471a-9cb3-55cf78b89046.png?v=1768581964",
+          "alt": "",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "https://www.jonesroadbeauty.com/cdn/shop/files/JETM_alabaster_1.jpg?crop=center&height=360&v=1741887001&width=360",
+          "alt": "",
+          "width": 360,
+          "height": 360
+        }
+      ],
+      "document_width": 1440,
+      "viewport": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 1000
+      },
+      "states": {
+        "initial": "observed",
+        "hover": {
+          "selector": "#shopify-section-template--19473349279894__hero_v3_ma9B8R > hero-v3-carousel:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "borderColor": "rgb(0, 0, 0)",
+            "outline": "rgb(255, 255, 255) none 3px"
+          }
+        },
+        "focus": {
+          "selector": "#shopify-section-template--19473349279894__hero_v3_ma9B8R > hero-v3-carousel:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(239, 239, 239)",
+            "backgroundColor": "rgba(0, 0, 0, 0.937)",
+            "borderColor": "rgb(0, 0, 0)",
+            "outline": "rgb(239, 239, 239) auto 3px"
+          }
+        },
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-desktop.png",
+        "sha256": "4418dd692fb3a602ad0ef1ba85d96f6d937bfc36857112ee0be16d82e3cd5627",
+        "public_path": "evidence/viewport-desktop.png"
+      }
+    },
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "Skip to content\n\nFree shipping on US orders over $55\n\nNEW: Y",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 5191.109375
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "RingsideWideWeb, Helvetica, Arial, sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "16.5px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#main-header",
+          "label": "Search\nBESTSELLERS\nNEW\nKITS\nFIND YOUR SHADE\nSHOP ALL\nSHOP BY",
+          "box": {
+            "x": 0,
+            "y": 56,
+            "width": 768,
+            "height": 74
+          },
+          "styles": {
+            "color": "rgba(0, 0, 0, 0.75)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "RingsideWideWeb, Helvetica, Arial, sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "16.5px",
+            "letter-spacing": "0.6px",
+            "padding-top": "13.3333px",
+            "padding-right": "20px",
+            "padding-bottom": "13.3333px",
+            "padding-left": "20px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgba(0, 0, 0, 0.75)",
+            "display": "grid",
+            "gap": "0px 30px",
+            "row-gap": "0px",
+            "column-gap": "30px",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "navigation",
+          "selector": "#menu-drawer > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1)",
+          "label": "Featured collections",
+          "box": {
+            "x": 0,
+            "y": 196,
+            "width": 767,
+            "height": 846.59375
+          },
+          "styles": {
+            "color": "rgba(0, 0, 0, 0.75)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "RingsideWideWeb, Helvetica, Arial, sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "16.5px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgba(0, 0, 0, 0.75)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "heading",
+          "selector": "#main-header > h1:nth-of-type(1)",
+          "label": "",
+          "box": {
+            "x": 289,
+            "y": 83.5,
+            "width": 190,
+            "height": 18
+          },
+          "styles": {
+            "color": "rgba(0, 0, 0, 0.75)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"Roboto Condensed\", sans-serif",
+            "font-size": "30px",
+            "font-weight": "400",
+            "line-height": "33px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgba(0, 0, 0, 0.75)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "section-heading",
+          "selector": "#shopify-section-template--19473349279894__hero_v3_ma9B8R > hero-v3-carousel:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(2)",
+          "label": "Meet Your New\nUnder-Eye Routine",
+          "box": {
+            "x": 48,
+            "y": 396.828125,
+            "width": 436.796875,
+            "height": 70
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Canela, serif",
+            "font-size": "29px",
+            "font-weight": "300",
+            "line-height": "34.8px",
+            "letter-spacing": "0.3px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "10px",
+            "row-gap": "10px",
+            "column-gap": "10px",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "body-copy",
+          "selector": "#shopify-section-template--19473349279894__hero_v3_ma9B8R > hero-v3-carousel:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+          "label": "A shockingly lightweight, surprisingly",
+          "box": {
+            "x": 48,
+            "y": 482.828125,
+            "width": 369.59375,
+            "height": 18.6875
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "RingsideWideWeb, Helvetica, Arial, sans-serif",
+            "font-size": "11px",
+            "font-weight": "325",
+            "line-height": "18.7px",
+            "letter-spacing": "0.4px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--19473349279894__hero_v3_ma9B8R > hero-v3-carousel:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "label": "SHOP NOW",
+          "box": {
+            "x": 48,
+            "y": 536.203125,
+            "width": 164,
+            "height": 43.75
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(0, 0, 0)",
+            "font-family": "BaseMonoWideWeb, Courier, \"Courier New\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "550",
+            "line-height": "16px",
+            "letter-spacing": "0.4px",
+            "padding-top": "0px",
+            "padding-right": "30px",
+            "padding-bottom": "0px",
+            "padding-left": "30px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "2px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--19473349279894__hero_v3_ma9B8R > hero-v3-carousel:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "label": "SHOP NOW",
+          "box": {
+            "x": 816,
+            "y": 537.90625,
+            "width": 164,
+            "height": 43.75
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(0, 0, 0)",
+            "font-family": "BaseMonoWideWeb, Courier, \"Courier New\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "550",
+            "line-height": "16px",
+            "letter-spacing": "0.4px",
+            "padding-top": "0px",
+            "padding-right": "16px",
+            "padding-bottom": "0px",
+            "padding-left": "16px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "2px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "product-card",
+          "selector": "#pane-template--19473349279894__ccig_fp_v4_fegpq7-0 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+          "label": "BESTSELLER\nMIRACLE BALM\nSHOP NOW\n$38\nView Miracle Balm",
+          "box": {
+            "x": 20,
+            "y": 1024.4375,
+            "width": 570.390625,
+            "height": 697.578125
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "RingsideWideWeb, Helvetica, Arial, sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "16.5px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "#shopify-section-sections--19473347707030__footer > footer:nth-of-type(1)",
+          "label": "Stay up to date about product launches, makeup tips, and all",
+          "box": {
+            "x": 0,
+            "y": 4062.609375,
+            "width": 768,
+            "height": 1128.5
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(246, 242, 235)",
+            "font-family": "RingsideWideWeb, Helvetica, Arial, sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "16.5px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0424/9527/9254/files/united-states-of-america-flag-icon-64.png?v=1722345040",
+          "alt": " Flag",
+          "width": 64,
+          "height": 34
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0424/9527/9254/files/united-states-of-america-flag-icon-64.png?v=1722345040",
+          "alt": "flag",
+          "width": 64,
+          "height": 34
+        },
+        {
+          "url": "https://www.jonesroadbeauty.com/cdn/shop/files/jsLogo_2.svg?v=1773079002&width=256",
+          "alt": "",
+          "width": 190,
+          "height": 18
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0424/9527/9254/files/united-states-of-america-flag-icon-64.png?v=1722345040",
+          "alt": " Flag",
+          "width": 64,
+          "height": 34
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0424/9527/9254/files/united-states-of-america-flag-icon-64.png?v=1722345040",
+          "alt": "flag",
+          "width": 64,
+          "height": 34
+        },
+        {
+          "url": "https://www.jonesroadbeauty.com/cdn/shop/files/Homepage.jpg?v=1789478668&width=3000",
+          "alt": "",
+          "width": 2150,
+          "height": 716
+        },
+        {
+          "url": "https://www.jonesroadbeauty.com/cdn/shop/files/Launch_Desktop_Image_Option_2.jpg?v=1789133394&width=3000",
+          "alt": "",
+          "width": 2150,
+          "height": 716
+        },
+        {
+          "url": "https://www.jonesroadbeauty.com/cdn/shop/files/miraclebalm_dustyrose_grey_1.jpg?crop=center&height=360&v=1736962336&width=360",
+          "alt": "",
+          "width": 255,
+          "height": 255
+        },
+        {
+          "url": "https://www.jonesroadbeauty.com/cdn/shop/files/MB_AuNaturel_02_d84bb37a-cb7f-4f56-bd3c-3fadedd32d74.png?v=1657301039",
+          "alt": "A woman holding Miracle Balm in Au Naturel by Jones Road Bea",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "url": "https://www.jonesroadbeauty.com/cdn/shop/files/What_the_Foundation-1_df8e2ddb-35c1-4950-a213-49818d45110f.jpg?crop=center&height=360&v=1718128076&width=360",
+          "alt": "",
+          "width": 255,
+          "height": 255
+        },
+        {
+          "url": "https://www.jonesroadbeauty.com/cdn/shop/files/image_5_92e38083-5299-471a-9cb3-55cf78b89046.png?v=1768581964",
+          "alt": "",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "https://www.jonesroadbeauty.com/cdn/shop/files/JETM_alabaster_1.jpg?crop=center&height=360&v=1741887001&width=360",
+          "alt": "",
+          "width": 255,
+          "height": 255
+        }
+      ],
+      "document_width": 768,
+      "viewport": {
+        "name": "tablet",
+        "width": 768,
+        "height": 1024
+      },
+      "states": {
+        "initial": "observed",
+        "hover": {
+          "selector": "#shopify-section-template--19473349279894__hero_v3_ma9B8R > hero-v3-carousel:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "borderColor": "rgb(0, 0, 0)",
+            "outline": "rgb(255, 255, 255) none 3px"
+          }
+        },
+        "focus": {
+          "selector": "#shopify-section-template--19473349279894__hero_v3_ma9B8R > hero-v3-carousel:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "borderColor": "rgb(0, 0, 0)",
+            "outline": "rgb(255, 255, 255) auto 3px"
+          }
+        },
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-tablet.png",
+        "sha256": "eaee4e04d73920bb0e226f5d56ebffe8e75763c7fc501f69ffdf962f5fc9f8e0",
+        "public_path": "evidence/viewport-tablet.png"
+      }
+    },
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "Skip to content\n\nFree shipping on US orders over $55\n\nNEW: Y",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 4055.734375
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "RingsideWideWeb, Helvetica, Arial, sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "16.5px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#main-header",
+          "label": "Search\nBESTSELLERS\nNEW\nKITS\nFIND YOUR SHADE\nSHOP ALL\nSHOP BY",
+          "box": {
+            "x": 0,
+            "y": 55.171875,
+            "width": 390,
+            "height": 74
+          },
+          "styles": {
+            "color": "rgba(0, 0, 0, 0.75)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "RingsideWideWeb, Helvetica, Arial, sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "16.5px",
+            "letter-spacing": "0.6px",
+            "padding-top": "13.3333px",
+            "padding-right": "20px",
+            "padding-bottom": "13.3333px",
+            "padding-left": "20px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgba(0, 0, 0, 0.75)",
+            "display": "grid",
+            "gap": "0px 30px",
+            "row-gap": "0px",
+            "column-gap": "30px",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "navigation",
+          "selector": "#menu-drawer > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1)",
+          "label": "Featured collections",
+          "box": {
+            "x": 0,
+            "y": 195.171875,
+            "width": 389,
+            "height": 468.59375
+          },
+          "styles": {
+            "color": "rgba(0, 0, 0, 0.75)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "RingsideWideWeb, Helvetica, Arial, sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "16.5px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgba(0, 0, 0, 0.75)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "heading",
+          "selector": "#main-header > h1:nth-of-type(1)",
+          "label": "",
+          "box": {
+            "x": 100,
+            "y": 82.671875,
+            "width": 190,
+            "height": 18
+          },
+          "styles": {
+            "color": "rgba(0, 0, 0, 0.75)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"Roboto Condensed\", sans-serif",
+            "font-size": "30px",
+            "font-weight": "400",
+            "line-height": "33px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgba(0, 0, 0, 0.75)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "section-heading",
+          "selector": "#shopify-section-template--19473349279894__hero_v3_ma9B8R > hero-v3-carousel:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "label": "Meet Your New\nUnder-Eye Routine",
+          "box": {
+            "x": 34,
+            "y": 443.796875,
+            "width": 227.765625,
+            "height": 60
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Canela, serif",
+            "font-size": "29px",
+            "font-weight": "300",
+            "line-height": "30px",
+            "letter-spacing": "0.3px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "0px",
+            "row-gap": "0px",
+            "column-gap": "0px",
+            "max-width": "100%"
+          },
+          "occluded": false
+        },
+        {
+          "role": "body-copy",
+          "selector": "#shopify-section-template--19473349279894__hero_v3_ma9B8R > hero-v3-carousel:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+          "label": "A shockingly lightweight, surprisingly",
+          "box": {
+            "x": 34,
+            "y": 516.796875,
+            "width": 232.1875,
+            "height": 18.6875
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "RingsideWideWeb, Helvetica, Arial, sans-serif",
+            "font-size": "11px",
+            "font-weight": "325",
+            "line-height": "18.7px",
+            "letter-spacing": "0.4px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--19473349279894__hero_v3_ma9B8R > hero-v3-carousel:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "label": "SHOP NOW",
+          "box": {
+            "x": 34,
+            "y": 567.171875,
+            "width": 162.828125,
+            "height": 40
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(0, 0, 0)",
+            "font-family": "BaseMonoWideWeb, Courier, \"Courier New\", sans-serif",
+            "font-size": "13.9386px",
+            "font-weight": "550",
+            "line-height": "16px",
+            "letter-spacing": "0.4px",
+            "padding-top": "0px",
+            "padding-right": "28.833px",
+            "padding-bottom": "0px",
+            "padding-left": "28.833px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "2px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--19473349279894__hero_v3_ma9B8R > hero-v3-carousel:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "label": "SHOP NOW",
+          "box": {
+            "x": 424,
+            "y": 567.171875,
+            "width": 162.828125,
+            "height": 40
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(0, 0, 0)",
+            "font-family": "BaseMonoWideWeb, Courier, \"Courier New\", sans-serif",
+            "font-size": "13.9386px",
+            "font-weight": "550",
+            "line-height": "16px",
+            "letter-spacing": "0.4px",
+            "padding-top": "0px",
+            "padding-right": "15.7543px",
+            "padding-bottom": "0px",
+            "padding-left": "15.7543px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "2px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "product-card",
+          "selector": "#pane-template--19473349279894__ccig_fp_v4_fegpq7-0 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+          "label": "BESTSELLER\nMIRACLE BALM\nSHOP NOW\n$38\nView Miracle Balm",
+          "box": {
+            "x": 20,
+            "y": 777.953125,
+            "width": 268,
+            "height": 372.59375
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "RingsideWideWeb, Helvetica, Arial, sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "16.5px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "footer",
+          "selector": "#shopify-section-sections--19473347707030__footer > footer:nth-of-type(1)",
+          "label": "Stay up to date about product launches, makeup tips, and all",
+          "box": {
+            "x": 0,
+            "y": 2866.390625,
+            "width": 390,
+            "height": 1189.34375
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(246, 242, 235)",
+            "font-family": "RingsideWideWeb, Helvetica, Arial, sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "16.5px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0424/9527/9254/products/Miracle_Balm_DustyRose_1.jpg?width=400",
+          "alt": "",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0424/9527/9254/files/Detail_Brush_-_6.webp?width=400",
+          "alt": "",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0424/9527/9254/files/Hero_Kit_Pinky_1.png?width=400",
+          "alt": "",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0424/9527/9254/files/wtf_porcelain_1_cc.jpg?width=400",
+          "alt": "",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0424/9527/9254/files/wtf_porcelain_1_cc.jpg?width=120",
+          "alt": "",
+          "width": 120,
+          "height": 120
+        },
+        {
+          "url": "https://www.jonesroadbeauty.com/cdn/shop/files/WideAnwake_05N_1.webp?v=1787857106&width=400",
+          "alt": "Wide Awake Brightening Concealer",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "url": "https://www.jonesroadbeauty.com/cdn/shop/files/ProductName_ShadeName_01_f4031895-2f70-47cb-a22f-4bc7075f7556.webp?v=1788472687&width=400",
+          "alt": "Wide Awake Brightening Neutralizer",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "url": "https://www.jonesroadbeauty.com/cdn/shop/files/FS_Navigation_Launch_Shop_All_2.webp?v=1789667210&width=400",
+          "alt": "Your Skin Foundation Stick",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "url": "https://www.jonesroadbeauty.com/cdn/shop/files/image_648.png?v=1760105354",
+          "alt": "Kits",
+          "width": 120,
+          "height": 120
+        },
+        {
+          "url": "https://www.jonesroadbeauty.com/cdn/shop/files/Hero_Kit_Pinky_1.png?v=1748446195&width=400",
+          "alt": "The Hero Kit",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "url": "https://www.jonesroadbeauty.com/cdn/shop/files/Makeuptravelkit_light.jpg?v=1749218773&width=400",
+          "alt": "The Makeup Travel Kit 2.0",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "url": "https://www.jonesroadbeauty.com/cdn/shop/files/Lilac_Lip_Recharge_PDP_-_1_1.png?v=1772726302&width=400",
+          "alt": "Lip Recharge",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "document_width": 390,
+      "viewport": {
+        "name": "mobile",
+        "width": 390,
+        "height": 844
+      },
+      "states": {
+        "initial": "observed",
+        "hover": {
+          "selector": "#shopify-section-template--19473349279894__hero_v3_ma9B8R > hero-v3-carousel:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "borderColor": "rgb(0, 0, 0)",
+            "outline": "rgb(255, 255, 255) none 3px"
+          }
+        },
+        "focus": {
+          "selector": "#shopify-section-template--19473349279894__hero_v3_ma9B8R > hero-v3-carousel:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(248, 248, 248)",
+            "backgroundColor": "rgba(0, 0, 0, 0.973)",
+            "borderColor": "rgb(7, 7, 7)",
+            "outline": "rgb(248, 248, 248) auto 3px"
+          }
+        },
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-mobile.png",
+        "sha256": "29547b3d87a960b01ee6cc120da8386e6e0e2ae8213e22e169d2d4a4f20258e5",
+        "public_path": "evidence/viewport-mobile.png"
+      }
+    }
+  ],
+  "visual_validation": {
+    "status": "not_performed",
+    "reason": "No implementation generated from DESIGN.md has been compared with the reference."
+  },
+  "brand_review": {
+    "decision": "matched_brand",
+    "reviewed_on": "2026-09-30",
+    "title": "Jones Road Beauty - Clean No-Makeup Makeup",
+    "final_url": "https://www.jonesroadbeauty.com/",
+    "capture_id": "b979db4387d945798e6868148d8c8058",
+    "expected_brand": "Jones Road"
+  },
+  "requested_url": "https://jonesroadbeauty.com",
+  "captured_at": "2026-09-30T09:05:28.024171+00:00",
+  "capture_id": "b979db4387d945798e6868148d8c8058",
+  "landing_page_sha256": "8919d4d4f525edb50f163e22e94f2a14ee88c41b3a21358862383529e58a76c6"
+}

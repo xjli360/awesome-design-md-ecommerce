@@ -4,6 +4,10 @@ name: "Boss"
 source_url: "https://www.boss.info"
 captured_at: "2026-09-28T04:06:41.384620+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from static CSS served on Roland's shared
   infrastructure (static.roland.com) that powers the BOSS global site. The
@@ -172,6 +176,14 @@ This is a recommendation, not measured site behavior — no breakpoints, media q
 Touch targets should be at least 44×44px; the observed circular buttons (60–75px) already satisfy this at desktop scale. Collapse the nav-bar into a hamburger pattern below tablet width; this interaction was not observed and is a standard proposal only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

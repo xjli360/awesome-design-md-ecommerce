@@ -4,6 +4,10 @@ name: "Dollar Shave Club"
 source_url: "https://www.dollarshaveclub.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A direct-to-consumer grooming brand that weaponizes a high-voltage orange #fe5000 against a deep navy #142978, creating a visual tension that mirrors the brand's irreverent, no-BS voice. The palette is intentionally noisy — a lime green #7fb800, a cyan #52c9ff, a yellow #ffb400 — all competing for attention on a mostly white canvas, as if the brand can't be bothered to curate. Type runs Assistant at modest weights, with the occasional "DSC Specter" headline that feels like a flex, a proprietary move that signals "we're not just another subscription box." Buttons are pill-shaped ({rounded.full}), product cards are softly rounded ({rounded.md} ~12px), and the entire system reads as approachable, slightly chaotic, and deliberately un-precious. The navy #142978 anchors the footer and secondary CTAs, while the orange #fe5000 is the primary voltage — the "Join" button, the "Shop Now" trigger, the accent that says "click here, you know you want to." There's a warmth to the palette that feels more like a clubhouse than a corporate brand, and the typography follows suit: clean, readable, but never stiff.
 
@@ -436,6 +440,13 @@ components:
 - Search bar collapses to icon-only on mobile, expands on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

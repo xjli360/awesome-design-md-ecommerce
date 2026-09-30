@@ -4,6 +4,10 @@ name: "Polywood"
 source_url: "https://www.polywood.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Milk-jug plastic pressed into lumber planks, then photographed against white backdrops as if each Adirondack were a piece of Danish mid-century — that visual contradiction is the engine of the whole digital system. The palette runs exclusively through a cool blue-gray corridor: a steel-slate `{colors.primary}` (#607089) surfaces on secondary accents, review-star fills, and icon tints, while a deeper navy `{colors.navy}` (#2a3b5c) commands every primary CTA, the top announcement bar, and the full-width footer. Two nearly identical grays — #e2e2e2 and #dedede — split duty between `{colors.hairline-soft}` and `{colors.hairline}`, giving borders and dividers a subtle two-tone depth that most brands skip. Near-black `{colors.ink}` (#121212) anchors all body copy with enough contrast to read comfortably in direct sunlight on a tablet propped against a patio table. There is no warm accent, no sustainability-green badge, no lifestyle coral — the restraint is deliberate, letting the lumber-finish color swatches in the product configurator be the only saturated elements on any given page. Typography pairs two faces that shouldn't work together but do: Gotham, a geometric sans-serif carrying all interface text with tight uppercase tracking on buttons (`{typography.button-md}`, 0.5px letter-spacing, textTransform uppercase), and quincy-cf, a soft-shouldered serif that only appears at the hero and collection-header level (`{typography.display-xl}` at 48px/700). The serif never touches navigation or product cards, enforcing a clean editorial/functional split. Corners stay architectural to echo the right-angle joinery of the furniture: product cards use `{rounded.none}`, buttons and inputs take only `{rounded.xs}` (4px), and the lone curved element is the `{rounded.full}` color-swatch circle on the PDP. Spacing is wide open — `{spacing.section}` (64px) between content blocks, `{spacing.xxl}` (48px) inside hero panels — because the product itself is big, and the layout needs room to breathe around a six-seat dining set rendered at 1:1.
 
@@ -427,6 +431,13 @@ components:
 - Search bar collapses to an icon on mobile, expanding to a full-width overlay with recent searches on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

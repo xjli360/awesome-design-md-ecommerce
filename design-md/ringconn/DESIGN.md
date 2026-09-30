@@ -4,6 +4,10 @@ name: "RingConn"
 source_url: "https://ringconn.com"
 captured_at: "2026-09-28T09:41:20.256856+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   RingConn's storefront evidence shows a clean, clinical wearables aesthetic built on a white canvas
   (#ffffff) with near-black body text (#111111) and a mid-saturation blue (#2970d3) used explicitly
@@ -158,6 +162,13 @@ This is a recommended breakpoint strategy, not measured site behavior; the suppl
 Touch targets should be at least 44×44px for nav and cart controls; the mega-menu/dropdown disclosure pattern implied by `details[is="mega-menu-disclosure"]` should collapse to an accordion on mobile. Exact collapse thresholds and drawer behavior were not observed and are proposed defaults.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Static CSS extraction does not confirm actual rendered button, card, or input styles beyond the header/nav rules supplied; several components above are proposed patterns, not verified observations.

@@ -4,6 +4,10 @@ name: "Marucci Sports"
 source_url: "https://maruccisports.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A brand built for the batter's box, where #010101 near-black meets #db1e36 — a red that carries the crack of the bat. The palette is deliberately restrained: deep ink (#231f20) for body text, a range of warm grays (#f4f4f4, #f0f0f0, #e5e5e5) for surfaces and hairlines, and a single accent red (#da020f) that signals urgency on sale badges and clearance markers. The typography leans on Anton and Oswald — both condensed, all-caps display faces that read like jersey lettering — paired with Gotham for body and navigation. There is no softness here: corners are either sharp ({rounded.none}) or minimally rounded ({rounded.xs}), and buttons sit at a compact 40px height. The brand trusts its red to do the work — it appears only on primary CTAs, price badges, and the Marucci "M" mark. Everything else recedes into the grayscale, letting product photography and the red itself carry the emotional weight.
 
@@ -327,6 +331,13 @@ components:
 - Product image galleries collapse to single-image view with dots on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

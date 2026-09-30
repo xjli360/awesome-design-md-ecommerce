@@ -4,6 +4,10 @@ name: "AURA Hair Care"
 source_url: "https://www.aurahaircare.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every shade in the AURA catalog begins as a quiz answer — a premise the visual system reflects in its warm, consultative palette of ivory canvas (#FAFAF7) and a terracotta-edged primary (#BF7B5E) that reads less like a product shelf and more like an appointment with your colorist. The brand's name, with its suggestion of diffused light and radiant proximity, manifests in a design language that favors airy whitespace, soft warm neutrals, and typography running at light weights — display text settles around weight 300–400, a deliberate softness that signals expertise without clinical detachment. Product photography occupies generous proportions, with color swatches as navigational currency: the quiz selects shades by hue family rather than SKU number, placing visual logic above catalog logic. Rounded corners appear throughout at moderate radii — form cards and input fields carry `{rounded.md}` curves while primary CTAs lean on `{rounded.full}` pills, yielding a friendly, spa-adjacent interface that avoids the hard geometry of mass-market haircare. Surface hierarchy uses warmth rather than depth: a `{colors.surface-soft}` cream separates content zones without elevation shadows, and the `{colors.brand-warm}` tint carries shade-selector backgrounds. The color journey — mixing ratio sliders, developer volume pickers, tone intensity wheels — demands clear, uncluttered input components with strong label contrast against the warm canvas; text inputs therefore run a visible `{colors.hairline}` border that firms up to `{colors.ink}` on focus. Labels throughout use spaced uppercase at 11–12px, a capsule shorthand that signals professionalism while keeping the visual register approachable. Footer and legal areas recede into `{colors.muted}` on cream rather than inverting to dark — the brand stays light-footed all the way to the bottom of the page.
 
@@ -348,6 +352,14 @@ components:
 - Footer: 4-column link grid → 2-column → single-column accordion-style expandable sections on mobile with `{colors.hairline}` separators
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

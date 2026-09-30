@@ -4,6 +4,10 @@ name: "Gray Label"
 source_url: "https://gray-label.com"
 captured_at: "2026-09-29T04:33:38.482107+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Gray Label's storefront CSS shows a restrained, monochrome-first palette built around
   explicit design tokens (--color-white, --color-dark, --color-almost-black,
@@ -159,6 +163,13 @@ components:
 Recommended (not measured) breakpoints: mobile ≤ 480px, tablet 481–1024px, desktop ≥ 1025px. Below tablet, the nav-bar and age-category-filter are proposed to collapse into a hamburger/drawer pattern, and product-card grids reduce from a proposed 4-up to 2-up layout. Touch targets for button-primary/secondary and age-category-filter should maintain a minimum 44×44px hit area, achieved by combining `{spacing.sm}` vertical and `{spacing.base}` horizontal padding with the observed button font-size. This section is a general responsive recommendation only; no live breakpoint, resize, or mobile-menu behavior was observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

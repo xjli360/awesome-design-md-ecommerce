@@ -4,6 +4,10 @@ name: "Carewell"
 source_url: "https://carewell.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A soft, reassuring presence in the elderly care space, Carewell wraps its interface in a clean white canvas and a single distinctive blue — #0070f3 — that appears only in primary CTAs, hover states, and the occasional link underline, never in backgrounds or decorative elements. The brand trusts generous whitespace, a restrained typographic palette drawn from system fonts (Segoe UI, -apple-system, Helvetica), and a muted gray scale (#6a6a6a for body text, #dddddd for hairlines) to create a calm, uncluttered reading experience. Cards and inputs use gentle rounding (`{rounded.sm}` 8px) rather than pills or hard corners — the interface feels approachable without being playful. The secondary blue #3291ff appears in hover states and secondary actions, adding a subtle layer of depth. There is no hero photography or illustration system visible in the extracted data; the brand lets its product categories (incontinence, mobility, bath safety, etc.) speak through clear, direct navigation and simple grid layouts. The overall mood is one of quiet competence — a digital tool that gets out of the way rather than demanding attention.
 
@@ -281,6 +285,13 @@ components:
 - Product grids reduce from 4 columns (wide) to 3 (desktop) to 2 (tablet) to 1 (mobile)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

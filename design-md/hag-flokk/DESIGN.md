@@ -4,6 +4,10 @@ name: "HAG (Flokk)"
 source_url: "https://www.flokk.com/en/us/hag"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Four shades of Nordic forest — running from near-black #0e352d down through #174e42 and #1f6e5e to the muted sage of #8ca6a0 — give HÅG's digital presence a chromatic depth most office-furniture brands flatten into a single brand green. The warmth comes from the canvas side: #fffbf3, a cream so gently off-white it reads almost like paper, contrasting with the forest walls without going clinical. A secondary warm strand — sand, linen, and auburn tones (#cbb6a7, #aa8e7f, #806a5f) — runs through imagery metadata and textile swatches, grounding the product in physical material rather than abstract brand color. Typography is divided between MessinaSerif and PostGrotesk, two typefaces that correspond almost architecturally to the brand's dual identity: the serif carries editorial authority in large-format display settings, while the grotesque handles precision legibility across product spec sheets, filter menus, and button labels. A proprietary FlokkIcons set locks icon weight to the house grotesque, ensuring interface glyphs never read heavier or lighter than surrounding label text. Two accent colors appear rarely but with force: #490f13, a near-black burgundy pressed almost into dried-lacquer territory, and #b84a59, a cooler rose clear enough for text usage on light surfaces; neither appears in structural navigation or primary CTA work — they surface in sale callouts, badge moments, or seasonal campaign rollouts, amplifying their signal through restraint. Geometry is deliberately understated: product cards sit at {rounded.sm}, input fields match, and primary CTAs step up modestly to {rounded.md} — no pill-shaped elements, no hard-cornered boxes, just a radius vocabulary that echoes the soft-edged profiles of the chairs themselves. Spacing is generous throughout: hero interiors breathe at {spacing.xxl} minimum and section-level vertical rhythm locks to {spacing.section}, giving product photography room to do the brand's heaviest lifting without additional graphic decoration.
 
@@ -365,6 +369,13 @@ components:
 - Product card grid: 3-col → 2-col at tablet → 1-col at mobile; image aspect ratio maintained throughout
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

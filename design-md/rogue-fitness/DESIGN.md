@@ -4,6 +4,10 @@ name: "Rogue Fitness"
 source_url: "https://www.roguefitness.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A black-and-steel ecosystem built for maximum force transfer — #3000ba, a deep electric violet that reads as neither corporate nor playful, serves as the brand's single voltage spike against a near-monochrome palette of #222927, #303634, and #212121. This is not a gym brand that uses red for urgency or green for "go" — it uses violet because the brand is the authority, not the cheerleader. The canvas is #f8f8f8, not pure white, giving the entire site a workshop-floor patina that matches the raw steel of a Monster rack or a Ohio barbell. Type runs Industry Ultra at display sizes — a condensed, squared-off sans that looks stamped into metal — paired with Roboto Condensed for body and navigation, creating a two-tier system where headlines shout and everything else steps back. Corners are nearly all hard: buttons use {rounded.sm} (4px), cards use {rounded.xs} (4px), and only the search bar and badge pills break to {rounded.full}. The color #c2003a appears as a limited alert accent, #53b82e as a stock-status green, but neither competes with the violet — the system trusts that one color to carry every primary CTA, every "Shop Now" link, every add-to-cart button. Spacing is generous but not luxurious: {spacing.lg} (24px) between sections, {spacing.base} (16px) inside cards, and {spacing.section} (64px) between major page blocks. The nav bar sits at 60px, dense with category links and a search bar that collapses on mobile. This is a brand that sells 500-pound squat racks — the design doesn't need to be friendly. It needs to be credible.
 
@@ -382,6 +386,13 @@ components:
 - Hero banner reduces font size progressively; CTA button remains full-width on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

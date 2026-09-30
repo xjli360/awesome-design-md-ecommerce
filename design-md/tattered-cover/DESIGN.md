@@ -4,6 +4,10 @@ name: "Tattered Cover"
 source_url: "https://www.tatteredcover.com"
 captured_at: "2026-09-28T10:32:51.043760+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Tattered Cover's storefront CSS exposes a restrained neutral palette anchored
   by near-black ink (#1c1c1c), off-white surfaces (#f5f5f5, #ffffff), and a
@@ -168,6 +172,13 @@ Recommended, not measured — the source CSS confirms only root-level spacing/ty
 Touch targets should be a minimum 44×44px for buttons and nav links per general accessibility guidance (not verified against this site). Primary navigation is expected to collapse into a slide-out or accordion menu below tablet width, consistent with the "Open navigation menu" control referenced in the page text, though the actual collapse mechanism was not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Lumi"
 source_url: "https://www.lumi.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every CTA on Lumi burns the same warm amber-orange (#ff5c28) against a near-black marketing canvas (#0d0d0d) — a single voltage that distinguishes this brand from the white-field-plus-generic-blue register of most B2B SaaS. The choice is intentional: Lumi sells packaging as infrastructure to founders and ops leads, and the dark-field-orange-signal pairing reads more like a logistics control room than a checkout page. Type is geometric sans-serif, most likely Inter or a close sibling, at compressed weights and tight negative tracking; headlines arrive at 52px, weight 700, with -1.5px letter-spacing — a specification-board density that signals a tool for operations professionals, not a lifestyle storefront. Corner radii stay spare: `{rounded.sm}` (4px) on buttons and inputs, `{rounded.md}` (8px) on cards, and fully square `{rounded.none}` on data-table rows. There is no pill button anywhere in the primary transactional flow.
 
@@ -385,6 +389,13 @@ components:
 - Footer switches from four-column to accordion-collapsed sections on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

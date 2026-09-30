@@ -4,6 +4,10 @@ name: "Peel"
 source_url: "https://www.buypeel.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A teal #108474 so deep and saturated it reads like oxidized copper — that single hex is the brand's entire argument for why a phone case can be both minimal and memorable. Peel's visual system is a study in reduction: product photography floats on #eeeeee canvases, text runs in Barlow at modest weights, and the only decorative flourish is the occasional Baskerville italic for a product name. The site reads like a magazine spread that happens to sell accessories — generous margins, full-bleed hero images, and a checkout flow that inherits Shopify's default #5c5f62 gray for form labels rather than introducing a custom palette. What makes Peel distinctive is what it refuses to do: no gradients, no drop shadows, no badge explosions. The primary CTA is a flat teal rectangle with white text, and the secondary action is an underlined link — no outline buttons, no pill shapes. Product cards use `{rounded.xs}` (4px) corners, barely perceptible, preserving the sharpness of the phone silhouette. The brand's secondary accent, a warm gold #fbcd0a, appears only in the star-rating widget and a single promotional banner, never competing with the teal. Typography stays in a tight range: 14–16px body, 20–24px display, with line heights never exceeding 1.5. The nav bar is a thin 48px strip, the logo sits left in Barlow Medium, and the cart icon is the only right-side element. Every design decision reads as "we edited until nothing remained to take away."
 
@@ -294,6 +298,13 @@ components:
 - Desktop: full nav visible, product grid at three columns, footer in four-column layout
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

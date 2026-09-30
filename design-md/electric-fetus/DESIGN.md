@@ -4,6 +4,10 @@ name: "The Electric Fetus"
 source_url: "https://www.electricfetus.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A Minneapolis institution since 1968, The Electric Fetus wraps its counterculture roots in a clean, almost gallery-like white canvas (#ffffff) that lets the product — vinyl, CDs, posters, and oddities — do the shouting. The brand’s voice is quiet but knowing, trusting Arial at 16px for body copy and a restrained 14px for captions, with no display type to compete with the kaleidoscope of album art and T-shirt graphics that fill every shelf. Navigation is a simple horizontal strip of uppercase links in a soft gray (#666666) that turns black (#000000) on hover, a nod to the store’s no-fuss, no-markup ethos. Buttons are solid black rectangles with white text, using {rounded.sm} corners that feel deliberate without being precious — this is a store that sells music, not a brand that sells itself. The search bar is a full-width white field with a subtle {hairline} border and a magnifying-glass icon, sitting below the nav like a utility rather than a hero feature. Product cards are white rectangles with a 1px {hairline} border, a 4px {rounded.xs} corner, and generous 16px padding around the cover art, title, artist, and price. The footer is a dense block of links in 12px Arial, organized into columns, with a copyright line that reads “© 2025 The Electric Fetus” — no newsletter signup, no social icons, no brand story. The site feels like the store: a place where the inventory is the personality.
 
@@ -352,6 +356,13 @@ components:
 - Breadcrumbs are hidden on mobile, replaced by a "Back" link
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

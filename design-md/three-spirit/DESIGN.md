@@ -4,6 +4,10 @@ name: "Three Spirit"
 source_url: "https://threespiritdrinks.com"
 captured_at: "2026-09-28T10:05:51.163791+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Three Spirit's observed palette centers on a warm off-white canvas (#f5f6ed) paired with near-black ink (#202020) for text, matching the site's CSS custom-property scheme for background and primary text. A saturated magenta-pink (#ff79f1) drives primary buttons and accent moments, set against dark (#202020) and light (#ffffff) surfaces for secondary buttons and cards. Supporting neutrals (#cbcbcb, #dedede, #c8c8c8, #777777) cover disabled states, hairlines, and muted text, while deep plum (#5c1162, #3a0d2e) and botanical greens (#3dbf2a, #57b847, #2fa81e) appear in the palette and are inferred here as elixir-category accent colors (Nightcap/plum, Social/green-adjacent) rather than confirmed UI roles.
   Typography is observed directly from CSS variables: 'PPMuseum' serves as the heading/accent face with a serif generic fallback, and 'ABCFavoritMono' serves as the body, subheading, and button face with a monospace generic fallback — both fallbacks are the generic keywords present in the supplied evidence, not specific named fallback fonts. Observed type scale values (11–64px) inform the proposed scale below. Buttons use pill radius (9999px, observed) and uppercase text-transform. This interpretation proposes a clean, editorial-meets-functional aesthetic: warm paper-like backgrounds, monospace utility text, and a single vivid accent color reserved for primary calls to action, echoing the brand's "botanical alchemy" positioning without inventing unobserved visual detail.
@@ -150,6 +154,12 @@ Recommendation only — no measured breakpoints were captured:
 Touch targets should meet a 44px minimum height; the observed `--ia-button-min-height-desktop: 48px` suggests buttons already satisfy this on desktop, but mobile sizing is not confirmed. Navigation collapse into a hamburger/drawer pattern is a standard proposal, not an observed interaction.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS variables and a page-text excerpt only; no rendered layout, DOM structure, or interaction states were observed. Hover, focus, active, and disabled visuals beyond the explicit `.ia-button:disabled` rule are proposed. Breakpoint values, grid structures, and mobile navigation behavior are inferred conventions, not measured. Semantic assignment of plum and green palette entries to specific elixir/wine categories is an inference from adjacent product copy, not a confirmed design token mapping. 'PPMuseum' and 'ABCFavoritMono' are custom fonts whose licensing and public availability were not verified; only their generic CSS fallback keywords (serif, monospace) are used per instruction. All hex values are reused directly from the supplied observed palette.

@@ -4,6 +4,10 @@ name: "Elliott Bay Book Company"
 source_url: "https://www.elliottbaybook.com"
 captured_at: "2026-09-28T10:11:07.664940+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from a production React/Ant Design bundle rather than
   from custom brand styling — the site is built on the Ant Design component library
@@ -164,6 +168,10 @@ Recommended (not measured) breakpoints:
 Touch targets should be at least 44×44px for primary/secondary buttons and search controls. Navigation and filter panels are recommended to collapse into an off-canvas drawer below the tablet breakpoint. None of this is derived from observed responsive CSS; it is a standard proposal for a bookstore catalog layout.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is generated from static CSS/text evidence only — no rendered screenshots, computed styles, or interaction states were captured. The bulk of the supplied CSS originates from Ant Design's default component library and Leaflet (a map plugin), not brand-authored styling, so the semantic color/typography mapping above (primary, accent, hero, event-listing, etc.) is an inferred interpretation layered onto neutral/system values, not a confirmed brand system. "Brown" and "Poppins," used for display and title typography, appear in the font-family evidence but their licensing, actual weight availability, and rendering on the live site are unverified. All spacing, radius, breakpoint, and component-state values (hover, focus, active, disabled) are proposed conventions, not measured from the site. The presence of react-rendered content behind a "You need to enable JavaScript" notice further limits how much of the live storefront's actual visual structure could be captured statically.

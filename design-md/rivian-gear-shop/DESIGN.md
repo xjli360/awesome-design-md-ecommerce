@@ -4,6 +4,10 @@ name: "Rivian Gear Shop"
 source_url: "https://rivian.com/gear-shop"
 captured_at: "2026-09-28T10:02:39.240899+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is grounded in CSS custom properties and inline styles captured from gearshop.rivian.com, a Shopify-based storefront for Rivian's adventure gear, apparel, charging equipment, wheels/tires, and parts. The observed system is high-contrast and neutral-first: pure black (#000000) foreground and button color against a white (#ffffff) canvas, with light gray (#f2f2f2) used as a secondary background and mid-gray (#606060) as a secondary foreground/muted tone. A narrow set of accent blues appears in interactive/utility contexts — #0066ff and #007aff as link/theme colors, and #1990c6/#136f99 as a checkout-button default and its hover state — which this spec treats as an inferred "accent" role suited to charging/electrical iconography. Warm and cool near-white tones (#f2e7db, #d9ecf2) also appear in the raw palette and are mapped here as soft surface variants for imagery-heavy product tiles, though their exact usage context was not confirmed. Font stacks reference custom families named "Adventure" and "Adventure Mono" with sans-serif/system-ui fallbacks; no weights or exact sizes beyond a 1.2rem/19.2px body base were confirmed, so the full type scale is proposed. Corner radii are taken directly from root tokens (12px input, 20px product/block, 50px pill button) and generalized into a compact rounded scale.
 
@@ -146,6 +150,12 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets are recommended at a minimum 44px height for buttons and inputs, consistent with the Shopify-supplied `--shopify-accelerated-checkout-button-block-size` default of 44px observed in the checkout CSS. Menu-drawer collapse behavior is inferred from class names only (`menu-drawer__utility-account-body`, etc.); actual collapse thresholds were not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

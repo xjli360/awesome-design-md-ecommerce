@@ -4,6 +4,10 @@ name: "iRobot"
 source_url: "https://www.irobot.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Harmonia Sans Pro — a Monotype humanist with gently broadened letterforms — distinguishes iRobot from the sterile geometric sans-serifs dominating consumer electronics; the font lends legible warmth to a palette that would otherwise read as purely clinical. The base dark slate (#3c4453) anchors every headline and navigation element as near-navy authority, while the vivid cyan (#00a1e0) fires on every CTA, interactive link, and icon accent — a color borrowed from precision-instrument display panels rather than lifestyle consumer retail. Unexpectedly, an amber-golden tone (#ebc172) surfaces in promotional ribbons and product highlights, creating a productive tension between a cool-signal tech register and the domestic approachability needed to sell autonomous devices to households rather than research labs. Sage greens (#447355, #008827) appear as status-indicator and eco-messaging tones — visible on robot lifecycle and "clean" filters — while a hard error-red (#cc0000) handles both alert states and urgency messaging when cyan alone is insufficient. The layout relies on full-bleed hero photography, robot products centered against near-white surfaces (#f9f9f9, #f7f7f7) to let hardware geometry carry visual weight. Cards use a modest {rounded.md} radius — functional rather than playful — and product taxonomy is organized by lifestyle segmentation ("For Pet Owners," "For Large Homes") sitting above specification-dense secondary text, bridging engineering credibility and consumer decision-making in a single component. Button labels run in uppercase with measured letter-spacing, reinforcing the precision-instrument register without tipping into aggression. The overall system is a controlled dual-register brand: cool-cyan engineering authority that warms at contact points through amber and sage, engineered for a consumer who wants proof of smart hardware, not just a clean floor.
 
@@ -481,6 +485,13 @@ Three semantic variants — info (pale cyan background, dark teal text), success
 - Hero with dual CTAs stacks them vertically (primary on top) below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

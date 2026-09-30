@@ -4,6 +4,10 @@ name: "Harley-Davidson"
 source_url: "https://harley-davidson.com"
 captured_at: "2026-09-28T04:30:17.975643+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation reflects the Harley-Davidson USA site's motorcycle-parts storefront, built on a stark black/white/orange foundation. The dominant accent, `#fa6600`, appears on the newsletter heading and on primary CTA buttons (cookie-consent "accept" action), with `#e65200` as its confirmed hover/focus state. A secondary neutral action uses `#4e4e4e` with `#626262` hover, suggesting a paired primary/secondary button system. Borders and disabled/secondary UI elements use mid-grays (`#757575`, `#cccccc`, `#e1e1e1`), while panel backgrounds in the parts-fitment widget use light off-white surfaces (`#f4f4f4`). Canvas is pure white; ink is pure black, consistent with a high-contrast industrial brand.
 
@@ -151,6 +155,11 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets should be a minimum of 44×44px, exceeding the observed 2.25rem (36px) search-button height for mobile contexts. Navigation and fitment-panel filters are expected to collapse into accordions or drawers on narrow viewports; this collapse behavior was not observed and is a proposed pattern only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Evidence was extracted from static CSS/HTML sources; no live rendering, computed layout, or viewport testing was performed.

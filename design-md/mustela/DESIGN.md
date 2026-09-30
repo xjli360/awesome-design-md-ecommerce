@@ -4,6 +4,10 @@ name: "Mustela"
 source_url: "https://mustelausa.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A blue-and-white clinical warmth, where #004d9d (a deep, confident navy) anchors every primary action and #00b2ff (a crisp, medical-grade cyan) signals interactive moments across a baby-care site that refuses to be saccharine. The palette reads more like a pediatrician’s office than a nursery — #f2f6fa (a cool, almost-ice canvas) replaces the expected pastel pink or mint, while #4a5464 and #728197 provide a slate-gray body hierarchy that keeps product photography (creams, lotions, oil bottles on white backgrounds) as the sole source of softness. Work Sans, a geometric sans-serif with open apertures, runs at moderate weights (400–600) and never above 28px, letting the brand’s French-pharmacy heritage speak through clean layout rather than typographic flourish. Buttons carry {rounded.sm} corners — not pill-shaped, not sharp — a deliberate midpoint that feels both approachable and precise. The Shopify platform reveals itself in the checkout-widget blues (#dcdfe5, #dedede) that creep into the extracted palette, but the brand’s own voice is the navy-cyan binary: #004d9d for add-to-cart and nav bars, #00b2ff for hover states and secondary accents. Product cards use a white surface ({colors.surface-card}) with a thin #dcdfe5 hairline, and the footer collapses into a dense, link-heavy block on #23282f — a dark inversion of the otherwise airy layout. The overall effect is trustworthy, dermatologist-adjacent, and deliberately un-cute: Mustela sells baby skincare the way a medical brand sells efficacy, not emotion.
 
@@ -376,6 +380,13 @@ components:
 - Cart drawer (if used) slides in from the right on all breakpoints, but becomes full-width on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Mindzai"
 source_url: "https://www.mindzai.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   #ff5268 arrives in Mindzai's grid the way a chase variant surfaces inside a sealed blind box — unexpected, electric, snapping an otherwise near-monochrome layout into focus. The store trades in designer toys, blind boxes, and art objects from labels spanning Kidrobot to dozens of independent studios, and the visual system honors that collectible logic: a controlled palette of off-blacks (#111111, #1e1e1e, #121212) and neutral grays (#888888, #dedede) acts as the neutral vitrine, while the coral-red primary is deployed only where intent matters — add-to-cart calls, sale badges, hover borders, checkout rails. Nothing competes with the product photography. The canvas is white with occasional warm off-white surfaces (#e5e3df, #f2f4f6) that read like gallery walls rather than sterile boxes. Product cards carry hard, unrounded corners — no softening — signaling editorial seriousness: each toy is an art object catalogued, not merchandised. Dark-field hero panels (#1e1e1e) handle feature drops and limited releases, contrasting against the bright grid below with the tonal shift of an announcement rather than decoration. Font extraction returned nothing, meaning all typeface tokens load client-side via JavaScript; from visual inspection the store favors a clean system sans-serif at modest weights, display text settling around 700 weight while body copy sits at 400, creating a sharp hierarchy without custom letterforms. Uppercase micro-labels on badge elements and filter controls carry tight letter-spacing, borrowing the vocabulary of streetwear and art-print labels that share shelf space here. Navigation runs two rails: a thin announcement strip in near-black for shipping notices, then the main bar in white with logo, category links, and icon cluster for search, wishlist, and cart. The footer inverts to a dark field with warm gray text, reinforcing the two-tone grammar of the whole site. Blind-box products surface an additional mystery indicator in the badge system — the same coral used for sale flags — because in collectible culture, the unknown is precisely the selling point.
 
@@ -385,6 +389,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

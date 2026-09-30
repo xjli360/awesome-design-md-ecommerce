@@ -4,6 +4,10 @@ name: "Misfit"
 source_url: "https://www.misfit.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every hero frame renders hardware against pure darkness — an absolute near-black (#0a0a0a) that dissolves product edges and makes an aluminum Shine disc or Vapor bezel appear self-luminous rather than lit from outside. Type stays skeletal: display headings rarely cross 500 weight, treating the white-on-black contrast as the entire statement rather than typographic muscle. The brand's geometry is circular everywhere it matters — watch faces, tracker discs, product thumbnails — and that circle logic bleeds into UI as `{rounded.full}` pill buttons and circular icon badges. Navigation reads like a product catalog rather than a feature list: a minimal horizontal bar, wordmark anchored left, three or four destination links right, no mega-menu, no promotional banners crowding the header. The palette runs close to monochrome with a single cool-cyan accent (`#00b8d9`) reserved for primary CTAs and active-state underlines, a choice that reads as precision engineering rather than brand color play. Product cards float on `{colors.surface-card}` (#1a1a1a) with no visible border — separation comes from the depth delta between card and canvas, not from hairlines. Spacing is generous on desktop, with section padding that mirrors the breathing room around a physical product on a shelf rather than the compressed grid of a deal-driven retailer. The Misfit brand sits at the intersection of fitness tracking and fashion accessory, and the UI encodes that duality: spec tables and metric dashboards use the same restrained type scale as editorial hero copy, so the page never feels like it switches between gadget store and lifestyle magazine. Because no color or font tokens could be extracted from the live site (likely JS-loaded or behind anti-bot), the palette and typography below are inferred from Fossil Group brand history, archived Misfit product pages, and the documented visual language of Misfit Vapor and Shine product lines — treat all values as approximate and verify against computed styles before production use.
 
@@ -348,6 +352,13 @@ components:
 - Footer columns stack vertically in two groups (navigation links, legal/social) on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

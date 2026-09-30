@@ -4,6 +4,10 @@ name: "Satchel & Page"
 source_url: "https://satchel-page.com"
 captured_at: "2026-09-28T09:48:44.060183+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Satchel & Page's public CSS evidence points to a utilitarian, no-nonsense
   Shopify storefront built around heritage leather goods. The observed
@@ -146,6 +150,12 @@ components:
 Recommended, not measured, breakpoints: mobile ≤480px (single-column stack, hamburger nav confirmed by "Toggle mobile menu" text, full-width buttons, swatches enlarged to ≥44px touch target), tablet 481–1024px (2-column product grid, condensed nav), desktop ≥1025px (mega-menu nav bar, 3–4 column product grid, hero at full display-xl scale). All interactive targets (buttons, swatches, nav toggle) should maintain a minimum 44×44px hit area per common accessibility guidance; this is a proposal, since no live responsive layout, media query, or touch-interaction evidence was captured.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

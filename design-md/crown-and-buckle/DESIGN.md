@@ -4,6 +4,10 @@ name: "Crown & Buckle"
 source_url: "https://www.crownandbuckle.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Gold hardware against warm cream — #c59529 sits at the center of Crown & Buckle's palette the way a gilt buckle clasp catches light on a leather deployant. The brand runs its entire visual language through this amber-gold primary: hover states, price callouts, active nav underlines, and the occasional badge all reach for that same warm metal tone before anything else. The canvas is never pure white; instead #eeebe4, a slightly toasted off-white, reads like aged linen or unbleached cotton — exactly the material a high-quality strap arrives wrapped in. Beneath it sits #f4ebd7, a deeper parchment used for surface differentiation without introducing cold gray. The near-black ink at #231f20 carries a brownish warmth that avoids the harshness of true black, reinforcing a brand that positions itself in the horological enthusiast space rather than the mass-market segment. A rust accent at #a72d0a handles error states and clearance callouts — it reads as patina rather than alarm. Type is set in Proxima Nova for display and interface work, falling back to Open Sans and Helvetica Neue; the stack skews humanist and slightly editorial, consistent with a catalog-driven retailer whose product photography does heavy lifting. Rounded corners are minimal — buttons and inputs use modest {rounded.xs} to {rounded.sm} values that read as precise and machined rather than soft and consumer. The overall spatial rhythm is generous: product grids breathe, filter panels collapse cleanly, and strap detail pages stack specifications in tight monospaced type against the cream ground, evoking a watchmaker's reference card more than a typical accessories e-commerce layout.
 
@@ -406,6 +410,13 @@ components:
 - Breadcrumb truncates middle segments with ellipsis on viewports below 480px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

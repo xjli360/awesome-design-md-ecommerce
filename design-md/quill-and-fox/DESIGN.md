@@ -4,6 +4,10 @@ name: "Quill & Fox"
 source_url: "https://quillandfox.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Paper weight is Quill & Fox's first design argument — the brand photographs its goods pressed flat against raw linen or pale oak, where grain and texture do the persuading before any headline arrives. The visual system builds outward from a parchment-tinted canvas (#FDFAF5) that refuses the sterile white of commodity e-commerce, warming every page with the low glow of a well-lit writing desk. Fox-copper (#C4622D) lands as the single voltage point — on envelope seals, on primary CTA buttons, on the ampersand in the wordmark — making one heat tone do sustained structural work rather than decorative spotting. Display type runs in an editorial serif (Freight Display or a close stand-in) at regular weight 400, large enough that a 52px headline at {spacing.section} margin creates the breathing room of a quality print catalogue rather than a storefront. Body copy switches to a clean humanist sans at 16px/1.65 line-height, a ratio suited to extended paper-spec descriptions and ruling-style essays, not just product blurbs. A near-black ink (#1A1714) carries warmth, as if walnut oil were mixed into the carbon; the mid muted (#7A6F67) handles secondary text without going generic gray. A deep forest tone (#2E4A3A) appears on seasonal folio collections and gift-wrapping detail pages, holding the nature-adjacent positioning that both quill and fox imply. Corner radii are almost architectural — {rounded.none} on buttons and inputs, {rounded.xs} on cards — echoing the shear-cut precision of good paper stock; only category pills and search chips float on {rounded.full} to signal browsability. Spacing is generous throughout: product grids breathe at {spacing.xl} gutters, section breaks hold at {spacing.section}, and single-product editorial layouts stretch to full viewport width before the content column retreats to a readable 720px line length. The nav sits narrow and lean at 64px with one hairline below, deferring entirely to the flatlay photography and ink-prose voice that carry the actual brand.
 
@@ -412,6 +416,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "McGee & Co"
 source_url: "https://www.mcgeeandco.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A warm cream ground (#f8f7f3) greets the eye before anything else — the color of unbleached linen left in afternoon sun, not the sterile white of most Shopify storefronts. Against this canvas, McGee & Co builds its visual identity on a deep plum (#4d384b) that surfaces in primary CTAs and key navigation accents, a color pulled from dried lavender arrangements and aged wood stain rather than any digital-native palette. The secondary voice comes from a graduated sage-green family (#739a79 through #3e714e) that threads through badges, availability indicators, and collection category markers, evoking the eucalyptus and olive branches that populate the brand's editorial photography. Typography pairs a Garamond-lineage serif for display headings — large, airy, with visible stroke contrast — against Neue Haas Grotesk Regular for body copy at 16px, a combination that reads like a shelter magazine editorial rather than an e-commerce grid. The serif does the emotional work; the sans-serif handles legibility. Buttons and cards use minimal rounding (`{rounded.xs}` to `{rounded.sm}`) to maintain the architectural, rectilinear quality that mirrors the furniture and cabinetry McGee & Co sells — no pills, no heavy radii, just enough softening to avoid clinical sharpness. The warm neutral palette (#eceae2, #c2bcac, #656159) fills surface layers, card backgrounds, and hover states, creating depth without introducing color that would compete with product photography. Spacing is generous and editorial: `{spacing.section}` between content blocks, `{spacing.xl}` gutters in product grids, and `{spacing.lg}` internal card padding all let the furniture breathe the way a well-styled room would. The overall density is low — fewer items per row, larger images, more whitespace — signaling that this is a curated collection, not a marketplace. Every surface whispers warmth: from the peach-tinted promotional banners (#f9eddc) to the taupe dividers (#c2bcac), the digital experience feels like walking through a sun-filled showroom where someone has already edited out everything that doesn't belong.
 
@@ -457,6 +461,13 @@ components:
 - Breadcrumbs truncate middle segments on mobile, showing only parent and current
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

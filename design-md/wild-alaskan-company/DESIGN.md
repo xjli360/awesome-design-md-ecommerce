@@ -4,6 +4,10 @@ name: "Wild Alaskan Company"
 source_url: "https://wildalaskancompany.com"
 captured_at: "2026-09-28T04:34:36.765634+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Wild Alaskan Company's marketing stylesheet establishes a coastal, editorial palette anchored by a deep navy (#0d334c) used for all headings and primary buttons, paired with a warm red-orange (#d63518) as the Bootstrap "danger" accent. Body copy runs in a near-black (#212529) on white (#ffffff), with light grey-blue surfaces (#f8f9fa, #e7edf1) available for cards and sectioning, and a soft hairline (#dee2e6) for dividers and input borders. A muted slate (#6f828f) doubles as the Bootstrap secondary color and a probable caption/label tone.
 
@@ -165,6 +169,13 @@ components:
 Touch targets should maintain a minimum 44px height for buttons and inputs on xs/sm; the nav should collapse below `md` per typical Bootstrap-derived patterns. None of this collapse/drawer behavior was directly verified in the supplied CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

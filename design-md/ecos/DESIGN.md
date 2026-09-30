@@ -4,6 +4,10 @@ name: "Ecos"
 source_url: "https://ecos.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A cleaning brand that wears its chemistry on its sleeve, Ecos builds its visual identity around a deep teal (#00587c) that reads more like a tidepool than a corporate blue, paired with a sharp cyan (#00afd7) that acts as the system's voltage — appearing on buttons, badges, and the occasional headline accent. The palette is unexpectedly broad for a cleaning brand: a warm peach (#fa9b57), a muted coral (#f7763f), and a series of pinks (#e34876, #dc327c, #c73390) that suggest the brand is comfortable with color as a wayfinding tool across product categories rather than relying on the expected green-and-white "eco" cliché. Typography leans on GT Walsheim across weights (Light, Regular, Medium, Bold) for a clean, slightly geometric sans that feels both modern and approachable, with Avenir Next and Open Sans as fallbacks. The canvas is a warm off-white (#fef6ef) rather than pure white, giving the site a softer, more tactile feel than the typical cleaning aisle. Rounded corners appear consistently — buttons and cards use {rounded.sm} to {rounded.md}, while badges and pills go to {rounded.full} — creating a friendly, non-industrial surface language. The brand's secondary palette includes a chartreuse (#cedc00) that appears in sustainability badges and callout boxes, and a deep navy (#141b38) used for footer backgrounds and heavy text, creating a clear hierarchy between the warm canvas and the cool, aquatic primary tones.
 
@@ -324,6 +328,13 @@ components:
 - Category navigation strip becomes horizontal scrollable on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

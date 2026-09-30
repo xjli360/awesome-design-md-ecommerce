@@ -4,6 +4,10 @@ name: "Lisson Gallery"
 source_url: "https://www.lissongallery.com"
 captured_at: "2026-09-28T04:12:57.059183+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Lisson Gallery's public site exposes a deliberately restrained palette anchored in
   near-absolute black (#000000) and white (#ffffff), consistent with a contemporary
@@ -169,6 +173,13 @@ This is a recommendation only; no live responsive layout was observed. The evide
 Touch targets should be a minimum 44×44px hit area for `button-primary`/`button-secondary`. Nav items should collapse into a hamburger/drawer pattern below the tablet breakpoint (proposed, not observed). Search should expand to a full-width overlay on mobile (proposed).
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

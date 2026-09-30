@@ -4,6 +4,10 @@ name: "UniqueMe"
 source_url: "https://www.uniqueme.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The name is the first design decision — "UniqueMe" presses the possessive first person directly against the promise of distinction, and every surface in the interface exists to honor that contract. Phone cases and screen protectors are commodity objects; UniqueMe's design language works to de-commodify them by leaning into personalization cues: individual product cards framed like portraits, category filters styled as identity chips rather than flat tabs, and a primary violet that reads as creative rather than corporate. Without live color or font extraction (the site appears to load tokens via client-side JavaScript, defeating static analysis), the palette below is reconstructed from brand positioning rather than measured pixels — a vibrant #7b2ff7 anchors CTAs and active states, pulling away from the navy-and-orange patterns saturating the accessories category. Canvas stays pure white (#ffffff), and a whisper of lavender bleeds into soft surfaces (#f6f3ff) so even background planes carry a faint brand signature. Typography follows a modern geometric sans approach — high x-height, generous letter-spacing on labels — suited to product names that often run long (model-specific strings like "iPhone 15 Pro Max compatible" demand compression without loss of legibility). Rounded corners are deliberately friendly: `{rounded.lg}` on product cards, `{rounded.full}` on pill filters and the search bar. The category — Cell Phones & Accessories — demands fast scannable grids, trust signals (compatibility badges, material callouts), and a checkout funnel that stays unobstructed by decorative weight. Spacing is compact at the product grid level but opens up generously in the hero, where lifestyle imagery earns room to breathe at `{spacing.section}` padding. The overall register is confident and youthful without shouting — a brand that believes personalization is a serious act of self-expression, not a novelty upsell.
 
@@ -430,6 +434,13 @@ components:
 - Trust badge bar: single horizontal row → 2×2 grid on mobile with equal-weight cells
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

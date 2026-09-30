@@ -4,6 +4,10 @@ name: "Offroad Alliance"
 source_url: "https://offroadalliance.com"
 captured_at: "2026-09-29T04:00:04.254763+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Offroad Alliance's captured CSS reflects a Bootstrap 4.1.3 foundation layered with light custom theming for a heavy-duty automotive parts catalog. The observed palette centers on a utilitarian near-black/white pairing (#111111, #212529, #333333 on #ffffff) with a saturated red (#cc171d, #cc4749) used sparingly for brand emphasis in header elements. Grays (#e5e5e5, #f4f4f4, #dee2e6, #f7f7f7) supply hairlines and soft surfaces typical of dense mega-navigation and table-heavy catalog pages. Bootstrap's status colors (#28a745, #dc3545, #17a2b8, #ffc107) remain available for inventory/availability badges but no confirmed custom usage was observed beyond the framework defaults.
   Typography is system-stack driven (-apple-system, Segoe UI, Roboto, Helvetica Neue, Arial), consistent with an unthemed Bootstrap body font; Montserrat, Karla, and Source Sans Pro appear in the font manifest and are treated here as inferred display/heading candidates for a more branded off-road aesthetic, not confirmed as currently rendered. The interpretation proposes a rugged, dense-navigation commerce layout: bold nav labels, red accent CTAs, and card-based category browsing suited to a 4x4 parts inventory. All semantic role assignments (ink, muted, hairline) are inferred from generic Bootstrap variable usage, not brand-specific declarations.
@@ -151,6 +155,13 @@ Breakpoints below are a recommendation inferred from the media-query strings pre
 Touch targets should meet a 44px minimum; the observed `#customMainNav` 50px min-height satisfies this for primary nav items. Mobile collapse of the extensive category tree into an accordion-style toggle is recommended given the depth of the evidenced taxonomy, but this interaction was not observed directly.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no live rendering, computed styles, or DOM screenshots were available. Several colors (e.g., Bootstrap contextual palette) appear in the source but their applied usage on this specific site was not confirmed beyond framework defaults. The brand red's exact hex (`#ed1520` appeared only in inline component CSS, not the root observed palette) was normalized to the closest confirmed palette value, `#cc171d`. Font family assignments for headings (Montserrat) are inferred from the font manifest, not from confirmed selector-level declarations, and licensing/availability of any named font was not verified. All spacing, radius, and typographic scale values beyond the single confirmed `#customMainNav` rule are proposed defaults for internal consistency, not measured site output. Mobile menu interaction, hover/focus states, and animation timing were not observed and are marked proposed throughout.

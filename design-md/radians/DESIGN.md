@@ -4,6 +4,10 @@ name: "Radians"
 source_url: "https://www.radians.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Eurostile Extended does the heavy lifting at Radians — the wide, squared-off geometry of that typeface signals industrial authority before a single word registers, positioning safety equipment the way aerospace manufacturers label cockpit controls: functional, legible at a glance, no excess. The brand's primary color, #c8102e, walks the line between corporate red and OSHA danger-signal red, a deliberate ambiguity that makes product packaging and digital surfaces reinforce each other without redundancy. A secondary blue (#1e8ecd) handles informational UI — product filters, links, interactive indicators — while a safety-yellow-green (#d2de28) marks promotional callouts and compliance badges, echoing the high-visibility colorways of the PPE products themselves. The overall surface treatment is near-white (#fefefe) with light gray fills (#eeeeee, #f3f3f3) and a controlled range of neutral grays (#444444, #5e5e5e, #707070) that create clear hierarchy without resorting to black. Corners are sharp or nearly so — a 4px maximum radius on most interactive elements; the brand never softens into consumer-friendly pill shapes because the audience is a procurement manager or safety director specifying compliant gear for a workforce, not a shopper browsing aesthetics. Product cards foreground compliance certifications — ANSI/ISEA ratings, protection-level classifications — as prominently as price, rendered in small-caps badge weight at the card base. The search experience surfaces by product category first (Eye Protection, Hearing, Gloves, Hi-Vis, Head Protection), then by compliance standard, a navigation hierarchy that mirrors how safety professionals actually spec purchases rather than how general retailers organize assortments. A two-tier navigation — a dark charcoal (#393b44) utility bar above for account and dealer tools, a white category bar below — reinforces that Radians serves both end-users and B2B procurement channels simultaneously.
 
@@ -352,6 +356,13 @@ components:
 - Two-tier nav collapses to a single-height bar; utility bar content moves into drawer top section
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

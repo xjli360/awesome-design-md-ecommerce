@@ -4,6 +4,10 @@ name: "Three Wishes"
 source_url: "https://threewishescereal.com"
 captured_at: "2026-09-29T04:06:38.208397+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Three Wishes presents its low-sugar cereal and granola line with a warm,
   playful visual system built around a dark cocoa-brown (#3a1d00) paired with
@@ -160,6 +164,13 @@ This breakpoint table is a **recommendation**, not measured site behavior; no me
 Touch targets should be no smaller than 44px; the flavor-buy-buttons `__btn` min-height of 3rem (48px) already satisfies this and is used as the baseline for other interactive controls. Secondary/tertiary nav items should collapse into a drawer or sheet below 640px; exact collapse behavior was not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

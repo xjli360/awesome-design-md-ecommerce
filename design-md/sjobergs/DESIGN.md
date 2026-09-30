@@ -4,6 +4,10 @@ name: "Sjobergs"
 source_url: "https://sjobergs.se"
 captured_at: "2026-09-29T04:14:32.565664+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Sjöbergs sells Swedish-made workbenches, benches, and workshop cabinetry for
   professionals, schools, and hobbyists. The extracted stylesheet exposes a
@@ -155,6 +159,13 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets should be at least 44px tall (aligned with the observed Shopify accelerated-checkout button clamp of 25–55px). Primary nav and category mega-menus should collapse into an accordion or drawer below tablet width; this collapse behavior is a recommendation and was not observed in captured markup.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

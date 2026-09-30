@@ -4,6 +4,10 @@ name: "NI (National Instruments)"
 source_url: "https://www.ni.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   FinancierDisplay — a typeface born in financial editorial — anchors the hero of a test-and-measurement instruments company, and that incongruity is the first thing to understand about NI's visual identity. The serif carries institutional authority without aggression, pairing with FoundersGrotesk's clean geometric weight to give instrument data and marketing prose a shared voice that reads as rigorous rather than corporate. The primary brand anchor is #044123, a forest green so saturated it reads nearly black in isolation and only reveals its chroma when the electric mint #03b585 or the high-voltage #32eb96 ignites alongside it in interactive states, data overlays, and success indicators. Blue (#0d6efd, #0a58ca, #084298) arrives as a secondary palette inherited from Bootstrap's utility layer — status badges, info callouts, link text — rather than as brand ambition, which keeps the verdant greens legible as identity rather than system chrome.
 
@@ -485,6 +489,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

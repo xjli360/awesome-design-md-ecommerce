@@ -4,6 +4,10 @@ name: "Holdit"
 source_url: "https://www.holdit.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A Swedish phone-accessory brand that wraps its products in a near-monochrome palette anchored on #ebebeb, a warm light gray that reads as soft-touch silicone rather than cold digital metal. The brand's only color voltage is #2563eb — a saturated, almost electric blue that appears on every primary CTA, every add-to-cart button, and every active navigation element, creating a single-point focus against the otherwise neutral canvas of #f5f5f5 and #ffffff. The extracted palette reveals a system built on tonal grays — #6b7280 for body text, #9ca3af for muted labels, #898989 for secondary information — with #1d1b1b and #1a1a1d serving as deep ink for headlines and product titles. A sharp #f40000 red appears sparingly, likely for sale badges or error states, providing the only secondary accent in an otherwise restrained system. Typography runs system-native stacks — -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue — suggesting a performance-first approach where loading custom fonts is deemed unnecessary for the clean, utilitarian product pages. The design language favors generous whitespace, soft pill-shaped buttons ({rounded.full}), and product cards with subtle rounding ({rounded.md}) that echo the rounded corners of the phone cases themselves. There is no visual noise — no gradients, no heavy shadows, no decorative flourishes — just a clear hierarchy of product photography against a light gray backdrop, with the blue CTA as the single action point on every page.
 
@@ -298,6 +302,13 @@ components:
 - Product detail page moves image gallery above description on mobile, with sticky add-to-cart button at bottom of viewport
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

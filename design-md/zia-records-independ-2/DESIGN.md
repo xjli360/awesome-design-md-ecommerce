@@ -4,6 +4,10 @@ name: "Zia Records"
 source_url: "https://www.ziarecords.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep indigo #222299 — the color of a desert night sky just after dusk — serves as the brand's primary voltage, a deliberate departure from the warm earth tones typical of Southwestern retail. This blue anchors a system built around high-contrast legibility: pure white `{colors.canvas}` backgrounds against dense navy `{colors.ink}` body text, with a secondary navy #223355 used for navigation bars and section headers that feel weighty without being heavy. The palette is intentionally restrained — no accent colors, no gradients, no decorative flourishes — because Zia Records trusts the visual noise of album art, concert posters, and merchandise photography to supply all the color the page needs. Typography runs through Font Awesome icon packs for utilitarian navigation symbols and category badges, while body copy relies on system fonts for maximum readability across the sprawling inventory of used and new vinyl, CDs, and collectibles. The interface reads like a well-organized record bin: clean, browsable, and built for the kind of patient exploration that crate-digging demands. Every button uses `{rounded.sm}` corners — soft enough to feel approachable, square enough to avoid frivolity. Search is the primary interaction pattern, surfaced as a full-width bar with a magnifying-glass icon, reflecting the reality that customers come hunting for specific pressings, artists, or formats. The footer collapses into a dense information grid of store locations, hours, policies, and social links — Zia is a regional chain with six stores, and the site must serve both locals checking in-store inventory and online shoppers browsing the web catalog. The overall mood is utilitarian warmth: no marketing copy, no lifestyle photography, just the raw inventory of a record store that has been doing this since 1980.
 
@@ -412,6 +416,13 @@ components:
 - Search bar collapses to an icon button on mobile, expanding to full-width when activated
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

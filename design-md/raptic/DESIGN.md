@@ -4,6 +4,10 @@ name: "Raptic"
 source_url: "https://www.rapticstrong.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A dark canvas of #111111 sets the stage for a brand that sells armor for phones — not through grit, but through a clean, almost surgical precision. The primary voltage is #108474, a deep teal that reads as industrial and reliable, not playful; it appears on primary CTAs, selected states, and the brand's signature badge system. A secondary accent of #ffac00 (amber) and its near-twin #fbcd0a (golden yellow) provide the only warmth, used sparingly on sale flags, rating stars, and promotional ribbons. The typography stack pairs Archivo (a geometric sans with sharp, squared terminals) for display and button text with Nunito Sans (a softer, rounded sans) for body copy — a deliberate tension between the brand's protective, angular hardware and the approachable interface that sells it. Every corner is softly rounded ({rounded.sm} on buttons, {rounded.md} on product cards), but never pill-shaped: the brand avoids the friendly extremes of consumer tech, preferring a 12px radius that feels engineered rather than cuddly. The checkout flow, powered by Shopify, introduces a secondary palette of social-login blues (#3b5998, #1da1f2, #dd4b39) and payment-widget colors, but the core experience stays anchored in the dark teal and near-black (#121212) of the navigation and footer. Product cards float on a #f9fafb canvas with #eeeeee dividers, and the star-rating system uses #ffac00 against #555555 text — a consistent signal that the brand's confidence comes from protection, not personality.
 
@@ -419,6 +423,13 @@ components:
 - Search bar collapses to an icon on mobile, expanding to full-width on tap.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

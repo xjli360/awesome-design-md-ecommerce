@@ -4,6 +4,10 @@ name: "Gladstone Gallery"
 source_url: "https://www.gladstonegallery.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every surface on Gladstone Gallery's site reads as a prepared wall — the near-white canvas (#f8fafa) and hairline grays (#eaeaea, #dae2e2) replicate the white-box gallery interior with such fidelity that the interface itself becomes exhibition space. The single chromatic departure is a muted teal-slate (#647b7d), a color that reads neither green nor gray but occupies the precise frequency of mineral pigment — linen pressed against stone. It appears in navigation links and interactive states without ever asserting itself as a brand voltage; the gallery withholds that kind of declaration. Frame Head carries display text: an editorial face whose letterforms carry the slight authority of a museum label, spaced generously and set at low weight so the white field around each headline is as active as the type itself. Basel Grotesk runs body copy and UI chrome — a contemporary grotesque with enough optical neutrality to disappear into caption text and emerge again in navigation without tonal inconsistency. Buttons have no radius; every interactive element sits flush to a rectangular boundary, echoing the orthogonal hang of framed work. The spacing system opens wide at section level, using {spacing.section} and above to create the breath between content blocks that a gallery visitor would read as contemplation distance. Color roles compress to near-monochrome: lighter teal (#b2c4c5) marks hover and selection states, #dae2e2 defines soft surface boundaries, and deep teal-slate serves as the sole accent. There are no gradients, no shadows with color, no decorative motifs — only type, image, and the deliberate emptiness between them.
 
@@ -320,6 +324,13 @@ components:
 - Footer columns: 4-up → 2-up → stacked single column; newsletter input always full-width
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

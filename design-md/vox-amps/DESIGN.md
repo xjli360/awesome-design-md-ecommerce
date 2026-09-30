@@ -4,6 +4,10 @@ name: "Vox Amps"
 source_url: "https://www.voxamps.com"
 captured_at: "2026-09-29T04:08:06.081130+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from voxamps.com, the current parent-hosted
   storefront for the VOX amplifier and cabinet line (AC30, AC15, AC10 Custom,
@@ -160,6 +164,13 @@ components:
 Touch targets should be at least 44×44px for buttons and nav items. This table and all collapse/stacking behavior are recommendations only; no live responsive layout, hover state, or breakpoint was captured from the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Evidence is static CSS/text extraction; no rendered layout, hover, focus, or animation states were observed.

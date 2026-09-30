@@ -4,6 +4,10 @@ name: "Ritual"
 source_url: "https://ritual.com"
 captured_at: "2026-09-28T04:10:46.922280+00:00"
 evidence_status: "historical_partial_css_evidence"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep navy (#142b6f) anchors Ritual's entire experience — not as a background but as the brand's primary identity color, appearing on every key CTA, the site header, and the signature subscription flow. This is a brand that communicates scientific rigor through color rather than clinical sterility: the navy reads as authoritative without being cold, paired with a warm marigold (#ffd600) that appears exclusively on the "Add to Cart" button and select promotional badges, creating a visual voltage that says "trust this product" rather than "buy this thing." The supporting palette is intentionally muted — a pale blue-gray (#a1aac5) for secondary text and borders, a whisper-light off-white (#eaeef0) for the main canvas, and a restrained charcoal (#141414) for body copy. What makes Ritual's system distinctive is the absence of a true white background: the canvas is always slightly tinted (#eaeef0 or #fcf8ee), giving every page a soft, editorial warmth that distinguishes it from the stark white of supplement competitors. Typography runs CircularXX at moderate weights — display headlines sit at 500 weight rather than the heavy 700s of clinical brands, and body copy at 400 with generous line-height (1.6) creates a reading experience closer to a premium magazine than a nutrition label. The brand's visual signature is the "see-through" product photography — clear capsules with visible ingredients — which the UI supports with generous whitespace, soft card radii ({rounded.md}), and a complete absence of hard visual edges. Every interaction feels considered but not precious: buttons have a subtle 8px rounding ({rounded.sm}), input fields use a 4px rounding ({rounded.xs}), and the only full-pill radius ({rounded.full}) appears on the search bar and the "Subscribe" badge, marking those as the two most important user actions.
 
@@ -366,6 +370,13 @@ components:
 - Subscription quiz steps collapse from a side-by-side layout to stacked cards on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

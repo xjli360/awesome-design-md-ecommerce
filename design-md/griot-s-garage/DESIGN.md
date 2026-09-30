@@ -4,6 +4,10 @@ name: "Griot's Garage"
 source_url: "https://griotsgarage.com"
 captured_at: "2026-09-28T04:29:16.950660+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Griot's Garage presents as a high-contrast, red-accented commerce theme built on a
   BigCommerce Stencil base. The confirmed palette centers on a signature red
@@ -153,6 +157,13 @@ Breakpoint evidence in the supplied CSS references matched media widths of 375px
 Touch targets should meet a 44px minimum height, consistent with the observed button padding (`.875rem 3rem`). Navigation collapse to a hamburger/off-canvas menu below the tablet threshold is a proposed pattern, not an observed interaction.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/color extraction only; no live page rendering, computed styles, or DOM screenshots were available. Semantic role assignments (e.g., which grays are "hairline" vs. "muted," or how dark-red/dark-navy variables are actually applied) are inferred from variable naming and adjacency, not confirmed usage sites. All typographic sizes beyond the confirmed 1.25rem button size are proposed estimates, not measured. Mobile menu behavior, hover/focus states beyond the two confirmed button rules, carousel interaction, and modal/close-button placement are not verified beyond the single `.close` button rule supplied. Availability, licensing, and web-font loading of BentonSansStdRegular/Condensed families are unverified and may require licensed font files rather than open-source substitutes.

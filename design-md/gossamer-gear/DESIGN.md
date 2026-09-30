@@ -4,6 +4,10 @@ name: "Gossamer Gear"
 source_url: "https://www.gossamergear.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A brand built for the trail, where #4990e2 — a cool, confident blue — acts as the single voltage that powers primary CTAs, cart buttons, and key interactive elements against a near-white canvas of #f2f2f2. The tagline "take less. do more." isn't just copy; it's a design philosophy visible in the generous whitespace, the restrained use of #ad1e36 as an accent for sale badges and urgency signals, and the absence of decorative clutter. Typography runs clean and utilitarian — likely a system sans-serif stack — with body text in #121212 for maximum readability under trailhead glare, while #242833 provides a slightly softer ink for secondary information. The palette's muted tones — #dedede for hairline borders, #ededed for surface cards — keep the visual field quiet, letting product photography of ultralight shelters and packs do the heavy lifting. Buttons carry a modest {rounded.sm} radius — friendly but not pill-shaped, suggesting durability over whimsy. The checkout flow introduces #334fb4 as a secondary blue, perhaps for trust signals or shipping highlights, while the overall system avoids gradient or shadow excess. This is a site that trusts its products to sell themselves, using color and space to say: the gear is light, the experience should feel lighter.
 
@@ -375,6 +379,13 @@ components:
 - Product card grid reduces from 4 columns to 1 column on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

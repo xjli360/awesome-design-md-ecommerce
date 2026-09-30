@@ -4,6 +4,10 @@ name: "XP-Pen"
 source_url: "https://www.xp-pen.com"
 captured_at: "2026-09-28T04:04:23.773698+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The XP-Pen site draws from a large, utility-driven palette dominated by
   near-black text (#151414, #333333), neutral grays (#777777, #999999,
@@ -167,6 +171,13 @@ Proposed breakpoint table (not measured from live responsive behavior):
 Touch targets should be at least 44×44px for nav items and buttons; the mega-menu-style `.application_list` and `.commodity-list` panels are assumed to collapse into an accordion or drawer pattern on smaller viewports. This table is a design recommendation only, not an observation of XP-Pen's actual responsive CSS or JavaScript behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

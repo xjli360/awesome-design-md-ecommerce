@@ -4,6 +4,10 @@ name: "Kosas"
 source_url: "https://kosas.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Kosas is a clean color cosmetics brand that lives at the intersection of makeup and skincare, and the palette tells the story. The canvas is a warm off-white, `#f1eee6`, not a clinical bright white — it feels like a linen towel, not a lab coat. Accent colors arrive with intention: a dusty rose `#d33167` for primary CTAs, a deeper berry `#e81f76` for hover states, and a teal `#088f87` that appears in limited-edition packaging and secondary badges. The brand’s typography is anchored on Brown, a rounded, friendly serif that appears in display sizes, paired with Founders Grotesk for body and button text — a mix of warmth and precision. Shadows are soft, cards use `{rounded.lg}` (20px), and buttons are pill-shaped at `{rounded.full}`. The overall mood is elevated but approachable: a makeup brand that trusts its ingredients and its photography, not heavy ornamentation. The muted palette — `#676986`, `#9da1a0`, `#757575` — handles secondary text and hairlines, while `#272d45` serves as the deep ink for headlines. The site uses `#f4f4f6` and `#f8f7f3` as soft surface tones, creating a layered, tactile feel without visual noise.
 
@@ -337,6 +341,13 @@ components:
 - Accordion components handle FAQ and product details on all breakpoints.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

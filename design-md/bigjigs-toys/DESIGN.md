@@ -4,6 +4,10 @@ name: "Bigjigs Toys"
 source_url: "https://www.bigjigstoys.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A primary blue of #2ea3f2 — the color of a child's first clear sky drawing — anchors a playroom brand that refuses to shout. The palette is a wooden-toy rainbow: sage green (#7cc68d), lavender (#c37cc6), marigold (#edb059), and a single red alert (#e02b20) for sale badges and clearance markers. But the real design move is the canvas: #f7f7f7, not pure white, giving the site the soft warmth of unvarnished beechwood. Product photography floats on this off-white field with {rounded.md} corners, while category navigation runs in Montserrat at 400 weight — a sans-serif that reads as sturdy but not stern, like a well-sanded block. The brand's voice is "Creating perfect playrooms" — not "buy toys" but "build a space." CTAs use the blue primary on white text, with {rounded.sm} corners and 14px padding that feels substantial enough for a child's finger but not cartoonishly large. The footer collapses into a dense column of safety certifications, delivery promises, and small-print policies — the legal architecture of a brand that sells to cautious parents. Every badge (NEW, SALE, ECO) uses a distinct accent from the rainbow: #7cc68d for eco, #c37cc6 for new, #e02b20 for sale. The typography stack is Montserrat for headings and Open Sans for body — a pairing that balances geometric clarity with humanist readability, like a classroom blackboard next to a storybook.
 
@@ -414,6 +418,14 @@ components:
 - Trust badges (free shipping, secure checkout) collapse from inline to stacked on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

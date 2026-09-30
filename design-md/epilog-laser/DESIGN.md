@@ -4,6 +4,10 @@ name: "Epilog Laser"
 source_url: "https://www.epiloglaser.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Machine photography dominates every page — the Fusion Edge, Zing, and MUSE series are lit against near-black slate (#2b2e38) in hero sections that feel closer to darkroom exposures than lifestyle marketing. That darkness is the canvas; the brand's voltage arrives in sky-blue (#6dcff6 and its deeper cousins #085e91 and #005689), colors that echo both the visible spectrum of a CO₂ laser beam and the clean-room palette of precision manufacturing. Epilog runs the entire site on Arial with no custom typeface and no web-font payload, trusting machine specs, cut-speed charts, and wattage comparisons to carry authority over typographic gesture. The system-font stack is a deliberate B2B signal: this brand sells to shop owners and engineers who scan spec tables before they read headlines.
 
@@ -356,6 +360,13 @@ components:
 - Footer four-column grid: 2-col at tablet; accordion (all closed by default) at mobile to reduce scroll depth
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

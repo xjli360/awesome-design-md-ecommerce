@@ -4,6 +4,10 @@ name: "Magic Sleek"
 source_url: "https://www.magicsleek.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Magic Sleek presents itself as a clinical yet approachable haircare brand, built on a foundation of clean whites and cool grays that communicate precision and safety. The palette is anchored by a deep charcoal ink (`#1f2124`) for body text, set against a bright canvas (`#fcfbfe`) that feels almost sterile — a deliberate choice for a brand selling a "formaldehyde-free" straightening system. Accents of teal (`#5eead4`) and deep green (`#108474`) appear sparingly, suggesting natural or botanical efficacy, while a single punch of magenta (`#cc3366`) provides the only real warmth, used sparingly for badges or highlights. The typographic voice leans on `Nunito Sans` and `Open Sans` — rounded, approachable sans-serifs that soften the clinical edge — with `{rounded.full}` pill-shaped buttons and `{rounded.sm}` card corners that keep the interface feeling human rather than cold. Muted grays like `#69727d` and `#515151` handle secondary text and hairlines, while `{rounded.lg}` is reserved for hero images and product photography, creating a consistent visual rhythm of soft containment. The overall effect is trustworthy, modern, and slightly spa-like — a brand that wants you to feel both informed and pampered.
 
@@ -318,6 +322,13 @@ components:
 - Secondary navigation (category strip) collapses to horizontal scroll on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

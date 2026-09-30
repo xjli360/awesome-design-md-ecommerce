@@ -4,6 +4,10 @@ name: "MCR Safety"
 source_url: "https://www.mcrsafety.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Crimson (#c91036) lands with the authority of a hard-hat warning label — MCR Safety's single brand voltage saturating every primary CTA, in-stock badge, and promotional callout against a near-black (#181818) field. The site makes no apology for its utilitarian posture: the entire type system runs on OS-native stacks (Liberation Sans, Segoe UI, -apple-system) at weights that favor legibility under warehouse fluorescence over typographic distinction. Icon libraries (Font Awesome, icomoon) carry heavy navigation duty across gloves, glasses, cut-resistant sleeves, and hearing protection — each subcategory tagged with ANSI/OSHA compliance ratings that demand dense, tabular layouts rather than the editorial grids of consumer retail. Light grays form a stacked surface system, from the near-white #f8f8f8 field to #e5e3df, a warm putty tone that grounds callout blocks without introducing color competition. A secondary accent blue (#5eb0ef) marks filter chips and informational links, desaturated enough to read as functional rather than promotional. Corner radii stay minimal — `{rounded.xs}` on inputs and standard cards signals that specification accuracy matters more than friendliness of form. Safety compliance documentation, bulk ordering, and product comparison tables sit at the center of the UX, pushing high-contrast body text (`{colors.ink}` on `{colors.canvas}`) and generous section breathing (`{spacing.section}`) to the front of every layout decision. Bright blue (#0091ff) surfaces in interactive states and hyperlinks as a system-browser anchor rather than a brand color. The tagline "We Protect People" is unusually direct for a B2B distributor — it encodes both the brand's mission and its design contract: warnings surface before checkout, compliance badges appear on card thumbnails, and the red primary carries urgency without tipping into alarm.
 
@@ -352,6 +356,13 @@ components:
 - `nav-bar-top-utility` and `promo-bar` stack vertically on mobile; one may be hidden if both are active
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

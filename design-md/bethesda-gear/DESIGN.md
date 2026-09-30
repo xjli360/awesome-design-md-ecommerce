@@ -4,6 +4,10 @@ name: "Bethesda Gear"
 source_url: "https://gear.bethesda.net"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A dark, atmospheric storefront where the brand's signature #272d45 — a deep midnight blue — sets the stage for merchandise that glows against it. The palette reads like a dungeon-crawler's inventory screen: #676986 muted steel for secondary text, #f0b300 and #e32c2b as twin accent voltages (gold for loot, red for danger), and #2c3e50 for card surfaces that feel like forged metal plates. Type runs Trade Gothic as the primary voice — a condensed, muscular sans-serif that carries the weight of fantasy RPG titles — with Assistant and Montserrat as supporting faces for body copy and navigation. The store leans into a `{rounded.sm}` 8px corner radius across buttons and cards, never fully pill-shaped, preserving a slightly industrial feel that matches the Bethesda Game Studios aesthetic. Product cards sit on `{colors.surface-soft}` (#f4f4f6) canvases with `{colors.hairline}` (#dbdde4) borders, while the primary CTA button (#e32c2b) uses `{colors.on-primary}` white text and a `{rounded.sm}` 8px radius — a call to action that reads as urgent without being hostile. The nav bar runs full-width at 80px height, dark (#272d45) with white nav links, and the search bar adopts the same midnight background with a `{rounded.sm}` treatment. Badges use #f0b300 gold on dark backgrounds for "NEW" and "SALE" labels, while sold-out states fade to #787878 muted gray. The overall effect is a store that feels like walking through a game hub — dark corridors, illuminated displays, and loot that catches the light.
 
@@ -345,6 +349,14 @@ components:
 - Search bar collapses to icon-only trigger below 744px, expanding to full-width overlay on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

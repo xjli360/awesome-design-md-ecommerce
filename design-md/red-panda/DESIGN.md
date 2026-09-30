@@ -4,6 +4,10 @@ name: "Red Panda"
 source_url: "https://www.redpandalab.com"
 captured_at: "2026-09-29T03:56:52.378728+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Red Panda Lab's storefront runs on a BigCommerce Stencil theme with a
   restrained black-and-white base punctuated by a single saturated red
@@ -167,6 +171,13 @@ Recommended breakpoints (not measured from the live site):
 Touch targets should maintain a minimum 44×44px hit area for buttons and nav items; the primary/secondary button padding tokens above satisfy this at default font sizes. Mobile nav is assumed to collapse into a drawer or accordion below the tablet breakpoint. This table is a design recommendation only, not an observation of the site's actual responsive implementation.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

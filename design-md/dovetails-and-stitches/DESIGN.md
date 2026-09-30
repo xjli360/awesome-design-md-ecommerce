@@ -4,6 +4,10 @@ name: "Dovetails and Stitches"
 source_url: "https://dovetailsandstitches.com"
 captured_at: "2026-09-28T05:06:25.268081+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Dovetails and Stitches is a fourth-generation woodworking studio (Shopify storefront) selling
   handcrafted furniture, menorahs, kitchen accessories, and home decor. The observed palette is
@@ -165,6 +169,12 @@ This is a recommendation, not measured site behavior; no breakpoints or mobile l
 Touch targets should be a minimum 44×44px for cart, search, and nav icons. Primary nav should collapse to a drawer or accordion below tablet width, consistent with the multi-tier "Shop / Custom Furniture / Media Centers / Home Decor / Kitchen Accessories" menu structure implied by the page text.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

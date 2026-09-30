@@ -4,6 +4,10 @@ name: "Fellow"
 source_url: "https://fellowproducts.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Fellow is a design-driven kitchen appliance brand that brings a quiet, considered warmth to the daily ritual of coffee brewing. The brand's visual language is anchored in a deep, almost-black ink (`#1e1e1f`) and a soft, warm white canvas (`#f9f9f9`), creating a high-contrast stage for its sculptural products. Signature moves include the use of a muted, earthy palette — from the subtle warmth of `#f6ede0` and the soft greys of `#efefed` and `#e0e0dd` to the rich, toasted copper of `#9d523a` — that feels both premium and approachable. A distinctive accent of `#88acc3` (a dusty, muted blue) and a brighter `#1990c6` provide moments of cool relief, often used for key product details or interactive elements. The typography is a deliberate mix of the proprietary, rounded "Fellow Solar" for display and the clean, neutral "Sohne" for body text, creating a tension between playful warmth and functional clarity. Buttons and cards use `{rounded.sm}` (8px) and `{rounded.md}` (12px) radii, avoiding extreme pill shapes in favor of a refined, slightly soft geometry that mirrors the brand's product design philosophy. The overall feel is one of "everyday magic" — a space where the utilitarian act of making coffee is elevated through thoughtful materiality, generous whitespace, and a color story that whispers rather than shouts.
 
@@ -441,6 +445,13 @@ components:
 - Hero sections reduce padding and font sizes on mobile, often removing background imagery.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

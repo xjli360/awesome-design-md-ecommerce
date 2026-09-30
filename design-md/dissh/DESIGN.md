@@ -4,6 +4,10 @@ name: "Dissh"
 source_url: "https://dissh.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Sand-toned canvases and near-black ink open Dissh's digital register — the site runs on a warm off-white (#f8f5f1) field where ABC Diatype Light carries every headline at a weight that reads less as fashion authority and more as editorial understatement. The typeface, a Swiss-rooted geometric grotesque from ABC Dinamo, sets a contemporary tone coherent with the brand's wearable, trend-led Australian sensibility; a companion "Items Light" stack suggests a secondary display cut used for editorial callouts or category statements. What distinguishes the palette from standard Antipodean fashion neutrals is a soft mint-teal surface (#e6f7f4) that breaks from the otherwise warm sandy register — it recurs as a refresh zone against the dominant linen-and-brown spectrum (#ede7df, #bca99f, #3c302a). The deepest brand anchor is a warm molasses-brown (#3c302a) rather than a cool charcoal, pulling the dark end of the scale toward a terracotta-adjacent spectrum that signals resort dressing. Three color registers emerge clearly from extraction: ink darks (#272727, #1c1c1c, #3c302a, #251e1a), warm surfaces (#f8f5f1, #ede7df, #fef3e2, #bca99f), and blue-gray UI chrome (#b1b7c3, #999ea8, #121f36) — the latter cluster appearing in metadata, pagination, and secondary interface elements. Alert red (#ea0202) flags sale pricing and error states but does not function as a brand primary; Bootstrap-adjacent alert surfaces (#f8d7da, #d4edda, #fff3cd) confirm these as Shopify system states rather than brand choices. Buttons and inputs carry minimal rounding consistent with the sharp editorial mode, and the overall hierarchy trusts photography and negative space over typographic weight — the Light font cut is used almost universally rather than escalating to Bold for emphasis, so the lone CTA button on a warm dark fill becomes the loudest thing on screen by contrast alone.
 
@@ -399,6 +403,13 @@ components:
 - Promo banner reduces to 28px height on mobile; copy truncates with ellipsis if needed
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

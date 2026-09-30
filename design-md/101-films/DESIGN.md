@@ -4,6 +4,10 @@ name: "101 Films"
 source_url: "https://101-films.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A film distributor’s site that feels more like a collector’s shelf than a streaming grid, anchored on a slate-blue #52636b that reads as archival rather than corporate — the kind of color you’d find on a 35mm film canister. The primary action color is a stark #dd1d0b, a red that lands with the blunt force of a cinema exit sign, used sparingly for purchase buttons and price badges so it never competes with the poster art. The canvas is a cool #cccacc, a near-gray that avoids the sterile white of modern ecommerce and instead suggests a repurposed warehouse wall. Typography runs Cabin for display and body, a geometric sans with a humanist warmth that keeps the experience from feeling cold despite the muted palette. Product cards use soft corners ({rounded.sm}) and thin hairlines (#d6d8db) to frame DVD and Blu-ray covers without overwhelming them. The navigation is a horizontal strip of genre and collection links, each sitting in a low-contrast state until hovered, when the red #dd1d0b appears as an underline — a restrained gesture that lets the filmography do the selling. The overall mood is that of a specialty video store that has been carefully curated but not over-designed: the interface steps back so the movies can step forward.
 
@@ -258,6 +262,14 @@ components:
 - Footer columns stack from 4 columns to 2 columns on tablet, then to 1 column on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "CrunchLabs"
 source_url: "https://www.crunchlabs.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A bright, high-contrast engineering playground where #e52718 (a hot, slightly orange red) and #fed103 (a sharp marigold yellow) act as the primary voltage pair — a design choice that reads more like a construction-site warning than a toy brand, which is exactly the point. The brand’s deep navy #00416c provides a serious, technical counterweight, while #3c392c (a warm, almost leathery brown) and #f4f4f6 (a cool off-white) form the neutral backbone. Typography is a deliberate collision: the display head uses Audiowide, a geometric, almost digital-clock sans-serif that screams “circuit board,” while body copy runs Gotham Rounded — a friendly, approachable humanist sans that keeps the brand from feeling cold. The result is a system that feels like a well-organized workshop: bright yellow tape lines, red danger buttons, and navy blue toolboxes. Buttons are pill-shaped ({rounded.full}), product cards use soft corners ({rounded.md}), and the overall mood is one of enthusiastic, hands-on problem-solving — not sterile tech, but the joyful chaos of a garage full of prototypes. The extracted palette includes a surprising number of blues and grays, but the red and yellow are the unmistakable brand signatures, appearing consistently across CTAs, badges, and the logo lockup.
 
@@ -377,6 +381,13 @@ components:
 - Search bar transforms from inline to a full-screen overlay on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

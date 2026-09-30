@@ -4,6 +4,10 @@ name: "Yamazaki Home"
 source_url: "https://theyamazakihome.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The wire grid of a Yamazaki steel organizer becomes a design grammar for the whole site — thin strokes, orthogonal construction, surfaces that make no claim beyond their function. The palette runs almost entirely on a single gray axis from near-black #121212 through charcoal #4d4e55 and #75767e to soft-white #f5f5f5, with no decorative color until a single precision strike of #16c793 lands on every primary CTA, in-stock signal, and new-arrival badge. That green reads less like a brand color and more like a system status indicator — closer to a terminal confirmation than a lifestyle flourish — which suits a company that frames domestic storage as honest engineering rather than aspirational decor.
 
@@ -338,6 +342,13 @@ components:
 - Hero: single-column stack with image below text; CTA remains above the fold at standard mobile viewport
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Bessie + Barnie"
 source_url: "https://bessieandbarnie.com"
 captured_at: "2026-09-28T10:32:59.079809+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Bessie + Barnie is a Shopify-based storefront for custom-made, hand-stitched
   dog beds and pet furnishings. The observed CSS exposes a neutral Dawn-theme
@@ -151,6 +155,14 @@ This is a proposed breakpoint table, not measured site behavior:
 Touch targets should maintain a minimum 44×44px hit area for buttons and swatches, consistent with the `clamp(25px, ..., 55px)` button sizing observed in the accelerated-checkout CSS. Mobile nav is assumed to collapse into a drawer given the extensive multi-level menu content (Dog Beds, Accessories, Harnesses, Collections); no mobile interaction was directly observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered page, computed styles, or interaction states were observed. The mapping of Platypi to headings and Poppins to body/button text is inferred from font-family naming conventions and typical Shopify theme pairing, not from confirmed selector-to-element bindings. The primary accent (#ffc500) is sourced from the Judge.me review-widget variables and may not represent the brand's actual primary CTA color elsewhere on the site. All pixel sizes in the typography scale beyond the observed `1.5rem` body base and `0.06rem` letter-spacing are proposed, not measured. Rounded and spacing scales are template defaults, not extracted radius/spacing values (theme radius variables like `--product-card-corner-radius` exist but their resolved values were not in evidence). Mobile layout, hover/focus states, and swatch/selector interactions are entirely proposed. Font licensing and availability for Platypi and Aeonik Pro were not verified and may require confirmation before implementation.

@@ -4,6 +4,10 @@ name: "Mezco Toyz"
 source_url: "https://www.mezcotoyz.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Near-black (#272727) photography fields and ink-dark panel surfaces establish a collector's showcase register — not a toy shop but a precision archive where figures with hand-stitched fabric coats and die-cast metal hardware demand uninterrupted real estate. A single primary red (#bd2426) fires as the lone high-voltage signal across that dark canvas: every add-to-cart, every pre-order CTA, every featured-release callout is the same hot ember against near-black, producing unambiguous action hierarchy without size inflation. The rest of the palette fractures into product-state signals — steel blue (#62a1d8, #2f7bbf) for the One:12 Collective lineup blocks, acid green (#9bca3e) for in-stock badges, harvest orange (#f68b1f) for pre-order and limited-edition tags, deep navy (#163959) anchoring the sticky navigation bar — each color keyed to a collector purchase-state rather than deployed as decoration. Soft green (#bada7a) and dark green (#516b1d) encode back-order and re-stock states, completing a five-color availability traffic system legible at thumbnail scale.
 
@@ -407,6 +411,13 @@ components:
 - Announcement and pre-order strips collapse to icon + short label on mobile below 480px to preserve nav visibility
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "GHS Strings"
 source_url: "https://www.ghsstrings.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A blue-collar precision brand for musicians who think about their strings the way a machinist thinks about tool steel — the palette is anchored on a cool, technical `#0088cc` that reads more like an industrial equipment manufacturer than a lifestyle accessory, and that's exactly the point. The site runs on a near-monochrome skeleton of `#eeeeee`, `#f5f5f5`, and `#f4f4f4` surfaces with `#555555` body text and `#222222` ink, giving it the no-nonsense feel of a catalog from a company that's been making wire since 1917. The single bright accent is `#f89406` — a warning-yellow used sparingly for badges and price highlights, not for CTAs. Buttons use the primary `#0088cc` with `{rounded.sm}` corners, but the real design signature is the product-grid density: cards stack tightly with `{spacing.base}` gaps, each showing a string-pack photo, a `{typography.title-sm}` gauge label, and a `{typography.body-sm}` price in `#f89406`. The typography stack is Open Sans and Roboto — utilitarian, highly readable at small sizes, no display weights above 600. There is no hero image, no lifestyle photography, no brand story; the homepage drops you directly into a filterable grid of string sets organized by instrument (Electric, Acoustic, Bass, Classical). The nav bar is a thin `{spacing.lg}` strip with dropdowns for String Type, Gauges, and Accessories — every interaction is built for the player who knows exactly what they want. The checkout and account flows use `{rounded.md}` cards on `#ffffff` canvas with `#e6e6e6` hairline borders, and error states flash `#b94a48` — a surgical red, not a brand color. The overall impression is of a company that sells through dealers and treats its own site as a spec sheet with a shopping cart attached.
 
@@ -433,6 +437,13 @@ components:
 - Search bar collapses from a full-width input to an icon-triggered overlay on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

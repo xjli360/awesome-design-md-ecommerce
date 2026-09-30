@@ -4,6 +4,10 @@ name: "Sakara Life"
 source_url: "https://sakara.com"
 captured_at: "2026-09-29T04:00:50.287849+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Sakara Life's storefront presents a high-contrast, editorial aesthetic built
   almost entirely on black-and-white value contrast, evidenced by repeated use
@@ -163,6 +167,13 @@ components:
 Touch targets should be at least 44px in height; the primary/secondary button padding (`{spacing.md} {spacing.lg}`) supports this at typical font sizes. This table is a recommendation based on the two supplied slide-width tokens and general e-commerce convention, not measured site behavior at any breakpoint.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from a static snippet of CSS rules, page text, and a color/font-family list — no rendered layout, computed styles, or interaction states beyond the explicitly supplied hover rules were observed. Semantic color roles (e.g., treating #000000 as "primary" and #ff6341/#00873b/#5bab5d as accent/badge colors) are inferred from limited component usage and may not match the brand's actual design-system naming or intended hierarchy. All typography sizes except the 28px/line-height-1 "Gestura Headline" dialog rule are proposed, not measured. The "Gestura Headline," "Gestura Text," and "Rework Text" families appear custom/proprietary; their licensing, exact weights, and availability outside this site are not verified, and only the generic sans-serif/serif system-font fallbacks should be assumed safe for reuse. Mobile navigation collapse, carousel behavior, cart/checkout flows, and form validation states were not observed and are proposed conventions only. Rounded and spacing scales are standard proposed defaults, not extracted from the source CSS.

@@ -4,6 +4,10 @@ name: "NS Design"
 source_url: "https://www.thinkns.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, resonant #2d2d2d ink on a warm #fcfbf7 canvas, where the brand's true voltage is carried not by a single accent but by the interplay of three: a cool, precise #0073e5 that reads as engineered clarity, a burnished #d7b87e that recalls aged brass and wood grain, and a restrained #9b1b30 that appears only in select moments of emphasis. The typographic voice is a deliberate mix — Montserrat for clean, modern display weight, Source Sans Pro for readable body copy, and Open Sans Condensed for tight navigation — suggesting a brand that bridges luthier craftsmanship with digital precision. Product imagery dominates over decorative UI; the interface steps back to let the instruments' curves and finishes speak. Corners are mostly sharp ({rounded.none} to {rounded.sm}), with the only softening appearing on media cards and button edges ({rounded.md}), reinforcing a sense of machined exactness. The overall mood is gallery-meets-workshop: generous whitespace, muted secondary surfaces (#f7eddc), and a hierarchy that trusts the photography to do the emotional work while the type system handles information architecture.
 
@@ -353,6 +357,13 @@ components:
 - Multi-column product descriptions collapse to single column below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

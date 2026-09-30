@@ -4,6 +4,10 @@ name: "David Yurman"
 source_url: "https://www.davidyurman.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The cable-twist silhouette — coiled sterling wire borrowed from sculptor's studio and nautical rope — has been David Yurman's identifying motif since 1980, and the digital surface carries that restraint into a near-monochromatic neutral register where almost nothing competes with the jewelry. Nearly the entire extracted palette runs from near-black (#212121) through stacked grays to a soft off-white canvas (#fbfbfb): a deliberate progression that functions as gallery light, letting platinum catch and gemstone color read true without interference from a competing background hue. Proxima Nova drives all type with geometric openness at light-to-regular weights — display headers open with wide tracking at weight 300 rather than asserting at heavy bold, trusting white space over typographic muscle. Two functional accents cut through the gray field: #d82325 anchors sale pricing and promotional callouts, while the green pair #208402 and #114501 flags sustainability certifications and ethical-sourcing marks — neither color appears decoratively anywhere in the system. Primary CTAs present as flat near-black rectangles (`{rounded.none}`), echoing the hard-edge geometry of David Yurman's packaging, box clasps, and brand mark; pill forms and heavy radii are absent throughout. Product cards use tight grid gutters and soft-white surfaces (#f9f9f9), presenting each piece as though laid flat with nothing to distract from stone and metal. Hover and active states drift within the gray spectrum — #383838 on a near-black button, a deepened tone on links — rather than jumping to accent colors, signaling permanence over urgency and a brand that expects to be trusted rather than persuaded.
 
@@ -379,6 +383,13 @@ components:
 - Product grid steps 1-col → 2-col → 3–4 col across mobile / tablet / desktop breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

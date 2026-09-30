@@ -4,6 +4,10 @@ name: "Alibris"
 source_url: "https://www.alibris.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A near-monochrome book marketplace where #313131 ink does all the heavy lifting — the single extracted color from the live site, a deep charcoal that reads as library-stack seriousness rather than e-commerce cheer. The brand trusts its inventory photography (dust jackets, rare-edition spines, reader hands) to supply all the warmth, keeping its own interface to a disciplined gray scale. Type runs the system font stack — -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif — at modest weights, never competing with the book covers. The search bar, the primary action on every page, sits in a generous {spacing.lg} padded container with {rounded.sm} corners, a soft invitation to browse rather than a hard sell. Category navigation runs as a horizontal strip of text links in {colors.muted}, each book cover thumbnail framed at {rounded.xs} — just enough corner to feel intentional without softening the academic tone. The footer, dense with links to seller resources, genre lists, and company information, reads like a library card catalog translated to web: utilitarian, information-dense, and quietly authoritative. There is no brand color voltage — no pink, no marigold, no teal — just the confidence that the books themselves are the only decoration needed.
 
@@ -367,6 +371,14 @@ components:
 - Search bar collapses to a search icon with expandable input below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

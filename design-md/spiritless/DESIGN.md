@@ -4,6 +4,10 @@ name: "Spiritless"
 source_url: "https://spiritless.com"
 captured_at: "2026-09-28T09:28:13.795454+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Spiritless presents as a modern, editorial non-alcoholic spirits brand built on a warm neutral base with a confident red accent. The observed palette centers on near-black ink (#1a1a1a) over white and warm off-white surfaces (#e8e5db, #e8e8e1, #f2f2f2), with #d63636 serving as the dominant call-to-action and sale/announcement color, dimmed by #c92929 on active states. A teal (#009975) appears as a secondary sale-tag color. Theme CSS variables confirm nav and footer both use the warm beige #e8e5db, while borders use the closely related #e8e8e1 hairline tone.
 
@@ -136,6 +140,13 @@ This is a recommended breakpoint scheme, not measured from live site behavior:
 Touch targets should be a minimum 44px hit area for cart/nav icons; mobile menu collapse and cart drawer behavior are inferred from the presence of "Close menu"/"Close cart" text but not visually verified.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered layout, responsive breakpoints, or interaction states (hover, focus, active, loading) were visually observed beyond the review-widget's explicit hover/active variable declarations. Font availability and licensing for "GT Super Display" and "Basis Grotesque Med" were not verified—these are proprietary-sounding names taken directly from CSS but their loading source, weights, and license status are unconfirmed; generic serif/sans-serif fallbacks are included accordingly. Numeric type scale (font sizes for display-xl, title-md, etc.) beyond the confirmed 34px header/15px body values are proposed, not measured. Spacing and rounded-corner scales are proposed conventions, not extracted from layout measurements. Component definitions for product-card, hero, search-field, and recipe-card are inferred design patterns appropriate to a DTC beverage storefront, not confirmed from rendered DOM or screenshots. Color role assignments (e.g., which beige is footer vs. surface-card) are based on CSS custom-property names and may not reflect final visual hierarchy.

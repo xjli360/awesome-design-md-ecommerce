@@ -4,6 +4,10 @@ name: "Endgame Gear"
 source_url: "https://www.endgamegear.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Chrome-yellow at #fdc415 — the meta theme-color itself, hardcoded to the <meta> tag as if declaring a brand registration — is the single warm frequency Endgame Gear allows into an otherwise near-black (#141414) world. The contrast is the visual thesis: a dark-room gaming monitor rendered in HTML, where yellow fires only on CTAs, hover states, and performance callouts, never softened into warmth or lifestyle friendliness. Deep navy (#003399) anchors the footer and secondary interactions; a saturated green (#6eb80f) marks competitive pricing and spec-tier achievements; hard red (#ec2913) signals scarcity or warnings — each used at full saturation against the dark canvas like indicator lights on a motherboard. The palette is diagnostic, not decorative. Type lives in two faces with distinct jurisdictions. Aguda-Regular carries display work, product names, specifications, and price numerals — a geometric, engineered face that gives the interface a custom hardware feel rather than an off-the-shelf storefront. Source Sans Pro Regular handles all body copy, nav links, UI labels, and badge text, providing legibility without softening the overall register. Button labels and badges run in uppercase Source Sans Pro at 700 weight with tracked letterSpacing, reinforcing the brand's preference for command-mode language over conversational copy. Corner radii stay tight at {rounded.xs} (4px) throughout interactive surfaces — product cards, inputs, badges, buttons — resisting the pill-friendly roundness of consumer lifestyle brands. Product cards sit on the #141414 canvas with a full-bleed product image and a 2px yellow border on hover, the same selection signal echoed in gallery thumbnails and category tabs. Award certification chips in yellow (#fdc415), green sale percentages, and red scarcity flags stack in card corners as a unified badge system differentiated only by voltage color. The footer drops to a full-width navy (#003399) block — the only large-area color besides hero photography — with white type and yellow link hovers. The experience reads like a product specification sheet that also sells.
 
@@ -359,6 +363,13 @@ components:
 - Product gallery thumbnail strip switches to dot-indicator pagination on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

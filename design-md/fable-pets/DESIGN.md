@@ -4,6 +4,10 @@ name: "Fable Pets"
 source_url: "https://fablepets.com/"
 captured_at: "2026-09-29T04:15:34.513798+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Fable Pets presents a modern, design-forward pet-gear catalog (crates, beds, leashes, toys) built on a Shopify storefront layered with an Okendo reviews widget. The observed palette centers on a deep navy ink (#030e28) paired with near-white and light-gray surfaces, giving copy a quiet, editorial tone consistent with the "premium pet brand" positioning quoted in customer testimonials. A cool blue (#2563ed) and its pastel cousin (#b0c7fa, used as the Okendo button background) suggest a primary/interactive accent family, while a cluster of soft pastels (mint #b2f9e9, sage #cfecb2, yellow #ffd303) likely map to category or badge accents ("Best Seller," "Wirecutter Pick") given the product-grid copy referencing multiple shop categories (Rest, Play, Walk, Eat, Cats). Two font families are declared beyond system/monospace stacks: Gelica (serif) and Moderat (sans-serif); Gelica is inferred as the display/headline face for its editorial serif character, and Moderat as the workhorse body/UI sans-serif, consistent with review-widget CSS inheriting a single body font. All spacing, radius, and component states below are proposed conventions for a clean, photography-led e-commerce layout, not measured DOM values; the 4px button radius is the one concrete measurement, drawn directly from the Okendo `--oke-button-borderRadius` token.
 
@@ -123,6 +127,12 @@ components:
 Recommended (not measured) breakpoints: mobile ≤599px (single-column stack, full-width buttons, touch targets ≥44px), tablet 600–1023px (2-column product grid, collapsed nav into a hamburger/drawer), desktop ≥1024px (3–4 column product grid, persistent horizontal nav, cart drawer overlay). Hero and bundle-card sections are proposed to collapse to stacked text-over-image on mobile. This table is a design recommendation only; no actual responsive/mobile layout was observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This is a static, evidence-based interpretation from a supplied color list, font-family list, page text, and a partial CSS rule set (largely third-party Okendo review-widget and Shopify accelerated-checkout styles), not a full DOM/layout capture. Semantic color roles (primary, muted, hairline, surface-soft/card) are inferred from limited context clues (e.g., `.head_color`/`.sub_color` rules) and general palette position, not confirmed via computed styles on live components. Gelica and Moderat are listed as observed font-family names but their weights, exact usage (heading vs. body), licensing, and availability were not verified. All spacing, radius (beyond the confirmed 4px Okendo token), typography sizes, and component states (hover/focus/active/disabled) are proposed conventions, not measured. No interaction, animation, or actual mobile/responsive behavior was observed; the responsive table above is a recommendation only.

@@ -4,6 +4,10 @@ name: "Hilti"
 source_url: "https://hilti.com"
 captured_at: "2026-09-28T09:55:14.999425+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Hilti's public storefront draws on a restrained industrial palette anchored by
   a saturated safety red (#d2051e), paired with two darker red states (#ab0115,
@@ -177,6 +181,13 @@ This is a proposed responsive scheme, not measured site behavior:
 Touch targets are recommended at a minimum 44×44px for buttons and icon controls, particularly for the cart, search, and account icons referenced in the page text. Primary navigation is assumed to collapse into a drawer or accordion below the `md` breakpoint given the depth of the "Products / Solutions / Engineering Center / News / Info and Resources" menu structure, but this collapse behavior was not observed directly.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -20,20 +20,14 @@
         "https://www.factor75.com:443/"
       ]
     },
+    "#000000": {
+      "count": 5,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
     "#141414": {
       "count": 32,
-      "sources": [
-        "https://www.factor75.com:443/"
-      ]
-    },
-    "#242424": {
-      "count": 29,
-      "sources": [
-        "https://www.factor75.com:443/"
-      ]
-    },
-    "#343434": {
-      "count": 15,
       "sources": [
         "https://www.factor75.com:443/"
       ]
@@ -44,14 +38,8 @@
         "https://www.factor75.com:443/"
       ]
     },
-    "#206b19": {
-      "count": 7,
-      "sources": [
-        "https://www.factor75.com:443/"
-      ]
-    },
-    "#ffffff00": {
-      "count": 6,
+    "#d1ebce": {
+      "count": 4,
       "sources": [
         "https://www.factor75.com:443/"
       ]
@@ -62,50 +50,8 @@
         "https://www.factor75.com:443/"
       ]
     },
-    "#adadad": {
-      "count": 6,
-      "sources": [
-        "https://www.factor75.com:443/"
-      ]
-    },
-    "#000000": {
-      "count": 5,
-      "sources": [
-        "https://www.factor75.com:443/"
-      ]
-    },
-    "#e0e0e0": {
-      "count": 5,
-      "sources": [
-        "https://www.factor75.com:443/"
-      ]
-    },
-    "#d1ebce": {
-      "count": 4,
-      "sources": [
-        "https://www.factor75.com:443/"
-      ]
-    },
     "#00000026": {
       "count": 3,
-      "sources": [
-        "https://www.factor75.com:443/"
-      ]
-    },
-    "#f1f1ea": {
-      "count": 3,
-      "sources": [
-        "https://www.factor75.com:443/"
-      ]
-    },
-    "#f5efd2": {
-      "count": 3,
-      "sources": [
-        "https://www.factor75.com:443/"
-      ]
-    },
-    "#e3e3e3": {
-      "count": 2,
       "sources": [
         "https://www.factor75.com:443/"
       ]
@@ -116,19 +62,19 @@
         "https://www.factor75.com:443/"
       ]
     },
-    "#656565": {
-      "count": 2,
+    "#206b19": {
+      "count": 7,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 5,
       "sources": [
         "https://www.factor75.com:443/"
       ]
     },
     "#f9f9f3": {
-      "count": 1,
-      "sources": [
-        "https://www.factor75.com:443/"
-      ]
-    },
-    "#d7d7d2": {
       "count": 1,
       "sources": [
         "https://www.factor75.com:443/"
@@ -140,19 +86,7 @@
         "https://www.factor75.com:443/"
       ]
     },
-    "#454545": {
-      "count": 1,
-      "sources": [
-        "https://www.factor75.com:443/"
-      ]
-    },
     "#6b5400": {
-      "count": 1,
-      "sources": [
-        "https://www.factor75.com:443/"
-      ]
-    },
-    "#c1c1c1": {
       "count": 1,
       "sources": [
         "https://www.factor75.com:443/"
@@ -164,36 +98,24 @@
         "https://www.factor75.com:443/"
       ]
     },
-    "#efefef": {
-      "count": 1,
-      "sources": [
-        "https://www.factor75.com:443/"
-      ]
-    },
-    "#4b4d4c": {
-      "count": 1,
+    "#656565": {
+      "count": 2,
       "sources": [
         "https://www.factor75.com:443/"
       ]
     }
   },
   "font_families": {
-    "Arial": [
-      "https://www.factor75.com:443/"
-    ],
-    "Arial Black": [
-      "https://www.factor75.com:443/"
-    ],
-    "Helvetica": [
+    "source-sans-pro": [
       "https://www.factor75.com:443/"
     ],
     "plus-jakarta-sans": [
       "https://www.factor75.com:443/"
     ],
-    "sans-serif": [
+    "Arial Black": [
       "https://www.factor75.com:443/"
     ],
-    "source-sans-pro": [
+    "sans-serif": [
       "https://www.factor75.com:443/"
     ]
   },
@@ -210,10 +132,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Factor: Get 50% Off + Free Breakfast for 1 Year",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-300",
   "tokens": {
     "colors.primary": {
+      "value": "#206b19",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -221,6 +144,7 @@
       ]
     },
     "colors.ink": {
+      "value": "#141414",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -228,6 +152,7 @@
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -235,6 +160,7 @@
       ]
     },
     "colors.body": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -242,6 +168,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#656565",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -249,6 +176,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#e0e0e0",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -256,6 +184,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#f9f9f3",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -263,6 +192,7 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#efe9de",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -270,6 +200,7 @@
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -277,6 +208,7 @@
       ]
     },
     "colors.accent-green-soft": {
+      "value": "#a3d69e",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -284,6 +216,7 @@
       ]
     },
     "colors.accent-green-pale": {
+      "value": "#d1ebce",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -291,6 +224,7 @@
       ]
     },
     "colors.accent-gold": {
+      "value": "#8c6e00",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -298,6 +232,7 @@
       ]
     },
     "colors.accent-gold-deep": {
+      "value": "#6b5400",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -305,6 +240,7 @@
       ]
     },
     "colors.border-strong": {
+      "value": "#d2d2d2",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -312,6 +248,7 @@
       ]
     },
     "colors.text-secondary": {
+      "value": "#525252",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -319,6 +256,7 @@
       ]
     },
     "colors.overlay-dark": {
+      "value": "#00000026",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -326,110 +264,411 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "plus-jakarta-sans, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "plus-jakarta-sans, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "plus-jakarta-sans, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "plus-jakarta-sans, \"Arial Black\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "plus-jakarta-sans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "source-sans-pro, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "plus-jakarta-sans, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairlineColor": "{colors.hairline}",
+        "height": "proposed 72px"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "titleTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "rounded": "{rounded.md}",
+        "borderColor": "{colors.hairline}",
+        "padding": "{spacing.base}"
+      },
       "status": "inferred"
     },
     "components.plan-selector": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "selectedBorderColor": "{colors.primary}",
+        "selectedBackground": "{colors.accent-green-pale}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-green-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.border-strong}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.canvas}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": "html,\n        body",
+        "property": "background",
+        "declaration": "#FFFFFF",
+        "url": "https://www.factor75.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a4ce538569f0c95402739cdc7a46ad4d3f1a071d855a7450006df8bd6b88dc6e"
+      },
+      "#000000": {
+        "selector": "html,\n        body",
+        "property": "color",
+        "declaration": "#000000",
+        "url": "https://www.factor75.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a4ce538569f0c95402739cdc7a46ad4d3f1a071d855a7450006df8bd6b88dc6e"
+      },
+      "#141414": {
+        "selector": ".jlswkN",
+        "property": "color",
+        "declaration": "#141414",
+        "url": "https://www.factor75.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a4ce538569f0c95402739cdc7a46ad4d3f1a071d855a7450006df8bd6b88dc6e"
+      },
+      "#525252": {
+        "selector": ".jlswkN:active",
+        "property": "color",
+        "declaration": "#525252",
+        "url": "https://www.factor75.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a4ce538569f0c95402739cdc7a46ad4d3f1a071d855a7450006df8bd6b88dc6e"
+      },
+      "#d1ebce": {
+        "selector": ".bsOgeb:hover",
+        "property": "background-color",
+        "declaration": "#D1EBCE",
+        "url": "https://www.factor75.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a4ce538569f0c95402739cdc7a46ad4d3f1a071d855a7450006df8bd6b88dc6e"
+      },
+      "#a3d69e": {
+        "selector": ".bsOgeb:active",
+        "property": "background-color",
+        "declaration": "#A3D69E",
+        "url": "https://www.factor75.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a4ce538569f0c95402739cdc7a46ad4d3f1a071d855a7450006df8bd6b88dc6e"
+      },
+      "#00000026": {
+        "selector": ".bgQwxQ",
+        "property": "box-shadow",
+        "declaration": "0 0.125rem 0.25rem 0 #00000026",
+        "url": "https://www.factor75.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a4ce538569f0c95402739cdc7a46ad4d3f1a071d855a7450006df8bd6b88dc6e"
+      },
+      "#d2d2d2": {
+        "selector": ".gDilMZ:active",
+        "property": "background-color",
+        "declaration": "#D2D2D2",
+        "url": "https://www.factor75.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a4ce538569f0c95402739cdc7a46ad4d3f1a071d855a7450006df8bd6b88dc6e"
+      },
+      "#206b19": {
+        "selector": ".gWixjZ",
+        "property": "color",
+        "declaration": "#206B19",
+        "url": "https://www.factor75.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a4ce538569f0c95402739cdc7a46ad4d3f1a071d855a7450006df8bd6b88dc6e"
+      },
+      "#e0e0e0": {
+        "selector": ".leVsXA",
+        "property": "border-top-color",
+        "declaration": "#E0E0E0",
+        "url": "https://www.factor75.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a4ce538569f0c95402739cdc7a46ad4d3f1a071d855a7450006df8bd6b88dc6e"
+      },
+      "#f9f9f3": {
+        "selector": ".lkdUHX",
+        "property": "background-color",
+        "declaration": "#f9f9f3",
+        "url": "https://www.factor75.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a4ce538569f0c95402739cdc7a46ad4d3f1a071d855a7450006df8bd6b88dc6e"
+      },
+      "#efe9de": {
+        "selector": ".iAAqsh",
+        "property": "background-color",
+        "declaration": "#EFE9DE",
+        "url": "https://www.factor75.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a4ce538569f0c95402739cdc7a46ad4d3f1a071d855a7450006df8bd6b88dc6e"
+      },
+      "#6b5400": {
+        "selector": ".etMGPa",
+        "property": "color",
+        "declaration": "#6B5400",
+        "url": "https://www.factor75.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a4ce538569f0c95402739cdc7a46ad4d3f1a071d855a7450006df8bd6b88dc6e"
+      },
+      "#8c6e00": {
+        "selector": ".cQVnWB",
+        "property": "background-color",
+        "declaration": "#8C6E00",
+        "url": "https://www.factor75.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a4ce538569f0c95402739cdc7a46ad4d3f1a071d855a7450006df8bd6b88dc6e"
+      },
+      "#656565": {
+        "selector": ".NXVYY",
+        "property": "color",
+        "declaration": "#656565",
+        "url": "https://www.factor75.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a4ce538569f0c95402739cdc7a46ad4d3f1a071d855a7450006df8bd6b88dc6e"
+      }
+    },
+    "font_families": {
+      "source-sans-pro": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"source-sans-pro\"",
+        "url": "https://www.factor75.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a4ce538569f0c95402739cdc7a46ad4d3f1a071d855a7450006df8bd6b88dc6e"
+      },
+      "plus-jakarta-sans": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"plus-jakarta-sans\"",
+        "url": "https://www.factor75.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a4ce538569f0c95402739cdc7a46ad4d3f1a071d855a7450006df8bd6b88dc6e"
+      },
+      "Arial Black": {
+        "selector": "html,\n        body",
+        "property": "font-family",
+        "declaration": "plus-jakarta-sans, \"Arial Black\", sans-serif",
+        "url": "https://www.factor75.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a4ce538569f0c95402739cdc7a46ad4d3f1a071d855a7450006df8bd6b88dc6e"
+      },
+      "sans-serif": {
+        "selector": "html,\n        body",
+        "property": "font-family",
+        "declaration": "plus-jakarta-sans, \"Arial Black\", sans-serif",
+        "url": "https://www.factor75.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a4ce538569f0c95402739cdc7a46ad4d3f1a071d855a7450006df8bd6b88dc6e"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

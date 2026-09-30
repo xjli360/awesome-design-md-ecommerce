@@ -4,6 +4,10 @@ name: "Think Board"
 source_url: "https://www.think-board.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The writable surface as aesthetic object — Think Board makes this argument by anchoring the entire UI to a deep jade-green (#108474) that belongs more to premium workspace accessories than to institutional supply catalogs. A single punch of golden yellow (#fbcd0a) appears exactly once per page: the announcement strip or a promotional badge, a warm disruption before the teal system resumes command. Everything else descends through a long achromatic staircase from #eeeeee through a dozen near-identical grays to #121212, providing the tonal scaffolding for a utility-first Shopify catalog that would collapse into visual noise without it.
 
@@ -334,6 +338,13 @@ components:
 - Hero image drops below the text stack on mobile with height capped at 280px; text alignment shifts from left-aligned to center-aligned
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

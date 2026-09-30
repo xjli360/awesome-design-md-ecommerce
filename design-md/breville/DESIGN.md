@@ -4,6 +4,10 @@ name: "Breville"
 source_url: "https://www.breville.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A confident, kitchen-first appliance brand that balances professional-grade performance with warm, approachable design. Breville's palette is anchored in deep espresso browns and charcoals (#313638, #2d2c2f, #282726) that evoke the heft of stainless steel and the richness of freshly ground coffee, punctuated by a signature aubergine (#421540) that appears in product accents, navigation elements, and the brand's distinctive "Die-Cast" series. The system breathes through generous white space on a near-white canvas (#f5f5f5, #f8f8f8, #eff0f1), with secondary surfaces in warm greys (#bab9b8, #bbbab8, #e0e0e0) that suggest brushed metal and ceramic cooktops. A restrained accent palette of deep navy (#13294b), teal (#046b99), and a single bright blue (#00bbff) provides selective energy for call-to-action buttons and informational highlights, while amber (#d35b17) and green (#007a31) serve as status indicators for temperature and readiness. Typography relies on Archer-Book and Archer-Ssm — a refined, slightly geometric serif that feels both editorial and domestic — paired with system sans-serifs (Helvetica-Neue, Roboto, Arial) for UI density. The brand's signature design moves include pill-shaped buttons (`{rounded.full}`) that mirror the ergonomic curves of their appliances, softly rounded product cards (`{rounded.md}` ~12px), and a persistent top navigation bar that uses the deep aubergine as a grounding element. Every component feels tactile and deliberate, as if machined from a single billet of aluminum — there are no sharp corners on interactive elements, and the spacing system (`{spacing.base}`, `{spacing.lg}`, `{spacing.xl}`) creates breathing room that lets product photography and instructional content breathe. The overall effect is one of quiet authority: this is a brand that trusts the quality of its engineering over flashy decoration, using color and typography to signal precision, warmth, and culinary expertise.
 
@@ -488,6 +492,14 @@ components:
 - Breadcrumb navigation may truncate with "..." on mobile, showing only the current and parent page
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

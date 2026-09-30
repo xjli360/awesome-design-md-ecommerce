@@ -4,6 +4,10 @@ name: "Hofner"
 source_url: "https://www.hofner.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, resonant crimson #680202 anchors the Hofner digital presence — the same shade that has defined the brand's iconic violin and bass finishes for decades, here serving as primary voltage for CTAs, navigation accents, and product highlights against a near-white canvas of #f4f4f4. The palette is deliberately restrained: a warm silver-grey #b3b2b2 for secondary elements, a cooler #aaaaaa for muted text, and a precise #eeeeee for soft surfaces, creating a hierarchy that lets the burgundy carry all emotional weight. Typography runs Lato across the system, from generous display sizes at 700 weight down to compact captions at 400, with the brand's signature italic cut (Lato-BlaIta) reserved for heritage callouts and product-series names. Rounded corners are minimal — {rounded.xs} on cards and {rounded.sm} on buttons — reflecting the precision of luthier craftsmanship rather than friendly consumer softness. The product grid uses a tight 8px gutter ({spacing.sm}) and 16px card padding, echoing the close tolerances of instrument joinery. A secondary accent of muted violet #5f5e97 appears sparingly on limited-edition badges and artist-collaboration tags, adding a subtle counterpoint to the dominant crimson without competing for attention. The overall feel is that of a workshop catalog: clean, authoritative, and deferential to the instruments themselves.
 
@@ -388,6 +392,13 @@ components:
 - Accordion sections remain collapsed by default on all breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

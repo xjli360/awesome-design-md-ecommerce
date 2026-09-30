@@ -4,6 +4,10 @@ name: "Artemer"
 source_url: "https://www.artemerstudio.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The first signal that Artemer is not a conventional bridal jeweler is the teal (#00555a) — not the safe navy that heritage houses use, and not the pale sage that contemporary DTC brands have over-adopted, but a specific deep-water green that appears on every interactive surface from CTAs to focus rings to nav underlines. Set against near-white grounds (#ecf0f1, #eeeeee), this single chromatic statement carries the entire brand voltage without needing a secondary hue to complete it. The warm gold tones (#ae9a64, #a99a71) are not decorative interface flourishes but direct visual quotations of the 14k and 18k metals the studio works in — they surface on material callouts and category labels rather than dominating the UI, so the palette reads as extracted from the objects rather than imposed over them. Typography is Lato throughout, set conspicuously light: headlines run at weight 300 rather than the 700 that competitors reach for, so every line shares the fine-drawn quality of Artemer's prong-set solitaires and thin-band pavés. The word "alternative" in the site title is load-bearing — it signals non-traditional stones, organic forms, and a customer who is not shopping for what her mother wore. Buttons answer that positioning with architectural bluntness: flat teal blocks at {rounded.none}, or ghost outlines with a 1px teal border. No pill shapes, no shadows, nothing that competes with the photography. Product cards are edited to the minimum: a single jewel on an #eeeeee ground, a price, and a one-line material note. No urgency badges, no "only 2 left" mechanics. Scarcity communicates through curation. The result reads less like a shop and more like a studio showing a seasonal body of work — each piece in its own field of near-silence, the teal there only when you reach for something.
 
@@ -382,6 +386,14 @@ components:
 - Hero headline scales from 36px (desktop) to 24px (< 744px) via two fixed breakpoints rather than fluid type
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Cloud Paper"
 source_url: "https://cloudpaper.co"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A marigold #ffbd59 voltage cuts across a deep-indigo #232145 canvas — the brand's signature move is to let a single warm accent carry all interactive energy against a dark, almost nocturnal frame. Cloud Paper sells bamboo paper products (toilet paper, paper towels, tissues) through a Shopify storefront that reads more like a mission-driven publication than a CPG commodity site. The palette is deliberately restrained: a soft mint #ace6ce and its deeper sibling #86dbb8 appear in eco-badges and sustainability callouts, while #f7ebdb and #f9eddd warm up product photography backgrounds and testimonial cards. The brand avoids hard corners — buttons and cards use {rounded.sm} to {rounded.md} radii, and the primary CTA sits in that signature #ffbd59 with white text, creating a visual that says "approachable, not aggressive." Typography relies on Gilroy-medium for most body and heading text, with a clean sans-serif stack underneath. The overall mood is one of calm conviction: the indigo background on the top nav and footer creates a sense of depth and seriousness, while the marigold buttons and mint accents keep the experience from feeling heavy. Cloud Paper's design system is built around trust signals — plastic-free badges, tree-saving counters, and subscription toggle pills — all rendered in that same restrained palette so nothing competes for attention except the product itself.
 
@@ -382,6 +386,13 @@ components:
 - Footer link columns collapse to single column below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

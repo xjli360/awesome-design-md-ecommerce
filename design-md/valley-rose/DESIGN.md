@@ -4,6 +4,10 @@ name: "Valley Rose"
 source_url: "https://www.valleyrose.co"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Cormorant serifs carry the display weight here — set thin at 300–400 rather than bold, stretched across generous 56px headlines — while Work Sans handles body copy with the even-keeled reliability of a workshop label. The contrast defines the house voice: antique romance for product poetry, practical clarity for ring sizes and metal options. Valley Rose builds its visual field from warm earth — the deepest tone (#261818) reads like scorched timber, the signature brown (#5e4636) falls somewhere between walnut and dried terracotta, and the warmest canvas (#fff9f4) is less white than sun-bleached linen. Against this earthy continuum, a single coral-salmon voltage (#fb485e) cuts through for calls to action, darkening toward terracotta (#ae501c) on active states. The canvas hierarchy runs from warm near-white (#fcfbfa) to a peachy surface (#fbebdd) used beneath featured collection modules, lifting sections without leaving the warm register. `{rounded.xs}` governs form fields and product cards; the brand avoids pill shapes entirely — at this price tier, soft-but-precise signals craftsmanship rather than friendliness. A surprise periwinkle (#899df1) appears in accent elements and a bruised plum (#4b3048) surfaces on select editorial callouts, neither color load-bearing but both unmistakably intentional against the earth-tone field. Spacing runs wide: product grid gutters breathe at `{spacing.lg}`, section separators expand to `{spacing.section}`, and the brand never crowds a ring against its neighbor — the eye is expected to linger.
 
@@ -351,6 +355,13 @@ components:
 - Ring-sizer-widget: modal overlay triggered by tap on mobile vs. inline panel on desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

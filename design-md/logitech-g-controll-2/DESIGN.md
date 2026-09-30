@@ -4,6 +4,10 @@ name: "Logitech G"
 source_url: "https://www.logitechg.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A high-voltage gaming gear brand that runs on a near-black canvas (#1b1b1b) and two electric accents — a cyan-teal #00fdcf that reads like a live neon tube and a cooler #00b8fc that handles secondary highlights. The palette is deliberately sparse: #d7d7d7 for body text on dark surfaces, #f2f2f2 for light-mode surfaces, and #20a50a as a rare green accent for "in stock" or "online" indicators. The brand trusts darkness as its primary environment — product photography floats in black voids, navigation bars are solid #1b1b1b slabs, and every CTA button is a #00fdcf pill that feels like a power-up collectible. Corners are mostly sharp (`{rounded.none}`) on structural elements like cards and nav, but buttons and badges use `{rounded.full}` to create a clear hierarchy between interactive and informational surfaces. Typography runs a single sans-serif stack at moderate weights — display heads at 24px weight 600, body at 14px weight 400 — because the visual drama comes from the accent colors and the product imagery, not from type gymnastics. The G logo appears as a standalone geometric mark, often in #00fdcf on dark or #1b1b1b on light, and the overall mood is competitive, precise, and slightly industrial — like a pro esports rig rather than a living-room console.
 
@@ -355,6 +359,13 @@ components:
 - Hero sections reduce padding and stack content vertically on mobile, with the product image appearing below the text.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

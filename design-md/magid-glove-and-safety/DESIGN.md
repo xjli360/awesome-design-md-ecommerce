@@ -4,6 +4,10 @@ name: "Magid Glove & Safety"
 source_url: "https://www.magidglove.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every SKU on magidglove.com carries a compliance certificate column before a color swatch — ANSI/ISEA cut levels, EN 388 pictograms, ASTM F2413 notation — signaling that the primary reader is a safety director writing a procurement spec, not a consumer comparing aesthetics. The brand has operated this way since 1946, and the design system reflects that institutional confidence. Engineering red (#cc0000) anchors every primary CTA, category header, and navigation underline; it reads as authoritative against the white catalog canvas because it echoes the urgency vocabulary already embedded in OSHA signage rather than courting lifestyle aspirations. Safety amber (#ff6600) handles the second tier of urgency — clearance callouts, stock alerts, the DANGER-tier hazard badge — creating a clear hierarchy between brand emphasis and operational warnings. Deep charcoal (#1a1a1a) and mid-gray (#666666) carry the dense specification prose that industrial buyers actually read: tensile strength ratings, dielectric class descriptions, arc rating tables measured in cal/cm².
 
@@ -404,6 +408,13 @@ components:
 - Hero banner accent bar shifts from left-edge vertical rule to top-edge horizontal rule on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

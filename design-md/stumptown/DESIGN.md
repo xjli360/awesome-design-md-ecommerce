@@ -4,6 +4,10 @@ name: "Stumptown"
 source_url: "https://stumptowncoffee.com"
 captured_at: "2026-09-29T03:55:26.854858+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Stumptown's storefront CSS shows a warm, matte-neutral palette anchored by a near-black ink (#1f1815) and an off-white canvas (#f6f5f3), with white (#ffffff) used for card and button surfaces. Secondary tones observed in the palette—an aged gold (#c0a868), a rust/terracotta (#cf4521), a muted forest green (#2e8b57), and a saturated link blue (#005fcc)—are treated here as inferred accent, tag, and link roles rather than confirmed brand colors, since their exact usage context in the source CSS is limited to isolated swatches. Typography is confirmed as GT Flexa (body copy, buttons, inherited by form controls), Windsor serif (all h1–h6 headings, weight 400), and GT Flexa Mono (used at least for a subscription panel heading, treated here as a label/caption face). The large list of "SC" decorative font names appears to be a theme font-picker inventory rather than confirmed in-use typography, so it is excluded from the applied type scale.
   Button styling in the CSS is inconsistent across contexts—fully pilled (50px radius) hero buttons, a 4px-radius secondary button, and a 0-radius `.btn--primary`—so this spec normalizes those into a shared radius scale while preserving both pill and soft-square button variants as legitimate, evidence-backed patterns for a coffee-subscription commerce site.
@@ -148,6 +152,13 @@ components:
 Recommended (not measured) breakpoints: mobile <640px, tablet 640–1024px, desktop >1024px. Nav and filter panels are recommended to collapse into a drawer/accordion below 1024px. Touch targets for buttons and quantity steppers should be at least 44px. This is a proposed responsive strategy only; no live layout, media query, or mobile rendering was observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered layout, JavaScript-driven interaction, or mobile viewport was observed. Several palette colors (blue #005fcc, red #e20000, green #2e8b57, blues #789bbc/#1990c6/#136f99) appear in the raw swatch list without clear selector context, so their semantic roles (link, error, success, informational) are inferred, not confirmed. The large "SC ..." font list is assumed to be an unused theme font-picker inventory rather than applied typography. Font licensing/availability for GT Flexa, GT Flexa Mono, and Windsor was not verified. All spacing and sizing values not directly tied to a supplied CSS declaration (hero type sizes, card padding, input styling, breakpoints) are proposed placeholders for design consistency, not measured facts.

@@ -4,6 +4,10 @@ name: "Waterloo Records"
 source_url: "https://www.waterloorecords.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A record store that feels like a live-wire jukebox, where the primary voltage is not a color but the raw energy of Arial at 16px — the default, the workhorse, the font that never pretends to be anything other than what it is. The canvas is pure white (#ffffff), a blank sleeve waiting for the album art to land, while the ink (#000000) is absolute, unapologetic black — the kind you find on a new vinyl pressing. There are no extracted brand colors from the live site, which is itself a statement: Waterloo Records doesn't paint itself in a signature hue; it lets the music do the coloring. The design language is one of radical simplicity — a single column of text, a search bar with {rounded.full} corners that feels like a friendly invitation to dig through the bins, and product cards that are nothing more than a square image, a title, and a price, all sitting on {surface-card} white. The navigation is a horizontal strip of genre links — Rock, Pop, Soul, Jazz — each one a door to a different room in the store. The only ornament is the occasional badge — "NEW ARRIVAL" in bold black caps on a white background — or a sale price in a muted gray (#6a6a6a) that whispers "deal" rather than shouting. The layout trusts the album cover to do the selling; the interface is just the shelf. It's the digital equivalent of a store where the owner knows every record in stock and the only thing between you and the music is a counter and a cash register.
 
@@ -408,6 +412,13 @@ components:
 - The footer collapses from 4 columns to a single stack on mobile, with each section separated by a hairline border.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

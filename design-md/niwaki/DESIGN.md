@@ -4,6 +4,10 @@ name: "Niwaki"
 source_url: "https://www.niwaki.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every product in the Niwaki catalogue is photographed against bare white — no lifestyle props, no styled surfaces — just the tool suspended in clean emptiness, its silhouette carrying the full argument for ownership. This editorial restraint runs through the entire digital surface: a near-black (#313131) on canvas white, with almost no midtone decoration between them. The brand sells Japanese garden tools to a British audience with the visual language of a specialist instrument maker rather than a lifestyle retailer, and the absence of colour is itself a design position — what would be chromatically expressive on a fashion or food brand reads here as confidence in craft. Navigation is flat and architectural, with a category structure that mirrors the seriousness of the product taxonomy (pruning, ladders, maintenance, clothing). Typography leans toward the clean and editorial — generous line heights, modest weights, no display font theatrics — because the tools themselves are the visual event. Buttons operate in the same dark charcoal as the text, so the primary CTA feels less like a push-point and more like a natural conclusion to reading. Product cards show generous whitespace margins, tools at eye-level in a square crop, with price and title set close together in a tight typographic unit. The brand's Japanese heritage surfaces not through ornament but through studied negative space: what is absent is the design. Corners are square or barely softened — {rounded.none} on primary buttons, {rounded.xs} at most on inputs — and the overall geometry is orthogonal, precise, and unapologetic. The palette recovered from a live crawl reduced to a single tone (#313131), which speaks to a brand that achieves distinction through structural precision rather than colour volume. Any green accent implied by the brand's lacquered tool handles was not confirmed in extraction and is noted as a gap.
 
@@ -328,6 +332,13 @@ components:
 - Footer columns: 4-col → 2-col → single accordion on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

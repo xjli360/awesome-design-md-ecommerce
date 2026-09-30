@@ -4,6 +4,10 @@ name: "iRocker"
 source_url: "https://irockersup.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Electric lime (#e7fd39) against a deep-ocean dark (#003343) is the voltage signature of iRocker's entire visual language — an unlikely pairing that holds its nerve across hero sections, CTA buttons, and promo banners without sliding into hazmat-vest territory, because the brand resolves it by placing dark ink (#24292e) on the lime rather than white, preserving contrast with more seriousness. The surrounding palette reads like a cross-section of open water: midnight #003343 anchors the persistent nav and hero backdrops, #125b6f and #246f85 step toward mid-depth in gradients and card accents, #00a2bf and #1cc6e3 break at the surface in category chips and interactive highlights, and #e0f5fb appears as the faintest cyan wash behind specification comparison blocks. Coral (#e15748) runs point on urgency — low-stock alerts, countdown strips, clearance badges — without ever competing for the primary CTA register. Typography runs Inter Variable throughout the full UI, leaning on weight 600–700 at display scale rather than anything heavier; board names and hero headlines push into the 48–60px range on desktop but the system never escalates past that into condensed-gothic aggression. IBMPlexSerif enters only in editorial zones — ambassador stories, gear-guide pull quotes — where the serif signals narrative mode rather than product conversion. Card corners hold at {rounded.sm} (8px), modest enough to read structural rather than decorative, and buttons flatten further to {rounded.xs} (4px), maintaining the matter-of-fact outdoor-equipment register that the lime alone might undermine. The navigation bar stays in ocean-deep dark (#003343) regardless of underlying page tone, acting as a fixed horizon line that grounds every scroll position. Promo strips at the page crown run lime-on-dark — the primary CTA palette inverted — priming the eye before the hero image finishes loading, so the first conscious color association is action rather than scenery.
 
@@ -440,6 +444,13 @@ components:
 - Spec tiles reflow from 4-column to 2-column grid at tablet, then maintain 2-column on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

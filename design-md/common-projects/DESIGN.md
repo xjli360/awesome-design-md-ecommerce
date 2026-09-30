@@ -4,6 +4,10 @@ name: "Common Projects"
 source_url: "https://commonprojects.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Six digits embossed in gold on white leather — Common Projects built its entire identity on that one mark, and the website enforces the same logic: nothing decorative, no logomark, no swatch explosion, just a stark white canvas where the product photograph does the persuading. The single extracted color, #e9e9e9, turns up as the hairline rule and faint surface separators; against canvas white (#ffffff) and near-black ink (#111111), it barely registers, which is the point. Product pages strip navigation to the minimum — a wordmark in fine-weight roman type, a category dropdown, a bag count. The brand's signature gold (#b8963c) appears only on the serialized stamp rendered in editorial photography, never as a UI accent; using it as a button would break the spell. Body copy runs in a neutral sans-serif, lowercase category labels, all numbers in tabular figures so size grids sit perfectly flush. Rounded corners are functionally absent — images bleed full to their containers, form inputs carry `{rounded.none}`, and size-selector tiles share the same hard-edged square. Spacing is generous: product listings breathe at `{spacing.section}` vertical intervals, image crops feel uncropped, and the add-to-cart bar emerges from the bottom of the viewport on scroll without a drop shadow — just a crisp 1px hairline at `{colors.hairline}`. The whole system reads like a deliberately deflated luxury object: value is communicated by what is absent rather than added.
 
@@ -281,6 +285,13 @@ components:
 - Footer columns stack vertically at mobile; column headers remain as non-interactive plain-text labels
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

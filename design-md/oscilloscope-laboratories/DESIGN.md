@@ -4,6 +4,10 @@ name: "Oscilloscope Laboratories"
 source_url: "https://www.oscilloscope.net"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A film distributor that treats its website like a repertory cinema lobby — warm amber light (#ffcc33) spilling across a charcoal wall (#1e1f26), with ticket-stub buttons and a marquee grid of poster art. The brand’s signature yellow (#ffcc33) appears on every primary CTA, navigation highlight, and badge, while a secondary palette of electric cyan (#1ea0c3), hot pink (#e94c89), and mint (#02e49b) signals genre diversity across the catalog. The site runs Montserrat at modest weights — display headlines at 500/600 rather than heavy 700+, letting the film stills and poster art carry the emotional weight. Navigation is a persistent top bar with dropdown menus, a search icon, and a shopping cart badge, all contained within a clean white canvas (#ffffff) that frames the yellow accents. The home page features a hero carousel of featured films, a grid of "Now Playing" titles, and a "Coming Soon" section — each film card a simple poster thumbnail with title, year, and director credit. The overall feel is that of a curated microcinema: generous whitespace, minimal UI chrome, and color used sparingly but with purpose.
 
@@ -391,6 +395,13 @@ components:
 - Dropdown menus become accordion-style expandable sections on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

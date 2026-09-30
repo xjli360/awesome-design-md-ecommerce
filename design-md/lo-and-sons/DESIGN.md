@@ -4,6 +4,10 @@ name: "Lo & Sons"
 source_url: "https://loandsons.com"
 captured_at: "2026-09-28T09:29:23.807309+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Lo & Sons presents as a family-run, design-forward travel and bag brand built on a
   restrained black-and-white foundation. The only font family present in evidence is
@@ -178,6 +182,12 @@ Recommended, not measured breakpoints:
 Touch targets should be at least 44×44px for nav and button-primary/button-secondary. Navigation is assumed to collapse into a drawer/hamburger below ~1024px, consistent with common Shopify theme behavior, but this was not observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS variable dumps and page text, not a rendered or interactive audit. Several palette entries (`#ebfa8a`, `#8b0000`, `#006400`, `#3ed660`, `#ee9441`, `#1990c6`, `#136f99`, `#0a142f`, `#121212`) appeared in raw custom-property blocks without a clearly labeled component role and have been mapped to plausible utility functions (sale, success, warning, info) as an inferred best guess, not confirmed usage. Typography sizes, weights, letter-spacing, spacing scale, and rounded-corner values are proposed conventions layered onto the single confirmed font family (Geist); no font-size or spacing values were present in the supplied CSS. Hover/focus/active states beyond the one documented button hover (`#f2f2f2`) are proposed. No mobile layout, breakpoint behavior, animation, or interaction states were observed directly. Availability, licensing, and self-hosting terms for the Geist font on this storefront were not verified.

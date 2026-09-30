@@ -4,6 +4,10 @@ name: "OnlineLabels.com"
 source_url: "https://www.onlinelabels.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every product tile on OnlineLabels.com renders a miniature of the physical label sheet — white stock with dotted perforation lines and a dimension callout printed in the margin — treating the substrate itself as the hero image rather than lifestyle photography. This catalog-born logic runs through the entire interface: a dense left-panel filter hierarchy organized by shape, size, material, printer type, and finish sits beside a tight product grid, all anchored by a search bar calibrated to SKU-level specificity (OL123, 4" × 2" Glossy, Round Kraft). The one reliably extracted color is #313131, a near-black charcoal that functions as the universal ink register — heading text, filter labels, SKU identifiers, and checkbox borders all run through this single dark tone. A utility blue (inferred from brand knowledge; not confirmed by live extraction due to Cloudflare anti-bot interception) handles primary CTAs: "Add to Cart," the Maestro Label Designer launch button, and active navigation highlights. Typography falls entirely on the operating system native sans-serif stack — no custom typeface, no brand font files — consistent with a site that has served commercial label buyers since the early web and treats reliable page load over font licensing as a design constraint. Label dimensions display in mixed units (inch-primary, millimeter-secondary in parentheses), signaling a dual audience of consumer buyers and B2B print-shop operators. The Maestro Label Designer — the brand's in-browser design-to-print tool — is the primary differentiator over plain warehouse fulfillment, surfaced as a persistent CTA on every product page. Rounded corners are minimal and functional — small `{rounded.sm}` radii on buttons and cards, never pill-shaped — keeping the interface in catalog territory rather than soft-consumer DTC. The overall density reads closer to a parts database than a lifestyle store: filter counts appear in parentheses beside each facet option, bulk-pricing tiers are shown inline on product cards, and printer-compatibility matrices appear as icon-row indicators rather than prose copy.
 
@@ -387,6 +391,13 @@ components:
 - Compatibility icon row labels hidden below 375px; icons only with tooltip on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

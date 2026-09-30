@@ -4,6 +4,10 @@ name: "Vistaprint"
 source_url: "https://www.vistaprint.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Eleven categorically mapped hues — teal (#117a5e) against sustainability copy, burnt orange (#b94f07) for urgency and rush shipping, salmon (#ffa497) for lifestyle product ranges — transform Vistaprint's color system from a brand palette into a navigational schema that customers decode before they read a headline. The structural axis runs deep navy (#2f3a53) as primary ground to sky-bright accent (#6fd0f5); this specific navy-to-cerulean contrast carries more specificity than the undifferentiated blue-gray systems that most print platforms use. Equally sharp is the type pairing: Tiempos, an editorial serif with ink-press lineage, takes the display and headline register while Graphik handles the functional UI layer — a combination that positions the brand as designed-for-professionals rather than a commodity print shop. Darker navy (#003d62) frames the footer and hero bands, providing visual mass without leaning on product photography to supply it. Warm tinted surfaces (#fff1de, #ffeeeb) back promotional modules and sale callouts; cool-tinted surfaces (#e5f5fd, #e2f8e7) frame informational or environmental messaging — the system encodes editorial tone through surface tint rather than copy length alone. The red (#cc3011) is reserved exclusively for sale pricing and urgency badges; amber (#faa837) marks trending or featured items. Corners stay measured rather than generous: product cards and inputs at {rounded.sm}, primary buttons at {rounded.xs}, nothing reaching pill shape — signaling a working-professional audience rather than a consumer lifestyle brand. Interactive affordances — focus rings, active states, link underlines — run through {colors.primary-accent}, keeping the energetic sky blue active across the interaction layer without competing with {colors.accent-red}'s urgency signal. The result is a printing platform whose color breadth is not decorative abundance but a compressed catalog index.
 
@@ -402,6 +406,13 @@ components:
 - Hero: side-by-side text + image (desktop/tablet) → stacked text-above-image (mobile)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "July"
 source_url: "https://july.com"
 captured_at: "2026-09-28T09:12:13.132238+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   July's storefront evidence points to a high-contrast, editorial travel-goods aesthetic built on a black/white core with warm neutral supports. The root body sets a black background with white foreground variables, and utility classes force pure black text/borders on interactive elements, indicating a stark monochrome UI skeleton. Warm off-whites (#f7f6f4, #fbf7f0, #f4f4f4) recur as likely card/section surfaces against true white and true black, while a muted gray (#666666) and a light hairline gray (#d3d3d3, used on the observed circular close-button border) suggest secondary text and dividers. A small cluster of desaturated accent hues — olive (#a5a987), terracotta (#ca7a4f), deep forest (#203c2b), burgundy (#6f2b31), and indigo (#3e4288) — appears in the palette and is interpreted here as seasonal/collection accent color, not core UI color; this mapping is inferred, not confirmed by layout evidence.
   Typography draws on an extensive custom "July" font family set (July Sans Serif, July Bold, July Autograph, etc.) alongside editorial serif candidates (PPEditorialNew, Georgia) and a monospace stack for code-like UI. Display type is assigned to an editorial serif per brand-marketing convention common to DTC luggage sites; this pairing is proposed, not observed in layout. Body and UI text use July Sans Serif, matching the one concretely observed UI rule (.select-button: 14px/500). The toggle/select-button pattern (unselected white-on-black outline vs. selected black fill with asymmetric bottom radius) is treated as the basis for the category-specific size/variant selector.
@@ -157,6 +161,11 @@ This is a recommended pattern, not measured site behavior; no breakpoints, conta
 Touch targets should be a minimum 44×44px for quick-add and size-selector controls. Nav categories should collapse into a hamburger/menu pattern below `md`. The size-selector's toggle group should stack to full-width buttons on `xs`/`sm`. None of this is confirmed by DOM or viewport evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

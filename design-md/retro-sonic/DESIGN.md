@@ -4,6 +4,10 @@ name: "Retro-Sonic"
 source_url: "https://www.retro-sonic.com"
 captured_at: "2026-09-29T04:10:33.090324+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Retro-Sonic sells hand-built recreations of classic guitar effect pedals, and its site CSS reflects a Wix-built storefront with a neutral gray/black/white base accented by red. The only font-family directly bound to a live selector (`body`) is Arial/Helvetica/sans-serif at a 10px root size, which is typical of Wix's rem-scaling pattern rather than a true reading size. The wider font list (Raleway, Open Sans, Libre Baskerville, Futura, Din Next, Lulo Clean, Courier variants, and several Wix hashed webfont names) are bundle-level resources whose exact element assignments were not resolvable from static evidence; Raleway is proposed here as a plausible display face because it is a common Wix heading choice and appears cleanly in the family list, but this mapping is inferred, not confirmed.
   The palette is dominated by near-black grays (#151414, #2f2e2e, #212121) against white, with a cluster of saturated reds (#ce2026, #e60211, #df3131, #ff4040) that plausibly serve as the brand accent given the pedal-electronics context, and a soft warm-gray scale (#e0dfdf, #f1f0ef) for card and section backgrounds. A blue (#116dff) and multi-stop blue/orange/green ramps also appear in the evidence; these read as Wix editor UI/state colors (links, focus rings, palette swatches) rather than brand marks, and are included only as optional accents. All roles below are semantic inferences layered onto measured hex values — no live layout, spacing, or hover behavior was observed.
@@ -136,6 +140,13 @@ This is a proposed recommendation, not measured site behavior:
 Touch targets should be at least 44×44px for nav links and buttons; the mobile menu should collapse the full category list (Chorus, Flanger, Phaser, Delay, Overdrive, Compressor, Distortion) under a single "Pedals" toggle. None of this was captured in the supplied static CSS/text evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Static extraction returned selectors mostly for a generic Wix `StylableButton` component and root-level CSS variables; no selectors for actual nav, hero, product-card, or footer markup were present, so those components are structurally proposed, not observed.

@@ -4,6 +4,10 @@ name: "Burger Motorsports"
 source_url: "https://burgertuning.com/"
 captured_at: "2026-09-29T04:12:04.903827+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is built from static CSS/color extraction of burgertuning.com,
   the current Shopify-based storefront for Burger Motorsports Inc. (JB4 tuners,
@@ -164,6 +168,14 @@ components:
 Touch targets for buttons and select inputs should maintain a minimum 44px height. Below `md`, the make-based navigation is recommended to collapse into a disclosure/hamburger pattern, and the vehicle fitment search should stack its Make/Model/Year selects vertically. This table is a recommendation based on common e-commerce patterns, not measured site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Bloom Baby"
 source_url: "https://bloombaby.com"
 captured_at: "2026-09-28T09:57:32.591370+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Bloom Baby's site evidence centers on a warm coral-orange accent (#f4633a) set
   against a strict black-and-white foundation (#000000 / #ffffff), consistent
@@ -166,6 +170,14 @@ This is a proposed breakpoint recommendation, not measured site behavior (no res
 Touch targets are recommended at a minimum 44×44px for buttons, color swatches, and nav links. The nav bar should collapse to a hamburger/off-canvas pattern below tablet width, and the color-swatch component should wrap to a horizontal scroll or multi-row layout on narrow viewports. None of this reflects observed DOM/media-query behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Evidence is static CSS/text extraction only; no rendered screenshots, computed layout, or interaction states (hover/focus/active beyond the `:root` review-widget variables) were observed.

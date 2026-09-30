@@ -100,7 +100,7 @@ class ValidationTests(unittest.TestCase):
     def test_inline_component_hex_requires_evidence(self):
         data=parse_document(VALID.replace('backgroundColor: "{colors.primary}"','backgroundColor: "#123456"'))
         errors=worker.evidence_check(data,{'colors':{'#111111':{},'#ffffff':{}},'font_families':{'Arial':[]}})
-        self.assertTrue(any('Unobserved inline color' in e for e in errors))
+        self.assertTrue(any('Unobserved color at components' in e for e in errors))
     def test_candidate_dedupe_and_covered_alias(self):
         sites=[dict(slug='a',canonical_url='a.com',category='A',generated=True),dict(slug='a-alias',canonical_url='a.com',category='B',generated=False),dict(slug='b',canonical_url='b.com',category='B',generated=False),dict(slug='b-alias',canonical_url='b.com',category='C',generated=False)]
         self.assertEqual([r['slug'] for r in worker.choose_pending({'sites':sites})],['b'])
@@ -115,7 +115,10 @@ class ValidationTests(unittest.TestCase):
     def test_redirect_alias_preserves_records_but_deduplicates_target(self):
         with tempfile.TemporaryDirectory() as t:
             root=Path(t);(root/'data').mkdir();(root/'design-md/example').mkdir(parents=True)
-            (root/'design-md/example/DESIGN.md').write_text(VALID)
+            import hashlib
+            legacy_text=VALID.replace('description:', 'source_url: https://example.com\nevidence_status: historical_unverified\ndescription:',1)
+            (root/'design-md/example/DESIGN.md').write_text(legacy_text)
+            (root/'data/legacy_documents.json').write_text(json.dumps({'documents':{'example':{'sha256':hashlib.sha256(legacy_text.encode()).hexdigest()}}}))
             (root/'data/sites.csv').write_text('slug,category,brand_name,url\nexample,A,Example,https://example.com\nold-example,B,Example,https://old-example.com\n')
             (root/'data/url_aliases.json').write_text(json.dumps({'old-example.com':'example.com'}))
             manifest=reconcile(root)

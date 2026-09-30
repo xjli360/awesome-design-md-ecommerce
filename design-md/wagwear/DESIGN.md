@@ -4,6 +4,10 @@ name: "Wagwear"
 source_url: "https://wagwear.com"
 captured_at: "2026-09-28T10:12:16.479190+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Wagwear's storefront CSS shows a warm, editorial-leaning palette built on true black (#000000/#111111) text and CTAs against a soft off-white canvas (#ffffff, with a warm cream #f4f1ec used for product-media backgrounds). Supporting neutrals (#777777, #666666, #e4e1db) carry secondary copy and hairlines, while a small set of saturated accents — orange (#f67e3f, used as the observed review-star color), forest green (#3c9342) and ochre-brown (#7e6b45) — are reserved for product badges (responsible, best-seller) and rating UI. Typography draws on "Jost" for display-weight headings and an Avenir/Avenir Next/Helvetica Neue stack for body and UI copy, matching the site's mix of a geometric display face with a humanist workhorse sans; exact rendered pixel sizes are inferred from CSS custom-property names (heading-display-1 through heading-6, body-400 through body-200) whose root em-scale was not confirmed, so sizes below are proposed approximations, not measured. The interpretation favors a clean, gallery-like product grid (cream media tiles, black text, generous whitespace) with small saturated badge/rating accents to keep focus on the dog-boot and apparel photography, consistent with the "design-minded dog" positioning in the copy.
 
@@ -153,6 +157,13 @@ Proposed breakpoints (not measured from live site behavior):
 Touch targets should be at minimum 44×44px for nav links, badges, and swatch controls. Mega-menu category flyouts should collapse to an accordion pattern below tablet width. This table is a recommendation based on typical Shopify-theme conventions, not an observation of Wagwear's actual responsive markup or breakpoints.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

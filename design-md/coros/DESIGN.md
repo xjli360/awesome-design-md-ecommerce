@@ -4,6 +4,10 @@ name: "Coros"
 source_url: "https://coros.com"
 captured_at: "2026-09-28T04:56:48.355587+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Coros (高驰) presents its GPS-watch and endurance-training catalog on a stark
   white canvas (#ffffff) with near-black ink (#000000, #0d0d0d) for headlines
@@ -149,6 +153,13 @@ components:
 Touch targets should be at least 44×44px for buttons and nav icons. Navigation collapse, drawer behavior, and grid column counts above are proposed conventions for a wearables e-commerce site and are not measured from live rendering.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered layout, breakpoints, hover/focus states, or JavaScript-driven interactions were observed. Color-to-role mapping (e.g., which red variant is the "true" CTA color, dark navy as hero vs. dark-mode background) is inferred from frequency and typical e-commerce convention, not confirmed via screenshots. Font-family assignments use only the family names present in the supplied CSS (DINCOROS, PFDINTextPro, SourceHanSansCN, NotoSansJP, PingFang SC, Microsoft YaHei, Inter) with generic fallbacks; actual font licensing, availability, and rendering weight are not verified. All spacing, radius, and breakpoint values are proposed design-system defaults, not measured from the live site. Component states (hover, focus, disabled, loading) are proposed only.

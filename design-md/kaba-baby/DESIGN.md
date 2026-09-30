@@ -4,6 +4,10 @@ name: "Kaba Baby"
 source_url: "https://kabababy.com"
 captured_at: "2026-09-28T10:16:01.805528+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Kaba Baby's evidence set centers on a burnt-orange primary (#f3761f) set against
   a deep navy ink (#1a2238) and a white canvas, a pairing confirmed directly in the
@@ -165,6 +169,13 @@ This is a recommended structure, not measured site behavior — no breakpoint or
 Touch targets should be at least 44×44px for nav, cart, and button elements regardless of the compact 11–13px type scale observed in desktop CSS. Primary navigation is assumed to collapse into a disclosure/hamburger pattern below `md`, consistent with the `.disclosure__toggle` selector present in the theme but whose open/closed visual states were not included in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 The supplied evidence is a static, partial extraction of selectors and computed values, not a rendered-page audit — no layout grid, spacing rhythm, or component geometry beyond the listed rules was observed. Several font names (Jost, Averia Serif Libre, Baskerville, La Belle Aurore, BlackSingature) appear in the raw font list but are not tied to any supplied selector, so they are omitted from typography tokens; their licensing and actual usage on the live site are unverified. Neutral roles (`muted`, `hairline`, `surface-card`, `surface-warm`, `highlight`) are inferred from swatch tone/position rather than confirmed selector context, since the palette array does not label roles. All font sizes beyond the directly observed `13px` body and `.6875em` button rules are proposed estimates for hierarchy purposes. The `rounded` scale is proposed; the only radius value in evidence (`16px`, from the Shopify chat widget `:root` variable) is not confirmed to apply to buttons, cards, or inputs. No hover/focus/active states were observed beyond the documented `:focus` outline (`#f3761f`, 5px) and the `.button.outline`/`.button.simple` hover color swap. Mobile menu behavior, cart drawer interaction, and any JavaScript-driven states were not present in the supplied static evidence and are not claimed here.

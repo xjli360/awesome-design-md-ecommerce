@@ -4,6 +4,10 @@ name: "Cult Epics"
 source_url: "https://www.cultepics.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A vault door painted in #ff0000 — that single, unapologetic red is the brand's handshake, appearing on the home-page hero banner, the "Shop" button, and the site's only persistent accent against a concrete-and-steel palette of #222222, #292e31, and #1e1e1e. The site feels like a midnight crawl through a video-store annex where the horror, cult, and exploitation sections never got the memo about streaming. Abril Fatface, a slab serif with the gravity of a film-title card, anchors display headlines at 28–36px, while the body runs in Open Sans at 14–16px — a deliberate tension between theatrical and utilitarian. The extracted color list is dominated by grays (#ced4d9, #777777, #aaaaaa, #d6d6d6, #e7e7e7, #e5e5e5, #e1e1e1, #d4d4d4, #ededed, #eaeaea) and blues (#0084b4, #0096ff, #009aee, #00a8ff, #a8d8ee), but the brand's true signature is the red #ff0000 and the gold #ffd658 that appears on badge-like elements and price highlights. The marigold #fecf72 and amber #f3a847 suggest sale or limited-edition callouts. A secondary green #8bc027 appears in stock-status indicators. The site uses pill-shaped buttons (`{rounded.full}`) for primary CTAs, while product cards use a softer `{rounded.sm}`. The nav bar is a dark slab (#222222) with white text, and the footer drops into near-black (#1e1e1e). This is a brand that trusts high-contrast typography and color-blocking over photography — the red and gold do the emotional work.
 
@@ -379,6 +383,13 @@ components:
 - **Wide (> 1440px):** The main content area is constrained to a 1440px max-width container; the nav and footer remain full-width; product cards may expand to 4 columns.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

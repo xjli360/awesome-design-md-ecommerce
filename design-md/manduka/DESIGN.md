@@ -4,6 +4,10 @@ name: "Manduka"
 source_url: "https://www.manduka.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, quiet studio presence built on a near-black ink (#141414) and a single shot of deep teal (#011f31) that reads like the color of a yoga mat after a hot class — dark, calm, and slightly wet. The brand's primary accent is a muted gold (#8e8733), not a bright CTA color, used sparingly on sale badges and small highlights; it feels like a brass gong rather than a digital button. The canvas is a warm off-white (#f6f6f6) that avoids the sterile hospital white of most DTC sites, and the entire layout breathes through generous whitespace and a restrained typographic system built on Assistant and Inter at modest weights. Product cards use soft rounded corners (`{rounded.sm}` ~8px) and thin hairlines (#dedede) that suggest a premium mat unrolled on a clean floor. There are no hard edges, no aggressive CTAs, no urgency — the site trusts the product photography (yogis in deep poses, mat textures, studio light) to do the selling. The nav bar is a thin, fixed strip with the logo centered, category links in lowercase, and a small cart icon; the search icon is a simple line glyph, not a pill. The footer runs dark (#141414) with gold links, a newsletter signup, and a sustainability badge. The overall mood is "the studio before class starts" — hushed, intentional, and built for longevity.
 
@@ -375,6 +379,13 @@ components:
 - Accordion: all product detail accordions start collapsed on mobile; first accordion open on desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

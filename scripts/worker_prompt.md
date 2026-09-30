@@ -56,3 +56,7 @@ Raw HTML/CSS snapshots remain in ignored local state. Only validated output is
 written atomically to `design-md/<slug>/`. Existing files and redirect aliases do
 not consume new-site slots. Indexing uses the canonical manifest, and no git
 commit or external publication occurs automatically.
+
+The shared admission policy requires schema-version-2 declaration proofs and exact token-value mappings. All colors (including RGB/HSL literals) and nested component font stacks must have evidence. Finite, valid CSS dimensions are required. Manual source HOLDs override file existence. Retained browser evidence is usable only when the latest attempt is ready and its identity and hashes match.
+
+Do not inject a standard 48px heading or a fixed spacing scale into every brand. Use supplied measured component values when applicable; otherwise explicitly label numeric layout values as proposals. The default recommendation index excludes unverified historical tokens. Neither CSS presence nor measured component samples establishes full-site reconstruction fidelity.

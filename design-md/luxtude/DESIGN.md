@@ -4,6 +4,10 @@ name: "Luxtude"
 source_url: "https://www.luxtude.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every portable charger on the market is a black rectangle — Luxtude's homepage opens with one too, but shot at an angle that catches an edge gleam like a phone screen waking up, collapsing the distinction between the device being charged and the charger itself. The site runs on a Chinese website-builder platform (hkwezhan.cn) that renders all content client-side via JavaScript, so the canonical palette and font stacks cannot be extracted through static analysis. What surfaces from Amazon product photography and packaging is a brand that gravitates toward a cool teal accent — approximately #00b4c5 — set against matte black product bodies and clean white page canvases. This teal sits in the gap between consumer-electronics cyan and healthcare aqua, warm enough to feel approachable but technical enough to promise wattage. Typography appears to rely on system sans-serif stacks rather than a custom brand face; the brand invests in product photography and specification clarity over typographic personality. Button shapes lean toward soft pills ({rounded.full}) on hero CTAs and gentler radii ({rounded.sm}) on product-card actions, mirroring the rounded-rectangle silhouette of the power banks themselves. Product cards emphasize capacity (mAh), output (W), and physical dimensions in a compact spec strip below the product image — the buyer's decision is technical, not emotional. A secondary palette of status colors — battery-green for full-charge indicators, amber for compatibility warnings — maps directly to the product's LED feedback language. The dark hero sections (#111820) function like the inside of a bag where you'd reach for a charger: the product floats against negative space, lit by its own spec callouts rather than lifestyle context. Footer and support pages surface warranty claims and compatibility matrices, reflecting a brand whose post-purchase relationship is built on specs, not storytelling.
 
@@ -429,6 +433,13 @@ components:
 - Footer link columns collapse to expandable accordion sections on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

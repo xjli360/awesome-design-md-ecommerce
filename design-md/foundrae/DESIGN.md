@@ -4,6 +4,10 @@ name: "Foundrae"
 source_url: "https://www.foundrae.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Medallions struck with archetypal symbols — Wholeness, Alchemy, Protect — float against a near-void background of #0a0e10, a black so dense it erases any perceived border between canvas and unlit screen. Foundrae builds meaning into material: 18k gold in full relief against this darkness carries visual weight that white-canvas luxury brands achieve only through image staging. The coral accent (#ff7f50) materializes only at the moment of purchase action — the primary CTA and add-to-cart button — appearing nowhere in headers, nowhere in navigation, nowhere decorative, so that when it appears it reads as something urgent against the dominant near-black field. Category labels and structural wayfinding are rendered in muted olive-grey (#757562), occupying deliberate middle territory between the near-black canvas and the light ink (#dedede) of product names and prices. This creates a three-register hierarchy: product identity in light text, category taxonomy in olive, active action in coral — three temperatures, none competing. Navigation runs in tight uppercase letterforms at high tracking, a compressed script that suits the archival gravity of the brand's naming conventions — these are not charm collections but symbolic systems. Border-radius is minimal throughout, {rounded.none} to {rounded.xs}, maintaining the architectural geometry expected of objects meant to last decades rather than UX patterns that date in eighteen months. Card grids sit flush with hairline dividers at #2a2a2a, faintly visible against near-black surfaces, marking structure without introducing noise. Typography loads only as "inherit" in extraction, but the proportional weights and tracking choices visible in computed styles suggest a restrained serif or transitional cut in the 300–400 weight range across display and body — no ultra-thin romantics, no heavy editorial gestures — allowing material photography to carry the sentence. Spacing is generous at section scale ({spacing.section}) but compressed within product cards, where name, metal type, and price run close together like entries in a jeweler's ledger. The symbol catalog scroll — a horizontally scrolling row of named amulet families — is the brand's most distinctive navigation pattern, presenting its entire symbolic vocabulary as primary wayfinding before price or category filters, an unusual inversion of standard e-commerce hierarchy.
 
@@ -321,6 +325,13 @@ components:
 - Search expands as a full-width overlay at all breakpoints — no inline expansion
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

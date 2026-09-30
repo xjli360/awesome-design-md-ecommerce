@@ -22,22 +22,14 @@
     }
   ],
   "colors": {
-    "#3a3a3a": {
-      "count": 104,
-      "sources": [
-        "https://comotomo.com/collections/shop-all",
-        "https://comotomo.com/collections/shop-all#computed-style-snapshot"
-      ]
-    },
     "#ffffff": {
       "count": 29,
       "sources": [
-        "https://comotomo.com/collections/shop-all",
-        "https://comotomo.com/collections/shop-all#computed-style-snapshot"
+        "https://comotomo.com/collections/shop-all"
       ]
     },
-    "#4b4b4b": {
-      "count": 6,
+    "#00000000": {
+      "count": 1,
       "sources": [
         "https://comotomo.com/collections/shop-all"
       ]
@@ -54,39 +46,14 @@
         "https://comotomo.com/collections/shop-all"
       ]
     },
-    "#000000": {
-      "count": 4,
-      "sources": [
-        "https://comotomo.com/collections/shop-all"
-      ]
-    },
-    "#707070": {
-      "count": 4,
-      "sources": [
-        "https://comotomo.com/collections/shop-all"
-      ]
-    },
-    "#c8c8c8": {
-      "count": 4,
-      "sources": [
-        "https://comotomo.com/collections/shop-all"
-      ]
-    },
-    "#dbdde4": {
-      "count": 3,
-      "sources": [
-        "https://comotomo.com/collections/shop-all"
-      ]
-    },
-    "#777777": {
-      "count": 3,
-      "sources": [
-        "https://comotomo.com/collections/shop-all",
-        "https://comotomo.com/collections/shop-all#computed-style-snapshot"
-      ]
-    },
     "#f4f4f6": {
       "count": 2,
+      "sources": [
+        "https://comotomo.com/collections/shop-all"
+      ]
+    },
+    "#000000": {
+      "count": 4,
       "sources": [
         "https://comotomo.com/collections/shop-all"
       ]
@@ -97,38 +64,20 @@
         "https://comotomo.com/collections/shop-all"
       ]
     },
+    "#3a3a3a": {
+      "count": 104,
+      "sources": [
+        "https://comotomo.com/collections/shop-all"
+      ]
+    },
+    "#dbdde4": {
+      "count": 3,
+      "sources": [
+        "https://comotomo.com/collections/shop-all"
+      ]
+    },
     "#e5e5eb": {
       "count": 2,
-      "sources": [
-        "https://comotomo.com/collections/shop-all"
-      ]
-    },
-    "#323232": {
-      "count": 2,
-      "sources": [
-        "https://comotomo.com/collections/shop-all"
-      ]
-    },
-    "#999999": {
-      "count": 2,
-      "sources": [
-        "https://comotomo.com/collections/shop-all"
-      ]
-    },
-    "#2c3e50": {
-      "count": 1,
-      "sources": [
-        "https://comotomo.com/collections/shop-all"
-      ]
-    },
-    "#9a9db1": {
-      "count": 1,
-      "sources": [
-        "https://comotomo.com/collections/shop-all"
-      ]
-    },
-    "#d3d4dd": {
-      "count": 1,
       "sources": [
         "https://comotomo.com/collections/shop-all"
       ]
@@ -145,8 +94,8 @@
         "https://comotomo.com/collections/shop-all"
       ]
     },
-    "#0071ce": {
-      "count": 1,
+    "#777777": {
+      "count": 3,
       "sources": [
         "https://comotomo.com/collections/shop-all"
       ]
@@ -156,59 +105,10 @@
       "sources": [
         "https://comotomo.com/collections/shop-all"
       ]
-    },
-    "#232323": {
-      "count": 1,
-      "sources": [
-        "https://comotomo.com/collections/shop-all"
-      ]
-    },
-    "#eb001b": {
-      "count": 1,
-      "sources": [
-        "https://comotomo.com/collections/shop-all"
-      ]
-    },
-    "#f79e1b": {
-      "count": 1,
-      "sources": [
-        "https://comotomo.com/collections/shop-all"
-      ]
-    },
-    "#ff5f00": {
-      "count": 1,
-      "sources": [
-        "https://comotomo.com/collections/shop-all"
-      ]
-    },
-    "#142fbd": {
-      "count": 1,
-      "sources": [
-        "https://comotomo.com/collections/shop-all"
-      ]
-    },
-    "#1532cb": {
-      "count": 1,
-      "sources": [
-        "https://comotomo.com/collections/shop-all"
-      ]
-    },
-    "#e4e4e4": {
-      "count": 1,
-      "sources": [
-        "https://comotomo.com/collections/shop-all#computed-style-snapshot"
-      ]
     }
   },
   "font_families": {
     "Noto Sans Display": [
-      "https://comotomo.com/collections/shop-all"
-    ],
-    "Pretendard": [
-      "https://comotomo.com/collections/shop-all",
-      "https://comotomo.com/collections/shop-all#computed-style-snapshot"
-    ],
-    "oke-widget-icons": [
       "https://comotomo.com/collections/shop-all"
     ]
   },
@@ -376,10 +276,11 @@
       "sha256": "fb4c8dddfd252280e46a3c0dbf24cee197baac5ebaee25744df0f590543c1fd6"
     }
   ],
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "remaining-20260929",
   "tokens": {
     "colors.primary": {
+      "value": "#272d45",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -387,6 +288,7 @@
       ]
     },
     "colors.ink": {
+      "value": "#1c1c1c",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -394,30 +296,31 @@
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://comotomo.com/collections/shop-all",
-        "https://comotomo.com/collections/shop-all#computed-style-snapshot"
+        "https://comotomo.com/collections/shop-all"
       ]
     },
     "colors.body": {
+      "value": "#3a3a3a",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://comotomo.com/collections/shop-all",
-        "https://comotomo.com/collections/shop-all#computed-style-snapshot"
+        "https://comotomo.com/collections/shop-all"
       ]
     },
     "colors.muted": {
+      "value": "#777777",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://comotomo.com/collections/shop-all",
-        "https://comotomo.com/collections/shop-all#computed-style-snapshot"
+        "https://comotomo.com/collections/shop-all"
       ]
     },
     "colors.hairline": {
+      "value": "#dbdde4",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -425,6 +328,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#f7f7f8",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -432,6 +336,7 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#f4f4f6",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -439,14 +344,15 @@
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://comotomo.com/collections/shop-all",
-        "https://comotomo.com/collections/shop-all#computed-style-snapshot"
+        "https://comotomo.com/collections/shop-all"
       ]
     },
     "colors.accent-mint": {
+      "value": "#b2f9e9",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -454,6 +360,7 @@
       ]
     },
     "colors.surface-alt": {
+      "value": "#e5e5eb",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -461,6 +368,7 @@
       ]
     },
     "colors.border-light": {
+      "value": "#e5e5e5",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -468,6 +376,7 @@
       ]
     },
     "colors.text-secondary": {
+      "value": "#676986",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -475,110 +384,378 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Noto Sans Display', sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 900,
+        "lineHeight": 1.1,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "'Noto Sans Display', sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 900,
+        "lineHeight": 1.15,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "'Noto Sans Display', sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 700,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "'Noto Sans Display', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 700,
+        "lineHeight": 1.8,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Noto Sans Display', sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "'Noto Sans Display', sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "'Noto Sans Display', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1,
+        "letterSpacing": "0.5px",
+        "textTransform": "uppercase"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}",
+        "typography": "{typography.body-sm}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairlineColor": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.md}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "padding": "{spacing.base}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "headingTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "linkTypography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-mint}",
+        "textColor": "{colors.ink}",
+        "rounded": "{rounded.full}",
+        "typography": "{typography.caption}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.review-widget": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "buttonBackground": "{colors.surface-soft}",
+        "buttonBackgroundHover": "{colors.surface-card}",
+        "buttonBackgroundActive": "{colors.text-secondary}",
+        "textColor": "{colors.body}",
+        "rounded": "{rounded.sm}",
+        "typography": "{typography.body-sm}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--payment-terms-background-color",
+        "declaration": "#ffffff",
+        "url": "https://comotomo.com/collections/shop-all",
+        "snapshot": "homepage.html",
+        "sha256": "f2356a15337cafc267e925edcaa45b51a4696eed7aa3f57dc0f95cd8c4c5ca6a"
+      },
+      "#00000000": {
+        "selector": ".okeReviews[data-oke-container] button,div.okeReviews button",
+        "property": "background-color",
+        "declaration": "transparent",
+        "url": "https://comotomo.com/collections/shop-all",
+        "snapshot": "homepage.html",
+        "sha256": "f2356a15337cafc267e925edcaa45b51a4696eed7aa3f57dc0f95cd8c4c5ca6a"
+      },
+      "#272d45": {
+        "selector": ".okeReviews[data-oke-container] .oke-modal,.okeReviews[data-oke-container] .oke-modal p,div.okeReviews .oke-modal,div.okeReviews .oke-modal p",
+        "property": "color",
+        "declaration": "#272d45",
+        "url": "https://comotomo.com/collections/shop-all",
+        "snapshot": "homepage.html",
+        "sha256": "f2356a15337cafc267e925edcaa45b51a4696eed7aa3f57dc0f95cd8c4c5ca6a"
+      },
+      "#676986": {
+        "selector": ".okeReviews[data-oke-container] .oke-modal .oke-helpful,.okeReviews[data-oke-container] .oke-modal .oke-helpful-vote-button,.okeReviews[data-oke-container] .oke-modal .oke-reviewContent-date,div.okeReviews .oke-modal .oke-helpful,div.okeReviews .oke-modal .oke-helpful-vote-button,div.okeReviews .oke",
+        "property": "color",
+        "declaration": "#676986",
+        "url": "https://comotomo.com/collections/shop-all",
+        "snapshot": "homepage.html",
+        "sha256": "f2356a15337cafc267e925edcaa45b51a4696eed7aa3f57dc0f95cd8c4c5ca6a"
+      },
+      "#f4f4f6": {
+        "selector": ".okeReviews[data-oke-container] .oke-tag,div.okeReviews .oke-tag",
+        "property": "background-color",
+        "declaration": "#f4f4f6",
+        "url": "https://comotomo.com/collections/shop-all",
+        "snapshot": "homepage.html",
+        "sha256": "f2356a15337cafc267e925edcaa45b51a4696eed7aa3f57dc0f95cd8c4c5ca6a"
+      },
+      "#000000": {
+        "selector": ".oke-rs .oke-reviewsSummary.oke-is-preRender .oke-reviewsSummary-summary",
+        "property": "-webkit-mask",
+        "declaration": "linear-gradient(180deg,#000 0,#000 40%,transparent 95%,transparent 0) 100% 50%/100% 100% repeat-x",
+        "url": "https://comotomo.com/collections/shop-all",
+        "snapshot": "homepage.html",
+        "sha256": "f2356a15337cafc267e925edcaa45b51a4696eed7aa3f57dc0f95cd8c4c5ca6a"
+      },
+      "#f7f7f8": {
+        "selector": ":root",
+        "property": "--oke-button-backgroundcolor",
+        "declaration": "#f7f7f8",
+        "url": "https://comotomo.com/collections/shop-all",
+        "snapshot": "homepage.html",
+        "sha256": "f2356a15337cafc267e925edcaa45b51a4696eed7aa3f57dc0f95cd8c4c5ca6a"
+      },
+      "#3a3a3a": {
+        "selector": ":root",
+        "property": "--oke-button-textcolor",
+        "declaration": "#3a3a3a",
+        "url": "https://comotomo.com/collections/shop-all",
+        "snapshot": "homepage.html",
+        "sha256": "f2356a15337cafc267e925edcaa45b51a4696eed7aa3f57dc0f95cd8c4c5ca6a"
+      },
+      "#dbdde4": {
+        "selector": ":root",
+        "property": "--oke-button-bordercolor",
+        "declaration": "#dbdde4",
+        "url": "https://comotomo.com/collections/shop-all",
+        "snapshot": "homepage.html",
+        "sha256": "f2356a15337cafc267e925edcaa45b51a4696eed7aa3f57dc0f95cd8c4c5ca6a"
+      },
+      "#e5e5eb": {
+        "selector": ":root",
+        "property": "--oke-border-color",
+        "declaration": "#e5e5eb",
+        "url": "https://comotomo.com/collections/shop-all",
+        "snapshot": "homepage.html",
+        "sha256": "f2356a15337cafc267e925edcaa45b51a4696eed7aa3f57dc0f95cd8c4c5ca6a"
+      },
+      "#b2f9e9": {
+        "selector": ":root",
+        "property": "--oke-filter-searchhighlightcolor",
+        "declaration": "#b2f9e9",
+        "url": "https://comotomo.com/collections/shop-all",
+        "snapshot": "homepage.html",
+        "sha256": "f2356a15337cafc267e925edcaa45b51a4696eed7aa3f57dc0f95cd8c4c5ca6a"
+      },
+      "#e5e5e5": {
+        "selector": ":root",
+        "property": "--oke-stars-backgroundcolor",
+        "declaration": "#e5e5e5",
+        "url": "https://comotomo.com/collections/shop-all",
+        "snapshot": "homepage.html",
+        "sha256": "f2356a15337cafc267e925edcaa45b51a4696eed7aa3f57dc0f95cd8c4c5ca6a"
+      },
+      "#777777": {
+        "selector": ".newsletter__subheading p",
+        "property": "color",
+        "declaration": "#777",
+        "url": "https://comotomo.com/collections/shop-all",
+        "snapshot": "homepage.html",
+        "sha256": "f2356a15337cafc267e925edcaa45b51a4696eed7aa3f57dc0f95cd8c4c5ca6a"
+      },
+      "#1c1c1c": {
+        "selector": "inline-style",
+        "property": "fill",
+        "declaration": "#1C1C1C",
+        "url": "https://comotomo.com/collections/shop-all",
+        "snapshot": "homepage.html",
+        "sha256": "f2356a15337cafc267e925edcaa45b51a4696eed7aa3f57dc0f95cd8c4c5ca6a"
+      }
+    },
+    "font_families": {
+      "Noto Sans Display": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Noto Sans Display\"",
+        "url": "https://comotomo.com/collections/shop-all",
+        "snapshot": "homepage.html",
+        "sha256": "f2356a15337cafc267e925edcaa45b51a4696eed7aa3f57dc0f95cd8c4c5ca6a"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

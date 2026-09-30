@@ -4,6 +4,10 @@ name: "Doona"
 source_url: "https://doona.com"
 captured_at: "2026-09-28T09:06:02.501414+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Doona's evidence shows a strict black-and-white foundation: body copy renders in pure black (#000) on a white canvas, with primary calls-to-action using the same black/white pairing (button_default and filledBlackHover both set black background with white text). A cluster of neutral grays (#595959, #707070, #8f8f8f, #e5e7eb, #e0e0e0, #f7f5f4, #f8f8f8) supports secondary text, hairlines, and soft surfaces typical of a premium juvenile-products storefront. A small set of saturated hues (#fed100, #228b22, #ed0303, #deb887, #37504d) appear only in the raw palette without selector context; these are treated as inferred product/color-swatch values (e.g., "Midnight Edition" or accessory colorways) rather than core UI colors. #007aff is the Swiper carousel theme accent, retained here as an interactive accent. The only observed font family is "century-gothic-std" with a standard system-sans fallback stack, suggesting a clean, geometric, minimal-personality typographic voice consistent with a safety-focused baby-gear brand. All type sizes, weights, radii, and spacing below are proposed conventions layered onto this restrained observed palette, not measured values, since the CSS evidence exposes only resets, variables, and hover-state color swaps rather than a full type or spacing scale.
 
@@ -142,6 +146,11 @@ This breakpoint table is a recommendation based on common e-commerce patterns an
 Touch targets are recommended at a minimum 44px hit area, consistent with the `.icon-button:after` rule's `width:max(44px,100%)` pseudo-element expansion, which is an actually observed accessibility affordance in the CSS. Collapse behavior for the mega-menu (Doona Car Seat & Stroller / Liki Trike / Accessories / Doona's world) on mobile is proposed, not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS extraction and page-text evidence only; no rendered layout, computed styles, responsive breakpoints, or interaction states beyond the two hover rules noted above were observed. Semantic color-role assignments (primary, muted, surface-soft, swatch colors) are inferred from limited selector context and may not reflect actual brand usage. All typographic sizes, weights, and letter-spacing values are proposed conventions layered onto the single confirmed font-family declaration (`century-gothic-std` with system-sans fallbacks); no font-size or weight scale was present in the supplied CSS. Radius and spacing scales are proposed defaults, not extracted from site tokens. Mobile navigation collapse, cart drawer behavior, and product-swatch interaction were not present in the evidence and are marked proposed throughout. Availability, licensing, and web-delivery format of "century-gothic-std" were not verified from the supplied evidence.

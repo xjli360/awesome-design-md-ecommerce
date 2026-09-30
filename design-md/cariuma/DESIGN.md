@@ -4,6 +4,10 @@ name: "Cariuma"
 source_url: "https://cariuma.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Forest teal (#108474) does the heavy lifting in Cariuma's visual system — not a generic eco-marketing green but a deep, almost oceanic hue that anchors every primary CTA, sustainability callout, and active hover state. The supporting palette tells the rest of the brand's ecological story: a bright chartreuse green (#77c043) for certified-material badges and growth signals, a warm golden yellow (#fbcd0a) for promotional moments and sale strips, and a quieter soft lavender (#a89cc8) that surfaces in seasonal colorways without overpowering the core teal. Type splits across two registers: Baskerville carries the editorial weight — section headers where conviction matters, long-form sustainability copy that reads like a printed manifesto — while HCo Gotham handles product UI, navigation labels, and button copy in clean geometric mid-weight. Neither font reaches for decorative effect; together they read as a brand that wants to be taken seriously without performing luxury. The canvas stays near-white (#fafafa, #f9fafb) held up by a hierarchy of cool light grays (#f5f5f5, #f2f2f2, #eeeeee) that let natural-material product photography do its work — cork soles, bamboo canvas, and sugarcane-based midsoles all photograph cleaner against these neutral grounds. Corners land at `{rounded.none}` to `{rounded.sm}`; there are no pill shapes here, no rounded-corner friendliness borrowed from athleisure — Cariuma's geometry is straight-shouldered, closer to craft heritage than lifestyle sport. Sustainability panels shift to a light teal wash (#edf5f5) as a tonal signal that the brand is explaining rather than selling, separating its values language from its conversion language. Spacing is generous at the `{spacing.section}` level, letting photography breathe between story beats so each shoe feels curated rather than catalogued. Checkout and size-selector flows strip color to near-black (#121212) and white, keeping the conversion path clear while every upstream page deploys the full palette to communicate environmental ambitions.
 
@@ -350,6 +354,13 @@ components:
 - Hero: side-by-side split → stacked (image above, copy below) below 744px; minimum hero height collapses from 600px to natural content height
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

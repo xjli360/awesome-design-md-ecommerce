@@ -4,6 +4,10 @@ name: "Pura Vida Bracelets"
 source_url: "https://www.puravidabracelets.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Thread around thread around thread — the entire catalog is organized as a color delivery system, the stacked-wrist shot being the explicit outcome the product photography architects toward. The canvas arrives as a bleached neutral stack: near-white surfaces (#f9fafb, #f9f9f9) layered with warm cream (#f3efdc) for editorial and gifting moments, all chromatic weight carried by a coral tuned precisely between ripe fruit and afternoon sun (#ff7f55) and a deep reef teal (#108474) that reads as the brand's moral register — appearing on charitable partnership callouts, announcement bars, and cause-marketing badges rather than hard-sell CTAs. Supporting color notes include an amber-yellow (#fbcd0a) that surfaces on NEW and flash-sale badges, and a soft lavender (#a89cc8) that arrives with seasonal capsule collections. The near-black ink (#241f20) avoids pure black, warming headlines and body copy by a few degrees.
 
@@ -380,6 +384,13 @@ components:
 - Engraving selector becomes a full-screen bottom-sheet modal at mobile widths to give the font preview panel adequate vertical space
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

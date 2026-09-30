@@ -4,6 +4,10 @@ name: "Love Wellness"
 source_url: "https://lovewellness.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A magenta voltage (#bb4192) runs through Love Wellness like a pulse — it’s the color of the brand’s primary CTA buttons, the checkout accent, and the glow behind product photography on a site that otherwise lives in near-black (#1e1814) and warm off-white (#fcfaf9). The palette is deliberately constrained: deep charcoal body text (#121212), a secondary plum (#9f377c) for hover states and badge fills, and a minty teal (#00caaa) that surfaces only in sale badges and promotional banners, creating a rare moment of cool relief. Typography leans on two distinct voices: BentonModDispCond for condensed display headlines that feel editorial and shelf-ready, and FS Kim for body copy — a rounded, humanist sans-serif that keeps the brand from feeling clinical despite its health category. Buttons are pill-shaped (`{rounded.full}`) and tall (48px), with the primary button carrying the full magenta weight and a secondary outlined variant in charcoal. Product cards use a soft shadow on white (`{colors.surface-card}`) with the product image bleeding edge-to-edge and the title set in FS Kim at 14px. The navigation bar is fixed, transparent on scroll-start then snapping to white with a bottom hairline (`{colors.hairline}`). The brand’s signature move is the “Good to Know” accordion on product detail pages — a teal-triggered expandable that reveals ingredient sourcing and usage tips, turning clinical information into a friendly reveal. The footer is dense and two-column, with a newsletter signup that uses the magenta CTA pill and a “Bye, Bye” sign-off in BentonModDispCond display type. The overall feel is confident, warm, and unapologetically pink — a health brand that refuses to be beige.
 
@@ -326,6 +330,13 @@ components:
 - Accordion content is always expanded on desktop for product detail pages, collapsible on mobile to save vertical space
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

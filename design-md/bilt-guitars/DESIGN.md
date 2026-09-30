@@ -4,6 +4,10 @@ name: "Bilt Guitars"
 source_url: "https://www.biltguitars.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every instrument at Bilt begins as a blank configuration — the site is structured around a spec-builder, not a fixed catalog, which means the UI must simultaneously hold the intimacy of a lutherie conversation and the precision of a parts manifest. The canvas is near-black, running from #110c1d at the deepest hero moments to #1a1230 in panel backgrounds, a darkness that evokes the velvet interior of a hard-shell case rather than a generic dark-mode treatment. Against this field, the brand's primary action color is a deep navy #003388 — a restrained choice that carries every call-to-action ("Start Building," "Add to Cart," spec confirmation) while resisting the excitability of the brighter colors elsewhere in the extracted palette.
 
@@ -354,6 +358,14 @@ components:
 - Nav bar height stays fixed at 64px across all breakpoints; the CTA button collapses to an icon-only state at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

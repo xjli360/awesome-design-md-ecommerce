@@ -4,6 +4,10 @@ name: "NL Beauty"
 source_url: "https://nlbeauty.bg"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   NL Beauty is a Bulgarian makeup and cosmetics brand that speaks with the confidence of a global player while maintaining an earthy, approachable warmth. The palette is anchored by a deep teal-green (#108474) that appears across primary buttons, badges, and accent elements — a bold choice that avoids the predictable pink or black of conventional beauty brands. This primary voltage is supported by a rich, almost forest-like secondary palette: #102b26, #031612, and #01150f create depth in footers and overlays, while #3c9342 and #478947 introduce a fresh, botanical accent for sale tags or eco-friendly messaging. The brand is not afraid of drama — #a70100, #c31818, #d02f2e, and #d3413c form a family of reds used for error states, limited-edition badges, and price reductions, with #d50000 as an urgent callout. Warmth comes through #e9d8d1, #d8a598, and #b05e69 — blush and terracotta tones that soften the interface on product cards and promotional banners. The neutral backbone is clean and editorial: #f9fafb and #f5f5f5 for canvases, #e8e8e8 and #dedede for hairlines, #eeeeee and #f6f6f6 for soft surfaces, with #141414, #333333, and #545454 building a legible text hierarchy. Gold accents (#f4b453, #fcd46c) appear sparingly on loyalty badges and highlight stars. Typography runs on DM Sans as the primary workhorse — clean, geometric, and modern — with HelveticaNeueCyr, Inter, and Syne as supporting voices for display moments and nav. Corners are generally soft but not pill-like: buttons use `{rounded.sm}` (8px), cards use `{rounded.md}` (12px), and only search or promo banners reach `{rounded.full}`. The overall feeling is premium but not precious — a beauty brand that trusts color and photography over excessive ornamentation.
 
@@ -638,6 +642,13 @@ components:
 - Secondary navigation (breadcrumbs, sub-categories) collapses into dropdown selectors
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

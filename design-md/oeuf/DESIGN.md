@@ -4,6 +4,10 @@ name: "Oeuf"
 source_url: "https://oeufnyc.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A nursery furniture brand that wraps its eco-conscious mission in a palette of warm grays and a single jolt of safety red (#ea0202) — the only color that breaks the hushed, natural-toned surface of the site. The extracted palette reads like a Scandinavian nursery at dusk: charcoal ink (#272727) for headlines, soft stone (#b1b7c3) for secondary text, and a pale mint wash (#e6f7f4) that surfaces in backgrounds and product photography, suggesting the brand's commitment to non-toxic finishes and sustainable materials. The typography pairs Libre Baskerville — a serif with the quiet authority of a children's book — with Poppins, a geometric sans-serif that handles navigation and product labels with clean, unpretentious clarity. Product cards sit on a canvas of near-white (#f5f5f5) with hairline borders (#e5e5e5) that define space without shouting, while the checkout flow introduces a secondary blue (#121f36) that reads as trustworthy and calm. The red appears sparingly — sale badges, error states, the occasional CTA — and carries the weight of a warning light in an otherwise serene room. Every corner is softly rounded ({rounded.sm} to {rounded.md}), every spacing generous ({spacing.xl} between product rows), and the overall impression is one of deliberate restraint: a brand that trusts its materials, its craftsmanship, and the quiet confidence of a well-made crib.
 
@@ -439,6 +443,13 @@ components:
 - Multi-column text layouts (features, specifications) collapse to single column below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

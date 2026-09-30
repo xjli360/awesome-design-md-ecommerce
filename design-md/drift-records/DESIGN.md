@@ -4,6 +4,10 @@ name: "Drift Records"
 source_url: "https://www.driftrecords.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A record shop that feels like a well-kept listening room, where the brand voltage comes from a single gilded note: #ab8c52, a muted brass that appears in the browser chrome, hover states, and the occasional accent line — never loud, always intentional. The canvas is #f5f2ec, a warm off-white that reads as aged paper rather than sterile digital white, and the ink is #212121, a near-black that keeps body text grounded. Type runs a curious two-face system: PPMonumentExtended-Regular for display headlines — a condensed, architectural sans that gives track listings and section titles a printed-matter gravity — and YoungSerif-Regular for body copy, a serif with a gentle hand-drawn quality that softens the grid. The palette is restrained but not minimal: #e8d4ae and #806430 extend the brass family into highlights and secondary surfaces, while #fadada appears as a blush accent on sale badges or limited-edition markers, a small warmth against the otherwise earthy, ochre-leaning scheme. Buttons are pill-shaped, cards have soft corners, and the overall feel is that of a shop that values the object — the vinyl sleeve, the liner notes, the paper stock — over the algorithm. The nav is a single horizontal strip, the search bar is a rounded input with a brass-toned icon, and every product card sits on a #fcfbf9 surface with a #d9d9d9 hairline, as if each record is displayed on its own light box.
 
@@ -384,6 +388,13 @@ components:
 - Product cards collapse from multi-column grids to single column on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

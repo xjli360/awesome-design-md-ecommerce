@@ -4,6 +4,10 @@ name: "Level Up Video Games"
 source_url: "https://levelupvideogames.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A neon-green #48dd21 voltage against a deep purple #221155 canvas — the brand reads like a retro arcade cabinet that somehow also sells tabletop games and used NES cartridges. That electric green is the primary CTA color, the price-tag badge, the "Add to Cart" pulse, and the only saturated hue in a palette otherwise built from grays (#dfdfdf, #989898, #454545) and blacks (#1a1a1a, #252525). The purple background is the brand's signature atmospheric move: it wraps the entire site in a dark, moody glow that makes the green pop like a CRT monitor in a dimly lit basement. Product cards sit on #f7f7f7 or #ffffff surfaces with {rounded.sm} corners, while category badges use that same green on white for instant scanability. The typography system is unknown (no font-family declarations found on the live site), but the visual hierarchy relies on weight contrast against the dark canvas — white or light-gray text on purple, green accents drawing the eye to actions. The overall effect is less "clean retail" and more "gaming den that happens to have a checkout flow."
 
@@ -321,6 +325,13 @@ components:
 - Product grid reduces columns progressively (4 → 3 → 2 → 1)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Crane & Co."
 source_url: "https://www.crane.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Whyte-Regular at a light weight over midnight navy (#0f172b) announces a deliberate tension — a paper house with roots in the early nineteenth century choosing a contemporary grotesque as its editorial voice rather than the serifs its engraved stationery would imply. The deepest brand color is not the slate blue (#3d5789) that carries interactive links and active states, nor the warm-parchment surface (#eeedec) that quietly evokes cotton rag stock — it is the soft lavender accent (#ccb7ff) that appears in collection banners and hero washes, a chromatic move that reads as deliberate contemporary repositioning rather than heritage reverence. Roboto handles functional text at uppercase, tracked settings (500 weight, 1–1.5px letter-spacing on button and label styles), providing structural contrast that Whyte's open apertures alone do not supply. Navigation and the promotional bar ride the deep navy (#0f172b) shell, concentrating the brand's darkest statement at the very top of the page so product photography can breathe below. Product cards sit on the parchment #eeedec ground — a warm near-white that suggests laid paper without literal texture simulation. Hard corners (`{rounded.none}`) govern every interactive control: buttons, form inputs, product tiles, and content panels — square edges read as deliberate precision, the visual grammar of a clean die-cut on a high-quality envelope rather than the softened forms that consumer apps default to. Spacing scales from tight label-to-field pairs (`{spacing.sm}`) inside the monogram configurator up to full-bleed section gutters (`{spacing.section}`) on editorial collection pages. The gray midtone ramp (#1d1d1d through #8b8b8b) keeps color restrained until the lavender accent arrives at exactly the moments — hero panels, collection banners, personalization highlights — where the brand needs contemporary energy without losing the measured restraint that defines fine stationery culture.
 
@@ -360,6 +364,13 @@ components:
 - Promo banner condenses to a marquee ticker on screens below 480px to avoid text truncation
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

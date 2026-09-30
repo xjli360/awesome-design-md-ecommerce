@@ -4,6 +4,10 @@ name: "Peg and Awl"
 source_url: "https://pegandawl.com"
 captured_at: "2026-09-29T04:12:53.571047+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Peg and Awl's supplied stylesheet evidence points to a warm, paper-toned
   studio aesthetic rather than a stark e-commerce look. The dominant surface
@@ -166,6 +170,13 @@ Recommended (not measured) breakpoints:
 Touch targets should be at least 44×44px for buttons using `{spacing.md} {spacing.xl}` padding, which comfortably meets this at the specified font sizes. Navigation is expected to collapse into a hamburger/menu pattern below tablet width; this is a UX-pattern recommendation, not an observed behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

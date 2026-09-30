@@ -4,6 +4,10 @@ name: "Radio Flyer"
 source_url: "https://www.radioflyer.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A red wagon brand that actually uses red as its primary — #c71c2d, a slightly cooled crimson with more blue in it than a fire-engine red, appears on every primary button, every add-to-cart pill, and every "Shop Now" link across the site. The brand lives in a world of #f4f4f4 and #f5f5f5 canvases, with product photography doing the heavy lifting of texture and warmth. Type is built on GothamNarrow, a condensed sans-serif that runs Black weight at display sizes — the brand trusts its letterforms to carry authority at 20px rather than needing 40px. Secondary accents drift into a surprising palette: #1f468a (a deep navy), #8fcab9 (a sage green), #fbac24 (a marigold yellow), and #c5b4e3 (a lavender) appear on category badges, sale tags, and seasonal collections, giving the brand a toy-box energy without chaos. Buttons are pill-shaped at {rounded.full} for the primary CTA, while product cards use {rounded.sm} corners that feel sturdy rather than precious. The nav bar sits at 80px with a white background and a single red logo mark — no secondary navigation, no dropdowns, just the brand name and a cart icon. The checkout flow, powered by Shopify, introduces #322130 (a near-black) for body text and #5e5e5e for muted labels, keeping the reading experience calm against the red voltage.
 
@@ -399,6 +403,13 @@ components:
 - Product image galleries collapse from grid to single-image swipe on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

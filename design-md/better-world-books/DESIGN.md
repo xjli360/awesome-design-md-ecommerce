@@ -4,6 +4,10 @@ name: "Better World Books"
 source_url: "https://www.betterworldbooks.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A used-book marketplace that wears its mission on its sleeve — literally, in the #baf0c6 mint-green badge that signals "carbon-balanced shipping" on every eligible product card, a color that appears nowhere else in the system and reads like a breath of fresh air against the otherwise serious #444444 and #313131 dark-ink text blocks. The brand leans into a library-like trustworthiness: deep navy #044573 anchors the top navigation and footer, while a single red #f11e28 accent — used sparingly for sale prices and donation-badge highlights — provides the only moment of urgency in an otherwise calm, low-contrast palette. The typography stack pairs the geometric clarity of Poppins (headings) with the sturdy readability of Zilla Slab (body), a serif+sans-serif combination that signals both academic credibility and approachability. Product cards use soft `{rounded.sm}` corners and generous `{spacing.base}` padding, with the book cover image doing most of the emotional work — the UI steps back. The search bar is a wide, pill-shaped `{rounded.full}` field in #f5f5f5, and the primary CTA ("Add to Cart") sits in #044573 with white text, a button that feels solid but never pushy. The overall mood is that of a well-lit independent bookstore: warm grays, clean whites, one bold accent, and a quiet confidence that the product — and the mission — will speak for itself.
 
@@ -312,6 +316,14 @@ components:
 - The hero section reduces vertical padding and may hide secondary text
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

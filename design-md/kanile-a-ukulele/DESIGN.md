@@ -4,6 +4,10 @@ name: "Kanile'a Ukulele"
 source_url: "https://www.kanileaukulele.com"
 captured_at: "2026-09-28T04:09:32.666065+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is built from Kanile'a Ukulele's Shopify theme CSS: a warm, low-contrast neutral palette (near-black #232323 and #413f3f/#423f3f charcoal text on white canvas), pill-shaped swiper controls, and squared, minimally-rounded buttons (--btn-border-radius: 4px). Typography is set entirely in Cabin with generic sans-serif fallback for body copy and bold headings; Jost appears in the site's font stack but no selector ties it to a specific role in the supplied evidence, so any display use of Jost here is inferred, not confirmed.
 
@@ -153,6 +157,13 @@ The following breakpoint table is a **recommendation**, not measured site behavi
 Touch targets should be at minimum 44×44px, matching the observed swiper control size. Primary/secondary buttons' 18px/30px padding comfortably exceeds this on desktop; mobile padding may need reduction (proposed, unmeasured). Navigation collapse into a hamburger/drawer pattern below tablet width is a standard proposal, not confirmed by supplied CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

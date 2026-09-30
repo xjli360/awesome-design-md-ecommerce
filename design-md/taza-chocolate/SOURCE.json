@@ -54,29 +54,26 @@
     }
   ],
   "colors": {
-    "#121212": {
-      "count": 14,
-      "sources": [
-        "https://www.tazachocolate.com/",
-        "https://www.tazachocolate.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
     "#fff9eb": {
       "count": 11,
       "sources": [
         "https://www.tazachocolate.com/"
       ]
     },
-    "#ffffff": {
-      "count": 10,
+    "#f7cbda": {
+      "count": 2,
       "sources": [
-        "https://www.tazachocolate.com/",
-        "https://www.tazachocolate.com/cdn/shop/t/30/assets/base.css?v=93405971894151239851743079662",
-        "https://www.tazachocolate.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+        "https://www.tazachocolate.com/"
       ]
     },
-    "#1f1f1f": {
-      "count": 3,
+    "#121212": {
+      "count": 14,
+      "sources": [
+        "https://www.tazachocolate.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 10,
       "sources": [
         "https://www.tazachocolate.com/"
       ]
@@ -87,32 +84,19 @@
         "https://www.tazachocolate.com/"
       ]
     },
+    "#deebe7": {
+      "count": 2,
+      "sources": [
+        "https://www.tazachocolate.com/"
+      ]
+    },
     "#000000": {
       "count": 3,
       "sources": [
-        "https://www.tazachocolate.com/",
-        "https://www.tazachocolate.com/cdn/shop/t/30/assets/base.css?v=93405971894151239851743079662"
-      ]
-    },
-    "#ffffff00": {
-      "count": 3,
-      "sources": [
-        "https://www.tazachocolate.com/cdn/shop/t/30/assets/base.css?v=93405971894151239851743079662"
-      ]
-    },
-    "#f7cbda": {
-      "count": 2,
-      "sources": [
         "https://www.tazachocolate.com/"
       ]
     },
-    "#cccccc": {
-      "count": 2,
-      "sources": [
-        "https://www.tazachocolate.com/"
-      ]
-    },
-    "#deebe7": {
+    "#ac532b": {
       "count": 2,
       "sources": [
         "https://www.tazachocolate.com/"
@@ -136,13 +120,13 @@
         "https://www.tazachocolate.com/"
       ]
     },
-    "#90b0c2": {
-      "count": 2,
+    "#6b96ad": {
+      "count": 1,
       "sources": [
         "https://www.tazachocolate.com/"
       ]
     },
-    "#ac532b": {
+    "#90b0c2": {
       "count": 2,
       "sources": [
         "https://www.tazachocolate.com/"
@@ -154,56 +138,14 @@
         "https://www.tazachocolate.com/cdn/shop/t/30/assets/base.css?v=93405971894151239851743079662"
       ]
     },
-    "#00000000": {
-      "count": 2,
-      "sources": [
-        "https://www.tazachocolate.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
-    "#dedede": {
-      "count": 2,
-      "sources": [
-        "https://www.tazachocolate.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
-    "#6b96ad": {
-      "count": 1,
-      "sources": [
-        "https://www.tazachocolate.com/"
-      ]
-    },
-    "#b5cbd6": {
-      "count": 1,
-      "sources": [
-        "https://www.tazachocolate.com/"
-      ]
-    },
-    "#d1dee6": {
-      "count": 1,
-      "sources": [
-        "https://www.tazachocolate.com/"
-      ]
-    },
-    "#e3ebf0": {
-      "count": 1,
-      "sources": [
-        "https://www.tazachocolate.com/"
-      ]
-    },
-    "#00000080": {
-      "count": 1,
-      "sources": [
-        "https://www.tazachocolate.com/cdn/shop/t/30/assets/base.css?v=93405971894151239851743079662"
-      ]
-    },
     "#1990c6": {
       "count": 1,
       "sources": [
         "https://www.tazachocolate.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
       ]
     },
-    "#136f99": {
-      "count": 1,
+    "#dedede": {
+      "count": 2,
       "sources": [
         "https://www.tazachocolate.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
       ]
@@ -215,9 +157,6 @@
     ],
     "Roboto Condensed": [
       "https://www.tazachocolate.com/"
-    ],
-    "object-fit: contain": [
-      "https://www.tazachocolate.com/cdn/shop/t/30/assets/component-predictive-search.css?v=118923337488134913561743079662"
     ]
   },
   "css_rules": [
@@ -378,26 +317,27 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Taza Chocolate | Organic Stone Ground Chocolate for Bold Flavor",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-300",
   "tokens": {
     "colors.primary": {
+      "value": "#121212",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.tazachocolate.com/",
-        "https://www.tazachocolate.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+        "https://www.tazachocolate.com/"
       ]
     },
     "colors.ink": {
+      "value": "#121212",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.tazachocolate.com/",
-        "https://www.tazachocolate.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+        "https://www.tazachocolate.com/"
       ]
     },
     "colors.canvas": {
+      "value": "#fff9eb",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -405,14 +345,15 @@
       ]
     },
     "colors.body": {
+      "value": "#121212",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.tazachocolate.com/",
-        "https://www.tazachocolate.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+        "https://www.tazachocolate.com/"
       ]
     },
     "colors.muted": {
+      "value": "#6b96ad",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -420,6 +361,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#dedede",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -427,6 +369,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#f9f8f4",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -434,24 +377,23 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.tazachocolate.com/",
-        "https://www.tazachocolate.com/cdn/shop/t/30/assets/base.css?v=93405971894151239851743079662",
-        "https://www.tazachocolate.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+        "https://www.tazachocolate.com/"
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.tazachocolate.com/",
-        "https://www.tazachocolate.com/cdn/shop/t/30/assets/base.css?v=93405971894151239851743079662",
-        "https://www.tazachocolate.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+        "https://www.tazachocolate.com/"
       ]
     },
     "colors.accent-yellow": {
+      "value": "#fed74d",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -459,6 +401,7 @@
       ]
     },
     "colors.accent-blush": {
+      "value": "#f7cbda",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -466,6 +409,7 @@
       ]
     },
     "colors.accent-mint": {
+      "value": "#deebe7",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -473,6 +417,7 @@
       ]
     },
     "colors.brand-blue": {
+      "value": "#467c99",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -480,6 +425,7 @@
       ]
     },
     "colors.brand-blue-dark": {
+      "value": "#38637a",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -487,6 +433,7 @@
       ]
     },
     "colors.brand-blue-light": {
+      "value": "#90b0c2",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -494,6 +441,7 @@
       ]
     },
     "colors.link-blue": {
+      "value": "#1990c6",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -501,6 +449,7 @@
       ]
     },
     "colors.rust": {
+      "value": "#ac532b",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -508,6 +457,7 @@
       ]
     },
     "colors.shadow": {
+      "value": "#0000000d",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -515,110 +465,402 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "Roboto Condensed, sans-serif",
+        "fontSize": "72px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "Roboto Condensed, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "Roboto Condensed, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "Roboto, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": 400,
+        "lineHeight": 1.44,
+        "letterSpacing": "1px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Roboto, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Roboto, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 400,
+        "lineHeight": 1.3,
+        "letterSpacing": "0.4px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "Roboto, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "border": "1px solid {colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "rounded": "{rounded.md}",
+        "border": "1px solid {colors.hairline}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "shadow": "{colors.shadow}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "headlineTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.cacao-percentage-tag": {
+      "value": {
+        "backgroundColor": "{colors.accent-yellow}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#fff9eb": {
+        "selector": ":root,\n    .color-background-1",
+        "property": "--gradient-background",
+        "declaration": "#fff9eb",
+        "url": "https://www.tazachocolate.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ba2197dce1ac5644bec34359b3c39f93f16ccef7c52c5601800cd0ca3d092913"
+      },
+      "#f7cbda": {
+        "selector": ".color-background-2",
+        "property": "--gradient-background",
+        "declaration": "#f7cbda",
+        "url": "https://www.tazachocolate.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ba2197dce1ac5644bec34359b3c39f93f16ccef7c52c5601800cd0ca3d092913"
+      },
+      "#121212": {
+        "selector": ".color-accent-1",
+        "property": "--gradient-background",
+        "declaration": "#121212",
+        "url": "https://www.tazachocolate.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ba2197dce1ac5644bec34359b3c39f93f16ccef7c52c5601800cd0ca3d092913"
+      },
+      "#ffffff": {
+        "selector": ".color-scheme-6f838b77-1e82-41a4-9d96-a60083d31234",
+        "property": "--gradient-background",
+        "declaration": "#ffffff",
+        "url": "https://www.tazachocolate.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ba2197dce1ac5644bec34359b3c39f93f16ccef7c52c5601800cd0ca3d092913"
+      },
+      "#fed74d": {
+        "selector": ".color-scheme-4ff38780-b97f-4472-a999-64182e56e31c",
+        "property": "--gradient-background",
+        "declaration": "#fed74d",
+        "url": "https://www.tazachocolate.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ba2197dce1ac5644bec34359b3c39f93f16ccef7c52c5601800cd0ca3d092913"
+      },
+      "#deebe7": {
+        "selector": ".color-scheme-c5e3f085-db7b-4964-b40e-538b86f9d7fc",
+        "property": "--gradient-background",
+        "declaration": "#deebe7",
+        "url": "https://www.tazachocolate.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ba2197dce1ac5644bec34359b3c39f93f16ccef7c52c5601800cd0ca3d092913"
+      },
+      "#000000": {
+        "selector": "inline-style",
+        "property": "border",
+        "declaration": "1px solid #000",
+        "url": "https://www.tazachocolate.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ba2197dce1ac5644bec34359b3c39f93f16ccef7c52c5601800cd0ca3d092913"
+      },
+      "#ac532b": {
+        "selector": "#shopify-section-template--24464678191378__0_hero_1_aHBdTg",
+        "property": "background",
+        "declaration": "rgba(172, 83, 43, 1.0)",
+        "url": "https://www.tazachocolate.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ba2197dce1ac5644bec34359b3c39f93f16ccef7c52c5601800cd0ca3d092913"
+      },
+      "#f9f8f4": {
+        "selector": ".recharge-theme",
+        "property": "--recharge-app-background",
+        "declaration": "#F9F8F4",
+        "url": "https://www.tazachocolate.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ba2197dce1ac5644bec34359b3c39f93f16ccef7c52c5601800cd0ca3d092913"
+      },
+      "#467c99": {
+        "selector": ".recharge-theme",
+        "property": "--recharge-color-brand",
+        "declaration": "#467C99",
+        "url": "https://www.tazachocolate.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ba2197dce1ac5644bec34359b3c39f93f16ccef7c52c5601800cd0ca3d092913"
+      },
+      "#38637a": {
+        "selector": ".recharge-theme",
+        "property": "--recharge-color-brand-120",
+        "declaration": "#38637a",
+        "url": "https://www.tazachocolate.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ba2197dce1ac5644bec34359b3c39f93f16ccef7c52c5601800cd0ca3d092913"
+      },
+      "#6b96ad": {
+        "selector": ".recharge-theme",
+        "property": "--recharge-color-brand-20",
+        "declaration": "#6b96ad",
+        "url": "https://www.tazachocolate.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ba2197dce1ac5644bec34359b3c39f93f16ccef7c52c5601800cd0ca3d092913"
+      },
+      "#90b0c2": {
+        "selector": ".recharge-theme",
+        "property": "--recharge-color-brand-40",
+        "declaration": "#90b0c2",
+        "url": "https://www.tazachocolate.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ba2197dce1ac5644bec34359b3c39f93f16ccef7c52c5601800cd0ca3d092913"
+      },
+      "#0000000d": {
+        "selector": ".animate--hover-3d-lift .card-wrapper:hover .card--card,.animate--hover-3d-lift .card-wrapper:hover .card--standard .card__inner,.animate--hover-3d-lift .button:not(.button--tertiary):not([disabled]):hover,.animate--hover-3d-lift .shopify-challenge__button:not([disabled]):hover,.animate--hover-3d-li",
+        "property": "box-shadow",
+        "declaration": "-1rem -1rem 1rem -1rem #0000000d,1rem 1rem 1rem -1rem #0000000d,0 0 .5rem #fff0,0 2rem 3.5rem -2rem #00000080",
+        "url": "https://www.tazachocolate.com/cdn/shop/t/30/assets/base.css?v=93405971894151239851743079662",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "a11e376bc0d12920476cfa1e522a3801b7bc82ef0fd3355c7887240bef10003f"
+      },
+      "#1990c6": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#1990c6",
+        "url": "https://www.tazachocolate.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://www.tazachocolate.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      }
+    },
+    "font_families": {
+      "Roboto": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Roboto",
+        "url": "https://www.tazachocolate.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ba2197dce1ac5644bec34359b3c39f93f16ccef7c52c5601800cd0ca3d092913"
+      },
+      "Roboto Condensed": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Roboto Condensed\"",
+        "url": "https://www.tazachocolate.com/",
+        "snapshot": "homepage.html",
+        "sha256": "ba2197dce1ac5644bec34359b3c39f93f16ccef7c52c5601800cd0ca3d092913"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

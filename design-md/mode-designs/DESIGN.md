@@ -4,6 +4,10 @@ name: "Mode Designs"
 source_url: "https://modedesigns.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Ivyora Display headlines share page real estate with monospace specimen text at Mode Designs — an editorial serif sitting alongside a terminal font is a declaration of who the customer is: someone who cares that a stem has exactly 1.5mm of pre-travel and also that the product page reads beautifully. The primary action color, a particular steel-water blue (#338fb1), avoids the navy of enterprise software and the cerulean of consumer electronics — it is closer to the anodized aluminum of a machined top case photographed under diffused studio light. That blue lands against two dark grounds: an obsidian near-black (#121212) used for full-bleed hero sections and the global nav, and a forest-tinged dark green (#1c291f) deployed as a secondary surface layer — a color that reads like PCB soldermask or anodized board layer, which makes it feel native to the hardware rather than decorative. Cool silver-gray (#dedede) handles dividers and disabled states without introducing warmth, keeping the palette's temperature uniformly precise. Ivyora Text carries body copy and product narratives, but the brand interrupts with monospace wherever numbers need to register as technical fact: polling rates, actuation force, stem travel. The collision of elegant serif and clinical mono is the brand's primary typographic gesture — neither mode is decoration, both are load-bearing. Buttons and inputs carry minimal radii ({rounded.sm}, 4px) rather than the pill shapes common in consumer lifestyle brands; the geometry matches the chamfered edges and tight tolerances of the hardware itself. The dark nav persists sitewide, anchoring product photography — typically shot on neutral or gradient backgrounds — against a dark frame that makes anodized finish details pop on first load. Spacing is generous inside product cards but compressed in the nav, giving the layout a magazine quality on wide screens and a clean list feel on mobile.
 
@@ -354,6 +358,13 @@ components:
 - Footer: four columns → two at tablet → single stack at mobile; policy link row becomes horizontally scrollable on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

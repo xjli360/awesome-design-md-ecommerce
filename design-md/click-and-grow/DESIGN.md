@@ -4,6 +4,10 @@ name: "Click and Grow"
 source_url: "https://www.clickandgrow.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Click and Grow's most telling choice is treating terracotta — the literal clay-pot color (#b23f0d) — as its primary action voltage, in a category where competitors default to the predictable bottle-green. The rest of the palette reads like a vertical soil sample: dark olive depths (#43431e, #34312e), warm cream at the surface (#fcfaf6, #f0ebe1), and an arresting chartreuse spike (#dcea54) that appears only when something is growing, rewarded, or on sale. These aren't chosen for decoration — they map to the physical objects the brand sells, making the palette feel inevitable rather than styled. New Spirit Condensed occupies the display register, a bracketed serif that opens like a seed catalog printed on uncoated stock. Headlines at 56–72px with moderate weight (600) hold a horticultural earnestness without tipping into nostalgia. Figtree handles everything interactive and informational — its soft apertures and generous x-height suit the accessible, kitchen-counter mood of indoor growing kits. There is no aggressive type contrast: the system leans on spacing and color bands rather than weight swings to create hierarchy. Cards sit on warm parchment (#f0ebe1) with `{rounded.md}` corners, leaving enough roundness to feel organic without dissolving into the pill-heavy language of wellness brands. The chartreuse (#dcea54) is rationed: it signals grow-phase progress, highlights ecological claims, and surfaces on hover states for sustainability callouts — never as a primary button, always as a moment of biological emphasis. Dark soil-toned bands (#34312e) break the page into sections, alternating warmth and depth without decoration — the typographic equivalent of turning a compost row. Navigation runs lean: a sticky cream bar, text-only category links, the cart reduced to a number. Pricing and grow-kit specs in Figtree medium at 13–14px, separated by `{colors.hairline}` rules. No gratuitous animation, no parallax theater — the interface clears a path to the physical object and steps aside.
 
@@ -371,6 +375,13 @@ components:
 - Soil band typography: display-md (36px) → display-sm (24px) on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

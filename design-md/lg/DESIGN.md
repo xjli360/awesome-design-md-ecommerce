@@ -4,6 +4,10 @@ name: "LG"
 source_url: "https://www.lg.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The LG logo — a winking face drawn from two letterforms inside a circle — bets that warmth can survive at appliance scale, and the refrigerators section of lg.com accepts that bet visually without sentimentality. Cherry-red (#a50034) appears exactly once per viewport as the singular CTA or badge voltage, never diffused into accent trails; the rest of the page is a studied white-and-pearl system (#ffffff canvas, #f4f4f4 surface-soft) that lets glass-finish steel product photography do the persuasion. Type runs LG Smart, falling back to Helvetica Neue: display headings land at 48px weight-700 with -0.5px tracking — large enough to anchor a product hero but not so theatrical it collides with the engineering credibility that refrigerator buyers require. Body and specification copy runs at 400 weight, 16px or 14px, dense enough for BTU ratings and drawer configurations without losing readability at small viewport widths. The button geometry is deliberate: primary CTAs use `{rounded.xs}` (4px), hard-edged relative to lifestyle-brand pill conventions, mirroring the rectilinear form factor of the refrigerators themselves. Card shadows are very soft (0 2px 12px rgba(0,0,0,0.08)), keeping the product image dominant and the UI frame invisible. The top navigation switches modes: the main bar is white with ink-colored links, but hover-activated mega-menu panels drop into a dark charcoal (#1a1a1a) field that reframes category browsing as editorial rather than transactional. Energy Star badges render in a cooler forest-green (#4a7c59) to signal environmental credential without competing with the primary red. Comparison UI — a recurring feature in appliance commerce — uses a sticky bottom-of-viewport bar with bordered secondary buttons and checkbox states, keeping multi-SKU decisions visible without occluding product imagery.
 
@@ -399,6 +403,13 @@ components:
 - Comparison-bar product slots reduce: shows max two thumbnails on mobile with "+N more" label
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Money Metals Exchange"
 source_url: "https://www.moneymetals.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Spot price tickers cycling live gold, silver, platinum, and palladium quotes define the header before a single product image loads — Money Metals Exchange reads as a commodity desk first and a retail shop second. The confirmed dark charcoal (#313131) anchors the typographic system as the primary ink color, giving pricing tables and editorial body copy alike a dense, newspaper-authority weight. System fonts throughout (-apple-system, Helvetica Neue, Roboto, sans-serif) keep the interface free of brand risk: no custom typeface means no licensing overhead, and the utilitarian stack signals institutional seriousness rather than lifestyle aspiration. Primary interactive elements — "Add to Cart," "Buy Now," and pricing CTAs — reach for a gold-adjacent amber consistent with the physical product category, making every conversion moment a visual echo of the metal itself. Cards lean toward rectangular with minimal rounding ({rounded.xs}), projecting the rectilinear geometry of bullion bars over the soft corners of consumer brands. Trust signals are architectural, not decorative: BBB rating, money-back guarantees, and secure-checkout badges are placed in fixed proximity to purchase flows rather than relegated to the footer. The color temperature is cool and institutional — white canvas with charcoal text, gold accents, and occasional muted silver-gray panels ({colors.surface-soft}) that echo the appearance of a certified coin slab. Educational editorial content (guides to buying gold, IRA rollovers, market commentary) sits in a second navigation tier, signaling a brand that sells conviction alongside metal. Responsive breakpoints collapse the live-price ticker into a scrollable marquee on mobile, where the product grid shifts from three columns to a single-column stacked layout with persistent sticky buy buttons. The overall experience is transactional confidence: every pixel earns the user's trust that they are purchasing real, certified precious metals from a regulated dealer.
 
@@ -364,6 +368,13 @@ components:
 - Price calculator moves from right-rail to full-width below product images on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

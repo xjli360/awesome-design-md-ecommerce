@@ -4,6 +4,10 @@ name: "Canada Pooch"
 source_url: "https://canadapooch.com"
 captured_at: "2026-09-28T09:53:37.859386+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Canada Pooch presents a utilitarian, gear-forward retail aesthetic built around a
   cool blue accent against neutral grays and near-black text. The evidenced palette
@@ -167,6 +171,13 @@ Proposed breakpoints (not measured from the live site):
 Touch targets for button-primary and swatch-selector should maintain a minimum 44px hit area, consistent with the `.ai-product-carousel__nav` 44px button dimension observed in CSS. Mobile menu collapse behavior, drawer transitions, and swatch hover-to-tap conversion are recommendations only and were not observed in interaction traces.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

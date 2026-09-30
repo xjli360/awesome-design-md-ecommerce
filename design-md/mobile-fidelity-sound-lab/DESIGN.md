@@ -4,6 +4,10 @@ name: "Mobile Fidelity Sound Lab"
 source_url: "https://www.mofi.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep-violet signal (#686de0) cuts through an otherwise black-and-white audiophile universe — this is the brand voltage that marks every add-to-cart button, every badge on a limited-edition pressing, every link that matters. The site reads like a high-end audio component faceplate: nearly everything sits on a black canvas (#000000) or near-black surface, with white (#ffffff) body text set in a clean sans-serif that never wavers from 400 weight. Product imagery — gatefold sleeves, vinyl grooves, mastering equipment — carries the full emotional load; typography stays out of the way. The violet accent is used sparingly but with surgical precision: it appears on primary CTAs, on the "Original Master Recording" badge, and as a hover state on navigation items, creating a single point of visual heat in an otherwise monochrome layout. Cards for albums and box sets use a subtle surface card (#1a1a1a) to lift content off the dark canvas, with hairline borders (#2a2a2a) that define edges without shouting. The overall effect is one of focused, obsessive attention — the same ethos MoFi applies to its half-speed mastering process, translated into a digital storefront that lets the product speak and the interface recede.
 
@@ -301,6 +305,13 @@ components:
 - The hero section reduces its vertical padding from 64px to 32px on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

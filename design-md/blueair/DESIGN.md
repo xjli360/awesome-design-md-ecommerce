@@ -4,6 +4,10 @@ name: "Blueair"
 source_url: "https://www.blueair.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep navy and teal share a polarity that structures every screen: #002955 anchors the nav bar, footer, and brand identity while #0e7a82 — a muted, almost clinical teal — fires on every primary CTA and add-to-cart button. Neither color fights the white-canvas product photography that a purifier brand depends on; the system is built around restraint at the color layer so the imagery can carry the promise of clean, open air. Gilroy handles all display and UI text, its geometric letterforms held at 400–600 weight rather than the heavy 700+ a lifestyle brand might reach for; the decision reads as Swedish engineering precision, where legibility and measured confidence matter more than typographic drama. Product pages carry dense specification grids — CADR ratings, filter lifespans, room coverage in square feet — and the type scale accommodates this with small-but-clear caption scales and an uppercase spec-label style in `{typography.spec-label}` that organizes technical data into scannable rows without visual noise. The lavender-gray neutral range (#676986, #9a9db1, #d3d4dd) forms a continuous tonal progression from body text through borders to near-white background surfaces (#f4f4f6, #f7f7f8), generating depth through value shift rather than heavy shadow. Cards hold `{rounded.sm}` corner radii — legible as modern without the pill-softness of a wellness brand, matching the purifier hardware's clean rectilinear forms. Filter chips for room type and performance tier travel horizontally on mobile using the same navy-to-teal contrast logic as the primary button: selected state fills #002955, idle state rests on #e5e5eb. Promotional banners run full navy with reversed type, reserving the teal only for the inline action link — a habit that keeps the palette's signal-to-noise ratio high across long catalog pages. The footer returns to deep navy, bookending the light canvas in the same gesture as the nav, and the Shopify review widget imports `oke-widget-icons` as a separate icon font sitting quietly alongside Gilroy.
 
@@ -398,6 +402,14 @@ components:
 - Promo banner height can collapse from 40px to 32px on mobile to conserve vertical space
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

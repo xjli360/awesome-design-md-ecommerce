@@ -4,6 +4,10 @@ name: "Blue Kazoo"
 source_url: "https://bluekazoo.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Puzzle brands usually reach for primary-school primaries; Blue Kazoo names itself after its chosen voltage and bets on the cooler end of the spectrum — a saturated cobalt that distinguishes it from washed periwinkle lifestyle brands and flat-navy corporate ones. That blue runs through every primary CTA, category tab, and branded badge on a white-first canvas that surrenders the stage to illustrated puzzle photography. Where the primary is assertive, the surrounding palette is warm-complementary: an orange-amber accent fires on promotional tags and sale stickers, while a lemon-yellow marks theme and age-range chips so a shopper can parse puzzle type at a glance without reading copy. Typography reaches for a rounded geometric sans — the category sweet spot that reads friendly without tipping into juvenile — set at generous line heights suited to shoppers scanning piece-counts and difficulty ratings on small screens. Product cards float on {colors.surface-card} with {rounded.lg} corners and a hairline border in {colors.hairline}, giving the impression of a gallery wall rather than a warehouse shelf; each card leads with a single full-bleed puzzle image, then difficulty and size-spec chips running below the title. Rounded pill shapes ({rounded.full}) appear on filter chips and category navigation, reinforcing a soft-edged, family-inclusive tone without abandoning the premium positioning that adult puzzle collectors expect. Primary calls-to-action use a filled {rounded.full} pill; secondary actions sit in a ghost variant carrying {colors.primary} as stroke and label, keeping both options light against the white canvas. The overall grid is restrained — base padding at {spacing.base} on mobile, column gutters widening at {spacing.lg} on tablet — letting the puzzle art carry visual weight across all breakpoints.
 
@@ -305,6 +309,14 @@ components:
 - Nav links hide behind hamburger at < 744px; logo and cart icon always visible in the bar
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

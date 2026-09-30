@@ -4,6 +4,10 @@ name: "Anna Sheffield"
 source_url: "https://www.annasheffield.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The near-black #1d1a1e governing Anna Sheffield's interface carries a barely-perceptible violet cast — just enough to separate it from a generic black and signal that this is not the conventional white-marble bridal jeweler. Where most fine-jewelry sites reach for cream and champagne, Sheffield grounds everything in near-darkness, letting oxidized-metal product photography and raw-stone imagery glow against the void rather than compete with a pale backdrop. The effect is closer to a private gallery lit for evening viewing than to a daytime boutique. Type pairs Maison Neue — a crisp grotesque that handles every functional UI layer — with Portrait, a high-contrast serif whose ink-trap details reward the close reading a significant ring purchase deserves. Styrene A and Pegasus extend the vocabulary further, giving the system range from catalog-utilitarian to editorial-theatrical within a single scroll. Letter-spacing on display lines opens slightly, lending captions and price labels the deliberate pace the brand's customer expects. The chromatic palette is deliberately narrow: two extracted anchors — #1d1a1e and the mid-gray #6f6f77 — cover most of the interface, with canvas whites used only to lift product imagery. Anna Sheffield appears to derive all chromatic warmth from the gold, rose, and stone tones in photography rather than a persistent UI accent hue. Geometry is architectural: `{rounded.none}` dominates buttons and inputs, with only the lightest `{rounded.xs}` reserved for badges. Spacing breathes at `{spacing.section}` or wider between content zones, and product-card grids carry generous gutters — each piece of jewelry occupies its own considered rectangle of silence. Navigation is unhurried sparse text links in Maison Neue at modest size, no mega-menus, no category tiles, because the store trusts that a visitor who has found Anna Sheffield already knows what she is looking for.
 
@@ -411,6 +415,14 @@ components:
 - Footer columns collapse to a single stacked list with accordion-style expand per column group
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

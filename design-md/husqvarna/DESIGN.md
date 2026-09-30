@@ -4,6 +4,10 @@ name: "Husqvarna"
 source_url: "https://www.husqvarna.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Forest green at #227730 grounds the interface before the first scroll — nav hover states, category chips, and active underlines all draw from the same Swedish-woodland hue that Husqvarna's equipment designers have printed on cutting-deck graphics since the brand's postwar expansion into powered garden tools. The yellow at #f1ce00 arrives as punctuation rather than field fill: it charges every primary CTA, crowns the dealer-locator trigger, and fires across promotional call-outs, doing in two seconds what the brand's signature painted chassis have done on suburban lawns for decades. Husqvarna Gothic — a custom grotesque commissioned for the brand — handles all display text at `{typography.display-xl}` weight 700; its tightly-spaced capitals read structural and precise, the visual equivalent of a torque specification rather than a lifestyle aspiration. Body copy drops to Montserrat for subheadings and Roboto for longer spec-sheets and FAQ prose, stacking three voices without competing. Corner radii stay deliberately low — product cards at `{rounded.sm}`, buttons at `{rounded.xs}` — pushing back against the pill-heavy softness of consumer lifestyle brands in favor of geometry that reads machined rather than friendly. The lime accent at #b1c823 marks battery-powered and Automower lines, threading an eco signal through the catalog without disturbing the primary green. Orange at #d87d2b inherits the thermal-warning language of the machines themselves: it surfaces on promotional sale flags and caution callouts, never on navigation. Charcoal at #575b61 anchors ink and icon chrome so that product photography — morning-dew grass cylinders, soil-encrusted blade assemblies, precision cutting-deck exploded views — carries the full visual weight of the page without competing with UI scaffolding. The layout reads as an engineering catalog restructured into a purchase surface: information-dense, grid-locked, and color-disciplined.
 
@@ -358,6 +362,13 @@ components:
 - Sticky dealer-locator sidebar rail: visible at ≥ 1128px; becomes full-width block above footer on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

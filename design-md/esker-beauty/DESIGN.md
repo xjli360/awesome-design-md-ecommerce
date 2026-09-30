@@ -4,6 +4,10 @@ name: "Esker Beauty"
 source_url: "https://eskerbeauty.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Big Caslon Reg set against cream-washed linen fields announces the Esker proposition before a single product name loads — this brand communicates through background warmth rather than clinical white. The canvas oscillates between #faf6f1 and #f0ede2, two off-whites close enough to read as a single tone but distinct enough to separate sections without hard dividers, creating depth through temperature rather than contrast. Against this ground, charcoal type (#474747 for body, #121212 for display) reads with authority but without the harshness of pure black, and the palette's single genuinely chromatic accent — clay-brown #6b6158 — lands on CTAs and hover states as a color that belongs to pressed earth rather than a brand guidelines document. The type pairing is precise and slightly eccentric: Big Caslon Reg handles all editorial headlines and product names with classical high-contrast serif strokes, while Roboto runs every UI element with the neutral legibility of a service typeface. The combination feels like a handwritten field journal sitting beside a pharmaceutical reference label. A faint sage-gray (#b0b8b6) marks interactive borders and secondary UI without competing with the warmth of the dominant palette. Rounded corners are nearly absent — the brand lives in sharp or barely chamfered rectangles, with `{rounded.xs}` appearing only on inputs and small badges, refusing the soft-pill idiom of mainstream beauty e-commerce. Spacing is expansive; sections breathe at `{spacing.section}` (64px) or wider, and product cards rest in generous isolation so each object reads as a considered thing rather than a tile in a revenue-optimized grid. The overall rhythm is slow and editorial, consistent with a brand that names its line "Intentional Body Care" — every layout decision argues that unhurried attention is itself a form of care.
 
@@ -324,6 +328,13 @@ components:
 - Footer: 4-column grid → 2-column at Tablet → single-column accordion at Mobile with each section collapsible
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

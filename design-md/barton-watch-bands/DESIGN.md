@@ -4,6 +4,10 @@ name: "Barton Watch Bands"
 source_url: "https://www.bartonwatchbands.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Pure electric blue (#0000ff) cuts through a near-void ground — three stops of near-black at #171717, #1f1f1f, and #121212 — with the economy of a movement's indices: no decoration, every element earning its position by function alone. The primary CTA color is not a brand-softened navy or a corporate royal; it is pure CSS blue, used without apology, which turns every add-to-cart button and wizard step label into an unambiguous command against the dark canvas. A secondary blue at #3838ff handles hover and active state, shifting just enough to register as a transition without retreating from the electrical premise. The single light value in the extracted palette is #dedede — a neutral gray for body text and secondary labels — which keeps the interface readable at all breakpoints without lifting the overall mood toward warmth. Inter runs throughout: one typeface chosen for precision legibility over personality, which suits a shopping context where customers compare 18mm versus 20mm lug widths and read material durability ratings rather than absorbing brand narrative. Display sizes reach weight 700 for hierarchy, but the system earns structure through size and contrast rather than font switching. Filter chips and strap-swatch selectors use `{rounded.full}` pill and circle shapes as the one soft-edged exception in the system; primary action buttons hold at `{rounded.xs}` (4px) — the rounded/sharp contrast maps choosers as soft and actions as direct. Cards layer at #121212, slightly darker than the #171717 canvas, creating depth through near-identical tonal steps rather than drop shadows or elevation metaphors. Watch strap selection is a precision exercise: lug width in millimeters, case diameter range, buckle mechanism, material hardness class. The design system serves that exercise with dense filter chips, persistent swatch state, compatibility badges that surface watch brand and case size above lifestyle imagery, and a spec-row table format that treats dimension data as first-class content. The footer closes at `{colors.surface-card}` (#121212) without any decorative interruption.
 
@@ -329,6 +333,14 @@ components:
 - Footer link columns stack to single column on mobile; section headings become accordion toggles
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

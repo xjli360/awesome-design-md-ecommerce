@@ -4,6 +4,10 @@ name: "Decent Espresso"
 source_url: "https://decentespresso.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Pressure-profile graphs rendered in real-time cyan on a dark tablet screen — that single UX motif defines Decent's entire visual identity. The brand's signature teal (#47cdd9) doesn't function as a decorative accent; it behaves like an instrument readout, a color that says "data is flowing." The site pairs Lato — geometric, unadorned, legible at small sizes on technical dashboards — with Courier New monospace for spec tables, firmware version strings, and the shot-graph overlays that espresso enthusiasts obsess over. This duality (humanist sans-serif for marketing copy, monospace for machine data) mirrors the product itself: a consumer appliance that exposes industrial-grade telemetry. Canvas is almost always pure white (#fcfcfc / #f8f8f8), letting photography of brushed-steel frames and walnut accents carry warmth without competing with the teal. Corners stay sharp or barely softened (`{rounded.xs}` to `{rounded.sm}`); nothing is pill-shaped, nothing is playful — the geometry reads as machined aluminum, not lifestyle brand. A secondary warm cream (#faeed7) appears in community-facing sections and the Decent Diaspora forums, grounding the otherwise clinical palette. Supporting teals (#5cd3dd, #32c7d5, #75f6ff, #d1f2f5) form a luminosity ramp used in hover states, gradient washes behind hero sections, and the characteristic glow effect on interactive pressure charts. Ink sits at #222222 with body copy at #545454, ensuring comfortable reading on long-form pages that explain extraction physics. Spacing is generous vertically (`{spacing.section}` between content blocks) but tight horizontally in spec grids, echoing the information-dense tablet UI that ships with every machine.
 
@@ -419,6 +423,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

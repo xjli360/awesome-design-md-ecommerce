@@ -4,6 +4,10 @@ name: "Fix & Fogg"
 source_url: "https://fixandfogg.com"
 captured_at: "2026-09-28T09:28:04.908916+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Fix & Fogg presents as an adventurous, B-Corp-certified New Zealand food brand whose
   supplied CSS evidence centers on a cream/off-white canvas (#fefdf4, #fffffb) paired with
@@ -146,6 +150,13 @@ components:
 Touch targets should be at least 44px in height, consistent with the Shopify accelerated-checkout button's clamp(25px, …, 55px) sizing. Navigation collapse behavior, mobile menu treatment, and swiper carousel gesture behavior are recommendations only and were not measured from live rendering.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS and text extraction only; no rendered screenshots, computed styles, or interaction states were captured. Semantic color roles (primary, ink, muted, etc.) are inferred from CSS variable names and contextual usage, not confirmed brand guidelines. Several typography sizes (display-md, title-md, body-md/sm, caption, button-md) are proposed defaults, not observed CSS values, since only the h1 rule was directly supplied. The `--theme-navy` variable referenced in component CSS has no resolved hex in the supplied evidence, so navy roles were approximated using the closest observed hex values (#002c5e, #091535). Availability, licensing, and web-font loading behavior for 'Futura', 'Futura Bold', 'Work Sans', and 'paralucent' were not verified. Mobile menu behavior, hover/focus states, and the space-theme campaign skin's full interaction model are not observed and are marked as proposed throughout.

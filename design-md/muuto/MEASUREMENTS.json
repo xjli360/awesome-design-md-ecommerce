@@ -1,0 +1,919 @@
+{
+  "schema_version": 1,
+  "source_url": "https://www.muuto.com/",
+  "method": "browser-computed-components",
+  "viewports": [
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "PRODUCTS\n\nExplore our sofa collection\n\nProducts\nNews\nSeating",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 7739.984375
+          },
+          "styles": {
+            "color": "rgb(17, 17, 17)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "EuclidFlex, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "23px",
+            "letter-spacing": "-0.32px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(17, 17, 17)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#app > header:nth-of-type(1)",
+          "label": "PRODUCTS\n\nExplore our sofa collection\n\nProducts\nNews\nSeating",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 50
+          },
+          "styles": {
+            "color": "rgb(17, 17, 17)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "EuclidFlex, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "23px",
+            "letter-spacing": "-0.32px",
+            "padding-top": "11px",
+            "padding-right": "20px",
+            "padding-bottom": "0px",
+            "padding-left": "20px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(17, 17, 17)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "navigation",
+          "selector": "#app > header:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > nav:nth-of-type(1)",
+          "label": "PRODUCTS\n\nExplore our sofa collection\n\nProducts\nNews\nSeating",
+          "box": {
+            "x": 260,
+            "y": 11,
+            "width": 310.09375,
+            "height": 30
+          },
+          "styles": {
+            "color": "rgb(17, 17, 17)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "EuclidFlex, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "23px",
+            "letter-spacing": "-0.32px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(17, 17, 17)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "section-heading",
+          "selector": "#app > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(1) > hero-editorial:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1)",
+          "label": "explore our new designs",
+          "box": {
+            "x": 360,
+            "y": 178,
+            "width": 840,
+            "height": 569.78125
+          },
+          "styles": {
+            "color": "rgb(197, 219, 243)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "EuclidFlex, Helvetica, Arial, sans-serif",
+            "font-size": "170px",
+            "font-weight": "500",
+            "line-height": "170px",
+            "letter-spacing": "-6.8px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(197, 219, 243)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "body-copy",
+          "selector": "#app > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(1) > hero-editorial:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(1)",
+          "label": "FALL 2026",
+          "box": {
+            "x": 1364.359375,
+            "y": 313.109375,
+            "width": 31.28125,
+            "height": 120
+          },
+          "styles": {
+            "color": "rgb(197, 219, 243)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "EuclidFlex, Helvetica, Arial, sans-serif",
+            "font-size": "13.968px",
+            "font-weight": "500",
+            "line-height": "16.3426px",
+            "letter-spacing": "-0.27936px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(197, 219, 243)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "product-card",
+          "selector": "#app > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > section:nth-of-type(1) > related-products:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > article:nth-of-type(1)",
+          "label": "Jamie Wolfond\nNews\nCONTRA FLOOR LAMP",
+          "box": {
+            "x": 0,
+            "y": 1593,
+            "width": 359,
+            "height": 473.71875
+          },
+          "styles": {
+            "color": "rgb(17, 17, 17)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "EuclidFlex, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "23px",
+            "letter-spacing": "-0.32px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(17, 17, 17)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "#app > footer:nth-of-type(1)",
+          "label": "PRODUCTS\nseating\nsofas\ntables\nshelving & storage\nlighting\nac",
+          "box": {
+            "x": 0,
+            "y": 7198.609375,
+            "width": 1440,
+            "height": 541.375
+          },
+          "styles": {
+            "color": "rgb(17, 17, 17)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "EuclidFlex, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "23px",
+            "letter-spacing": "-0.32px",
+            "padding-top": "18px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "1px",
+            "border-top-color": "rgba(0, 0, 0, 0.1)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://www.muuto.com/cdn-cgi/image/width=1500,quality=85,format=auto/globalassets/content-media/images/01.-lifestyle-images/september-26/outline-soft-3-seater-clay-12-polished-alu-contra-floor-lamp-verso-rug-cover-lounge-cognac-leather-low-res.jpg",
+          "alt": "Explore our sofa collection",
+          "width": 720,
+          "height": 514
+        },
+        {
+          "url": "https://www.muuto.com/static/assets/svg/logo.svg",
+          "alt": "logo",
+          "width": 300,
+          "height": 58
+        },
+        {
+          "url": "https://www.muuto.com/static/assets/svg/logo.svg",
+          "alt": "logo",
+          "width": 300,
+          "height": 58
+        },
+        {
+          "url": "https://www.muuto.com/cdn-cgi/image/width=1500,quality=85,format=auto/globalassets/content-media/images/01.-lifestyle-images/september-26/contra-floor-lamp-outline-soft-3-seater-clay-12-polished-alu-verso-rug-pale-green-warm-brown-soft-low-res.jpg",
+          "alt": "/cdn-cgi/image/width=1500,quality=85,format=auto/globalasset",
+          "width": 514,
+          "height": 720
+        },
+        {
+          "url": "https://www.muuto.com/cdn-cgi/image/width=500,quality=85,format=auto/globalassets/content-media/images/20-year-and-3days/muuto-next-chapters-close-to-heart-02-low-res.jpg",
+          "alt": "/cdn-cgi/image/width=1500,quality=85,format=auto/globalasset",
+          "width": 360,
+          "height": 360
+        },
+        {
+          "url": "https://www.muuto.com/cdn-cgi/image/width=500,quality=85,format=auto/globalassets/content-media/images/stories/studio-visit/sia-hurtigkarl---verso/sia-hurtigkarl-studio-visit-2026-17low-res.jpg",
+          "alt": "/cdn-cgi/image/width=1500,quality=85,format=auto/globalasset",
+          "width": 475,
+          "height": 594
+        },
+        {
+          "url": "https://www.muuto.com/cdn-cgi/image/width=500,quality=85,format=auto/globalassets/content-media/images/stories/home-stories/inside-with---geoffroy/geoffroy-x-muuto0072_selection-finale.jpg",
+          "alt": "/cdn-cgi/image/width=1500,quality=85,format=auto/globalasset",
+          "width": 475,
+          "height": 593
+        },
+        {
+          "url": "https://www.muuto.com/cdn-cgi/image/width=500,quality=85,format=auto/globalassets/content-media/images/01.-lifestyle-images/september-26/contra-floor-lamp-outline-soft-3-seater-clay-12-polished-alu-verso-rug-pale-green-warm-brown-soft-low-res.jpg",
+          "alt": "/cdn-cgi/image/width=1500,quality=85,format=auto/globalasset",
+          "width": 475,
+          "height": 664
+        },
+        {
+          "url": "https://www.muuto.com/cdn-cgi/image/width=500,quality=85,format=auto/globalassets/content-media/images/plp/seating/dining-chairs/earnest-extendable-table-205-oak-fiber-soft-tube-hearth-8-grey-raise-carafe-glass-clear-burnt-orange-dark-blue-muuto-org.jpg",
+          "alt": "earnest extendable table 205 oak fiber soft tube hearth 8 gr",
+          "width": 360,
+          "height": 270
+        }
+      ],
+      "document_width": 1440,
+      "viewport": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 1000
+      },
+      "states": {
+        "initial": "observed",
+        "hover": "not_measured",
+        "focus": "not_measured",
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-desktop.png",
+        "sha256": "d12bebcbfa15ae9fafb5c92d6eff686b26b93b83125fdbf83f331ac1d6fe24ef",
+        "public_path": "evidence/viewport-desktop.png"
+      }
+    },
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "PRODUCTS\nNews\nSeating\n \nSofas\n \nTables\n \nShelving & Storage\n",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 7520.53125
+          },
+          "styles": {
+            "color": "rgb(17, 17, 17)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "EuclidFlex, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "23px",
+            "letter-spacing": "-0.32px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(17, 17, 17)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "navigation",
+          "selector": "#app > header:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > nav:nth-of-type(1)",
+          "label": "PRODUCTS\nNews\nSeating\n \nSofas\n \nTables\n \nShelving & Storage\n",
+          "box": {
+            "x": 17,
+            "y": -1007,
+            "width": 734,
+            "height": 168.5625
+          },
+          "styles": {
+            "color": "rgb(17, 17, 17)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "EuclidFlex, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "23px",
+            "letter-spacing": "-0.32px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(17, 17, 17)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "section-heading",
+          "selector": "#app > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(1) > hero-editorial:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1)",
+          "label": "explore our new designs",
+          "box": {
+            "x": 199,
+            "y": 162,
+            "width": 431.65625,
+            "height": 1020
+          },
+          "styles": {
+            "color": "rgb(197, 219, 243)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "EuclidFlex, Helvetica, Arial, sans-serif",
+            "font-size": "170px",
+            "font-weight": "500",
+            "line-height": "170px",
+            "letter-spacing": "-6.8px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(197, 219, 243)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "body-copy",
+          "selector": "#app > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(1) > hero-editorial:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(1)",
+          "label": "FALL 2026",
+          "box": {
+            "x": 716.140625,
+            "y": 473.5,
+            "width": 14.03125,
+            "height": 61.65625
+          },
+          "styles": {
+            "color": "rgb(197, 219, 243)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "EuclidFlex, Helvetica, Arial, sans-serif",
+            "font-size": "12px",
+            "font-weight": "500",
+            "line-height": "14.04px",
+            "letter-spacing": "-0.24px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(197, 219, 243)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "product-card",
+          "selector": "#app > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > section:nth-of-type(1) > related-products:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > article:nth-of-type(1)",
+          "label": "News\nCONTRA FLOOR LAMP",
+          "box": {
+            "x": 0,
+            "y": 1776.234375,
+            "width": 191,
+            "height": 286.25
+          },
+          "styles": {
+            "color": "rgb(17, 17, 17)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "EuclidFlex, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "23px",
+            "letter-spacing": "-0.32px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(17, 17, 17)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "#app > footer:nth-of-type(1)",
+          "label": "PRODUCTS\nseating\nsofas\ntables\nshelving & storage\nlighting\nac",
+          "box": {
+            "x": 0,
+            "y": 6454.53125,
+            "width": 768,
+            "height": 1066
+          },
+          "styles": {
+            "color": "rgb(17, 17, 17)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "EuclidFlex, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "23px",
+            "letter-spacing": "-0.32px",
+            "padding-top": "12px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "1px",
+            "border-top-color": "rgba(0, 0, 0, 0.1)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://www.muuto.com/cdn-cgi/image/width=1500,quality=85,format=auto/globalassets/content-media/images/01.-lifestyle-images/september-26/outline-soft-3-seater-clay-12-polished-alu-contra-floor-lamp-verso-rug-cover-lounge-cognac-leather-low-res.jpg",
+          "alt": "Explore our sofa collection",
+          "width": 384,
+          "height": 274
+        },
+        {
+          "url": "https://www.muuto.com/static/assets/svg/logo.svg",
+          "alt": "logo",
+          "width": 300,
+          "height": 58
+        },
+        {
+          "url": "https://www.muuto.com/static/assets/svg/logo.svg",
+          "alt": "logo",
+          "width": 300,
+          "height": 58
+        },
+        {
+          "url": "https://www.muuto.com/cdn-cgi/image/width=1500,quality=85,format=auto/globalassets/content-media/images/01.-lifestyle-images/september-26/contra-floor-lamp-outline-soft-3-seater-clay-12-polished-alu-verso-rug-pale-green-warm-brown-soft-low-res.jpg",
+          "alt": "/cdn-cgi/image/width=1500,quality=85,format=auto/globalasset",
+          "width": 274,
+          "height": 384
+        },
+        {
+          "url": "https://www.muuto.com/cdn-cgi/image/width=500,quality=85,format=auto/globalassets/content-media/images/20-year-and-3days/muuto-next-chapters-close-to-heart-02-low-res.jpg",
+          "alt": "/cdn-cgi/image/width=1500,quality=85,format=auto/globalasset",
+          "width": 191,
+          "height": 191
+        },
+        {
+          "url": "https://www.muuto.com/cdn-cgi/image/width=500,quality=85,format=auto/globalassets/content-media/images/stories/studio-visit/sia-hurtigkarl---verso/sia-hurtigkarl-studio-visit-2026-17low-res.jpg",
+          "alt": "/cdn-cgi/image/width=1500,quality=85,format=auto/globalasset",
+          "width": 253,
+          "height": 316
+        },
+        {
+          "url": "https://www.muuto.com/cdn-cgi/image/width=500,quality=85,format=auto/globalassets/content-media/images/stories/home-stories/inside-with---geoffroy/geoffroy-x-muuto0072_selection-finale.jpg",
+          "alt": "/cdn-cgi/image/width=1500,quality=85,format=auto/globalasset",
+          "width": 253,
+          "height": 316
+        },
+        {
+          "url": "https://www.muuto.com/cdn-cgi/image/width=1500,quality=85,format=auto/globalassets/content-media/images/01.-lifestyle-images/september-26/contra-floor-lamp-outline-soft-3-seater-clay-12-polished-alu-verso-rug-pale-green-warm-brown-soft-low-res.jpg",
+          "alt": "/cdn-cgi/image/width=1500,quality=85,format=auto/globalasset",
+          "width": 181,
+          "height": 253
+        },
+        {
+          "url": "https://www.muuto.com/cdn-cgi/image/width=500,quality=85,format=auto/globalassets/content-media/images/plp/seating/dining-chairs/earnest-extendable-table-205-oak-fiber-soft-tube-hearth-8-grey-raise-carafe-glass-clear-burnt-orange-dark-blue-muuto-org.jpg",
+          "alt": "earnest extendable table 205 oak fiber soft tube hearth 8 gr",
+          "width": 191,
+          "height": 143
+        }
+      ],
+      "document_width": 1051,
+      "viewport": {
+        "name": "tablet",
+        "width": 768,
+        "height": 1024
+      },
+      "states": {
+        "initial": "observed",
+        "hover": "not_measured",
+        "focus": "not_measured",
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-tablet.png",
+        "sha256": "6dcfb1a0795ad7922c940a45d6985e9b7e08329d18dcf39e911236dbb4262b65",
+        "public_path": "evidence/viewport-tablet.png"
+      }
+    },
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "PRODUCTS\nNews\nSeating\n \nSofas\n \nTables\n \nShelving & Storage\n",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 6878.140625
+          },
+          "styles": {
+            "color": "rgb(17, 17, 17)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "EuclidFlex, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "23px",
+            "letter-spacing": "-0.32px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(17, 17, 17)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "navigation",
+          "selector": "#app > header:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > nav:nth-of-type(1)",
+          "label": "PRODUCTS\nNews\nSeating\n \nSofas\n \nTables\n \nShelving & Storage\n",
+          "box": {
+            "x": 17,
+            "y": -827,
+            "width": 356,
+            "height": 143.390625
+          },
+          "styles": {
+            "color": "rgb(17, 17, 17)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "EuclidFlex, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "23px",
+            "letter-spacing": "-0.32px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(17, 17, 17)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "section-heading",
+          "selector": "#app > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(1) > hero-editorial:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1)",
+          "label": "explore our new designs",
+          "box": {
+            "x": 0,
+            "y": 72,
+            "width": 390,
+            "height": 140
+          },
+          "styles": {
+            "color": "rgb(197, 219, 243)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "EuclidFlex, Helvetica, Arial, sans-serif",
+            "font-size": "70px",
+            "font-weight": "500",
+            "line-height": "70px",
+            "letter-spacing": "-2.8px",
+            "padding-top": "0px",
+            "padding-right": "16px",
+            "padding-bottom": "0px",
+            "padding-left": "16px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(197, 219, 243)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "body-copy",
+          "selector": "#app > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(1) > hero-editorial:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(1)",
+          "label": "FALL 2026",
+          "box": {
+            "x": 367.046875,
+            "y": 151.734375,
+            "width": 28.0625,
+            "height": 17.84375
+          },
+          "styles": {
+            "color": "rgb(197, 219, 243)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "EuclidFlex, Helvetica, Arial, sans-serif",
+            "font-size": "12px",
+            "font-weight": "500",
+            "line-height": "14.04px",
+            "letter-spacing": "-0.24px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(197, 219, 243)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "product-card",
+          "selector": "#app > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > section:nth-of-type(1) > related-products:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > article:nth-of-type(1)",
+          "label": "News\nCONTRA FLOOR LAMP",
+          "box": {
+            "x": 0,
+            "y": 1595.5,
+            "width": 389,
+            "height": 496.125
+          },
+          "styles": {
+            "color": "rgb(17, 17, 17)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "EuclidFlex, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "23px",
+            "letter-spacing": "-0.32px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(17, 17, 17)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "#app > footer:nth-of-type(1)",
+          "label": "PRODUCTS\nseating\nsofas\ntables\nshelving & storage\nlighting\nac",
+          "box": {
+            "x": 0,
+            "y": 5749.140625,
+            "width": 390,
+            "height": 1129
+          },
+          "styles": {
+            "color": "rgb(17, 17, 17)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "EuclidFlex, Helvetica, Arial, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "23px",
+            "letter-spacing": "-0.32px",
+            "padding-top": "12px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "1px",
+            "border-top-color": "rgba(0, 0, 0, 0.1)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://www.muuto.com/cdn-cgi/image/width=1500,quality=85,format=auto/globalassets/content-media/images/01.-lifestyle-images/september-26/outline-soft-3-seater-clay-12-polished-alu-contra-floor-lamp-verso-rug-cover-lounge-cognac-leather-low-res.jpg",
+          "alt": "Explore our sofa collection",
+          "width": 195,
+          "height": 139
+        },
+        {
+          "url": "https://www.muuto.com/static/assets/svg/logo.svg",
+          "alt": "logo",
+          "width": 300,
+          "height": 58
+        },
+        {
+          "url": "https://www.muuto.com/static/assets/svg/logo.svg",
+          "alt": "logo",
+          "width": 300,
+          "height": 58
+        },
+        {
+          "url": "https://www.muuto.com/cdn-cgi/image/width=1500,quality=85,format=auto/globalassets/content-media/images/01.-lifestyle-images/september-26/contra-floor-lamp-outline-soft-3-seater-clay-12-polished-alu-verso-rug-pale-green-warm-brown-soft-low-res.jpg",
+          "alt": "/cdn-cgi/image/width=1500,quality=85,format=auto/globalasset",
+          "width": 250,
+          "height": 351
+        },
+        {
+          "url": "https://www.muuto.com/cdn-cgi/image/width=500,quality=85,format=auto/globalassets/content-media/images/20-year-and-3days/muuto-next-chapters-close-to-heart-02-low-res.jpg",
+          "alt": "/cdn-cgi/image/width=1500,quality=85,format=auto/globalasset",
+          "width": 97,
+          "height": 97
+        },
+        {
+          "url": "https://www.muuto.com/cdn-cgi/image/width=500,quality=85,format=auto/globalassets/content-media/images/stories/studio-visit/sia-hurtigkarl---verso/sia-hurtigkarl-studio-visit-2026-17low-res.jpg",
+          "alt": "/cdn-cgi/image/width=1500,quality=85,format=auto/globalasset",
+          "width": 390,
+          "height": 487
+        },
+        {
+          "url": "https://www.muuto.com/cdn-cgi/image/width=500,quality=85,format=auto/globalassets/content-media/images/stories/home-stories/inside-with---geoffroy/geoffroy-x-muuto0072_selection-finale.jpg",
+          "alt": "/cdn-cgi/image/width=1500,quality=85,format=auto/globalasset",
+          "width": 390,
+          "height": 486
+        },
+        {
+          "url": "https://www.muuto.com/cdn-cgi/image/width=1500,quality=85,format=auto/globalassets/content-media/images/01.-lifestyle-images/september-26/contra-floor-lamp-outline-soft-3-seater-clay-12-polished-alu-verso-rug-pale-green-warm-brown-soft-low-res.jpg",
+          "alt": "/cdn-cgi/image/width=1500,quality=85,format=auto/globalasset",
+          "width": 278,
+          "height": 390
+        },
+        {
+          "url": "https://www.muuto.com/cdn-cgi/image/width=500,quality=85,format=auto/globalassets/content-media/images/plp/seating/dining-chairs/earnest-extendable-table-205-oak-fiber-soft-tube-hearth-8-grey-raise-carafe-glass-clear-burnt-orange-dark-blue-muuto-org.jpg",
+          "alt": "earnest extendable table 205 oak fiber soft tube hearth 8 gr",
+          "width": 97,
+          "height": 73
+        }
+      ],
+      "document_width": 396,
+      "viewport": {
+        "name": "mobile",
+        "width": 390,
+        "height": 844
+      },
+      "states": {
+        "initial": "observed",
+        "hover": "not_measured",
+        "focus": "not_measured",
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-mobile.png",
+        "sha256": "d3d7369f7d39afda6253733ccc3af832d88481718d60c0063d600becb1fd93a9",
+        "public_path": "evidence/viewport-mobile.png"
+      }
+    }
+  ],
+  "visual_validation": {
+    "status": "not_performed",
+    "reason": "No implementation generated from DESIGN.md has been compared with the reference."
+  },
+  "brand_review": {
+    "decision": "matched_brand",
+    "reviewed_on": "2026-09-30",
+    "title": "MUUTO.COM",
+    "final_url": "https://www.muuto.com/",
+    "capture_id": "a780a44124c04ababe7f6a79fc3c0176",
+    "expected_brand": "Muuto"
+  },
+  "requested_url": "https://www.muuto.com",
+  "captured_at": "2026-09-30T09:04:39.211337+00:00",
+  "capture_id": "a780a44124c04ababe7f6a79fc3c0176",
+  "landing_page_sha256": "d0a4ddb0c39557fc75044872d770867aa5ed9b11cc1c652070fa2be6025f33c5"
+}

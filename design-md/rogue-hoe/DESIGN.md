@@ -4,6 +4,10 @@ name: "Rogue Hoe"
 source_url: "https://roguehoe.com"
 captured_at: "2026-09-28T10:14:07.722089+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Rogue Hoe is a Missouri-made hand-tool manufacturer serving gardeners, farmers,
   trailbuilders, and wildland firefighters. The observed CSS comes from a Divi/WordPress
@@ -163,6 +167,13 @@ Recommended, not measured, breakpoint table:
 Touch targets should be a minimum 44×44px for nav and cart icons; the dual "By Purpose / By Type" menu should collapse into a single expandable list on mobile. None of this is confirmed site behavior — it is a UX recommendation based on the taxonomy implied by page text.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Evidence is static CSS/text extraction only; no rendered layout, breakpoints, or interaction states (hover, focus, active, disabled) were directly observed.

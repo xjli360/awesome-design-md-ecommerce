@@ -4,6 +4,10 @@ name: "Smithey"
 source_url: "https://smithey.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Smithey Ironware Company speaks in the language of heirloom craftsmanship, where every surface carries the quiet confidence of cast iron seasoned over generations. The brand's palette is drawn from the forge itself — deep verdant greens like {colors.primary} (#203d3e) anchor the experience, evoking the patina of well-loved cookware, while warm brass accents in {colors.accent} (#b68b32) catch the light like polished fittings on a vintage skillet. The canvas is a soft, almost chalky white ({colors.canvas} #f6f6f6) that feels tactile and approachable, not clinical. Text lives in near-black {colors.ink} (#141414) and charcoal {colors.body} (#333029), with muted tones like {colors.muted} (#6c757d) and {colors.muted-soft} (#545454) supporting secondary information. Hairlines draw in {colors.hairline} (#dedede) and a softer {colors.hairline-soft} (#e2e2e2), keeping edges defined without harshness. The typography leans on Gotham and GothamSSm — a geometric sans-serif with a sturdy, American industrial feel that matches the brand's South Carolina roots. Display sizes run moderate, never shouting, while body text at 14–16px stays readable and grounded. Rounded corners are restrained: a soft {rounded.sm} (8px) on buttons, {rounded.md} (12px) on cards, and {rounded.lg} (20px) on hero images — nothing so pill-like that it undermines the honest, forged-metal character. The overall mood is warm, substantial, and unhurried, like a Sunday morning spent seasoning a new skillet.
 
@@ -467,6 +471,13 @@ components:
 - Search bar becomes a full-screen overlay below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

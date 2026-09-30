@@ -4,6 +4,10 @@ name: "Laylo"
 source_url: "https://www.laylopets.com/"
 captured_at: "2026-09-29T03:58:47.956565+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   LAY LO Pets sells design-forward dog beds, blankets, and pet furniture through a Shopify storefront that reads as editorial and gallery-like rather than utilitarian. The observed palette is dominated by true black (#000000) and white (#ffffff), with charcoal and slate grays (#333333, #202223, #757575) carrying body copy, and a warm amber/gold (#f1b74e) appearing as the review-star and "write a review" accent — inferred here as the brand's single warm highlight color against an otherwise neutral system. A muted navy (#1f294f) appears in root-level CSS and is treated as a secondary structural color for footers or dark sections, though its exact live usage is not confirmed from static extraction. Typography evidence shows a serif family (Big Caslon, Fraunces) alongside sans families (DM Sans, DIN Neuzeit Grotesk, p22-underground), suggesting an editorial pairing: serif for large display moments (collection names, hero copy) and sans for navigation, body text, and buttons, consistent with the letter-spaced, uppercase-leaning button styles observed in calendar and add-to-cart controls. Layout, spacing, and rounding values below are proposed conventions for a premium pet-lifestyle catalog and are not measured from live rendering.
 
@@ -151,6 +155,13 @@ This is a recommended, non-measured breakpoint scheme for a catalog + editorial 
 Touch targets for buttons and nav items should maintain a minimum 44px height, consistent with the `min-height: 45px` value observed on the calendar popup button. Filter/search UI and the primary nav are expected to collapse into a drawer or sheet below the tablet breakpoint. All of the above is a proposed responsive strategy, not behavior observed from live rendering.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

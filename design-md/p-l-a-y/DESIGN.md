@@ -4,6 +4,10 @@ name: "P.L.A.Y."
 source_url: "https://petplay.com"
 captured_at: "2026-09-28T09:53:46.489814+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   P.L.A.Y. (Play Pet Brands) presents as a warm, craft-driven pet lifestyle
   storefront selling beds, toys and outdoor gear. The observed palette pairs
@@ -171,6 +175,13 @@ This is a recommended breakpoint scheme, not measured site behavior.
 Touch targets should maintain a minimum 44px height for buttons and size-selector chips. Navigation collapse and menu interaction states were not observed and are proposed for accessibility consistency.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

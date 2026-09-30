@@ -4,6 +4,10 @@ name: "Public - Supply"
 source_url: "https://public-supply.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The golden pull of #e9be33 — close kin to a No. 2 pencil's lacquer or an unlined legal pad held to morning light — is Public Supply's single charged signal. Every sale badge, accent rule, and primary CTA carries it as annotation rather than advertisement; pressed against a near-charcoal ink layer (#31373d) and a flat institutional mid-gray (#6c6c6c), the marigold reads like a felt-tip correction mark left on proofed copy. Typography stays entirely within the system-font stack — Helvetica Neue, Arial, sans-serif — deployed with widened letter-spacing at display sizes that gives headlines the measured cadence of a government form or memo header rather than the compressed urgency of retail fashion. Rounding is absent across the full system: buttons, inputs, cards, badges, and filter controls all render at {rounded.none}, with no corner relief to soften the rectilinear grid. The angularity signals utilitarian precision — a supply-closet indexing logic rather than consumer softness. A steel blue (#479ccf) enters as the accent for links and informational states, carrying the same flat institutional tone as ballpoint on white-ruled stock; it is the one cool note in an otherwise warm-neutral palette. Product photography isolates objects against {colors.hairline} or pure white, foregrounding surface texture — the tooth of recycled pulp, the matte face of chipboard, the wire coil's ridged metal — rather than lifestyle staging. Spacing throughout is generous: wide gutters and vertical breathing room between grid rows let each SKU read as an object under examination rather than an item in a stack. The footer descends into {colors.dark-canvas} territory, all links reversed to {colors.on-dark}, anchoring the page without any further marigold presence. Public Supply disciplines its palette so thoroughly that the golden always lands exactly where the eye should arrive — a restraint that reads as editorial confidence.
 
@@ -329,6 +333,13 @@ components:
 - Cart drawer: full-width panel on mobile; fixed 380px on tablet and above
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

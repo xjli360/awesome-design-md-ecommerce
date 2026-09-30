@@ -4,6 +4,10 @@ name: "Troma Direct"
 source_url: "https://www.tromadirect.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A defiantly unpolished, blood-splattered retail outlet where the brand's true primary is not a generic blue but the lurid #cc1818 — a red that reads as dried B-movie gore against a backdrop of #eeeeee and #2f2f2f. The site wears its WordPress DNA openly: WooCommerce blue (#007cba) for add-to-cart buttons, #003388 for deep link states, and a sprawling palette of 30+ extracted hexes that includes #f0b849 (marigold), #4ab866 (slime green), and #34e2e4 (toxic cyan) — evidence of a design system built by duct-taping stock WordPress blocks together rather than commissioning a bespoke storefront. Typography is the system default stack (San Francisco, Roboto, Segoe UI) at modest sizes, with no custom brand typeface. The visual language is aggressively flat: zero rounded corners (`{rounded.none}`), no shadows, no gradients — the only texture comes from the product photography itself, which is proudly lo-fi. Navigation is a horizontal bar of category links in #2f2f2f on #eeeeee, punctuated by a search form that looks like it was styled in 2012. The footer is a dense wall of text links in #003388 on #eeeeee, with a "Newsletter" signup that uses the same #007cba button as everything else. This is a store that doesn't pretend to be polished — it sells Troma movies, and the design says "we spent our budget on the films, not the website."
 
@@ -460,6 +464,13 @@ components:
 - Search form moves from inline in the header to a full-width bar below the navigation on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

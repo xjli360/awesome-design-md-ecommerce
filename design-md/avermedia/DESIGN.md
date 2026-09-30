@@ -4,6 +4,10 @@ name: "AverMedia"
 source_url: "https://www.avermedia.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep indigo #2f3192 powers the brand's primary voltage — a saturated, almost electric blue-violet that appears on the main navigation bar, primary call-to-action buttons, and the hero section's background, giving the streaming-hardware site a confident, tech-forward presence. This distinctive indigo is paired with a secondary blue #374ea3 for hover states and supporting accents, while a bright green #00c31e serves as a live/streaming indicator and status badge, creating a clear semantic color language. The canvas is a warm off-white #f6f6f6 rather than pure white, lending a softer, more approachable feel than typical gaming or streaming brands. Typography runs Arial and Helvetica at modest sizes — body text at 14px (0.875rem) keeps product specs and descriptions dense and scannable, while the generous use of #777777 for secondary text and #aaaaaa for muted labels creates a clear information hierarchy. Product cards use soft rounded corners (`{rounded.md}`) and subtle shadows, while the search bar adopts a pill shape (`{rounded.full}`) that echoes the friendly, accessible tone. The brand's AI.STREAMING tagline signals a shift toward intelligent streaming solutions, reflected in the clean, utilitarian layout that prioritizes product photography and spec sheets over decorative elements.
 
@@ -490,6 +494,14 @@ components:
 - Table data (spec sheets) collapses to a stacked card layout on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

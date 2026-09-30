@@ -4,6 +4,10 @@ name: "Pearl Octopuss.y"
 source_url: "https://www.pearloctopussy.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The title card reads PEARL OCTOPUSS.Y — all caps, with a period embedded inside the name itself before the terminal character — a typographic tic that signals wit operating just below a composed surface. Warm marigold-gold (#d49a06) carries every primary CTA and decorative accent, chosen not for conventional luxury cliché but for its relationship to actual nacre: the way a quality pearl catches gold-spectrum light before it shifts toward lavender. That iridescent logic runs through the surface palette too — a pale cream-yellow (#f5f9c8) and a faint lavender mist (#f2eff7) stand in for the spectral range a pearl produces when rotated in daylight, while near-black (#121212) grounds everything without resolving to pure black's harshness. Silver-mist (#d3d3d3) punctuates links and secondary chrome, echoing the cooler overtone of a South Sea or Akoya specimen.
 
@@ -294,6 +298,13 @@ components:
 - Collection labels remain visible at all breakpoints; no content is hidden below tablet
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

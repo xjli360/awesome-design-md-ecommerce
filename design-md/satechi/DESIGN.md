@@ -4,6 +4,10 @@ name: "Satechi"
 source_url: "https://www.satechi.net"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A dark, precision-oriented electronics accessories brand that builds its entire visual identity around the tension between #222021 (near-black ink) and #f55a19 (a scorched-orange accent that reads like anodized aluminum catching light). The brand's product photography — aluminum docks, USB-C hubs, mechanical keyboards — is the real typography; the actual type system is a restrained sans-serif that stays out of the way, with body copy at 14–16px and display rarely exceeding 24px. Every product card uses a soft #f5f2ef canvas that mimics the warm neutral of brushed aluminum, while CTAs pulse in #f55a19 with {rounded.sm} corners that echo the chamfered edges of the hardware itself. The nav bar sits at 64px, dark (#222021) with white text, a clean horizontal strip that signals industrial confidence. Badges for "NEW" or "SALE" appear in #e22120 (a cooler red than the orange primary) or #00eab6 (a mint accent used sparingly for compatibility badges). The checkout flow introduces #4e34e0 (a deep violet) for payment buttons — a deliberate shift that separates transaction from browsing. There is no gradient, no drop-shadow excess, no decorative illustration; the brand trusts hard edges, generous whitespace, and the material truth of its products.
 
@@ -333,6 +337,13 @@ components:
 - Product filters collapse into a "Filter" button that opens a modal on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Hudson Valley"
 source_url: "https://hvlgroup.com"
 captured_at: "2026-09-29T04:07:33.725845+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from a lighting-industry storefront (Hudson Valley Lighting Group) whose extracted CSS is dominated by shared library defaults — jQuery UI widget styling and Bootstrap's CSS-variable scaffolding — rather than bespoke brand tokens. No first-party brand color or type declarations were present in the supplied evidence, so all semantic role assignments below are inferred from the observed palette and font stack, not confirmed brand identity.
   The palette centers on deep charcoal-navy neutrals (#253746, #16232e, #212529) against warm off-whites (#fdfaf3, #f5f4f3, #f8f9fa), which reads as a quiet, editorial backdrop appropriate for photographing decorative fixtures. A muted terracotta (#8d3f2d) is proposed as an accent, echoing warm metal/finish tones common in lighting catalogs, though it is not confirmed as a brand accent. Standard Bootstrap state colors (success, warning, danger, info) are carried through for form and utility feedback.
@@ -150,6 +154,13 @@ The following breakpoint table is a recommendation for a catalog-heavy lighting 
 Touch targets should be a minimum 44px height for buttons and swatch selectors given the fine-grained finish/color choices implied by the "Finishes" swatch catalog. Mega-menu collapse behavior, hover states, and mobile drawer patterns are proposed conventions only, not confirmed interactions.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Static extraction returned no brand-authored color or typography declarations for hvlgroup.com; nearly all supplied CSS rules originate from jQuery UI and Bootstrap CSS-variable scaffolding, so every semantic color/type role above is inferred, not confirmed.

@@ -4,6 +4,10 @@ name: "Summer Classics"
 source_url: "https://summerclassics.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Loretta Display headlines sit above a visual hierarchy built on deep botanical sage (#475942) — a color that functions as a ground tone rather than an accent, the way paint on a conservatory wall recedes behind the objects arranged in front of it. Neue Haas Unica carries navigation, body copy, and specification text with the clean reserve of a Swiss grotesque that knows its support role. The brand positions itself explicitly for interior designers and trade professionals, which reshapes every UI decision: product pages present finish codes, lead times, and SKU variants with the density of a material schedule; image galleries favor full-bleed lifestyle photography over isolated product shots on white; and a trade login with wholesale pricing access holds a fixed position in the global navigation. Primary CTAs run with {rounded.xs} corner radius — the near-flat geometry signals material confidence rather than the consumer-DTC friendliness of a pill button. Color application is restrained: #475942 appears on primary actions, active nav indicators, and the footer fill, while the white canvas (#ffffff) and a warm off-white surface-soft (#f8f7f5) carry most of the visible space. Display type climbs to 64px on hero sections, letting Loretta Display's ink-trap serifs resolve at full size before stepping through a disciplined scale down to 11px uppercase captions on material finish labels. No urgency mechanics appear anywhere on the site — no countdown timers, no low-stock badges, no promotional banners interrupting editorial flow — only the unhurried authority of a catalogue organized by collection, material, and trade category. Outdoor dining is treated with the same editorial gravity a shelter magazine brings to a room: season-lit tables set for eight on stone terraces, teak and powdercoat and resin wicker presented as durable choices rather than seasonal trends, the implicit promise that this furniture outlasts the terrace it furnishes.
 
@@ -314,6 +318,13 @@ components:
 - Footer columns stack to a single column with accordion-toggled link groups on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

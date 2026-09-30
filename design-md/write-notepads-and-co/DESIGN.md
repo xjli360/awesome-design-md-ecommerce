@@ -4,6 +4,10 @@ name: "Write Notepads & Co."
 source_url: "https://www.writepads.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The ruled page is this brand's organizing metaphor: #ddfaf4, a barely-there mint that reads like fresh paper catching diffuse studio light, recurs as the primary hero surface, and the payoff arrives when #45bea6 — a seafoam teal with Caribbean warmth — appears as the single active voltage, carrying every cart button, hover ring, price highlight, and focused-input underline. Against it stands #1b175d, a near-indigo navy as dense as dried fountain pen ink, anchoring announcement bars, section headers, and editorial callouts; the brand owns two pigments that map almost literally onto the stationery ritual: blank page and mark made. The rest of the palette keeps its distance — a spine of near-blacks (#121212, #111827, #1f2937) handles body and navigation type; a warm-gray range (#555353, #606060, #6b7280) carries metadata and supporting copy without competing with product photography; hairlines and borders draw from a cooler family (#c7c7c7, #d1d1d1, #e5e7eb), keeping spiral-bound notebooks, brass-ferrule pencils, and matte-finish pen barrels clean and unframed. Typography could not be extracted from the live Shopify theme (see Known Gaps), but the "for Professionals & Creatives" brand positioning calls for a confident geometric or humanist sans-serif at medium weights — display sitting around 28–40px at 600–700, body at 16px/400 — authority earned through restraint rather than typographic muscle. Components follow a Shopify-standard grid inflected with light brand character: product cards wear {rounded.sm} corners and a 1px #d1d1d1 border; primary buttons fill the teal at {rounded.xs}; the mint surface (#ddfaf4) returns in a full-width newsletter band above the footer, echoing the blank-page energy of the hero, while the #121212 footer beneath it closes the page like a notebook cover laid flat. {rounded.full} appears only in the search icon affordance and circular icon buttons, never on primary CTAs.
 
@@ -397,6 +401,13 @@ components:
 - Product card image aspect ratio (4:5) preserved at all breakpoints; card width follows the column grid
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

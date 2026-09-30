@@ -4,6 +4,10 @@ name: "Troy Lighting"
 source_url: "https://www.hvlgroup.com/Products/Brand/TroyLighting"
 captured_at: "2026-09-29T04:16:01.713442+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from the Hudson Valley Lighting Group (HVLG) storefront, where Troy Lighting is presented as one of several house brands within a shared Bootstrap-based commerce shell. No Troy-specific stylesheet was supplied, so the palette below is the observed HVLG site-wide color set, and the typography reflects the site's declared font stack (GT Super, GT Eesti, Arial/Helvetica, Roboto) rather than any Troy-only asset. Troy Lighting's copy ("elevating the perfectly imperfect... natural comfort") suggests a warm, artisanal, slightly industrial sensibility, so the interpretation leans on the warmer earth tones in the palette (rust-bronze #8d3f2d, mustard #f4c24c, warm creams) for primary and accent roles, while inking body text in the observed near-black/dark-gray grays. Card and surface tones use the off-white and cream values present in the palette rather than pure white, matching the catalog's dense, warm-neutral grid of product tiles seen in the page text (SKUs, finishes, dimensions). Role assignments beyond literal CSS values (primary, accent, surface-soft) are inferred design choices, not measured brand tokens, since Troy Lighting's dedicated brand site was not the crawled source.
 
@@ -146,6 +150,13 @@ components:
 Touch targets for buttons and filter checkboxes should be at least 44×44px per standard accessibility guidance. Below `md`, the filter sidebar is expected to collapse into a drawer or modal triggered by a "Filters" button, consistent with the "Filters" label present in the page text. This table is a recommendation derived from typical Bootstrap-grid commerce patterns (Bootstrap CSS variables were observed in the stylesheet) and is not a measurement of the live site's actual responsive behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

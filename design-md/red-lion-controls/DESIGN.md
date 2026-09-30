@@ -4,6 +4,10 @@ name: "Red Lion Controls"
 source_url: "https://www.redlion.net"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Two blues — a signal-clear medium #1268b3 and a pressure-vessel navy #043d5d — do nearly all the chromatic work on a canvas that is otherwise white and cool gray. That restraint is deliberate: Red Lion makes the hardware that reads temperatures inside industrial furnaces and relays data across factory floors, and the website mirrors that operational honesty. Nothing competes for attention except the information itself. Industry, a typeface built for bold condensed rendering, carries every display headline; it has the same visual register as panel labels on PLCs — dense, readable at a distance, zero ornament. Lato runs body copy, spec tables, and form labels with the neutral fluency that keeps long product pages scannable without visual fatigue. Rounded corners are minimal: cards sit at a 4–8px radius, buttons at 4px, and nothing approaches a pill — this is not a consumer brand trying to feel soft. The primary action color is the brighter #1268b3 on white, while #043d5d surfaces as hover states, header fills, and footer backgrounds, giving depth without introducing a third hue. Component density is high: product cards carry part numbers, protocol badges, and download links inside a compact 240–280px column. Hero sections layer a dark navy overlay over industrial photography, with white display type set in Industry Bold and a single {colors.primary} CTA button as the only warm accent. The information architecture favors engineers: navigation groups by product family (Controllers, Monitors, Networking, Software), not by use case or vertical. Search is prominent and always visible in the top bar because the primary user journey is "I need part number X" not "let me browse." Data tables, spec sheets, and firmware download links are treated as first-class UI elements rather than afterthoughts hidden in a support section.
 
@@ -405,6 +409,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

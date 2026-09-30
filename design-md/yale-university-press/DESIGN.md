@@ -4,6 +4,10 @@ name: "Yale University Press"
 source_url: "https://yalebooks.yale.edu"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A scholarly publisher whose visual system is built on the authority of a single deep blue — #3858e9 — that appears as the primary action color, the link color, and the accent that pulls the eye through dense informational pages. This blue, paired with a near-black ink (#1e1e1e) for body text and a muted #949494 for secondary metadata, creates a hierarchy that feels both academic and digitally crisp. The press uses a restrained palette: #e0e0e0 for hairline borders, #f0f0f0 for soft surfaces, and #ffffff for the canvas, with occasional accents of #cc1818 (a scholarly red for sale prices or alerts) and #4ab866 (for success states). The typography relies on system fonts — primarily -apple-system and Segoe UI — at modest sizes, with body text at 16px and headings that rarely exceed 28px, trusting the content's weight rather than typographic drama. Buttons use {rounded.sm} corners (8px), giving them a precise, unpretentious feel, while the search bar employs {rounded.full} pill shapes for a touch of approachability. The overall impression is that of a serious institution that has modernized without sacrificing gravitas — the blue is confident but not aggressive, the spacing generous but not wasteful, and the entire interface feels built for long reading sessions rather than quick transactions.
 
@@ -295,6 +299,13 @@ components:
 - Secondary navigation (category filters) collapses to dropdown select below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

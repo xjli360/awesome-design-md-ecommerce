@@ -4,6 +4,10 @@ name: "IXXI"
 source_url: "https://www.ixxiyourworld.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Each IXXI order arrives not as a single print but as a grid of individually cut rectangular panels that interlock by hand into a wall-scale image — the modular assembly system is the product, and every UI decision flows from that fact. Deep slate-navy (#0f172a) anchors both the primary brand action and the darkest ink on the page, creating a surface that steps back cleanly to let full-bleed photography and curated artwork read at maximum saturation. DM Serif Display pulls display headings into an editorial register — bracketed serifs at low weight read gallery wall, not e-commerce drop-down — while Futura PT handles all transactional copy with geometric discipline: navigation labels, size callouts, and uppercase button text tracked at +0.08em. That two-voice type system — serif editorial above, geometric utility below — carries IXXI's dual identity as art publisher and personalisation tool simultaneously, without either voice overpowering the artwork itself.
 
@@ -353,6 +357,13 @@ components:
 - Footer: five-column grid collapses to two columns on Tablet, single accordion on Mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

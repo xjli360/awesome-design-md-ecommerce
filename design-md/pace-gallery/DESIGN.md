@@ -4,6 +4,10 @@ name: "Pace Gallery"
 source_url: "https://www.pacegallery.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The entire Pace Gallery digital presence resolves to a two-value argument — #101010 ink pressed against a #ffffff ground, with negative space functioning as the only decorative element. No secondary hue interrupts the field; no gradient softens the transition. The interface behaves precisely as a white cube gallery behaves: the artwork image carries all sensory responsibility, and every typographic and structural decision exists to get out of its way. Navigation presents as a minimal bar with near-zero visual mass, text at 14px in regular weight, a hairline border the only indication of zone change. Buttons arrive without radius — `{rounded.none}` throughout, corners as hard as a gallery wall edge. The discipline is institutional rather than aesthetic: a gallery that has represented Rothko, Rauschenberg, and Agnes Martin does not need a friendly pill-shaped CTA to establish authority. Typography runs in a clean neo-grotesque at light-to-regular weights; display headings sit at weight 300 and large point sizes, trusting the combination of scale and restraint over heavy typographic muscle. Section labels appear in tracked uppercase at 11px — `{typography.label-uppercase}` — the same register used by exhibition wall text for medium attribution. Artist listing pages resolve to a single column of names separated by `{colors.hairline}` rules, each row lifting to `{colors.surface-soft}` on hover: a phonebook of cultural consequence. Exhibition cards give image the dominant proportion and reduce date and location to `{typography.caption}` in `{colors.muted}`, below the title. The footer inverts to `{colors.surface-dark}` — the one moment the brand's black takes on a background role rather than a text role. Overall register: the confidence of an institution that has operated for sixty-five years and learned that the less the container says, the more the art speaks.
 
@@ -372,6 +376,13 @@ components:
 - Footer column grid collapses 4→2→1 columns at tablet→mobile breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

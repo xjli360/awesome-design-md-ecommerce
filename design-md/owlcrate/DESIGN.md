@@ -4,6 +4,10 @@ name: "OwlCrate"
 source_url: "https://www.owlcrate.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A midnight-blue (#282560) and teal (#86e4e0) subscription world where bookish discovery meets tactile monthly ritual. The brand lives in the tension between deep, almost-navy indigos (#1c1b2e, #141321) and bright, minty aquas (#86e4e0, #19cfd2) — a palette that reads as both cozy and magical, like a reading nook lit by a glowing screen. Every primary CTA and interactive element pulses in that signature teal, while the dark backgrounds create a sense of intimate immersion, as if each page turn happens in a quiet corner of a fantastical library. The typography leans on Asul and Figtree — Asul for display moments that carry a slightly hand-drawn, whimsical weight, and Figtree for body text that stays clean and readable across product descriptions and subscription details. Rounded corners are generous but not pillowy: cards and buttons use `{rounded.md}` (12px) to feel approachable without losing structure, while badges and small tags go tighter at `{rounded.sm}` (8px). The brand's voice is enthusiastic and direct — "Get the Box" buttons in teal against dark backgrounds feel like invitations to join a secret club, not transactional prompts. Product cards feature stacked imagery (the box, its contents, lifestyle shots) with overlays and badges in coral (#c16452), gold (#ffcb67), and deep purple (#4d384b) to denote exclusives, spoilers, and member perks. The footer and secondary navigation retreat into muted lavenders (#cecdeb, #e5e5f5) and soft grays (#f4f4f6), keeping the visual hierarchy clear: dark and teal for action, light and muted for information. OwlCrate feels like a subscription box designed by someone who loves the weight of a hardcover and the surprise of a wrapped package — digital, but reaching toward the physical.
 
@@ -423,6 +427,13 @@ components:
 - Testimonial carousel collapses to single-card display on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

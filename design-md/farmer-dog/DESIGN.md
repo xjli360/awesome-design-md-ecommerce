@@ -4,6 +4,10 @@ name: "The Farmer__ Dog"
 source_url: "https://thefarmersdog.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The double underscore in "The Farmer__ Dog" is the brand's first rhetorical move — two characters functioning as a deliberate gap, separating this product from every conventional pet-food shelf before a single ingredient is described. Forest green (#3d6b52) dominates the entire primary surface system: subscription CTAs, wizard step-progress indicators, trust-badge borders, nav hover states, and active form focus rings. Against it, a warm cream canvas (#fdf8f0) distances the brand from clinical veterinary whites and the saturated blues of big-box pet retail — the background reads like unbleached kraft paper, grounding the product in the farmstead register it claims. Body copy runs at modest weights in a humanist sans-serif with wide line-heights, stepping back so ingredient transparency can take the foreground; typographic quietness here is a trust signal, not a design gap. Photography shoots real dogs mid-meal — fur disheveled, expression unposed, food visibly textured — against warm neutral surfaces so the meal's actual color (orange carrots, ground beef, green peas) provides brand saturation without artificial styling. Product cards adopt an ingredient-first hierarchy: a condensed uppercase meal-plan label in {typography.label-caps} above a macro breakdown in {typography.body-sm}, with no decorative chrome between user and nutritional fact. Subscription checkout runs as a step-by-step wizard with a persistent summary rail, a UX posture that acknowledges the weight of a recurring commitment rather than compressing toward payment. Trust architecture stacks deliberately above the fold — USDA certifications, vet-portrait testimonials, a founding-narrative block — each accented with the forest green against {colors.hairline} dividers. Rounded corners hold a measured register: {rounded.md} on cards and modals, {rounded.sm} on inputs and form fields, with only CTA buttons and pill badges reaching {rounded.full}, signaling warmth without tipping into the bubbly consumer-app register the brand pointedly avoids.
 
@@ -334,6 +338,13 @@ components:
 - Footer link columns collapse from 4-column grid to 2-column at tablet, single accordion at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

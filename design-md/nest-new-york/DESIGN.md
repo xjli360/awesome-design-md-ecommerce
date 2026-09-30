@@ -4,6 +4,10 @@ name: "Nest New York"
 source_url: "https://www.nestnewyork.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A sanctuary of understated luxury, Nest New York's digital presence mirrors the quiet sophistication of its candles and home fragrances. The palette is anchored in warm, tactile neutrals — {colors.canvas} (#f1eee7) and {colors.surface-soft} (#f9f7f2) — that feel like raw linen or aged parchment, creating a hushed, residential atmosphere. Against this soft backdrop, the brand's signature blue, {colors.primary} (#1990c6), appears sparingly but with purpose: on primary CTAs, navigation links, and product badges, it reads as a breath of fresh air rather than a hard sell. A secondary accent, {colors.accent-rose} (#e2c2bc), whispers warmth into sale tags and promotional banners, while the deep charcoal of {colors.ink} (#121212) grounds body text and product titles with quiet authority. Typography is set in Gotham, a geometric sans-serif that balances approachability with precision — display sizes at 26px feel generous but never shouty, and body copy at 14px with generous line-height keeps reading effortless. Corners are softly rounded ({rounded.sm} 8px on buttons, {rounded.md} 12px on cards), avoiding the harshness of sharp edges while maintaining a clean, modern silhouette. The overall effect is one of curated calm: a space that invites browsing, lingers on product photography, and trusts the scent — not the interface — to sell.
 
@@ -337,6 +341,13 @@ components:
 - Cart sidebar becomes a full-screen overlay on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

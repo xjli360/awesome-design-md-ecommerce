@@ -4,6 +4,10 @@ name: "Third Man Records"
 source_url: "https://www.thirdmanrecords.com"
 captured_at: "2026-09-28T04:12:19.629360+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Third Man Records presents itself through a stark, high-contrast identity built on
   true black (#0b0d0f), a deeper off-black (#13171a), and a saturated signature
@@ -155,6 +159,13 @@ The following breakpoint table is a recommendation based on Bootstrap 5.3.6's de
 Touch targets should follow the confirmed 2.5rem (40px) icon button size from `.icon-link`. Below the `md` breakpoint, primary navigation is assumed to collapse into a drawer or hamburger menu; this collapse pattern is proposed and not confirmed by captured markup.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

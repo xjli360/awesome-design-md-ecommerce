@@ -4,6 +4,10 @@ name: "Lick"
 source_url: "https://lick.com"
 captured_at: "2026-09-28T09:37:56.153188+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Lick's public storefront presents a neutral, gallery-like backdrop so that paint and wallpaper colour remains the visual protagonist. Observed CSS exposes a near-black ink (#1a2023) and a warmer slate (#354147) for text and structural chrome, set against whites and off-whites (#ffffff, #fafafa, #f2f2eb) with soft warm-grey hairlines (#dedede, #ebeced, #c2c6c8). A small saturated accent set — teal-blue (#1990c6/#136f99), coral (#ff6b64), green (#1db86a), mustard (#e8be62) and rust (#c05717) — appears alongside semantic red (#ff0000) and tinted state backgrounds (#e9fcf2, #ffe5e5), suggesting these are used for links, badges, status messaging and swatch-style accents rather than a single fixed brand colour. Two font families are declared: Basis Grotesque Pro (with a Mono variant) for interface text, and Clearface, a serif, reserved here for larger editorial headlines — an inferred pairing of utilitarian UI type with a more expressive display face, consistent with a design-led home brand. Component roles below (buttons, cards, swatches, nav) are proposed interpretations built from the token evidence; exact hex-to-role assignments, spacing, and radii are not directly measured from layout and are marked as inferred or proposed throughout.
 
@@ -130,6 +134,12 @@ components:
 Recommended, not measured: mobile <480px (single-column stacks, nav collapses to drawer per the "Back" menu labels in the text excerpt, which suggest a slide-in mobile navigation), tablet 480–1024px (2-column product grids), desktop >1024px (mega-menu nav bar, multi-column footer). Touch targets should be at least 44px; the mobile menu's repeated "Back" affordance implies a nested drawer pattern rather than flat dropdowns. All breakpoint values are proposed defaults, not extracted from the supplied CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS custom-property names, a color list, font-family declarations, and page text — no rendered layout, computed box model, or live interaction states were observed. Role assignments for individual hex values (e.g., which accent is "the" brand colour vs. a status or swatch colour) are inferred from naming context and general e-commerce convention, not confirmed usage. All font sizes, weights, line-heights, spacing, and radii are proposed design-system values unless a literal declaration was present, which was not the case here. Mobile menu, hover, focus, and error-state visuals are assumed patterns, not verified. Clearface and Basis Grotesque Pro are custom/licensed fonts; their availability, licensing terms, and exact weight range were not verified from the supplied evidence.

@@ -4,6 +4,10 @@ name: "Molekule"
 source_url: "https://molekule.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   FDA clearance precedes the product name in the page title — that ordering is the brand's core argument: this is a medical instrument first and a home appliance second. Molekule builds its entire visual logic around a single chromatic column of green, running from the near-black forest of #161f15 through #0b5b30 and the brand primary #118849, then surfacing into light mint tones of #cfe9db and #a4f4c9 that fill cards and soft backgrounds; no competitor color appears in that column, with the greens doing clinical and natural work simultaneously. Akkurat LL — a Swiss modernist grotesque with nearly the same DNA as Helvetica but more open in tight settings — carries all interface text, from display-sized headlines at AkkuratPro-Light weight to compact UI labels in bold; Crimson Pro and Plantin appear as editorial accents, a serif counterpoint that occasionally grounds the all-sans system in something warmer, suggesting a brand that wants to feel scientific but not sterile. The canvas is clean white throughout the commerce flow, with surfaces floating on #dce7db at section breaks, and product cards using {rounded.md} corners — not the aggressive pill shapes of wellness startups, not the hard rectangles of industrial hardware. CTA buttons sit at {rounded.xs}, a restraint that reads as medical-grade rather than playful. The mint #cfe9db appears as badge fills and callout backgrounds, a visual shorthand for clean air. Dark marketing sections use #161f15, a green so deep it reads as black until placed beside actual black (#141414), at which point the forest undertone reveals itself. Technology communication dominates the component vocabulary: FDA-cleared badges, PECO callouts, and filtration statistics are first-class UI objects, not footnotes; {spacing.section} governs all major content breaks, and the warm-leaning gray tones (#d7d5d4, #3c3b3b) ensure the system reads earthy rather than synthetic.
 
@@ -394,6 +398,13 @@ components:
 - Hero eyebrow label and headline maintain their vertical stacking order across all breakpoints; only font size scales
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Strymon"
 source_url: "https://www.strymon.net"
 captured_at: "2026-09-28T09:14:26.637901+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Strymon's storefront runs on WooCommerce/WordPress, and its CSS custom
   properties expose a WooCommerce theme layer rather than a fully bespoke
@@ -148,6 +152,13 @@ Recommended, not measured from the live site:
 Touch targets should be at least 44×44px; primary/secondary buttons should retain the `{spacing.md} {spacing.lg}` padding at all sizes. Mega-menu (Products with many sub-categories) should collapse to an accordion on mobile. All breakpoint values are proposed conventions, not extracted from responsive CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS custom-property extraction and a text snapshot only; no rendered layout, computed styles, hover/focus/active states, or JavaScript-driven interactions were observed. Many supplied hex values (e.g. `#fcb900`, `#f78da7`, `#00d084`) originate from the default WordPress block-editor palette rather than confirmed Strymon brand usage, and were excluded from the token set where redundant or clearly generic. The purple accent (#720eec) is a WooCommerce theme-config variable and is treated as the brand primary by inference, not by direct visual confirmation of logo or header color. Font sizes, weights, letter-spacing, and the specific role assignments for "DIN OT" vs. "museo-sans" are proposed, since no font-size/weight declarations were present in the supplied CSS rules. Availability and licensing of "DIN OT" and "museo-sans" as web fonts were not verified. Responsive breakpoints, mobile navigation behavior, and grid column counts are proposed conventions only. The `"WooCommerce"` and `"star"` font entries are icon fonts and were intentionally excluded from typography roles.

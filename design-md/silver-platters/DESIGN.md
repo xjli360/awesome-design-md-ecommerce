@@ -4,6 +4,10 @@ name: "Silver Platters"
 source_url: "https://www.silverplatters.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A single warm gray (#eeeeee) sets the tone for Silver Platters — a Seattle-based media emporium that has been selling vinyl, CDs, movies, and gear since 1983. The brand's digital presence mirrors its physical stores: utilitarian, browsable, and unpretentious, with a near-monochrome palette that lets product photography and album art supply all the color. There is no hero gradient, no brand illustration system, no signature accent hue — just a clean white canvas (`{colors.canvas}`), soft gray surfaces (`{colors.surface-soft}`), and a hairline border (`{colors.hairline}`) that separates content zones with the subtlety of a record sleeve's inner seam. Typography relies on system-level icon fonts (Font Awesome 5 Brands, Font Awesome 5 Free) for navigation affordances and a custom spruce-icon-pack for category icons, suggesting a pragmatic approach to UI: use what works, don't over-engineer. Buttons use the full pill shape (`{rounded.full}`) for primary actions, while secondary controls and input fields default to a softer 8px radius (`{rounded.sm}`). The overall impression is that of a well-organized record store's website — built for scanning, not for lingering. The extracted palette yields only one distinctive hex (#eeeeee), which functions as the brand's primary surface tone rather than a traditional brand color; there is no primary-action color in the extracted data, meaning the site likely relies on black text on white backgrounds for CTAs, or the primary color is embedded in images rather than CSS. This is a design system built on restraint — or on the absence of a formal system — where the product is the hero and the interface steps back.
 
@@ -368,6 +372,13 @@ components:
 - **Wide (> 1440px):** Content is constrained to a max-width container. No further collapsing; whitespace increases.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

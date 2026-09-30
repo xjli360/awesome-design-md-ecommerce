@@ -4,6 +4,10 @@ name: "Herman Miller"
 source_url: "https://www.hermanmiller.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The red at the center of every Herman Miller call-to-action — #e22d00 — reads like powdercoated industrial steel rather than brand-book scarlet: hot enough to stop a page scan cold, grounded enough to sit beside Aeron mesh and walnut-veneer photography without competing. FF Meta Headline W05 carries the display work, Erik Spiekermann's humanist sans-serif engineered to function under newsprint compression; its slightly open apertures and ink-trap geometry give product-catalog headlines a workmanlike warmth that Swiss grotesks would flatten. The canvas settles at #fafafa — not pure white but a near-white that extends reading endurance across specification-heavy product pages — with ink at #252525, a near-black that delivers strong contrast without the harsh cold snap of true black on true white.
 
@@ -384,6 +388,13 @@ components:
 - Mega-menu flyouts on desktop become drill-down panels within the mobile drawer
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

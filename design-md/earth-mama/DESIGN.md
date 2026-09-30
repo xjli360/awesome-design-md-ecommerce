@@ -4,6 +4,10 @@ name: "Earth Mama"
 source_url: "https://earthmamaorganics.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The palette tells you what Earth Mama sells before the copy does. Deep forest sage (#40524a) anchors the brand — a green so dark it reads almost mineral rather than leafy — while the action system lives in a bright teal (#009d85) that signals the clean, modern face of the organic category. Below those two keystones, a full nursery of soft hues opens up: peachy sand (#dccec2), newborn blush (#f8d9e0), and meadow haze (#c0d8a5) serve product-line labels and ingredient callouts, with a straw-yellow (#ffec86) reserved for certification stamps and promotional flags. The canvas is a barely-warm off-white (#efecec) rather than pure paper white — it quiets the eye and keeps the page from reading as clinical or pharmaceutical. Shape language is consistently soft: product cards settle at `{rounded.lg}`, buttons and badge chips run to `{rounded.full}` pill forms, and there are no hard-cornered rectangles used for interactive elements. The metaphor is intentional — every corner radius reinforces the brand's "safe, gentle, natural" positioning without stating it explicitly. Spacing is generous; section gaps give ingredient photography and lifestyle imagery room to land rather than stacking products at the tight cadence of a mass-market shelf. Certifications — USDA Organic, EWG Verified, NSF — are first-class visual objects, not fine-print footnotes; they appear as distinct badge tokens in straw-yellow and meadow-green and repeat across the page as trust anchors. The overall system avoids cool neutrals entirely: even mid-tone values — #7f9c90 (muted sage) and #cdd8d3 (soft sage-gray) — tilt green rather than blue or stone, keeping every screen in the same earthy, sun-warmed register that the brand's name promises.
 
@@ -337,6 +341,13 @@ components:
 - Certification badge strip in trust section: horizontal scroll row → 2×2 grid → 4-row stack
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

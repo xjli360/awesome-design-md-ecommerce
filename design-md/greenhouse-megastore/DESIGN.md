@@ -4,6 +4,10 @@ name: "Greenhouse Megastore"
 source_url: "https://www.greenhousemegastore.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Terracotta and brick divide the brand hierarchy at Greenhouse Megastore before a single product image resolves — #df7a5d (the site's meta theme-color, a warm orange-terracotta) drives every primary CTA and sale signal, while #843134, a deep soil-rich burgundy, anchors price tags, trust strips, and heading weight. Against a near-black backdrop (#121212) in the nav and footer, and a deliberate stack of neutral grays (#f7f7f7, #dedede) for surface hierarchy, the combination reads less like a garden catalog and more like the interior of a serious supply depot: warm enough to invite, earthy enough to signal authority. Figtree, the single typeface, is a geometric sans-serif with softened terminals — at 700 weight for hero display and 600 for UI labels, it carries the confidence of a megastore without the cold register of a hardware chain. Body copy runs at 400/16px with a 1.6 line-height, appropriate for a catalog where customers are comparing glazing specs and frame gauges alongside price. Buttons use `{rounded.sm}` corners throughout — an explicit rejection of the pill-shaped softness that consumer lifestyle brands favor. The 8px radius reads as purposeful and utilitarian: this is a supplier, not a boutique. Primary CTAs in terracotta, outlined secondaries in burgundy, and a full-bleed trust strip in #843134 immediately beneath the nav that front-loads the brand's shipping and warranty commitments before the first product card loads. Product cards sit on white with a 1px #dedede hairline border; the only non-neutral element is the price, rendered in burgundy at 22px/700, optimized for rapid price-scanning in a dense grid. Category tiles use a light gray (#f7f7f7) field with a thin terracotta top-edge bar to signal navigation depth across a sprawling SKU inventory — greenhouses, raised beds, cold frames, accessories — without relying on imagery to carry the hierarchy. The dark nav and footer bracket the page, giving a 700+ SKU megastore a composed, structured feel that prevents the product volume from reading as chaos.
 
@@ -310,6 +314,13 @@ components:
 - Category tile grid: 4-col → 3-col → 2-col on mobile, stacking vertically if needed
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

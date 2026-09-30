@@ -4,6 +4,10 @@ name: "Fastener SuperStore"
 source_url: "https://www.fastenersuperstore.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Fastener SuperStore runs a Bootstrap 3 skeleton stripped to its industrial minimum — the full Bootstrap alert spectrum (success green anchored on #dff0d8, warning amber on #fcf8e3, danger on #f2dede, info on #d9edf7) functions as a live inventory and order-status language, so a purchasing agent scanning a 500-line quote can parse availability at a glance without reading a word. The brand primary is a mid-register workman's blue (#0871b9) occupying the space between navy authority and consumer-app lightness — it covers every Add-to-Cart button, navigation rail, and active link, with a near-twin (#076eb9) for hover states. A dedicated action-red (#bc2026) handles flash-sale banners and urgent stock notices, distinguishable from Bootstrap's stock danger red (#d9534f) enough to read as intentional brand voltage rather than framework default.
 
@@ -388,6 +392,13 @@ components:
 - Product card actions (quantity selector, Add to Cart button) stack vertically below the price on mobile and render as an inline row on desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

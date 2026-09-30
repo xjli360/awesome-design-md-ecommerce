@@ -4,6 +4,10 @@ name: "Olive Films"
 source_url: "https://olivefilms.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A single hex value — #aba000, a muted olive-gold — carries the entire brand voltage of Olive Films, appearing on every primary CTA, navigation highlight, and hover state across a site that otherwise trusts a near-white canvas and generous negative space. The typography runs system-ui and sans-serif at modest weights (400–500 for body, 600 for headings), never competing with the film stills and poster art that do the real storytelling. Product cards use {rounded.sm} corners and a soft {colors.hairline} border, letting the cover art breathe inside a clean container. The top nav is a simple horizontal strip with dropdown menus, the search bar a full-width input with a {colors.primary} focus ring, and the footer a dense grid of links and legal text in {colors.muted}. There is no hero animation, no parallax, no decorative illustration — the brand treats its catalog as the only ornament it needs, and the olive-gold accent is the single signature move that says "this is Olive Films" without saying it in words.
 
@@ -525,6 +529,13 @@ components:
 - Search bar becomes a full-screen overlay on mobile, triggered by an icon button
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

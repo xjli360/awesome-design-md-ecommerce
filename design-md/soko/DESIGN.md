@@ -4,6 +4,10 @@ name: "Soko"
 source_url: "https://shopsoko.com"
 captured_at: "2026-09-28T10:08:58.137811+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   SOKO's storefront CSS exposes a neutral black-and-white foundation (#000000, #ffffff, #111111) layered with warm accent tones drawn from its jewelry materials: a brass/gold badge color (#7e6b45) used for "best seller" labeling, a wood-brown pairing (#603021, #452318) evocative of the brand's wood-and-metal pieces, and a muted gold (#bf9b30) that reads as a plausible accent for gold-plated product lines. Reds (#d02f2e, #a70100, #db4827) and a green (#478947) appear alongside badge and status selectors and are treated here as sale/eco-badge accents, inferred rather than confirmed as primary brand color. Several blues (#007aff, #142fbd, #0071ce, #eb001b, #f79e1b) originate from Swiper carousel defaults and payment-icon SVGs bundled in the CSS and are excluded from the brand palette as non-semantic library artifacts.
   Typography uses two observed families — Outfit and Cabin — with no serif or script face present. Outfit is assigned to display/heading roles for its geometric, modern character fitting "modern jewelry" positioning; Cabin is assigned to body copy as a warmer humanist workhorse. Root CSS confirms a 4px spacing unit and a 16px chat-widget border-radius, both reused directly below. All exact heading pixel sizes are inferred approximations from the site's rem-based custom properties, since the true root font-size was not confirmed in the supplied evidence.
@@ -151,6 +155,13 @@ The theme's custom properties expose explicit breakpoints, reused here as a prop
 Touch targets should meet a minimum 44px hit area consistent with the Swiper navigation button sizing (`--swiper-navigation-size: 44px`) observed in the CSS. Flyout/drawer width is confirmed at `460px` on larger viewports via `--flyout-width`, collapsing to `375px + gap` on mobile per the same variable. This table is a recommendation derived from theme tokens, not an observation of actual rendered breakpoint behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

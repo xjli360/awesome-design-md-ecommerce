@@ -4,6 +4,10 @@ name: "Vaer"
 source_url: "https://www.vaerwatches.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The entire vaerwatches.com palette resolves to seven shades of gray, and that constraint is the design statement. #1a1a1a anchors every primary surface — buttons, headlines, cart overlays — while a tight cluster of near-identical light grays (#dedede, #e0e0e0, #e1e1e1) handles borders and card surfaces, an extraction artifact that reveals just how little tonal variation the brand tolerates. Mid-tone #8e8e8e carries secondary copy and disabled states; nothing brighter punctuates the grid. There is no accent color. The brand bets entirely on product photography — steel bezels, lume-painted indices, canvas and rubber straps — to supply the chromatic warmth that a conventional palette would provide with a single highlight hex.
 
@@ -361,6 +365,13 @@ components:
 - Footer columns reflow to a 2-column grid on tablet and a single stacked column on mobile; newsletter row goes full-width last
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

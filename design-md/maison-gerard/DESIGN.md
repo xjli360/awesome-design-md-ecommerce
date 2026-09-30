@@ -4,6 +4,10 @@ name: "Maison Gerard"
 source_url: "https://www.maisongerard.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The cobalt navy (#003399) at Maison Gerard's core reads not as digital blue but as something drawn from 18th-century Sèvres porcelain glaze — saturated, aristocratic, historically grounded. Against warm cream (#f4eee2) and amber (#b26840) — the latter precisely the hue of aged tortoiseshell and patinated brass — the palette reconstructs a European salon environment rather than a white-cube contemporary gallery. Typography doubles down on this historical-modernist tension: Futura (the 1927 Bauhaus face, in Light through Heavy weights) runs all display and navigation text, while Courier handles catalog annotation — lot numbers, provenance dates, edition marks — as if the gallery's inventory system predates digital typesetting. The pairing is dry and serious, never decorative. Cards carrying object photography use `{rounded.none}` — no softening, no friendliness — consistent with how auction house catalogs present works: images as evidence. `{colors.accent-amber}` appears in inquiry CTAs and selective hover states, warming the otherwise academic blue-and-cream field without softening it. Spacing reads institutional: generous padding in hero and exhibition sections at `{spacing.section}` compresses to tighter grids in inventory listings, prioritizing object count over atmospheric breathing room. The near-black `{colors.ink}` at #252525 keeps text dense and confident — this is a gallery that writes full provenance paragraphs, not bullet-point descriptors. Navigation runs uppercase Futura-Book at 12px with wide tracking, suggesting the aesthetic confidence of a private dealer who does not need to announce themselves loudly. The Courier face threading through metadata and provenance blocks is the most distinctive gesture: monospace type read alongside Futura display creates the tension between archival document and modernist monument that defines Maison Gerard's editorial voice.
 
@@ -347,6 +351,13 @@ components:
 - Footer columns stack vertically on mobile; address/contact block above social/newsletter row
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

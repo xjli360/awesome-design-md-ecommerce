@@ -4,6 +4,10 @@ name: "Wolf & Shepherd"
 source_url: "https://wolfandshepherd.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The dress code problem Wolf & Shepherd solved — running-shoe cushioning inside a brogued oxford — bleeds into the visual system: a near-black navy (#1b2330) stands in for conventional dress-shoe black, stopping just short of corporate severity while remaining authoritative enough for a boardroom entrance. SuisseIntl carries the entire typographic hierarchy; SuisseIntlBold commands display weight at measured scales rather than heroic sizes, while SuisseIntlBook handles body copy with the unhurried confidence of a brand that does not need typographic muscle to make its case. The palette runs deliberately lean — three dark navies (#1b2330, #1b1f27, #262934) anchor authority; a spread of near-whites (#f7f7f7, #f4f4f4) opens clean breathing room for product photography; #1f6fae, the only chromatic note in an otherwise achromatic deck, surfaces as the accent for interactive highlights and select calls-to-action. Mid-register neutrals (#a4a4a4, #c4ced6, #919eab, #b6c2cc) handle hairlines, disabled states, and the secondary-label detail that premium footwear retail demands. Corners behave like the footwear itself — tailored and precise. {rounded.xs} on inputs and cards; {rounded.none} on primary buttons. There is no pill shape anywhere, no soft-radius excess that would signal casual sportswear. Section spacing breathes wide — hero panels command full-bleed height — then contracts predictably through the product grid into the PDP detail zone. A persistent navy announcement bar and navy footer create a bracketing structure: dark header band, white body, dark foot — a framing device the brand applies consistently across templates. No neon gradients, no explosive visual hierarchy, no sportswear theatrics; a clean surface that trusts shoe photography and a single chromatic blue to carry the brand's entire emotional argument.
 
@@ -361,6 +365,13 @@ components:
 - PDP image gallery: side-by-side grid collapses to swipeable full-width carousel with dot indicators on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

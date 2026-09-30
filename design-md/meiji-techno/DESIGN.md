@@ -4,6 +4,10 @@ name: "Meiji Techno"
 source_url: "https://www.meijitechno.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Meiji Techno's palette runs the full optical path of teal light — deep instrument-grade #226d7a as the primary anchor, brightening to the luminous #22b8d1 of a back-illuminated stage, then dispersing into the barely-tinted #e4f5fa wash that fills section backgrounds. The monochromatic discipline is unusual for a hardware brand and reads as a deliberate echo of the aqueous environments that microscopy objectives are designed to study: immersion oil, water-dip lenses, stained biological samples suspended in saline. There are no warm accents, no oranges or ambers — only a cool, precise blue-green register from saturation peak to near-white. Typography runs on system-accessible stacks anchored by Open Sans, kept tight in weight (600 at headlines, 400 at body) so that specification tables and optical parameter grids remain readable at small print sizes; scientific catalogs demand that dense tables hold legibility, and Meiji delivers that in a utilitarian font choice rather than a display face with personality. Button radii are moderate — `{rounded.sm}` at 8px — stopping short of pill-form friendliness and well short of hard-square industrial. Cards use `{rounded.md}` at 12px, a practical middle ground that signals approachability without frivolity. Spacing is generous at the section level (64px breaks), reflecting a catalog-style layout where each product family — stereo microscopes, biological scopes, polarizing instruments, industrial systems — occupies a distinct visual zone. The surface hierarchy is minimal: white cards sit on `{colors.surface-soft}` (#e4f5fa) tinted sections, with `{colors.hairline}` borders doing the containment work. Search and filter toolbars carry the brand teal at full saturation, signaling that product discovery is the primary customer journey. The overall register is a scientific instrument company that trusts the quality and specificity of its product photography over decorative UI — the design stays out of the way of the optics.
 
@@ -383,6 +387,13 @@ components:
 - Footer columns: 1-column accordion on mobile; 4-column grid at desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

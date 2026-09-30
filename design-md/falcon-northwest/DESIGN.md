@@ -4,6 +4,10 @@ name: "Falcon Northwest"
 source_url: "https://www.falcon-nw.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Orange sparks off a matte-black ground like a welder's arc — #fb940f is the single voltage that drives every call-to-action, active nav indicator, and configuration-step highlight on Falcon Northwest's dark-canvas interface. The site's palette reads more like an aircraft instrument cluster than a typical gaming-PC storefront: a tightly controlled near-black canvas (#202020) absorbs the eye, while supporting accents — electric cyan (#02e2f2) for spec highlights and status indicators, signal gold (#ffd91a) for limited-edition and performance-tier badges, neon green (#00ff85) for availability and benchmark callouts — each appear sparingly and only when they carry information. There is no decorative glow, no gratuitous gradient; every accent pixel earns its presence by conveying state or hierarchy. Typography runs Founders Grotesk across five weights, from Regular 400 for body copy to Bold 700 for mid-level headings, but the real identity carrier is Founders Grotesk X-Condensed — reserved exclusively for hero display headlines and model-name lockups (Talon, Tiki, FragBox) where its tall, narrow letterforms pack oversized type into tight vertical spaces without crowding full-bleed product photography. Body text sits at 16px Regular with generous 1.6 line-height, trusting the dark canvas to push contrast rather than relying on heavy weights. Buttons are sharp-cornered at `{rounded.xs}` (4px) — just enough to soften the rectangle without drifting toward consumer-friendly pills — and product cards float on `{colors.surface-card}` panels with `{rounded.sm}` (8px) radii, each anchored by a hero product render above a compact spec strip rendered in `{typography.spec-label}` style. The nav bar is a slim 64px rail pinned to the viewport top, carrying the Falcon crest at left and a condensed-weight model menu that collapses into a hamburger below 744px. Section spacing runs at `{spacing.section}` (64px) between major content blocks, giving each system its own breathing room against the dark field. Configuration selectors use a bordered-tile pattern — `{colors.surface-soft}` background with a `{colors.hairline}` border that swaps to a 2px `{colors.primary}` ring on selection — so users can scan GPU, CPU, and storage options without modal interruption. The overall system speaks to an audience that already knows what an RTX 5090 is: information density is high, decorative chrome is near zero, and the only thing louder than the specs is the orange.
 
@@ -387,6 +391,13 @@ components:
 - Section headings: display-lg (40px) → 28px on mobile; display-xl (64px) → 36px on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

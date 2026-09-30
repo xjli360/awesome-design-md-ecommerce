@@ -4,6 +4,10 @@ name: "Tilit"
 source_url: "https://www.tilitnyc.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Tilit is a kitchen uniform brand built for the working chef — tough, tactile, and unpretentious. The palette leans heavily on industrial neutrals: deep charcoals like `#3a3a3a` and `#494949` form the backbone, while soft off-whites (`#f8f8f8`, `#eeeeee`, `#f2f2f2`) keep the canvas light and breathable. A single shot of red (`#ca1818`) appears as the brand's accent voltage — used sparingly on sale badges, cart counts, and critical CTAs. The typography is a two-type system: Montserrat for clean, modern headings and Barlow for body and button copy, both sans-serif and highly legible at small sizes. Rounded corners are minimal — `{rounded.sm}` (8px) on buttons and `{rounded.md}` (12px) on cards — keeping the feel utilitarian rather than playful. The overall mood is workshop-ready: matte textures, generous padding, and a restrained use of color that lets product photography and craftsmanship take center stage. Tilit's design system feels like a well-worn apron — functional, honest, and built to last.
 
@@ -423,6 +427,13 @@ components:
 - Hero section reduces font sizes and centers text alignment on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

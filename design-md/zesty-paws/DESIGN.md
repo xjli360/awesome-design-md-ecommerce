@@ -4,6 +4,10 @@ name: "Zesty Paws"
 source_url: "https://zestypaws.com"
 captured_at: "2026-09-28T04:19:22.782364+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Zesty Paws presents as a warm, approachable supplement brand built on a white
   canvas (#ffffff) with dark charcoal text (#383838, matching the observed
@@ -173,6 +177,12 @@ Proposed breakpoints (not measured from live site rendering):
 Touch targets should meet a 44px minimum; the observed 52px button/input height already satisfies this. Navigation and filter panels on mobile are recommended to collapse into drawers/accordions — this is a UX recommendation, not an observed mobile interaction.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

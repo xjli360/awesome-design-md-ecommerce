@@ -4,6 +4,10 @@ name: "Banks Power"
 source_url: "https://bankspower.com"
 captured_at: "2026-09-29T04:22:02.169174+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Banks Power's site evidence shows a utilitarian, high-contrast industrial palette built around a near-black body ink (#2c2d2e) on white and light-grey (#f5f5f5) canvases, with a saturated red (#c50008, reinforced by #c60007/#a10007/#c62a32 variants) reserved for brand accents, CTAs, and alerts. Headings use 'Roboto' at 700 weight per the observed CSS rule targeting h1-h6 and heading-font classes; body copy uses 'acumin-variable' with system sans-serif fallbacks, at a base size near 17px (1.0625rem) and 1.6 line-height. Muted text (#8a8a8a) and hairline greys (#dadce0, #e6e6e6, #cacaca) support secondary labels, dividers, and disabled states — these tonal roles are inferred from selector context (.subheader, small) rather than directly labeled as such by the source. A dark surface (#272727) appears in a scrolling-text badge, suggesting a secondary dark-UI accent for callouts or overlays.
 
@@ -152,6 +156,14 @@ Proposed breakpoints (not measured from live site behavior):
 These bucket labels (`small`, `medium`, `large`, `xlarge`) are drawn from a font-metrics string found in the evidence (`small=0em&medium=48em&large=66.75em&xlarge=75em`), which appears to be a breakpoint-definition artifact rather than confirmed rendered CSS; treat widths as directionally correct only. Touch targets for buttons and nav items should be at least 44px tall. The multi-level Products mega-menu should collapse into an accordion-style mobile menu below the `medium` threshold. This section is a recommendation for implementation, not a measurement of the live site's actual responsive behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

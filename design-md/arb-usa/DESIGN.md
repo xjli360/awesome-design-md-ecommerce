@@ -4,6 +4,10 @@ name: "ARB USA"
 source_url: "https://arbusa.com"
 captured_at: "2026-09-28T09:09:26.087518+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   ARB USA's storefront CSS exposes a Bootstrap-derived design system layered with brand-specific overrides. The dominant brand color is a saturated red (#ed1c24), declared as `--primary` in the theme's root variables, paired with a near-black secondary (#202227). Body copy renders in Inter, a neutral grotesque sans-serif, at a base of 1rem/400 with a body-text color of #343841 on a white (#ffffff) canvas. Headings use a declared `navigo, sans-serif` family at weight 700 in pure black (#000000); navigo's availability and licensing are not verifiable from static CSS and are treated as inferred/unconfirmed. The palette also carries a full Bootstrap utility set (success, info, warning, danger, and their pale/dark table variants), which this spec treats as system/status colors rather than brand identity. Several darker red tones (#c61017, #af0e14, #7b0f13) appear alongside the primary red and are mapped here as plausible hover/active states for interactive red elements, though no direct hover-rule evidence was supplied. The overall interpretation favors a rugged, high-contrast, utilitarian aesthetic consistent with off-road/4x4 hardware merchandising: bold red CTAs, dark neutrals, generous whitespace, and dense category/product grids.
 
@@ -154,6 +158,14 @@ Recommended breakpoints (not measured from live layout), aligned to the Bootstra
 Touch targets should target a minimum 44px height for buttons and nav items on small viewports; the "SHOP BY BUILD" and category grids should collapse to horizontally scrollable or stacked cards below `md`. This behavior is a design recommendation only and was not observed in a live responsive audit.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Evidence was extracted statically from theme.css/vendor.css and page text; no live-rendered layout, computed styles, or interaction states (hover, focus, active, disabled) were observed.

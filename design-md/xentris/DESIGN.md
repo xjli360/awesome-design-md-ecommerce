@@ -4,6 +4,10 @@ name: "Xentris"
 source_url: "https://www.xentriswireless.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Steel-gray dominates the viewport like the brushed aluminum of the accessories it sells — #eeeeee washes across product grids and specification panels, creating a neutral theater where device photography does the heavy lifting. Xentris Wireless builds its visual language on utility rather than lifestyle aspiration: the interface reads closer to a technical catalog than a boutique storefront, with dense product matrices organized by device compatibility rather than editorial narrative. Typography relies on the operating system's native sans-serif stack (no custom webfont was detected in static markup), which keeps page weight lean and load times fast — a pragmatic choice for a brand whose buyers often comparison-shop across dozens of SKU pages in a single session. Navigation follows a megamenu pattern common to accessories distributors, categorizing by device family, product type, and brand partnership. Buttons appear in a saturated tech-blue (`{colors.primary}`) against the light-gray canvas, ensuring CTAs punch through the neutral backdrop without competing with product imagery. Card containers use `{rounded.sm}` corners — restrained, never playful — and spacing stays tight (`{spacing.md}` gutters between grid items) to maximize density and scanability. The overall aesthetic signals wholesale professionalism: no hero lifestyle banners, no influencer carousels, just structured data delivery with enough visual hierarchy to guide a procurement buyer or end consumer through thousands of compatible accessories efficiently.
 
@@ -365,6 +369,13 @@ components:
 - Footer columns: 4-column → single stacked accordion on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

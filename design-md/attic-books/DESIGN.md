@@ -4,6 +4,10 @@ name: "Attic Books"
 source_url: "https://www.atticbooks.ca"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A slate-and-ink independent bookstore anchored on #7796a8 — a muted, weathered blue-grey that reads like old library walls rather than a retail brand color. The palette is drawn from the physical inventory: #231f20 (near-black ink) for body text, #dedede for soft page-like surfaces, and #8da7b6 as a secondary atmospheric tone. The brand makes no attempt to feel modern or digital-first; instead it leans into the materiality of antiquarian bookselling — dark wood shelves, aged paper, the patina of well-handled stock. The meta theme-color of #7796a8 carries across every page, and the Shopify platform is deliberately under-designed, letting the book covers, maps, and prints provide all the color the eye needs. There is no hero carousel, no lifestyle photography, no brand typography system — the site is essentially a catalog dressed in a bookstore's walls. The accent colors #3d9970 (a muted olive-green, likely for "add to cart" or stock indicators) and #ff4136 (a restrained red for sale tags or error states) appear sparingly, never competing with the inventory. The design trusts that a 19th-century map or a leather-bound Dickens folio is more compelling than any UI flourish. Corners are mostly square ({rounded.none}) or very softly broken ({rounded.xs} for inputs), reinforcing the un-softened, analog feel. The result is a bookstore that happens to have a website — not a brand that happens to sell books.
 
@@ -316,6 +320,14 @@ components:
 - Secondary buttons may hide on mobile, replaced by a single primary action
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

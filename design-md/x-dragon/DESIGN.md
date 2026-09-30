@@ -4,6 +4,10 @@ name: "X-Dragon"
 source_url: "https://www.x-dragon.net"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Solar panels stitched directly into nylon clamshell cases — X-Dragon's flagship products harvest sunlight and route it into phone batteries, and the brand's visual identity operates on the same output-first logic: extract maximum signal from minimum surface. The name carries a mythology of raw power, and the design language earns it through high-contrast staging — near-black canvases, white ink at full opacity, and a charging-LED orange (#f47c20) that functions as the single brand voltage across every primary CTA, spec badge, and UI accent. The palette is not warm or inviting; it is alert. Every product photograph implies darkness interrupted by illumination — the glow of a charging indicator in a tent, on a trail, at the bottom of a bag — which explains why the brand reaches for orange rather than the cool blues that dominate consumer electronics. Type almost certainly runs in a grotesque or geometric sans: the category demands legibility at small sizes when communicating wattage, panel count, and capacity in mAh within tight product card real estate. Display sizes run heavy at 700–800 weight, reinforcing an engineering-first posture, while body copy sits at regular weight with slightly open tracking to keep dense spec language readable on mobile screens. No serifs anywhere; this is a tools brand, not a lifestyle brand. Component shapes lean industrial-modern: rounded corners exist at {rounded.sm} to {rounded.md} — enough to read as contemporary consumer product, not enough to feel precious. The primary CTA button carries orange against a dark surface, creating a focal-point hierarchy that routes the eye to "Add to Cart" or "Buy Now" before the user has finished scanning. Product cards are vertically stacked and photography-first, with a spec strip below the image in {typography.spec-label} — wattage, port count, panel size — before price in {typography.price-display} at 800 weight. Navigation is shallow and categorical: Solar Chargers, Power Banks, Phone Cases, Cables, with a persistent cart icon and search trigger. No editorial content competes with the product grid. The buyer is typically researching on a phone while traveling, which drives every mobile-first density decision: sticky add-to-cart bars on PDPs, single-column grids at 375px, and horizontally scrolling category tabs that keep the entire product taxonomy within one thumb reach. Spec tables use {colors.hairline} rows on {colors.surface-soft} backgrounds, keeping dense technical grids legible without visual noise. The footer anchors brand legitimacy through warranty terms, FCC/CE compliance badges, and certification marks — buyers at this price point are vetting the brand as much as the product.
 
@@ -337,6 +341,13 @@ components:
 - Search: inline in nav-bar on desktop/tablet → icon-triggered full-screen overlay on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

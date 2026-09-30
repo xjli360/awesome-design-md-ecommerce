@@ -4,6 +4,10 @@ name: "Dark Delicacies"
 source_url: "https://www.darkdel.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A specialty bookstore that feels like a candlelit library curated by a horror collector with exacting taste, anchored on a near-black ink (#111111) and a warm, restrained palette of weathered grays (#eeeeee, #aaaaaa, #444444, #282b2d) that evoke aged paper, iron shelves, and the patina of well-loved paperbacks. The brand’s single voltage of color is a dried-blood red (#e74c3c) used sparingly — on the primary CTA, on sale badges, and as the hover-state underline on navigation links — a deliberate jolt against the otherwise monochrome stage. Typography splits between a gothic calligraphic display face (Kingthings Calligraphica, used for the logo and section headers) and a clean, utilitarian sans-serif body stack (Proxima Nova, Open Sans, Helvetica Neue) that keeps product descriptions and category labels legible without romanticism. Corners are almost universally sharp (`{rounded.none}`) — product cards, buttons, and input fields all sit at 0px radius, reinforcing the no-frills, archival sensibility. The only exception is the search bar, which takes a gentle `{rounded.sm}` (8px) to signal interactivity. Spacing is generous but not airy: `{spacing.lg}` (24px) between cards, `{spacing.section}` (64px) between major content blocks, and `{spacing.base}` (16px) inside buttons and inputs. The overall effect is that of a serious, slightly gothic archive — the design never winks, never over-decorates, and trusts the inventory of horror, mystery, and the macabre to provide all the atmosphere.
 
@@ -316,6 +320,13 @@ components:
 - Product grid: Collapses from 4 columns (wide) to 3 (desktop) to 2 (tablet) to 1 (mobile).
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

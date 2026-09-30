@@ -4,6 +4,10 @@ name: "Weber"
 source_url: "https://www.weber.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   That particular red — `#dc1e1e` — hits you the way a kettle lid catches afternoon sun across a patio, immediate and unapologetic. It is the exact voltage of enameled steel, and Weber's digital system treats it accordingly, deploying it on every primary CTA, promotional strip, and add-to-cart button with zero dilution. The supporting cast is carbon-dark: `#191919` anchors headlines with the weight of cast iron, `#333132` steadies body copy, and `#4d4d4f` handles secondary labels — three near-black values that keep the interface grounded while full-bleed photography of smoke, flame, and seared protein does the atmospheric work. Surfaces run ash-cool (`#f7f7f7` for canvas fills, `#ededed` for card backgrounds, `#d6d6d6` for hairlines), and a warm cream `#eee9cc` surfaces in editorial recipe sections to break the otherwise industrial monotone. DIN Next LT Pro is the workhorse typeface — a German industrial sans-serif that reads as engineered rather than decorative. It runs condensed and bold in navigation lockups, regular weight at 16px/1.5 for body text, and stretches to 48px semibold for hero headlines where letter-spacing tightens to `-0.5px`. A proprietary `weberserif` appears only in editorial contexts — recipe introductions, heritage storytelling, pull quotes — adding a serif inflection without softening the overall posture. The Conduit family covers condensed promotional lockups and comparison-table headers where horizontal space is at a premium. Corners stay nearly square: buttons, cards, and inputs land at `{rounded.xs}` (4px), because this is hardware retail and the geometry signals precision over friendliness. `{rounded.full}` appears only on filter pills and small status indicators. A teal accent `#007581` marks premium product lines — Genesis, Summit — while ember orange `#e65014` flags seasonal and limited drops. Bright `#ffcc00` punches through dark hero sections for promotional callouts. Green `#21a538` is purely functional: in-stock confirmations and success toasts, never decorative. The overall system is dense, image-forward, and built to sell heavy steel: spec tables with alternating `{colors.surface-soft}` rows, sticky add-to-cart bars at `{spacing.section}` scroll depth, and product cards that let grill photography carry the sale with minimal typographic interference.
 
@@ -545,6 +549,13 @@ components:
 - Recipe carousel switches from a grid to a swipeable horizontal scroll at 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

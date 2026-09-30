@@ -4,6 +4,10 @@ name: "Fastenal"
 source_url: "https://www.fastenal.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Fastenal's navy (#003471) is not chosen for aesthetics — it's the color of a hard hat industry's trust signal, stamped on every header bar, every login prompt, and every primary CTA across a catalogue that spans over a million SKUs. The design is unapologetically utilitarian: a dense left-rail category tree, SKU-level search with part number autocomplete, and bulk pricing tables that prioritize data density over whitespace. Red (#CC1418) appears sparingly, anchoring the logo and critical alerts rather than carrying emotional warmth. Typography runs on system-stack sans-serifs — crisp, zero-license, rendering cleanly on the factory-floor laptop running Windows 10. Rounded corners sit near zero: form inputs and cards use tight {rounded.xs} geometry that signals precision over personality. The canvas is an industrial white (#FFFFFF) with a cool gray surface ({colors.surface-soft}) for alternating table rows and category panels — no gradients, no hero photography blur, no ambient brand video. Navigation is category-first: a mega-menu sorted by supply type (Fasteners, Safety, Electrical, Tools) runs the width of the viewport, structured to intercept the buyer who already knows their commodity but needs to confirm spec and price tier. Account login anchors the top-right with heavy visual weight because the majority of revenue flows through registered B2B accounts, vendor-managed inventory programs, and EDI connections — not anonymous carts. Product cards expose part number, unit of measure, minimum order quantity, and tiered price breaks without hover. The footer carries a full sitemap column set plus a prominent store-locator link, reflecting Fastenal's hybrid model of online ordering backed by over 3,400 physical branch locations. Everything resolves to efficiency: the designer's brief here was to not get in the way.
 
@@ -408,6 +412,13 @@ components:
 - Breadcrumb → truncated to two ancestors with ellipsis separator on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

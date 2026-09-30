@@ -4,6 +4,10 @@ name: "JJGames"
 source_url: "https://www.jjgames.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A retro game retailer that wears its inventory like a badge of honor, anchored on a deep crimson #660000 that reads as worn-in arcade carpet and late-night CRT glow. The brand's primary voltage is #e47911 — a burnt orange that fires across every add-to-cart button, price tag, and category pill, cutting through the dark canvas like a neon OPEN sign in a strip mall. Two reds (#e4282c and #d30708) handle urgency signals — sold-out badges, clearance flags, and cart notifications — while #ff9999 softens the palette as a hover-state blush on secondary actions. The system runs on system fonts (Arial, Geneva, Helvetica, Verdana) with no custom typeface, a pragmatic choice that prioritizes page speed and legibility over brand typography; the site loads fast on a 2010s browser in a basement. Cards use sharp corners ({rounded.none}) for product thumbnails and soft {rounded.sm} for buttons, a mix that feels more warehouse than showroom. The search bar sits as a full-width orange-outlined field, and the footer stacks category links in dense columns — this is a site built for scanning, not lingering. The palette's gray (#8e8e8e and #aaaaaa) handles secondary text and dividers, keeping the focus on the reds and oranges that signal "this is where the deals are."
 
@@ -444,6 +448,13 @@ components:
 - Product grid reduces from 4 columns on wide to 1 column on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Top Shelf Aquatics"
 source_url: "https://topshelfaquatics.com"
 captured_at: "2026-09-28T09:04:13.618792+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Top Shelf Aquatics is a saltwater-reef ecommerce storefront (corals, fish, inverts,
   equipment) built on a Shopify theme with a deep-navy brand identity. The observed
@@ -167,6 +171,12 @@ components:
 Touch targets are recommended at a minimum 44×44px for cart, account, and menu-toggle icons, consistent with the confirmed sticky header's icon-centered flex buttons (`.account-button`). The multi-level category structure (Live Corals → SPS/LPS/Zoanthids/etc.) should collapse into an accordion drawer below `md`; the observed `--kith-drawer-top`, `--kith-drawer-content-padding-*` variables confirm a slide-in drawer pattern exists, but its exact mobile breakpoint trigger was not measured. This table is a recommendation only, not observed responsive behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

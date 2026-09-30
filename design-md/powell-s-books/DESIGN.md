@@ -4,6 +4,10 @@ name: "Powell's Books"
 source_url: "https://www.powells.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, ink-black #313131 anchors Powell's Books — not as a background but as the color of shelves, category headers, and the primary text on a cream-white canvas. The single extracted hex is a deliberate, almost literary darkness: it reads as the spine of a well-worn hardcover, the type in a densely printed page, the shadow between stacked books. There is no brand color in the traditional sense — no accent, no signature hue — because Powell's lets the books themselves provide the color. The site is a typographic system built on system fonts (San Francisco, Arial, Roboto) at generous sizes, with category navigation that reads like library signage: bold, uppercase, unadorned. Search is the hero action — a full-width bar with a magnifying-glass icon, not a pill but a rectangular field that says "Search 4 million books." The grid is dense but orderly: three-column product cards with cover images, title, author, format, and price stacked vertically. Everything is rectangular — {rounded.none} on cards, buttons, inputs — because books are rectangular. The site trusts information density over whitespace: long lists of categories, multi-level footer with 20+ links, and a "Shop by Department" mega-menu that unfolds like a bookstore map. The only visual relief comes from book covers themselves, which are allowed to be full-bleed in product cards and hero sections. The experience is that of a serious, well-stocked independent bookstore that happens to be on the web — not a lifestyle brand, not a discovery engine, but a place to find a specific book.
 
@@ -547,6 +551,13 @@ components:
 - Hero section reduces padding from 48px to 24px on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

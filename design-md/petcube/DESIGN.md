@@ -4,6 +4,10 @@ name: "Petcube"
 source_url: "https://petcube.com"
 captured_at: "2026-09-28T04:47:22.622933+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Petcube's storefront presents smart pet-camera and GPS-tracker products against a
   bright, neutral base. The evidence shows a near-black text ink (#171716) on
@@ -169,6 +173,13 @@ Recommendation only — no measured breakpoints were supplied.
 Touch targets should be at least 44px tall (buttons already meet this via 14px padding + line-height). Nav collapses to a drawer/menu icon below tablet width; countdown banner should remain single-line and truncate gracefully on narrow viewports.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no live rendering, computed layout, or interaction testing was performed. Color-to-role assignments (e.g., success/error/badge colors) are inferred from typical e-commerce conventions and hue association, not from confirmed class usage. Font sizes for display/title/body/caption tiers beyond the confirmed 16px base and 14px button size are proposed, not measured. The "Comic Sans"/"Comic Sans MS" entries in the font list are not tied to any supplied selector and are excluded from typography roles pending further evidence. Mobile menu behavior, carousel/owl-nav visual states, and hover/focus states beyond the documented button hover are not observed. Licensing and self-hosted availability of Montserrat were not verified in the supplied evidence.

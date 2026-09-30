@@ -4,6 +4,10 @@ name: "Laguna Tools"
 source_url: "https://www.lagunatools.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Laguna (Condensed), the brand's proprietary compressed sans-serif, does the work that stock fonts cannot — every machine category header, hero callout, and model designation carries it, immediately separating Laguna Tools from the distributors and resellers that share the same SKUs. The palette anchors on a deep navy (#141b38) for the primary navigation and hero backgrounds, drops to a confident process blue (#0068a0) for every interactive CTA, and uses a warm near-black (#231f20) for body copy that reads as letterpress ink rather than screen emission. Red travels in two registers: a muted burgundy (#841919) flags clearance and sale conditions, while a harder #aa0000 handles urgent promotional copy and error states. A light lavender tint on the canvas — #fcfbfe as the page base, #e9e6ed as the soft surface for alternating table rows — suggests showroom lighting rather than factory concrete, softening what would otherwise be an entirely industrial system. Amber (#ffba00, #fbb040) appears specifically in financing callouts and price-tag badges, borrowing the physical urgency of a sale sticker without designing a dedicated component. Corner radii are deliberately restrained throughout — {rounded.xs} on buttons and cards, {rounded.sm} only when grouping requires visual softness — signaling the precision tolerances that buyers of CNC routers and laser cutters expect from the machines themselves. Spec tables are the dominant PDP content pattern: 12px uppercase Open Sans labels in #69727d alternate against 14px regular values in #231f20, rows striped with the lavender surface, giving technical buyers a scan path that mirrors printed machine catalogs. Font Awesome 5 carries all iconography — chevrons, phone glyphs, social brand marks — keeping the component count low and load times fast across spec-heavy product pages that routinely run past 3,000 words. The two-tier header (a 36px utility bar in #2c324c above the 60px primary navy nav) indexes the site on a B2B purchasing convention, signaling that dealers, service technicians, and procurement managers are first-class users alongside direct buyers.
 
@@ -434,6 +438,13 @@ components:
 - {financing-callout} becomes a sticky bottom bar on mobile PDPs, persisting in view as users scroll the spec table — mimics the "always in view" financing strip of physical floor tags
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

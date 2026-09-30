@@ -4,6 +4,10 @@ name: "Rabbit"
 source_url: "https://rabbit.tech"
 captured_at: "2026-09-28T09:24:51.132281+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Rabbit's marketing site for OS3 runs on a near-black canvas (#000000) with warm off-white body copy (#e2dcd1) and a saturated orange accent (#ff4d06, with a close sibling #ff5c00) driving buttons, links and emphasis marks. The palette otherwise leans on a tight ramp of dark neutrals (#131516, #1c1c1c, #1a1a1a, #222222, #393939) for card and section separation, plus translucent whites/blacks (#ffffff33, #00000066) that read as hairlines and overlay scrims. Two custom local fonts are loaded via Next.js font optimization: a font whose generated family name contains "archivo" for body and interface text, and one containing "powerGrotesk" for larger display treatment — both ship with matching fallback family names and no verified generic mapping beyond the sans-serif stack applied here.
   This interpretation treats the site as a dark, technical, product-led surface: black canvas, warm-white body text, and a single hot-orange accent reserved for primary actions and highlighted words, consistent with the one confirmed button rule (`background-color:#ff4d06`, black text, 17px radius). Card surfaces, hairlines, muted grays, and the full type scale beyond the one measured body rule are inferred/proposed and not directly observed in layout. Sparse reds (#ba0000, #e40606) and amber (#ffb000) are treated as reserved status/alert accents given their low presence in the palette.
@@ -148,6 +152,11 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Body-level CSS variables (`--mobile-margin:50px`, `--mobile-gutter:20px`, `--mobile-columns:4`) were observed and suggest a 4-column mobile grid with 50px outer margin and 20px gutters, but the corresponding tablet/desktop grid values were not present in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered layout, computed styles, animation, or interaction states were observed. The dark-theme color-role mapping (canvas/ink/body/surface tiers) is inferred from a single body background rule and a single text-color utility class, not from a full style audit. Font-family values are reproduced exactly as emitted by Next.js local font optimization (hashed variable-style names); their true typeface identity, licensing, and availability as "Archivo" or "Power Grotesk" specifically have not been verified. All typography sizes except the one measured `.text-global-body` rule (16px/400/25px) are proposed, not observed. The border-radius scale and spacing scale follow the required fixed schema rather than being derived from evidence beyond the single 17px button radius. Component states (hover, focus, active, disabled), mobile navigation collapse behavior, and grid breakpoints above mobile are not observed and are marked proposed throughout.

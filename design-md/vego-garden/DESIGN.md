@@ -4,6 +4,10 @@ name: "Vego Garden"
 source_url: "https://vegogarden.com"
 captured_at: "2026-09-28T04:04:23.773829+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Vego Garden's public CSS evidence centers on a deep forest green (#3a5b39) paired
   with a warm cream (#fef9eb), forming the dominant brand-and-background pairing seen
@@ -146,6 +150,13 @@ The following breakpoints are a **recommendation**, not measured site behavior:
 Touch targets should be no smaller than 44×44px for buttons and nav items (proposed, WCAG-aligned convention). Primary nav is expected to collapse into a drawer or accordion below the tablet breakpoint; this has not been observed in live markup. Product-card grids are expected to reflow from 4 → 2 → 1 columns across desktop → tablet → mobile as a conservative default.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

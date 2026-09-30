@@ -4,6 +4,10 @@ name: "Usual Wines"
 source_url: "https://usualwines.com"
 captured_at: "2026-09-28T09:47:12.474797+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Usual Wines presents itself through a warm, paper-like canvas (#fffcf0) paired
   with near-black ink and charcoal buttons (#252525), evidence from the theme's
@@ -172,6 +176,12 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets for buttons and nav items should be at least 44×44px. Mega-menu categories ("Our wines," "New Arrivals," "Last Chance") should collapse into accordions below tablet width. All figures are proposed conventions.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - This document is derived from static CSS/text extraction only; no rendered layout, animation, or interaction was observed.

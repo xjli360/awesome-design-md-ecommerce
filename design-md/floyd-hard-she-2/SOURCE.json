@@ -54,56 +54,22 @@
     }
   ],
   "colors": {
+    "#0000000d": {
+      "count": 4,
+      "sources": [
+        "https://floyd.one/"
+      ]
+    },
     "#ffffff": {
       "count": 17,
       "sources": [
-        "https://floyd.one/",
-        "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187",
-        "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613"
+        "https://floyd.one/"
       ]
     },
     "#00000000": {
       "count": 13,
       "sources": [
-        "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
-      ]
-    },
-    "#522e3e": {
-      "count": 7,
-      "sources": [
-        "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613"
-      ]
-    },
-    "#0000000d": {
-      "count": 4,
-      "sources": [
-        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
-      ]
-    },
-    "#c8c8c833": {
-      "count": 4,
-      "sources": [
-        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
-      ]
-    },
-    "#372229": {
-      "count": 3,
-      "sources": [
-        "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613"
-      ]
-    },
-    "#dedede": {
-      "count": 2,
-      "sources": [
-        "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
-    "#000000": {
-      "count": 2,
-      "sources": [
-        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+        "https://floyd.one/cdn/shop/t/36/assets/floyd-navigation.css?v=105030899460858219021788782162"
       ]
     },
     "#1990c6": {
@@ -124,8 +90,26 @@
         "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
       ]
     },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#000000": {
+      "count": 2,
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+      ]
+    },
     "#00000033": {
       "count": 1,
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+      ]
+    },
+    "#c8c8c833": {
+      "count": 4,
       "sources": [
         "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
       ]
@@ -146,6 +130,12 @@
       "count": 1,
       "sources": [
         "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-overrides.css?v=129643583080641644211788682238"
+      ]
+    },
+    "#522e3e": {
+      "count": 7,
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613"
       ]
     },
     "#43273a": {
@@ -171,44 +161,23 @@
       "sources": [
         "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613"
       ]
+    },
+    "#372229": {
+      "count": 3,
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613"
+      ]
     }
   },
   "font_families": {
-    "Consolas": [
-      "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
-    ],
-    "Courier New": [
-      "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
-    ],
     "Instrument Sans": [
       "https://floyd.one/"
-    ],
-    "Liberation Mono": [
-      "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
-    ],
-    "Menlo": [
-      "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
-    ],
-    "Monaco": [
-      "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
     ],
     "Nunito": [
       "https://floyd.one/"
     ],
-    "SFMono-Regular": [
-      "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
-    ],
-    "Trade Gothic Pro Light!important": [
-      "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613"
-    ],
-    "monospace": [
-      "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
-    ],
     "sans-serif": [
       "https://floyd.one/"
-    ],
-    "ui-monospace": [
-      "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
     ]
   },
   "css_rules": [
@@ -369,10 +338,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Floyd – Giving modern travel its mojo back",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "remaining-20260929",
   "tokens": {
     "colors.primary": {
+      "value": "#1990c6",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -380,6 +350,7 @@
       ]
     },
     "colors.primary-hover": {
+      "value": "#136f99",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -387,6 +358,7 @@
       ]
     },
     "colors.ink": {
+      "value": "#121212",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -394,16 +366,15 @@
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://floyd.one/",
-        "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187",
-        "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613"
+        "https://floyd.one/"
       ]
     },
     "colors.body": {
+      "value": "#373737",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -411,6 +382,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#8f8d8d",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -418,6 +390,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#dedede",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -425,6 +398,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#c8c8c833",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -432,6 +406,7 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#ffffffe6",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -439,16 +414,15 @@
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://floyd.one/",
-        "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187",
-        "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613"
+        "https://floyd.one/"
       ]
     },
     "colors.wine": {
+      "value": "#522e3e",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -456,6 +430,7 @@
       ]
     },
     "colors.wine-dark": {
+      "value": "#372229",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -463,6 +438,7 @@
       ]
     },
     "colors.wine-alt": {
+      "value": "#43273a",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -470,6 +446,7 @@
       ]
     },
     "colors.success": {
+      "value": "#307a07",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -477,13 +454,15 @@
       ]
     },
     "colors.overlay-faint": {
+      "value": "#0000000d",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+        "https://floyd.one/"
       ]
     },
     "colors.overlay-soft": {
+      "value": "#00000033",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -491,6 +470,7 @@
       ]
     },
     "colors.overlay-medium": {
+      "value": "#3636364d",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -498,6 +478,7 @@
       ]
     },
     "colors.overlay-strong": {
+      "value": "#00000066",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -505,6 +486,7 @@
       ]
     },
     "colors.ink-pure": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -512,118 +494,440 @@
       ]
     },
     "colors.transparent": {
+      "value": "#00000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+        "https://floyd.one/cdn/shop/t/36/assets/floyd-navigation.css?v=105030899460858219021788782162"
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "Nunito, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "Nunito, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "Nunito, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "Instrument Sans, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Instrument Sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Instrument Sans, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "Instrument Sans, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": 600,
+        "lineHeight": 1.0,
+        "letterSpacing": "0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.transparent}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.wine-dark}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.md}",
+        "typography": "{typography.body-md}",
+        "padding": "{spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.canvas}",
+        "overlay": "{colors.overlay-strong}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.wine-dark}",
+        "textColor": "{colors.canvas}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.wine}",
+        "textColor": "{colors.canvas}",
+        "rounded": "{rounded.full}",
+        "typography": "{typography.caption}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.case-spec-panel": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.md}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.lg}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#0000000d": {
+        "selector": ":root",
+        "property": "--shadow-sm",
+        "declaration": "0 2px 8px rgb(0 0 0 / 0.05)",
+        "url": "https://floyd.one/",
+        "snapshot": "homepage.html",
+        "sha256": "98aedb63e8eb602810881666b9cdadc7c328d208fd311639bd4d0e6b8bb6f44f"
+      },
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "--play-button-background",
+        "declaration": "#ffffff",
+        "url": "https://floyd.one/",
+        "snapshot": "homepage.html",
+        "sha256": "98aedb63e8eb602810881666b9cdadc7c328d208fd311639bd4d0e6b8bb6f44f"
+      },
+      "#00000000": {
+        "selector": ".floyd-navigation .localization-toggle",
+        "property": "background",
+        "declaration": "transparent",
+        "url": "https://floyd.one/cdn/shop/t/36/assets/floyd-navigation.css?v=105030899460858219021788782162",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "41aab1be46c1bbc0cc38ce78b36373548d7654974807448538520a48a22097ea"
+      },
+      "#1990c6": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#1990c6",
+        "url": "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#136f99": {
+        "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+        "property": "background-color",
+        "declaration": "#136f99",
+        "url": "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#121212": {
+        "selector": ".shopify-payment-button__button .path",
+        "property": "stroke",
+        "declaration": "#121212",
+        "url": "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#000000": {
+        "selector": ":-webkit-autofill~.floating-label",
+        "property": "color",
+        "declaration": "#000",
+        "url": "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "e0cb73b1a7813a89a5d6115cd4fe2529082205cf7be2445505b88bbfe6f9b2fc"
+      },
+      "#00000033": {
+        "selector": ".switch:after",
+        "property": "box-shadow",
+        "declaration": "0 1px 1px #0003",
+        "url": "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "e0cb73b1a7813a89a5d6115cd4fe2529082205cf7be2445505b88bbfe6f9b2fc"
+      },
+      "#c8c8c833": {
+        "selector": ".dynamic-grid.editor-is-selected:before",
+        "property": "background-image",
+        "declaration": "repeating-linear-gradient(#c8c8c833 0,#c8c8c833 var(--dynamic-grid-cell-size),transparent var(--dynamic-grid-cell-size),transparent calc(var(--dynamic-grid-cell-size) + max(1px,var(--dynamic-grid-gap)))),repeating-linear-gradient(90deg,#c8c8c833 0,#c8c8c833 var(--dynamic-grid-cell-size),transparent var(--dynamic-grid-cell-size),transparent calc(var(--dynamic-grid-cell-size) + max(1px,var(--dynamic-grid-gap))))",
+        "url": "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "e0cb73b1a7813a89a5d6115cd4fe2529082205cf7be2445505b88bbfe6f9b2fc"
+      },
+      "#3636364d": {
+        "selector": ".image-with-text-block>:not(img,svg,picture)",
+        "property": "box-shadow",
+        "declaration": "0 1px 20px #3636364d",
+        "url": "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "e0cb73b1a7813a89a5d6115cd4fe2529082205cf7be2445505b88bbfe6f9b2fc"
+      },
+      "#00000066": {
+        "selector": ".timeline__carousel:after",
+        "property": "background",
+        "declaration": "#0006",
+        "url": "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "e0cb73b1a7813a89a5d6115cd4fe2529082205cf7be2445505b88bbfe6f9b2fc"
+      },
+      "#ffffffe6": {
+        "selector": ".product-sticky-bar",
+        "property": "background",
+        "declaration": "#ffffffe6",
+        "url": "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-overrides.css?v=129643583080641644211788682238",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "f228fc29bc9f2f68fc07e587fa74be026466e2fb9be321a55ebed440a79d976b"
+      },
+      "#522e3e": {
+        "selector": ".color-scheme--scheme-2 .button.button--outline",
+        "property": "border",
+        "declaration": "2px solid #522e3e",
+        "url": "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "366e658b4025d3d35bee7b3994f913e4094e7f154929cc119888fa541266885d"
+      },
+      "#43273a": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#43273a",
+        "url": "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "366e658b4025d3d35bee7b3994f913e4094e7f154929cc119888fa541266885d"
+      },
+      "#373737": {
+        "selector": ".footer__block--newsletter input[type=email]",
+        "property": "background-color",
+        "declaration": "#373737",
+        "url": "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "366e658b4025d3d35bee7b3994f913e4094e7f154929cc119888fa541266885d"
+      },
+      "#8f8d8d": {
+        "selector": ".footer__block--newsletter input[type=email]",
+        "property": "border-color",
+        "declaration": "#8f8d8d",
+        "url": "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "366e658b4025d3d35bee7b3994f913e4094e7f154929cc119888fa541266885d"
+      },
+      "#307a07": {
+        "selector": ".footer__block--newsletter .banner--success",
+        "property": "background-color",
+        "declaration": "#307a07",
+        "url": "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "366e658b4025d3d35bee7b3994f913e4094e7f154929cc119888fa541266885d"
+      },
+      "#372229": {
+        "selector": "footer .form-control input",
+        "property": "background",
+        "declaration": "#372229",
+        "url": "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "366e658b4025d3d35bee7b3994f913e4094e7f154929cc119888fa541266885d"
+      }
+    },
+    "font_families": {
+      "Instrument Sans": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Instrument Sans\"",
+        "url": "https://floyd.one/",
+        "snapshot": "homepage.html",
+        "sha256": "98aedb63e8eb602810881666b9cdadc7c328d208fd311639bd4d0e6b8bb6f44f"
+      },
+      "Nunito": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Nunito",
+        "url": "https://floyd.one/",
+        "snapshot": "homepage.html",
+        "sha256": "98aedb63e8eb602810881666b9cdadc7c328d208fd311639bd4d0e6b8bb6f44f"
+      },
+      "sans-serif": {
+        "selector": ":root",
+        "property": "--heading-font-family",
+        "declaration": "\"Instrument Sans\", sans-serif",
+        "url": "https://floyd.one/",
+        "snapshot": "homepage.html",
+        "sha256": "98aedb63e8eb602810881666b9cdadc7c328d208fd311639bd4d0e6b8bb6f44f"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

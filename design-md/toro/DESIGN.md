@@ -4,6 +4,10 @@ name: "Toro"
 source_url: "https://www.toro.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The bull's charge has run the same crimson since 1914 — no consumer hardware brand in the turf-care category maintains a single hue with such uncompromising physical consistency across a product line spanning compact trimmer heads and 15-foot fairway cylinder mowers. Toro red (≈ #CC0000) is not deployed as a brand accent layered over a neutral field; it is structural, appearing on fuel caps, wheel-well housings, and every panel seam that ships from a Toro factory, which means the digital interface must carry that same saturation precisely on every primary CTA, category badge, and active-nav indicator — no softened tint, no secondary hue competing for attention. The canvas is working white, unadorned by gradient or illustration, with full-bleed equipment photography carrying all the visual weight. The machine itself is the hero object; the design system exists to frame it and route the buyer to a dealer.
 
@@ -400,6 +404,13 @@ components:
 - Category grid collapses from four-up on desktop to two-up on tablet to single-up on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Invidia"
 source_url: "https://invidia-usa.com"
 captured_at: "2026-09-29T04:03:51.641324+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is built from a supplied color list and font-family names for
   invidia-usa.com; no CSS selectors or component rules were provided, so all layout,
@@ -159,6 +163,13 @@ This is a recommendation only; no live responsive behavior was observed.
 Touch targets should be at least 44x44px for buttons and nav items on mobile; the fitment-selector's dropdowns should stack vertically below tablet width. None of this spacing or collapse logic was measured from the live site.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - No CSS rules, selectors, or computed styles were supplied (`css_rules` was empty); all component structure, spacing scale, and rounding values are proposed conventions, not extracted measurements.

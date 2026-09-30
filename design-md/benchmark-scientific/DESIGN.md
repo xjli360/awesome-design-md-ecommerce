@@ -4,6 +4,10 @@ name: "Benchmark Scientific"
 source_url: "https://www.benchmarkscientific.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Benchmark Scientific's interface runs a Bootstrap 3 chassis dressed in two uncommonly vivid brand overlays — a lime-chartreuse `#8fd300` that surfaces on callout badges, promo banners, and category highlights, and a cyan-teal `#0198ab` that anchors links, nav accents, and primary CTAs. The rest of the palette is composed almost entirely from Bootstrap's native state system — success greens (`#5cb85c`, `#3c763d`), danger reds (`#d9534f`, `#a94442`), warning ambers (`#f0ad4e`, `#8a6d3b`), info blues (`#5bc0de`, `#31708f`) — giving the interface a dense, information-prioritized character that serves purchasing managers and lab technicians over lifestyle browsers. A deep navy `#044a80` and Bootstrap's link blue `#337ab7` handle corporate hierarchy, while near-black `#080808` and mid-gray `#555555` carry body text across dense product listings. Typography anchors on Roboto for UI copy and reaches for Reem Kufi at display scale — an unexpected pairing that gives top-level headings a geometric, slightly calligraphic weight while keeping body copy scannable at specification density. Monospace stacks (Consolas, Courier New, Menlo, Monaco) surface in product-specification tables and part-number fields, signaling technical precision where the audience requires it. Corners stay tight throughout at `{rounded.xs}` (4px) — squared components signal professional seriousness rather than consumer warmth. The `#8fd300` lime accent and the `#044a80` navy create a bookend motif: a 4px lime bar tops the hero banner and a matching 4px lime stripe crowns the footer, stitching the page into a coherent frame. The overall register is dense, navigable, and functional: a catalog built for someone who needs to find the correct centrifuge rotor before the sample degrades.
 
@@ -432,6 +436,14 @@ components:
 - Product card grid: 4-up (wide) → 3-up (desktop) → 2-up (tablet) → 1-up (mobile)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

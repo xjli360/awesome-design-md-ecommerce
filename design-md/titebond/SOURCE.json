@@ -214,111 +214,19 @@
     }
   ],
   "colors": {
+    "#eeeeee": {
+      "count": 5,
+      "sources": [
+        "https://titebond.com/fonts/font-awesome/css/font-awesome.min.css"
+      ]
+    },
     "#ffffff": {
       "count": 210,
       "sources": [
-        "https://titebond.com/fonts/font-awesome/css/font-awesome.min.css",
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css",
-        "https://titebond.com/css/style.forms.css",
-        "https://titebond.com/css/style.components.css",
-        "https://titebond.com/css/style.layout.css",
-        "https://titebond.com/css/style.cards.css",
-        "https://titebond.com/css/style.graphics.css",
-        "https://titebond.com/#computed-style-snapshot"
-      ]
-    },
-    "#141414": {
-      "count": 82,
-      "sources": [
-        "https://titebond.com/css/style.global.css",
-        "https://titebond.com/css/style.layout.css",
-        "https://titebond.com/css/style.graphics.css"
-      ]
-    },
-    "#000000": {
-      "count": 76,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css",
-        "https://titebond.com/css/style.forms.css",
-        "https://titebond.com/css/style.components.css",
-        "https://titebond.com/css/style.graphics.css",
-        "https://titebond.com/#computed-style-snapshot"
-      ]
-    },
-    "#ffd51e": {
-      "count": 59,
-      "sources": [
-        "https://titebond.com/css/style.global.css",
-        "https://titebond.com/css/style.forms.css",
-        "https://titebond.com/css/style.components.css",
-        "https://titebond.com/css/style.layout.css",
-        "https://titebond.com/css/style.cards.css",
-        "https://titebond.com/css/style.graphics.css",
-        "https://titebond.com/#computed-style-snapshot"
-      ]
-    },
-    "#242424": {
-      "count": 53,
-      "sources": [
-        "https://titebond.com/css/style.global.css",
-        "https://titebond.com/css/style.forms.css",
-        "https://titebond.com/css/style.components.css",
-        "https://titebond.com/css/style.cards.css",
-        "https://titebond.com/css/style.graphics.css",
-        "https://titebond.com/#computed-style-snapshot"
-      ]
-    },
-    "#212529": {
-      "count": 50,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css",
-        "https://titebond.com/#computed-style-snapshot"
-      ]
-    },
-    "#e4e4e4": {
-      "count": 34,
-      "sources": [
-        "https://titebond.com/css/style.forms.css",
-        "https://titebond.com/css/style.components.css",
-        "https://titebond.com/css/style.layout.css",
-        "https://titebond.com/css/style.cards.css",
-        "https://titebond.com/css/style.graphics.css"
-      ]
-    },
-    "#0d6efd": {
-      "count": 29,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#6c757d": {
-      "count": 19,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#545454": {
-      "count": 18,
-      "sources": [
-        "https://titebond.com/css/style.components.css",
-        "https://titebond.com/css/style.layout.css",
-        "https://titebond.com/css/style.cards.css",
-        "https://titebond.com/css/style.graphics.css"
-      ]
-    },
-    "#f8f9fa": {
-      "count": 17,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
+        "https://titebond.com/fonts/font-awesome/css/font-awesome.min.css"
       ]
     },
     "#dc3545": {
-      "count": 16,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#198754": {
       "count": 16,
       "sources": [
         "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
@@ -330,18 +238,34 @@
         "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
       ]
     },
+    "#198754": {
+      "count": 16,
+      "sources": [
+        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
+      ]
+    },
     "#0dcaf0": {
       "count": 14,
       "sources": [
         "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
       ]
     },
-    "#dfba1a": {
-      "count": 8,
+    "#000000": {
+      "count": 76,
       "sources": [
-        "https://titebond.com/css/style.forms.css",
-        "https://titebond.com/css/style.components.css",
-        "https://titebond.com/css/style.cards.css"
+        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
+      ]
+    },
+    "#6c757d": {
+      "count": 19,
+      "sources": [
+        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 17,
+      "sources": [
+        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
       ]
     },
     "#dee2e6": {
@@ -350,50 +274,40 @@
         "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
       ]
     },
-    "#343a40": {
-      "count": 6,
+    "#212529": {
+      "count": 50,
       "sources": [
         "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
       ]
     },
-    "#848484": {
-      "count": 6,
-      "sources": [
-        "https://titebond.com/css/style.forms.css",
-        "https://titebond.com/css/style.components.css",
-        "https://titebond.com/css/style.layout.css"
-      ]
-    },
-    "#c4c4c4": {
-      "count": 6,
-      "sources": [
-        "https://titebond.com/css/style.graphics.css"
-      ]
-    },
-    "#eeeeee": {
-      "count": 5,
-      "sources": [
-        "https://titebond.com/fonts/font-awesome/css/font-awesome.min.css",
-        "https://titebond.com/css/style.forms.css",
-        "https://titebond.com/css/style.components.css"
-      ]
-    },
-    "#495057": {
-      "count": 5,
+    "#00000000": {
+      "count": 1,
       "sources": [
         "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
       ]
     },
-    "#adb5bd": {
-      "count": 4,
+    "#242424": {
+      "count": 53,
       "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
+        "https://titebond.com/css/style.global.css"
       ]
     },
-    "#d4d4d4": {
-      "count": 4,
+    "#141414": {
+      "count": 82,
       "sources": [
-        "https://titebond.com/css/style.layout.css"
+        "https://titebond.com/css/style.global.css"
+      ]
+    },
+    "#ffd51e": {
+      "count": 59,
+      "sources": [
+        "https://titebond.com/css/style.global.css"
+      ]
+    },
+    "#dfba1a": {
+      "count": 8,
+      "sources": [
+        "https://titebond.com/css/style.forms.css"
       ]
     },
     "#ff7f00": {
@@ -401,700 +315,17 @@
       "sources": [
         "https://titebond.com/css/style.graphics.css"
       ]
-    },
-    "#e9ecef": {
-      "count": 3,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#fff3cd": {
-      "count": 3,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#0a58ca": {
-      "count": 3,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#75b798": {
-      "count": 3,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#ea868f": {
-      "count": 3,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#c6c7c8": {
-      "count": 3,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#373b3e": {
-      "count": 3,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#86b7fe": {
-      "count": 3,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#d63384": {
-      "count": 2,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#ced4da": {
-      "count": 2,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#664d03": {
-      "count": 2,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#cfe2ff": {
-      "count": 2,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#e2e3e5": {
-      "count": 2,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#d1e7dd": {
-      "count": 2,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#cff4fc": {
-      "count": 2,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#f8d7da": {
-      "count": 2,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#6ea8fe": {
-      "count": 2,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#4d5154": {
-      "count": 2,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#b6d4fe": {
-      "count": 2,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#565e64": {
-      "count": 2,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#146c43": {
-      "count": 2,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#25cff2": {
-      "count": 2,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#ffc720": {
-      "count": 2,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#b02a37": {
-      "count": 2,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#343434": {
-      "count": 2,
-      "sources": [
-        "https://titebond.com/css/style.components.css"
-      ]
-    },
-    "#ff0000": {
-      "count": 2,
-      "sources": [
-        "https://titebond.com/css/style.components.css"
-      ]
-    },
-    "#3b5998": {
-      "count": 2,
-      "sources": [
-        "https://titebond.com/css/style.components.css"
-      ]
-    },
-    "#c32aa3": {
-      "count": 2,
-      "sources": [
-        "https://titebond.com/css/style.components.css"
-      ]
-    },
-    "#cccccc": {
-      "count": 2,
-      "sources": [
-        "https://titebond.com/css/style.components.css"
-      ]
-    },
-    "#555555": {
-      "count": 2,
-      "sources": [
-        "https://titebond.com/css/style.components.css"
-      ]
-    },
-    "#6610f2": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#6f42c1": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#fd7e14": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#20c997": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#052c65": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#2b2f32": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#0a3622": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#055160": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#58151c": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#fcfcfd": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#9ec5fe": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#c4c8cb": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#a3cfbb": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#9eeaf9": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#ffe69c": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#f1aeb5": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#2b3035": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#a7acb1": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#6edff6": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#ffda6a": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#031633": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#161719": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#051b11": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#032830": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#332701": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#2c0b0e": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#1a1d20": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#084298": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#41464b": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#0f5132": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#087990": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#997404": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#842029": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#8bb9fe": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#e685b5": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#a6b5cc": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#c5d7f2": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#bacbe6": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#bfd1ec": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#b5b6b7": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#d7d8da": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#cbccce": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#d1d2d4": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#a7b9b1": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#c7dbd2": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#bcd0c7": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#c1d6cc": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#a6c3ca": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#c5e8ef": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#badce3": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#bfe2e9": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#ccc2a4": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#f2e7c3": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#e6dbb9": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#ece1be": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#c6acae": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#eccccf": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#dfc2c4": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#e5c7ca": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#ecedee": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#dfe0e1": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#e5e6e7": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#2c3034": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#323539": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#0b5ed7": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#0a53be": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#5c636a": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#51585e": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#157347": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#13653f": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#31d2f2": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#3dd5f3": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#ffca2c": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#ffcd39": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#bb2d3b": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#a52834": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#d3d4d5": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#babbbc": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
-    },
-    "#424649": {
-      "count": 1,
-      "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
-      ]
     }
   },
   "font_families": {
-    "FontAwesome": [
-      "https://titebond.com/fonts/font-awesome/css/font-awesome.min.css"
-    ],
-    "Material Icons": [
-      "https://fonts.googleapis.com/icon?family=Material+Icons"
-    ],
     "Oswald": [
-      "https://titebond.com/css/style.global.css",
-      "https://fonts.googleapis.com/css?family=Oswald:400,500,600",
-      "https://titebond.com/css/style.forms.css",
-      "https://titebond.com/css/style.components.css",
-      "https://titebond.com/css/style.layout.css",
-      "https://titebond.com/css/style.cards.css",
-      "https://titebond.com/#computed-style-snapshot"
-    ],
-    "Roboto": [
-      "https://titebond.com/css/style.global.css",
-      "https://fonts.googleapis.com/css?family=Roboto:400,500,600",
-      "https://titebond.com/css/style.forms.css",
-      "https://titebond.com/css/style.components.css",
-      "https://titebond.com/css/style.layout.css",
-      "https://titebond.com/css/style.cards.css",
-      "https://titebond.com/#computed-style-snapshot"
+      "https://titebond.com/css/style.global.css"
     ],
     "sans-serif": [
-      "https://titebond.com/css/style.global.css",
-      "https://titebond.com/css/style.forms.css",
-      "https://titebond.com/css/style.components.css",
-      "https://titebond.com/css/style.cards.css",
-      "https://titebond.com/#computed-style-snapshot"
+      "https://titebond.com/css/style.global.css"
     ],
-    "serif": [
-      "https://titebond.com/css/style.global.css",
-      "https://titebond.com/css/style.components.css",
-      "https://titebond.com/css/style.layout.css",
-      "https://titebond.com/css/style.cards.css",
-      "https://titebond.com/#computed-style-snapshot"
+    "Roboto": [
+      "https://titebond.com/css/style.global.css"
     ]
   },
   "css_rules": [
@@ -1266,54 +497,43 @@
       "sha256": "3e2b8b24bd0617e3d92cb324933358da254ddd4c383fc647267a02216c926296"
     }
   ],
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "remaining-20260929",
   "tokens": {
     "colors.primary": {
+      "value": "#ffd51e",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://titebond.com/css/style.global.css",
-        "https://titebond.com/css/style.forms.css",
-        "https://titebond.com/css/style.components.css",
-        "https://titebond.com/css/style.layout.css",
-        "https://titebond.com/css/style.cards.css",
-        "https://titebond.com/css/style.graphics.css",
-        "https://titebond.com/#computed-style-snapshot"
+        "https://titebond.com/css/style.global.css"
       ]
     },
     "colors.ink": {
+      "value": "#141414",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://titebond.com/css/style.global.css",
-        "https://titebond.com/css/style.layout.css",
-        "https://titebond.com/css/style.graphics.css"
+        "https://titebond.com/css/style.global.css"
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://titebond.com/fonts/font-awesome/css/font-awesome.min.css",
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css",
-        "https://titebond.com/css/style.forms.css",
-        "https://titebond.com/css/style.components.css",
-        "https://titebond.com/css/style.layout.css",
-        "https://titebond.com/css/style.cards.css",
-        "https://titebond.com/css/style.graphics.css",
-        "https://titebond.com/#computed-style-snapshot"
+        "https://titebond.com/fonts/font-awesome/css/font-awesome.min.css"
       ]
     },
     "colors.body": {
+      "value": "#212529",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css",
-        "https://titebond.com/#computed-style-snapshot"
+        "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css"
       ]
     },
     "colors.muted": {
+      "value": "#6c757d",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -1321,6 +541,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#dee2e6",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -1328,6 +549,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#f8f9fa",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -1335,33 +557,31 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#eeeeee",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://titebond.com/fonts/font-awesome/css/font-awesome.min.css",
-        "https://titebond.com/css/style.forms.css",
-        "https://titebond.com/css/style.components.css"
+        "https://titebond.com/fonts/font-awesome/css/font-awesome.min.css"
       ]
     },
     "colors.on-primary": {
+      "value": "#141414",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://titebond.com/css/style.global.css",
-        "https://titebond.com/css/style.layout.css",
-        "https://titebond.com/css/style.graphics.css"
+        "https://titebond.com/css/style.global.css"
       ]
     },
     "colors.accent-gold": {
+      "value": "#dfba1a",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://titebond.com/css/style.forms.css",
-        "https://titebond.com/css/style.components.css",
-        "https://titebond.com/css/style.cards.css"
+        "https://titebond.com/css/style.forms.css"
       ]
     },
     "colors.accent-orange": {
+      "value": "#ff7f00",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -1369,6 +589,7 @@
       ]
     },
     "colors.success": {
+      "value": "#198754",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -1376,6 +597,7 @@
       ]
     },
     "colors.warning": {
+      "value": "#ffc107",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -1383,6 +605,7 @@
       ]
     },
     "colors.danger": {
+      "value": "#dc3545",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -1390,6 +613,7 @@
       ]
     },
     "colors.info": {
+      "value": "#0dcaf0",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -1397,122 +621,424 @@
       ]
     },
     "colors.overlay-dark": {
+      "value": "#242424",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://titebond.com/css/style.global.css",
-        "https://titebond.com/css/style.forms.css",
-        "https://titebond.com/css/style.components.css",
-        "https://titebond.com/css/style.cards.css",
-        "https://titebond.com/css/style.graphics.css",
-        "https://titebond.com/#computed-style-snapshot"
+        "https://titebond.com/css/style.global.css"
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "Oswald, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "Oswald, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "Oswald, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Roboto, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Roboto, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "Oswald, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 600,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.overlay-dark}",
+        "textColor": "{colors.canvas}",
+        "titleTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.canvas}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-gold}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
       "status": "inferred"
     },
     "components.spec-sheet-link": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.info}",
+        "typography": "{typography.body-sm}",
+        "border": "none",
+        "padding": "{spacing.xxs} {spacing.xs}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#eeeeee": {
+        "selector": ".fa-border",
+        "property": "border",
+        "declaration": "solid .08em #eee",
+        "url": "https://titebond.com/fonts/font-awesome/css/font-awesome.min.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "820e169ce24824066d9973fd4b6561aae9dcd6dbef6435da905d5a1d6482997c"
+      },
+      "#ffffff": {
+        "selector": ".fa-inverse",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://titebond.com/fonts/font-awesome/css/font-awesome.min.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "820e169ce24824066d9973fd4b6561aae9dcd6dbef6435da905d5a1d6482997c"
+      },
+      "#dc3545": {
+        "selector": ":root,[data-bs-theme=light]",
+        "property": "--bs-red",
+        "declaration": "#dc3545",
+        "url": "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "cc088e30f254b20c0dceeb89692fdb9bec0e8332d74942332592c78514df3df0"
+      },
+      "#ffc107": {
+        "selector": ":root,[data-bs-theme=light]",
+        "property": "--bs-yellow",
+        "declaration": "#ffc107",
+        "url": "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "cc088e30f254b20c0dceeb89692fdb9bec0e8332d74942332592c78514df3df0"
+      },
+      "#198754": {
+        "selector": ":root,[data-bs-theme=light]",
+        "property": "--bs-green",
+        "declaration": "#198754",
+        "url": "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "cc088e30f254b20c0dceeb89692fdb9bec0e8332d74942332592c78514df3df0"
+      },
+      "#0dcaf0": {
+        "selector": ":root,[data-bs-theme=light]",
+        "property": "--bs-cyan",
+        "declaration": "#0dcaf0",
+        "url": "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "cc088e30f254b20c0dceeb89692fdb9bec0e8332d74942332592c78514df3df0"
+      },
+      "#000000": {
+        "selector": ":root,[data-bs-theme=light]",
+        "property": "--bs-black",
+        "declaration": "#000",
+        "url": "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "cc088e30f254b20c0dceeb89692fdb9bec0e8332d74942332592c78514df3df0"
+      },
+      "#6c757d": {
+        "selector": ":root,[data-bs-theme=light]",
+        "property": "--bs-gray",
+        "declaration": "#6c757d",
+        "url": "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "cc088e30f254b20c0dceeb89692fdb9bec0e8332d74942332592c78514df3df0"
+      },
+      "#f8f9fa": {
+        "selector": ":root,[data-bs-theme=light]",
+        "property": "--bs-gray-100",
+        "declaration": "#f8f9fa",
+        "url": "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "cc088e30f254b20c0dceeb89692fdb9bec0e8332d74942332592c78514df3df0"
+      },
+      "#dee2e6": {
+        "selector": ":root,[data-bs-theme=light]",
+        "property": "--bs-gray-300",
+        "declaration": "#dee2e6",
+        "url": "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "cc088e30f254b20c0dceeb89692fdb9bec0e8332d74942332592c78514df3df0"
+      },
+      "#212529": {
+        "selector": ":root,[data-bs-theme=light]",
+        "property": "--bs-gray-900",
+        "declaration": "#212529",
+        "url": "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "cc088e30f254b20c0dceeb89692fdb9bec0e8332d74942332592c78514df3df0"
+      },
+      "#00000000": {
+        "selector": "body",
+        "property": "-webkit-tap-highlight-color",
+        "declaration": "transparent",
+        "url": "https://titebond.com/lib/bootstrap-5.3.7-dist/css/bootstrap.min.css",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "cc088e30f254b20c0dceeb89692fdb9bec0e8332d74942332592c78514df3df0"
+      },
+      "#242424": {
+        "selector": "body",
+        "property": "background-color",
+        "declaration": "#242424",
+        "url": "https://titebond.com/css/style.global.css",
+        "snapshot": "rendered-style-6.css",
+        "sha256": "e5d61b8318d3b6261c0c7e44671d8d18d5a6a5437570c6fd537007b448ed8a2b"
+      },
+      "#141414": {
+        "selector": "a:hover",
+        "property": "color",
+        "declaration": "#141414",
+        "url": "https://titebond.com/css/style.global.css",
+        "snapshot": "rendered-style-6.css",
+        "sha256": "e5d61b8318d3b6261c0c7e44671d8d18d5a6a5437570c6fd537007b448ed8a2b"
+      },
+      "#ffd51e": {
+        "selector": "hr",
+        "property": "border",
+        "declaration": "2px solid #ffd51e",
+        "url": "https://titebond.com/css/style.global.css",
+        "snapshot": "rendered-style-6.css",
+        "sha256": "e5d61b8318d3b6261c0c7e44671d8d18d5a6a5437570c6fd537007b448ed8a2b"
+      },
+      "#dfba1a": {
+        "selector": ".btn-answer",
+        "property": "border-bottom",
+        "declaration": "4px solid #DFBA1A",
+        "url": "https://titebond.com/css/style.forms.css",
+        "snapshot": "rendered-style-9.css",
+        "sha256": "59c98f3866cc9a4363b0732f6445baa3e342ef69d7ab8759b9416e857da3b11a"
+      },
+      "#ff7f00": {
+        "selector": ".orange",
+        "property": "color",
+        "declaration": "#FF7F00",
+        "url": "https://titebond.com/css/style.graphics.css",
+        "snapshot": "rendered-style-14.css",
+        "sha256": "34d89af8f89e945499206c1a996305f69d685a1bdb22494d297f17c55d90e346"
+      }
+    },
+    "font_families": {
+      "Oswald": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"Oswald\", sans-serif",
+        "url": "https://titebond.com/css/style.global.css",
+        "snapshot": "rendered-style-6.css",
+        "sha256": "e5d61b8318d3b6261c0c7e44671d8d18d5a6a5437570c6fd537007b448ed8a2b"
+      },
+      "sans-serif": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"Oswald\", sans-serif",
+        "url": "https://titebond.com/css/style.global.css",
+        "snapshot": "rendered-style-6.css",
+        "sha256": "e5d61b8318d3b6261c0c7e44671d8d18d5a6a5437570c6fd537007b448ed8a2b"
+      },
+      "Roboto": {
+        "selector": "p",
+        "property": "font-family",
+        "declaration": "\"Roboto\", serif",
+        "url": "https://titebond.com/css/style.global.css",
+        "snapshot": "rendered-style-6.css",
+        "sha256": "e5d61b8318d3b6261c0c7e44671d8d18d5a6a5437570c6fd537007b448ed8a2b"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

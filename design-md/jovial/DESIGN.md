@@ -4,6 +4,10 @@ name: "Jovial"
 source_url: "https://jovialfoods.com"
 captured_at: "2026-09-28T09:27:57.280321+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Jovial Foods presents a warm, farm-rooted identity built on a single observed
   typeface, Poppins, used for both display and body text via the site's
@@ -169,6 +173,13 @@ components:
 Touch targets are recommended at a minimum 44×44px for nav, cart, and add-to-cart controls. Primary navigation is expected to collapse into a slide-out or accordion drawer below tablet width, given the "Menu / Close (esc)" pattern implied by the page text. This table is a recommendation only; no responsive CSS or live breakpoints were captured in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

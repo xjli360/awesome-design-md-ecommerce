@@ -4,6 +4,10 @@ name: "Erie Basin"
 source_url: "https://www.eriebasin.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The near-black #121212 and cool silver #dedede of Erie Basin's palette read less like a brand choice and more like the actual tones of oxidized sterling and old photographic paper — the interface takes its color from the objects it sells. Based in Brooklyn's Carroll Gardens neighborhood, the shop stocks Georgian mourning pieces, Victorian rose-cut diamonds, and estate rings alongside its own EB Modern line, and the site treats each object with the spatial deference of a museum vitrine. There are no accent colors competing for attention; the entire chromatic vocabulary is a two-stop monochrome that forces the eye toward the jewelry itself. This constraint is not minimalism as aesthetic posture — it is a deliberate editorial argument that the pieces are old enough and rare enough to need no brand embellishment. Typography was not extractable from static HTML (the site loads tokens via JavaScript), so the type system below is modeled on the spare serif-plus-grotesque pairings common to gallery and estate contexts: a fine-weight serif for editorial headlines and a neutral sans-serif for UI chrome. Spacing is generous at every breakpoint, echoing the white-glove presentation of physical auction catalogs. Buttons are flat, sharp-cornered (`{rounded.none}`), and rendered in ink on canvas or inverted — never pill-shaped, never rounded, never soft. Product cards use no drop shadows; separation comes from hairline rules and deliberate void. The cart and account icons sit in the top-right corner of a hairline-ruled nav bar, with the logo centered in the manner of a jewelry house logotype rather than a DTC startup wordmark. The total effect is a site that smells faintly of old velvet trays and wears its restraint like a calling card.
 
@@ -351,6 +355,13 @@ components:
 - Section labels and era badges remain visible at all breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

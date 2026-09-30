@@ -4,6 +4,10 @@ name: "MilliporeSigma"
 source_url: "https://www.sigmaaldrich.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The Merck signature red (#E2001A) — same vermillion anchoring the parent company's global identity — arrives as a precision instrument in MilliporeSigma's otherwise austere, laboratory-grade interface. The site at sigmaaldrich.com runs at information densities calibrated for PhD researchers and procurement officers rather than casual browsers: product pages carry CAS numbers, MDL numbers, linear formula strings, and multi-column specification tables that telescope from brief descriptions to full analytical certificates in a single scroll. Navigation is organized around scientific discipline and application rather than lifestyle or aspiration — "Analytical," "Biochemistry," "Labware" replace the hero-image carousels that characterize consumer DTC brands, and the search bar is architecturally dominant because catalog-number lookup is the primary user gesture. The background runs near-white (#FFFFFF / #F5F5F5) against a deep navy (#003865) header band that creates an institutional authority register; the red surfaces only on primary CTAs and promotional banners, making each appearance load-bearing. Typography is utilitarian — a system sans stack running at body sizes as small as 12–13px to pack specification rows — with bold weight reserved for catalog identifiers and section headers rather than emotional display copy. Catalog numbers render in a monospace face, elevating the seven-digit identifier to first-class UI element; no other consumer brand treats a product code with this typographic seriousness. Radius values sit in the `{rounded.xs}`–`{rounded.sm}` range and never approach pill shapes; every corner stays functional. Spacing is compressed by consumer-web standards: the dense tabular layouts that scientists expect from print catalogs translate to tight `{spacing.sm}`–`{spacing.md}` cell padding throughout. A persistent mega-nav with discipline-level categories, a molecular structure drawing tool embedded in the search header, and horizontal-scroll pricing tables with add-to-cart per SKU row are the brand's signature functional signatures — design choices that serve bench scientists who know exactly what they need and want the fastest path to a COA download or a bulk pricing quote.
 
@@ -436,6 +440,13 @@ components:
 - Breadcrumbs truncate on mobile to show only the immediate parent category and current page title
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

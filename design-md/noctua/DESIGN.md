@@ -4,6 +4,10 @@ name: "Noctua"
 source_url: "https://noctua.at"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Brown as a primary brand color is almost unheard of in PC hardware — a category saturated with black chassis, RGB lighting, and aggressive angular geometry. Noctua commits to it completely and without apology: the signature warm brown (#9C6B44) appears on every physical product, in the logo mark, and as the single accent color against a clean white digital canvas. No gradient, no secondary neon, no lifestyle photography — just the brown, and the engineering behind it. Product pages are specification-dense in a way that signals the intended audience: thermal resistance figures, noise-normalized airflow values, and bearing-lifetime data appear at card level rather than buried in a collapsed accordion. The site architecture organizes a sprawling SKU catalog by CPU socket compatibility and cooling topology rather than by lifestyle segment or performance tier, which is a structural choice that tells you exactly who is shopping here. Typography runs on system sans-serif at measured weights — there is no custom brand typeface, reinforcing an engineer-over-image posture that matches the physical products. Component radii sit at `{rounded.xs}`, not pill-shaped or soft; nothing here reads as consumer-friendly in the bubbly sense. Award badges appear frequently and visibly — Editor's Choice, Gold Award, Top Pick — rendered as compact rectangular chips with brown borders, reflecting a brand whose reputation is built on third-party validation across hundreds of review cycles rather than paid media. The footer carries an unusually prominent distributor-locator column, acknowledgment that Noctua sells through a global network of enthusiast retailers rather than primarily direct. Within a category that spends enormous resources trying to look futuristic, the brown palette performs a distinct emotional function: it reads as proven, analog, and warm — a product with Noctua brown on it signals the buyer has already moved past the RGB phase of their PC hardware hobby.
 
@@ -358,6 +362,13 @@ components:
 - Footer four-column layout becomes two columns at tablet, single-column accordion at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

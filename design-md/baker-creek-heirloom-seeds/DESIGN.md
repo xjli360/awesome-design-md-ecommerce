@@ -4,6 +4,10 @@ name: "Baker Creek Heirloom Seeds"
 source_url: "https://www.rareseeds.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Parchment-warm surfaces (#f1d2a6) set against deep forest green (#15815b) give the interface the feel of a nineteenth-century seed catalog that has arrived, intact, in a browser — the palette reads as physical before it reads as designed. The near-black ink (#1b1c1b) carries a faint olive warmth, never neutral, as if type were set in printer's ink rather than screen pixels. Satoshi, the geometric sans-serif pulled from the font stack, does unexpected work here — a face normally at home on fintech dashboards becomes the vehicle for cultivar names and three-sentence varietal descriptions, creating a productive friction between the antiquarian subject matter and a clean, legible presentation. Red (#dc2626) arrives surgically: sale badges, low-stock flags, and promotional callouts only — it carries transactional meaning and does not appear in decorative contexts. A deep navy range (#003399 down to #0f2973) handles link hierarchy and secondary navigation, a quiet echo of the official blue that has appeared on commercial seed-packet typography for well over a century. Cards round gently at `{rounded.sm}` and `{rounded.md}`, suggesting the soft corner of paper stock rather than the aggressive pill of contemporary SaaS design. The spacing system breathes slowly — generous section padding lets photography of rare Brandywine tomatoes and century-old corn do the persuasion work without needing supporting copy. Navigation stays practical and catalog-deep: category browsing dominates the primary bar, with a search field prominent enough to serve a collection of over two thousand varieties. The footer settles into a rich green-black field (#2b2d2a), dense and grounding, a counterweight to the warm cream composition above it. Product cards present seed packets as botanical specimens — variety name in heavier weight, parentage dimmed and italicized below, availability and sale status surfaced by color rather than copy. The result is a living archive: centuries of seed knowledge organized for fast digital browsing, where the warmth of the palette carries the emotional freight the brand does not need to shout.
 
@@ -333,6 +337,14 @@ components:
 - Seasonal banner reduces from `{typography.display-sm}` heading to `{typography.title-sm}` and collapses body copy to a single line on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

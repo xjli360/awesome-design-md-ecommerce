@@ -4,6 +4,10 @@ name: "Doughp"
 source_url: "https://doughp.com"
 captured_at: "2026-09-28T04:31:12.450007+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Doughp's extracted CSS is a Shopify theme built on Poppins as the sole
   declared body and component font, paired with a large neutral gray
@@ -168,6 +172,13 @@ This is a recommended, non-measured breakpoint scheme, since no media-query beha
 Touch targets should be at least 44px in the proposed scheme; primary/secondary buttons and search inputs should use `{spacing.md}`–`{spacing.lg}` padding to satisfy this on mobile. Navigation collapse, drawer transitions, and any hover-only affordances are proposed conventions only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS custom-property and selector extraction only; no rendered page, computed layout, or interaction states were observed. Color roles (primary, ink, muted, hairline, etc.) are inferred by matching swatches to plausible semantic use — the supplied palette contains no explicit `--color-primary` or `--color-brand` token, so the caramel/gold assignment is a best-effort inference, not a confirmed brand color. Several palette entries (e.g. #eb001b, #f79e1b, #ff5f00, #0071ce, #1990c6) are recognizable third-party payment-badge colors (Mastercard, PayPal, etc.) and were deliberately excluded from brand role assignment. Font stacks referencing Nunito Sans, Open Sans, and Roboto appear in evidence but were not tied to any selector used on doughp.com and are treated as unused/third-party fallbacks; only Poppins is confirmed via `body` and component `--font-*-family` variables. The spacing scale is a proposed general-purpose scale and does not match the much larger observed `--section-padding-*` values (24–240px), which are reserved for macro section rhythm. All hover, focus, error, and mobile-menu states, along with any imagery or iconography choices, are proposed and not verified against a live render. Licensing and self-hosted availability of Poppins were not verified from this evidence.

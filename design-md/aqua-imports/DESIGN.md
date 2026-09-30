@@ -4,6 +4,10 @@ name: "Aqua Imports"
 source_url: "https://aqua-imports.com"
 captured_at: "2026-09-28T09:54:51.337002+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Aqua Imports presents a WordPress/WooCommerce storefront built on a
   utilitarian system-font stack (-apple-system, BlinkMacSystemFont, Segoe UI,
@@ -143,6 +147,14 @@ components:
 Recommended breakpoints (not measured): mobile ≤599px (single-column product grid, collapsed hamburger nav replacing the multi-level mega-menu), tablet 600–959px (2-column grid, condensed nav), desktop ≥960px (full mega-menu with flyout submenus as suggested by the nested `ul ul li` selectors, 3–4 column product grid). Touch targets should be at least 44×44px for cart/select-option controls given the dense catalog of price-range products. This is a design recommendation only; no actual responsive/mobile layout was observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS custom-property dumps and a single page-text excerpt, not a rendered or interactive site capture. `--global-heading-font-family` and `--global-body-font-family` were referenced but never resolved to concrete values in the supplied evidence, so all typography uses the observed system-font list rather than a confirmed brand typeface — no custom/licensed font was found or assumed. Numerous `--global-palette*` custom properties (e.g., blues, oranges, and an amber at `#f5a524`) appear in `:root` but were not included in the separately supplied observed-colors array and have therefore been excluded from this palette entirely, even though they exist in the raw CSS. Component states (hover, focus, disabled, mobile menu open/close) are proposed conventions, not confirmed interactions. Spacing scale values beyond the two explicit `--global-content-boxed-padding` entries (2rem/1.5rem) and the button padding formula are estimated design-system conventions, not measured pixel values throughout the site. Card, hero, and footer visual treatments are inferred from typographic and color tokens only; no screenshot or rendered layout was reviewed.

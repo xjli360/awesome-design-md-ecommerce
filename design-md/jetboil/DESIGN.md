@@ -4,6 +4,10 @@ name: "Jetboil"
 source_url: "https://jetboil.johnsonoutdoors.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A backcountry cooking system brand that builds its entire visual identity around the high-visibility orange (#ff6600) of a lit burner — the same voltage that marks every product hero, CTA background, and spec-sheet accent against a field of deep charcoal (#1a1a1a) and matte black (#2b2b2b). The brand treats fuel canisters and stove components as precision instruments rather than camping gear, using dense technical callouts, cutaway diagrams, and exploded-view illustrations that borrow the visual language of automotive or aerospace engineering. Product photography is consistently shot against pure white (#ffffff) or gradient gray (#f5f5f5) backdrops, with the orange flame acting as the sole color note — no secondary palette, no decorative gradients, no lifestyle warmth. Typography runs a single sans-serif family at moderate weights (400–700), with product names set in all-caps tracking (+1.5px) and feature lists in compact 14px body copy. The navigation is a fixed top bar with a large logo lockup, a thin 1px hairline (#d9d9d9) separator, and dropdown menus that reveal technical specs and comparison tables. Every primary action — "Shop Now", "Learn More", "Add to Cart" — is a full-height orange rectangle with white text, while secondary actions are outlined in the same orange on white. The system trusts product imagery and technical detail over decorative flourish; there are no rounded corners beyond a gentle 4px on cards, no shadows, no illustrations of people or landscapes. The result is a brand that feels less like outdoor recreation and more like a tool company — precise, confident, and built to perform at altitude.
 
@@ -343,6 +347,13 @@ components:
 - Hero section reduces vertical padding from 64px to 48px on tablet, 32px on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

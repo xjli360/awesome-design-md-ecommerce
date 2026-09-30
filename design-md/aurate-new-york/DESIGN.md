@@ -4,6 +4,10 @@ name: "Aurate New York"
 source_url: "https://www.auratenewyork.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every Aurate product photograph rests on warm cream (#efeae6), a surface that lets 14-karat gold catch afternoon warmth rather than studio flash. The brand's structural color is not gold but a deep apothecary green (#304038) — applied to primary CTAs, main navigation, and the full-width footer mass with a botanical steadiness that reads as permanence rather than trend. A complete sage family fans behind it: #42544f for hover states and section grounds, #739487 for mid-tonal icons and dividers, #bfccb8 as a wash behind sustainability callouts, and the near-white mint #e6f7f4 anchoring ethical-sourcing storytelling panels. Gold enters the palette precisely and without fanfare — #b26118 highlights price figures and collection badge fills, #c27030 warms hover states, and #ffd196 lightens into chip backgrounds — always proportionate, never decorative for its own sake.
 
@@ -354,6 +358,14 @@ components:
 - Sustainability banner: single-row on desktop; may wrap to two lines on mobile but must never be hidden
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Grimey's New & Loved Music"
 source_url: "https://www.grimeys.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, ink-black canvas (#040404) frames a record store that wears its history in every corner — the primary red (#bd0000) isn't a friendly accent but a vintage neon sign, a hot pulse against the near-black. The palette reads like a dimly lit shop floor: warm whites (#fbfbfb, #fafafa) for text and card surfaces, a secondary red (#cc3b3b) for hover states and sale tags, and a muted gray (#aaaaaa) for secondary info and hairline borders. The type family Alice, a serif with a gentle, old-press character, runs across display and body sizes, giving the brand a literary, lived-in feel — not the clean sans-serif of a modern retailer but the voice of a zine or a hand-printed flyer. Buttons and badges use the full red (#bd0000) with white text, while secondary actions sit in the near-black (#111111) with white text, creating a high-contrast, no-nonsense hierarchy. The layout leans on generous spacing — {spacing.lg} between sections, {spacing.base} between elements — and soft corners ({rounded.sm}, {rounded.md}) that keep the interface from feeling harsh despite the dark canvas. The overall mood is intimate, slightly gritty, and deeply analog: a digital storefront that respects the vinyl it sells.
 
@@ -276,6 +280,13 @@ components:
 - Footer links collapse to a single column on mobile, with reduced padding.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

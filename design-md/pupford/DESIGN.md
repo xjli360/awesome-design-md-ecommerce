@@ -4,6 +4,10 @@ name: "Pupford"
 source_url: "https://pupford.com"
 captured_at: "2026-09-28T09:35:20.588702+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Pupford's storefront evidence shows a warm, pet-friendly palette built on
   a coral-orange primary (#e14f3d, with a closely related #e64b38 used by
@@ -182,6 +186,13 @@ components:
 Touch targets are recommended at a minimum 44px height, consistent with the birthday-button's `min-height: clamp(44px, 3.04vw, 59px)` rule, one of the few fluid/responsive values directly observed. All other breakpoint and collapse behavior is a proposed recommendation, not measured site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no live rendering, DOM inspection, or interaction testing was performed. The mapping of Assistant as the primary body font is inferred from its presence in the font list and a `var(--font-body-family)` reference, but no rule was supplied that directly assigns Assistant to body copy. Root theme variables (`--color-foreground: 18,18,18`, `--color-button: 18,18,18`) suggest a default black/white Shopify theme layer beneath the branded coral components, and it is unclear which layer governs most page surfaces. Spacing scale, product-card, search, and footer structures are proposed conventions, not observed measurements. Hover, focus, active, error, and mobile-menu states are largely unconfirmed, aside from the one explicit `:hover { filter: brightness(0.96) }` rule. Licensing and availability of the custom "BuenosAires" font family were not verified. Numeric color roles (e.g., which grey serves as "muted" vs. "hairline") are best-fit approximations from the supplied palette, not confirmed design-system labels.

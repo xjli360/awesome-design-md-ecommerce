@@ -4,6 +4,10 @@ name: "Jono Pandolfi"
 source_url: "https://www.jonopandolfi.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A tactile, handcrafted dinnerware brand rooted in the quiet warmth of artisan ceramics. The palette is anchored by a deep navy `#21385c` — the brand's signature color, drawn from the meta theme-color and used across headers, navigation, and primary accents — paired with a clean off-white canvas `#f6f6f6` that lets the clay's natural texture breathe. Body text runs in `#222222` on `#dedede`-toned surfaces, while `#141414` and `#333333` provide deep ink for headlines and strong typography. The brand's voice is restrained and material: a single accent red `#c72e2f` appears sparingly for cart badges and sale indicators, while `#439fdb` and `#1990c6` bring a cerulean note to secondary links and hover states. A soft blush `#fcd6d7` and pale green `#d3efcd` surface in product photography overlays and limited-edition badges. Every corner is softly rounded — `{rounded.sm}` for buttons, `{rounded.md}` for cards — echoing the wheel-thrown pottery process. The typography is set entirely in Inter, a clean sans-serif that balances the handmade feel with modern legibility. The design system feels like a well-lit studio: generous whitespace, muted surfaces, and deliberate color placement that never competes with the product.
 
@@ -378,6 +382,13 @@ components:
 - Product card padding reduces from 16px to 12px on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

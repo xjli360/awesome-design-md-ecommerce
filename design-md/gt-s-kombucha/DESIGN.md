@@ -4,6 +4,10 @@ name: "GT's Kombucha"
 source_url: "https://gtslivingfoods.com"
 captured_at: "2026-09-29T04:13:14.152127+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation draws from GT's Living Foods' observed Shopify theme evidence: a warm,
   editorial palette (#3f3a33 ink, #f9f8f0 and #f2f2f2 soft neutrals, #dedede hairlines) paired
@@ -164,6 +168,12 @@ Recommended, not measured breakpoints:
 Touch targets should be a minimum 44px tall, consistent with the observed accelerated-checkout button's `clamp(25px, 44px, 55px)` height rule. Navigation should collapse to a hamburger/menu pattern below tablet width; this collapse behavior was not directly observed and is a standard proposal for the header's stated "Open navigation menu" control.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Oru Kayak"
 source_url: "https://www.orukayak.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A folding kayak brand that uses a deep, confident blue (#1743b8) as its primary voltage — the same blue that anchors the brand's CTAs, header backgrounds, and product highlights, evoking open water and reliable gear. The palette is unexpectedly broad: alongside that core blue sit a warm orange (#f47721) used for sale badges and promotional accents, a coral-pink (#f04860) for limited-edition or special markers, and a muted sage (#7f89b4) that appears in secondary navigation and footer areas. The site runs on a clean white canvas (#f8f8f8) with soft gray surfaces (#ededed, #e3e3e3) for cards and sections, creating a layered, approachable feel that balances adventure-readiness with e-commerce clarity. Typography mixes DM Serif Display for hero headings — a choice that signals craftsmanship and heritage — with Open Sans and Arial for body and UI text, keeping readability high across product detail pages and comparison tables. Buttons use {rounded.sm} corners, product cards use {rounded.md}, and the overall spacing rhythm (base 16px, section 64px) gives each product photo room to breathe. The brand's folding-kayak innovation is communicated through generous whitespace, clear hierarchy, and a color system that never overwhelms the product imagery.
 
@@ -464,6 +468,13 @@ components:
 - Accordion content is always collapsed by default on mobile to reduce vertical scroll
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

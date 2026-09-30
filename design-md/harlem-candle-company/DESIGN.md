@@ -4,6 +4,10 @@ name: "Harlem Candle Company"
 source_url: "https://www.harlemcandlecompany.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A sophisticated, narrative-driven home fragrance brand that channels the cultural and artistic energy of the Harlem Renaissance through scent. The brand’s visual identity is anchored on a deep, almost-black ink (`#121212`) that provides a dramatic, museum-quality backdrop for product photography and typography. Against this rich darkness, a vibrant cerulean blue (`#1990c6`) acts as the primary voltage, appearing in key CTAs, navigation accents, and decorative elements — a color that evokes both the jazz-age optimism and the enduring legacy of Harlem’s creative spirit. A softer, secondary blue (`#136f99`) provides depth and hover states, while a warm, light gray (`#dedede`) serves as the primary canvas for cards and surfaces, creating a gentle contrast against the dark ink. The typographic palette is distinctly editorial, drawing from a curated selection of serif and sans-serif faces: `Apple Garamond`, `Baskerville`, `Iowan Old Style`, and `Source Serif Pro` lend a classic, literary gravitas to headings and body text, while `Montserrat` and `Figtree` provide a clean, modern counterpoint for navigation and UI elements. The overall mood is one of curated elegance — generous whitespace (`{spacing.section}`) and soft rounded corners (`{rounded.sm}`) on cards and buttons prevent the dark palette from feeling austere, while the use of `{rounded.full}` pill shapes for search and badges keeps the experience approachable. The design system feels like a beautifully designed gallery or a well-crafted book, where every element — from the `{colors.hairline}` borders to the `{colors.muted}` secondary text — is intentional and evocative.
 
@@ -366,6 +370,13 @@ components:
 - Secondary navigation links (e.g., "About Us", "Our Story") may be hidden behind a "More" dropdown on tablet.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

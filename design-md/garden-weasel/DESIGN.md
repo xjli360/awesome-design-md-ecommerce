@@ -4,6 +4,10 @@ name: "Garden Weasel"
 source_url: "https://gardenweasel.com"
 captured_at: "2026-09-28T09:55:20.058520+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Garden Weasel's storefront CSS shows a utilitarian, high-contrast system built on Shopify's default color-variable scaffold (#ffffff background, #121212 foreground) overlaid with brand-specific accents. The dominant brand signal is #c00321, a saturated red used for hover underlines and utility-menu links, paired with #129174, a deep green reserved for the mega-menu's promotional call-to-action button. Navigation text uses #383838 with mr-eaves-sans, a licensed display/sans face set in bold, uppercase, tightly tracked styling for menu items and buttons — this is the only typeface with direct rule evidence. Assistant appears in the site's font-family list but without a confirmed selector, so its role as body copy is inferred. Warm neutral #eae4dd and light grays (#f3f3f3, #dedede, #cccccc) suggest a soft, earthy surface system appropriate for a garden-tools catalog, contrasted against near-black ink (#121212, #231f20, #232323) for legibility. Checkout-widget blues (#1990c6, #136f99) and #334fb4 appear only in third-party Shopify payment CSS and are treated as secondary/system accents rather than core brand color. This interpretation proposes a rugged-but-tidy retail UI: red for primary action and emphasis, green for secondary promotional CTAs, warm neutrals for card surfaces, and bold uppercase mr-eaves-sans for navigation and headings.
 
@@ -148,6 +152,12 @@ This is a recommended breakpoint structure, not measured site behavior (no media
 Touch targets should be at minimum 44×44px for cart, search, and menu-drawer close controls. The evidenced `.menu-drawer__close-button-back` implies an existing mobile drawer pattern; its full responsive collapse logic is not observed and is proposed here as a standard slide-in drawer with a back button.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

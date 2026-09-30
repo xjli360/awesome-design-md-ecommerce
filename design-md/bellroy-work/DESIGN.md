@@ -4,6 +4,10 @@ name: "Bellroy (Work)"
 source_url: "https://bellroy.com/products/category/accessories"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   GTUltra — Bellroy's house display face, drawn with high-contrast ink strokes and sharp inkwell terminals — is the opening signal that this is not a standard accessories catalog. The work range (pouches, pencil cases, leather desk organizers in the $75–140 band) earns its price point by refusing visual noise: the singular brand voltage is #cd4c20, a burnt-clay orange closer to kiln-fired terracotta than traffic-cone amber, reserved exclusively for add-to-cart buttons, active navigation states, and sale callouts. Every other color in the system is either neutral or recessive. Type moves through three layers without drama — GTUltra anchors hero headers at 48px/400 weight, GTUltraFine drops to editorial subheads at 24px with a lighter optical cut, and Lato at 16px carries all body copy and UI labels with flat, steady clarity. The page ground is #f7f7f7, warm enough to push white-background product photography forward without a perceptible contrast gap. Ink lands at #1d1d1b — a whisker away from pure black that preserves organic warmth. Hairlines at #d0d1d0 define product card edges without shadow-lifting; the grid reads more like a precision manufacturer's specification sheet than a scroll-jacked funnel. Button corners land at {rounded.sm} — a 4px trim echoing the stitched-edge exactness of the physical products themselves. Blue (#2279a9) appears only in hyperlinks and pagination controls; no interactive affordance uses blue — the burnt orange is sovereign for all action states. The filter panel is a left-column checklist with checkboxes and no visual gloss: material, color, size, price range, arranged plainly. Product photography is either editorial overhead or three-quarter shots on clean #f7f7f7 fields, never staged lifestyle. Wide spacing — {spacing.section} between page sections — enforces a slow-scroll catalog cadence appropriate for buyers spending $100 on a pencil case.
 
@@ -342,6 +346,14 @@ components:
 - Footer columns stack vertically on mobile in the order: Products, About, Support, Legal
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

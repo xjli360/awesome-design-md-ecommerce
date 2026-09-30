@@ -4,6 +4,10 @@ name: "Midori"
 source_url: "https://www.midori-japan.co.jp"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The brand name is the Japanese word for green, and the design system takes that etymology literally: #036248 — a dense, resinous forest-floor green — claims every primary button fill, every nav-link hover state, and every active indicator, leaving no interpretive gap between the word and the color. BrandonGrotesque and BrandonText handle Latin headings in geometric sans forms at controlled weights (600 for display headers, 400–500 for body), while Hiragino Kaku Gothic ProN, Noto Sans Japanese, Yu Gothic, and YuGothic carry Japanese copy — not as fallbacks but as co-equal first-class stacks loaded via YakuHanJP and YakuHanMP for proper Japanese punctuation spacing. Both writing systems share identical size and weight scales; there is no Japanese-mode override, only one unified scale that works in either script.
 
@@ -359,6 +363,13 @@ components:
 - Footer columns: 4-column grid at desktop; 2-column at tablet; single column stacked at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

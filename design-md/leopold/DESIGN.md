@@ -4,6 +4,10 @@ name: "Leopold"
 source_url: "https://global.leopold.co.kr"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The keyboard is the only decoration Leopold allows itself — the global storefront wraps every product in a white field with near-black text (#1c1c1c) and hairline dividers (#e0e0e0) that read less like retail and more like an instrument catalogue from a precision-tool manufacturer. The South Korean maker has spent over a decade building a community following almost entirely on internal architecture: POM plates, Cherry and Leopold-manufactured switches, doubleshot PBT keycaps with legends that outlast the board itself. The site enforces the same material hierarchy — the keyboard photograph dominates, surrounded by specification rows set in a clean system sans-serif at modest weights, and the only gesture toward softness is the faint gray of the surface-soft background (#f5f5f5) behind product grids. Color options are presented as small rectangular swatches, not lifestyle imagery; the copy reads in the plainspoken register of a spec sheet. Leopold has no signature brand color because it does not need one — the product palette shifts with each model (beige, gray, black, white) and the UI palette stays neutral enough to defer entirely to whatever keyboard sits in the frame. Navigation is flat and typographic, with no icon flourish; buttons are near-black rectangles ({rounded.xs}) that match the keycap profile rather than softening toward the rounded pill shapes of lifestyle brands. The compact keyboard form factor — the 60%, TKL, and 65% layouts Leopold specializes in — informs the entire grid: space is not wasted, every element occupies the minimum footprint for its function. Footer links stack in clean columns at the same weight and size as body text, no hierarchy inflation. The engineering is the design, and the design system's role is to not argue with that.
 
@@ -360,6 +364,13 @@ components:
 - Hero image drops below the text column on mobile; aspect ratio is preserved at 4:3
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

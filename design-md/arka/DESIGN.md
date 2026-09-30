@@ -4,6 +4,10 @@ name: "Arka"
 source_url: "https://www.arka.com"
 captured_at: "2026-09-28T04:05:47.873423+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Arka's storefront runs on a Shopify theme with Bootstrap-derived base styles
   layered under custom brand tokens. The CSS exposes explicit custom properties
@@ -179,6 +183,14 @@ components:
 Touch targets should be at least 44px tall for buttons and inputs (`button-md` padding `{spacing.md} {spacing.lg}` approximates this). Navigation is expected to collapse behind a hamburger control below the tablet breakpoint; this is a standard ecommerce convention, not a measured behavior of arka.com.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

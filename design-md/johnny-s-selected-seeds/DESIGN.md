@@ -4,6 +4,10 @@ name: "Johnny's Selected Seeds"
 source_url: "https://www.johnnyseeds.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Seed-catalog red (#d3222a) punches through every "Add to Cart" button and sale badge like a ripe tomato against dark loam — the single highest-energy element on a page otherwise governed by dense horticultural data tables, varietal comparison charts, and growing-zone selectors. Johnny's pairs Merriweather, a sturdy transitional serif, with Roboto for interface chrome — a combination that reads like a university extension bulletin redesigned for e-commerce. Display headings land at modest sizes (24–32px) in Merriweather's weight-700, trusting the sheer volume of product photography (seed packets, field shots, harvest close-ups) to carry visual hierarchy rather than oversized type. Corners stay tight: product cards at `{rounded.xs}`, buttons at `{rounded.xs}`, input fields at `{rounded.xs}` — nothing pill-shaped, nothing playful. The system speaks to professional growers who parse days-to-maturity and disease-resistance codes the way a developer reads API docs. Navigation is category-dense: Vegetables, Herbs, Flowers, Fruits, Supplies, and Farm Seed each expand into multi-column mega-menus organized by crop family. A persistent search bar with autocomplete sits center-stage in the header because the catalog exceeds 2,000 SKUs and keyword lookup (e.g., "determinate paste tomato") is the dominant discovery mode. The canvas runs pure white (`{colors.canvas}`) with a warm light-gray surface (`{colors.surface-soft}`) banding alternate content sections — growing guides, planting calendars, and comparison tables. Spacing is utilitarian: `{spacing.md}` between data rows, `{spacing.lg}` between card grid items, `{spacing.section}` only at major content breaks. The overall impression is a working tool, not a lifestyle boutique — information density is a feature, and the red exists solely to mark actionable moments against a sea of monochrome agricultural detail.
 
@@ -486,6 +490,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

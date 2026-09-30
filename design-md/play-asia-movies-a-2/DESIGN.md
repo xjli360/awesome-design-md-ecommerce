@@ -4,6 +4,10 @@ name: "Play-Asia"
 source_url: "https://www.play-asia.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A dark, high-density marketplace for import games, anime, and collectibles, built on a deep #313131 ink canvas that makes every product image and price badge pop like a neon sign in a game-store window. The brand trusts its product grid to do the talking — thumbnails sit edge-to-edge in tight rows with minimal whitespace, each card carrying a single accent: a bright yellow "Pre-order" badge or a red "Sale" tag that cuts through the monochrome field. Navigation is a dense horizontal strip of category links (PlayStation, Nintendo, PC, Anime, Figures) in a compact 14px system font, signaling a power-user audience that knows what it wants and wants to find it fast. Search is a full-width bar with a magnifying-glass icon, not a pill — utility over friendliness. The footer is a wall of text links in 12px, organized by region and payment method, reflecting a global dropshipping operation that serves 200+ countries. There is no hero image, no lifestyle photography, no brand story — just rows of product boxes, each a 1:1 thumbnail, a title in 14px, a price in 16px bold, and a flag icon for region. The experience is utilitarian, warehouse-like, and brutally efficient: the dark background reduces visual noise, the yellow badges provide wayfinding, and the entire layout prioritizes scanability over delight.
 
@@ -404,6 +408,13 @@ components:
 - Sort and filter controls collapse into a single toolbar row with icons
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

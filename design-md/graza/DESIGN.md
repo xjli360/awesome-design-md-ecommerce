@@ -4,6 +4,10 @@ name: "Graza"
 source_url: "https://graza.co"
 captured_at: "2026-09-28T04:31:57.249412+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Graza's public CSS surfaces a warm, produce-forward palette built around
   a chartreuse-lime brand color (#D1E030) paired with a soft peachy-cream
@@ -176,6 +180,12 @@ This is a proposed recommendation only; no responsive/mobile layout was observed
 Touch targets should maintain a minimum 44px height (matching the observed `--aa-search-input-height:44px` variable) for buttons, inputs, and size-selector pills. Navigation collapse and any drawer/menu interaction pattern are not observed and should be validated against the live site before implementation.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

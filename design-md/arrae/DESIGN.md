@@ -4,6 +4,10 @@ name: "Arrae"
 source_url: "https://arrae.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A muted, mineral palette anchored on #f3efe8 — a warm bone-white canvas that reads like unglazed porcelain, not sterile white — and punctuated by the deep, almost-black #1b1a1f that gives headlines their gravity. The brand lives in the gap between clinical and cozy: #e5e1d8 and #f7f5f0 layer as soft surfaces, while #acacac and #808080 handle secondary text with a whisper rather than a shout. Brandon Grotesque, a geometric sans with humanist warmth, carries the display weight at generous sizes, while Cardinal Fruit — a serif with calligraphic roots — appears in editorial moments that signal expertise and trust. The system avoids hard edges entirely: buttons use {rounded.full} pill shapes, cards round at {rounded.lg}, and the search bar melts into the header as a soft field rather than a rigid box. The single accent voltage is #e22828, a desaturated red that appears only in critical CTAs and sale badges — it reads as urgent but not alarmist, like a pharmacy sign in a quiet town. Product photography is the real color engine: supplement bottles in soft focus, ingredients shot on textured stone, and skin tones that span the spectrum. The typographic hierarchy is unusually flat — display and body sizes differ by only 6–8px — because the brand trusts spacing and surface contrast over size jumps to create hierarchy. The checkout flow, powered by Shopify, introduces a secondary palette of #6b3a5b (a muted plum) and #c7ccdb (a cool gray-blue) in trust badges and payment widgets, but these never bleed into the core brand experience. The overall effect is a supplement brand that feels less like a pill bottle and more like a ceramic jar on a bathroom shelf — warm, grounded, and deliberately un-loud.
 
@@ -377,6 +381,14 @@ components:
 - Multi-step checkout collapses to a single-page layout on mobile, with sections stacked vertically.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

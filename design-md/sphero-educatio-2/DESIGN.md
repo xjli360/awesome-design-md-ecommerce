@@ -4,6 +4,10 @@ name: "Sphero"
 source_url: "https://www.sphero.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Electric cyan (#18acf2) is the engine of Sphero's visual identity — not a background utility color but a live voltage that fires at every primary CTA, navigation hover, and icon stroke against near-black canvases (#121212), where the contrast reads like the glow ring of a Sphero BOLT mid-roll. Four secondary voltages partition the product ecosystem without losing coherence: lime green (#78d318) marks curriculum and app-integration tiers, coral red (#f54055) flags urgency and alert states, deep purple (#5f249f) anchors advanced CTE product lines, and hot pink (#e94194) appears in promotional and campaign contexts — all held in check by the dark base canvas so high-chroma neighbors coexist rather than collide. Montserrat Black locks display headers into all-caps, wide-tracked wordmarks engineered to read from the back of a classroom or across a gymnasium floor during a robot demo; Roboto takes the continuous prose of curriculum descriptions and educator guides at weights that prioritize scanning speed over personality. The corner language is deliberately stratified: category selector pills push toward {rounded.full} to signal interactivity, product cards use {rounded.md} for a contained grid treatment, and primary CTA buttons settle at {rounded.sm} to read as technical controls rather than soft consumer-app affordances. Material Symbols Outlined icons position Sphero inside the Google Workspace for Education ecosystem — a deliberate signal to district IT administrators evaluating classroom integrations. Amber (#ffb81c) surfaces in star ratings and promotional callouts, and the full palette — cyan, lime, red, purple, pink, amber against near-black — operates with the calibrated intensity of a robot demonstration: maximum legibility under projector light, maximum energy without visual chaos. The PK–12 grade-level system manifests not in cartoon illustration but in a tight badge vocabulary stamped directly onto product cards, letting educators identify curriculum fit in a single glance without opening a product page.
 
@@ -382,6 +386,13 @@ components:
 - Footer four-column layout reduces to two columns at tablet, one column at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

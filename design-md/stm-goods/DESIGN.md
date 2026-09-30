@@ -4,6 +4,10 @@ name: "STM Goods"
 source_url: "https://www.stmgoods.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A bag and case brand that uses a sharp orange (#ff671b) as its primary voltage — not as a playful accent but as a serious signal of durability and utility, appearing on CTAs, sale badges, and the brand's "DuraShock" drop-protection iconography. The palette is otherwise restrained: a warm near-black (#231f20) for ink, a cool medium gray (#727272) for body text, and a soft off-white (#f9fafb) for the canvas, with a secondary teal (#108474) used sparingly for eco-friendly product lines and sustainability callouts. Typography relies on Libre Franklin for headings and Nunito Sans for body, both geometric sans-serifs that read as modern and functional rather than fashion-forward. Product cards use a subtle {rounded.sm} corner radius and a light gray (#eeeeee) background that separates them from the white page without casting a shadow, keeping the focus on the product photography. The site's most distinctive structural move is the "DuraShock" badge — a small orange pill with white text that sits on product images, using {rounded.full} and the primary orange, signaling impact protection before the user reads a single spec. Navigation is a minimal two-row affair: utility links (search, account, cart) in a thin top strip, then the main category row with drop-downs. The overall feel is industrial but clean — a brand that sells protective gear for devices and trusts orange to do the work of reassurance.
 
@@ -417,6 +421,13 @@ components:
 - Multi-column product grids collapse to single column on mobile, two columns on tablet
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

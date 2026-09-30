@@ -4,6 +4,10 @@ name: "Floyd"
 source_url: "https://floydhome.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Floyd is a Detroit-born furniture brand that builds with architectural honesty — every joint exposed, every material declared. The palette is anchored in a deep, near-black ink (`#231e1e`) that reads as the brand's structural spine, appearing on the page background, primary text, and the site's `theme-color` meta tag. Against this gravity, the canvas shifts to a warm off-white (`#f8f6ed`) that feels more like raw linen than sterile white — a deliberate move away from the cool, clinical whites of most DTC furniture brands. Signature accents arrive as restrained voltage: a safety-orange (`#ff5436`) used for CTAs and price highlights, a cooler red (`#ef4123`) for sale badges, and a single electric blue (`#1351ee`) that appears on select interactive elements. The secondary palette reads like a material library — warm greige (`#d8d4c4`), stone (`#7e7b71`), and concrete (`#9e998f`) — colors that echo the plywood, powder-coated steel, and felt that Floyd uses in their actual products. A surprising lime (`#d5fa44`) and forest green (`#386641`) appear as accent swatches, likely tied to limited-edition collections or plant-adjacent lifestyle photography. Typography is where Floyd asserts its design credibility most clearly: Floyd Gothic (a bespoke sans-serif) carries display and body copy with a slightly condensed, industrial feel, while Floyd Inktrap (a serif with deliberate ink-traps at stroke junctions) is reserved for editorial moments — product stories, the "Our Story" page, and collection narratives. GT America Mono appears for technical details (dimensions, materials, care instructions) and Inter serves as a system fallback. The brand avoids hard corners on interactive elements (`{rounded.sm}` at 8px for buttons, `{rounded.md}` at 12px for cards) but never goes pill-shaped — the radii are present but understated, like a chamfered edge on a steel frame. The overall feeling is one of designed permanence: furniture that isn't trying to disappear, but to be lived with and repaired.
 
@@ -372,6 +376,13 @@ components:
 - Multi-column product grids reduce to single column on mobile, 2-up on tablet
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

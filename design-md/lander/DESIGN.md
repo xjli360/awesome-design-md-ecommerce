@@ -4,6 +4,10 @@ name: "Lander"
 source_url: "https://www.lander.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A brand that builds gear for the outdoors but refuses to look like it — Lander’s palette opens with a near-black ink (#23211f) that reads as deep shadow, not corporate charcoal, and a warm stone (#908580) that could be trail dust or a city sidewalk. The single voltage is a stop-sign red (#db001c), used sparingly on CTAs and sale badges, while the canvas (#e8e6e5) is a soft, slightly warm off-white that avoids the sterile hospital feel of pure #ffffff. The extracted palette is dominated by system grays and Bootstrap utility colors (alert blues, greens, yellows), suggesting the site leans heavily on Shopify framework defaults for form states and messaging, but the brand’s true identity lives in those three distinctive tones plus a muted slate (#676986) that appears in secondary text and icons. Typography mixes a serif — Bookmania-Semibold, declared with `!important` — for display moments, with system sans for body copy, creating a tension between traditional craftsmanship and modern utility. The red (#db001c) appears on primary buttons and promotional banners, never overwhelming the product photography that carries the real emotional weight. Lander’s design feels like a well-worn canvas tent: functional, slightly textured, and built to last without shouting about it.
 
@@ -429,6 +433,13 @@ components:
 - Hero section reduces vertical padding from 64px to 40px on mobile, with smaller headline type
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

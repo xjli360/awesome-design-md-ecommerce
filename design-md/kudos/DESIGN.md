@@ -4,6 +4,10 @@ name: "Kudos"
 source_url: "https://kudoscare.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The only diaper brand that foregrounds textile sourcing as its primary visual argument, Kudos structures every layout decision around the cotton-science story rather than around the category's default of smiling baby photography. A grounded sage (#5b8a6a) — the color of dried herbs rather than hospital scrubs — serves as the single brand voltage: it appears on primary CTAs, the logo mark, and the thin rules that divide content sections. Against it, a warm near-white canvas (#fafaf7) and a softly toasted surface-soft (#f2efe8) create layered depth without pulling in a second hue. The palette reads as certifiably clean rather than clinically sterile, which matters for a brand whose core promise is skin that never meets a harsh synthetic. Corner radii hold at `{rounded.md}` throughout — not the sharp geometry of pharmaceutical packaging, not the exaggerated pill-shapes of budget baby care, but a confident middle register that signals both precision and gentleness. The radius appears consistently on cards, inputs, and material-callout badges, lending the system a coherence that survives across breakpoints. Typography runs in a geometric sans at restrained weights: display copy sits at 28–36px weight 600 rather than reaching for the 700+ muscle that safety-anxious baby brands tend to telegraph. The brand trusts its material story; the type does not amplify it. Product cards are deliberately stripped bare — one clean image on `{colors.surface-card}`, a two-line name in `{colors.ink}`, a material-layer callout pill in `{colors.muted}`, an add-to-cart button at full width — no star-count stacks, no urgency badges, no countdown timers. Navigation caps at four links plus a cart icon; the footer mirrors that restraint with certification marks, a newsletter form, and nothing decorative. Kudos earns trust through what it omits as much as what it shows.
 
@@ -307,6 +311,13 @@ components:
 - Footer link groups collapse to tap-to-expand accordions on mobile to reduce scroll depth
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

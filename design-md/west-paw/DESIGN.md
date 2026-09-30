@@ -4,6 +4,10 @@ name: "West Paw"
 source_url: "https://westpaw.com"
 captured_at: "2026-09-28T09:17:34.356949+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   West Paw's storefront CSS exposes a bright, workshop-friendly palette built around a cyan-blue brand color (#09bcef) paired with a warm orange-red accent (#f04824/#f04824-family) used for active button states and promotional badges. Neutral ink and body tones (#2d2d2d, #4c4c4e) sit on a white canvas, with soft cyan-tinted surfaces (#eff8fa, #f1f8fa) evidenced in section backgrounds and badge fills (#fdede9). Two font stacks are declared in :root: a heading family "mindset" (rendered at regular weight per --font-heading-bold-weight:400) and a body family "akzidenz-grotesk" (bold weight 600), both falling back to Helvetica/Arial/sans-serif since neither is confirmed as licensed or locally available.
   This interpretation treats #09bcef as primary brand color and #1f76a5 as a secondary/outline accent, both directly observed in button custom properties. Rounded corners are inferred from a single observed 6px radius on collection-nav buttons, generalized into a broader proposed scale. Layout, spacing rhythm, and responsive breakpoints are not present in the supplied CSS and are proposed conventions for a durable-goods pet product catalog, not measured observations.
@@ -140,6 +144,13 @@ components:
 Recommended, not measured: mobile <480px (single-column, stacked nav collapsing into a drawer using the observed `--drawer-max-width: 375px`), tablet 480–1024px (two-column product grids), desktop >1024px (multi-column grids, persistent top nav). Touch targets should be at least 44px; navigation dropdowns collapse to an accordion pattern on touch devices. This table is a proposed convention based on common e-commerce breakpoints, not observed site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS custom properties and a single page-text excerpt; no rendered layout, computed styles, or interaction states (hover/focus/active beyond the declared button variables) were observed. Semantic role assignments (e.g., which cyan or orange shade is "primary" vs. "accent") are inferred from variable naming, not visual hierarchy confirmation. Rounded and spacing scales are proposed conventions extrapolated from a single 6px radius data point. The "mindset" and "akzidenz-grotesk" font families are referenced in CSS but their licensing, self-hosting, or availability could not be verified; fallback stacks are assumed to render. Mobile menu behavior, cart drawer interaction, and product-page layout were not present in the supplied evidence.

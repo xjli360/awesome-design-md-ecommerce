@@ -4,6 +4,10 @@ name: "Whitestone Dome"
 source_url: "https://www.whitestonedome.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A precision-hardware brand that sells its glass screen protectors with the visual language of a medical device manufacturer — #231f20 near-black on #ffffff white, with #004085 as the single accent voltage that signals "this is the premium option." The brand's Shopify storefront reads as a series of product-as-artifact presentations: each screen protector floats on a white canvas, its edges defined by #dae0e5 hairline strokes, with callout badges in #155724 green for "Tempered Glass" and #856404 amber for "UV Cure Required." The typography stack is a deliberate collision — Big Caslon and Bodoni MT for display headings (a rare serif choice in the phone-accessories category) paired with system sans for body copy, suggesting a brand that wants to feel heirloom-quality rather than gadget-adjacent. Every product card uses `{rounded.sm}` corners, every CTA button is a `{rounded.sm}` rectangle in #004085 with white text, and the checkout flow inherits Shopify's default pill-shaped inputs (`{rounded.full}`). The meta theme-color #3d4246 — a warm dark gray — sets the browser chrome tone, reinforcing the brand's preference for charcoal over pure black. A persistent "Lifetime Warranty" badge in #155724 green and a "Free Shipping" badge in #0c5460 teal run across the top of the page, using `{typography.caption}` weight 600 to create a utility belt of trust signals. The overall feel is that of a premium electronics unboxing: restrained, high-contrast, with every color carrying a specific functional meaning rather than decorative intent.
 
@@ -506,6 +510,13 @@ components:
 - Multi-column feature lists collapse to single column below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

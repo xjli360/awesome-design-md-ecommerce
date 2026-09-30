@@ -4,6 +4,10 @@ name: "Laura Davidson"
 source_url: "https://www.lauradavidson.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The teal #00b4b3 sits unexpectedly at the center of a brand that sells office chairs — not the corporate navy or warm leather brown one might expect, but a clear, pool-depth cyan that reads as confident rather than decorative. Against a near-black ink of #222222 and a warm espresso accent of #382110, the teal functions as both a product-line signal and the one moment of personality in an otherwise clean, utility-forward system. Laura Davidson's site runs on Squarespace with a system font stack — Helvetica Neue leading into Roboto and Arial — which gives the typography a purposeful plainness that keeps the furniture photography uncontested. There are no aggressive display fonts competing with chair silhouettes; weight and size do the hierarchy work instead. A lighter teal variant #5adfcb carries hover states and secondary accents, creating a monochromatic depth within the primary hue family rather than reaching for a contrasting pop. The surface palette is minimal: a white canvas, a single soft-gray surface at #f6f6f6, and a hairline that keeps product grid cells separated without visual noise. Product cards favor generous whitespace over dense information packing — consistent with a mid-to-premium ergonomic market where the buyer spends time comparing, not scanning. Rounded corners sit at a modest 6–8px throughout, projecting functional solidity rather than consumer softness; the brand is selling work tools, not lifestyle accessories. CTAs pull the teal primary at full saturation so that each "Add to Cart" or "Shop Now" carries the same chromatic authority as the brand mark itself. The warm brown #382110 appears sparingly — likely in heritage-adjacent lifestyle photography or leather finish callouts — grounding the otherwise cool palette with a material reference that reinforces the furniture positioning.
 
@@ -358,6 +362,13 @@ components:
 - Spec table stays full-width at all breakpoints; horizontal scroll if overflow on very narrow viewports
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

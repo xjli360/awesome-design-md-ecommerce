@@ -4,6 +4,10 @@ name: "Iron Heart"
 source_url: "https://ironheart.jp"
 captured_at: "2026-09-28T04:15:55.052563+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Iron Heart's public CSS shows a stark, high-contrast palette built from
   near-black (#221e1f, #000000) foregrounds against white (#ffffff) and
@@ -162,6 +166,13 @@ This is a recommendation, not measured site behavior — no breakpoints or viewp
 Touch targets should be at least 44px in height for buttons and nav links (proposed). Navigation collapse into an off-canvas/hamburger menu below tablet width is a standard Shopify pattern but was not confirmed via observed markup.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS custom-property and selector extraction only; no rendered page, computed styles, or DOM screenshots were available. Semantic role assignments (e.g., mapping "#221e1f" to `ink`, or "#db0000"/"#ed6000" to badge/accent roles) are inferred from typical usage patterns and palette proximity to the CSS variable `--color-foreground: 18,18,18`, not confirmed against actual rendered elements. All pixel font sizes are proposed approximations from the observed `1.5rem` body font-size and heading scale variables, since root font-size (rem base) was not confirmed. No interaction states (focus, active, disabled) beyond the single documented button hover box-shadow were observed. Mobile/tablet layout, navigation collapse behavior, and grid column counts were not observed and are proposed conventions only. Availability and licensing of "Fjalla One" and "Noto Sans Japanese" for reuse have not been verified beyond their appearance as declared font-family values in the site's CSS.

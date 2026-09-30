@@ -4,6 +4,10 @@ name: "Monica Vinader"
 source_url: "https://www.monicavinader.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Engraving is the brand's signature promise — every piece on monicavinader.com can be marked with a name, date, or set of coordinates — and the interface enforces that precision through deliberate restraint. A single extracted ink tone, #313131, operates against white; there is no competing interface color to distract from the gold, silver, and vermeil of the product photography. CTAs render as solid #313131 bars with uppercase tracked type and {rounded.none} geometry, landing as discreet counter signage rather than urgent commerce buttons. The nav carries soft category labels — NEW IN, JEWELRY, GIFTS, ENGRAVING, SALE — at low weight and open tracking, with no bold or color differentiation between states; hierarchy is conveyed through spacing and uppercase case alone. Product cards are portrait-ratio rectangles, hard-edged, shadowless, name and price in 14px regular weight below the image — editorial restraint that trusts the object over the interface frame. The brand's single most distinctive UI moment is the engraving preview: as a customer types a name or date, a live script-font rendering appears in a warm off-white panel above the input field, mimicking the look of metal inscription. This tactile simulation is where interface warmth concentrates, while every surrounding element stays neutral. Personalization selectors for metal finish (Gold Vermeil, Sterling Silver, Rose Gold Plated) use rectangular swatches with {rounded.none} and a hairline border, activating into #313131 fill rather than a color-coded swatch system — consistency over decoration. The footer inverts to a dark #313131 ground with white type, closing the page on the same monochromatic logic that opened it.
 
@@ -374,6 +378,13 @@ components:
 - Search overlay takes full viewport width on mobile with a prominent close icon
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

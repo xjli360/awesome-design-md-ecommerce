@@ -4,6 +4,10 @@ name: "Sentai Filmworks"
 source_url: "https://www.sentaifilmworks.com"
 captured_at: "2026-09-29T04:22:41.261186+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The captured evidence for sentaifilmworks.com consists almost entirely of the
   unmodified Bootstrap 4.3.1 framework stylesheet: its CSS custom-property
@@ -168,6 +172,13 @@ Recommended, not measured, breakpoints (aligned to Bootstrap 4's defaults presen
 Touch targets should be at least 44×44px for cart/nav controls; the nav-bar should collapse into a slide-in or accordion menu below `md`. None of this is measured from live responsive behavior of sentaifilmworks.com.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Craft and Lore"
 source_url: "https://craftandlore.com"
 captured_at: "2026-09-28T09:50:53.863724+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Craft and Lore presents itself as a small-batch North Idaho leather workshop,
   and the observed CSS supports a heritage-workshop tone: warm neutrals,
@@ -171,6 +175,12 @@ This is a recommendation, not measured site behavior — no viewport-specific CS
 Touch targets should be at least 44×44px for cart/menu icons. Nav collapse and mega-menu disclosure are proposed patterns consistent with the listed category structure, not confirmed interaction states.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

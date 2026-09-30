@@ -4,6 +4,10 @@ name: "Supernote"
 source_url: "https://supernote.com"
 captured_at: "2026-09-28T09:08:20.163749+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from Shopify-hosted theme CSS for Supernote's e-notebook storefront. The observed palette is a restrained neutral-gray system: `#efefef` as the primary page background (--color-background), `#e5e5e5` as a secondary surface, `#000000` for text (--color-text/--color-body-text), and `#919da9` as the dominant interactive/button color across multiple button variants (pf-gs-button-1 through pf-button-8). A near-black `#050504` appears as --color-accent, and `#dc0000` is explicitly reserved for sale pricing (--color-sales-price). White (`#ffffff`) and off-white tones (`#f5f5f5`, `#fafafb`) round out light surfaces; `#e1e1e1`/`#d8d8d8` read as plausible hairline/border tones given the stated --color-borders-opacity of .46 against dark text, though exact border colors are not directly declared and are therefore inferred.
 
@@ -161,6 +165,13 @@ This is a recommended breakpoint structure, not measured site behavior:
 Touch targets should be at least 44px in the smallest dimension for buttons and nav items. Product grids are proposed to collapse from multi-column to single-column below 640px, with the nav bar assumed to collapse into a hamburger/drawer pattern at the mobile breakpoint; none of this was directly observed in the supplied static CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

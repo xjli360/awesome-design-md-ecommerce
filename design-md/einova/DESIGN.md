@@ -4,6 +4,10 @@ name: "Einova"
 source_url: "https://www.einova.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep teal (#226d7a) saturates every interaction surface — add-to-cart buttons, nav highlights, feature icons — pulling focus the way a charging pad's LED ring draws your eye in a dark room. Einova's palette stays within a single hue corridor from near-black teal through bright cyan (#22b8d1) to glacial ice (#e4f5fa), creating depth without competing chromatic noise. Typography leans on Open Sans at conservative weights; product names land at 600 weight while body copy stays thin at 400, trusting the generous whitespace and full-bleed product photography to carry visual interest. Cards float on pure white (`{colors.canvas}`) with `{rounded.md}` corners and subtle `{colors.hairline}` borders — no drop shadows, no gradients, just clean geometry that echoes the flat, disc-shaped chargers the brand sells. The layout is grid-first: product tiles lock to a 3-up desktop grid with `{spacing.lg}` gutters, collapsing to 2-up on tablet and single-column on mobile with sticky add-to-cart bars. CTAs use `{rounded.sm}` with 48px tap targets, colored in the full-saturation primary teal; hover states shift to the slightly warmer `{colors.primary-active}` (#1e6d7a). A secondary accent in bright cyan (#22b8d1) marks sale badges, progress indicators, and comparison-chart highlights — it reads as energetic without breaking the teal monotone. The surface hierarchy is minimal: canvas white, a single soft surface tier (#e4f5fa) for alternating content bands, and `{colors.surface-card}` for elevated product cards. Navigation is slim (64px height), transparent over hero imagery, with white text that flips to `{colors.ink}` on scroll once a white backdrop appears. The overall impression is clinical precision tempered by rounded geometry — a tech brand that trusts its industrial design photography to do the emotional work while the UI stays out of the way.
 
@@ -387,6 +391,13 @@ components:
 - Newsletter input and button stack vertically below 480px with full-width button
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

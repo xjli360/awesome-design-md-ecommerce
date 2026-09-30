@@ -4,6 +4,10 @@ name: "HobbySearch"
 source_url: "https://www.1999.co.jp/eng/"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A dense, information-rich catalog marketplace for hobbyists and collectors, built on a stark white canvas and a single dark anchor — #313131 — that appears in every header bar, footer block, and primary text element. The site reads like a well-organized warehouse: rows of product thumbnails in tight grids, each card carrying a price tag, a stock indicator, and a small cart icon, all packed within a 960px centered column. Navigation is a horizontal strip of category links (Plastic Models, Diecast, Figures, etc.) in a compact 14px system font, with a prominent search bar and a "New Items" tab that acts as the default landing. The color palette is almost entirely achromatic — white backgrounds, gray borders, black text — with the exception of small red sale badges and blue link underlines that appear in product descriptions. There are no hero images, no full-bleed photography, no decorative illustrations; every pixel is devoted to product density and scannability. The typography stack is the browser's native sans-serif fallback chain, meaning HobbySearch deliberately avoids custom typefaces in favor of maximum rendering speed and system familiarity. Buttons are rectangular with sharp corners (`{rounded.none}`), and the overall feel is that of a functional database dressed in a clean, no-nonsense monochrome shell.
 
@@ -309,6 +313,13 @@ components:
 - Breadcrumbs are hidden on mobile; only the current page title is shown
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

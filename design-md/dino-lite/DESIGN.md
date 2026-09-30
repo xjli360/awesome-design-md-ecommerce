@@ -4,6 +4,10 @@ name: "Dino-Lite"
 source_url: "https://www.dinolite.us"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The amber (#f5b301) in Dino-Lite's palette reads like a calibration mark on a precision instrument — a single warm frequency against a field of blues and grays that would otherwise read as pure technical infrastructure. Two blues do the structural work: an electric cornflower (#1863dc) handles every primary CTA, active nav state, and interactive affordance, while a deep navy (#034574) anchors section headers, hero backgrounds, and structural chrome. Together they form a hierarchy that mirrors how microscopy professionals parse information — high-contrast foreground signal against a stable, neutral working surface.
 
@@ -344,6 +348,13 @@ components:
 - Application-tag rows on product cards wrap freely; excess tags hidden behind a "+N more" chip on cards narrower than 320px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

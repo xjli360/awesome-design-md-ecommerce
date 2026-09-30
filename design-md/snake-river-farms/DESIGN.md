@@ -4,6 +4,10 @@ name: "Snake River Farms"
 source_url: "https://snakeriverfarms.com"
 captured_at: "2026-09-28T09:12:00.925723+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Snake River Farms presents itself as a heritage American Wagyu and Kurobuta pork
   purveyor, and the extracted CSS confirms a restrained, editorial palette built on
@@ -187,6 +191,13 @@ This breakpoint table is a **recommendation**, not measured site behavior:
 Touch targets should be a minimum 44×44px for buttons and nav icons. Navigation should collapse to a hamburger/drawer pattern below tablet width; filters and subscription controls should stack vertically on mobile. None of this was confirmed via responsive CSS in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This specification is derived from static CSS custom properties, a limited set of component-level selectors, and homepage text content — not a rendered or interactive audit of the live site. Several gaps remain:

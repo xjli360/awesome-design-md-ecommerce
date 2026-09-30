@@ -4,6 +4,10 @@ name: "Banwood"
 source_url: "https://banwood.com"
 captured_at: "2026-09-28T09:58:35.633203+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Banwood's markup shows a Shopify-based storefront for Scandinavian-styled kids' balance
   bikes, trikes, scooters and helmets. The observed palette is dominated by near-black
@@ -171,6 +175,12 @@ Recommendation only; no live breakpoints were measured.
 Touch targets should be a minimum 44px height, consistent with the accelerated-checkout button's `clamp(25px, 44px, 55px)` sizing observed in Shopify's portable-wallet CSS. Primary nav should collapse to a drawer/menu below tablet width; this interaction was not observed and is a standard proposed pattern.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

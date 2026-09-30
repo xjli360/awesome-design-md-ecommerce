@@ -4,6 +4,10 @@ name: "Mejuri"
 source_url: "https://mejuri.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Warm ivory (#faf7f0) does most of the work on Mejuri's pages — the canvas is not white but a sun-bleached cream that makes 14k gold feel warmer and silver more deliberate. Against this base, a family of stone neutrals (#79786c, #68675e, #b2b0a1) carry hierarchy without tension, while a spare gold token (#bda37d) surfaces only where the product literally is: price highlights, hover states on featured pieces, and small editorial callouts that function as a visual sample of the metal itself. Deep warm brown (#544432) anchors the most legible text without tipping into pure black, keeping even fine-print captions warm. BrandonGrotesque runs the brand's everyday voice — pragmatic, precise, set tight on product labels and loose on editorial headers. KapraNeue and Moulin step in for display moments, adding display tension that prevents the site from reading like any other commerce template. SimonMono and CourierNew appear in data contexts — order confirmations, filter states, SKU labels — a utilitarian counterpoint. SyndicatGrotesk fills in secondary UI copy where BrandonGrotesque might read too soft. Corner radii stay minimal throughout: {rounded.xs} on input fields and badges, {rounded.sm} on cards and drawers — there is no pill shape on a Mejuri CTA. CTAs in warm stone (#79786c) with cream text sit at {rounded.sm}, grounding the interface without ornament. The sage family (#ebf1e1, #dbe9cc) appears in seasonal campaign surfaces and editorial callouts — not as brand color but as seasonal atmosphere, a background that retreats when the jewelry steps forward. Navigation is spare and horizontal, relying on generous spacing and {typography.nav-label} in tracked small caps rather than icon glyphs or heavy labels. Product cards hold to a strict two-column grid on mobile and four columns on desktop, each with a single hover-reveal for a second product image — the only animation Mejuri regularly employs. Promotional red (#d80027) appears only in sale and notification contexts, never as brand identity, so its appearance reads as urgency. The whole system encodes one thesis: the fewer design moves you make, the more the jewelry speaks for itself.
 
@@ -453,6 +457,13 @@ components:
 - Editorial callout: side-by-side image + text → image full-width stacked above text
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

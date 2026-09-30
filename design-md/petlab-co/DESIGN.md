@@ -4,6 +4,10 @@ name: "PetLab Co."
 source_url: "https://thepetlabco.com/"
 captured_at: "2026-09-29T03:59:18.262366+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from a CSS custom-property system (--oke-* review widget
   tokens and --font-inter design tokens) plus editor-authored heading styles found on the
@@ -166,6 +170,13 @@ Recommended breakpoints (proposed, not measured):
 Touch targets should be a minimum 44×44px for buttons and nav icons (proposed, not verified against live markup). Primary nav is expected to collapse into a drawer or hamburger menu below the tablet breakpoint; this collapse behavior is a recommendation only and was not observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

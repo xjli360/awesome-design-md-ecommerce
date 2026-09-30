@@ -4,6 +4,10 @@ name: "Western Digital"
 source_url: "https://www.westerndigital.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A brand rooted in data infrastructure, Western Digital’s visual system is a study in functional clarity — a deep navy ink (#17214a) anchors the canvas, while a sharp orange (#ff7012) acts as the sole voltage for primary actions, price highlights, and category badges, cutting through a palette that otherwise reads as industrial gray (#929a9d, #7f7f7f) and cool silver (#e6e6e6, #f2f3f3). The extracted hex list reveals a brand that uses color sparingly and with purpose: the orange is never decorative, always transactional — “Buy Now,” “Add to Cart,” or “Compare” buttons. A secondary accent of deep blue (#2266ff) appears in informational links and secondary CTAs, while red (#ed1c24) and green (#00740c) signal error and success states respectively, drawn from the extracted palette. Typography relies on Proxima Nova across weights 400–700, with display sizes kept modest (24–32px) to let product imagery and spec tables carry the narrative. Cards use soft 8px rounding ({rounded.sm}), buttons are pill-shaped ({rounded.full}) for the primary CTA, and the overall spacing is generous — 48px section gaps ({spacing.xxl}) separate content blocks, with 16px base padding ({spacing.base}) inside cards. The brand does not chase visual warmth; it prioritizes legibility, hierarchy, and the quiet authority of a company that ships petabytes of storage.
 
@@ -538,6 +542,13 @@ components:
 - Footer columns stack vertically on mobile, with each section becoming an accordion.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

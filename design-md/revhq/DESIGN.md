@@ -4,6 +4,10 @@ name: "RevHQ"
 source_url: "https://www.revhq.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A black-and-gray concrete bunker for punk, hardcore, and underground culture, where #ff5268 — a hot pink that reads like a scream on a flyer — is the only color allowed to bleed through the monochrome. The site runs on a single monospace typeface, giving every product title, price, and nav link the same deadpan authority as a photocopied zine or a hand-stamped 7-inch sleeve. The canvas is white (#ffffff), the ink is near-black (#191919), and the entire visual system is held together by a hierarchy of grays — #888888 for muted body text, #dedede for hairline borders, #e5e3df for soft dividers, #f4f4f4 for surface cards. There are no rounded corners anywhere except the pink CTA button, which uses a tight {rounded.sm} to feel like a stamp rather than a pill. The top nav is a dense horizontal strip of genre categories (Vinyl, T‑Shirts, Books, Patches, etc.) in all-caps monospace, no dropdowns, no icons — just text and a search bar. Product cards are flat white rectangles with a single border (#dedede), a square image, and a three-line caption: artist, format, price. The hot pink (#ff5268) appears only on the primary CTA ("Add to Cart"), the cart badge, and the sale badge — a deliberate scarcity that makes the color feel like a stage dive in an otherwise gray room.
 
@@ -273,6 +277,13 @@ components:
 - Sale badges remain visible but may reduce font size slightly.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

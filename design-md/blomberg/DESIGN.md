@@ -4,6 +4,10 @@ name: "Blomberg"
 source_url: "https://www.blombergappliances.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Blomberg's digital storefront opens with a dark charcoal navigation bar (#1a1e21) that pins the brand's compact red wordmark against near-black, establishing an industrial register before a single pixel of product imagery loads. The signature red (#ce2129) appears sparingly — reserved for primary CTAs, sale callouts, and the occasional energy-rating badge — which gives each instance real voltage against the overwhelmingly neutral gray-and-white canvas. Typography inherits the browser's system stack with no custom web font; headings run medium-weight at restrained sizes (20–28px), trusting product photography and generous whitespace to carry visual hierarchy rather than typographic spectacle. Product cards sit on `{colors.surface-card}` with `{rounded.sm}` corners and a single `{colors.hairline}` border, stacking vertically on mobile with no box-shadow — a deliberate austerity that mirrors the stainless-steel appliances themselves. The palette is dominated by cool neutrals: `{colors.ink}` (#141619) for headlines, `{colors.body}` (#41464b) for running copy, `{colors.muted}` (#636464) for spec labels and metadata. A secondary dark blue (#084298) surfaces in informational badges and comparison-table headers, while the light surface tone `{colors.surface-soft}` (#f9fafb) provides alternating section contrast without warmth. Buttons are squared-off (`{rounded.xs}`) with firm 48px heights, echoing the rectilinear geometry of the washers and dryers themselves — nothing pill-shaped, nothing playful. The overall system communicates German-engineered precision for compact living: every element is flush, aligned, and dimensionally tight, much like a 24-inch appliance slotted into a European kitchen cabinet.
 
@@ -358,6 +362,14 @@ components:
 - Hero CTAs stack vertically below 744px with full-width buttons
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

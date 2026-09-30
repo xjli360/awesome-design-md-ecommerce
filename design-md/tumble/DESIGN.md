@@ -4,6 +4,10 @@ name: "Tumble"
 source_url: "https://tumble.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The product photography at Tumble solves a familiar DTC problem — how to sell something flat and square — by staging every rug mid-use: a dog splayed across a patio weave, children's chalk drawings framing a geometric border, a cocktail glass casting a long shadow across the pile. That staging decision shapes the entire visual system. The palette is warm without being rustic: a clay-orange primary (approximated here as #D96C3A, inferred from public catalog imagery in the absence of extracted tokens) anchors the brand against an off-white canvas that photographs well against concrete, wood decking, and coastal grass. Ink falls to a near-black #1A1A1A rather than pure black, keeping body text from reading too sharp against softer surface tones; the surface-soft value (#F5F0EA) carries just enough warmth to suggest sun-washed concrete rather than a clinical laboratory white. Typography runs on a geometric sans-serif in the 400–600 weight range — display headings at 28–40px in weight 500 rather than the heavy 700+ of fashion brands, letting product photography carry the emotional mass. Rounded corners track consistently at {rounded.md} across product cards, buttons, and size selectors, with {rounded.full} reserved for color swatch indicators and the brand's most recognizable UI element: a horizontally scrollable row of pill-shaped filter chips that rearrange the product grid in place without a page reload. Promotional messaging runs above the nav in warm amber (#F0A847) — a honey tone that reads as sunny announcement rather than sale-alarm red. The brand's written voice matches the visual compression: "Machine wash. Air dry. Done." is the entire care instruction, six words where a lifestyle brand would spend twenty-five. That economy extends through the component system — controls are minimal, states are binary-clear, and the rug's own geometry — stripes, diamonds, organics — remains the loudest visual element on every page.
 
@@ -383,6 +387,13 @@ components:
 - Cart drawer: side-panel on tablet and desktop; full-screen overlay on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

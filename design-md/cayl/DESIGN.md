@@ -4,6 +4,10 @@ name: "Cayl"
 source_url: "https://www.cayl.co.kr"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   #54473f — the color of dried clay after rain, of mountain sediment compacted by elevation — is Cayl's primary surface, and the refusal of spectacle it represents is the brand's clearest design statement. Where performance-gear competitors reach for high-vis orange or branded safety yellow, Cayl builds its primary CTA and active states from a muted ash-brown, the same neutral that technical garments take on after a season of genuine use. The full palette doubles down on this restraint: body text runs in #555555 rather than a high-contrast near-black, hairlines hold at #d9d9d9 and #e8e8e8, and the accent — #008bcc, a functional cerulean — exists not as brand voltage but as a navigation signal, appearing where precision pointing matters and disappearing everywhere it doesn't. The deeper #226699 steps in for link hierarchy, creating a two-tier link system that is operational rather than expressive.
 
@@ -331,6 +335,13 @@ components:
 - Hero subhead and CTA stack vertically with reduced padding on mobile; headline scales to display-md
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Taylor Stitch"
 source_url: "https://taylorstitch.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Taylor Stitch runs its entire visual logic from a single deep chamber — #0f2130, a midnight navy so dark it reads almost as black at small sizes, pressed into every primary CTA, the site header, and the footer band. Against that near-black ground, a flash of seafoam (#aadddd) and a muted forest green (#3d8144) operate as the only relief — not as playful accents but as gear-check markers, the kind of color that might appear on a topographic map overlay or a waxed canvas label tab. The canvas is clean white (theme-color: #fff), and surface softs land on a neutral #eeeeee; the site trusts photography of worn-in denim and Chromexcel leather to carry warmth, not the UI shell. Typography arrived at extraction as Arial/Helvetica — almost certainly a fallback scaffold beneath JS-loaded custom fonts. At scale, display headlines feel heavy and compressed (estimated 700 weight), product titles live at a confident 18–20px at weight 600, and body copy runs at 15–16px with relaxed line-height to suit long editorial paragraphs about fabric provenance and workshop pre-orders. The Workshop model — Taylor Stitch's crowdfunding-before-production mechanic — introduces a badge vocabulary that sets it apart from standard apparel e-commerce: WORKSHOP tags, funding-progress bars, and funded-state badges must all resolve against the same dark primary palette rather than borrowing the coral (#ff9966) or soft yellow (#ffffae) seasonal tones. Olive (#8b8e77) reads as a muted earth finish; warm coral and lemon yellow appear as campaign-specific tokens rather than permanent brand fixtures. Rounded corners lean minimal — nearly square buttons and cards, with only a small `{rounded.xs}` radius on form inputs and `{rounded.full}` applied strictly to progress-bar fills and color swatches. The overall geometry feels engineered and purposeful, echoing the functional workwear heritage of the label: nothing decorative, every radius earned. Spacing is generous in editorial sections — large photo-first hero layouts, full-bleed collection imagery — but tightens in the product grid, where density and clear pricing hierarchy dominate.
 
@@ -348,6 +352,13 @@ components:
 - Footer four-column grid collapses to a single-column accordion with expandable sections on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

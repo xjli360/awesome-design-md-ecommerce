@@ -4,6 +4,10 @@ name: "Rejuvenation Vintage"
 source_url: "https://www.rejuvenation.com/shop/vintage"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Antique brass (#896b27) does the work that most retail brands assign to a hero gradient — every primary CTA, price callout, and hover accent draws from the same oxidized-metal tone, placing the digital storefront in direct conversation with the cast-iron and hand-rubbed finishes it actually sells. The base palette is a period typographer's choice: near-black charcoal (#1a1818, #2b3033) borrowed from the ink of pre-war hardware catalogues, against which the brass reads warm and deliberate rather than decorative. A brick-red (#d04727) surfaces on urgent callouts and editorial accent headers, recalling the kiln-fired tones of Arts & Crafts tilework — a rare appearance that keeps it from reading as a generic clearance flag. Type runs in Gotham, a geometric American grotesque that wears surprisingly well against 1910–1940 hardware forms; its even stroke widths and closed apertures feel less Silicon Valley than they do WPA-era civic signage. Display sizes lean heavy at 36–48px/700 to anchor editorial category headers, while body copy settles at 16px/400 for unhurried browsing of condition notes and provenance details. Corner radii are minimal throughout — product cards at {rounded.xs}, input fields at {rounded.sm}, and only pill-shaped filter chips use {rounded.full} — a restraint that suits a shop where the goods predate modern consumer interface design by a century. Silver-gray (#b9babb) handles hairlines and secondary text, the visual equivalent of aged patina on a white-ground label. The overall system reads more like a museum catalogue than a trend-driven marketplace: deliberate, unhurried, and grounded in the authority of objects with documented histories.
 
@@ -349,6 +353,13 @@ Zero-radius badge tokens are a deliberate period reference — price tags on vin
 - Condition-label left-border rule is preserved at all breakpoints as a key visual signal
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

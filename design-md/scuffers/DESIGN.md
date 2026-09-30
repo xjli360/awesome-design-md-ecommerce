@@ -4,6 +4,10 @@ name: "Scuffers"
 source_url: "https://scuffers.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Army green (#2b7551) does the heaviest lifting in Scuffers' palette — a muted, military-inflected hue that reads as both streetwear credibility and a deliberate refusal of the softer sage tones that have overtaken the category. It anchors every primary action against a near-monochrome neutral field that runs from off-white (#f6f6f6) through mid-gray (#c8c8c8), the whole stack existing to give that green somewhere to land. The lone disruptive note is a warning-stripe yellow (#ffee5b): saturated, industrial, almost tape-measure yellow — the kind of accent that streetwear borrows from construction sites and safety gear rather than from fashion. Typography stays entirely in the system stack (Arial, Helvetica Neue, Segoe UI) with no custom display face, which reads less as budget constraint and more as a streetwear-adjacent austerity — the brand doesn't need a logo font to signal taste, the colorwork does that. Dark surfaces draw from a pair of near-black charcoals (#1b2224 and #263033) that feel closer to wet concrete than pure black, giving the dark-mode or footer zones a gritty warmth. Rounding throughout is restrained: buttons and cards hold a modest `{rounded.sm}` — no pill shapes, no bubble UI — because the vocabulary is urban utility, not approachable consumer tech. Spacing is generous at the section level to let product photography breathe, compressed at the component level to signal density and a full catalog. The overall posture is confident understatement: a two-accent system (green + yellow) deployed with discipline against a field of grays, no gradients, no decorative type, and a strict grid that lets garments define the visual temperature of any given page.
 
@@ -415,6 +419,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

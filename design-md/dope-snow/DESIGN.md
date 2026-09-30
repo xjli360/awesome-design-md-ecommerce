@@ -4,6 +4,10 @@ name: "Dope Snow"
 source_url: "https://www.dopesnow.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A raw, high-contrast winter-sports brand that uses #121212 as its primary ink and #e9e9e8 as its canvas — a reversal of the typical white-background retail site, creating a nocturnal, neon-lit slope atmosphere. The brand's signature voltage comes from a triad of reds (#ad1519, #de0000, #cf2734) and a sharp yellow (#fabd00) that together read as warning beacons, speed markers, and après-ski glow. Manrope runs at medium weights with tight letter-spacing, giving headlines a compressed, athletic density that matches the brand's snowboard-and-hoodie silhouette. Buttons are pill-shaped ({rounded.full}), often rendered in full-bleed red or outlined in white against the dark canvas, while product cards float on #f0f2f3 surfaces with soft {rounded.md} corners — the only concession to softness in an otherwise angular, aggressive system. The nav bar sits at 64px with a sticky dark backdrop, and the search bar is a rounded pill with a subtle #d0cecb border. Badges use the yellow (#fabd00) for sale markers and red (#ad1519) for "new" flags, both set in condensed uppercase Manrope. The overall effect is a mountain-town billboard translated into a direct-to-consumer storefront — loud, fast, and unapologetically street.
 
@@ -539,6 +543,13 @@ components:
 - Hero text reduces by one size step on each breakpoint (display-xl → display-lg → display-md)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

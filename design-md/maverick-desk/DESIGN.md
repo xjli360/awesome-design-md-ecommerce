@@ -4,6 +4,10 @@ name: "Maverick Desk"
 source_url: "https://www.maverickdesk.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Where most standing-desk brands default to Scandinavian birch and silver-aluminum composure, Maverick Desk stakes its identity on a darker, more grounded register — a palette built around near-black frames, raw-steel tones, and a single warm copper accent (#C4842D) that names itself in every CTA, badge, and active state. Product photography leans into shadow rather than away from it: lit from above rather than blown out, so grain and weld lines read as features rather than imperfections. Corners are sharper here than in the ergonomic-wellness segment ({rounded.xs} on most interactive elements, {rounded.none} on structural panels), signaling an industrial character that trusts the product's physicality over interface softness. The canvas flips between pure white for product-detail pages — where leg-geometry and surface dimensions need clinical clarity — and a near-black hero ground (#1A1A1A) where lifestyle photography can breathe against a void. Type runs in a geometric sans-serif (stack unconfirmed; font not extracted), set at modest weight on body copy but stepped to 700 on display lines where dimensions, load-ratings, and configurator headings need authority. Spacing is generous in the section rhythm ({spacing.section} at 64px, {spacing.xxl} at 48px between grid rows) and tight at the component level — a contrast that emphasizes the desk as a substantial object in a considered space rather than a consumer gadget surrounded by padding. The configurator, the brand's primary interaction surface, uses compact chip selectors and inline dimension labels rather than dropdown selects, keeping the user in a physical mindset: width × depth × height, not "option A or option B." Availability badges — SHIPS FREE, IN STOCK, SHIPS IN 5 DAYS — appear in small-caps at caption size with copper accent borders, carrying urgency without hysteria.
 
@@ -425,6 +429,13 @@ components:
 - Comparison table replaces with a per-model detail accordion at < 744px, each row expandable to its full spec list
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

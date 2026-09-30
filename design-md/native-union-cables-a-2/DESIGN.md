@@ -4,6 +4,10 @@ name: "Native Union"
 source_url: "https://www.nativeunion.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Burnt-orange signal-fire (#ef521b) set against a near-total-black field (#111111) — that single voltage marks every primary CTA, hero accent, and promotional callout, making a cable brand read as a design-object brand on first scroll. The tension between that orange and a warm camel-gold (#cb8a3d) does the work that lifestyle photography usually handles alone: communicating braided-fabric and brass-hardware material warmth without a single prop required. Neue Haas Grotesk anchors the display layer, a Swiss grotesque precise enough to evoke machined connectors and flush-fit plugs; the museo-sans family handles body and UI text, its humanist curves supplying enough softness to prevent the grid from reading clinical. Letter-spaced uppercase labels ({typography.label-caps}) and minimal-radius containers press the analogy of a stamped mark on precision hardware — the type is as flush and deliberate as the products themselves. Canvas is white (#ffffff), body text near-black (#111111), and the only relief from that binary contrast comes through mid-gray (#9a9a9a) for secondary text, a light hairline (#dedede) for borders and dividers, and a derived surface-soft for card backgrounds. Product cards surrender the full card top to imagery with zero decorative chrome — no drop shadows, no rounded overlays — because the object is the design. The orange primary appears at maximum contrast against white or black, never as a decorative wash: always a directive, always buy / add / select. Button type is set compact with uppercase tracking ({typography.button-md}), pressing the same stamped-label logic. Footer sections deepen to near-black (#121212), reversing text to white and letting the camel accent thread through material certifications and sustainability callouts. Navigation is white-barred and spare, the brand wordmark in Neue Haas at tight tracking, with orange reserved only for the announcement banner and cart-count badge. Spacing is generous by cable-brand standards — {spacing.xxl} and {spacing.section} gutters signal that these objects are worth a pause, not a scroll-past.
 
@@ -334,6 +338,13 @@ components:
 - Footer: four-column link grid collapses to single-column accordion on mobile; legal row stacks vertically
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Liforme"
 source_url: "https://liforme.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A yoga equipment brand that stakes its identity on a single, unmistakable voltage: #ea5c8e, a hot pink that appears nowhere in nature but everywhere on the site — primary buttons, add-to-cart triggers, sale badges, and the thin accent line that runs along the top of every product photo. The brand pairs this pink with a near-black ink (#2d2d2d) for body text and a warm off-white canvas (#fef9ea) that reads as unbleached paper rather than sterile white, giving the whole experience a handcrafted, studio-lit feel. Typography runs Figtree at modest weights — display sits at 24–32px in weight 500, never shouting, while body copy stays at 14–16px with generous line height. Product cards use soft corners ({rounded.md}) and a subtle shadow, but the real signature move is the "sale" badge: a hot-pink pill ({rounded.full}) with white text that appears on nearly every product tile, creating a persistent sense of urgency. The nav bar is a dark band (#2d2d2d) with white links, a rare inversion that makes the header feel like a grounded anchor rather than a floating strip. Secondary actions — size selectors, quantity pickers — use a muted gray (#b1b0b8) border and no fill, keeping the visual hierarchy clean: pink means "act now," gray means "configure," white means "browse."
 
@@ -316,6 +320,13 @@ components:
 - Size selector options collapse from row to vertical list on very small screens (< 480px).
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

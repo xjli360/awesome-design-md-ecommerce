@@ -4,6 +4,10 @@ name: "Little Spoon"
 source_url: "https://littlespoon.com"
 captured_at: "2026-09-28T04:24:16.544986+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Little Spoon's observed evidence points to a bright, food-forward identity built on
   a saturated teal (#00e3cd) paired with a warm cream canvas (#fbf7e8), suggesting an
@@ -172,6 +176,13 @@ The following breakpoint table is a **recommendation**, not a measurement of liv
 Touch targets should be a minimum of 44×44px for buttons, badges, and dot controls (the observed slick-dots use 1rem/20px hit areas, which should be enlarged for touch accessibility). Navigation is assumed to collapse into a hamburger/drawer pattern below the tablet breakpoint; this collapse behavior was not observed in the supplied evidence and should be confirmed against the live site.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

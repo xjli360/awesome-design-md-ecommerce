@@ -4,6 +4,10 @@ name: "ArtPhotoLimited"
 source_url: "https://www.artphotolimited.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Edition numbers float beneath photographs the way tombstone text appears beneath auction house listings — sparse, authoritative, and final. ArtPhotoLimited operates as a gallery-grade limited edition photography marketplace where the UI's primary job is to disappear: near-white canvases (#f8f7f5, #ffffff), near-black ink (#111111), and a single warm brass accent (#c4a35a) constitute nearly the entire chromatic vocabulary. That restraint is a deliberate claim about the work's primacy — the photograph must be the only thing that carries visual weight. Edition quantities (typically "5 of 25" or "Artist's Proof 2/5") are rendered in spaced uppercase caption type that mimics the pencil notation photographers make on traditional gelatin silver prints. Print sizes are merchandised like bespoke tailoring options — 20×16, 30×24, 40×30 — each with a corresponding price tier displayed in a quiet monospace or tabular-numerals variant so columns align cleanly. The add-to-cart surface uses a near-full-width dark CTA that anchors the product page without competing with the image above it. Navigation favors editorial categories ("Landscape", "Portrait", "Abstract", "Documentary") over conventional faceted filtering, which signals curation over catalog breadth. Artist profile pages read as condensed solo exhibition pamphlets: a brief biography paragraph, a looping grid of their available works, and a link to their CV or statement. Certificates of authenticity — a significant purchase-decision trigger at this price point — are previewed inline with a small facsimile document thumbnail. Typography across the system likely pairs a geometric or humanist sans-serif at large display sizes with a more neutral system serif for body reading. Spacing is generous to the point of austerity: wide margins, tall image containers, and section gaps that read like the silence between gallery rooms. All token refs below — {colors.accent-limited}, {rounded.none}, {spacing.section} — are design-system approximations derived from fine-art print retail conventions; see Known Gaps for extraction status.
 
@@ -358,6 +362,14 @@ components:
 - Artist profile block portrait and bio stack vertically at < 500px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

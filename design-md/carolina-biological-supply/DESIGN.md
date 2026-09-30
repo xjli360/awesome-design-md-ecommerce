@@ -4,6 +4,10 @@ name: "Carolina Biological Supply"
 source_url: "https://www.carolina.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Ninety-seven years of printed catalogs leave a mark — Carolina Biological Supply's digital presence carries the DNA of a supply-house catalog that science teachers have trusted since 1927: dense product grids, SKU-forward navigation, and an institutional blue that reads as credential rather than brand emotion. The primary hue sits in the medium-to-dark royal-blue register (#0066a4, estimated), a shade that signals academic authority and aligns visually with the kind of laminated binder covers found in every school stockroom. Where consumer brands layer photography and lifestyle aspiration, Carolina leans on structured taxonomy — phylum-level category trees, grade-band filters, and NGSS-alignment labels that are themselves a form of brand communication, telling the buyer that the company understands the curriculum as well as the specimen jar. Corners are conservative — modest radii of around 4–8px on cards and inputs, no pill-shapes in primary navigation. Call-to-action buttons carry a gold-amber contrast accent (#e07b00, estimated) against the blue primary, a pairing borrowed from the science-fair ribbon tradition that feels earned rather than arbitrary. Utility is the organizing principle: the homepage prioritizes the search bar above the fold, category tiles use high-contrast label overlays on photographic backgrounds of petri dishes and microscopes, and the product card leads with the catalog number before the product name — a habit from print that signals this site was built for purchasing agents and biology teachers with requisition forms in hand, not casual browsers. Type is system-stack sans-serif throughout, sized for scan-reading across wide product tables and long specification lists. The footer expands into a dense resource grid — teacher guides, safety data sheets, live-specimen care instructions — reinforcing that the brand's value proposition is expert support, not just supply logistics.
 
@@ -421,6 +425,13 @@ components:
 - Homepage category tile grid reflows: 3×2 desktop → 2×3 tablet → 1×6 mobile with reduced image height (landscape→square crop)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

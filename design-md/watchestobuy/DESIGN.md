@@ -4,6 +4,10 @@ name: "WatchesToBuy"
 source_url: "https://watchestobuy.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The near-black ground (#0B0B0B) functions the way a watchmaker's velvet tray does — it suppresses ambient distraction so the merchandise reads as the only light source in the room. WatchesToBuy navigates the collector space with a two-temperature palette: institutional deep navy (#003399) anchors every call-to-action and primary link, while brick terracotta (#914941) marks the human edge — the "Sell Your Watch" prompts, the Fair condition badge, the warm counterpoint to an otherwise cold authority. Amber-gold (#ffba00) appears exactly once per page zone as a decorative divider, keeping the watch-dial reference from becoming noise. Raleway carries the display register; its geometric cuts at modest weights (600–700) suit decade-browsing headlines like "1960s Swiss Dress Watches" without competing with the photography. Open Sans handles body and interface copy at 400 weight, legible at small sizes where listing specifications live. Poppins at 600 uppercase with +0.5px tracking handles buttons and badges — compact and readable on dark and light surfaces alike.
 
@@ -387,6 +391,13 @@ components:
 - Hero CTAs: stacked column on mobile; inline row at tablet+
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Bisley"
 source_url: "https://www.bisley.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Petrol-green filing cabinets finished in over 50,000 powder-coat colors ship from British factories, and the Bisley digital shell carries that color library into its UI through a warm parchment canvas (#eeece9 — the site's own meta theme-color) that flatters painted-steel photography without competing with it. Near-black ink (#1d1d1b) on parchment rather than pure white gives product tables and specification sheets a press-printed solidity, befitting a brand whose roots lie in post-war British civil service procurement. The deep petrol (#2e5b66) anchors primary actions and hover states — a color close enough to the product palette to feel material rather than UI-generic. A blue-teal family (#5b819f, #7ababb, #bce0da, #dee6ec) forms the cool-neutral layer for informational components and selected states, referencing the metalwork finishes Bisley polishes before shipping. FS Elliot sits at the top of the font stack: a humanist sans developed for UK public-sector legibility, a telling choice for a supplier whose cabinets fill NHS storage rooms and council archive halls. The typeface carries government-register clarity into long product configurators and multi-column specification tables without straining at small sizes. Warm surface neutrals (#f4f2f1, #edebe8, #e8e4e2) graduate the card and filter panel layers. Sage (#bccfa1, #465741) and blush (#f6e5de) surface as product colorway swatches rather than system chrome — the interface doubles as a physical finish browser. Error states spike to #d70f0f, visible on off-white without colliding with catalog reds. Corner radii stay at {rounded.xs} through {rounded.sm} across all functional elements, a precision restraint appropriate for a manufacturer whose tolerances are measured in millimeters.
 
@@ -383,6 +387,14 @@ components:
 - Hero content → image crops to 16:9 at mobile; title and subtitle stack vertically with reduced padding
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

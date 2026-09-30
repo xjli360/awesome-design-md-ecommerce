@@ -4,6 +4,10 @@ name: "AC Direct"
 source_url: "https://www.acdirect.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   One charcoal — #313131 — is the entire extracted signal from a site that sits behind anti-bot protection, yet that single tone tells the whole story: this is a spec-sheet brand where the product grid does the persuading and the UI stays out of the way. AC Direct sells cleanroom filtration, HVAC units, and industrial air-handling equipment direct to facilities managers, contractors, and engineers — a buyer who reads BTU ratings before brand names. The system-font stack (no custom typeface has been loaded or detected) reinforces that posture: no Cereal, no Canela, no Graphik — just `-apple-system` and Roboto doing their honest work at whatever weight the OS prefers. Because the extraction hit only Cloudflare's holding page, the palette below is reconstructed from industrial HVAC e-commerce convention rather than scraped pixels: a utility blue primary for CTAs and navigation, the confirmed charcoal as the ink anchor, and a close-to-white canvas that lets product photography and technical datasheets read cleanly. Rounded corners sit at `{rounded.xs}` to `{rounded.sm}` — no pill shapes, no expressive radii; corners are cut sharp the way duct flanges are. Spacing is generous in the product grid (breathing room between units and filter specs) and compact in the utility nav (part numbers, model search, account links). The overall register is closer to Grainger or McMaster-Carr than to a consumer appliance brand: dense information, reliable type hierarchy, and a single brand color doing the load-bearing CTA work across every add-to-cart, get-a-quote, and spec-download action on the page. Known color and typographic gaps are large; agents consuming this file should treat the inferred tokens as functional scaffolding, not extracted truth, and refresh from a live crawl when Cloudflare protection is lifted.
 
@@ -428,6 +432,14 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

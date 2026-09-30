@@ -4,6 +4,10 @@ name: "Zee.Dog"
 source_url: "https://zeedog.com"
 captured_at: "2026-09-28T04:46:27.983258+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Zee.Dog's storefront CSS exposes a neutral, product-forward palette dominated
   by whites, near-blacks, and a stepped gray scale (Tailwind-style gray-50
@@ -162,6 +166,12 @@ components:
 Recommended breakpoints (not measured): mobile `<640px`, tablet `640–1024px`, desktop `1024–1400px` (aligning with the observed `--breakpoint-xl: 1200px` and `--breakpoint-hd: 1400px` tokens), and wide `>1400px` bounded by `--container-max-inner-width-const: 1800px`. Navigation is expected to collapse from the full mega-menu into a slide-in drawer below tablet width, using the observed `.back-button`/`.close-button` pattern as the drawer's close affordance. Touch targets should be a minimum 44px height, matching the accelerated-checkout button's clamped block-size (`clamp(25px, 44px, 55px)`). This section is a recommendation derived from token values, not an observed layout.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

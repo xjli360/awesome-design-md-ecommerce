@@ -4,6 +4,10 @@ name: "Axel Arigato"
 source_url: "https://axelarigato.com"
 captured_at: "2026-09-28T04:16:13.962478+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Axel Arigato's storefront exposes a near-monochrome palette anchored by a soft
   black (#090909) rather than true #000000, paired with white canvases and a
@@ -198,6 +202,14 @@ or drawer pattern below tablet width; none of this collapse behavior was
 directly observed and is offered as a conventional recommendation only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS extraction and a title string, not

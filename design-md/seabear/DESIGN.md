@@ -4,6 +4,10 @@ name: "SeaBear"
 source_url: "https://seabear.com"
 captured_at: "2026-09-28T09:12:08.929566+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   SeaBear Smokehouse's observed CSS shows a Pacific Northwest smokehouse
   identity built on deep teal-navy (#134055, #0c2f40) as the primary action
@@ -167,6 +171,13 @@ This is a proposed recommendation, not measured site behavior; no media queries 
 Touch targets for buttons and variant selectors should be a minimum 44px tall, consistent with the `.shopify-payment-button__button` min-height clamp seen in the accelerated-checkout CSS. Collapse of secondary nav items into a menu drawer below `tablet` is recommended but unverified.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

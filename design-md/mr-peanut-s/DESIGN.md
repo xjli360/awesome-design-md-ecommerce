@@ -4,6 +4,10 @@ name: "Mr. Peanut's"
 source_url: "https://mrpeanutspetcarriers.com"
 captured_at: "2026-09-28T09:36:45.869668+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Mr. Peanut's is a pet-carrier and travel-gear storefront built on a deep teal
   and warm neutral palette. The observed CSS root variables name a deep teal
@@ -171,6 +175,13 @@ The theme settings string `small=0em&medium=48em&large=66.75em&xlarge=75em` was 
 This is a **recommendation**, not measured site behavior. Suggested guidance: stack nav and hero content below `medium`; collapse the multi-column footer to an accordion below `medium`; switch product grids from 2-column to 3–4 column at `large`. Touch targets for buttons and nav items should maintain a minimum 44×44px hit area on mobile, consistent with the padding scale defined above, though this was not verified against live markup.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

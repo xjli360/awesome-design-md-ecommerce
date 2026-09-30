@@ -52,8 +52,8 @@
         "https://www.akaipro.com/"
       ]
     },
-    "#0d0d0d": {
-      "count": 20,
+    "#000000": {
+      "count": 4,
       "sources": [
         "https://www.akaipro.com/"
       ]
@@ -64,8 +64,14 @@
         "https://www.akaipro.com/"
       ]
     },
-    "#000000": {
-      "count": 4,
+    "#0d0d0d": {
+      "count": 20,
+      "sources": [
+        "https://www.akaipro.com/"
+      ]
+    },
+    "#eaeaea": {
+      "count": 1,
       "sources": [
         "https://www.akaipro.com/"
       ]
@@ -78,18 +84,6 @@
     },
     "#dddddd": {
       "count": 4,
-      "sources": [
-        "https://www.akaipro.com/"
-      ]
-    },
-    "#c2c2c2": {
-      "count": 2,
-      "sources": [
-        "https://www.akaipro.com/"
-      ]
-    },
-    "#eaeaea": {
-      "count": 1,
       "sources": [
         "https://www.akaipro.com/"
       ]
@@ -111,53 +105,34 @@
       "sources": [
         "https://www.akaipro.com/"
       ]
+    },
+    "#c2c2c2": {
+      "count": 2,
+      "sources": [
+        "https://www.akaipro.com/"
+      ]
     }
   },
   "font_families": {
-    "Arial": [
+    "alternate-gothic-compressed": [
       "https://www.akaipro.com/"
     ],
-    "Helvetica": [
+    "sans-serif": [
       "https://www.akaipro.com/"
     ],
     "Inter": [
-      "https://www.akaipro.com/",
-      "https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
-    ],
-    "alternate-gothic-atf": [
-      "https://www.akaipro.com/",
-      "https://use.typekit.net/yxf5ztq.css"
-    ],
-    "alternate-gothic-atf-thin": [
-      "https://use.typekit.net/yxf5ztq.css"
-    ],
-    "alternate-gothic-compressed": [
-      "https://www.akaipro.com/",
-      "https://use.typekit.net/yxf5ztq.css",
-      "https://use.typekit.net/tsr1eqb.css"
-    ],
-    "georgiapro-condensed": [
-      "https://use.typekit.net/tsr1eqb.css"
-    ],
-    "kallisto": [
-      "https://use.typekit.net/jjb1vcy.css"
-    ],
-    "sans-serif": [
-      "https://www.akaipro.com/",
-      "https://use.typekit.net/jjb1vcy.css",
-      "https://use.typekit.net/yxf5ztq.css",
-      "https://use.typekit.net/tsr1eqb.css"
-    ],
-    "slick": [
-      "https://www.akaipro.com/"
-    ],
-    "univers-next-pro-compressed": [
       "https://www.akaipro.com/"
     ],
     "univers-next-pro-condensed": [
       "https://www.akaipro.com/"
     ],
-    "univers-next-pro-extended": [
+    "alternate-gothic-atf": [
+      "https://www.akaipro.com/"
+    ],
+    "Arial": [
+      "https://www.akaipro.com/"
+    ],
+    "Helvetica": [
       "https://www.akaipro.com/"
     ]
   },
@@ -294,10 +269,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Music Production Hardware & Software | Akai Professional",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-200",
   "tokens": {
     "colors.primary": {
+      "value": "#c20439",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -305,6 +281,7 @@
       ]
     },
     "colors.ink": {
+      "value": "#0d0d0d",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -312,6 +289,7 @@
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -319,6 +297,7 @@
       ]
     },
     "colors.body": {
+      "value": "#555555",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -326,6 +305,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#c2c2c2",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -333,6 +313,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#dddddd",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -340,6 +321,7 @@
       ]
     },
     "colors.divider-soft": {
+      "value": "#dbdbdb",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -347,6 +329,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#eeeeee",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -354,6 +337,7 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#eaeaea",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -361,6 +345,7 @@
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -368,6 +353,7 @@
       ]
     },
     "colors.overlay-black": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -375,6 +361,7 @@
       ]
     },
     "colors.link": {
+      "value": "#337ab7",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -382,110 +369,401 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "alternate-gothic-compressed, sans-serif",
+        "fontSize": "64px",
+        "fontWeight": 600,
+        "lineHeight": 1.05,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "alternate-gothic-compressed, sans-serif",
+        "fontSize": "40px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "univers-next-pro-condensed, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "Inter, Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Inter, Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Inter, Arial, Helvetica, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "alternate-gothic-atf, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.0,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "border": "1px solid {colors.canvas}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.divider-soft}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.overlay-black}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "hairline": "{colors.divider-soft}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.carousel": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "dotInactiveColor": "{colors.overlay-black}",
+        "dotActiveColor": "{colors.overlay-black}",
+        "dotOpacityInactive": 0.25,
+        "dotOpacityActive": 0.75,
+        "padding": "{spacing.base}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ".slick-loading .slick-list",
+        "property": "background",
+        "declaration": "#fff url(data:image/gif;base64,R0lGODlhIAAgAPUAAP///wAAAPr6+sTExOjo6PDw8NDQ0H5+fpqamvb29ubm5vz8/JKSkoaGhuLi4ri4uKCgoOzs7K6urtzc3D4+PlZWVmBgYHx8fKioqO7u7kpKSmxsbAwMDAAAAM7OzsjIyNjY2CwsLF5eXh4eHkxMTLCwsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH+GkNyZWF0ZWQgd2l0aCBhamF4bG9hZC5pbmZvACH5BAAKAAAAIf8LTkVUU0NBUEUyLjADAQAAACwAAAAAIAAgAAAG/0CAcEgkFjgcR3HJJE4SxEGnMygKmkwJxRKdVocFBRRLfFAoj6GUOhQoFAVysULRjNdfQFghLxrODEJ4Qm5ifUUXZwQAgwBvEXIGBkUEZxuMXgAJb1dECWMABAcHDEpDEGcTBQMDBQtvcW0RbwuECKMHELEJF5NFCxm1AAt7cH4NuAOdcsURy0QCD7gYfcWgTQUQB6Zkr66HoeDCSwIF5ucFz3IC7O0CC6zx8YuHhW/3CvLyfPX4+OXozKnDssBdu3G/xIHTpGAgOUPrZimAJCfDPYfDin2TQ+xeBnWbHi37SC4YIYkQhdy7FvLdpwWvjA0JyU/ISyIx4xS6sgfkNS4me2rtVKkgw0JCb8YMZdjwqMQ2nIY8BbcUQNVCP7G4MQq1KRivR7tiDEuEFrggACH5BAAKAAEALAAAAAAgACAAAAb/QIBwSCQmNBpCcckkEgREA4ViKA6azM8BEZ1Wh6LOBls0HA5fgJQ6HHQ6InKRcWhA1d5hqMMpyIkOZw9Ca18Qbwd/RRhnfoUABRwdI3IESkQFZxB4bAdvV0YJQwkDAx9+bWcECQYGCQ5vFEQCEQoKC0ILHqUDBncCGA5LBiHCAAsFtgqoQwS8Aw64f8m2EXdFCxO8INPKomQCBgPMWAvL0n/ff+jYAu7vAuxy8O/myvfX8/f7/Arq+v0W0HMnr9zAeE0KJlQkJIGCfE0E+PtDq9qfDMogDkGmrIBCbNQUZIDosNq1kUsEZJBW0dY/b0ZsLViQIMFMW+RKKgjFzp4fNokPIdki+Y8JNVxA79jKwHAI0G9JGw5tCqDWTiFRhVhtmhVA16cMJTJ1OnVIMo1cy1KVI5NhEAAh+QQACgACACwAAAAAIAAgAAAG/0CAcEgkChqNQnHJJCYWRMfh4CgamkzFwBOdVocNCgNbJAwGhKGUOjRQKA1y8XOGAtZfgIWiSciJBWcTQnhCD28Qf0UgZwJ3XgAJGhQVcgKORmdXhRBvV0QMY0ILCgoRmIRnCQIODgIEbxtEJSMdHZ8AGaUKBXYLIEpFExZpAG62HRRFArsKfn8FIsgjiUwJu8FkJLYcB9lMCwUKqFgGHSJ5cnZ/uEULl/CX63/x8KTNu+RkzPj9zc/0/Cl4V0/APDIE6x0csrBJwybX9DFhBhCLgAilIvzRVUriKHGlev0JtyuDvmsZUZlcIiCDnYu7KsZ0UmrBggRP7n1DqcDJEzciOgHwcwTyZEUmIKEMFVIqgyIjpZ4tjdTxqRCMPYVMBYDV6tavUZ8yczpkKwBxHsVWtaqo5tMgACH5BAAKAAMALAAAAAAgACAAAAb/QIBwSCQuBgNBcck0FgvIQtHRZCYUGSJ0IB2WDo9qUaBQKIXbLsBxOJTExUh5mB4iDo0zXEhWJNBRQgZtA3tPZQsAdQINBwxwAnpCC2VSdQNtVEQSEkOUChGSVwoLCwUFpm0QRAMVFBQTQxllCqh0kkIECF0TG68UG2O0foYJDb8VYVa0alUXrxoQf1WmZnsTFA0EhgCJhrFMC5Hjkd57W0jpDsPDuFUDHfHyHRzstNN78PPxHOLk5dwcpBuoaYk5OAfhXHG3hAy+KgLkgNozqwzDbgWYJQyXsUwGXKNA6fnYMIO3iPeIpBwyqlSCBKUqEQk5E6YRmX2UdAT5kEnHKkQ5hXjkNqTPtKAARl1sIrGoxSFNuSEFMNWoVCxEpiqyRlQY165wEHELAgAh+QQACgAEACwAAAAAIAAgAAAG/0CAcEgsKhSLonJJTBIFR0GxwFwmFJlnlAgaTKpFqEIqFJMBhcEABC5GjkPz0KN2tsvHBH4sJKgdd1NHSXILah9tAmdCC0dUcg5qVEQfiIxHEYtXSACKnWoGXAwHBwRDGUcKBXYFi0IJHmQEEKQHEGGpCnp3AiW1DKFWqZNgGKQNA65FCwV8bQQHJcRtds9MC4rZitVgCQbf4AYEubnKTAYU6eoUGuSpu3fo6+ka2NrbgQAE4eCmS9xVAOW7Yq7IgA4Hpi0R8EZBhDshOnTgcOtfM0cAlTigILFDiAFFNjk8k0GZgAxOBozouIHIOyKbFixIkECmIyIHOEiEWbPJTTQ5FxcVOMCgzUVCWwAcyZJvzy45ADYVZNIwTlIAVfNB7XRVDLxEWLQ4E9JsKq+rTdsMyhcEACH5BAAKAAUALAAAAAAgACAAAAb/QIBwSCwqFIuicklMEgVHQVHKVCYUmWeUWFAkqtOtEKqgAsgFcDFyHJLNmbZa6x2Lyd8595h8C48RagJmQgtHaX5XZUYKQ4YKEYSKfVKPaUMZHwMDeQBxh04ABYSFGU4JBpsDBmFHdXMLIKofBEyKCpdgspsOoUsLXaRLCQMgwky+YJ1FC4POg8lVAg7U1Q5drtnHSw4H3t8HDdnZy2Dd4N4Nzc/QeqLW1bnM7rXuV9tEBhQQ5UoCbJDmWKBAQcMDZNhwRVNCYANBChZYEbkVCZOwASEcCDFQ4SEDIq6WTVqQIMECBx06iCACQQPBiSabHDqzRUTKARMhSFCDrc+WNQIcOoRw5+ZIHj8ADqSEQBQAwKKLhIzowEEeGKQ0owIYkPKjHihZoBKi0KFE01b4zg7h4y4IACH5BAAKAAYALAAAAAAgACAAAAb/QIBwSCwqFIuicklMEgVHQVHKVCYUmWeUWFAkqtOtEKqgAsgFcDFyHJLNmbZa6x2Lyd8595h8C48RagJmQgtHaX5XZUUJeQCGChGEin1SkGlubEhDcYdOAAWEhRlOC12HYUd1eqeRokOKCphgrY5MpotqhgWfunqPt4PCg71gpgXIyWSqqq9MBQPR0tHMzM5L0NPSC8PCxVUCyeLX38+/AFfXRA4HA+pjmoFqCAcHDQa3rbxzBRD1BwgcMFIlidMrAxYICHHA4N8DIqpsUWJ3wAEBChQaEBnQoB6RRr0uARjQocMAAA0w4nMz4IOaU0lImkSngYKFc3ZWyTwJAALGK4fnNA3ZOaQCBQ22wPgRQlSIAYwSfkHJMrQkTyEbKFzFydQq15ccOAjUEwQAIfkEAAoABwAsAAAAACAAIAAABv9AgHBILCoUi6JySUwSBUdBUcpUJhSZZ5RYUCSq060QqqACyAVwMXIcks2ZtlrrHYvJ3zn3mHwLjxFqAmZCC0dpfldlRQl5AIYKEYSKfVKQaW5sSENxh04ABYSFGU4LXYdhR3V6p5GiQ4oKmGCtjkymi2qGBZ+6eo+3g8KDvYLDxKrJuXNkys6qr0zNygvHxL/V1sVD29K/AFfRRQUDDt1PmoFqHgPtBLetvMwG7QMes0KxkkIFIQNKDhBgKvCh3gQiqmxt6NDBAAEIEAgUOHCgBBEH9Yg06uWAIQUABihQMACgBEUHTRwoUEOBIcqQI880OIDgm5ABDA8IgUkSwAAyij1/jejAARPPIQwONBCnBAJDCEOOCnFA8cOvEh1CEJEqBMIBEDaLcA3LJIEGDe/0BAEAIfkEAAoACAAsAAAAACAAIAAABv9AgHBILCoUi6JySUwSBUdBUcpUJhSZZ5RYUCSq060QqqACyAVwMXIcks2ZtlrrHYvJ3zn3mHwLjxFqAmZCC0dpfldlRQl5AIYKEYSKfVKQaW5sSENxh04ABYSFGU4LXYdhR3V6p5GiQ4oKmGCtjkymi2qGBZ+6eo+3g8KDvYLDxKrJuXNkys6qr0zNygvHxL/V1sVDDti/BQccA8yrYBAjHR0jc53LRQYU6R0UBnO4RxmiG/IjJUIJFuoVKeCBigBN5QCk43BgFgMKFCYUGDAgFEUQRGIRYbCh2xACEDcAcHDgQDcQFGf9s7VkA0QCI0t2W0DRw68h8ChAEELSJE8xijBvVqCgIU9PjwA+UNzG5AHEB9xkDpk4QMGvARQsEDlKxMCALDeLcA0rqEEDlWCCAAAh+QQACgAJACwAAAAAIAAgAAAG/0CAcEgsKhSLonJJTBIFR0FRylQmFJlnlFhQJKrTrRCqoALIBXAxchySzZm2Wusdi8nfOfeYfAuPEWoCZkILR2l+V2VFCXkAhgoRhIp9UpBpbmxIQ3GHTgAFhIUZTgtdh2FHdXqnkaJDigqYYK2OTKaLaoYFn7p6j0wOA8PEAw6/Z4PKUhwdzs8dEL9kqqrN0M7SetTVCsLFw8d6C8vKvUQEv+dVCRAaBnNQtkwPFRQUFXOduUoTG/cUNkyYg+tIBlEMAFYYMAaBuCekxmhaJeSeBgiOHhw4QECAAwcCLhGJRUQCg3RDCmyUVmBYmlOiGqmBsPGlyz9YkAlxsJEhqCubABS9AsPgQAMqLQfM0oTMwEZ4QpLOwvMLxAEEXIBG5aczqtaut4YNXRIEACH5BAAKAAoALAAAAAAgACAAAAb/QIBwSCwqFIuicklMEgVHQVHKVCYUmWeUWFAkqtOtEKqgAsgFcDFyHJLNmbZa6x2Lyd8595h8C48RahAQRQtHaX5XZUUJeQAGHR0jA0SKfVKGCmlubEhCBSGRHSQOQwVmQwsZTgtdh0UQHKIHm2quChGophuiJHO3jkwOFB2UaoYFTnMGegDKRQQG0tMGBM1nAtnaABoU3t8UD81kR+UK3eDe4nrk5grR1NLWegva9s9czfhVAgMNpWqgBGNigMGBAwzmxBGjhACEgwcgzAPTqlwGXQ8gMgAhZIGHWm5WjelUZ8jBBgPMTBgwIMGCRgsygVSkgMiHByD7DWDmx5WuMkZqDLCU4gfAq2sACrAEWFSRLjUfWDopCqDTNQIsJ1LF0yzDAA90UHV5eo0qUjB8mgUBACH5BAAKAAsALAAAAAAgACAAAAb/QIBwSCwqFIuickk0FIiCo6A4ZSoZnRBUSiwoEtYipNOBDKOKKgD9DBNHHU4brc4c3cUBeSOk949geEQUZA5rXABHEW4PD0UOZBSHaQAJiEMJgQATFBQVBkQHZKACUwtHbX0RR0mVFp0UFwRCBSQDSgsZrQteqEUPGrAQmmG9ChFqRAkMsBd4xsRLBBsUoG6nBa14E4IA2kUFDuLjDql4peilAA0H7e4H1udH8/Ps7+3xbmj0qOTj5mEWpEP3DUq3glYWOBgAcEmUaNI+DBjwAY+dS0USGJg4wABEXMYyJNvE8UOGISKVCNClah4xjg60WUKyINOCUwrMzVRARMGENWQ4n/jpNTKTm15J/CTK2e0MoD+UKmHEs4onVDVVmyqdpAbNR4cKTjqNSots07EjzzJh1S0IADsAAAAAAAAAAAA=) 50% no-repeat",
+        "url": "https://www.akaipro.com/",
+        "snapshot": "homepage.html",
+        "sha256": "0a1ecd3c9f2c64c6f1fe5becca3255b1972348a5e70bfa6d34e14b883886d17c"
+      },
+      "#000000": {
+        "selector": ".slick-dots li button:before",
+        "property": "color",
+        "declaration": "#000",
+        "url": "https://www.akaipro.com/",
+        "snapshot": "homepage.html",
+        "sha256": "0a1ecd3c9f2c64c6f1fe5becca3255b1972348a5e70bfa6d34e14b883886d17c"
+      },
+      "#c20439": {
+        "selector": ".td-primary",
+        "property": "text-decoration-color",
+        "declaration": "#c20439",
+        "url": "https://www.akaipro.com/",
+        "snapshot": "homepage.html",
+        "sha256": "0a1ecd3c9f2c64c6f1fe5becca3255b1972348a5e70bfa6d34e14b883886d17c"
+      },
+      "#0d0d0d": {
+        "selector": ".black,.black:hover",
+        "property": "color",
+        "declaration": "#0d0d0d",
+        "url": "https://www.akaipro.com/",
+        "snapshot": "homepage.html",
+        "sha256": "0a1ecd3c9f2c64c6f1fe5becca3255b1972348a5e70bfa6d34e14b883886d17c"
+      },
+      "#eaeaea": {
+        "selector": ".h-bg-gray:hover",
+        "property": "background",
+        "declaration": "#eaeaea",
+        "url": "https://www.akaipro.com/",
+        "snapshot": "homepage.html",
+        "sha256": "0a1ecd3c9f2c64c6f1fe5becca3255b1972348a5e70bfa6d34e14b883886d17c"
+      },
+      "#eeeeee": {
+        "selector": ".more:before",
+        "property": "background",
+        "declaration": "linear-gradient(90deg,hsla(0,0%,93%,0),#eee 50%)",
+        "url": "https://www.akaipro.com/",
+        "snapshot": "homepage.html",
+        "sha256": "0a1ecd3c9f2c64c6f1fe5becca3255b1972348a5e70bfa6d34e14b883886d17c"
+      },
+      "#dddddd": {
+        "selector": "#dealers-page .oma-omacro .oma-buynow .oma-dialog .oma-content .oma-tabs",
+        "property": "border-bottom-color",
+        "declaration": "#ddd",
+        "url": "https://www.akaipro.com/",
+        "snapshot": "homepage.html",
+        "sha256": "0a1ecd3c9f2c64c6f1fe5becca3255b1972348a5e70bfa6d34e14b883886d17c"
+      },
+      "#337ab7": {
+        "selector": "#dealers-page .oma-omacro .oma-buynow .oma-dialog .oma-content .oma-tabs>li>a",
+        "property": "color",
+        "declaration": "#337ab7",
+        "url": "https://www.akaipro.com/",
+        "snapshot": "homepage.html",
+        "sha256": "0a1ecd3c9f2c64c6f1fe5becca3255b1972348a5e70bfa6d34e14b883886d17c"
+      },
+      "#555555": {
+        "selector": "#dealers-page .oma-omacro .oma-buynow .oma-dialog .oma-content .oma-tabs>li.oma-active>a,#dealers-page .oma-omacro .oma-buynow .oma-dialog .oma-content .oma-tabs>li.oma-active>a:focus,#dealers-page .oma-omacro .oma-buynow .oma-dialog .oma-content .oma-tabs>li.oma-active>a:hover",
+        "property": "color",
+        "declaration": "#555",
+        "url": "https://www.akaipro.com/",
+        "snapshot": "homepage.html",
+        "sha256": "0a1ecd3c9f2c64c6f1fe5becca3255b1972348a5e70bfa6d34e14b883886d17c"
+      },
+      "#dbdbdb": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#DBDBDB",
+        "url": "https://www.akaipro.com/",
+        "snapshot": "homepage.html",
+        "sha256": "0a1ecd3c9f2c64c6f1fe5becca3255b1972348a5e70bfa6d34e14b883886d17c"
+      },
+      "#c2c2c2": {
+        "selector": ".css-1a7t596",
+        "property": "background-color",
+        "declaration": "#C2C2C2",
+        "url": "https://www.akaipro.com/",
+        "snapshot": "homepage.html",
+        "sha256": "0a1ecd3c9f2c64c6f1fe5becca3255b1972348a5e70bfa6d34e14b883886d17c"
+      }
+    },
+    "font_families": {
+      "alternate-gothic-compressed": {
+        "selector": ".h1,.h1 p,h1,h1 p",
+        "property": "font-family",
+        "declaration": "alternate-gothic-compressed,sans-serif",
+        "url": "https://www.akaipro.com/",
+        "snapshot": "homepage.html",
+        "sha256": "0a1ecd3c9f2c64c6f1fe5becca3255b1972348a5e70bfa6d34e14b883886d17c"
+      },
+      "sans-serif": {
+        "selector": ".h1,.h1 p,h1,h1 p",
+        "property": "font-family",
+        "declaration": "alternate-gothic-compressed,sans-serif",
+        "url": "https://www.akaipro.com/",
+        "snapshot": "homepage.html",
+        "sha256": "0a1ecd3c9f2c64c6f1fe5becca3255b1972348a5e70bfa6d34e14b883886d17c"
+      },
+      "Inter": {
+        "selector": ".p,p",
+        "property": "font-family",
+        "declaration": "Inter,sans-serif",
+        "url": "https://www.akaipro.com/",
+        "snapshot": "homepage.html",
+        "sha256": "0a1ecd3c9f2c64c6f1fe5becca3255b1972348a5e70bfa6d34e14b883886d17c"
+      },
+      "univers-next-pro-condensed": {
+        "selector": ".unp-condensed",
+        "property": "font-family",
+        "declaration": "univers-next-pro-condensed,sans-serif",
+        "url": "https://www.akaipro.com/",
+        "snapshot": "homepage.html",
+        "sha256": "0a1ecd3c9f2c64c6f1fe5becca3255b1972348a5e70bfa6d34e14b883886d17c"
+      },
+      "alternate-gothic-atf": {
+        "selector": ".f-tertiary",
+        "property": "font-family",
+        "declaration": "alternate-gothic-atf,sans-serif",
+        "url": "https://www.akaipro.com/",
+        "snapshot": "homepage.html",
+        "sha256": "0a1ecd3c9f2c64c6f1fe5becca3255b1972348a5e70bfa6d34e14b883886d17c"
+      },
+      "Arial": {
+        "selector": ".debug:before",
+        "property": "font-family",
+        "declaration": "Arial,Helvetica,sans-serif",
+        "url": "https://www.akaipro.com/",
+        "snapshot": "homepage.html",
+        "sha256": "0a1ecd3c9f2c64c6f1fe5becca3255b1972348a5e70bfa6d34e14b883886d17c"
+      },
+      "Helvetica": {
+        "selector": ".debug:before",
+        "property": "font-family",
+        "declaration": "Arial,Helvetica,sans-serif",
+        "url": "https://www.akaipro.com/",
+        "snapshot": "homepage.html",
+        "sha256": "0a1ecd3c9f2c64c6f1fe5becca3255b1972348a5e70bfa6d34e14b883886d17c"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

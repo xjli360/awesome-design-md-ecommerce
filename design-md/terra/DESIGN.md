@@ -4,6 +4,10 @@ name: "Terra"
 source_url: "https://terra.co.nz"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A New Zealand baby-care brand that paints its digital canvas in a warm, earthy palette anchored by the deep teal of #108474 — a primary that reads as clean water and native bush rather than the pastel pink or powder blue typical of the category. That teal is the brand's single voltage: it fills the primary button, the cart badge, the newsletter signup bar, and the floating "add to bag" orb. Against a backdrop of #eeeeee and #f9fafb surfaces, the accent system introduces two distinct energies — a marigold #fed716 for sale badges and promotional highlights, and a terracotta #de3813 for error states and urgent calls like "low stock" warnings. Typography runs Figtree at moderate weights (400–600), with display headlines at 24px weight 600 and body copy at 15px weight 400, creating a calm, readable hierarchy that never shouts. The product grid uses softly rounded cards (`{rounded.md}` ~12px) with generous padding (`{spacing.lg}` 24px) and a subtle hairline (`{colors.hairline}` #dedede) that separates items without visual noise. Every interactive element — from the pill-shaped search bar to the circular "add to cart" button — carries `{rounded.full}` treatment, reinforcing a brand ethos that is gentle, approachable, and distinctly Aotearoa.
 
@@ -558,6 +562,13 @@ components:
 - Review cards: Side-by-side layout on desktop collapses to single column on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

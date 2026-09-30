@@ -4,6 +4,10 @@ name: "Ego Power Plus"
 source_url: "https://egopowerplus.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Voltage-green (#77bc21) slashes across a charcoal field like a fresh-cut lawn stripe — that single high-chroma accent does all the heavy lifting on a site built to sell batteries as a lifestyle rather than mowers as appliances. Every hero module drops product photography onto near-black or deep-gray backdrops, letting the lime-green chassis paint and matching UI elements vibrate at full saturation; white canvas (#fefefe) appears only when the page shifts to spec tables, comparison grids, and support content, producing a cinematic-to-clinical rhythm that mirrors the brand's pitch: power-tool intensity, zero emissions. A hot orange (#ff772a) fires on promotional badges, sale callouts, and limited-time CTAs — it never competes with the green for primary status but adds urgency the way a low-battery icon would. Typography runs a clean system sans-serif stack at sturdy weights; display headlines land around 36–48px / weight 700 in uppercase or sentence-case depending on campaign, while body copy stays 16px / 400 for spec-dense product pages that must remain scannable. Corner radii are restrained — buttons sit at `{rounded.xs}` (4px), cards at `{rounded.sm}` (8px), and nothing reaches pill territory except filter chips and the occasional promotional badge. The navigation bar is dark (#3c3936) with white type and green hover accents, grounding every page in the brand's industrial palette before the hero even loads. Product cards use a white `{colors.surface-card}` background with generous `{spacing.lg}` padding and a single hairline border, foregrounding the product image at roughly 70% of card height. Comparison modules — a signature UX pattern — stack three to four products side-by-side in a scrollable table with sticky headers, alternating `{colors.surface-soft}` and `{colors.canvas}` row fills for legibility. The overall system reads as engineered and high-contrast: dark nav, vivid green primary, orange for scarcity, white for data, and enough negative space that battery specs never feel claustrophobic.
 
@@ -469,6 +473,13 @@ components:
 - Product card badges reposition from top-left overlay to above the image on very narrow viewports (< 375px)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

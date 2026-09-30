@@ -4,6 +4,10 @@ name: "Palm Beach Autographs"
 source_url: "https://palmbeachautographs.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The first visual fact is amber against black — #fca000 punching out of a #121212 field the way a spotlight hits a jersey in a trophy case. Palm Beach Autographs stages signed memorabilia on a dark canvas that signals vault weight rather than storefront brightness, and every design decision downstream flows from that framing choice. Alternate Gothic No. 1 D compresses headline names into the same tight column-width that sports publishing has used for press credentials and program covers since the offset-printing era; stacked in all-caps at display sizes, a player's name achieves the same visual authority on screen as on a stadium banner. For moments demanding even more spectral density, Prohibition steps in with its ink-heavy condensed geometry. The everyday interface — navigation links, body copy, input labels, filter text — runs in Assistant, a geometric sans that disappears into the chrome and keeps attention on the merchandise.
 
@@ -407,6 +411,13 @@ components:
 - Hero vertical rule accent hidden below tablet breakpoint to reduce chrome
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

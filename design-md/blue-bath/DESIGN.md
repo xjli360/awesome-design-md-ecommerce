@@ -4,6 +4,10 @@ name: "Blue Bath"
 source_url: "https://bluebath.com"
 captured_at: "2026-09-29T04:07:14.896177+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Blue Bath is a Los Angeles–based e-commerce retailer of kitchen and bathroom
   fixtures — farmhouse sinks, faucets, freestanding tubs, vanities, and
@@ -184,6 +188,14 @@ components:
 This table is a proposed recommendation based on typical catalog-retailer patterns and is **not** measured from live site behavior, which was not observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

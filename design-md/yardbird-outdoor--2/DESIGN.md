@@ -4,6 +4,10 @@ name: "Yardbird"
 source_url: "https://yardbird.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Poolside teal (#7bc7c7) washes across every call-to-action and collection header like sunlight refracted through shallow water — an immediate signal that this is a brand built around the outdoor moment, not the showroom. Yardbird's digital presence runs on Montserrat in light-to-medium weights, keeping headlines at 600 weight and body copy at 400, which lends an architectural clarity that mirrors the clean geometry of their modular sofa frames. The palette extends through a gradient of ocean blues — steel (#7396a2), deep water (#5487a0), bright sky (#53b8d4) — layered against an extremely neutral gray system (#f3f3f3 to #f7f7f7 surfaces, #dedede hairlines) that never competes with large-format lifestyle photography. Dark text anchors at #121212 for headlines and #4d4d4d for body, with secondary text in #656565 providing comfortable reading contrast on those pale surfaces. Cards sit on pure white with generous `{spacing.lg}` padding and soft `{rounded.sm}` corners — enough softness to feel residential rather than commercial, but squared enough to communicate structural permanence. The frost-blue surface tone (#d8edf5) appears as a promotional banner backdrop and collection feature highlight, bridging the gap between the teal primaries and the neutral canvas. Navigation is minimal and wide-set, trusting the photography grid to do the selling. Product configuration tools — the heart of Yardbird's modular pitch — get the deepest interaction treatment: toggles and selectors carry `{rounded.full}` pill shapes in the primary teal, while material swatches sit in tight `{spacing.sm}` grids. The overall system reads as coastal-modern with zero ornamentation: no gradients, no shadows deeper than 4px blur, no texture overlays. Everything defers to the furniture itself.
 
@@ -439,6 +443,13 @@ components:
 - Search transitions from an inline expandable input to a full-screen overlay on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

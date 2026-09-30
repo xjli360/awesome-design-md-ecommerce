@@ -4,6 +4,10 @@ name: "Geologie"
 source_url: "https://geologie.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep teal #108474 anchors every primary CTA, subscription toggle, and product badge, while a marigold #fbcd0a appears sparingly as a second brand voltage — often on sale tags or limited-edition callouts — creating a confident, clinical-meets-warm palette that feels more like a precision skincare lab than a men's grooming brand. The canvas is near-white #f9fafb with card surfaces at #ffffff, and the ink #131416 is almost black, giving body text a sharp, no-nonsense readability. Buttons and inputs use {rounded.sm} (8px) — a subtle softening that keeps the interface approachable without sacrificing the clinical edge. The top navigation is a fixed white bar with the teal logo mark, and product cards stack on a soft #f9f9f9 background with {rounded.md} corners. The brand trusts its teal as the single signal for interactivity: every "Add to Cart," "Subscribe," and "Take the Quiz" CTA is filled #108474 with white text, and the hover state deepens to #088f87. The marigold accent is never used on primary actions — it's reserved for price drops, bundle savings, and the star-rating system, a deliberate restraint that keeps the teal from feeling cold. The overall mood is that of a dermatologist's office that happens to sell direct: clean, bright, and quietly authoritative, with no visual noise beyond the product photography and the occasional badge.
 
@@ -287,6 +291,13 @@ components:
 - Quiz CTA becomes sticky bottom bar on mobile (fixed position)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

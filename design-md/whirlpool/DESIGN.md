@@ -4,6 +4,10 @@ name: "Whirlpool"
 source_url: "https://www.whirlpool.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every primary CTA, logo lockup, and navigation anchor in Whirlpool's digital presence runs from the same deep navy well — a saturated #003087 blue that functions as a single load-bearing color, carrying trust signals across product filters, service CTAs, and promotional banners without any secondary hue needing to shoulder the weight. The canvas beneath is pure white, making high-resolution appliance photography the actual texture of the UI: front-load washers, top-mount dryers, and refrigerators shot on seamless white become indistinguishable from the surface they sit on, collapsing the boundary between editorial and product. Navigation is category-first — Washers, Dryers, Refrigerators, Dishwashers each claim a top-level node — and the comparison architecture is unusually prominent for a consumer brand, with sticky side-by-side rails that treat spec sheets as primary content rather than PDF downloads. Type runs in a clean geometric sans-serif at restrained weights; display sits around 32–36px at weight 700 for heroes, then drops sharply to 14–16px body copy, creating a two-tier rhythm with almost nothing in between. Button radii are modest (`{rounded.sm}`) — not pill-shaped, not square — landing at the pragmatic middle of a brand that prizes utility over charm. Promotional badges use a #e31837 alert red that appears only in sale contexts, functioning as a pure attention signal rather than a brand expression. The overall system reads as a confident, mid-century American manufacturer that has translated its physical reliability into a UI language: no gradient, no illustration, no dark-mode toggle — just navy, white, appliance chrome, and a grid that trusts the product to do the work.
 
@@ -420,6 +424,13 @@ components:
 - Sale banner remains full-width at all breakpoints but reduces to 2 lines max with ellipsis truncation
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

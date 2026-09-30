@@ -4,6 +4,10 @@ name: "Instant Pot"
 source_url: "https://www.instantpot.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   That deep cocoa-bean brown (#331612) is the first thing that registers — darker than espresso, warmer than black, it coats the navigation bar and primary CTAs like the fond at the bottom of a sauté pan. Instant Pot's digital presence borrows its confidence from the kitchen counter, not the electronics aisle, and the choice of Filson Soft as the primary typeface seals the deal: every letterform carries a soft, pillowed radius that mirrors the rounded silhouette of the pressure cooker itself. Headlines land at weight 700 in that font, but the generous x-height and rounded terminals keep even bold display text (`{typography.display-xl}`) from ever reading as aggressive. Body copy shifts to Geologica Variable, a geometric sans with optical-size intelligence — crisp at 14px captions, open and readable at 16px paragraphs — while Smoothy appears sparingly for promotional callouts and seasonal badge text, injecting a hand-lettered warmth that feels like a recipe note scribbled in the margin.
 
@@ -445,6 +449,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

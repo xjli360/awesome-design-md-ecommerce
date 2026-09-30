@@ -4,6 +4,10 @@ name: "Taza Chocolate"
 source_url: "https://tazachocolate.com"
 captured_at: "2026-09-28T10:04:02.459635+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Taza's observed palette centers on a warm ivory canvas (#fff9eb, defined as
   --color-background) paired with a near-black ink (#121212, --color-foreground
@@ -171,6 +175,12 @@ Proposed breakpoints (not measured from live site):
 Touch targets should be a minimum of 44×44px for cart/nav icons. Navigation is assumed to collapse into a hamburger/drawer pattern below tablet width. These are standard e-commerce conventions applied to the observed component set, not confirmed interaction behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Color roles beyond the explicitly named CSS custom properties (`--color-background`, `--color-foreground`, `--color-button`, etc.) are inferred from hex presence only; blues, blush, mint, rust, and yellow accent usage/context is unconfirmed.

@@ -4,6 +4,10 @@ name: "Rouje"
 source_url: "https://rouje.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Jeanne Damas built Rouje's digital canvas around a tension most French fashion brands sidestep: a warm cream ground (#fbf7f3) interrupted by a deep botanical teal (#108474) that carries every primary CTA, active indicator, and hover fill — a color that sits somewhere between verdigris metalwork and sea glass, entirely at odds with the blush-and-ivory palette the category expects. The site's declared mission — "une allure féminine et sensuelle" — finds its visual proof not in ornament but in restraint: soft gray neutrals (#eeeeee, #dedede, #dadada) layer over the cream like natural linen at different distances, while a reserved burgundy (#a91c2a) surfaces on sale states and discount callouts with old-world precision. The near-black (#0f0f0f, #121212) carries all editorial text at full weight, with #7b7b7b absorbing secondary labels and metadata without competing for attention. Surface depth is built through color temperature — cool near-white (#f9fafb) card backgrounds read as recessed against the warm canvas, eliminating the need for drop shadows. A pale teal wash (#edf5f5) appears behind trust signals and filter drawers, extending the primary hue into ambient territory. Rounded values are deliberately conservative — inputs and buttons carry gentle {rounded.sm} curves rather than the pill geometry dominant in wellness or beauty DTC, keeping the reference close to tailored clothing rather than cosmetic packaging. Because the live build delivers fonts through a JS bundle that defeats static extraction (only the Judge.me review widget glyph 'JudgemeStar' surfaced), precise type metrics are reconstructed from visual observation: display headings suggest a fine-weight serif set at generous sizes with open tracking, body copy resolves to a neutral grotesque. Product photography dominates every viewport from the first scroll — imagery is wide, unhurried, and lit like editorial rather than e-commerce. The teal stays the single unexpected signature: one botanical note pressed between pages of cream and shadow.
 
@@ -354,6 +358,13 @@ components:
 - Footer columns stack 2×2 at tablet, fully single-column at mobile; newsletter capture always appears last
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

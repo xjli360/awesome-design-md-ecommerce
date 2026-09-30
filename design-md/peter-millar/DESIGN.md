@@ -4,6 +4,10 @@ name: "Peter Millar"
 source_url: "https://petermillar.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Crown Crafted sits at the apex of Peter Millar's three-tier hierarchy — a designation that names the brand's material ambition and explains why the digital palette reaches for deep collegiate navy (#1B2B4A) rather than the brighter athletic primaries its golf competitors prefer. The site functions as a quiet editorial room: wide white canvas (#FFFFFF), warm off-white surfaces (#F6F5F1), and a single accent — a restrained gold (#C4944A) that traces Crown Sport badge outlines and "New" callout pills. Type scales into display work in a classical serif register, long-tracked and light-weighted, while navigation and product metadata drop into a clean sans-serif at reduced tracking — a pairing that signals wardrobe investment rather than discount urgency. Product cards shed the heavy shadow treatments most contemporary e-commerce uses in favor of an almost frameless float on the surface-soft ground, letting cashmere and merino textures do the persuasion. The checkout and account flows run on the same navy-and-white key, with form fields outlined in hairline (#E2E1DC) strokes that barely interrupt the background. A persistent free-shipping threshold bar runs reversed-navy (#1B2B4A background, white type) above the nav, establishing spend-tier communication before any product is encountered. Collection pages sort by editorial concept — Sport, Crown Crafted, Soft Goods — rather than by category alone, framing each purchase as a wardrobe decision rather than a transactional clothes-buy. The mobile experience compresses the three-column product grid to two columns, retains the sticky nav bar, and moves the filter drawer behind a scrolling chip row, keeping discovery friction minimal without sacrificing the editorial restraint that defines the brand at every screen width.
 
@@ -363,6 +367,13 @@ components:
 - Promo bar text becomes a marquee scroll below 480px if message exceeds viewport width
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

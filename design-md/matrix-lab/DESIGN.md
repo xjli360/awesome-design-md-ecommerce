@@ -4,6 +4,10 @@ name: "Matrix Lab"
 source_url: "https://matrixlab.store"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Electric violet (#7737bd) sits at an unexpected frequency for a keyboard brand — most mechanical keyboard shops default to gamer-RGB overflow or the cold-grey minimalism of audiophile hardware, but Matrix Lab plants its flag on a single saturated purple that carries every primary CTA and active state while the rest of the palette holds its breath in near-black (#121212) and bone-grey neutrals (#a0a0a0, #b9b9b9, #dedede). The result is a system with genuine tension: a precise dark ink field interrupted by purple voltage rather than the expected cool blue or hot red. An indigo accent (#4c57c7) sits a half-stop cooler on the hue wheel, deployable for secondary CTAs and hover states where the primary purple would compete with itself. Type runs entirely on the system sans-serif stack — no proprietary typeface was detected — at modest weights that prioritize legibility on dense product specification tables and keycap layout diagrams; the brand trusts hardware photography over typographic showmanship. The layout philosophy leans into Shopify conventions but with heavier visual compression on product grids: keyboards reward dense comparison over editorial whitespace, so cards carry more metadata per unit of screen real estate than a typical DTC apparel brand. Rounded corners are conservative (`{rounded.sm}` to `{rounded.md}`), keeping the mechanical hardware feeling precise rather than soft. Surface greys (#f7f7f7, #f1f1f1, #e3e3e3) build a three-stop depth stack behind the dark ink, giving product photography a clean neutral stage without bleaching the entire layout white. The multiple blues extracted from the palette (#047bd5, #3086c8, #1e90ff, #003087, #012169, #2c5cc5) are almost certainly injected by Shopify payment provider widgets (PayPal navy, generic bank-blue anchor links) rather than brand tokens — the only blue-family color worth trusting as a genuine brand signal is the indigo accent (#4c57c7), which shares enough violet DNA with the primary purple to read as intentional.
 
@@ -377,6 +381,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

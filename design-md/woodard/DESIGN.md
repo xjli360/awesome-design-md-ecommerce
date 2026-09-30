@@ -4,6 +4,10 @@ name: "Woodard"
 source_url: "https://www.woodard-furniture.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A wrought-iron rocker built in 1920 still turns up on Michigan porches, its powder coat worn to bare metal in spots — unchanged in structure, unlacquered in claim. Woodard's digital presence inherits that economy: a single extracted anchor, charcoal #313131, carries navigation labels, product names, and primary CTAs against a warm off-white canvas without a competing accent voltage. There is no brand Rausch, no seasonal marigold — the palette cedes authority entirely to product photography, where cast-aluminum weave patterns, powder-coat textures, and cushion piping do the persuading. Body copy runs in the system sans-serif stack at 16px/1.6, sensible and unobtrusive; display headings step to a bracketed serif — Georgia, 'Times New Roman' — that ages appropriately into the 1866 founding claim rather than chasing current variable-font releases.
 
@@ -332,6 +336,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

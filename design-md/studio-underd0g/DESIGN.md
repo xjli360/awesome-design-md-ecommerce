@@ -4,6 +4,10 @@ name: "Studio Underd0g"
 source_url: "https://www.underd0g.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The typographic "0" substituted into "Underd0g" isn't an affectation — it's a declaration of method: a studio that thinks in parts, in codes, and in movements, where the glyph-swap is the first signal that the design language runs on monospace precision rather than luxury-brand serif warmth. The site renders almost entirely on a near-black canvas (#121212, #1c1c1c), where each watch dial colorway becomes its own distinct world — dusty rose (#e0b1a4), soft pink (#dfa7b0), powder blue (#cbe0f3), warm khaki (#d0c18f), sage (#d0d8af) — a chromatic vocabulary borrowed directly from dial photography rather than assigned to an abstract brand palette. These pastel-on-dark contrasts give product pages an almost archival quality, as if each reference number is a pinned specimen. Against the dark field, an orange punch (#ed762b) acts as the alert-state voltage: rare, pointed, and never used decoratively. A deep burgundy-black (#33081c) provides a secondary depth layer that reads richer than plain black for hover states and surface differentiation. Monospace type throughout is the most consequential design decision the brand makes: on a watch micro-brand, this choice signals watchmaker's notation and circuit-board precision rather than editorial lifestyle warmth, and gives specification pages a character that feels credibly independent. `{rounded.sm}` corners on interactive elements — neither pill nor hard-edged — project craft confidence without startup softness. The spacing system is tight and collector-facing: someone who opens a product page wants to read case diameter as data, crown position as fact, not as the opening of a poem. Mid-grays (#777777, #555555) carry supporting copy, and the lightest surface (#dedede) appears only at hairlines and dividers, keeping every content zone anchored to the dark ground.
 
@@ -345,6 +349,13 @@ components:
 - Footer: single-column stacked on mobile; 3-column grid on desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

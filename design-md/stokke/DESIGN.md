@@ -4,6 +4,10 @@ name: "Stokke"
 source_url: "https://stokke.com"
 captured_at: "2026-09-28T09:20:46.216270+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Evidence from the Stokke US storefront shows a Chakra UI–based design system layered on top of custom brand fonts ("Stokke", "Stokke-Light", "Stokke-Regular", "Stokke-SemiBold") with "circularProBook" and system sans-serif as reading fallbacks, indicating a display/body font split typical of a premium juvenile-products retailer. The observed palette is broad and includes a saturated green family (#21ad5e, #218b4d, #21cb6d) used near the cookie-consent "Accept" affordance, suggesting green is the primary interactive/brand accent rather than a decorative color. Neutrals (#ffffff, #f5f5f5, #cccccc, #2d2d2d, #000000) form the structural basis for backgrounds, hairlines, and text, consistent with "stokkeCore-black/white" tokens referenced in the CSS. Warmer tones (#ee8443, #1353b4, #cd0707, #e4c900) appear plausible as promotional-badge, link, error, and sale accents given the surrounding sale-banner copy, but their exact component roles are inferred, not confirmed by layout screenshots. This interpretation proposes a clean, high-contrast retail system: white/near-white canvases, dark neutral body copy, green primary actions, and warm accents reserved for sparing promotional emphasis — appropriate for a nursery-furniture brand emphasizing safety, craftsmanship, and Scandinavian restraint.
 
@@ -152,6 +156,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should maintain a minimum 44×44px hit area for buttons and chips; the header's fixed `4rem` block size should collapse or reduce on scroll for mobile per common pattern, though no scroll-behavior CSS beyond `scroll-padding-top` was observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

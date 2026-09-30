@@ -4,6 +4,10 @@ name: "Tekla"
 source_url: "https://teklafabrics.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A quiet, tactile luxury brand for the bath and home, Tekla operates on a restrained palette anchored by near-black `#181818` and soft off-white `#f6f6f6`. The brand’s signature move is the absence of visual noise — a deliberate sparseness that lets material and form speak. Primary actions pulse in a sharp, unapologetic red (`#fd2121`), a single accent that cuts through the monochrome calm with surgical precision. Secondary reds (`#ff0000`, `#f04747`) suggest hover and error states, while muted grays (`#9ca3af`, `#9e9e9d`, `#5c5c5c`) handle secondary text and borders. A single green (`#149d22`) appears for stock or availability indicators, the only non-neutral, non-red color in the system. Typography leans on system-ui and sans-serif stacks, avoiding custom typefaces in favor of clean, legible utility. Corners are soft but not pill-like — `{rounded.sm}` (8px) for buttons, `{rounded.md}` (12px) for cards — creating a gentle, approachable feel without sacrificing precision. The overall mood is one of edited restraint: a brand that trusts its product photography, its negative space, and its singular red accent to do all the work.
 
@@ -306,6 +310,13 @@ components:
 - Hero banners reduce from two-column (image + text) to single-column (text stacked above or below image) on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

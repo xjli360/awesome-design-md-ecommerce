@@ -4,6 +4,10 @@ name: "Tom Wood"
 source_url: "https://www.tomwoodproject.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Hammered silver catches light differently than polished gold — and Tom Wood has built an entire visual language around that principle of deliberate surface. The Norwegian jewelry house runs on two extracted tones: near-void ink (#121212) and cool-silver mist (#dedede), a palette so compressed it reads more like a metallurgical study than a brand color system. Primary actions fire in #121212 — the darkest button on the whitest canvas — and the {rounded.none} geometry that runs through every UI edge echoes the brand's preference for hard-set sterling forms over softened consumer shapes. Typography is not extractable from the live site (tokens load via JavaScript), so the spec below adopts a clean grotesque stack as the closest documented analogue to Tom Wood's editorial cadence; the actual production typeface should be verified against the live stylesheet. Navigation is sparse and hierarchical: collection names set in small-caps letter-spacing, no badge clutter, no promotional interruptions. Product cards suppress ornament entirely — image, name, price, and nothing else — treating each object as the specimen it is. The checkout and account flows share the same monochromatic restraint: no accent color relieves the tension, no hover gradient softens the edge. At mobile widths the single-column grid tightens to near-full-bleed imagery, keeping the jewelry large and the chrome invisible. The overall spatial logic favors generous vertical rhythm ({spacing.section} gaps between editorial rows) against tight horizontal gutters, a proportion that mirrors how the pieces themselves are photographed: close, lit from one side, against a neutral ground.
 
@@ -333,6 +337,13 @@ components:
 - Footer columns stack to single column on mobile; newsletter form moves to top of footer
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

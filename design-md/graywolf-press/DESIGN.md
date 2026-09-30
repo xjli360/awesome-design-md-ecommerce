@@ -4,6 +4,10 @@ name: "Graywolf Press"
 source_url: "https://www.graywolfpress.org"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A literary publisher whose visual identity is built on the tension between a dark, almost charcoal ink (#2e2a25) and a startlingly bright electric blue (#000cee) that appears in navigation links and accent elements, suggesting a house that values both gravitas and intellectual electricity. The palette is unusually rich for a small press — alongside the core dark and blue sit a cautionary red (#f7333f) used sparingly for sale or alert badges, a warm marigold (#efb61b) that surfaces in promotional callouts, and a deep navy (#064771) that provides a secondary dark anchor. The typography relies on Freight Sans Pro and Freight Text Pro, a pairing that gives the brand a serious, literary-modernist feel — the sans for navigation and headers, the serif for long-form body copy. White space is generous: margins feel wide, and the canvas (#ffffff) dominates, letting the dark ink and blue accents carry the weight. Buttons and cards use soft radii ({rounded.md}), avoiding both the severe square and the overly friendly pill. The overall impression is of a publisher that trusts its authors' words to do the work — the design is a quiet, confident frame, not a competing voice.
 
@@ -367,6 +371,13 @@ components:
 - Search bar becomes a full-width overlay on mobile, triggered by a magnifying glass icon in the nav
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

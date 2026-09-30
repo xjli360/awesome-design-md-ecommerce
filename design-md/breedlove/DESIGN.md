@@ -4,6 +4,10 @@ name: "Breedlove"
 source_url: "https://www.breedlovemusic.com"
 captured_at: "2026-09-28T09:14:26.629924+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Breedlove's Shopify-based storefront (breedloveguitars.com / breedlovemusic.com) uses a restrained,
   craft-forward palette anchored by a near-black foreground (#121212) on white (#ffffff), with a muted
@@ -164,6 +168,10 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be at least 44×44px, matching Shopify's own accelerated-checkout button sizing (`clamp(25px, ..., 55px)`) seen in the evidence. Navigation should collapse to a hamburger/drawer pattern below tablet width; this is a standard proposal, not confirmed from captured markup.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is built from static CSS/text extraction only; no live rendering, computed layout, or interaction states (hover, focus, active, disabled) were directly observed beyond the single documented button hover swap. Several palette colors (sage, mint, indigo, gold, slate-blue family) have no confirmed UI role and are assigned here as inferred/optional accents. Exact `--font-body-family` and `--font-heading-family` variable values were not resolved in the evidence; Assistant and Anton assignments are inferred from the supplied `font_families` list and the one explicit `font-family: Anton` rule. All font sizes outside the two directly observed values (60px heading, 19px button) are proposed. Mobile/responsive layout, breakpoints, and grid column counts are proposed conventions, not measured. Custom font licensing and self-hosting/availability for Anton, Assistant, and Inter 18pt were not verified.

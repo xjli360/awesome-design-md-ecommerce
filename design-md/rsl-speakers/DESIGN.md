@@ -4,6 +4,10 @@ name: "RSL Speakers"
 source_url: "https://rslspeakers.com"
 captured_at: "2026-09-28T04:57:02.276118+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   RSL Speakers presents itself as a straightforward, factory-direct audio
   manufacturer, and the observed CSS reflects a utilitarian, high-contrast
@@ -170,6 +174,13 @@ Proposed, not measured — no explicit media-query breakpoints were present in t
 Touch targets should be at least 44px for nav and cart controls; primary/secondary buttons should collapse to full-width on mobile with stacked product-card grids (1-column mobile, 2–3 column tablet/desktop). This table is a recommendation derived from generic Shopify gutter conventions observed in the CSS variables, not measured live layout behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

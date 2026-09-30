@@ -4,6 +4,10 @@ name: "Believe Diapers"
 source_url: "https://believediapers.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A baby-care brand that stakes its entire visual identity on a single, unexpected typographic choice: Kopius, a serif typeface with generous ball terminals and a warm, slightly condensed posture, set as `!important` across the site — a deliberate rebellion against the sans-serif orthodoxy of modern DTC. The palette orbits around a deep, warm charcoal (`#3d3935`) as ink, with a muted stone (`#645f59`) and a cool, trustworthy blue (`#6383ac`) that appears in secondary accents and link treatments. The canvas is pure white (`#ffffff`), and the brand's primary voltage is a vivid, almost electric blue (`#0075fe`) — a color that reads as both medical-grade reliability and digital-native confidence, used sparingly on CTAs and interactive elements. Generous whitespace and a restrained use of `{rounded.sm}` (8px) on buttons and cards keep the interface soft without sacrificing clarity. The site's `{colors.hairline}` (`#dbdbdb`) delineates sections with a light touch, while `{colors.surface-soft}` (`#f4f9ff`) — a barely-there blue tint — backs subscription cards and trust badges, reinforcing the brand's association with purity and care. The typographic system pairs Kopius for display and headline work with Jost, a geometric sans-serif, for body copy and navigation, creating a rhythm that feels editorial without being precious. Product imagery dominates: diapers photographed on clean backgrounds, with bamboo-leaf motifs and soft greens (`#04af53`) appearing only in environmental cues (leaf icons, sustainability callouts). The brand's voice is direct and reassuring — "Premium Bamboo Baby Diapers & Wipes" — and the design system mirrors that: no decorative flourishes, no heavy shadows, just clear information architecture and a quiet confidence that the product speaks for itself.
 
@@ -392,6 +396,14 @@ components:
 - Search transforms from a full text input to an icon-triggered overlay on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

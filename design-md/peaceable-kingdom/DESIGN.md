@@ -4,6 +4,10 @@ name: "Peaceable Kingdom"
 source_url: "https://www.mindware.com/brand/peaceable-kingdom"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A playful, educational brand built on a warm white canvas and a distinctive coral-orange primary (#c74c00) that appears on every add-to-cart button, navigation accent, and product badge — a color that reads more like a child's crayon box than a corporate identity. The palette is deliberately cheerful: a soft pink (#ee5f9e) for sale tags and promotional banners, a sky blue (#1f9cd8) for informational badges and age-range indicators, and a bright green (#80b800) for "new" labels and eco-friendly messaging. Typography runs on Roboto Condensed for headlines and Arial for body text, creating a clear hierarchy where condensed display faces at 24–32px carry product names and category headers, while standard sans-serif at 14–16px handles descriptions and pricing. The brand uses generous {rounded.lg} (20px) on product cards and {rounded.full} on buttons and badges, giving every interactive element a soft, approachable feel that signals "made for children and families." Navigation is a clean white bar with the coral-orange logo mark and category dropdowns, while the footer stacks multiple columns of links in muted gray (#444444) against a light blue-gray background (#acc9d4). Product cards feature a white background with a subtle drop shadow, a large product image, the title in Roboto Condensed Bold, a star-rating row, and a coral-orange "Add to Cart" button — the same button pattern repeated across the entire site. The overall effect is a brand that feels like a well-organized toy box: colorful but not chaotic, structured but not rigid, with enough visual warmth to appeal to both parents and children.
 
@@ -436,6 +440,13 @@ components:
 - Category navigation (age ranges, themes) collapses from horizontal scroll to a dropdown selector on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

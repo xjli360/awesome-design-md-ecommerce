@@ -4,6 +4,10 @@ name: "Roverlund"
 source_url: "https://roverlund.com"
 captured_at: "2026-09-28T04:48:10.663346+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Roverlund's storefront runs on a Shopify Dawn-derived theme with a light, neutral base (#ffffff canvas, #000000 foreground) accented by a warm amber (#ffbc44) used for the CSS custom-property `--color-button` and the review-star color, confirming it as the primary brand accent. Body copy uses `--color-foreground` at a measured 1.5rem/0.06rem letter-spacing, while a secondary text tone (#414141) appears in the Judge.me review widget for reviewer names and star fills. Supporting grays (#dddddd, #eeeeee, #f4f4f4, #7b7b7b) form hairlines and soft surfaces typical of a minimal outdoor-gear aesthetic. Two additional hues, a muted sage (#809986) and a coral-pink (#ff5268), appear in the palette and are treated as inferred secondary accents, likely tied to product colorway swatches or promotional badges rather than core UI. Typography pairs a declared custom display face, Argent Pixel (with an explicit @font-face rule), against sans-serif fallbacks; Oswald and Titillium Web are present in the stylesheet font list and are inferred as heading/body candidates given their common Shopify-theme pairing, though the exact `--font-heading-family` and `--font-body-family` values were not resolved in the supplied CSS. All payment-network hex values (Visa/Amex/PayPal blues and reds) are excluded from the brand palette as third-party checkout iconography.
 
@@ -148,6 +152,13 @@ Recommended, not measured breakpoints:
 Touch targets should be a minimum 44×44px for the fit-checker inputs and cart controls. Header navigation is expected to collapse into a drawer/menu icon below the tablet breakpoint; this behavior is standard for Shopify Dawn-family themes but was not directly observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This specification is derived from static CSS/text extraction only; no rendered page, computed styles, or interaction states (hover, focus, error, loading beyond the skeleton animation) were observed. The exact values of `--font-heading-family` and `--font-body-family` were never resolved in the supplied CSS, so Oswald/Titillium Web/Argent Pixel role assignments are inferred from their presence in the stylesheet's font list rather than confirmed selector output. `Nineties Headliner` and `JudgemeStar` appear only as font-family names without accompanying rules and are treated as unconfirmed display/icon fonts respectively. Border-radius and shadow values for product cards reference undefined CSS custom properties (`--product-card-corner-radius`, etc.) whose actual pixel values were not supplied, so all `rounded` tokens are proposed defaults. Payment-brand colors (Visa, Amex, PayPal, Meta, Twitter/X) were deliberately excluded from the brand palette as third-party checkout iconography. Mobile menu behavior, breakpoint pixel values, and any animation timing beyond the documented CSS duration variables are proposed conventions, not confirmed observations. Licensing and self-hosting terms for Argent Pixel were not verified.

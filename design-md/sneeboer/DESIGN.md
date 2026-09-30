@@ -4,6 +4,10 @@ name: "Sneeboer"
 source_url: "https://www.sneeboer.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Forged steel catching light in a dim Dutch workshop — that is the image Sneeboer's digital presence evokes before a single word is read. The site anchors on deep charcoal ink (#1e1e1e) against a clean white canvas, letting product photography of hand-forged spades and trowels carry the visual weight. A signature forge-red (#cc1818) marks every primary action — add-to-cart buttons, sale badges, and the occasional hover underline — echoing the red wooden handles and the heat of the smithy floor in Bovenkarspel. Typography runs entirely on system stacks (`-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif`), a pragmatic choice that loads instantly and lets the craftsmanship imagery speak without typographic competition. The layout is a traditional WooCommerce grid with generous vertical spacing (`{spacing.section}` between content blocks) and minimal border radii — most cards and inputs sit at `{rounded.xs}` or `{rounded.sm}`, giving the interface an honest, workshop-ledger quality rather than the pill-shaped softness of lifestyle brands. A secondary muted charcoal (#444444) handles body copy, while a pale gray (#eeeeee) defines hairlines and surface separators. Accent greens (#00a854, #4ab866) appear sparingly for stock indicators and success states, tying the digital palette back to the garden soil these tools are made for. A warm amber (#f0b849) surfaces in promotional badges and seasonal callouts. The overall system is restrained and functional — wide product imagery, short Dutch-English bilingual copy blocks, and a checkout flow that moves as directly as a well-balanced fork turning earth.
 
@@ -390,6 +394,13 @@ components:
 - Breadcrumb truncates middle segments with "..." on narrow viewports, always showing first and last
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Vermont Woods Studios"
 source_url: "https://vermontwoodsstudios.com"
 captured_at: "2026-09-28T09:50:53.740191+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Vermont Woods Studios sells American-made solid-wood furniture, and the observed
   CSS points to an earthy, editorial palette layered over a standard Shopify (Dawn-
@@ -165,6 +169,12 @@ This is a recommendation based on standard e-commerce patterns, not measured sit
 Touch targets should be at least 44×44px for nav and cart controls. The multi-level mega-menu (Bedroom/Dining/Office & Living/Outdoor with many sub-categories) should collapse into a nested accordion below tablet width; no actual collapse mechanism was observed in the supplied CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived entirely from static CSS/text extraction; no rendered page, computed styles, or interaction states were observed. Root font-size (assumed 62.5%) used to convert rem-based prose tokens to pixels is inferred, not confirmed, so all derived body/heading pixel sizes are approximate. The mapping of `--font-body-family` and `--font-heading-family` to specific families (Proza Libre / Proza Display) is inferred from typical theme conventions, not explicitly evidenced in the supplied rules. Hover, focus, active, and disabled states for buttons, inputs, and cards are proposed defaults, not captured from live interaction. Mobile menu behavior, breakpoints, and collapse thresholds are proposed, not measured. Custom font licensing/availability (Proza Display, Proza Libre, Work Sans) was not verified and should be confirmed before production use. Several supplied colors (grays, alpha values) were treated as generic UI/system tones rather than brand colors due to lack of stronger contextual signal.

@@ -4,6 +4,10 @@ name: "Corbett Lighting"
 source_url: "https://www.hvlgroup.com/Products/Brand/CorbettLighting"
 captured_at: "2026-09-29T04:22:26.859737+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from Hudson Valley Lighting Group's (HVLG) shared
   e-commerce platform, on the page that lists Corbett Lighting's product catalog
@@ -168,6 +172,13 @@ This is a recommendation based on typical catalog-listing patterns and is **not*
 Touch targets should be at least 44×44px for filter checkboxes, swatch selectors, and pagination controls. Filter panels should collapse to an accordion or off-canvas drawer below the `md` breakpoint. None of this is confirmed from captured markup or scripts.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

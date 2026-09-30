@@ -4,6 +4,10 @@ name: "Honey-Can-Do"
 source_url: "https://www.honeycando.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Honey-Can-Do is a brand built on the quiet confidence of organization — not sterile minimalism, but a warm, approachable clarity that makes tidying feel achievable. The palette is anchored by a deep teal `#12465b` and a vibrant sea-green `#108474`, which together evoke a sense of calm, natural order — think of a well-kept pantry or a tidy linen closet. These primary hues are supported by a soft, extensive neutral system: a warm off-white canvas (`#f9fafb`), a slightly cooler surface (`#f2f2f2`), and a range of grays from `#eeeeee` to `#333333` that provide depth without harshness. A bright, optimistic yellow `#fbcd0a` acts as a signature accent, used for badges, sale tags, and other moments of delight. The brand’s typography leans on a mix of `Montserrat` and `Nunito Sans`, with `Jost` appearing as a display accent — all humanist sans-serifs that feel friendly and legible at every size. Rounded corners are generous but not cartoonish: buttons use `{rounded.sm}` (8px), cards use `{rounded.md}` (12px), and the search bar uses `{rounded.full}`, creating a tactile, approachable interface. The overall mood is one of gentle authority — Honey-Can-Do doesn’t shout, it simply makes the right choice the easy one.
 
@@ -363,6 +367,13 @@ components:
 - Accordion sections are always collapsed by default on mobile to save vertical space.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

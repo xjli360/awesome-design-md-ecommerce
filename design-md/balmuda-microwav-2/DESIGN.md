@@ -4,6 +4,10 @@ name: "Balmuda"
 source_url: "https://us.balmuda.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Steam rises from a single-slice toaster rendered in matte white — that product-as-sculpture philosophy governs every pixel of the Balmuda digital storefront. The canvas is an unrelenting near-white (#f9fafb to #fafafa), allowing full-bleed product photography to breathe inside generous vertical rhythm set by `{spacing.section}` gutters. The sole voltage color is a deep institutional teal (#108474) — not the expected appliance-brand red or blue — reserved exclusively for primary CTAs, active navigation underlines, and the occasional hover state, lending every interaction a clinical calm. A secondary warm brass (#b19356) surfaces in promotional badges and limited-edition callouts, evoking the copper heating elements inside Balmuda's physical products. Typography is deliberately understated: Open Sans at weights 300–600 handles everything from 42px hero headlines to 13px legal captions, trusting the photography and whitespace to do the emotional labor rather than display type. Corners are barely softened — product cards sit at `{rounded.sm}` (8px), buttons at `{rounded.xs}` (4px) — communicating precision engineering over lifestyle playfulness. The navigation bar floats on a white surface with ink-dark (#1c1d1d) wordmarks and teal accent underlines, collapsing to a hamburger icon at mobile with a full-screen slide-over panel. Product cards are borderless white rectangles with a single `{colors.hairline}` bottom rule, relying on `{spacing.lg}` internal padding and a centered product image rather than decorative chrome. The overall system reads as a Japanese engineering manual translated into e-commerce: nothing is decorative, every element earns its space, and the teal accent arrives with the authority of a single stamp on parchment.
 
@@ -370,6 +374,14 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

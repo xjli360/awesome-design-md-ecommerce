@@ -4,6 +4,10 @@ name: "Vrai"
 source_url: "https://www.vrai.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Vrai measures purity in two registers at once: the optical grade of a lab-grown diamond and the zero-emission record of the foundry that grew it. That dual accounting shapes the entire visual system. The canvas drifts warm at #faf9f7 rather than stark white, the ink sits at #241f20 — near-black with a barely perceptible brown undertone, geological rather than digital — and the single voltage color is #009161, a medium green that appears nowhere decoratively: it surfaces on sustainability certifications, zero-emission copy, and the most direct environmental CTAs. Its restraint is the point. Every other hue in the extracted palette is desaturated: warm sage (#d0d9c8), dusty teal (#54787c), champagne (#f5eecc), and a barely-there mint wash (#ebf9f4) behind proof-of-sustainability callouts. The system reads more like a mineral sample card than a luxury advertisement.
 
@@ -355,6 +359,13 @@ components:
 - Footer columns collapse to a single accordion stack on mobile with `title-sm` headings as toggles
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

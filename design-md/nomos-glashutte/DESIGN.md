@@ -4,6 +4,10 @@ name: "Nomos Glashütte"
 source_url: "https://www.nomos-glashuette.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every Nomos Glashütte dial carries a printed minute track governed by tolerances measured in microns — the same precision discipline shapes their digital presence. The site anchors to a deep cobalt (#003399) borrowed directly from the Atlantic and Metro Neomatik oceanic collections; against the near-white canvas layers (#f6f6f6, #fafafa, #f8f8f8) it reads as technical authority without aggression. Gotham Narrow — the compressed, rationalist grotesque — carries every headline and navigation label, its tight apertures echoing the thin hands and applied indices of the Tangente and Orion families. The narrow variant is deliberate: it lets long German compound words — Glashütter, Uhrenmacher, Schaltradchronograph — sit in single-line headers without wrapping.
 
@@ -362,6 +366,13 @@ components:
 - Footer columns: 4-col → 2-col → 1-col with accordion collapse at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

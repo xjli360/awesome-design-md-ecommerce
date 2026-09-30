@@ -4,6 +4,10 @@ name: "Abby & Finn"
 source_url: "https://abbyandfinn.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The diaper print comes before the subscription pitch — Abby & Finn's entire conversion model is organized around illustrated pattern swatches as the first aesthetic commitment a parent makes, not a feature grid or a price comparison. That sequencing shapes everything downstream: the palette is not a single brand voltage but a rotating cast of saturated accent hues (coral, lavender, sunshine yellow, teal) that shift by product line and season, held together by a consistent warm-white canvas and one anchoring teal (#28A99E) that shows up on primary CTAs, nav highlights, and the brand wordmark. Rounded corners are aggressive and consistent — there are no hard edges anywhere a parent might visually "land." Buttons, cards, badges, and input fields all sit at or above `{rounded.md}`, and the subscription pill uses `{rounded.full}` to signal something opt-in and gentle rather than contractual. The type system leans on a friendly, open sans-serif with generous x-height and light-to-medium weights; display headings stay under 700 weight to avoid the commanding tone that would feel out of place in a category about infant comfort. Eco-certification badges travel in a horizontal strip below the fold, rendered as small icon-plus-text lockups rather than the loud green bursts competitors use — the credentials are there, but they don't perform anxiety. Product cards show a full-bleed print swatch on top, price and "ships every X weeks" copy below, and a teal `{rounded.full}` add-to-box button that never says "buy." The overall register is a children's picture book that has been disciplined into an e-commerce funnel: playful illustration vocabulary, warm neutrals, and a palette that changes its outfit by season while keeping the same friendly face.
 
@@ -509,6 +513,14 @@ components:
 - Build-your-box steps: horizontal → vertical stack below 744px, connector lines become vertical
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

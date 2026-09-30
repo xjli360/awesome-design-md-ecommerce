@@ -4,6 +4,10 @@ name: "Burt's Bees Baby"
 source_url: "https://burtsbeesbaby.com"
 captured_at: "2026-09-28T04:23:08.693407+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Burt's Bees Baby's storefront CSS exposes a warm, apothecary-inspired palette
   built around a muted taupe-brown "Brand" tone (#564e4c) used for primary
@@ -171,6 +175,10 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets should maintain a minimum 44px hit area on buttons and nav items (`padding: 13px 20px` plus line-height satisfies this). Navigation and filter panels are proposed to collapse into off-canvas or accordion patterns below 1024px; this is a UX recommendation, not an observed interaction.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Goldilocks"
 source_url: "https://cookwithgoldilocks.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The name makes the brand argument before any product image loads — "just right" is borrowed from a children's story, but here it points at a real engineering claim: cookware that hits the weight window between flimsy stainless and back-wrenching cast iron. Warm amber and honey tones saturate every surface the eye lands on, from the primary call-to-action — a rich ochre gold that reads as earned rather than cheerful — to the off-cream canvas (#FAFAF7) that keeps photography from competing with a pure white void. The pan in every hero shot is mid-use, oil pooling, steam implied; the brand photographs process, not pristine product. Corner radii stay modest throughout: cards and buttons round only to `{rounded.sm}` or `{rounded.md}`, grounding the warmth in something solid rather than letting it float into pill-shaped softness. Navigation is lean — four or five links, with the wordmark carrying visual weight at the upper left and a cart icon closing the right — a cookware-specific restraint that prioritizes browse-to-buy over content sprawl. The type system leans on a clean geometric sans for body and UI copy, while display headlines carry slightly more weight, pulling the eye down a product page through a rhythm of bold claim, sub-claim, and photography. Spacing is generous at the section level — the kitchen metaphor requires breathing room between content blocks the way a good recipe requires resting time between steps. Product cards surface pan name, lifestyle image, and price without review stars cluttering the tile; social proof lives on individual product pages, not the grid. The warranty and materials story — carbon steel gauge, seasoning process, heat range — appears in a persistent trust strip beneath the hero, signaling that the purchase justification is functional, not aspirational.
 
@@ -351,6 +355,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

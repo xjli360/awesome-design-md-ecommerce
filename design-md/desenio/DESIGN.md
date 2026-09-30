@@ -4,6 +4,10 @@ name: "Desenio"
 source_url: "https://desenio.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Desenio proves that a poster retailer's interface competes directly with its own inventory — every pixel spent on nav chrome is a pixel stolen from art. The result is one of the sparest storefronts in Nordic e-commerce: a gallery-white (#ffffff) field, hairlines at #e5e5e5, and body copy so understated it barely registers above the prints. Category navigation is stripped to a single horizontal strip; the mega-menu drops with the opacity of a museum plaque rather than a commerce takeover. Art fills the grid at a consistent image-to-frame ratio, and the UI's only real visual claim is the frame selector — a ring of lacquered swatches (black, white, natural, walnut) that lets shoppers configure their print into the physical object it will become. CTAs run in near-black (#1a1a1a) with all-caps tracked letter-spacing, a typographic choice that reads as gallery label rather than shop button. Uppercase is Desenio's tone-of-voice carrier: category names, size pickers, and badge text all run at 1–1.5px tracking with tight caps, holding editorial formality without weight. The frame-selector swatches, size radios, and paper-type toggles form a product configurator that is the functional centrepiece of every PDP — minimal chrome, maximum decision support. The room-visualizer mockup (placing your print in a photographed interior) appears as a secondary tab, deferring to the flat product scan as the canonical image. Sale badges come in a discreet pill at {rounded.full}, claret-tinted (#c0392b) against white, so they flag without screaming. Spacing is generous — the grid breathes at {spacing.lg} gutters on desktop — sustaining the gallery register throughout. Responsive layout compresses to a two-column grid on mobile, collapsing the nav into a hamburger sheet that slides in from the left; the frame and size selectors stack vertically below the hero image rather than sitting beside it.
 
@@ -344,6 +348,13 @@ components:
 - Footer 4-column layout stacks to single column on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

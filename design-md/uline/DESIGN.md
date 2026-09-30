@@ -4,6 +4,10 @@ name: "Uline"
 source_url: "https://www.uline.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The red stripe anchoring Uline's masthead — #cc0000 cut flush against a deep #003366 navy — is not decoration but doctrine. This is a catalog company, and the website enforces the same density contract as the printed book it mails by the tens of millions each year to warehouses, labs, and dock offices across North America. Every element is held to the same standard the physical catalog demands: SKU visibility, price-break clarity, and a fast path to cart over any ambient brand expression. The palette is built from exactly two brand signals. Cardinal #cc0000 appears on every primary action — the search submit button, Add to Cart CTAs, promotional callout banners, the nav's bottom rule — while #003366 navy carries the global navigation rail, category hierarchy headers, and footer ground. Between them, a disciplined gray staircase — #808080 down through #aaaaaa, #c0c0c0, #d3d3d3, and #e4e4e4 — tiles table borders, surface backgrounds, and form fields without visual competition. Link blues #0064c7 and #0098f8 handle secondary link states inside a coherent blue family that never introduces a third competing signal; mid-range #336699 surfaces in hover states and horizontal separators. The single accent outlier is #ffff00 yellow, appearing as a high-contrast alert chip for promotional urgency — a warehouse signage convention carried directly into the interface. Typography runs entirely on Arial, AvantGardeGothic, and Helvetica: system and near-system faces that load instantly across the business buyers accessing the site from workstation PCs and purchasing-department desktops. Display sizes are modest at 22–28px, while body copy lands tight at 12–13px with minimal leading, reflecting the catalog imperative to surface ten product specifications where a consumer site might show three. Corners are sharp throughout — {rounded.none} is the dominant choice and {rounded.xs} the outer limit in most contexts, echoing the physical world of corrugated cartons and steel shelving. The product card shows the design at its most compressed: item number in small muted type, title as a tight link, price in {typography.price-display} at 16px bold, and a price-break quantity table immediately below. The overall effect is a B2B interface that trusts buyers to know what they need and optimizes relentlessly for transaction speed.
 
@@ -368,6 +372,13 @@ components:
 - Product grid → falls from 6 → 4 → 2 → 1 columns across breakpoints; no layout engine shift
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

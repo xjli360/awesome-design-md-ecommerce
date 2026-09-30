@@ -4,6 +4,10 @@ name: "Rarewaves"
 source_url: "https://www.rarewaves.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep-indigo (#2d398e) backbone anchors Rarewaves as a discount entertainment marketplace that feels more like a record-store discovery bin than a sterile e-commerce grid. That primary blue, pulled from the extracted site palette, runs across the top navigation bar, primary buttons, and footer — a confident, almost academic hue that signals value without discount-screaming. The brand’s secondary voltage comes from a warm marigold (#fbd600) used for price tags, sale badges, and hover states, creating a visual shorthand for “deal” that reads as cheerful rather than desperate. A supporting cast of accent colors — lime (#b1d135), teal (#00a54f), sky (#29aae1), magenta (#ea088e), and deep purple (#652f8e) — appear in category icons, genre badges, and promotional banners, giving the site a toy-box eclecticism that mirrors the breadth of its catalog (vinyl, Blu-ray, books, games). Typography splits between Mulish (a clean geometric sans for body text, navigation, and buttons) and Playfair Display (a high-contrast serif used sparingly for hero headlines and product titles, lending a touch of literary or cinematic gravitas). Cards use a soft {rounded.sm} (8px) radius, while search bars and filter pills adopt {rounded.full} for a friendly, approachable feel. The canvas is a warm off-white (#f5f5f5) rather than pure white, softening the reading experience across long browsing sessions. The overall impression is of a well-organized independent shop where every shelf section has its own color-coded spine label, and the checkout flow — powered by Shopify — fades into a clean, distraction-free white surface.
 
@@ -473,6 +477,13 @@ components:
 - Search bar moves from inline (desktop) to full-width below nav (mobile)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

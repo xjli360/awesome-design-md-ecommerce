@@ -4,6 +4,10 @@ name: "Grimm's"
 source_url: "https://www.grimms.eu"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, earthy restraint governs this wooden-toy world, where #d91c01 — a single, unapologetic signal-red — cuts through a landscape of near-black charcoals (#121212, #292929) and warm, weathered grays (#c5c5c5, #ebebe4). The brand's visual system is built on contrast between dense, almost-ink backgrounds and a soft, off-white canvas (#ebebe4) that reads like raw linen or unvarnished beechwood. Rubik, a geometric sans-serif with a slight humanist warmth, runs at moderate weights — never shouting, never shrinking below a legible body size — and sits comfortably inside generously padded cards and buttons with soft, rounded corners ({rounded.md} ~12px). There are no hard edges, no glossy surfaces, no gradients: the interface mirrors the physical product — honest, tactile, and built to last. The primary CTA (#d91c01) appears sparingly, reserved for cart actions and critical confirmations, while secondary interactions live in muted grays (#6a6a6a, #a4a4a4) that recede into the background. Navigation is lean: a persistent top bar with the logo, a search icon, and a cart badge, all floating on the off-white canvas. Product cards use a clean, flat presentation — no drop shadows, no borders — relying on the natural geometry of the wooden toys and the generous whitespace ({spacing.xxl} ~48px) to create hierarchy. The checkout flow, likely powered by Shopify, introduces a cooler blue (#005bd3) that feels slightly foreign to the brand's warm palette — a known gap in the system's coherence.
 
@@ -677,6 +681,13 @@ components:
 - Breadcrumbs are hidden on mobile; the back button or a simplified "Home > Category" is shown instead.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Dubia"
 source_url: "https://dubiaroaches.com"
 captured_at: "2026-09-28T10:34:06.499874+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Dubia.com's stylesheet centers on a neutral, high-contrast foundation: near-black
   text and surfaces (#121212) against white and light-gray backgrounds (#ffffff,
@@ -159,6 +163,13 @@ components:
 Touch targets should target a minimum 44px height, consistent with the observed `--wk-button-min-height: 45px` and `--wk-input-min-height: 45px` tokens. Mobile nav collapse behavior, sticky header state, and drawer/cart interactions are **not observed** and are recommended defaults only, not measured site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

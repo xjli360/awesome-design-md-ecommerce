@@ -4,6 +4,10 @@ name: "James Allen"
 source_url: "https://www.jamesallen.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every diamond on James Allen's product pages rotates in 360° high-definition under a deep-navy stage (#0c1636) — an interface decision that solved the primary anxiety of online jewelry buying before streaming product video became ubiquitous. The brand operates two visual registers: an immersive dark mode (near-black navy #100e31, #0c1636) built for diamond theater and ring configuration, and a clean warm-cream ground (#fffbf7) reserved for editorial and lifestyle content. Brown LL carries the primary typographic voice — a humanist sans with slightly squared apertures that reads as modern premium without geometric coldness; Lora surfaces in editorial display moments as a contrast serif, and Pinyon Script appears in wedding-facing contexts as the sole calligraphic gesture toward tradition. The CTA system is architecturally split: a bright #0066ff handles all commerce actions — add to cart, filter selection, ring builder progression — while the deep navy family (#0c1636, #100e31, #151542) functions as brand environment rather than traditional primary color. Buttons use measured corner radii rather than sharp edges or full pills, a posture that reads as precise and assured, fitting for a brand that asks customers to examine facet symmetry at 40× zoom. Neutral surface fills (#f3f5f7, #e9ebec) keep chrome recessive so the diamond occupies visual center stage. The sage #77ab94 appears on certification and ethical-sourcing callouts — a provenance signal delivered with quietude rather than marketing volume. The overall system reads as a digital jeweler's loupe: clinical precision in the product environment, warmth in the editorial wrapping.
 
@@ -419,6 +423,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Quartet"
 source_url: "https://www.quartet.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The steel frame of a Quartet glass board sits close to #313131 — a warm near-black that recedes when the white writing surface fills with marker strokes and color-coded sticky notes. That single confirmed extraction, all the site's anti-bot wall permitted through, encodes a coherent brand posture: a workspace brand whose own visual identity steps back to let the working surface be the hero. The complete system-font stack (system-ui, -apple-system, Segoe UI, Roboto, Helvetica Neue) reinforces that disposition — no proprietary typeface, no brand-font signature, just assured legibility at product specification tables and dimension callouts.
 
@@ -297,6 +301,13 @@ components:
 - Footer four-column link grid steps to two columns at tablet and single-column accordion sections at mobile, each expandable by tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

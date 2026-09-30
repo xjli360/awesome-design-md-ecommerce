@@ -4,6 +4,10 @@ name: "Bambu Lab"
 source_url: "https://www.bambulab.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Precision engineering rendered in near-black and charged by a single green voltage — the Bambu Lab interface feels closer to mission-control software than to a typical e-commerce storefront. Where most consumer hardware brands lead with white-canvas layouts and lifestyle photography, Bambu Lab commits to darkness: surfaces stack from #111111 up through the extracted #313131, each tier reading as a deliberate elevation rather than an accident of default styling. Their signature green (approximately #00AE42, widely documented in brand coverage and hardware unboxing media) does not decorate — it activates. Every primary CTA, every active filter chip, every progress indicator in the cloud printing dashboard runs hot green against near-black, an unambiguous signal in a product category where print-status feedback is functionally critical, not merely aesthetic. Typography pulls entirely from the system stack — no custom typeface was detectable at crawl time, likely due to JS-loaded tokens behind anti-bot protection — but this restraint earns its keep: tight display text at 700 weight with negative letter-spacing conveys spec-sheet authority without the soft warmth of a consumer lifestyle brand. The AMS (Automatic Material System) product line introduced a genuinely novel UI problem: representing up to sixteen simultaneous filament colors in a compact dashboard widget. Bambu Lab answers with a slot-chip grid that resembles a hardware rack more than a color swatch, each 32px square carrying an active border in {colors.primary} when loaded. Product cards carry dense spec rows — print speed in mm/s, layer resolution in μm, build volume in cubic centimeters — rather than soft lifestyle copy, targeting a customer who reads a datasheet before placing an order. Corner radii hold at {rounded.xs} almost everywhere, avoiding the pill-softness of consumer lifestyle brands. Responsive collapse moves the spec strip into a horizontal scroll band on mobile and accordion-stacks comparison tables, preserving information density without burying the numbers that close the sale.
 
@@ -533,6 +537,14 @@ components:
 - Hero left/right split stacks vertically: image first, then copy — printer render still visible above the fold at mobile viewport heights ≥ 667px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

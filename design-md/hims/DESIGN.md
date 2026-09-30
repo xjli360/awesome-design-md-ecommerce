@@ -4,6 +4,10 @@ name: "Hims"
 source_url: "https://www.forhims.com"
 captured_at: "2026-09-28T04:10:53.494747+00:00"
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every other telehealth brand reaches for clinical blue; Hims chose a deep, desaturated sage green (#3D6957) that sits closer to a high-end apothecary than an urgent-care waiting room. The choice carries a precise argument — men who might hesitate to walk into a pharmacy for ED or hair-loss treatment will click through a site that looks designed for someone who already owns a good moisturizer. Warm cream surfaces (#F5F2EC) replace the sterile white of hospital interfaces, and the page breathes at 80px section spacing on desktop, nothing stacked against anything else. Type reaches for something editorial: display headers run in a clean geometric sans at weight 300–400, set at 40–52px with tight lettertracking that reads like a men's magazine layout rather than a medication leaflet. The workhorse body copy stays at 14–16px in the same sans-serif family, unhurried and unornamented. Product photography is desaturated and controlled — single objects on {colors.surface-soft} backgrounds, no competing hue crowding the sage identity. Primary CTAs sit at 52px height with {rounded.sm} corners — credible without being stiff, occupying the full column width on mobile and snapping to auto-width on desktop. Navigation runs a horizontal category strip (Hair, Skin, Sexual Health, Mental Health) pinned at 44px above the content area; active states use a 2px sage underline rather than a filled pill, borrowing an editorial publication convention. Product cards use {rounded.md} corners — enough curvature to feel modern without signaling playfulness. The quiz-based intake funnel, the brand's primary conversion surface, uses a single-question-per-step layout with generous option padding and a {colors.primary} progress bar at the top of the viewport. An accent pink (#D4687A) is reserved almost entirely for Hers co-branding and select promotional moments, keeping the primary sage identity undiluted across the main men's catalog.
 
@@ -434,6 +438,13 @@ components:
 - Trust badge strip wraps to a two-row grid at 744px and a vertically stacked list at 375px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

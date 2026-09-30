@@ -4,6 +4,10 @@ name: "Amazfit"
 source_url: "https://www.amazfit.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Amazfit runs its global storefront on a near-black #0f0f0f canvas — a deliberate inversion of the white-default DTC template that places the brand alongside premium consumer electronics rather than lifestyle accessories. The single most arresting accent is an amber-gold (#ffd75e), a warmth that cuts cleanly against the dark ground and carries every primary CTA; it deepens to #ea9f30 on press, avoiding the cool steel that would read too industrial. A deep crimson (#b20000) surfaces on sport and performance SKU badges, signaling a second product line with its own emotional key rather than leaning on the single-accent pattern most tech stores use. Health and fitness features get cyan (#1fade6) and teal (#02909c) treatments — sometimes against a pale #e4f3f7 wash — while mint (#69c69c) marks wellness metrics, building a spectral system where color encodes product category rather than decoration. Type falls to Arial throughout the extracted stack; no brand typeface was served, which the site compensates for by letting spec density and photography carry identity weight. Cards sit in #232323 — two stops above the #0f0f0f base — giving them just enough lift to read as objects without breaking the cinematic dark unity. Corners are tight: interactive elements use 4–8px radii, and category filter chips are the only pill-shaped elements ({rounded.full}), marking them as navigational rather than structural. The spacing contract favors product imagery over editorial breathing room, packing spec chips and rating rows close beneath product names in dense catalog contexts while opening to section-scale vertical rhythm in hero zones. This is a storefront built for users who read spec sheets first — the amber pulse says "buy" to engineers who otherwise distrust ornament.
 
@@ -335,6 +339,14 @@ components:
 - Product series banners reduce padding from xxl/xl to base/lg on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

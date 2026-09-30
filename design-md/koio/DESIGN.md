@@ -4,6 +4,10 @@ name: "Koio"
 source_url: "https://koio.co"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Handstitched welts and full-grain leathers sourced from artisan workshops in Italy arrive at Koio's digital storefront wearing a palette pulled from the vinous end of the spectrum — deep burgundy #580303 anchors every primary call-to-action and editorial accent, while its brighter relative #841719 appears on active states, both reading as controlled and precise against a near-white #fafafa canvas. The hide itself surfaces as a warm sand token (#c1b59a), a literal material reference that grounds the design system in the object being sold. Display headlines are set in Apercu Black Pro at wide letter-spacing — the type feels pressed rather than printed, suggesting a cobbler's stamp more than the rounded-friendly sans-serifs that dominate the contemporary sneaker category. Editorial body copy drops into Founders Grotesk Light, borrowing a lookbook cadence from Italian print fashion. GT America Condensed takes compression duty for tab labels, size selectors, and filter pills, keeping information dense without competing with Apercu's authority in the display register. The deep navy #272d45 stands in for ink, softer than flat black against warm card surfaces yet firm enough to read authoritative. A teal note #0e7a82 appears in narrow utility roles — the single vivid cool accent inside an otherwise earth-and-burgundy palette, likely a collection-period holdover. Corner radii hold at zero throughout — buttons, inputs, cards, and badges all carry squared profiles — a precision gesture applied to pixel geometry that echoes tailored stitching over consumer-friendly softness. Section breaks on desktop are generous, giving editorial photography the breathing room of a luxury print catalog where a single shoe owns the spread.
 
@@ -310,6 +314,13 @@ components:
 - Announcement bar: persists across all breakpoints; text may truncate with marquee scroll if copy exceeds single-line width on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

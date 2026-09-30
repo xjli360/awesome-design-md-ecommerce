@@ -4,6 +4,10 @@ name: "GReddy"
 source_url: "https://greddy.com"
 captured_at: "2026-09-29T04:17:35.122575+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   GReddy's storefront CSS exposes a strict black-and-white foundation (#000000, #ffffff, #121212, #1c1c1c) layered with neutral grays (#333333, #666666, #dddddd, #f5f5f5) for body copy, hairlines, and soft surfaces. A small set of blues (#1672b0, #105888) appear in the palette outside of checkout-specific selectors and are interpreted here as the site's interactive accent for links, focus states, and secondary emphasis; a warm tan (#f8ca79) is treated as a sparing highlight for badges or sale callouts. Payment-network colors (Visa/Mastercard/Shop Pay blues, oranges, and reds) were excluded from the brand role mapping since their selectors tie them explicitly to third-party checkout widgets.
   Typography is drawn from the observed font stack: Barlow is proposed for display/heading roles given its presence alongside a condensed, motorsport-oriented nav structure (engine-code categories like RB26, 2JZ, SR20), while Open Sans/system sans-serif covers body text. The CSS's zero border-radius on the accelerated-checkout button and the brand's industrial parts-catalog content suggest a squared, technical aesthetic rather than soft rounded UI — reflected here in a mostly sharp-cornered rounded scale. Header grid variables confirm a centered-logo, sticky-header structure at multiple breakpoints; all spacing/radius pixel values beyond that are proposed defaults, not measured.
@@ -154,6 +158,13 @@ Recommended breakpoints (proposed, not measured beyond the header logo-size chan
 Touch targets should be at least 44×44px for nav and filter controls; the mobile nav is expected to collapse into a hamburger/drawer pattern given the "Open navigation menu" text reference, though the actual collapse mechanism and animation were not observed. This table is a design recommendation, not a measurement of live site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "B4Adventure"
 source_url: "https://b4adventure.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Five shades of the same cold-water column — from the deep anchoring teal of #226d7a down through its near-twin #1e6d7a, then rising through the fluorescent surface glint of #22b8d1, and finally dissolving into the ice washes of #b0e0e9 and #e4f5fa — that is the entire B4Adventure palette, built without a single warm accent or earth note, as focused as a dive kit where every piece earns its weight. The name doubles as a temporal claim: Before Adventure, the moment of preparation, the kit spread on the floor the night before departure. The UI mirrors that pre-launch energy with an information-forward posture — spec tables, filter panels, and comparison tools doing the heavy lifting rather than full-bleed photography — because the person shopping here is packing, not dreaming. Open Sans carries the voice throughout at modest weights; the hierarchy runs on size contrast and the palette's cool voltage rather than weight escalation, body copy at 400 and titles at 600, 700 reserved for display moments that need to read from across a campsite. Components default to {rounded.md} (12px) rather than the pill shapes of lifestyle apps or the hard corners of a mil-spec catalog — the pragmatic middle register that says this is gear, not aesthetics. The accent #22b8d1 is the fluorescent marker of the system, applied to primary CTAs and hover states like the reflective strip on a dry bag, visible from distance against both the dark teal fields and the pale ice-blue surfaces. The deep primary #226d7a anchors nav bars and filled badge states; its near-twin #1e6d7a provides active and pressed depth cues without switching hue families. The ice-blue washes — {colors.surface-soft} at #e4f5fa and {colors.accent-soft} at #b0e0e9 — keep the pale end of the palette active for card backgrounds and alternating table rows rather than defaulting to blank white-on-white layouts that would erase the brand's tonal discipline.
 
@@ -302,6 +306,14 @@ components:
 - Footer columns reduce from 4-across to 2-across on tablet, then to single-column accordion on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

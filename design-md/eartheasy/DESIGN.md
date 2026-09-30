@@ -4,6 +4,10 @@ name: "EarthEasy"
 source_url: "https://eartheasy.com"
 captured_at: "2026-09-28T04:41:16.047565+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   EarthEasy's evidence shows a utilitarian ecommerce palette built around a terracotta-red primary (#c4301c) reused across CTAs, sale badges, and the "sale/error" color-scheme background, paired with a warm gold accent (#e1a308) used for primary buttons in the default scheme. Neutral ink-on-white (#000000/#ffffff) carries body copy and headings, with a mid-gray (#666666) reserved for subtext/metadata and a light hairline (#e5e5e5) for borders and dividers. A deep forest green (#284529) appears as an inverse/dark-mode surface, echoing the brand's sustainable-living positioning, while a soft cream (#f8f7f1) and light gray (#dedede) stand in for secondary backgrounds and card surfaces. Multiple numbered "color-scheme" blocks (info, sale, inverse, farmstead) suggest the CMS supports section-level theming rather than a single fixed page background.
   Typography combines two observed proprietary families: "P22 Mackinac Pro" (a serif-leaning display face, likely used for hero/section headlines) and "GT America" (a grotesque sans for UI chrome, nav, and buttons), with "Instrument Sans" appearing as a secondary body/reading typeface. All sizes below are proposed for a content-rich garden/greenhouse storefront; no live layout, spacing, or breakpoint behavior was measured. Semantic color-to-role assignments (surface-soft, surface-card) are inferred approximations from the nearest supplied hex values, not exact CMS variable matches.
@@ -131,6 +135,13 @@ Recommended, not measured:
 Touch targets should meet a 44×44px minimum on primary buttons and nav items. Mega-menu categories (Raised Garden Beds, Greenhouses, Sheds & Structures) likely require an accordion or flyout on mobile; this interaction was not observed and is a UX recommendation only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

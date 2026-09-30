@@ -4,6 +4,10 @@ name: "Savory Spice"
 source_url: "https://savoryspiceshop.com"
 captured_at: "2026-09-28T10:21:10.247219+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Savory Spice presents itself as a small-batch, expert-crafted spice merchant,
   and the observed CSS supports a warm, editorial retail aesthetic rather than a
@@ -167,6 +171,13 @@ This is a recommended structure, not measured site behavior — no breakpoint or
 Touch targets should follow the `.btn` `min-height:44px` convention observed in the CSS for all interactive controls (buttons, size-selector chips, search field). Mega-menu categories (Shop All, Gifts, Recipes, etc., seen in page text) are recommended to collapse into an accordion below the Medium breakpoint; this collapse behavior is proposed, not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

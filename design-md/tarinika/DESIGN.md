@@ -4,6 +4,10 @@ name: "Tarinika"
 source_url: "https://www.tarinika.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep teal (#108474) — the color of polished malachite and Indian meenakari enamel — anchors Tarinika's entire action system; every primary button, hover state, and navigational accent draws from this single brand voltage while the surrounding palette stays conspicuously restrained. Against a near-white canvas (#fafafa), the contrast is sharp but never harsh, lending the site the feel of a well-lit showroom rather than a marketplace aggregator. Canela, the contemporary display serif, carries the editorial weight of product naming and category headers — its slightly bracketed terminals evoke hand-lettered heritage jewelry catalogs without performing nostalgia — while Barlow handles everything below: nav links, product metadata, body copy, and form labels all render in this clean geometric sans, keeping UI surfaces readable without competing with jewelry photography. The palette beyond the primary teal reads deliberately spare: near-black ink (#0e0808) for primary text, a descending grayscale from #363636 through #7a7a7a and #d3d3d3 to off-white surfaces (#f2f2f2, #fafafa), with lighter teal extractions (#aadddd, #47c1bf) reserved for badge fills, hover halos, and occasion chips. That restraint places the color burden squarely on gold-toned and gemstone photography — a discipline common to high-quality jewelry e-commerce. No radius decision veers aggressive: category pill filters round to {rounded.full}, CTAs take a modest {rounded.xs}, and product card images land on a barely-there corner that reads contemporary without feeling commoditized. Spacing is generous through the browse experience — product grids breathe at {spacing.xxl} gutters on desktop, and the hero runs full-bleed imagery with centered Canela text overlay, placing jewelry against editorial photography rather than catalog white. The Indian cultural context surfaces through category architecture (temple jewelry, jhumkas, mangalsutras, and necklace sets as distinct navigation nodes), occasion-tagging vocabulary (Wedding, Festive, Daily Wear), and set-indicator chips that surface multi-piece product relationships directly on the tile, keeping complex Indian bridal jewelry sets legible in a grid context.
 
@@ -365,6 +369,13 @@ components:
 - Footer columns collapse from 4 to 2 at tablet and to 1 at mobile; newsletter signup stacks below category links
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

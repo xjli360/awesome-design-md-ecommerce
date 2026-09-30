@@ -4,6 +4,10 @@ name: "Grohe"
 source_url: "https://grohe.us"
 captured_at: "2026-09-28T10:14:23.232707+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Grohe's US storefront presents as a premium plumbing-fixtures catalog built on a
   navy-and-white foundation. The confirmed brand action color is a deep navy,
@@ -202,6 +206,12 @@ mobile submenu below 1024px, as suggested by the presence of distinct
 `.header-mobile-submenu-*` selectors already in the codebase.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Hydrow"
 source_url: "https://hydrow.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A dark, immersive fitness canvas where #000 sets the stage and #0070f3 — a precise, electric blue — becomes the single point of focus, the only color that breaks the void. This is not a cheerful gym brand; it's a performance interface for rowing, where every pixel serves the athlete's flow state. The blue appears in primary CTAs, progress indicators, and the subtle glow of the start button, never overwhelming but always purposeful. Typography runs system-native (-apple-system, Segoe UI, sans-serif) at moderate weights — no custom display face, no decorative flourishes, just clean hierarchy that gets out of the way. Cards and buttons use tight radii ({rounded.sm} at 8px), avoiding the pill-shaped friendliness of consumer marketplaces; this is a tool, not a toy. The secondary accent #3291ff provides hover states and link underlines, a lighter sibling that adds dimension without competing. White text on dark backgrounds carries all primary messaging, with muted grays for secondary info. The overall effect is one of controlled intensity — a cockpit for the body, not a social feed.
 
@@ -324,6 +328,13 @@ components:
 - Footer link columns collapse to single column with accordion expansion on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Lexar"
 source_url: "https://www.lexar.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A storage brand that communicates reliability through a controlled, high-contrast palette anchored on #409eff — a cool, technical blue that appears across primary CTAs, active states, and key interface highlights. The system leans heavily on a layered gray scale (#303133 for ink, #606266 for body, #909399 for muted, #c0c4cc for hairline) against a bright #f5f7fa canvas, creating a clean, data-dense reading environment suited for product specs, compatibility tables, and storage capacity comparisons. The extracted palette reveals a full semantic signal system: #67c23a for success states, #e6a23c for warnings, #f56c6c for errors — each with dedicated soft backgrounds (#f0f9eb, #fdf6ec, #fef0f0) that make status badges and alert banners legible at a glance. The interface uses subtle rounded corners ({rounded.xs} for table cells, {rounded.sm} for buttons) and avoids decorative excess, favoring clarity over personality. The typography stack is minimal — element-icons for iconography — suggesting a pragmatic, utility-first approach where content hierarchy is established through weight and spacing rather than font novelty. The brand's Japanese market presence (レキサー公式サイト) and global product focus demand a system that translates cleanly across languages and character sets, which the restrained palette and simple component geometry support. The overall impression is of a professional-grade tool interface: trustworthy, systematic, and built for repeated use in comparison shopping and technical evaluation.
 
@@ -673,6 +677,13 @@ components:
 - Sidebar filters (category, capacity, interface type) collapse to a bottom sheet drawer on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

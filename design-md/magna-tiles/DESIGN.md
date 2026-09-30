@@ -4,6 +4,10 @@ name: "Magna-Tiles"
 source_url: "https://www.magnatiles.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A primary-blue #2346da and crimson #e11d48 voltage runs through every CTA, badge, and interactive element on a near-black #171717 canvas — a system that reads as bold, primary-colored, and unapologetically child-directed. The brand trusts saturated accent colors (violet #9c00ff, orange #ff7e27) over photography to create hierarchy, with product tiles floating on a light gray #dedede surface that keeps the focus on the translucent, geometric tiles themselves. Inter at 400–700 weight handles all type, set at generous sizes for readability by small hands and adult shoppers alike. Buttons are pill-shaped (`{rounded.full}`) in the brand blue, while secondary actions use the crimson as a high-alert accent — a pattern that echoes the magnetic snap of the product. The nav bar sits at 64px with a clean white background and the logo centered, a restrained choice for a brand whose product is anything but restrained. There is no subtlety here: every color is at full saturation, every CTA is a pill, every edge is soft, and the overall effect is of a toy box organized by a very confident designer.
 
@@ -356,6 +360,13 @@ components:
 - Hero: reduced padding and smaller heading on mobile; full treatment on tablet+
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

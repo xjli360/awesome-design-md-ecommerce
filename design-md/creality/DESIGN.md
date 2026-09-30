@@ -4,6 +4,10 @@ name: "Creality"
 source_url: "https://www.creality.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The print-bed status indicator—a neon #17cc5f that reads equal parts factory signal and gaming RGB—anchors every primary CTA on Creality's site, from the hero "Shop Now" to the cart confirmation. That green runs through a fundamentally dark-mode product experience: near-black panels at #1e1e1e form the hero canvas, lighter #383838 and #363131 surfaces hold secondary content, and the light-mode product-listing pages shift to a blue-tinged off-white #f5f6fa that keeps the brand from feeling purely industrial. CrealitySans, a custom brand typeface, carries all display headings; HarmonyOS Sans SC fills the CJK character set for Chinese-market parity, reflecting that Creality is a Shenzhen-originating manufacturer whose site serves both domestic and global maker audiences simultaneously. A second voltage—electric cyan at #00bbff and #03bef1—appears on feature callouts and secondary graphic elements, mapping directly to the green/blue status LEDs present on physical Creality hardware: green means go, cyan means information. Rounded corners are restrained and utilitarian: {rounded.sm} on buttons and inputs, {rounded.md} on product cards, {rounded.full} reserved only for filter chips and search fields. Typography weights skew heavier than lifestyle brands—600–700 for titles at 18–24px—because the audience reads watt ratings and layer-resolution specs, not aspirational copy. The many Ant Design system colors (#1677ff, #722ed1, #13c2c2) visible in extraction belong to dashboard and admin surfaces beneath the consumer storefront and are excluded from the component system below. Prices display prominently at 24px/700 with struck-through originals beside them; the product card is the commercial engine, and everything else on the page drives toward it.
 
@@ -448,6 +452,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

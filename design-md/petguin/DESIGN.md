@@ -4,6 +4,10 @@ name: "Petguin"
 source_url: "https://petguin.com"
 captured_at: "2026-09-28T09:53:18.110935+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Petguin is a Shopify-hosted storefront for handmade cat and dog furniture (cat towers, dog crate furniture, indoor dog houses, dog beds). The theme's CSS exposes a small set of concrete, rendered hex values against a much larger design-token palette that resolves through unresolved CSS custom properties (--text-color, --heading-color, --button-background), so most "brand" colors could not be directly confirmed from selectors and are treated as inferred.
   Confirmed values include a slideshow button using near-black (#363636) text on a white (#ffffff) outline, and an accelerated-checkout button using a teal-blue (#1990c6, hover #136f99) fill with white text. These two form the basis of the proposed primary action color. Warm palette entries (#f6a429, #e98422) and status-like reds/greens (#cb2b2b, #307a07) appear in the supplied palette without direct selector evidence; they are mapped here as inferred accent/sale and success/error roles, reusable across badges and stock states.
@@ -147,6 +151,12 @@ components:
 Touch targets for `button-primary`/`button-secondary` should maintain a minimum 44px tap height, consistent with the `.shopify-payment-button__button` clamp(25px, …, 55px) rule observed in the accelerated-checkout CSS. Navigation collapse into a hamburger/off-canvas pattern below the tablet breakpoint is a recommendation only; no mobile menu markup or breakpoint values were present in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This interpretation is built from static CSS/text extraction only; no rendered screenshots, computed styles, or interaction states (hover/focus/active, mobile menu behavior, cart drawer) were observed. Many theme colors resolve through CSS custom properties (--text-color, --heading-color, --button-background, --button-text-color) whose final hex values were not exposed in the supplied evidence, so `ink`, `body`, `surface-soft`, `accent`, `success`, and `error` role assignments are inferred from the broader supplied palette rather than confirmed by selector-level proof. Font availability, licensing, and whether Poppins is self-hosted or third-party loaded were not verified. All spacing, rounded (aside from `none`, which reflects the observed `border-radius:0` on `.Button`), and typographic size values are proposed conventions, not measured layout. Breakpoints and touch-target guidance are recommendations based on common e-commerce patterns, not measured site behavior.

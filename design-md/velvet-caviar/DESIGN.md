@@ -4,6 +4,10 @@ name: "Velvet Caviar"
 source_url: "https://www.velvetcaviar.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A phone-case brand that wraps its protective shells in a pastel-and-neon color story anchored by a cool, confident cyan (#38b0de) — the single hue that appears on every primary CTA, the site’s floating cart badge, and the hero section’s accent line. That cyan sits alongside a warm blush (#e9c5bd) and a dusty rose (#e3c1ab), creating a palette that feels both sweet and sharp, like a candy store that also sells leather goods. The brand’s typography leans on Apris for display headlines — a rounded, friendly serif that gives the site a boutique editorial feel — while Messina Sans handles body copy with a clean, slightly condensed efficiency. Product cards use generous white space and a soft rounded corner (`{rounded.md}` ~12px), letting the case colors do the selling. The navigation bar is a thin, nearly invisible strip of white with a cyan search icon and a cart badge that pulses in the brand’s signature blue. Below the fold, a marquee of product images scrolls horizontally, each case rendered in a flat, almost vector-like style against a white background — no shadows, no gradients, just pure color and form. The footer collapses into a single column of links in muted gray (#b5b5b5), with a newsletter signup that uses the same cyan button as the rest of the site. The overall effect is clean, playful, and unapologetically feminine without being saccharine — a phone case brand that treats its product as a fashion accessory, not a utility.
 
@@ -454,6 +458,13 @@ components:
 - The hero section reduces vertical padding from 64px to 32px on mobile, and the headline font size drops from 36px to 28px.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

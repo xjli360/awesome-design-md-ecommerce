@@ -4,6 +4,10 @@ name: "Heimplanet"
 source_url: "https://heimplanet.com"
 captured_at: "2026-09-29T04:10:16.635694+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Heimplanet's storefront CSS evidence shows a monochrome-first system: pure black (#000000) and white (#ffffff) drive buttons, borders and body copy, with #333333 as the running text color and a family of light neutrals (#f5f5f5, #fafafa, #f3f3f3, #dedede) available for card and section backgrounds. Buttons are explicitly zero-radius (border-radius:0 on .button and on the Judge.me review widget tokens), reinforcing a squared, technical aesthetic consistent with tents, tarps and hardware-oriented gear. Two custom families are declared in the theme stack, Simplonnorm (body/heading) and Simplonmono (likely a technical/label face); Arial and Helvetica Neue appear as inherited theme fallbacks rather than brand faces. Uppercase, letter-spaced button labels (.2em) and a large uppercase H1 (4.375rem) suggest a confident, editorial-technical tone typical of outdoor equipment brands. A muted blue-grey (#758696) and mid greys (#999999, #9b9b9b) are treated here as inferred secondary-text/muted roles, since no explicit semantic label was present in the CSS. Multi-hue colors tied to payment-method iconography (e.g. #eb001b, #f79e1b, #0071ce) are excluded from the brand palette as non-brand. One warm red (#ea384c) is retained as an inferred sale/badge accent given the "Archive Sale 50%" content context. All other structure below is proposed and clearly labeled as such.
 
@@ -147,6 +151,12 @@ This is a recommended, not measured, breakpoint structure:
 Touch targets should be at least 44×44px for nav and cart controls; the mobile nav toggle (`.w-nav-button`) exists in the theme scaffold but its open/close behavior was not observed in static CSS. Collapse of secondary nav categories (Zelte & Tarps, Taschen & Rucksäcke, Bekleidung, etc.) into an accordion on small screens is a reasonable but unverified assumption given the deep category list in the page text.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Evidence is static CSS plus page text only; no rendered layout, computed spacing, or actual breakpoints were observed.

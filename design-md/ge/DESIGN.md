@@ -4,6 +4,10 @@ name: "GE"
 source_url: "https://www.geappliances.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   GE Appliances anchors its entire digital palette in a saturated navy — #092c74 — that the General Electric marque has carried since the mid-twentieth century, now applied as solid rectangular fills across the persistent navigation bar, primary CTAs, and major section headings with no gradient softening or transparency. The sharpness is deliberate: interactive corners default to `{rounded.none}`, a hard-edge philosophy that separates GE from the rounded, consumer-friendly conventions of post-2020 direct-to-consumer entrants. The effect reads as American institutional confidence — reliable infrastructure, not lifestyle aspiration.
 
@@ -402,6 +406,13 @@ components:
 - Footer five-column grid collapses to two columns at tablet, single-column accordion at mobile with headings as expand triggers
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

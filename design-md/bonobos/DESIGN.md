@@ -4,6 +4,10 @@ name: "Bonobos"
 source_url: "https://bonobos.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The Spezia Narrow Bold headlines compress horizontally until they sit on the page like copy stamped on a garment label — efficient, self-assured, occupying less real estate than a conventional face at the same cap height — and that compression sets the tone for every design decision downstream. Bonobos runs a lean visual language where a single teal (#00799c, the explicit meta theme-color) handles all primary CTA work, dark charcoal (#232323) anchors nav text and body copy, and a warm linen (#e8e1d7) surfaces as the editorial background note that flags campaign content without importing a new palette. Type is the brand's most expressive resource: Spezia Regular, Medium, Bold, and Narrow Bold stack four weight voices in one family, then gain two more registers in Spezia Serif Italic — used sparingly in seasonal pull-quotes where warmth is needed without a typeface change — and Spezia SemiMono Medium, which handles every price string and size code, its tabular figures locking numerals into rigid horizontal alignment across dense product grids. Primary buttons use `{rounded.none}` — architectural directness, no softening — while product cards relax marginally to `{rounded.xs}`, the only concession to approachability in an otherwise grid-strict layout. The orange-red sale signal (#d72b00) sits at the far end of the chroma scale from the teal primary, unmissable against white canvas without shouting; a warm peach (#eca37d) and mid-orange (#e36d2b) layer in as graphic accent fills on illustration and campaign imagery, reminding the viewer this is still a color brand built on washed chinos and seasonal palettes. Navigation deploys a mega-menu in Spezia Bold category headers over three to four subcategory columns, with a linen-background editorial panel on the right column; below, a hairline-bordered 64px nav row carries no shadow and no backdrop blur — magazine restraint that distinguishes the brand from the drop-shadow-heavy DTC mainstream.
 
@@ -409,6 +413,14 @@ components:
 - Footer link columns collapse to stacked accordions with Spezia Bold 16px header rows on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

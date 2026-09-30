@@ -4,6 +4,10 @@ name: "Kid Made Modern"
 source_url: "https://kidmademodern.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A craft brand that treats a child's workspace with the same seriousness as a design studio, anchored on a tricolor palette of forest-green #49945f, teal #2daaac, and cornflower #3d7db0 — colors that feel plucked from a premium marker set rather than a primary-school classroom. The brand's visual system runs on Hepta Slab, a sturdy serif with generous ball terminals that reads as both playful and authoritative, giving project titles and product names a hand-lettered warmth without sacrificing legibility. White canvas (`{colors.canvas}`) dominates product pages and project galleries, letting the craft materials — pom-poms, pipe cleaners, acrylic paint — supply the texture and color. Buttons and interactive elements use the forest-green as their primary voltage, with `{rounded.sm}` corners that feel friendly but not cartoonish; the brand trusts the inherent messiness of craft photography over decorative UI embellishment. Navigation is deliberately sparse — a single top bar with logo, search, and cart — because the real interface is the grid of craft kits and the "Projects" tab that surfaces step-by-step video tutorials. The checkout flow inherits Shopify's default widget styling, which introduces a slight visual break from the brand's custom palette, but the product detail pages maintain a clean, airy hierarchy: a large hero image, a short description in `{typography.body-md}`, and a prominent "Add to Cart" button in `{colors.primary}`. The overall mood is "modern art classroom" — organized enough for a parent to navigate quickly, colorful enough to hold a child's attention, and designed around the principle that the best interface is the one that gets out of the way and lets you make something.
 
@@ -480,6 +484,13 @@ components:
 - Product image galleries collapse from thumbnail strip to swipeable carousel on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

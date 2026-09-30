@@ -4,6 +4,10 @@ name: "Hallman"
 source_url: "https://www.hallmanindustries.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Gold hardware glints against matte black steel — that single material pairing drives every pixel of Hallman's digital presence the way it drives their physical ranges. The site opens into darkness: a near-black canvas (`{colors.canvas-dark}`) lets full-bleed lifestyle photography of colored ranges command the viewport, then yields to a clean white surface (`{colors.canvas}`) for spec grids and configurator panels. Primary actions carry a warm antiqued gold (`{colors.primary}`, #b8965a) lifted straight from the brass trim on their appliance knobs and handles — not a decorative flourish but a literal product-truth translated into interface. Typography stays authoritative without shouting: a geometric sans-serif in weight 500–700 at generous sizes for display headings, dropped to 400 for body copy, with tight letter-spacing that echoes machined precision. Corners are kept almost perfectly square (`{rounded.xs}` on cards, `{rounded.none}` on hero imagery) because the product language is slabs, edges, cast-iron gratings — softness would contradict what's being sold. Spacing is architectural: `{spacing.section}` gaps between content bands give each range finish its own breathing room, mimicking a showroom floor rather than a catalog page. The product card component pairs a dominant swatch circle with a cropped beauty shot, foregrounding color choice as the primary purchase decision. Navigation is minimal — five or six top-level links in uppercase micro-labels, reinforcing the idea that Hallman's catalog is curated, not sprawling. A sticky configurator bar appears on product pages, holding finish, size, and fuel-type selectors in a single row with the gold CTA anchored right, ensuring the build-your-range flow never scrolls out of reach.
 
@@ -322,6 +326,13 @@ components:
 - Announcement bar text truncates with ellipsis; swipe for full message on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

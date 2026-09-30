@@ -4,6 +4,10 @@ name: "Collectors Anime"
 source_url: "https://www.collectorsanime.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A collector's marketplace that wears its blue-collar anime fandom on its sleeve, anchored on a warm gray canvas (#f7f7f7) and a primary blue (#003399) that reads more like a vintage import-shop awning than a tech startup's CTA. The palette is a study in contrast: the deep navy ink (#414141) of product descriptions sits against soft silver surfaces (#f0f0f0, #e5e5e5), while a single accent of safety green (#116600) and a rare flash of caution yellow (#ffff00) appear on price tags and limited-stock badges — colors borrowed from industrial labeling rather than brand guidelines. Typography runs Open Sans at modest weights (400–600), with display sizes staying below 24px; the brand trusts its product photography and dense information architecture over typographic drama. Navigation is a straightforward horizontal bar with a search field that uses a soft corner ({rounded.sm}) and a subtle border (#e5e5e5), while product cards stack in a clean grid with generous padding ({spacing.base}) and a faint shadow that lifts them off the canvas. The overall feel is that of a well-organized warehouse — utilitarian, trustworthy, and built for the collector who knows exactly what they're looking for.
 
@@ -303,6 +307,13 @@ components:
 - The footer's multi-column layout stacks into a single column with accordion-style expandable sections
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

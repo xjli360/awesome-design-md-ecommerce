@@ -4,6 +4,10 @@ name: "Metabo"
 source_url: "https://metabo.com"
 captured_at: "2026-09-28T10:34:11.806412+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Metabo's public site evidence shows a professional industrial-tools palette
   built on a dark forest green (#224b44, with tonal variants #15433d, #09726a,
@@ -149,6 +153,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be a minimum 44×44px for button and nav components; the extensive nested category menu implied by the page text suggests collapsing sub-lists behind expandable disclosure controls on narrow viewports. None of this responsive behavior was directly observed; it is inferred from the single fixed-width container rule captured in evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered layout, hover/focus states, animations, or actual mobile breakpoints were observed. Color-to-role mapping (e.g. which red is used for alerts vs. accents, which green variant serves as primary vs. hover) is inferred from repeated usage patterns in class names like `boxHeaderGreenStyle`, not confirmed visually. Typography sizes for `display-xl` and `body-md` are proposed extrapolations, not directly present in the supplied CSS. The proprietary "Metabo W01 Regular," "MetaboSans," and "MetaboSlab" fonts are referenced in the stylesheet but their licensing, availability, and exact letterforms were not verified. Component states (hover, active, disabled, error) are entirely proposed and unobserved. The `battery-compat-tag` and other category-specific components are speculative design proposals based on the product taxonomy described in the page text, not on captured UI markup.

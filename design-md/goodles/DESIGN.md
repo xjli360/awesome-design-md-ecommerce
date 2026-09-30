@@ -4,6 +4,10 @@ name: "Goodles"
 source_url: "https://goodles.com"
 captured_at: "2026-09-28T09:46:29.732021+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Goodles presents as a playful, color-saturated CPG brand built around a mac-and-cheese product line. The observed palette is unusually large and vivid, spanning reds, pinks, cyans, purples, greens and multiple yellows, consistent with per-flavor theming (theme-ui-colors variables show distinct primary/secondary/tertiary sets per product). For this interpretation, {colors.primary} is drawn from the observed ctaColor token (#FF2815), paired with the observed ctaTextColor (#FFDD00) as on-primary for high-contrast CTAs. Ink and muted text roles use dark, saturated tones already present in the palette (#273376 navy, #4F3B97 purple) rather than an unobserved black, since no neutral gray or true black hex was supplied. Canvas and card surfaces use the observed white (#FFFFFF); a soft pink (#FFC8D0), also used as an override accent/bowl-outline color in the CSS, becomes surface-soft for gentle section backgrounds. Hairline uses a light observed blue (#A4DEFB) for subtle separators, an inferred role since no dedicated border color was captured. Typography draws on the observed Sofia Pro family for display and UI text, Helvetica LT Std as a body fallback, and Overpass Mono for small mono-styled accents (e.g., prices, tags), all layered onto system-ui/sans-serif fallbacks. All sizes, weights and component patterns below are proposed conventions for a playful, high-energy snack/pasta storefront, not measured layout values.
 
@@ -119,6 +123,13 @@ button-primary is the main add-to-cart/shop CTA, using the observed ctaColor/cta
 Recommended, not measured: mobile <480px single-column stacked hero and product grid; tablet 480–959px two-column product grid with condensed nav; desktop ≥960px multi-column grid with full horizontal nav. Touch targets should be at least 44px tall for buttons and nav items; the nav is proposed to collapse into a hamburger/drawer pattern below 960px given the number of listed menu items (Cheesy Macs, Protein Pasta, Build-a-Box, Trial Pack, Where To Buy, Learn, Account). Slick-carousel classes observed in the CSS suggest a horizontally-swiped testimonial/product slider on smaller viewports, but exact breakpoints were not present in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This is a static CSS/text extraction; no live rendering, computed layout, JavaScript-driven interaction, or actual mobile viewport was observed. Color-to-role mapping (ink, muted, hairline, surface-soft) is inferred from the closest suitable hues in the supplied palette since no neutral gray or black was present in evidence; an unobserved #000000 was explicitly avoided per prior correction. Typography sizes, weights, and line-heights are proposed conventions, not measured from rendered pages; only the font-family names (Sofia Pro, Helvetica LT Std, Overpass Mono, Pitch, system-ui) are observed. Per-flavor theme-ui color sets (e.g., F652AC/ffdd04 for one product theme, 73E5E1/FF2815 for the default) indicate the live site likely swaps palettes per SKU, which this single interpretation does not fully capture. Custom font licensing, self-hosting, and availability (Sofia Pro, Pitch) were not verified. Component states such as hover, focus, disabled, and error styling are proposed patterns only, not confirmed via observed CSS pseudo-classes beyond the limited slick-dots and modal examples supplied.

@@ -4,6 +4,10 @@ name: "RC Fastener"
 source_url: "https://www.rcfastener.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Metropolis — a geometric sans-serif with Bauhaus DNA — lands as the display and navigation typeface atop a Bootstrap 3 skeleton at RC Fastener, a productive mismatch between a font engineered for contemporary visual identity and a grid system optimized for wholesale procurement efficiency. The brand blue is #0064af, pulled noticeably deeper and more saturated than Bootstrap's native #337ab7 — a deliberate deviation that carves out brand ownership without abandoning the familiar 12-column grid. Nearly the entire structural color vocabulary runs on Bootstrap's own semantic alert system: success green (#3c763d text on #dff0d8 ground), warning amber (#8a6d3b on #fcf8e3), danger red (#a94442 on #f2dede), and info blue (#23527c on #d9edf7). These alert-state pairs are not cosmetic residue — for wholesale buyers tracking minimum order quantities, lead times, and stock availability windows, a precise semantic palette is functional infrastructure, not decoration. Corners hold near-square throughout at {rounded.xs} and {rounded.sm}, a configuration that signals procurement density over consumer warmth. The body ink is #2c2a29, a slightly warm near-black that sustains legibility across dense spec tables without the optical harshness of pure black on white. Arial carries all body text and table data; Metropolis reserves its geometric clarity for page-level headings, category titles, and nav labels where cap-height distinctiveness helps buyers scan a deep catalog quickly. A secondary accent at #cb090d — a crimson red — marks price callouts and urgent stock warnings, injecting signal weight without drifting the system toward retail tone. The whole palette, taken together, reads like a trade counter digitized: dense, unambiguous, and calibrated for buyers who arrive knowing their thread pitch and order volume before the page loads.
 
@@ -382,6 +386,13 @@ components:
 - Footer columns stack vertically on mobile with `{spacing.lg}` between each section
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Klim"
 source_url: "https://klim.com"
 captured_at: "2026-09-28T09:44:31.005279+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Klim's storefront CSS shows a stark, high-contrast performance-gear aesthetic: pure black (#000000) and white (#ffffff) carry primary actions and inverse states, with a tight family of light grays (#ebebeb, #f9f9f9, #f5f5f5, #e2e2e2) forming soft surfaces and hairlines against a white canvas. Headings, titles, and the .button/.title selector group are set in "Industry Ultra" with "Cabin" and sans-serif fallbacks, a condensed, technical display face suited to a motorsport/outdoor-gear brand. Interactive controls (native buttons, inputs) instead resolve to Roboto at font-weight 500, so body copy and button labels are treated here as an inferred Roboto role, while Industry Ultra/Bold is reserved for display and heading roles. All observed buttons use border-radius:0, so the design system's "none" radius token is treated as the default for interactive shapes, a deliberate squared-off, utilitarian look. A small set of saturated accents (#d32d2d red, #f6a529 orange, #108043 green) appear in the palette and are inferred as status/badge colors (sale, warning, in-stock) rather than confirmed UI roles, since no selector evidence ties them to specific components. Layout metrics (grid, breakpoints, spacing rhythm) are not present in the supplied CSS and are proposed defaults only.
 
@@ -135,6 +139,13 @@ Proposed breakpoint table (not measured from live site):
 Touch targets should meet a 44px minimum (buttons currently show 8–14px vertical padding plus border, which is likely below this on mobile and would need proposed enlargement). Mega-menu collapse behavior for the long Snow/Motorcycle/SxS/Everyday hierarchy is not observed and should be validated against live interaction.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This interpretation is derived from static CSS/text extraction only; no rendered layout, computed grid, JavaScript-driven interaction, or actual mobile viewport was observed. Font-size, line-height, and letter-spacing values for headings (display-xl/md, title-md) are proposed estimates, not measured, since only button/input font-size (16px, 13px) appeared in the evidence. The apparent conflict between the `.button` selector under the Industry Ultra heading-font rule and the later `.button,.btn,button{font-family:Roboto}` rule could not be resolved from static specificity alone; Roboto was assumed for interactive button-md based on the more specific, button-scoped declaration. Accent colors (red/orange/green) are inferred as status/badge roles from common retail convention, not confirmed by any supplied selector tying them to sale/stock states. Spacing scale and section rhythm are proposed conventions, not extracted from layout CSS. Availability, licensing, and web-font loading for "Industry," "Industry Bold," and "Industry Ultra" were not verified and may require confirmation before implementation.

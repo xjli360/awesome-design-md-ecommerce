@@ -4,6 +4,10 @@ name: "Chirp"
 source_url: "https://www.chirpbooks.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, ink-black (#313131) audiobook storefront that trusts its covers and its copy over ornament — the single extracted hex is the brand's entire foreground vocabulary, from body text to nav links to star ratings. The site reads like a well-stocked library shelf: dense with metadata (author, narrator, length, price, rating), each book card a compact information block rather than a visual hero. The system font stack (-apple-system, system-ui, sans-serif) means Chirp lets the content speak without typographic branding; there is no custom typeface, no brand font, just clean, legible text at modest sizes. The primary action — buying a book — uses a bold accent color (likely a distinctive green or orange from the extracted palette, though only #313131 survived extraction), set against white canvas with soft rounded corners on cards and buttons. The experience is utilitarian but warm: high information density, clear pricing, and a persistent "Listen Now" or "Add to Cart" affordance that never competes with the book's own cover art. Chirp's design philosophy is "the book is the hero" — the interface steps back, using only one strong color, one type stack, and generous spacing to let thousands of titles breathe.
 
@@ -328,6 +332,13 @@ components:
 - Footer links stack vertically on mobile instead of the multi-column layout used on desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

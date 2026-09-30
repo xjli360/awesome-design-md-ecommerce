@@ -4,6 +4,10 @@ name: "Ultrahuman"
 source_url: "https://ultrahuman.com"
 captured_at: "2026-09-28T10:00:08.651455+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Ultrahuman's evidence shows a black-and-white foundation with a saturated
   blue (#112baf) reserved for primary calls to action, layered over a system
@@ -169,6 +173,12 @@ components:
 Touch targets are recommended at a minimum 44×44px for buttons and nav items, consistent with the pill-button padding observed (`12px 24px`). Collapse of multi-item navigation into a drawer/menu below `md` is a proposed pattern; no mobile menu markup or media queries were present in the supplied CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

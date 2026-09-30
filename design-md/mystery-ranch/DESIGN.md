@@ -4,6 +4,10 @@ name: "Mystery Ranch"
 source_url: "https://mysteryranch.com"
 captured_at: "2026-09-29T04:22:05.999610+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Mystery Ranch is a mission-driven outdoor and tactical backpack brand, and the observed CSS reflects a utilitarian, function-first storefront built on Bootstrap-derived components (table, btn, facets classes) rather than a bespoke design system. The evidence surfaces a neutral grayscale base (#ffffff, #f5f5f5, #333333, #6d6e71, #231f20) paired with a single warm accent, #ea7600, which is inferred as the primary brand/CTA color given its saturation contrast against the otherwise desaturated palette; #c6690a is treated as a hover/pressed variant of that accent. Supporting state colors (#dff0d8, #f2dede, #fcf8e3, #d9edf7) are standard Bootstrap alert/table tints, inferred as reused for inventory or form-validation feedback rather than brand expression. Typography centers on "Industry" for display/headline treatment (confirmed only on a jumbotron subheader selector) with "Open Sans"/Helvetica Neue/Arial as the body and fallback stack, consistent with a rugged, condensed-display + clean-sans-body pairing common to outdoor gear retailers. Layout, spacing, radii, and component states below are proposed conventions sized for a product-catalog experience (facets, filters, product cards, hero banners) and are not measured from live rendering; they extrapolate reasonable defaults from the class names and color tokens present in the evidence.
 
@@ -148,6 +152,13 @@ The following breakpoints are a **recommendation**, not measured site behavior, 
 Touch targets should be a minimum 44×44px for buttons and nav items; the mega-menu should collapse into an accordion on mobile with facet filters accessible via a slide-in panel. None of this responsive behavior was observed directly.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text evidence only; no rendered layout, computed styles, or DOM screenshots were available. Color **role assignments** (primary, ink, muted, hairline, etc.) are inferred from raw hex values and Bootstrap-class conventions, not confirmed brand guidelines — the true brand primary could differ from #ea7600. Typography sizes, weights, and letter-spacing beyond the single confirmed `.jumbotron-subheader` rule are proposed, not measured. "Industry" is a licensed commercial font; its availability, hosting method, and licensing on the live site were not verified. All component states (hover, focus, active, disabled) beyond the one captured `.btn-default:hover` rule are proposed patterns. Mobile navigation collapse, filter-drawer interaction, and actual cart/search UI behavior were not observed and are extrapolated from menu text content alone. Spacing and rounded-corner scales are conventional defaults, not extracted from the supplied CSS.

@@ -4,6 +4,10 @@ name: "Ruvati"
 source_url: "https://ruvati.com"
 captured_at: "2026-09-28T09:19:41.140171+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Ruvati's public site runs on WordPress/WooCommerce with a Twenty-Twenty-era block
   theme, so the observed palette mixes genuine storefront styling with default block-
@@ -139,6 +143,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets for buttons and nav items should be at least 44px tall (proposed). Mega-menu categories (By Room, By Material, By Style, By Finish) should collapse into an accordion on mobile (proposed, not observed). No actual responsive CSS or media queries were present in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Evidence was extracted statically; no live rendering, computed styles, or JavaScript-driven behavior (e.g., mega-menu interaction, mobile nav collapse) was observed.

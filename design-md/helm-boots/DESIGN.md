@@ -4,6 +4,10 @@ name: "Helm Boots"
 source_url: "https://helmboots.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Warm amber (#f8b52e) cuts across a bone-white canvas (#fbf9f5) like a lantern lit inside a workshop — the organizing metaphor for Helm Boots' visual system, which pairs a deep slate-teal ink (#2d3b43) against parchment backgrounds to suggest permanence rather than trend. Where most footwear DTC brands reach for stark white-and-black, Helm reaches for warmth: the canvas is slightly creamier than white (#fbf9f5 rather than #ffffff), hairlines are warm stone (#e6e4de), and even mid-ground surfaces shift toward oat (#f1f1f1) rather than a cold neutral. The typography pairing does the heavy philosophical lifting — Libre Baskerville anchors display and headline positions with its thick-bracketed serifs and high-contrast stroke, while Instrument Sans handles every label, button, and navigation element with geometric quiet. That combination communicates exactly what "Footwear For Life" promises: something built with old-world intention, purchased through a modern interface. Neon yellow (#ffff00) surfaces only as a punctuation mark — a badge chip or sale callout — functioning as the jolt in an otherwise grounded palette. The amber (#f8b52e) occupies the mid-register between these two poles, appearing in price highlights and hover states that reward attention without demanding it. Interactive blue (#146ff8) routes to links and cart confirmations, keeping transactional affordances visually distinct from brand expression. Rounded corners sit in the minimal range — `{rounded.xs}` to `{rounded.sm}` on most components, with the card surface barely soft enough to read as digital rather than print. The overall composition feels less like a product catalog and more like a reference book that happens to have an add-to-cart button.
 
@@ -305,6 +309,13 @@ components:
 - Product card name truncates at two lines; price and badges remain always visible
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

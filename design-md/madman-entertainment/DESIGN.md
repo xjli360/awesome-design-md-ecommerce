@@ -4,6 +4,10 @@ name: "Madman Entertainment"
 source_url: "https://www.madman.com.au"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep crimson #ff3333 pulses through the Madman Entertainment interface like a heartbeat, marking every primary action, badge, and category accent against a stark white #ffffff canvas. The palette reads like a collector's shelf — alongside the signature red sit a muted sage #7bdcb5, a warm amber #fcb900, and a slate gray #abb8c3 that together suggest the breadth of anime, cult cinema, and independent film the brand curates. The extracted colors are unusually varied for a single-brand site, likely reflecting a content-driven system where product packaging, film posters, and genre tags introduce their own chromatic identities; the brand trusts its visual content over rigid color architecture. Navigation is lean and utilitarian — a horizontal bar with dropdown menus for Shop, Genres, and Releases — while product cards stack in clean grids with the Madman red reserved for price tags, "Pre-order" flags, and "New Release" badges. The overall mood is that of a passionate specialty retailer: the red is loud enough to signal urgency but tempered by generous whitespace and a neutral body text in #0d0d0d that keeps the focus on cover art and synopses. No font-family declarations were found on the live site, so the system defaults to a sans-serif stack that reads cleanly across product listings and film descriptions.
 
@@ -369,6 +373,13 @@ components:
 - Breadcrumb trail truncates at < 744px, showing only the current page and a "Back" link
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

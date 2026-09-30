@@ -4,6 +4,10 @@ name: "Frigidaire"
 source_url: "https://www.frigidaire.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep cobalt blue — the same shade stamped on refrigerator nameplates since mid-century — anchors every interactive surface on a site built to sell large appliances the way an automotive configurator sells cars. The primary (#003da5) saturates CTAs, sticky "Add to Cart" bars, and comparison-tool headers while the rest of the page breathes on a near-white canvas (#ffffff) broken only by cool gray surface bands (#f4f4f4) that section off spec tables and lifestyle photography. Typography leans on a geometric sans-serif stack close to Helvetica Neue / Arial, set at restrained weights — product titles hit 600 but rarely 700, body copy stays at 400 — trusting product imagery and generous padding (`{spacing.section}`) to carry visual weight. Cards use a subtle `{rounded.sm}` radius (8px), buttons land at `{rounded.xs}` (4px), and the overall language is squared-off and engineered: no pill shapes, no playful curves. A persistent comparison tray slides up from the bottom of the viewport holding up to four product thumbnails, reinforcing the research-heavy purchase journey. Product cards pack a "Quick View" overlay, an energy-star badge, and a price block with strikethrough sale logic — dense information architecture kept legible by disciplined use of `{colors.muted}` (#6b6b6b) for secondary text and `{colors.hairline}` (#d9d9d9) for dividers. The palette stays monochromatic outside of the primary blue: no accent hue competes for attention, letting that single cobalt carry 100% of the brand signal against an otherwise neutral stage.
 
@@ -470,6 +474,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

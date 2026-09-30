@@ -4,6 +4,10 @@ name: "Aqara"
 source_url: "https://aqara.com"
 captured_at: "2026-09-28T09:08:17.302314+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Aqara's homepage evidence shows a light, high-contrast interface built on white canvas
   (#ffffff) with near-black text tones (#1d1d1f, #121212) rather than pure black, consistent
@@ -173,6 +177,14 @@ The following breakpoints are a **recommendation only**; no responsive/mobile CS
 Touch targets should be a minimum 40px (matching the observed `.icon-btn` 40×40px sizing). Dropdown/accordion collapse behavior is proposed based on the presence of `.mobile-accordion-link` selectors, not confirmed interaction observation.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered layout, animation, or real breakpoint behavior was observed. Color-to-role mapping (e.g., which gray is "body" vs "muted") is inferred from selector context, not confirmed by visual inspection. Several palette colors (accent-red, accent-green, accent-amber, link-blue) have no accompanying selector evidence and are held as unassigned/inferred accents. Typography sizes beyond the few directly observed (16px nav-link, 15px sub-link, 14px caption text) are proposed placeholders. Font rendering relies on system fonts and Chinese web-safe fonts (PingFang SC, Microsoft YaHei, 宋体, 黑体); no custom/proprietary font files or licensing were observed or verified. Mobile menu, form validation states, and hover/focus states beyond those explicitly styled (nav-link hover, icon-btn hover, search-clear hover) are not observed and are marked proposed throughout.

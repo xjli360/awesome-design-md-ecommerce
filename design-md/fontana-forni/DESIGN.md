@@ -4,6 +4,10 @@ name: "Fontana Forni"
 source_url: "https://www.fontanaforni.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The name translates as "fountains" in Italian, and the palette makes that etymology visible — deep teal #226d7a runs every primary CTA and nav bar on a brand whose central product proposition is open flame. That counterintuitive coolness is the defining design decision: rather than warm terracotta and soot-black, Fontana Forni anchors its digital identity in the Adriatic end of the spectrum, where #226d7a and #1e6d7a function as a near-twin primary pair (the second reading as a pressed-state depth rather than a distinct hue), the bright cyan #22b8d1 lifts interactive highlights, and the near-white aqua #e4f5fa ({colors.surface-soft}) keeps product photography clean without the clinical flatness of pure white. Powder blue #b0e0e9 ({colors.accent-soft}) softens badge fills and secondary surface tints, completing a palette that is unusually monochromatic for a DTC brand — five variants of the same hue family, zero warm offsets. Open Sans carries the typographic system; it was the only non-system font stack detected in extraction, and it earns its place with the same qualities the palette communicates: precision, legibility, no decorative impulse that might undercut an oven's engineering credibility. Corner geometry holds at {rounded.xs} and {rounded.sm} throughout — machined tolerances read in the UI as they do in the product. Section spacing opens to {spacing.section} to give furnace photography the silence it demands; these are permanent outdoor installations that reward evaluation rather than impulse, and the layout communicates that disposition before a word of copy loads. The overall register is precision-utilitarian with a Mediterranean light quality: a brand calibrated for buyers who arrive having already done three weeks of research.
 
@@ -298,6 +302,13 @@ components:
 - Footer 4-column grid collapses to 2-column at tablet, single-column accordion at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

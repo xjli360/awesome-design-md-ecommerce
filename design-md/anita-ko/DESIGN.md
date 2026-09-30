@@ -4,6 +4,10 @@ name: "Anita Ko"
 source_url: "https://www.anitako.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Five near-black tones cluster in the extracted palette — #111111, #121212, #1e1e1e — before a single dusty-rose spike at #b43f69 interrupts the void. That one color does concentrated work: it marks every primary CTA, editorial accent, and hover state without softening the brand's hard-edged Los Angeles sensibility. Typography runs between two deliberate poles — The Seasons, an elegant variable serif deployed at weight 300 for all display headline work, and Helvetica for navigation labels, product copy, and form fields. The pairing creates editorial gravity from the serif against Swiss-grid precision from the sans; nothing in the hierarchy is redundant. Product imagery sits against near-black grounds ({colors.surface-dark}), which makes diamonds and colored gemstones read as self-luminous rather than ornamental. Rounding is near-absent: product cards, buttons, and input fields hold sharp corners ({rounded.none}), and only material tags and pill selectors reach {rounded.full}. The result is an architectural grid that lets the jewelry provide all the organic softness. Navigation is spare — a monochromatic top bar carrying four to five Helvetica uppercase links at wide letter-spacing, a cart icon, and the Anita Ko wordmark centered or left-aligned by viewport. Layout uses generous vertical rhythm ({spacing.section} at 64px between editorial modules) so full-bleed photography can breathe. Collection pages surface product names in The Seasons thin-weight and pricing in the same serif at lighter weight still, both against the white product-card ground ({colors.canvas}). The dusty-rose primary ({colors.primary}) appears on button hover states, active link underlines, and wishlist icon fills — never as a background wash, always as a single precision accent. Footer type runs at {typography.caption} against {colors.surface-dark}, a typographic whisper beneath the visual weight of the collection above. The entire system operates as a near-two-tone composition: near-black for structure and ground, white for product revelation, rose as the brand's one voltage point.
 
@@ -343,6 +347,14 @@ components:
 - Footer: four-column link grid collapses to two columns at tablet, single column at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

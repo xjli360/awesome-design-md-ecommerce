@@ -4,6 +4,10 @@ name: "The Spice House"
 source_url: "https://thespicehouse.com"
 captured_at: "2026-09-28T09:27:16.616831+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The Spice House's observed markup centers on a warm, kitchen-market palette:
   a terracotta/orange accent (#d24602) drives promotional bars and primary
@@ -167,6 +171,13 @@ This is a recommendation only; no breakpoints, media queries, or mobile layout w
 Touch targets should be at least 44px; the observed `.btn` padding (`11px 20px 16px`) roughly satisfies this at desktop but should be re-verified on touch devices. Mega-menu and mobile drawer collapse behavior is proposed based on the presence of `.nav__wrapper`/`.nav__content` selectors, not confirmed animation or trigger logic.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This spec is derived from static CSS/text extraction only; no rendered layout, hover/focus states, animation timing, or actual responsive breakpoints were observed. Several palette entries (teal, yellow, lilac, cyan, social-brand colors like `#3b5998`, `#1da1f2`) could not be confidently mapped to a specific UI role and are treated as inferred accents rather than confirmed brand colors. Font availability and licensing for Canela and Venus URW were not verified — both should be confirmed as licensed/self-hosted or replaced with system equivalents before production use. Spacing and rounded-corner scales beyond the literal `border-radius:0` on `.btn` are proposed conventions, not measured values. Component patterns without a matching selector in evidence (text-input, product-card, hero, footer, spice-category-tile) are marked inferred and should be validated against the live site's actual DOM/CSS before implementation.

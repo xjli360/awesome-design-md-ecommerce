@@ -4,6 +4,10 @@ name: "Miele"
 source_url: "https://www.mieleusa.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Miele's product photography uses a very specific gray — not warm, not cool — as the default rendering surface for appliance renders, and the extracted site palette confirms that same discipline in the UI: four hex values (#1f1f1f, #343434, #6b6b6b, #ececec), all achromatic, spanning from near-black to light ash with no deviation toward warmth or coolness. Helvetica Neue handles all display type at light-to-regular weight, functioning not as a personality carrier but as a neutral readout — the register a technician expects from an equipment panel rather than a storefront sign. The Miele Icon Font, a fully proprietary glyph set, handles all pictographic communication; its existence signals a design vocabulary thorough enough to have developed its own symbol system rather than licensing from a standard library. Every interactive element holds {rounded.none}: buttons, inputs, product cards, and filter bars all terminate in a hard corner — soft radii would telegraph consumer softness, while zero-radius geometry matches the machined edges of a refrigerator door handle or oven fascia. The primary CTA resolves to {colors.primary} (#1f1f1f), a near-black that avoids the aggression of pure black while maintaining authority; active states shift to {colors.primary-active} (#343434), a delta barely perceptible on screen but present in the system hierarchy. Product cards float on {colors.canvas} white against {colors.surface-soft} backgrounds, delineated by {colors.hairline} (#ececec) rules that mark territory without simulating depth or shadow. Spec tables and comparison grids employ {typography.spec-label} — small, spaced uppercase Helvetica Neue — to label technical attributes, borrowing the visual grammar of equipment datasheets rather than retail marketing copy. {spacing.section} (64px) governs the rhythm between page sections, giving each feature module the breathing room of a showroom floor rather than an e-commerce scroll; the overall posture is horizontal, unhurried, and large-format — each panel aspires to the footprint of a full-bleed photograph of steel and glass.
 
@@ -324,6 +328,13 @@ components:
 - Footer column grid collapses to 1-column accordion on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

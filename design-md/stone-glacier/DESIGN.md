@@ -4,6 +4,10 @@ name: "Stone Glacier"
 source_url: "https://www.stoneglacier.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A backcountry hunting brand that builds its entire visual language around #111111, a near-black that reads as absolute authority against the white canvas of snowfields and alpine granite. The palette is deliberately austere — #111111 for all primary text and heavy structural elements, #d9d9d9 for secondary copy and muted labels, and a single accent of #4469af that appears only in navigation links and selectable UI states, a cool blue that echoes the high-altitude sky rather than any corporate identity. The brand's true voltage comes from #c8232c, a desaturated crimson used sparingly for sale badges, inventory warnings, and the cart count — it lands like a blood spot on snow, impossible to ignore. Type runs Barlow at generous sizes (display at 32px with 1.2 line height, body at 16px with 1.5) set in weights 400–700, with Figtree appearing as a secondary face for product descriptions and technical specs. Cards and buttons use {rounded.sm} (8px) — enough softness to feel intentional, not enough to suggest anything recreational. The product grid is ruthlessly square: 1:1 aspect ratio on thumbnails, tight {spacing.sm} gutters, and no decorative borders except a {hairline} (#dedede) that separates the footer from the body. Every component is built for gloved hands — {spacing.lg} padding on all touch targets, 48px minimum button height, and a sticky top nav that never collapses below 64px. The search bar is a full-width input with {rounded.sm} corners and a #4469af focus ring, not a pill — this is a tool, not a toy. The brand trusts its product photography (always on-location, always in low-angle golden hour) to carry the emotional weight, keeping the UI as transparent as possible.
 
@@ -388,6 +392,13 @@ components:
 - Secondary navigation (breadcrumbs, category sub-nav) hides entirely on mobile, replaced by a "Back" button and the page title.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

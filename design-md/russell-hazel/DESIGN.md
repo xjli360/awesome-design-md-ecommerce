@@ -4,6 +4,10 @@ name: "Russell+Hazel"
 source_url: "https://www.russellandhazel.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Russell+Hazel opens with a color bet most office brands won't take — a deep sea-glass teal (#108474) owns every primary action (add-to-cart, active nav states, announcement bars) while a coral-red jolt (#f04f36) handles promotions and urgency marks, logic borrowed from editorial art direction rather than office-supply convention. The canvas holds at white with warm-neutral surfaces at #f6f6f6 and #f4f4f4, and ink sits at near-black #1d1d1d rather than pure black, softening the page without losing contrast. Typography divides along a serif/sans axis: Baskerville and Caslon govern hero headlines and editorial display moments — their curved letterforms signal that a wire-coil notebook or an acrylic tray is an object worth a second look — while Libre Franklin and Montserrat carry the UI and button layer in spaced uppercase labels at weight 700, producing a reading tone closer to a design magazine than a stationery catalog. Color swatches are a first-class UI component: desk accessories in fourteen colorways mean the selected-state ring ({rounded.full} chip, {colors.ink} outline, 2px offset) does as much selling work as the product copy itself. The announcement bar at {colors.primary} with white uppercase Montserrat claims the full viewport width before navigation loads, concentrating attention on shipping thresholds and seasonal promotions. Product cards stay minimal — a soft {colors.surface-card} image field, title in {typography.title-sm}, price in {typography.price}, and a short color-swatch row — letting product photography carry visual weight. Rounded values stay conservative: {rounded.xs} (4px) on buttons, inputs, and cards keeps the grid precise and slightly more editorial than friendly. The footer inverts to {colors.ink} with muted #939393 link text that hovers to white, closing the page with visual weight proportional to the brand's confidence in its product line.
 
@@ -379,6 +383,13 @@ components:
 - Announcement bar: always visible; copy wraps naturally on narrow viewports rather than truncating promotional message
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

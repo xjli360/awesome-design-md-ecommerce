@@ -4,6 +4,10 @@ name: "DedCool"
 source_url: "https://dedcool.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Burnt orange (#ff6b18) at a fragrance brand is a provocation — the color carries heat, skin, and warmth rather than the icy glass-bottle blues the category defaults to, and DedCool leans into it as its single brand voltage against a near-black canvas of #1a172c. The tagline "Making life smell really good" arrives with deliberate bluntness: no accented letters, no French nomenclature, no botanical Latin. The pillars — GENDERLESS + VEGAN + NON TOXIC — appear in all-caps like a lab certification rather than soft-focus marketing copy, and that document register runs throughout the site. Messina Sans Mono Web, a monospace font, carries UI labels and technical callouts where other fragrance brands reach for editorial serifs; the effect reads closer to ingredient sheet than perfumery counter, entirely on purpose. Universal Sans Display 450 handles headline work — the 450 weight lands precisely between light and regular, giving displays an airy but not wispy quality that reads cleanly over bottle photography without competing. The palette splits into two emotional registers: a warm axis of burnt orange and near-black ink, and a cool axis of graduated sky blues (#cce1f5, #81c1e6, #add9f2, #d0e0f3) that suggest water, air, and ingredient transparency. Neutral surfaces (#f0f0f0, #eeeeee) stay cool-toned so the orange retains full temperature contrast whenever it fires. Corner geometry is minimal — {rounded.sm} on inputs and buttons, {rounded.xs} on classification chips — keeping the visual language flat and functional. The monospace caption system and all-caps badge language produce an identity that could cohabit with a chemistry textbook or a lifestyle editorial with equal ease, which is the exact ambiguity a genderless fragrance brand should occupy.
 
@@ -284,6 +288,13 @@ components:
 - Footer columns: 4-col → 2-col → 1-col on mobile with accordion expansion per section
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

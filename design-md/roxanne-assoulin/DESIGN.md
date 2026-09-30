@@ -4,6 +4,10 @@ name: "Roxanne Assoulin"
 source_url: "https://www.roxanneassoulin.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every page on roxanneassoulin.com opens with the same hard commitment: near-black (#121212) on white, interrupted exactly once by a single charge of lacquer-red (#cf2027) — the color of the brand's most iconic enamel bangles, stacked six-deep in campaign imagery — appearing on the primary CTA, the cart trigger, and occasional promo headlines. The palette extracted from the live site is deliberately sparse: the red, a neutral gray (#dedede) that carries hairlines and disabled states, and the near-black ink. That economy is structural rather than timid. The jewelry itself, photographed in dense color-blocked configurations against bare white, supplies all the chromatic richness the page needs; the site withdraws and holds the frame. No background fills, no decorative gradients — just the product against white, let at full size.
 
@@ -322,6 +326,13 @@ components:
 - Hero headlines scale down from 42px (`display-xl`) to approximately 28px (`display-md`) on mobile; the serif weight is preserved at all breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

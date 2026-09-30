@@ -4,6 +4,10 @@ name: "Battle Beaver Customs"
 source_url: "https://battlebeavercustoms.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A high-voltage, performance-first controller brand that speaks through aggressive geometry and a neon-infused palette anchored on #0099ff — a piercing electric blue that appears on every primary CTA, configurator button, and product-highlight badge against a near-black canvas of #121212. The brand lives in extremes: deep voids (#1f1f1f, #121212) clash with saturated accents (#53ffba, #00e19c, #ff8c00, #ff1493, #ff1b94, #50e1ff) that signal customization options, performance tiers, and limited-edition drops. Typography runs Arial Black at display sizes — a blocky, uppercase-heavy face that reads as arcade-competitive — paired with DM Sans and Poppins for body and interface copy. The configurator is the beating heart: a multi-step wizard with pill-shaped buttons (`{rounded.full}`), sharp-cornered product previews (`{rounded.none}`), and color-swatch grids that mirror the brand's own palette explosion. Every interaction feels like tuning a race car — toggle switches, slider bars, and live 3D previews update the controller render in real-time. The checkout flow, powered by Shopify, introduces a secondary palette of payment-widget colors (Klarna pink #ff1493, Afterpay blue #03009b, PayPal blue #0099db) that the brand absorbs rather than fights, treating them as additional accent voltages. Badges — "PRO", "CUSTOM", "LIMITED" — use #ff8c00 orange or #53ffba mint on black, always uppercase, always tight tracking. The footer drops into #1f1f1f with #565656 body copy and #bababa links, a deliberate step-down from the configurator's intensity. Battle Beaver doesn't do quiet; it does neon on void, blocky sans on black, and corners only where a thumb needs to land.
 
@@ -532,6 +536,14 @@ components:
 - Search: On mobile, search bar collapses to an icon that expands to full-width overlay on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

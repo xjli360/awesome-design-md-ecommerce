@@ -4,6 +4,10 @@ name: "Nanit"
 source_url: "https://nanit.com"
 captured_at: "2026-09-28T09:21:42.403432+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Nanit's storefront evidence shows a deep navy foundation (#000041, #111d41) paired
   with a warm off-white canvas (#fbfbf6) and cream surface (#faf7f3), reflecting a
@@ -163,6 +167,12 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be at least 44×44px for cart, nav, and quantity controls. Navigation and search are assumed to collapse into an icon-triggered overlay below tablet width. None of this was directly observed in rendered markup or media queries.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Static CSS/text extraction only; no rendered DOM, computed styles, or real breakpoints were available.

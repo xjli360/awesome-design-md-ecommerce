@@ -4,6 +4,10 @@ name: "Motul"
 source_url: "https://motul.com"
 captured_at: "2026-09-28T04:29:30.813344+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Motul's evidence points to a utilitarian, high-contrast industrial palette built around near-black ink (#202020), white canvas (#ffffff), and a saturated red (#ed1c24) used as the active/accent color in navigation state (ProductCategoryRail_railItemActive). Supporting neutrals include light grays (#f8f8f8, #f3f3f3, #e7e7e7, #dadada) for surfaces, hairlines, and hover states, plus darker grays (#3b3e3f, #727272) for secondary text. Typography is system-first: the CSS custom properties resolve --font-family-title and --font-family-body to Graphik with Helvetica, Roboto, Arial, sans-serif fallbacks in the default (non-localized) root scope; localized variants swap in Be Vietnam Pro, Graphik LCG, or GE SS Two, none of which are treated as brand-default here since the base :root applies to the primary domain. This interpretation proposes a compact, functional automotive-retail system: sticky white header with a thin gray hairline, red used sparingly for primary actions and active states, and dark near-black for solid CTA buttons (as seen in MobileMenuSubDialog_blackButton). Rounded corners are small and utilitarian (2–4px) per observed .25rem/.125rem radii. All roles beyond directly observed selectors (body text color, muted text, card surfaces) are inferred from adjacent neutral tokens in the palette, not measured directly.
 
@@ -139,6 +143,13 @@ This is a recommended structure, not measured site behavior:
 Touch targets should be at least 44×44px for nav and buttons; the mobile menu should collapse category rails into an accordion or full-screen dialog, consistent with the evidenced `MobileMenuSubDialog` naming, though its exact interaction was not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered page, interaction, or mobile viewport was observed. Color role assignments (body, muted, surface-card, etc.) are inferred from neutral-scale proximity in the supplied palette, not confirmed against live element usage beyond the selectors explicitly listed. Typography sizes, weights, and letter-spacing for display/title/body/caption scales are proposed conventions, not measured from live rendered CSS (only font-family and a few weight/size pairs for specific components were evidenced). Localized font families (Be Vietnam Pro, Graphik LCG, GE SS Two) are documented in evidence but excluded from default typography tokens since they apply only under non-default `:lang()` scopes; their licensing and availability for the primary English/default locale are unverified. Hover, focus, active, and disabled states beyond the one evidenced active/hover pair (`ProductCategoryRail_railItemActive`) are proposed design conventions only. No breakpoint values were present in the supplied CSS; the responsive table above is a generic recommendation.

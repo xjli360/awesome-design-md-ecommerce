@@ -4,6 +4,10 @@ name: "Bio-Rad Laboratories"
 source_url: "https://www.bio-rad.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Bio-Rad's navigation arrives as a multi-column mega-menu spanning product families from Droplet Digital PCR to Western Blotting reagents before the homepage hero has resolved — the site's information architecture treats its catalog depth as the primary interface, relegating photography and brand atmosphere to secondary roles. The dominant primary is a deep institutional blue, approximately #0054a6, that carries every navigation header, hyperlink, and call-to-action. It reads as authority without spectacle: a color that has spent decades on instrument panels and laboratory procurement portals, where trust is earned through specification accuracy rather than visual warmth. Body text runs in system-stack Arial at 14–16px with permissive line-height, choosing legibility for protocol-reading researchers over editorial personality. White (#ffffff) canvas with a faint surface-soft (#f2f6fb) lift on alternating sections creates low-noise zones for technical specification tables and instrument comparison grids — areas where the eye must scan horizontally across many data points without losing its row.
 
@@ -469,6 +473,14 @@ components:
 - Filter sidebar: collapses into a modal sheet triggered by a "Filters" button above the product grid on mobile; applied filter count shown on the button
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

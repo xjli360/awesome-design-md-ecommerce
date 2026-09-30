@@ -4,6 +4,10 @@ name: "Public Goods"
 source_url: "https://publicgoods.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A monochrome foundation of #080808 and #f5f5f5 defines Public Goods — a cleaning-supply brand that treats its own packaging as the primary visual asset, letting product labels in muted #7d7d7d and #c1c1c1 do the selling rather than hero photography or illustration. The palette is deliberately restrained: near-black ink (#1e1e1e) on a warm off-white canvas (#f5f5f5) with hairline borders in #ebebeb, creating a clinical-but-hygienic feel that mirrors the brand's "no-toxins" promise. A single accent — #4469af, a muted slate blue — appears sparingly on select CTAs and informational badges, never competing with the product's own label colors. Typography runs NeuzeitS-Book at modest weights (400–700), with BebasNeue reserved for display headlines that punch through the quiet grid at 36px. Buttons are softly rectangular at {rounded.sm} (8px), while product cards use {rounded.md} (12px) to echo the rounded-corner packaging the brand ships in. The overall effect is a store that feels more like a clean pantry than a website — every surface is wipeable, every edge intentional, every color decision subordinate to the product itself.
 
@@ -277,6 +281,13 @@ components:
 - Category tag strip switches from horizontal scroll to wrap layout between 744px and 1128px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

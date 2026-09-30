@@ -4,6 +4,10 @@ name: "NuPhy"
 source_url: "https://nuphy.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Switch-gap glow given a hex value — #03c9a0 runs through NuPhy's near-black canvas (#111111) the way backlit legends bleed through PBT keycaps: constrained, bright on axis, instantly legible against dark. The brand pairs this mint teal with a secondary gold (#ffcf2a) on sale flags and drop-launch badges, a color combination that echoes the RGB presets keyboard communities already memorize. Roboto Condensed carries display headlines and button labels with compressed geometry that suits keyboard spec copy — tenkeyless form factors, south-facing switch sockets, gasket-mount flex — while Roboto regular handles product descriptions at comfortable reading weight. Corner radii sit in the {rounded.sm}–{rounded.md} range throughout: product cards at 8px, primary buttons at 8px, modal overlays at 12px. There are no pill shapes at macro UI scale; the geometry reads as engineering-adjacent rather than consumer-soft. The dark UI dominates hero and navigation zones, but product listing sections flip to a near-white ({colors.canvas} at #f7f7f8) so switch photography and colorway shots can breathe in accurate light. A slate-blue (#676986) and deep navy (#272d45) appear in secondary navigation tiles and bundle sections, signaling a catalog range running beyond the core teal-accented hero models. Interactive blues (#1279ec, #1471f2) handle inline links and account flows without competing with brand teal. Cart drawer, filter panels, and search overlay inherit the dark canvas, keeping commerce UI consistent with studio-black product photography. Spec tables and switch-comparison grids use Roboto Condensed at small sizes with generous letter-spacing — technical data formatted to match the precision of a switch actuation force curve.
 
@@ -381,6 +385,13 @@ components:
 - Footer multi-column grid collapses to single column with accordion-expand sections on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Kansas City Steaks"
 source_url: "https://kansascitysteaks.com"
 captured_at: "2026-09-29T03:56:34.881392+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from Bootstrap-based CSS variables and a broad
   observed color palette on kansascitysteaks.com, an e-commerce storefront for
@@ -167,6 +171,13 @@ components:
 Touch targets should be at least 44px in the compact/xs range for cart and nav controls. Mega-menu category groups (Steaks, Seafood, Sides & Extras, Gifts) are recommended to collapse into an accordion below the `sm` breakpoint. This table is a recommendation derived from the `:root` breakpoint variables in the CSS, not measured or observed responsive behavior of the live site.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

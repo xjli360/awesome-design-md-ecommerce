@@ -4,6 +4,10 @@ name: "Wallbox"
 source_url: "https://wallbox.com"
 captured_at: "2026-09-28T09:26:10.513799+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Wallbox's public site presents a technical, sustainability-oriented identity built on a dark neutral ink (#202124) against white canvas, with a saturated teal (#009b86) as the primary action color and a deeper teal (#085d52) for hover states, both drawn directly from observed button rules. Secondary and tertiary buttons rely on near-white and light-gray fills (#ffffff, #f0eeee) with dark borders, suggesting a restrained, engineering-catalog tone rather than a decorative consumer aesthetic. A soft teal tint (#ecf5f4) and a pale mint (#b4e5dd) appear in the palette without observed component usage; here they are inferred as background-card and badge/accent tints to extend the teal system for product cards and status chips. A red (#dd3b3b) is present in the palette and is inferred as a danger/alert color for form validation or fault states, though no such usage was captured. Neutral grays (#626467, #999999, #adadad, #d4d4d4, #e5e5e5) are inferred as muted text and hairline/border roles based on typical disabled-state patterns seen in the button CSS. The typeface HeyWallbox is a proprietary/custom family observed only by name; all sizing, weights, and additional colors (#2a394f, #1e1f22, #000000) are proposed interpretations layered onto this evidence, not measured page observations.
 
@@ -133,6 +137,13 @@ components:
 Recommended, not measured: mobile (<600px) single-column stacking with nav collapsing to a hamburger menu; tablet (600–1024px) two-column product grids; desktop (≥1024px) three- to four-column grids with the nav bar fully expanded. Touch targets should be at least 44px tall, matching the padding scale of `button-primary`. Navigation and search are assumed to collapse into an overlay or drawer below 600px. All breakpoints and collapse behavior are proposed conventions, not confirmed via observed responsive CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

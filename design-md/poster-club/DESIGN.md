@@ -4,6 +4,10 @@ name: "The Poster Club"
 source_url: "https://theposterclub.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Chronicle Display serifs at 60px, set against a white ground with near-zero decoration, make clear that the artwork — not the interface — is what The Poster Club sells. Every product page opens with the print spanning the full viewport width before navigation or metadata appear in scroll. The brand divides typographic labor between exactly two families: Chronicle Display (A and B variants) carries artist names, collection titles, and editorial headlines in a high-contrast oldstyle serif, while Visuelt Regular handles all functional text — prices, filter labels, navigation links — in a spare geometric sans-serif that never competes with the work on display. The primary accent is a deep royal navy `#003388`, reserved almost entirely for the "Add to Cart" CTA and active link states; it reads as institutional and deliberate rather than punchy, matching the brand's gallery-adjacent positioning. Corners are uniformly sharp — `{rounded.none}` on product cards, filter chips, image frames, and input fields — giving every layout the feel of a well-matted mounted print rather than a rounded-corner e-commerce template. The palette retreats to studied neutrals: `#f0f0f0` surface backgrounds, `#808080` mid-tone muted text, `#949494` hairlines, `#1e1f26` near-black ink. Product cards run tall at 4:5 aspect ratio, the image occupying roughly 80% of card height, with a minimal two-line footer strip showing artist name in Chronicle Display italic and price in Visuelt. Size selectors appear as inline text-button rows rather than dropdowns, and frame options use an underline indicator rather than a styled toggle — keeping the purchase flow as legible and uncluttered as the prints themselves.
 
@@ -349,6 +353,13 @@ components:
 - Hero image aspect ratio shifts from 16:9 landscape to 4:5 portrait crop on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

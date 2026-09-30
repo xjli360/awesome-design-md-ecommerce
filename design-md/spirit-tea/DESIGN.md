@@ -4,6 +4,10 @@ name: "Spirit Tea"
 source_url: "https://spirittea.co"
 captured_at: "2026-09-28T10:20:45.446007+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Spirit Tea's markup exposes an editorial, tea-house identity built on CSS
   custom properties rather than a documented style guide, so mappings below
@@ -178,6 +182,13 @@ components:
 Touch targets should default to a minimum 44×44px hit area for buttons and nav icons per general accessibility guidance; this is a recommendation only and was not measured from the live site. Header/nav collapse behavior, drawer transitions, and exact grid column counts were not observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

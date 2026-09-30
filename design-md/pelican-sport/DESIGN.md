@@ -4,6 +4,10 @@ name: "Pelican Sport"
 source_url: "https://www.pelicansport.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Electric chartreuse (#d2de31) is the first thing that breaks from expectation — not the ocean blue most paddle brands default to, but the high-vis color of a buoy marker, a tow rope end-cap, a spray skirt pull tab. Pelican Sport builds its interface from a teal-and-forest-green spine (#108474 anchoring into #277158 and down into the near-black depths of #0c5132), then detonates that spine with two accent voltages: chartreuse for promotional callouts and amber (#fbcd0a) for secondary signals. The combination maps to how safety equipment actually looks on water — not aspirational photography blue but the literal palette of gear you grab in a hurry.
 
@@ -357,6 +361,13 @@ components:
 - Footer columns: 2-up on tablet, 1-up accordion on mobile with expand/collapse per column group; always-visible legal row at bottom
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

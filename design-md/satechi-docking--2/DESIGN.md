@@ -4,6 +4,10 @@ name: "Satechi"
 source_url: "https://satechi.net"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A precision electronics accessories brand that uses a deep near-black ink (#222021) as its anchor, with a single electric orange (#f55a19) providing the only primary voltage — a color that reads as both industrial safety marker and premium accent, never playful. The palette is deliberately restrained: the orange appears on CTAs, price tags, and the brand's signature "S" logo mark, while everything else — typography, cards, navigation — stays in a tight range of charcoal (#1b1c21), slate (#676986), and warm stone (#cfc6bf). This is a brand that sells docking stations, hubs, and adapters for Apple and PC ecosystems, and the design language mirrors the hardware: clean, metallic, with no decorative flourish that doesn't serve function. The extracted hex list shows a surprising number of warm neutrals (#f5f2ef, #ede6e0, #c3b4a8) alongside the expected grays, suggesting a subtle warmth in surfaces that keeps the brand from feeling cold or purely utilitarian. Cards use soft corners ({rounded.sm} ~8px) rather than pills or sharp squares, and the typography stack defaults to system fonts — no custom brand typeface detected, which is common for hardware-adjacent brands that let product photography carry the visual weight. The checkout and utility colors (#00eab6, #1878b9, #e22120) are likely Shopify Pay, Klarna, and error states respectively, not brand primaries. The overall impression is of a brand that trusts its product imagery and clean layout over decorative design moves — the orange is the only moment of personality, and it's used sparingly.
 
@@ -660,6 +664,13 @@ components:
 - Breadcrumbs truncate on mobile, showing only current page and "Home" link
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

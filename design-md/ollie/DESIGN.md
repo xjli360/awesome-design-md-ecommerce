@@ -4,6 +4,10 @@ name: "Ollie"
 source_url: "https://ollie.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep aubergine (#4c0f51) split against electric chartreuse (#f5fa67) — that's the first thing that registers on ollie.com, a pairing borrowed more from late-night editorial design than from the earth-toned pet-food aisle. The brand treats its dogs like gourmets and its typography like a magazine: New Spirit Condensed carries the big headlines at compressed, towering proportions while ABC Social handles every workhorse paragraph with clean geometric neutrality. A third typeface, Shadows Into Light, drops in as a handwritten flourish — a lowercase scrawl that signals warmth without leaning on stock illustration. The canvas defaults to warm cream (#feffdf) rather than stark white, which keeps the aubergine from reading as corporate and makes the chartreuse feel edible rather than neon. Soft lavender (#f1ccff) fills panel backgrounds and badge surfaces, pulling the tension out of the primary/accent pairing and giving the page somewhere to breathe. The overall shape language is generously rounded — pill-shaped CTAs at `{rounded.full}`, plan cards at `{rounded.xl}` — a choice that echoes the soft curves of dog ears rather than the hard geometry of a pharma formulary. ABC Social Condensed compresses ingredient labels and plan summaries into dense, scannable blocks; ABC Social Mono handles nutritional data and weight specifications with clinical precision that underscores the brand's human-grade sourcing claims. Color application follows a strict hierarchy: aubergine (#4c0f51) owns every primary CTA and hero background, chartreuse (#f5fa67) fires only on promotional callouts and hover states to preserve its urgency, and lavender (#f1ccff) soaks the secondary surface tier. The near-black ink (#2c2a26) pulls warm-brown rather than cool-gray, staying legible against the cream canvas without the coldness of pure black.
 
@@ -357,6 +361,13 @@ components:
 - Primary nav links hidden behind hamburger below 744px; cart and account icons remain visible in the top-right at all widths
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "TOTO"
 source_url: "https://totousa.com"
 captured_at: "2026-09-29T04:06:53.182056+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from TOTO USA's homepage stylesheet, which sets a white canvas
   (#ffffff) and black body copy (#000) in a quoted "gotham" family falling back to Arial and
@@ -166,6 +170,13 @@ _Recommendation only — no responsive/mobile layout was directly observed in th
 Touch targets should be at least 44×44px for nav and button components. The mega-menu's deep category structure (NEOREST, WASHLET, WASHLET+, Toilets, Faucets, Shower & Bath, Lavatories, Commercial) implies an accordion-style collapse on mobile, consistent with the `.Accordion` button pattern found in the CSS, but this collapse behavior was not directly measured.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

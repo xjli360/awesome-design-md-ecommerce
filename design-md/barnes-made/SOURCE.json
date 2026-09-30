@@ -46,21 +46,32 @@
     }
   ],
   "colors": {
-    "#0e0e0e": {
-      "count": 5,
+    "#00000000": {
+      "count": 1,
       "sources": [
-        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+        "https://www.barnesmade.com/"
       ]
     },
     "#222222": {
       "count": 2,
       "sources": [
-        "https://www.barnesmade.com/",
-        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+        "https://www.barnesmade.com/"
       ]
     },
     "#ffffff": {
       "count": 2,
+      "sources": [
+        "https://www.barnesmade.com/"
+      ]
+    },
+    "#000000": {
+      "count": 1,
+      "sources": [
+        "https://www.barnesmade.com/"
+      ]
+    },
+    "#cc0000": {
+      "count": 1,
       "sources": [
         "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
       ]
@@ -71,26 +82,14 @@
         "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
       ]
     },
-    "#cc0000": {
-      "count": 1,
-      "sources": [
-        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
-      ]
-    },
-    "#000000": {
-      "count": 1,
-      "sources": [
-        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
-      ]
-    },
-    "#00000000": {
-      "count": 1,
-      "sources": [
-        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
-      ]
-    },
     "#f2f2f2": {
       "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+      ]
+    },
+    "#0e0e0e": {
+      "count": 5,
       "sources": [
         "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
       ]
@@ -109,16 +108,16 @@
     }
   },
   "font_families": {
-    "Arial": [
+    "Clarkson": [
       "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
     ],
-    "Clarkson": [
+    "Helvetica Neue": [
       "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
     ],
     "Helvetica": [
       "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
     ],
-    "Helvetica Neue": [
+    "Arial": [
       "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
     ],
     "sans-serif": [
@@ -208,10 +207,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Barnes Made",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-300",
   "tokens": {
     "colors.primary": {
+      "value": "#db3642",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -219,6 +219,7 @@
       ]
     },
     "colors.ink": {
+      "value": "#0e0e0e",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -226,21 +227,23 @@
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+        "https://www.barnesmade.com/"
       ]
     },
     "colors.body": {
+      "value": "#222222",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.barnesmade.com/",
-        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+        "https://www.barnesmade.com/"
       ]
     },
     "colors.muted": {
+      "value": "#cccccc",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -248,6 +251,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#cccccc",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -255,6 +259,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#f2f2f2",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -262,20 +267,23 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+        "https://www.barnesmade.com/"
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+        "https://www.barnesmade.com/"
       ]
     },
     "colors.danger": {
+      "value": "#cc0000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -283,6 +291,7 @@
       ]
     },
     "colors.danger-strong": {
+      "value": "#c32d38",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -290,124 +299,392 @@
       ]
     },
     "colors.overlay": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+        "https://www.barnesmade.com/"
       ]
     },
     "colors.transparent": {
+      "value": "#00000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+        "https://www.barnesmade.com/"
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "Clarkson, Helvetica Neue, Helvetica, Arial, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 500,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "Clarkson, Helvetica Neue, Helvetica, Arial, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 500,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "Clarkson, Helvetica Neue, Helvetica, Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "Clarkson, Helvetica Neue, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Clarkson, Helvetica Neue, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": "22px",
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Clarkson, Helvetica Neue, Helvetica, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": "16px",
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "Clarkson, Helvetica Neue, Helvetica, Arial, sans-serif",
+        "fontSize": "9.75px",
+        "fontWeight": 500,
+        "lineHeight": "16px",
+        "letterSpacing": "0.75px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.transparent}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "borderColor": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "mutedTextColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "borderColor": "{colors.hairline}",
+        "padding": "{spacing.base}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.canvas}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.xs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.quantity-stepper": {
+      "value": {
+        "backgroundColor": "{colors.transparent}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "borderColor": "{colors.transparent}",
+        "padding": "{spacing.none}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#00000000": {
+        "selector": "0%, 99%",
+        "property": "color",
+        "declaration": "transparent",
+        "url": "https://www.barnesmade.com/",
+        "snapshot": "homepage.html",
+        "sha256": "99cbf690a80db29e026aa636b7e2b074ad43edcb88be6ff7845a4f24334a58d9"
+      },
+      "#222222": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "rgb(34, 34, 34)",
+        "url": "https://www.barnesmade.com/",
+        "snapshot": "homepage.html",
+        "sha256": "99cbf690a80db29e026aa636b7e2b074ad43edcb88be6ff7845a4f24334a58d9"
+      },
+      "#ffffff": {
+        "selector": "#block-659ecb8d7ff347e639d54ecb .fluid-image-container.visitor-mode",
+        "property": "-webkit-mask-image",
+        "declaration": "-webkit-radial-gradient(white, black)",
+        "url": "https://www.barnesmade.com/",
+        "snapshot": "homepage.html",
+        "sha256": "99cbf690a80db29e026aa636b7e2b074ad43edcb88be6ff7845a4f24334a58d9"
+      },
+      "#000000": {
+        "selector": "#block-659ecb8d7ff347e639d54ecb .fluid-image-container.visitor-mode",
+        "property": "-webkit-mask-image",
+        "declaration": "-webkit-radial-gradient(white, black)",
+        "url": "https://www.barnesmade.com/",
+        "snapshot": "homepage.html",
+        "sha256": "99cbf690a80db29e026aa636b7e2b074ad43edcb88be6ff7845a4f24334a58d9"
+      },
+      "#cc0000": {
+        "selector": ".sqs-block[data-definition-name=\"website.components.product\"] .product-block .productDetails .product-variants .variant-option .variant-out-of-stock",
+        "property": "color",
+        "declaration": "#c00",
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "11a52ed56bc1987616b159190271e717553ac95d8e2ddd6ceb0342cb3dc98f4b"
+      },
+      "#cccccc": {
+        "selector": ".sqs-block[data-definition-name=\"website.components.product\"] .product-block .image-placeholder-container",
+        "property": "border",
+        "declaration": "1px dashed #ccc",
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "11a52ed56bc1987616b159190271e717553ac95d8e2ddd6ceb0342cb3dc98f4b"
+      },
+      "#f2f2f2": {
+        "selector": ".sqs-block[data-definition-name=\"website.components.product\"] .product-block .image-placeholder-container:not([data-is-product-block-empty-state-contextual-menu-enabled]) .image-placeholder-plus-icon .plus-icon-circle",
+        "property": "fill",
+        "declaration": "#f2f2f2",
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "11a52ed56bc1987616b159190271e717553ac95d8e2ddd6ceb0342cb3dc98f4b"
+      },
+      "#0e0e0e": {
+        "selector": ".sqs-block[data-definition-name=\"website.components.product\"] .product-block .image-placeholder-container:not([data-is-product-block-empty-state-contextual-menu-enabled]) .image-placeholder-text",
+        "property": "color",
+        "declaration": "#0e0e0e",
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "11a52ed56bc1987616b159190271e717553ac95d8e2ddd6ceb0342cb3dc98f4b"
+      },
+      "#db3642": {
+        "selector": ".sqs-block[data-definition-name=\"website.components.product\"] .product-block .sqs-blockStatus--overlayMode[data-state=invalid]",
+        "property": "border",
+        "declaration": "1px solid #db3642",
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "11a52ed56bc1987616b159190271e717553ac95d8e2ddd6ceb0342cb3dc98f4b"
+      },
+      "#c32d38": {
+        "selector": ".sqs-block[data-definition-name=\"website.components.product\"] .product-block .sqs-blockStatus--overlayMode[data-state=invalid] .sqs-blockStatus-alert-badge",
+        "property": "color",
+        "declaration": "#c32d38",
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "11a52ed56bc1987616b159190271e717553ac95d8e2ddd6ceb0342cb3dc98f4b"
+      }
+    },
+    "font_families": {
+      "Clarkson": {
+        "selector": ".sqs-block[data-definition-name=\"website.components.product\"] .product-block .image-placeholder-container:not([data-is-product-block-empty-state-contextual-menu-enabled]) .image-placeholder-text",
+        "property": "font-family",
+        "declaration": "Clarkson,Helvetica Neue,Helvetica,Arial,sans-serif",
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "11a52ed56bc1987616b159190271e717553ac95d8e2ddd6ceb0342cb3dc98f4b"
+      },
+      "Helvetica Neue": {
+        "selector": ".sqs-block[data-definition-name=\"website.components.product\"] .product-block .image-placeholder-container:not([data-is-product-block-empty-state-contextual-menu-enabled]) .image-placeholder-text",
+        "property": "font-family",
+        "declaration": "Clarkson,Helvetica Neue,Helvetica,Arial,sans-serif",
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "11a52ed56bc1987616b159190271e717553ac95d8e2ddd6ceb0342cb3dc98f4b"
+      },
+      "Helvetica": {
+        "selector": ".sqs-block[data-definition-name=\"website.components.product\"] .product-block .image-placeholder-container:not([data-is-product-block-empty-state-contextual-menu-enabled]) .image-placeholder-text",
+        "property": "font-family",
+        "declaration": "Clarkson,Helvetica Neue,Helvetica,Arial,sans-serif",
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "11a52ed56bc1987616b159190271e717553ac95d8e2ddd6ceb0342cb3dc98f4b"
+      },
+      "Arial": {
+        "selector": ".sqs-block[data-definition-name=\"website.components.product\"] .product-block .image-placeholder-container:not([data-is-product-block-empty-state-contextual-menu-enabled]) .image-placeholder-text",
+        "property": "font-family",
+        "declaration": "Clarkson,Helvetica Neue,Helvetica,Arial,sans-serif",
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "11a52ed56bc1987616b159190271e717553ac95d8e2ddd6ceb0342cb3dc98f4b"
+      },
+      "sans-serif": {
+        "selector": ".sqs-block[data-definition-name=\"website.components.product\"] .product-block .image-placeholder-container:not([data-is-product-block-empty-state-contextual-menu-enabled]) .image-placeholder-text",
+        "property": "font-family",
+        "declaration": "Clarkson,Helvetica Neue,Helvetica,Arial,sans-serif",
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "11a52ed56bc1987616b159190271e717553ac95d8e2ddd6ceb0342cb3dc98f4b"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

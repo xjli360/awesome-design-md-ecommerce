@@ -4,6 +4,10 @@ name: "Comotomo"
 source_url: "https://comotomo.com/collections/shop-all"
 captured_at: "2026-09-29T04:11:45.669626+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from the Comotomo Shop All collection page, the
   brand's own Shopify-hosted storefront for its feeding line (Baby Bottle Gen 2,
@@ -165,6 +169,13 @@ This is a recommended breakpoint structure, not measured site behavior:
 Touch targets should be at least 44×44px for cart/buy buttons and nav items. Below tablet width, primary navigation is assumed to collapse into a menu icon; this collapse pattern was not observed directly and is a standard proposal for this layout scale.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - This document is built from static CSS/text extraction only; no rendered layout, breakpoints, hover states, or JavaScript-driven interactions were directly observed.

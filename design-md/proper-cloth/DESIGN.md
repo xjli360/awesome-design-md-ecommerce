@@ -4,6 +4,10 @@ name: "Proper Cloth"
 source_url: "https://propercloth.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The configurator is the product. Where most menswear sites layer editorial photography over a thin e-commerce shell, Proper Cloth's entire interface is organized around a multi-step shirt builder — fabric grid, collar selector, cuff style, monogram placement — that makes the browse experience feel closer to CAD software than a lookbook. The Smart Sizes algorithm accepts five body measurements and returns a recommended size without requiring the customer to ever try a shirt on, which means the site must earn trust through precision language and clear data display rather than lifestyle aspiration. Visually, the brand inhabits a deep navy-and-white axis — a primary somewhere in the range of #1c3557, clean white canvas, and warm mid-gray body text — with no decorative color noise to distract from the product selector states. Typography reads as a refined humanist sans at moderate weight; extracted stacks defaulted to Arial suggesting brand fonts load via JS behind anti-bot gates, so all type values here are conservative reconstructions. Buttons are full-width in the mobile configurator context and precise rectangular pills on desktop, with no rounding beyond a subdued 4–6px — hard corners would feel too aggressive against fabric imagery, but full pills would infantilize a precision-purchase interface. The fabric swatch grid, rendered at roughly 80×80px, is the most visually dense surface on the site and carries its own hover-zoom logic. A thin gold-tone accent — approximately #c8a96e — surfaces in premium fabric callouts and monogram previews, the only warm note in an otherwise cool, architectural palette. Given very sparse extraction (no hex colors, single Arial fallback font), all token values below are brand-knowledge estimates; see Known Gaps.
 
@@ -372,6 +376,13 @@ components:
 - Footer columns stack to single column at mobile; headings convert to accordion triggers
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "City Lights"
 source_url: "https://www.citylights.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A San Francisco independent bookstore that has been a literary anchor since 1953, City Lights presents itself online as a direct, no-frills portal to its physical shelves. The brand’s digital presence is dominated by a deep, intellectual navy (#1a2a3a) used for primary navigation, key headers, and the site’s persistent top bar, creating a sense of weight and permanence against a stark white canvas (#ffffff). There is no decorative imagery on the homepage; instead, the visual hierarchy is built entirely through typographic contrast and generous whitespace, with book covers providing the only color. The primary call-to-action buttons—used for adding items to a cart or searching the inventory—are rendered in a warm, muted brick red (#c0392b), a deliberate accent that feels pulled from a vintage bookbinding cloth rather than a digital interface. This red is the single point of warmth in an otherwise monochromatic system. Body text is set in a clean, readable serif (Georgia) at 16px, while navigation and headers use a geometric sans-serif (Montserrat) to signal a modern, curated sensibility. The search bar is a simple, unrounded rectangle (`{rounded.none}`) with a subtle hairline border (`{colors.hairline}`), emphasizing utility over ornament. Product cards for books are minimal: a cover image, the title in bold, the author in `{colors.muted}`, and the price—no ratings, no badges, no social proof. The design trusts the book itself to sell. Footer navigation is dense and text-heavy, reflecting the store’s role as a publisher and cultural institution, with links to events, the foundation, and a newsletter signup that uses the same brick-red button. The overall effect is that of a well-organized library catalog: serious, trustworthy, and entirely focused on the written word.
 
@@ -291,6 +295,13 @@ components:
 - Product cards collapse from a multi-column grid to a single column on mobile, with the book cover image taking full width.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

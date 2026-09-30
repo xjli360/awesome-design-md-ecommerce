@@ -4,6 +4,10 @@ name: "IDT (Integrated DNA Technologies)"
 source_url: "https://www.idtdna.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every base matters — IDT's interface extends the same zero-error tolerance required to synthesize a 200-mer oligonucleotide into its design language: deep navy (#003087) anchors every primary action, a crisp white canvas keeps instrument-grade data tables legible, and a bright cyan-blue accent (#0095C8) marks interactive pathways through a catalog that spans custom oligos, CRISPR reagents, NGS prep kits, and qPCR assays. This is a B2B scientific supplier serving principal investigators, lab managers, and genomics core directors — people who read specification tables more than hero images — so the design earns trust through density management rather than minimalism. Navigation is deep and hierarchical: a mega-menu organized by product family, application, and species sits above a persistent search bar that doubles as order-entry for researchers who already know their sequence. Cards use restrained `{rounded.sm}` corners (8px) rather than the pill-shapes of consumer marketplaces; the geometry signals rigor rather than friendliness. Body text runs at 14–16px in a clean sans-serif stack to accommodate the long read times of product specification pages. IDT's call-to-action buttons are full-navy rectangles with `{rounded.xs}` — nearly square corners — a deliberate departure from softer consumer rounding that signals professional-grade tooling. Surface tiers use a barely-there `{colors.surface-soft}` (#f5f7fa) for table zebra-striping and sidebar panels, keeping the lab aesthetic of white benchtops with gray instrument housings. Accent yellow (#ffc845) appears only on promotional badges and urgency callouts — a single warm note in an otherwise cold-blue system. The footer is expansive, carrying compliance certifications, ISO logos, and regional distributor links that scientific procurement teams rely on. Without live-extracted hex or font tokens (the site appears to load design tokens via JavaScript behind anti-bot protection), the values here are derived from IDT's documented brand identity and should be validated against the live production stylesheet before any high-fidelity implementation.
 
@@ -577,6 +581,13 @@ components:
 - Top utility nav hidden below 744px; account and cart icons remain in main nav bar
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

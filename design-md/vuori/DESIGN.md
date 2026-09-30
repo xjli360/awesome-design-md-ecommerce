@@ -4,6 +4,10 @@ name: "Vuori"
 source_url: "https://www.vuoriclothing.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A California-crafted performance apparel brand that runs on a charcoal-and-cream skeleton (#3e3e3e, #ededed, #f8f8f8) with a single electric-blue jolt (#006dff) reserved exclusively for the primary action — the Add to Bag button, the search icon, the checkout entry point. The palette reads like a coastal landscape: warm stone (#727272) for secondary text, a flash of marigold (#faaf43) and lemon (#f8eb30) for sale badges and seasonal accents, and a near-black ink (#17120f) for body copy that carries the weight of the brand's "performance lifestyle" positioning. Typography runs AktivGrotesk across the entire system — a clean, mid-century Swiss grotesk that avoids both the coldness of Helvetica and the warmth of a humanist sans — set at modest weights (400–500 for body, 600 for navigation, 700 for display headlines) with generous line spacing that mirrors the open, breathable fit of the brand's clothing. The interface is deliberately uncluttered: product cards use soft corners ({rounded.md} ~12px), the top nav is a fixed 72px bar with a centered logo and minimal links (Men, Women, Sale), and the search bar is a pill-shaped input ({rounded.full}) with a subtle hairline (#c6c6c6) that only appears on hover. Vuori's design language trusts negative space and product photography over decorative elements — there are no hero carousels, no parallax effects, no brand illustrations. The checkout flow, powered by Shopify, inherits the same charcoal-and-cream palette with the blue CTA as the single color anchor, while Klarna and Afterpay widgets introduce their own brand colors (#a4def9, #29a8e0) that sit alongside but never compete with Vuori's own. The result is a system that feels like the brand's clothing: purposeful, unpretentious, and built for movement.
 
@@ -364,6 +368,13 @@ components:
 - Accordion sections are always collapsed by default on mobile, with first section open on desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Core Meditation"
 source_url: "https://www.hellocore.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Where most wellness apps crowd their surfaces with aspirational photography and gradient overlays, Core earns attention by subtraction — a near-black canvas (#0E0D0C) that reads less like a background and more like the moment just before a session begins. The brand's warmth arrives through a single amber-gold primary (#C49A5E) that appears as the active ring on the meditation timer, the progress glow, and the primary CTA — a deliberate focal restriction that makes each appearance feel like a signal rather than decoration. Surface layers step up in very small increments (from #0E0D0C through #1B1815 to #26211D) so the UI feels dimensioned without feeling cluttered; the eye rests rather than scans. Typography leans on a clean geometric sans — likely Inter or a close kin — set at modest weights: display copy sits at 28–32px in weight 300–400 rather than the bold-heavy registers that gyms and performance brands use. This lightness is a design argument: meditation practice does not shout. Body copy in warm cream (#F0E8DC) on the dark canvas achieves its contrast through temperature rather than stark black-on-white flip, preserving the sense of a candlelit room. Rounded corners use a gentle `{rounded.md}` (12px) on cards and inputs — soft enough to feel approachable, firm enough to avoid the bubbly excess of consumer wellness competitors. Breathing room is the true primary ingredient: `{spacing.section}` (64px) vertical gaps between feature rows signal that each practice area deserves uninterrupted space. The brand's restraint extends to interactive states — hover and active treatments shift luminance rather than hue, so the amber never becomes aggressive. A `{rounded.full}` pill shape on the session-launch button recalls the circular timer UI and creates visual continuity between the marketing surface and the in-app experience. All of this points to a product designed first for the moment the screen goes quiet.
 
@@ -314,6 +318,13 @@ components:
 - Testimonial cards collapse from three-up grid to single-column vertical scroll at mobile with horizontal swipe affordance
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

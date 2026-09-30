@@ -4,6 +4,10 @@ name: "Jessica McCormack"
 source_url: "https://www.jessicamccormack.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Monospaced type on diamond rings — ABC Diatype Mono carries every product label, navigation link, and price point in letterforms borrowed from technical instruments and typewriter ribbons rather than the hand-engraved cartouches of a traditional Mayfair jeweller. The tension between that utilitarian grid typeface and the extraordinary one-of-a-kind Georgian and Victorian pieces being sold is the entire brand proposition compressed to one font choice. Bellefair Regular — an old-style serif with humanist warmth in its terminal strokes — takes the editorial headline role, offering the collector-register counterpart to Diatype Mono's ledger tone.
 
@@ -318,6 +322,13 @@ components:
 - Collection header editorial paragraph is hidden on mobile to reduce scroll depth before the product grid
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

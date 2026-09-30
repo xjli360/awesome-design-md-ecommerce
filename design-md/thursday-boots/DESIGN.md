@@ -4,6 +4,10 @@ name: "Thursday Boots"
 source_url: "https://thursdayboots.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   #243a3e — a dark forest teal close enough to midnight on aged leather to explain the brand positioning — anchors every layer of the Thursday Boot Company experience: meta theme-color, sticky navigation fill on scroll, primary CTAs, and editorial accent lines all resolve to this single hue without a second brand voltage anywhere in sight. Frank Ruhl Libre, a display serif with roots in editorial print and strong optical compensation at large sizes, carries every hero headline and section title; the face reads historical without being archaic, which mirrors the brand's argument that craft and price point are not mutually exclusive. Nunito Sans handles all functional UI — nav links, body copy, button labels, size-grid text, form inputs — at weights light enough to disappear behind product photography rather than compete with it. The supporting palette is cool and deliberately recessive: near-whites (#fafafa, #f9f9f9) lay beneath mid-grays (#9b9b9b, #737373), a near-black ink (#121212) handles text contrast, and hairline borders (#dedede, #e9e9e9) provide structure without weight. Medium blues (#2374ab, #236898, #16496b) surface only on interactive links and callout borders, staying in the same cool register as the primary teal. The pale-blue tint (#deeaf2, #c8dcea) marks promotional banners and informational callouts — cool enough to read neutral, distinct enough to separate a message type from ambient page content. Corner geometry is intentionally flat: buttons sit at {rounded.xs}, cards at {rounded.sm}, with no pill shapes in the main shopping flow. Spatial rhythm is generous — {spacing.section} between editorial breaks, {spacing.xl} internal padding on hero surfaces — trusting photography and the craft claim to do the persuasion.
 
@@ -349,6 +353,13 @@ components:
 - Hero text block stacks above image on mobile (text first, then image below)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

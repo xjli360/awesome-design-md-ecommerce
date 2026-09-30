@@ -4,6 +4,10 @@ name: "Leon & George"
 source_url: "https://www.leon-and-george.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Named after the founders' two dogs, Leon & George trades on a domestic intimacy unusual for a premium brand — the name sounds like a legal firm or a jazz duo, which makes the reveal (a plant delivery service) land with quiet surprise. The design system doubles down on this tension: serious editorial restraint and white-dominant layouts carry a catalog of living things that resist the language of pure commerce. Photography is the primary visual currency here, with each plant styled against bone-white walls or sun-warmed concrete in the way a shelter magazine might frame a still life — never a product shot, always a portrait. The palette reads almost entirely neutral: warm white canvas, near-black charcoal ink, soft stone hairlines, and a single deep botanical green ({colors.primary}, estimated around #3B5234) that surfaces almost exclusively on primary CTAs and selection states. The green is forest-floor rather than garden-center — it avoids the fresh lime or sage that mainstream plant brands default to, and it almost disappears into the white field around it. Typography pairs a classic serif at modest weights for display hierarchy — headings feel borrowed from a horticultural quarterly rather than a DTC homepage — with a spare geometric sans for pricing, nav, and UI chrome. Cards use minimal rounding ({rounded.xs} to {rounded.sm}) rather than pillowy corners; this keeps the product photography flush and the overall register closer to a well-designed print catalog than to a Shopify template. Leon & George is a rare case where the brand's most deliberate design choice is what it leaves out: no urgency banners, no badge proliferation, no lifestyle content competing with the specimen — the plants are trusted to sell themselves.
 
@@ -308,6 +312,13 @@ components:
 - Pot and size selectors scroll horizontally at mobile rather than wrapping to a new line
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

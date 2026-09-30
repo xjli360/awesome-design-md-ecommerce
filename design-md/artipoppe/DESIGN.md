@@ -4,6 +4,10 @@ name: "Artipoppe"
 source_url: "https://artipoppe.com"
 captured_at: "2026-09-28T09:22:12.982504+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Artipoppe's public CSS evidence shows a restrained neutral system layered under a generic Bootstrap utility framework. Brand-specific rules are sparse but consistent: a dark charcoal (#32373c) fills solid buttons and file-download links with white text, body copy runs in the Bootstrap default sans-serif stack at #212529 on a white (#ffffff) canvas, and a bordered white hero CTA uses "Avenir Heavy" in uppercase, letter-spaced, 12px type. Product-name labels in the homepage slider use "AvenirM" at 12px/18px with 1px tracking, suggesting Avenir variants are the brand's intended display/label family, with system sans-serif as the safe fallback for body text. Because most of the supplied hex palette originates from Bootstrap's default CSS variables (blue, red, green, yellow, etc.) rather than brand-authored rules, this interpretation treats those saturated colors as framework noise and instead builds the system from the neutral grays and near-blacks that actually appear in themed selectors, extending them into an inferred tonal scale (muted, hairline, surface-soft) appropriate to a minimal, editorial baby-carrier brand. Rounded-full (9999px) buttons are directly observed; other radii and all spacing/breakpoint values are proposed for consistency, not measured.
 
@@ -149,6 +153,14 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets for buttons and carousel dots should be at least 44×44px regardless of the smaller visual dot size (20px observed). Mega-menu submenus should collapse to accordions under `md`. None of this is confirmed from live rendering.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

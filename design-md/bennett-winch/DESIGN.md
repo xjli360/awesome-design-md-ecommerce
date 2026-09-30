@@ -4,6 +4,10 @@ name: "Bennett Winch"
 source_url: "https://bennettwinch.com"
 captured_at: "2026-09-28T09:12:54.916767+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Bennett Winch presents as a restrained, editorial English leather-goods brand built on a pure black-and-white foundation. The observed stylesheet sets body copy in Montserrat (sans-serif) at 16px/1.5 in solid black (#000) on a white (#fff) canvas, while all headings and primary button labels switch to Monotype Baskerville, a serif face, rendered in uppercase with wide letter-spacing on buttons — a classic "sans-serif body, serif display" pairing common to heritage-leather positioning. Some supplementary UI text (dates, overlays) uses Helvetica Neue/Arial as a secondary sans fallback.
 
@@ -153,6 +157,14 @@ components:
 This table is a recommendation based on common Shopify-theme patterns and category norms; no live responsive behavior, container widths, or JS breakpoints were observed in the supplied evidence. Nav collapse to a mobile menu button is plausible given the "Mobile Menu Button" text found in the page excerpt, but its visual behavior was not captured.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

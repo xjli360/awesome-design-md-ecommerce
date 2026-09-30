@@ -4,6 +4,10 @@ name: "Alfa Forni"
 source_url: "https://www.alfaforni.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep burgundy (#990521) burns through every call-to-action like the mouth of a wood-fired dome at peak temperature — a color closer to aged Montepulciano than the predictable tomato-red most oven brands default to. Alfa Forni's digital presence pairs this wine-dark primary with a secondary flame red (#d0382e) reserved for urgency states, sale callouts, and hover accents, creating a two-tone heat gradient that mirrors the thermal spectrum inside a 500°C chamber. The typographic system leans on Montserrat for display and navigational weight — its geometric openness at 700 weight reads industrial-Italian, the kind of lettering stamped into cast-iron doors — while Inter handles body copy at 400/500 weights, lending the dense spec sheets and temperature guides the mechanical clarity they demand. A custom `alfaforni` webfont appears on logo lockups and select hero headlines, giving display moments a proprietary silhouette. Surfaces stay neutral: a warm off-white canvas (#f5f5f5) sits behind product grids, while true-white (#ffffff) cards with `{rounded.sm}` corners float above it carrying individual oven models. Terracotta brown (#755847) anchors footer regions and "Made in Italy" heritage badges, referencing refractory brick without illustration. Navigation is dark (#212934) with generous `{spacing.lg}` between mega-menu categories (Wood, Gas, Hybrid, Accessories), and the mobile hamburger collapses into a full-screen overlay at that same near-black. Buttons run at 48px height with `{rounded.xs}` — barely softened rectangles that feel stamped rather than friendly, appropriate for a product that weighs 60kg and ships on a pallet. Spacing follows a compact European editorial rhythm: `{spacing.md}` gutters between product cards, `{spacing.section}` vertical breathing between lifestyle photography bands. The overall impression is a professional tools catalog dressed in winemaker's clothing — functional grids, restrained animation, and that singular burgundy pulse.
 
@@ -394,6 +398,14 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Furbo"
 source_url: "https://furbo.com"
 captured_at: "2026-09-28T04:18:19.982676+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Furbo's stylesheet confirms a single verified typeface, DM Sans, applied to body copy, buttons, and every text-body utility class observed in the extracted CSS (text-body-1 through text-body-5, at confirmed sizes such as 20px/30px and 24px/36px). A second family, Poppins, is declared as a CSS variable (--font-poppins) but its application to specific elements was not present in the supplied rules; it is treated here as an inferred display typeface, consistent with a two-family system pairing a geometric sans for headlines with DM Sans for reading text.
 
@@ -140,6 +144,13 @@ components:
 Recommended (not measured) breakpoints: mobile ≤480px (single-column, stacked nav collapses to a hamburger), tablet 481–1024px (2-column product grids), desktop ≥1025px (multi-column grids, persistent nav). Touch targets should be at least 44px tall, particularly for button-primary and search. Nav and footer link columns are expected to collapse into accordions or stacked lists below tablet width. These figures are UI-design conventions applied to the brand tokens above, not values extracted from Furbo's live responsive CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

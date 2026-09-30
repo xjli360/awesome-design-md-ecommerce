@@ -4,6 +4,10 @@ name: "Pride+Groom"
 source_url: "https://prideandgroom.com"
 captured_at: "2026-09-28T04:47:17.734867+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Pride+Groom's storefront (a Shopify-built site) presents a clean, editorial grooming-brand aesthetic anchored by a single deep maroon accent, #972525, which the source CSS assigns explicitly to --color-cta-bg and --color-highlight — this is treated as the confirmed primary brand color. Surrounding it is a neutral system: white canvas (#ffffff), near-black text (#1a1a1a) for headings, and a mid-gray (#333333) for body copy, consistent with a minimal, ingredient-forward apparel-adjacent pet-care brand rather than a saturated e-commerce look. Observed header-border and skeleton-loader tones (#d1d5db, #c9cac9, #f7f7f7, #f4f6f8) inform the hairline and soft-surface roles used for card separation and section banding — these role assignments are inferred, since the CSS only proves their presence in header/loading contexts, not general layout. A secondary blue pair (#1773b0 / #136f99) appears solely on Shopify's accelerated-checkout button and is carried forward here as an "accent" token for links/secondary CTAs, an inferred reuse rather than a documented brand color. Typography uses Figtree with Helvetica Neue/Arial/sans-serif fallbacks, per the theme's font-family variables; the body's small uppercase, wide-tracked CTA label (0.07em letter-spacing, weight 600) is the one directly observed type treatment and is used to define button-md.
 
@@ -137,6 +141,13 @@ coat-finder-tile: A category-specific component for the "What's Your Dog Dealing
 Proposed breakpoints (not measured): mobile ≤599px, tablet 600–999px, desktop ≥1000px. Nav-bar should collapse to a hamburger/logo/cart layout below tablet width, with the CTA badge either hidden or moved into a mobile menu. Product-card and coat-finder-tile grids are recommended to run 2 columns on mobile, 3–4 on tablet/desktop. All interactive targets (buttons, tiles, search field) should maintain a minimum 44×44px touch area regardless of the smaller visual padding observed on the desktop `.header__cta`. This section is a design recommendation only; no responsive CSS or breakpoint values were present in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is built from static CSS/text extraction only; no rendered layout, computed styles, or JavaScript-driven states were observed. Color roles beyond `--color-cta-bg`/`--color-highlight` (primary) are inferred by proximity and plausibility, not confirmed usage. Typography sizes (other than the button's letter-spacing/weight) are proposed design values, since root font-size context was ambiguous in the evidence. Hover/focus/active states beyond the documented `.header__cta:hover` and payment-button hover are not observed and are marked proposed. Mobile menu behavior, sticky header behavior, and actual grid/column counts were not present in the evidence and are recommendations only. Figtree's licensing/self-hosting status and full weight availability were not verified from the supplied data.

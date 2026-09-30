@@ -14,6 +14,10 @@ A reviewed hold is not a completed DESIGN.md. Historical files may be unverified
 | historical_partial_css_evidence | 18 |
 | historical_unverified | 2003 |
 
+Measured component references: **35**. Recommended URLs: **747**. Whole-site reconstruction verified: **0**.
+
+Historical archive entries are retained for inspiration and excluded from default recommendations. See [recommended references](./RECOMMENDED.md).
+
 ## Unresolved sources
 
 | Remaining status | Unique URLs |

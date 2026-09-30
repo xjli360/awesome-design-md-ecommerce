@@ -4,6 +4,10 @@ name: "Stüssy"
 source_url: "https://stussy.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Two colors and a hand-drawn signature — Stüssy's digital presence distills four decades of streetwear credibility into a near-binary palette of #121212 and #dedede, leaving campaign photography and the iconic cursive logo to carry all the visual weight. The site runs on Arial, the most utilitarian of system font stacks, a choice that reads less like an oversight and more like a declaration: the brand has nothing to prove through custom type. Navigation is skeletal — a horizontal strip of category links across a white canvas with no hero animation, no countdown timers, no upsell banners — just a tight product grid and editorial campaign images that run edge to edge at full bleed. Drop culture lives here, but quietly; limited releases surface as ordinary product listings rather than hyped pre-sale pages, trusting the International Stüssy Tribe to already know what matters. The {rounded.none} discipline extends to every container — product cards, text inputs, modal overlays, and size swatches all run with zero border-radius, a hard-edge geometry rooted in the brand's early-1980s Laguna Beach surf-skate origins without sentimentalizing them. On-primary text flips to {colors.on-primary} against the {colors.primary} fill, and the system never reaches for a third hue — every interactive state, hover, and disabled condition resolves through opacity or the #dedede mid-tone, keeping the monochrome discipline intact across every surface. Spacing is generous at wide breakpoints and compresses cleanly on mobile, maintaining the editorial cadence without collapsing into a cluttered layout. The footer runs dense with navigation links at small type scale — an index-pragmatism that respects the community's ability to self-navigate. Product photography does the heavy lifting: large images at high contrast against the near-white canvas, no overlaid badge color beyond a plain text label, no star-rating hero — just garment, light, and the invisible grid that holds everything in place.
 
@@ -332,6 +336,13 @@ components:
 - Filters / sort: side panel on desktop → bottom sheet drawer on mobile with 48px trigger row.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

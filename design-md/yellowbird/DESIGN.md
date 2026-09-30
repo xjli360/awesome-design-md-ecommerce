@@ -4,6 +4,10 @@ name: "Yellowbird"
 source_url: "https://yellowbirdsauce.com"
 captured_at: "2026-09-28T10:05:05.875060+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Yellowbird's storefront pairs a saturated brand yellow (#ffe845) with high-contrast black (#000000) to create a bold, condiment-aisle-ready identity. The observed body background renders on the yellow field, with black used for text, borders, and inverted button states, giving the interaction system a stamped, high-visibility look appropriate for a hot-sauce brand. A warm off-white (#fbfaf2) appears as a secondary canvas, likely for content sections that need to rest the eye between yellow blocks; this role is inferred from its low-saturation, paper-like value relative to the primary yellow.
   Typography splits duties clearly: Gooper is the observed display serif for H1 (86px, tight -2.58px tracking, 90% line-height), giving headlines an editorial, slightly vintage voice against the punchy palette. ABC Monument Grotesk is the observed body/default UI font (18px, 130% line-height), while Pitch Sans appears specifically on secondary/uppercase button treatments (16px, 700 weight), suggesting a three-tier type system: serif for brand voice, grotesk for reading, condensed sans for tactile UI labels.
@@ -152,6 +156,12 @@ This is a recommendation based on the observed `--screen-break: 768px` token, no
 Touch targets should be a minimum of 44px in height for buttons and nav items on mobile. Primary navigation likely collapses into a hamburger/menu overlay below 768px, consistent with the "MENU CLOSE" toggle text observed in the page copy, though the actual collapsed layout was not inspected.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

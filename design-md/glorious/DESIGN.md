@@ -4,6 +4,10 @@ name: "Glorious"
 source_url: "https://www.gloriousgaming.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A high-voltage gaming peripherals brand that runs on a deep charcoal chassis (#262626) and a cyan spark (#56b7e6) — the same electric blue that fires every primary CTA, navigation highlight, and product-rollover glow. The palette is a gamer’s arsenal: amber (#fdba3b) for ratings and sale badges, red (#fd423b) for limited drops and error states, and a full spectrum of accent colors (lime #c0df16, purple #9530d5, pink #e360d4) that map to specific switch types and product lines. Typography leans on a mix of display faces — athena, bodega-sans, and new-spirit for headlines, with ccmeanwhile and elfreth for editorial moments — creating a layered typographic identity that feels more like a streetwear label than a peripheral company. Buttons are sharp-cornered rectangles (`{rounded.none}`) with 48px height and bold condensed type, while product cards use a soft 8px radius (`{rounded.sm}`) and a white canvas (`{colors.canvas}`) to let the vivid product photography pop. The brand’s visual system is built for contrast: dark nav bars, bright accent strokes, and a generous use of `{spacing.lg}` between product tiles. Every interaction — hover, click, badge — carries a color shift that signals responsiveness without animation. The overall effect is a clean, aggressive, and unmistakably gaming-native aesthetic that prioritizes legibility and shelf impact over atmospheric subtlety.
 
@@ -455,6 +459,13 @@ components:
 - Search bar moves from inline to full-width below the nav on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "M.Gemi"
 source_url: "https://mgemi.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   M.Gemi operates on a Tuesday rhythm — new Italian-made styles arrive once a week, sell in limited quantities, and never restock. That scarcity logic, more than any color choice, shapes every interaction surface: urgency without vulgarity, exclusivity without the velvet-rope aesthetic. The crimson (#bb2832) surfaces at exactly the moments the cadence demands — "NEW THIS WEEK" drop badges, low-stock alerts, primary add-to-cart buttons — and nowhere else. Everything else holds back deliberately: a warm off-white canvas (#f7f6f3), a deep charcoal ink (#161d25) anchoring nav and footer, and the cool slate (#c4cdd5) that the site meta-color declares as its ambient atmosphere, visible in product-image backgrounds and quiet accent placements. The orange (#ff7216) and the steel blues (#849bb6, #4f7a9c) read as promotional moments and interactive depth — not brand pillars.
 
@@ -378,6 +382,13 @@ components:
 - Footer multi-column layout stacks to single column on mobile; accordions replace open columns
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

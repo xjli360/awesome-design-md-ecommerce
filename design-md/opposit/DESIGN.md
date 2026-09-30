@@ -4,6 +4,10 @@ name: "Opposit"
 source_url: "https://opposit.shop"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every frame on opposit.shop is treated as a wall-ready object first and a product second — the shop steps back so the art can step forward, wrapping print imagery in maximum white canvas with an ink-black typographic system that refuses to compete. The brand name itself announces a design philosophy: opposition between sparse UI chrome and full-bleed photographic print reproductions, between the near-invisible navigation and the loud geometry of the posters it sells. Without a distinctive brand hue fighting for attention, Opposit's identity is carried entirely through restraint — a hairline-thin border world, unhurried letterforms, and a surface vocabulary that reads more like an art-bookshop catalogue than a commerce platform. Product cards are gallery plaques: the image dominates, the title appears in compact body weight underneath with almost no decorative ornament, and the price is typeset at the same scale as the caption, refusing urgency. The checkout-path buttons are the one place hierarchy breaks from white — a hard `#000000` fill on `{rounded.none}` or near-flat corners signals "proceed" with the bluntness of a gallery label rather than the glow of a retail CTA. Type is likely a neutral geometric sans in the Helvetica Neue / Inter lineage, set at modest weights; display headings stay under 700 weight, letting letter-spacing carry emphasis instead of mass. The overall rhythm is columnar: a four-column desktop grid collapses to two columns on tablet and a single column on mobile, each breakpoint maintaining the same generous margin so the prints never feel crowded. Internal spacing leans wide — section gutters at 64–96px, card padding that keeps the mat border feeling intact. If Opposit has a secret, it is the belief that white space is the most expensive surface in poster retail, and that spending it freely is the brand's sharpest differentiator.
 
@@ -329,6 +333,13 @@ components:
 - Footer columns restack vertically on mobile in priority order: newsletter → navigation → social → legal
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

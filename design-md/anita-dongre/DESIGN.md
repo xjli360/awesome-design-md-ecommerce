@@ -4,6 +4,10 @@ name: "Anita Dongre"
 source_url: "https://www.anitadongre.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   On a warm ivory field (#faf8f0) that reads more like unbleached muslin than a web-default white, Anita Dongre positions every garment and jewel as an artifact of place — Rajasthani handloom, Goan coastline, the specific green of forest preserved through the brand's land conservation work. That forest green (#1e381e) is the site's most load-bearing visual decision: it surfaces in primary CTAs, nav hover states, and editorial text treatments, binding the sustainability narrative directly to the shopping interface rather than siloing it in a dedicated section. Gold (#b18e35) plays second voice — reserved for ornamental hover states, editorial link treatments, and jewellery detail callouts — conjuring the zari thread and jadau stone-setting the bridal collections are built around.
 
@@ -351,6 +355,14 @@ components:
 - PDP two-column layout stacks: image gallery above, detail panel below with sticky CTA bar
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

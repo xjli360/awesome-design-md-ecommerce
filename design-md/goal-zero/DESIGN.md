@@ -4,6 +4,10 @@ name: "Goal Zero"
 source_url: "https://www.goalzero.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A #cad618 lime-green voltage cuts across a charcoal-and-stone palette — the brand's primary is not a cautious safety green but a charged, almost citrus chartreuse that signals energy rather than hazard. This single hex carries every primary CTA, add-to-cart button, and power-indicator accent across a site built on a #efefef canvas and #212121 ink. The typography stack is a curious hybrid: Galaxie Polaris (a sharp, condensed geometric sans) for display and navigation, paired with system fallbacks that suggest the brand hasn't fully committed to a single type system — the condensed book weight appears in product titles while body copy defaults to -apple-system. Product cards use {rounded.sm} corners and sit on a #ffffff surface-card with a #e8e9eb hairline, creating a clean but utilitarian grid that prioritizes spec readability over lifestyle photography. The search bar is a full-width {rounded.full} pill in #f3f3f3, and the primary button uses a full-height {rounded.sm} rectangle in the signature lime — no gradient, no shadow, just flat color on a white canvas. A secondary #1c9ad6 blue appears in link text and informational badges, likely inherited from a legacy Shopify or utility palette, while #d20000 red marks sale prices and error states. The overall feel is industrial but approachable: a tool brand that trusts its product photography to sell, using color as a functional signal rather than a decorative flourish.
 
@@ -383,6 +387,13 @@ components:
 - Tabbed content (specs, features, reviews) collapses to accordion below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

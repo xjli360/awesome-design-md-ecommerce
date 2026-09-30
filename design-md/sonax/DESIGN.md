@@ -4,6 +4,10 @@ name: "Sonax"
 source_url: "https://sonax.com"
 captured_at: "2026-09-29T04:09:12.970152+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Sonax's evidence set exposes a compact CSS custom-property system: a saturated
   "sonax red" (#e3000b) as the sole brand accent against a near-white canvas
@@ -148,6 +152,13 @@ The CSS evidence contains multiple `:root` spacing and font-size variable blocks
 Touch targets should be at least 44×44px for nav, search, and button-primary per general accessibility convention (not site-verified). Mobile nav collapse behavior, menu animation, and carousel interaction ("01 - 00" top-seller slider) were not observed and are proposed based on the presence of an itemized product carousel in the page text.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

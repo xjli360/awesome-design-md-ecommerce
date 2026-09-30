@@ -4,6 +4,10 @@ name: "Alighieri"
 source_url: "https://www.alighieri.co.uk"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every clasp and pendant Alighieri sends into the world looks as though it was unearthed rather than made — wax-cast, deliberately scarred into warmth, carrying the grain of a lost-wax mould as proof of origin. The website holds the same register: a parchment canvas ({colors.canvas}) keeps editorial photography from feeling clinical, while a near-black ink ({colors.ink}) drawn from the darker passages of a manuscript presses type into the eye with unhurried authority. Gold threads through the system not as a background fill but as a structural accent — the antique brass of {colors.primary} marks CTAs, link hovers, and the hairline rules that separate collection stanzas, always referencing the metal being sold rather than performing luxury in the abstract. Typography tilts wholly into the serif register. Display headings arrive at a light 300 weight and generous tracking — 52px at the editorial hero, stepping to 36px for collection titles — carrying the cadence of a couplet rather than an advertisement. Body copy holds the same serif family at reading weight with a loose 1.7 line-height, giving poetic product descriptions room to breathe. Buttons carry near-zero rounding ({rounded.none}), their sharp edges a deliberate counterpoint to the organic, irregular forms of the jewelry above. Product cards sit on the same {colors.surface-card} ground as the page itself, dissolving the frame between product and editorial and presenting pieces as though they rest on a page of manuscript rather than inside a commerce window. The interaction pattern is spare: no floating cart badges in saturated coral, no countdown timers, no aggregated star ratings above the fold. Navigation is a single horizontal rail — spaced, light-weight serif labels — sitting low-profile across the parchment. The collection grid uses two columns at desktop with generous vertical breathing room; price appears quietly below the piece name, never foregrounded. A newsletter footer band introduces the only high-contrast break in the system — the deep {colors.editorial-dark} ground against ivory type, a cinematic cut to black that briefly suspends the warm register before returning the viewer to the archive of objects.
 
@@ -325,6 +329,14 @@ components:
 - `newsletter-band` input stacks above CTA on mobile; the `text-input` becomes full-width at 100%
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

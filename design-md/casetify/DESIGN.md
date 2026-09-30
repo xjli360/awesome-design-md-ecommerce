@@ -4,6 +4,10 @@ name: "CASETiFY"
 source_url: "https://www.casetify.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A playground of personal expression where the phone case becomes a canvas, anchored on a stark white background that lets every color pop with maximum saturation. The brand's primary voltage is a deep, confident blue (#003399) that appears in the logo, primary CTAs, and navigation — a deliberate anchor against the riot of accent colors (#f4477b, #5dd7d7, #f47245, #edcf43, #b8e356, #da2eda, #ffbb44) that appear in product collections and limited-edition drops. CASETiFY's design language is fundamentally about contrast: the white canvas ({colors.canvas}) against saturated product photography, the heavy blue header against playful typography that mixes AvenirNext for body with decorative fonts like Bougenville and Comic Neue Angular for special collections. Buttons carry a soft {rounded.sm} radius — friendly but not childish — while product cards use {rounded.md} to frame the phone case as an object worth displaying. The brand trusts its product photography to do the heavy lifting; UI chrome stays minimal, with thin {colors.hairline} borders and generous {spacing.lg} padding that gives each product room to breathe. The result feels like walking through a gallery where every phone case is an artwork, with the brand's role being simply to frame it beautifully.
 
@@ -404,6 +408,13 @@ components:
 - Hero section reduces font sizes and padding on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

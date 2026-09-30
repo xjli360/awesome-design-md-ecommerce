@@ -4,6 +4,10 @@ name: "Ezpz"
 source_url: "https://ezpzfun.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A feeding brand that builds its entire visual world around a single, unexpected color: #aaccaa — a muted sage-green that appears nowhere in the baby-product aisle's usual pastel-pink-and-blue vocabulary. This sage serves as the brand's primary voltage, appearing on buttons, badges, and the signature silicone mats that define the product line. The palette is anchored by a warm off-white canvas (#f6f6f6) and a secondary teal (#73bec4) that echoes the meta-theme-color and adds a watery, calming counterpoint. Typography runs DM Sans at moderate weights — display headlines sit at 500–600 weight rather than the heavy 700+ common in e-commerce, letting the product photography and the brand's distinctive rounded forms carry the visual weight. Every corner is soft: buttons use `{rounded.sm}`, product cards use `{rounded.md}`, and the brand's signature Happy Mat and Mini Mat feature `{rounded.full}` pill-shaped elements that mirror the silicone's actual physical curves. The result is a system that feels less like a feeding-supply store and more like a pediatrician's waiting room designed by a ceramicist — clean, reassuring, and unexpectedly sophisticated. The accent red (#fb8077) appears sparingly on sale badges and error states, providing just enough tension against the sage-and-teal calm.
 
@@ -335,6 +339,13 @@ components:
 - Filter sidebar collapses to a horizontal scroll strip on tablet and a bottom sheet on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

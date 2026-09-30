@@ -4,6 +4,10 @@ name: "Capital Lighting"
 source_url: "https://capitallightingfixture.com"
 captured_at: "2026-09-28T09:56:08.637317+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Capital Lighting's public CSS is built on a Bootstrap 4 utility framework, so the observed palette is largely the Bootstrap default set (--primary #007bff, --secondary #6c757d, --dark #343a40, --light #f8f9fa) rather than a bespoke brand system. Body background is pure white (#ffffff) with body copy inheriting Bootstrap's default #212529/#495057 grayscale. Borders and dividers use the standard #dee2e6 hairline. Two font families appear in the evidence: Playfair Display, a serif suited to the brand's "Artisan Crafted," "Sophisticated Shine" collection language, and Roboto alongside a system sans-serif stack (-apple-system, Segoe UI, Helvetica Neue, Arial) for UI and body text. This interpretation assigns Playfair Display to display/heading roles (inferred, since no selector explicitly binds it to h1–h6) and the sans-serif stack to body, navigation, and controls, matching typical decorative-lighting retail patterns of a refined serif for product storytelling paired with a clean utility sans-serif for commerce UI. Button, card, and form patterns below extend Bootstrap's .btn-primary/.btn-secondary conventions using only the observed hex values. All spacing, radius, and non-color sizing are proposed conventions, not measured from the live site.
 
@@ -149,6 +153,13 @@ Proposed breakpoint table (source values are Bootstrap CSS variables observed in
 Touch targets are recommended at a minimum 44×44px for buttons and nav items; mobile nav collapse, drawer behavior, and hover-to-tap conversions are proposed conventions only, not observed in this evidence set.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

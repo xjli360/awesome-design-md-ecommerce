@@ -4,6 +4,10 @@ name: "Boulies"
 source_url: "https://www.boulies.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep teal #108474 anchors Boulies, a brand that sells ergonomic seating and standing desks, as a signal of stability and focus rather than the neon aggression typical of gaming hardware. The palette is unusually restrained for the category: a near-black ink (#141414) for headlines, a warm charcoal body (#555555), and a soft off-white canvas (#f9fafb) that keeps product photography — glossy leather, matte mesh, aluminum legs — as the primary visual texture. The single accent voltage comes from a marigold yellow (#fbcd0a) used sparingly on sale badges, price highlights, and secondary CTAs, while a muted sage (#edf5f5) appears in background sections and feature callouts, lending a calm, almost editorial tone. Buttons carry a 4px radius ({rounded.xs}) rather than the pill shape common in ecommerce, and the top navigation sits at a compact 60px height with a thin 1px hairline (#dedede) separating it from the hero. The brand trusts its product silhouette over decorative flourishes — there are no hero illustrations, no gradient overlays, no decorative icons. Type runs Nunito Sans at moderate weights (400 body, 600–700 headings) with generous line spacing (1.5–1.6) that makes spec sheets and ergonomic descriptions feel readable rather than dense. The checkout flow uses Shopify's default widget colors (#c9161d for error states, #336ca8 for links), which clash slightly with the brand's cool teal — a pragmatic concession to platform constraints. Overall, Boulies reads as a furniture company that happens to serve gamers, not a gaming company that happens to sell chairs.
 
@@ -399,6 +403,14 @@ components:
 - Star ratings remain inline but reduce from 16px to 14px on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

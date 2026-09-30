@@ -4,6 +4,10 @@ name: "Ooni"
 source_url: "https://ooni.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The amber-on-charcoal contrast—#ffc633 punching against the near-black #25282a—is the visual metaphor that structures the entire Ooni system: fire against coal. That single chromatic tension generates an appetite that product photography amplifies at every scroll, ovens photographed mid-flame with glowing mouths, caught at the moment of peak heat. The orange-to-brick gradient embedded in the extracted palette—#f48120, #f37521, #e16f27, #d4602c, #bc3c26—maps almost exactly to a wood fire burning from bright crown to dying ember; the product is made chromatic and the design system reflects it deliberately. Primary CTAs carry the amber voltage at a {rounded.xs} radius that reads as machined and precise rather than consumer-soft.
 
@@ -348,6 +352,13 @@ components:
 - Comparison grid: side-by-side oven comparison collapses to a swipeable carousel on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Simplified"
 source_url: "https://www.emilyley.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The product page carries up to six color-chooser swatches at once — sunshine yellow (#fbcd0a), dusty rose (#d16294), soft lavender (#a89cc8), warm bronze (#c18952), seafoam mint (#c1e6e6), and sage (#3ea36a) — each a distinct planner edition, and the checkout CTA stays #108474, a deep forest teal, across every colorway. That visual grammar encodes the brand's central logic: seasonal abundance held together by a single calm anchor. Sackers Gothic Std governs every eyebrow, section label, and navigation item at extended letter-spacing and font-weight 400, never loud, never bold — headers communicate by spacing rather than mass. Below it, Butler and Libre Caslon Text carry the editorial register: product descriptions, founder prose, and lifestyle headlines gain a bookish serif warmth that reinforces the ritual-of-writing-things-down positioning. Body copy and UI elements shift to Jost or Nunito Sans, geometric sans-serifs that keep checkout flows and mobile menus clean without personality bleed. The cream canvas (#faf8f5) is the true background — warmer than pure white, cooler than ivory — reading more as paper stock than digital surface. Navy (#275173) provides structural weight in feature banners and the deep footer. Gold (#c18952) operates at ornament scale: price callouts, foil-echo divider marks, and premium badge fills that recall physical foil stamping on the planner covers. Rounded corners are deliberate and restrained: `{rounded.sm}` (4px) on interactive controls, `{rounded.md}` (8px) on product cards and drawers, `{rounded.full}` exclusively on swatches and pill-style category tags. Section padding is generous at 64px; product grid gutters breathe at 24–32px; hero areas give full-bleed lifestyle photography room to expand without heavy text overlay. The grammar as a whole belongs to a premium stationery brand that has systematized its own warmth — every seasonal accent hue enumerated, every hierarchy step intentional.
 
@@ -355,6 +359,13 @@ components:
 - Hero text overlays the image on mobile with a semi-transparent canvas panel; desktop uses side-by-side layout
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Paizo"
 source_url: "https://paizo.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, saturated navy (#202936) forms the bedrock of Paizo’s digital presence, a color that reads as both a library’s leather binding and the void between stars in a Pathfinder campaign. The brand’s primary voltage is a rich crimson (#461413) — not a bright marketing red, but a worn, blood-ink tone that appears on navigation bars, primary buttons, and the signature Golem’s Got It! badge. This red is counterpointed by a pale, parchment-like cream (#fefad6) used for alert backgrounds and secondary surfaces, evoking the aged paper of a rulebook. The extracted palette reveals a surprising breadth: a muted lavender (#7d7ba6) for subtle accents, a brass-gold (#ebc48d) for decorative elements, and a stark warning yellow (#ffff00) for critical system messages — the only color that breaks the low-saturation contract. Typography is a battlefield of serif and sans: Domine for display headings carries the weight of fantasy literature, while GoodOT (a geometric sans with condensed variants) handles body copy and navigation with mechanical precision. The PathfinderIcons font — a custom icon set — appears in search bars and category filters, giving the UI a proprietary, game-specific vocabulary. Corners are mostly sharp (`{rounded.none}`) for cards and containers, with soft rounding (`{rounded.sm}`) reserved for buttons and input fields, suggesting a world where function precedes friendliness. The overall mood is that of a well-worn game master’s screen: dark, organized, and dense with information, but punctuated by the warm glow of community and adventure.
 
@@ -480,6 +484,13 @@ components:
 - **Hero banner**: On mobile, the hero banner reduces padding and font size. Background images may be cropped or replaced with a simpler gradient. CTA buttons stack vertically instead of sitting inline.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

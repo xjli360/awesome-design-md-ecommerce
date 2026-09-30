@@ -4,6 +4,10 @@ name: "Huion"
 source_url: "https://www.huion.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The first visual signal is #00bfd6 — a digital cyan sitting at the exact intersection of teal and aqua, with no warmth softening its edge. Huion wraps a highly technical drawing-tablet catalog in a framework-derived visual system (Element UI) whose neutral ramp runs from #303133 body copy through #606266 secondary text, #909399 placeholder labels, and #c0c4cc disabled states — a precise descending scale that keeps every surface cool and recessive until that single cyan lands on a button, a badge, or a promo bar. The deliberateness signals an audience that reads spec sheets: customers comparing 8192-level pressure sensitivity against 60ms report rates don't need visual interference.
 
@@ -367,6 +371,13 @@ components:
 - Footer: 4-column → 2-column → single-column accordion with collapsed link lists on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

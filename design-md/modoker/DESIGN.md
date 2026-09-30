@@ -4,6 +4,10 @@ name: "Modoker"
 source_url: "https://modoker.com"
 captured_at: "2026-09-28T04:35:55.196713+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Modoker's storefront CSS exposes a fundamentally grayscale interface system:
   --color-foreground and --color-button both resolve to rgb(18,18,18) against a
@@ -172,6 +176,12 @@ components:
 Touch targets on `button-primary`/`button-secondary` should maintain a minimum 44px height, consistent with the observed `.shopify-payment-button__button` `clamp(25px, 44px, 55px)` sizing. Nav and search collapse into an icon-driven mobile pattern; exact collapse thresholds are proposed, not measured.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

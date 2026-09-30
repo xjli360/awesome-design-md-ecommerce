@@ -4,6 +4,10 @@ name: "Record City Japan"
 source_url: "https://www.recordcity.jp"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A dense, information-rich independent record store interface that prioritizes browsability over visual polish — #222222 ink on #ffffff canvas with #3097d1 as the single accent voltage, used sparingly on links, active states, and the checkout CTA. The palette reads like a well-worn price tag: #777777 muted for secondary metadata, #eeeeee surface-soft for table stripes and filter backgrounds, and a full suite of semantic alert colors (#3c763d success, #8a6d3b warning, #a94442 error) that signal inventory status and order conditions rather than brand personality. Typography runs Raleway at modest weights (400 for body, 700 for headings) with monospace fallbacks for tracklist details and catalog numbers — the site trusts dense text layouts and tabular data over hero imagery. Sharp corners dominate: product listings stack in tight grids with {rounded.none} cards separated by #d3e0e9 hairline borders, while the search bar and primary CTA use {rounded.sm} for subtle hierarchy. The overall feel is utilitarian and collector-focused — a digital crate-digger where every pixel serves the task of finding Japanese pressings and rare CDs.
 
@@ -430,6 +434,13 @@ components:
 - Footer links collapse from multi-column layout to single-column stacked on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

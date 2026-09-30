@@ -4,6 +4,10 @@ name: "PlayMonster"
 source_url: "https://www.playmonster.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A primary blue of #3858e9 that reads as confident and playful — not the muted navy of a board-game legacy publisher but a saturated, almost electric cobalt that powers every primary button, navigation accent, and interactive element across the site. This blue sits on a canvas of #eeeeee and #f8f8f8, giving the brand a workshop-floor honesty: the background is never pure white but a warm, slightly industrial off-white that suggests hands-on assembly and tabletop play. Secondary accents of #790000 (a deep burgundy) and #cc1818 (a bright alert red) appear in sale badges and promotional ribbons, while #7f54b3 (a muted purple) surfaces in category headers and secondary CTAs, hinting at a multi-brand portfolio under one roof. The typography stack defaults to system fonts — -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Cantarell, Helvetica Neue, sans-serif — a pragmatic choice that loads fast and renders cleanly across devices, with no custom typeface to distract from the product photography. Buttons use {rounded.sm} (8px) corners — soft enough to feel approachable, squared enough to avoid the toy-aisle gumball-machine aesthetic. Product cards and content panels use {rounded.md} (12px) for a consistent, friendly geometry. The footer and secondary surfaces shift to #f0f0f0 and #e8e8e8, creating a subtle depth hierarchy without heavy shadows. A pale yellow accent (#fffce5) appears in callout boxes and feature highlights, adding a warm, low-contrast alternative to the primary blue. The overall mood is energetic but not chaotic — a brand that trusts its color voltage to do the heavy lifting, keeping layout grids simple and typography utilitarian.
 
@@ -379,6 +383,13 @@ components:
 - Search bar remains visible and persistent on mobile, but may collapse into an icon-only state that expands on tap.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

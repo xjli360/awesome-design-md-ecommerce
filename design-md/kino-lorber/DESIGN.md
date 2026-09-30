@@ -4,6 +4,10 @@ name: "Kino Lorber"
 source_url: "https://kinolorber.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep-catalog cinema label that uses electric cyan (#1a9cfc) as its primary voltage — not as a background wash but as sharp accent lines, active-state underlines, and the glow behind "Shop Now" buttons. The site reads like a film-society bulletin board: a dense, text-forward grid on a near-white canvas (#f8f8f8) where every title, director credit, and price tag sits in stacked Lato or Montserrat at modest sizes. A secondary teal (#03dfdc) appears in sale badges and limited-edition callouts, while a deep near-black (#1e1e1e) carries body copy and navigation text. The typographic palette is workhorse — Abril Fatface reserved for hero display headers that anchor seasonal collections, then Lato and Montserrat handling everything from product titles to footer links. Cards use soft rounded corners ({rounded.sm}) and hairline borders (#e5e5e5) that keep the grid airy despite the information density. The brand trusts its catalog photography over decorative imagery; product cards are compact, text-heavy rectangles where the film poster does the emotional work and the typography stays clean and utilitarian. A persistent top nav in near-black (#1e1e1e) with white text and a search bar in the same cyan accent (#1a9cfc) gives the experience a library-meets-marketplace feel — scholarly but transactional, designed for cinephiles who know what they want.
 
@@ -314,6 +318,13 @@ components:
 - Product card badges reduce font size to 10px on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

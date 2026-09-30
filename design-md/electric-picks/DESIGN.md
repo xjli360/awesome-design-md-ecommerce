@@ -4,6 +4,10 @@ name: "Electric Picks"
 source_url: "https://www.electricpicks.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   "Not Just Another Gold Chain" signals intent before a product image loads — Electric Picks sets this anti-category tagline in GT America Expanded, a wide-cut muscular grotesque that is essentially absent from the costume-jewelry category but reads as precisely correct once seen in context. The typographic choice is the whole argument: where competitors reach for delicate script fonts and monotone blush, this brand uses that same blush palette — pale #fdecf0 through candy-pink #f7adc3 and terracotta-edged #d6938a — but grounds it in near-black (#231f20, #303030) and deploys a single saturated cherry-red (#e60c41) only at moments of action: add-to-cart, promotional banners, hover highlights. On the warm cream canvas (#fafaf7) and blush card surfaces, that red lands with billboard weight rather than generic urgency. A custom electric-picks font stack appears alongside GT America Expanded, suggesting a bespoke display lockup reserved for hero moments and the wordmark — the two-font system gives the brand editorial range without incoherence. Corner radii are kept deliberately tight: {rounded.full} appears only on filter pills and swatch dots, while buttons and product cards hold {rounded.sm} so the system never tips into the approachable softness of a skincare DTC. Warm intermediate grays (#9e9f9f, #c7c7c7, #bebebe) handle hairlines and secondary metadata so the blush-pink family remains exclusive to brand-identity surfaces. The spacing system opens generously at editorial callout rows and hero sections ({spacing.section} and {spacing.xxl}) but tightens to {spacing.sm}–{spacing.md} within product grids, maintaining density without catalogue-page compression. The overall system reads as a jewelry brand that has decided its product already does the delicate work — the interface can afford to be bold.
 
@@ -359,6 +363,13 @@ components:
 - Announcement bar: single-line fixed 40px height throughout; text truncates or marquees at mobile widths
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

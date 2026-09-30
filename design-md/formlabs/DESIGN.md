@@ -4,6 +4,10 @@ name: "Formlabs"
 source_url: "https://www.formlabs.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Part numbers and resin-type codes render in Consolas and Menlo — Formlabs is one of the few hardware brands that elevates monospace into the product interface rather than confining it to documentation. Against that technical register, the primary palette is engineering-blue (#0762c8) deepened to navy (#003594) in hover and active states, punctuated by an aggressive #ff5a00 orange reserved for high-urgency CTAs and new-product badges. The canvas reads warm rather than clinical: #fefdf9 instead of pure white, with surface cards on #f3f3f3 and soft dividers at #ddd9cf — a deliberate counter-weight to the cold precision-instrument expectation of a professional 3D printer brand. Buttons are rectangular or near-rectangular (`{rounded.xs}`), signaling a hardware-spec aesthetic instead of the consumer-friendly pill radii that SaaS tools default to. Photography leans on studio-lit grey fields at #e0e0e0 and #d0d0ce, and product cards surface amber (#e1a200) for availability notices and material-compatibility callouts. The typographic scale runs Roboto at restrained weights: 48px headers at weight 700 read declarative rather than loud — engineering confidence over marketing bravado. Error and warning states split cleanly: #bd3500 burnt-orange for errors (distinct from both primary blue and accent orange), #e1a200 amber for cautions, maintaining a legible triage hierarchy across multi-step print-configuration screens. The dual-register system — Roboto for editorial copy, Consolas/Menlo for data fields — is the single clearest signal that this is a precision professional tool, not a consumer gadget.
 
@@ -362,6 +366,13 @@ components:
 - Notification banners persist as single-line strip at mobile; text truncates with "…" and links to a detail page
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

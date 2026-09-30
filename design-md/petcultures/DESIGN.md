@@ -4,6 +4,10 @@ name: "PetCultures"
 source_url: "https://petcultures.com"
 captured_at: "2026-09-28T09:36:44.987240+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   PetCultures presents a clinical-yet-warm wellness identity built on a deep teal-green
   (#087e67) paired with a dark navy (#002b3e), evoking the "gut health / cultures" science
@@ -156,6 +160,13 @@ components:
 Recommended (not measured) breakpoints: mobile ≤640px, tablet 641–1024px, desktop ≥1025px. Nav collapses to a hamburger/drawer below tablet; product-card grids move from 1-column (mobile) to 2-column (tablet) to 3–4-column (desktop). Touch targets on button-primary/secondary and subscription-selector should maintain a minimum 44px height. Hero panels stack copy above imagery on mobile. This section is a proposed responsive strategy only; no actual mobile rendering or breakpoint CSS was present in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Go-To-PAC"
 source_url: "https://www.gotopac.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Cobalt-blue procurement infrastructure meets construction-orange urgency — the Go-To-PAC palette pairs #006bb4 with #f88431 using the same chromatic logic applied to cleanroom warning strips and HVAC actuator panels: one color anchors navigation and organizational trust, the other marks action and deadline. Production Automation Corporation is a deep-catalog industrial supplier serving engineers and facilities managers who arrive with a part number already in hand. The visual system exists to close that transaction in as few clicks as possible, not to tell a brand story.
 
@@ -378,6 +382,13 @@ components:
 - Alert banners stack vertically on mobile and do not auto-dismiss; user must acknowledge each
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

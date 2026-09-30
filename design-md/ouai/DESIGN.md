@@ -4,6 +4,10 @@ name: "OUAI"
 source_url: "https://theouai.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   OUAI is a haircare and body-care brand that speaks in a warm, earthy whisper rather than a shout. The palette is anchored by a deep, almost espresso brown (`#322a26`) that reads as grounded and sophisticated — not the harsh black of luxury fashion nor the sterile gray of clinical beauty. This ink tone sits alongside a soft, blush-like beige (`#d6cbc4`) that functions as the brand's primary canvas for product photography and editorial layouts, creating a gentle contrast that feels both modern and approachable. The system's primary action color is a muted teal (`#1990c6`) with a darker active state (`#136f99`), a surprising choice that avoids the typical pink or coral of beauty brands and instead signals a clean, unisex, almost apothecary-like confidence. Supporting neutrals like `#444444` for body copy, `#dedede` and `#ebebeb` for hairline borders, and a near-white canvas (`#f3f3f4`) keep the interface airy and uncluttered. Rounded corners are generous but not cartoonish — `{rounded.sm}` (8px) on buttons and `{rounded.md}` (12px) on cards — while the full pill shape (`{rounded.full}`) is reserved for search bars and toggle elements, reinforcing a tactile, human-friendly feel. Typography leans on a clean sans-serif system (likely Inter or a similar geometric sans, though no explicit font-family was extracted), with display sizes at 24–28px in medium weight and body text at 14–16px. The overall mood is relaxed, warm, and slightly editorial — like a well-curated Instagram feed or a minimalist apartment in Los Angeles. OUAI's design doesn't compete with its products; it frames them in soft light and generous whitespace, letting the pastel pinks, mint greens, and lavender tones of the actual haircare bottles provide the color story.
 
@@ -319,6 +323,13 @@ components:
 - Search bar moves from inline in the nav to a full-width bar below the nav on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Marble and Grace"
 source_url: "https://marbleandgracestudios.com"
 captured_at: "2026-09-28T09:32:47.518103+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Marble & Grace Studios is a Shopify-hosted storefront blending a photography
   portfolio with handmade soaps, wax melts, candles, and engraved keepsakes.
@@ -166,6 +170,13 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets should be a minimum of 44×44px for buttons and nav links, consistent with typical Shopify Dawn accessibility conventions. Mobile nav collapse and cart-drawer behavior were not observed in the supplied static CSS and are recommendations only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

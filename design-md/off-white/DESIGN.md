@@ -4,6 +4,10 @@ name: "Off-White"
 source_url: "https://off---white.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every physical Off-White garment ships with an industrial zip-tie tag and a label printed in quotation marks — "FOR WALKING", "FOR DISPLAY" — the conceptual gesture that separates Virgil Abloh's streetwear house from pure fashion retail and plants it closer to institutional critique. The digital storefront carries that same rigour: a near-absolute black (#171717) field broken only by the signature caution-tape orange (#ff6200), which fires on sale callouts, editorial badges, and price highlights with the same declarative confidence it stamps on physical packaging. Whitespace is not generous here; the grid presses close, editorial photography bleeds to the edge, and the typography is stripped to a grotesque without ornament — uppercase labels locked in tight tracking, prices set large, and the trademarked Off-White™ wordmark carrying all the warmth the rest of the system deliberately refuses. The canvas itself is barely off-white (#fffffe), maintaining just enough temperature to distinguish from the hottest whites in photo treatments. Gray (#c1c1c1) appears as a structural note — hairlines, muted metadata, secondary text — while a warm beige-rose (#bbaaaa) surfaces on product swatches and body-copy accents to prevent the palette from reading as purely monochrome. Navigation is a horizontal band in deep black with white type and no hover underlines — just a colour shift and cursor change, trusting the user's literacy entirely. Product cards are flush to their edges with no rounding ({rounded.none}), stacked photography on top and stark metadata below: price prominent, SKU minimal, out-of-stock conveyed by a single grey flag rather than a disabled opacity wash. The diagonal caution-stripe — alternating black and #ff6200 at 45 degrees — recurs across announcement bars and campaign panels, the most recognisable graphic device in streetwear translated faithfully from physical hangtag to screen. The overall register is closer to a gallery wall than a conventional storefront: clinical enough to communicate premium, warmed just enough by the orange pulse to avoid institutional coldness.
 
@@ -325,6 +329,13 @@ components:
 - The search overlay remains full-screen at all breakpoints; no sidebar variant
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

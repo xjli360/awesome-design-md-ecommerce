@@ -4,6 +4,10 @@ name: "Spicewalla"
 source_url: "https://spicewallabrand.com"
 captured_at: "2026-09-28T09:10:38.709612+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Spicewalla's storefront runs on a Shopify theme whose CSS custom properties define
   a warm, high-key palette: a pale chartreuse-cream canvas (#fcfdeb), a deep navy-ink
@@ -173,6 +177,12 @@ This is a recommended breakpoint structure, not measured site behavior:
 Buttons and search inputs should maintain a minimum 44×44px touch target on mobile. Mega-menu collapse behavior and any sticky-header interaction were not observed and are proposed for accessibility consistency only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

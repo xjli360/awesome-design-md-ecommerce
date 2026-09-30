@@ -4,6 +4,10 @@ name: "Massimo De Carlo"
 source_url: "https://www.massimodecarlo.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   ABCROM runs every line on massimodecarlo.com without variation — one family, near-zero weight deviation below 700, covering everything from 10px location labels to 80px hero exhibition titles. That typographic conservatism is the design signature: the site behaves as if the artwork cannot coexist with a competing type personality, so ABCROM stays almost invisible, a neutral vessel for whatever Cattelan or Stingel or Urs Fischer occupies the frame. The color extraction surfaces a white-cube restraint — #000000 as the carrying theme, #a3a3a3 as the only gray used at scale — but interrupts that austerity with a single operative orange at #ff901b, which appears on interactive highlights and navigation states with an abruptness that reads less like a brand decision and more like a deliberate aesthetic intrusion. Components ship with no radius: zero border-radius everywhere from buttons to cards to form fields, matching the gallery's physical language of planed concrete floors and unadorned walls. Spacing is generous at the section scale (64–96px between content blocks) and tight in inline clusters (4–8px within caption groups), mimicking the compressed hang of a gallery that uses distance between works as editorial argument. Artwork cards suppress pricing entirely in browse mode, surfacing only dimensions and medium — the gallery's way of signaling that inquiring is the transaction, not a checkout flow. The Shopify layer sits almost entirely beneath the surface: the add-to-cart mechanism exists for publications and editions, but it inherits the same zero-radius, ink-on-white austerity as every other surface. Location — Milan, London, Hong Kong, Brussels — toggles in the nav without page reload, each city effectively a filtered view of the same global program. Monospace appears only in timestamp and catalog-number contexts, a rare textural intrusion that marks archival data rather than editorial prose.
 
@@ -374,6 +378,13 @@ components:
 - Artwork grid degrades 4→3→2→1 columns across breakpoints without reflow of the caption block structure
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Midtown Comics"
 source_url: "https://www.midtowncomics.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep navy anchor at #00365a sets the frame for a comic-book marketplace that runs on a high-contrast blue primary system — #0257a6, #1058a8, #026cd0, #0057a8 — where every CTA, badge, and link reads as urgent and collectible. The brand's voltage comes from two accent punches: a stop-sign red at #e31c3d for sale tags and clearance badges, and a marigold #f9c642 for star ratings, limited-edition flags, and pre-order callouts. Body type runs Open Sans at 400 weight on a near-white canvas (#f4f4f4), with Roboto reserved for product titles and pricing tables where mechanical clarity matters. Navigation sits as a persistent dark band at full width, the primary search bar rendered in white with a {rounded.full} pill shape against the navy header, while product cards use a soft {rounded.sm} corner and a clean white surface (#ffffff) with a #e1e1e1 hairline. The grid is dense — 4-5 columns on desktop — reflecting a catalog mentality where cover art is the hero and text is subordinate. Badges are sharp: red rectangle for "SALE", yellow pill for "NEW THIS WEEK", blue outline for "PRE-ORDER". The footer collapses into a three-column accordion on mobile, each section headed by a 14px Open Sans semibold label. This is a store that trusts its inventory photography over layout flourishes, using color as a wayfinding system: blue means actionable, red means discounted, yellow means noteworthy.
 
@@ -466,6 +470,13 @@ components:
 - Hero banner text stack collapses from side-by-side to stacked on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

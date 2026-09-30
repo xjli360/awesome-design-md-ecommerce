@@ -4,6 +4,10 @@ name: "APMEX"
 source_url: "https://www.apmex.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Stacked American Eagles, kilobars, and Morgan dollars define the product catalog, and APMEX's interface makes no effort to disguise that material context — the design system is built to look like the velvet tray beneath the coin, not the magazine ad above it. The deep charcoal baseline (#313131) anchors every surface, a near-black that reads as display-case lining rather than tech-brand dark mode, chosen to maximise contrast against high-gloss precious-metal photography. Gold-toned interactive elements follow as a direct documentary consequence: {colors.primary} names the category the platform trades in before a single headline is read. Where most e-commerce brands borrow a personality color, APMEX's gold is tautological.
 
@@ -347,6 +351,14 @@ components:
 - Footer columns collapse to accordion-style expandable sections on mobile, defaulting to closed
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

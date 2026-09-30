@@ -4,6 +4,10 @@ name: "Sardel"
 source_url: "https://sardelkitchen.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Sardel is a premium cookware brand that speaks in a confident, modern voice — a deep, almost ink-black primary palette of `#1d1e20` and `#36344d` anchors a system that feels both luxurious and approachable. The brand’s signature energy comes from a vibrant coral-pink accent, `#d63163`, which appears on primary buttons, badges, and key interactive elements, often paired with a softer blush `#fc5185` for hover or secondary states. A secondary purple family — from `#2f1c6a` through `#673de6` to `#8c85ff` — adds depth and a touch of the unexpected, used in navigation accents, product highlights, and illustrative elements. The canvas is a warm off-white `#fff8e2`, not a sterile pure white, giving the entire experience a tactile, kitchen-warm feel. Typography relies on DM Sans, a geometric sans-serif with a friendly, humanist character, set at moderate weights (400–600) for body and display, avoiding the heavy-handedness of traditional luxury brands. Cards and buttons use soft, pill-like radii (`{rounded.sm}` for buttons, `{rounded.lg}` for cards), while the overall layout is generously spaced with `{spacing.lg}` and `{spacing.xl}` margins, letting product photography and the brand’s distinctive color blocks breathe. The design system feels like a well-edited kitchen: every element has a purpose, the tools are beautiful but functional, and the warmth comes from the materials, not the decoration.
 
@@ -371,6 +375,13 @@ components:
 - Hero sections reduce vertical padding on mobile to avoid excessive scrolling
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

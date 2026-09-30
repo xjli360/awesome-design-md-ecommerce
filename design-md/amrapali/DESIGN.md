@@ -4,6 +4,10 @@ name: "Amrapali"
 source_url: "https://www.amrapalijewels.com"
 captured_at: "2026-09-28T04:15:20.098490+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Amrapali's observed CSS shows a stark black-and-white foundation (#000000, #ffffff) overlaid with a single saturated red accent (#e11931) used consistently as a hover/interaction color on buttons and links. Supporting neutrals (#868686, #bbbbbb, #f5f5f5, #f8f8f8, #dcdcdc, #e7e7e7) appear in hairlines, topbar borders, and light surface fills, suggesting a minimal, editorial UI scaffold typical of a Shopify theme (wpbingo page-builder classes are visible throughout).
   Two verified font families anchor the type system: Cormorant Garamond, a high-contrast serif well suited to the brand's heritage/ethnic jewelry positioning, and Lato, a neutral grotesque used for UI chrome (buttons show font-size:11px, font-weight:500, letter-spacing:2px). Feather, icomoon, and wpbingofont are icon fonts, not text faces, and are excluded from typographic roles.
@@ -151,6 +155,14 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Interactive elements (buttons, nav icons, search toggle) should maintain a minimum 44×44px touch target on mobile. Sticky header behavior is implied by the `.bwp-header.sticky` class name but its resulting styles were not supplied, so exact collapse/transition behavior is unverified.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

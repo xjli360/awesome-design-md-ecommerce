@@ -4,6 +4,10 @@ name: "Irene Neuwirth"
 source_url: "https://www.ireneneuwirth.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The extracted palette reads like a gem tray laid on white linen — a deep plum-mauve (#8e5c84) beside warm amber (#feaf3f), with flashes of burnt orange (#b74305), deep red (#b22c29), and ocean blue (#0073a2) that mirror the tourmalines, padparadschas, and sapphires Neuwirth hand-sets at her Los Angeles studio. Color is the central argument of the brand, not an accent to precious metal: each piece is designed around the stone, and the UI reflects that logic. Muted neutrals — a light silver-gray (#dedede) hairline, near-black (#121212) ink — function as the white-gold setting that lets gemstone hues breathe without competition. The handmade provenance is front-loaded in the page title itself ("Handmade Fine Jewelry Los Angeles"), establishing craft and geography before any product is shown. Navigation stays minimal and typographically spare — all-caps, generously tracked sans-serif at small scale — directing all visual energy toward editorial photography where organic color does the persuasion. Button shapes favor a subtly rounded edge (`{rounded.sm}`) rather than pill or sharp rectangle, landing at the deliberate middle ground between fine-jeweler's restraint and contemporary e-commerce warmth. The amber (#feaf3f) acts as the brand's equivalent of a gold bezel catch — a warm, deliberate accent deployed on featured CTAs and collection badges against the cooler neutral field. Product cards lean on large-format 4:5 imagery shot against skin or stone rather than a white float, letting the organic gemstone color key the entire visual register. Spacing is generous at the section level (`{spacing.section}`) to give each collection editorial breathing room. Display type is set in a classical serif — atelier register, zero flash — while body copy shifts to a clean sans-serif for legibility on material descriptions and care instructions. The result is a site that behaves less like a storefront and more like a gallery walk-through, where the product is always the focal point and the UI recedes to let color and craft speak.
 
@@ -326,6 +330,13 @@ components:
 - Editorial side-by-side sections: image-above, text-below on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

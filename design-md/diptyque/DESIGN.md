@@ -4,6 +4,10 @@ name: "Diptyque"
 source_url: "https://www.diptyqueparis.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A Parisian olfactory atelier that treats every surface as a canvas for understated luxury, Diptyque’s digital presence mirrors its boutiques: quiet, tactile, and deliberately restrained. The palette is anchored by a warm off-white canvas (`#f8f8f8`) and soft greys (`#e8e8e8`, `#f3f3f3`) that evoke the matte paper of its iconic oval labels, while a deep charcoal ink (`#1d1f22`) grounds body text and primary navigation. Signature accents emerge sparingly: a muted sage green (`#2e5538`) for botanical cues, a restrained crimson (`#d12f37`) for limited-edition markers, and a pale cerulean (`#1284e7`) for interactive links and hover states — never shouting, always purposeful. The typography relies on a system-native stack (`-apple-system`, `Helvetica Neue`, `Roboto`, `sans-serif`) at modest weights (400–600), with display sizes rarely exceeding 24px; the brand trusts negative space and the poetry of product names over typographic drama. Rounded corners are minimal (`{rounded.xs}` 4px on buttons, `{rounded.sm}` 8px on cards), preserving the crisp geometry of the Diptyque oval, while the single `{rounded.full}` pill shape is reserved for the search bar — a quiet invitation to explore. The overall effect is one of hushed elegance: a digital space that feels like a scented letter, not a storefront.
 
@@ -362,6 +366,13 @@ components:
 - Side panels (cart, search) become full-screen overlays on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

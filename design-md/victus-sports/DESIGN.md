@@ -4,6 +4,10 @@ name: "Victus Sports"
 source_url: "https://victussports.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A baseball bat maker that paints its identity in the black of a barrel face (#010101) and the crack-of-bat red (#db1e36) that runs through every primary action and badge. The palette is a dugout of high-contrast extremes — near-black ink (#231f20) against a warm off-white canvas (#f4f4f4), with a sky-blue accent (#80c3e4) that reads as a deliberate departure from the sport's traditional navy and gray. The brand trusts Oswald, a condensed sans-serif with a squared-off, athletic posture, for display typography — it sits at 700 weight in all-caps on hero sections, evoking jersey lettering and scoreboard LED text. Gotham serves as the supporting body face, bringing a more neutral, legible counterpoint to Oswald's intensity. The system uses tight letter-spacing on display text (1-2px), a move that compresses the type into blocks rather than letting it breathe — a visual echo of a bat's tapered handle. Buttons are pill-shaped (`{rounded.full}`) with red fills, but the brand also deploys a yellow accent (#ffb13b) for secondary calls-to-action and a deep blue (#216ba5) for trust signals like shipping guarantees. The overall mood is unapologetically masculine and competitive — the black canvas, the red voltage, the condensed type — but the sky-blue and yellow prevent it from tipping into aggression. Product cards use a clean white surface (`{rounded.md}` ~12px) with a thin hairline (#d3d3d3) that separates the photo from the description, and the footer collapses into a dense, single-column stack of links in muted gray (#aeaeae). The brand's signature move is the red-to-black gradient on hero overlays — a fade from `#db1e36` at the bottom to `#010101` at the top — that makes every product shot feel like it's emerging from a stadium tunnel.
 
@@ -343,6 +347,13 @@ components:
 - Hero: full-width gradient remains, but text size reduces and padding compresses
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

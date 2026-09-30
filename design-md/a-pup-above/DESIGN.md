@@ -4,6 +4,10 @@ name: "A Pup Above"
 source_url: "https://apupabove.com"
 captured_at: "2026-09-28T04:45:49.675989+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A Pup Above's storefront evidence points to a deep forest-teal (#0C3D37) as the
   dominant brand color, applied to the header, nav headings, and drawer accents,
@@ -175,6 +179,14 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be at minimum 44×44px for icon buttons and nav toggles. The mega-menu's 3-column grid layout is expected to collapse to a stacked list under the drawer navigation on mobile — this collapse behavior is proposed, not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

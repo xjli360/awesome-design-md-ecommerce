@@ -4,6 +4,10 @@ name: "Article"
 source_url: "https://www.article.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Coral (#ff6458) burns like a lit match against a field of architectural neutrals — that single warm accent does all the heavy lifting on a site otherwise governed by restraint. Article's digital presence mirrors the showroom philosophy of its furniture: generous negative space, photography scaled to breathe, and typography that steps back so oak grain and linen weave sell themselves. The type system pairs a proprietary "article-font" display face with Proxima Nova for body and UI text, running lighter weights than most e-commerce competitors; headings rarely exceed semi-bold, trusting hierarchy to come from scale and spacing rather than stroke width. Cards and containers sit at `{rounded.sm}` or `{rounded.xs}` — just enough softness to avoid clinical rigidity without veering into playful territory. The background alternates between pure white `{colors.canvas}` and a barely-warm gray `{colors.surface-soft}` (#f2f2f2) that groups product grids into visual rooms. Navigation is flat and unadorned: no underlines, no colored backgrounds, just `{colors.ink}` (#141414) text at `{typography.nav-link}` weight with a coral underline on active state. Product cards rely on oversized imagery (aspect-ratio locked at 4:5), a single `{typography.title-md}` product name, and price in `{typography.body-md}` — dimensions and material tags appear only on hover or in a secondary line at `{typography.caption}` weight. The sale system layers a gold badge (#e6b94f) and a green in-stock dot (#3cb064) as the only departures from the coral-and-gray world; these semantic colors are used sparingly and never decoratively. Buttons are rectangular with `{rounded.xs}` corners and generous vertical padding, giving CTAs a slab-like solidity that echoes the straight lines of mid-century furniture legs. The overall rhythm is slow and spacious — `{spacing.section}` between content blocks, `{spacing.lg}` gutters in product grids — letting each piece of furniture command attention the way it would on a concrete gallery floor.
 
@@ -446,6 +450,14 @@ components:
 - Image gallery loses thumbnail strip; main image becomes a horizontal swipe carousel with dot indicators
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

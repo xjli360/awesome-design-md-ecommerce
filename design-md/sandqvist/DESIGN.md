@@ -4,6 +4,10 @@ name: "Sandqvist"
 source_url: "https://sandqvist.com"
 captured_at: "2026-09-29T04:01:02.071703+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Sandqvist's storefront CSS shows a restrained, monochrome-led system built on a defined greyscale token scale (--color-scale-0 through --color-scale-90) running from pure white to near-black (#0c0c0e), with body copy set in #212121 and secondary/muted text implied by #959595 and #444444. Hairlines and soft surfaces are drawn from the lighter scale steps (#e3e3e3, #f8f8f8). Two additional colors, a pale mint (#f3fef2) and a light green (#bdefba), appear outside the greyscale token set; their exact usage was not confirmed in the supplied CSS, so they are treated here as inferred accent colors, most plausibly for sustainability/eco badges or availability indicators given Sandqvist's stated sustainability focus. Typography uses a single observed family, dinPro (with a "dinPro Fallback" web-safe substitute), at a 16px/24px body baseline; all other sizes are proposed extrapolations for a product-and-editorial catalog layout, not measured. Buttons follow an outline/underline pattern with dark/light theme variants tied to a transparent, transitioning header (solid on scroll). This interpretation extends those primitives into a full component set for a backpacks/daily-carry storefront while keeping every color and font strictly within the observed evidence.
 
@@ -148,6 +152,13 @@ Recommendation only, not measured from live site behavior:
 Touch targets should meet a minimum 44px height (aligned to the `--spacing-11: 44px` token), buttons and nav items should collapse into a drawer or accordion below tablet width, and the transparent-header-to-solid transition observed in `.Header-module` should be preserved across breakpoints for visual continuity.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS and text extraction only; no rendered layout, real breakpoints, or interaction states (hover, focus, active, loading, error) were observed. The roles assigned to `#f3fef2` and `#bdefba` are inferred guesses based on their non-greyscale nature and the brand's sustainability messaging — their actual usage in the live product is unverified. All typography sizes beyond the confirmed 16px/24px body baseline are proposed, not measured. Component existence (product-card, hero, spec-panel, search) is inferred from page text content, not from corresponding CSS selectors. The `dinPro` font's licensing, weights, and availability as a web font were not verified; generic `sans-serif` is used as a safe fallback. Spacing and rounded-corner scales beyond the `--spacing-*` custom properties are proposed conventions, not extracted values.

@@ -4,6 +4,10 @@ name: "Wempe"
 source_url: "https://www.wempe.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every great German watch house keeps its own silence — Wempe's digital presence speaks in the same register as a Glashütte movement beneath a sapphire crystal: nothing ornamental, everything purposeful. The Hamburg-founded maison, now past its 147th year, earned its own manufacture certification (Wempe Chronometerwerke, Glashütte) long before "manufacture" became a marketing word, and that heritage is legible in a design language that uses black (#000000) as its single authoritative voice and reserves gold (#b8912a) for the exact moments it matters — hallmarks, divider rules, hover states on featured pieces. The canvas is pure white with no grey drift, because the brand trusts editorial photography of watch dials and gem-set brooches to supply all the warmth the layout needs. Typography runs in a Didot-adjacent serif for display: high contrast thick-to-thin strokes, generous negative tracking at large sizes, the same vertical tension a master watchmaker sees in a properly poised escapement. Body copy drops to a neutral grotesque — likely a geometric sans — so that legibility never competes with the headline's authority. Spacing is architectural: the grid breathes at 64-80px section gaps, product cards carry ample white air, and the navigation sits flat and near-invisible so that merchandise, not chrome, dominates first attention. Rounded corners are effectively absent; the vocabulary is rectangular throughout, with the single exception of pill-shaped filter tags in catalog views. Interaction states are restrained — hover darkens gold to a deeper amber, focus rings are thin and gold-tinted, active states compress rather than glow. The overall register is closer to a Geneva auction catalogue than an e-commerce interface: unhurried, high-contrast, resolved.
 
@@ -433,6 +437,13 @@ components:
 - Footer columns collapse to accordion on mobile; headings remain visible as tap targets
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

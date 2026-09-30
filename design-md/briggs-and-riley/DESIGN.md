@@ -4,6 +4,10 @@ name: "Briggs & Riley"
 source_url: "https://briggs-riley.com"
 captured_at: "2026-09-28T09:30:29.694765+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from Shopify theme variables and inline component
   styles for a premium American luggage and business-bag brand. The observed
@@ -177,6 +181,14 @@ Recommended breakpoints (not measured from the live site):
 Touch targets should be at minimum 44×44px for cart, nav, and CTA buttons. Mega-menu categories (New Luggage, Bags, Accessories, Collections) should collapse into an accordion pattern on mobile. This table is a recommendation only; no responsive CSS or mobile DOM was supplied in evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

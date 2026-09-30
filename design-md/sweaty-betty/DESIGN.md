@@ -4,6 +4,10 @@ name: "Sweaty Betty"
 source_url: "https://sweatybetty.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Two chromatically charged decisions define every Sweaty Betty surface — a pool-water teal (#06afa9) operating as the brand's north star, and a saturated hot pink (#d6006d) that fires across campaign imagery, sale flags, and promotional CTAs with the urgency of a sprint finish. The two voltages do not compete: teal anchors the identity while pink signals action, and a supporting bright mint (#02d0bc) plus fuchsia (#f35db5) extend the range into gradient territory for hero modules and seasonal banners. That chromatic confidence sits against a near-black ground (#1c1f21, #181818) in editorial contexts, then lifts to white canvas for product browsing — a deliberate oscillation that gives both teal and pink maximum luminosity against each environment.
 
@@ -366,6 +370,13 @@ components:
 - **Footer**: 4-column grid → 2 columns → single-column accordion with collapsible headings on mobile; social icons remain visible at all breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

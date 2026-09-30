@@ -4,6 +4,10 @@ name: "Mute Bank"
 source_url: "https://www.mutebank.co.uk"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A record label and shop that feels like a dimly lit listening room — the palette is anchored on #cd0a0a, a blood-drop red that appears sparingly as the sole chromatic voltage against a field of near-blacks (#222222, #212121, #121212) and warm grays (#aaaaaa, #555555, #363636). The red never screams; it sits in small doses — a cart badge, a sale tag, a hover underline — while the rest of the interface recedes into the dark. The canvas is #fbf9ee, a parchment off-white that softens the contrast and keeps the storefront from feeling cold. Type runs proxima-nova at modest sizes with generous line-height, letting album titles and tracklists breathe in the negative space. The search bar, a pill-shaped dark field with white text, sits flush against the top edge like a club door. Product cards use soft corners ({rounded.md}) and thin hairlines (#dedede) that barely separate items, trusting the rhythm of square album art to do the layout work. The overall effect is restrained, almost archival — a shop that wants you to browse slowly, with the red acting as a quiet pulse rather than a call to action.
 
@@ -283,6 +287,13 @@ components:
 - Category filters (if present) collapse into a horizontal scrollable strip on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

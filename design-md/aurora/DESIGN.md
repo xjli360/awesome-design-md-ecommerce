@@ -4,6 +4,10 @@ name: "Aurora"
 source_url: "https://auroragift.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A plush toy brand that uses #0052b4 as its primary blue — a saturated, almost electric cobalt — to signal softness through confidence rather than pastel. The palette is built on a high-contrast structure: #232323 ink for headlines, #f8f8f8 canvas for backgrounds, and #d80027 as a sharp accent red that appears on sale badges and promotional banners. Product photography is the real texture layer; the design system stays out of its way with generous whitespace, {rounded.md} card corners, and Poppins at 400/500 weight — a geometric sans that reads clean at small sizes on mobile product grids. The brand's signature move is the "squish" badge: a small {rounded.sm} pill in #ff8b21 orange with white text that calls out specific plush qualities ("Super Soft", "Huggable"), placed at the top-left corner of product cards. Navigation is minimal — a sticky top bar with a centered logo, search icon, cart icon, and account link, all in {colors.ink} on {colors.canvas}. The footer is dense with utility links in {colors.muted} (#969696) and a newsletter signup bar that uses {rounded.full} input fields. There is no hero carousel; the homepage leads with a full-width banner image and a single CTA button in {colors.primary} with white text, {rounded.sm} corners, and 48px height. The brand trusts its product imagery to carry emotion — the system provides a neutral, legible container.
 
@@ -331,6 +335,14 @@ components:
 - Product card badges scale down font size on mobile (11px → 10px)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Ana Luisa"
 source_url: "https://analuisa.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   "Your Jewelry Uniform" is the thesis, not a tagline — it positions Ana Luisa as a daily-wear category rather than occasion jewelry, and every design decision reinforces that logic. The site runs on a warm ivory canvas (#fffbf3, deepening to #fbf7ec on card surfaces), against which the primary action color — a brick-kiln red (#bb1b01) — reads as editorial rather than commercial, closer to a magazine's accent ink than a typical e-commerce CTA. A custom extended serif, AwesomeSerif-SemBdExtraTall, carries all display roles at strikingly tall proportions; it is paired with Rigatoni for secondary headlines and Mulish (a humanist sans) for all running prose, producing a deliberate contrast between editorial declaration and readable utility. Warm stone neutrals thread through the system — sand (#dbd6ce), blush sand (#e4e1db), soft peach (#ffddce) — avoiding the sterile white-and-silver palette common to the jewelry category. Rounded tokens lean generous: {rounded.full} pills on primary CTAs, {rounded.md} on product cards, reading as approachable and modern without the hard-edge geometry of luxury or the bubble softness of DTC skincare. The dark olive-charcoal ink (#43443f) keeps body copy slightly warmer than pure black, and a deep burgundy (#8a152a) activates as the pressed-state complement to the brick primary. Promotional chips and price badges inherit the soft peach (#ffddce) rather than a clinical yellow or urgent red, ensuring that even scarcity signals stay within the warm editorial palette. Quick-add overlays and drawer-based cart interactions suggest a mobile-first construction, with generous touch targets and sticky nav architecture that positions the cart icon as the primary conversion funnel. No gradients, no neon — the sophistication is delivered through palette restraint and the confident vertically-stretched geometry of the custom display faces.
 
@@ -396,6 +400,14 @@ components:
 - Email signup module stacks input and button vertically on mobile, both stretching full width
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

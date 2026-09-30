@@ -4,6 +4,10 @@ name: "NuWave"
 source_url: "https://www.nuwavenow.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Digital readouts and thermal-gradient orange signal that a NuWave product is running — and those same visual cues carry directly into the brand's web presence. The confirmed site color is #313131, a near-black charcoal that NuWave deploys as both a product-shell finish and a marketing canvas: dark backgrounds let heated-element orange snap to attention without any lifestyle softening. Where most countertop-appliance brands reach for clinical white and stainless, NuWave's command-center aesthetic goes the other direction, treating precision engineering as the primary visual argument. The orange primary — broadly documented across NuWave's logo mark, product packaging, and CTA buttons throughout the Brio and Pro4+ lines — reads as a thermal reference, not a trend color; it belongs in the same visual grammar as LED digits and backlit control panels. No custom typeface was detected during extraction (the site returned an anti-bot challenge, yielding a single color token), so the system-native sans-serif stack carries full hierarchy: weight 700 for display headlines and appliance model numbers, weight 600 for product card titles, weight 400 for body and legal copy. Numerics carry unusual weight in this category — wattages, temperature ranges, preset counts — and the type system must handle spec-dense rows without collapsing; `{typography.caption}` labels in all-caps tracking echo the on-device panel readouts, unifying screen UI with physical product language. Interactive elements use `{rounded.sm}` — the brand stays functional rather than playful, reserving `{rounded.full}` only for promotional badges and secondary tags. Hero blocks need `{spacing.section}` breathing room around product renders so each machine reads as a countertop object, not a catalog thumbnail. PDP and collection pages lean heavily on comparison tables and feature-icon strips, components that carry more purchase-signal weight than photography alone for a buyer choosing between the 6-quart and 8-quart model.
 
@@ -403,6 +407,13 @@ components:
 - `announcement-bar` truncates to a single centered message on mobile, hiding secondary CTAs
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Arctic Spas"
 source_url: "https://www.arcticspas.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Arctic Spas runs a five-stop crimson family from #a2051b to #8e0d27 with almost no chromatic variation between stops, then makes a hard cut to near-black (#231f20) and near-white (#fbfbfb) with no midtone color bridging the gap — a palette architecture that reads as engineered precision rather than lifestyle warmth. The effect is deliberate: a brand selling all-weather outdoor equipment in cold climates does not want terracotta softness; it wants the authority of a pressure gauge. Primary CTAs land in #a32035 against the near-white canvas, and the darker crimson #8e0d27 carries active/hover states, ensuring the red never blooms warm or orange at any interaction state. A secondary navy #003388 appears as link text and inline actions, borrowing trust-signal blue without competing with the crimson primary. The forest green #2e7d32 is used sparingly — almost certainly confined to availability indicators or eco-certification badges — and its presence in the extraction is a tell that the brand wants an environmental credibility signal without turning the whole system green. Type is built on Poppins for display and headline work, with Lato carrying body copy; the pair gives the interface a modest modernity — neither the neutrality of Inter nor the aggression of a slab serif. Roboto Condensed appears in the font stack and likely governs spec labels, comparison table headers, or feature callouts where horizontal compression matters in a data-dense layout. Button corners use a small radius ({rounded.sm}), product cards sit at {rounded.md}, and there are no pill shapes anywhere in the observed palette — the geometry is angular by product category association, echoing the cabinet lines of the tubs themselves. The four near-white tinted swatches (#eeffee, #ffeeee, #eeeeff, #eeeeee) suggest hover/focus state colorization across an interactive component library rather than true background fills — a pattern where buttons, checkboxes, and toggle surfaces shift slightly warm or cool on interaction. Section spacing is generous, matching the expectation of a premium product page where photography and feature prose need room to land.
 
@@ -404,6 +408,14 @@ components:
 - Comparison table switches from side-by-side cards to a horizontal snap-scroll carousel at 88vw card width with 12vw right peek showing the next card
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Orcas Island Leather"
 source_url: "https://orcasislandleather.com"
 captured_at: "2026-09-28T09:13:42.428795+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Orcas Island Leather Goods is a Shopify-powered storefront for handcrafted DIY
   leather kits and finished leather goods (wallets, bags, belts, home goods) made
@@ -168,6 +172,13 @@ The following breakpoint table is a **recommendation**, not measured site behavi
 Touch targets should be a minimum 44×44px for buttons and nav items per common accessibility guidance (not site-verified). Navigation should collapse into a disclosure/hamburger pattern below tablet width; this is a proposed pattern only, as no mobile nav markup or behavior was captured in the evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

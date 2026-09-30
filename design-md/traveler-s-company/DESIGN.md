@@ -4,6 +4,10 @@ name: "Traveler's Company"
 source_url: "https://www.travelers-company.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Worn leather in #382110 arrives before the headline — this is a brand that treats its primary color as a material sample rather than a branding decision, the same shade as the flagship notebook cover after six months of daily use. Type is set exclusively in serif stacks with no custom web font loading detected, an unusual restraint for an e-commerce site that makes every product name and editorial paragraph read like text stamped into paper rather than rendered on glass. The navigation header runs full bilingual identity — "TRAVELER'S COMPANY" and "トラベラーズカンパニー" — as a composed visual object rather than a localization footnote, the double-line title as structurally load-bearing as a product photograph. Product photography operates without overlaid text or gradient scrims; leather texture, visible stitching, and ink-bleed on insert pages carry all persuasive weight. The extracted palette orbits a warm analog register: #382110 leather brown as the primary voltage, near-black at #1e1f26, and a family of grays from #e1e1e1 to #f0f0f0 that approximate the color of aged cream paper. Several Gutenberg-editor and social-embed blues (#0693e3, #1778f2, #003399, #0757fe) appear in the extraction and trace to WordPress block editor defaults and embedded widgets rather than brand surfaces — those are excluded from component definitions. Corner radii stay at {rounded.none} on editorial containers and at most {rounded.xs} on interactive elements; no pill-shaped CTAs, no soft rounded-full affordances appear anywhere. The refillable leather cover is a system of components rather than a single SKU — the site dedicates structured diagram panels to making that system legible, a content type with no direct analogue in conventional DTC product pages. The interaction model reads closer to a craft atelier than a growth-optimized DTC storefront: sparse product grids, generous negative space, long-form founder-voice copy sections, and no urgency mechanics.
 
@@ -356,6 +360,13 @@ components:
 - Collection header: centered text block remains centered at all widths; font size steps down one scale unit at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

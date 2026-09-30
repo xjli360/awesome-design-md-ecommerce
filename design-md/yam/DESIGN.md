@@ -4,6 +4,10 @@ name: "Yam"
 source_url: "https://www.yamnyc.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The name carries deliberate earthiness — a root vegetable dropped into New York's demi-fine jewelry landscape, declaring that ornamentation needn't perform preciousness to earn its place on a body. Yam's visual system earns its sustainability claim through a deep forest green (#0d4f3d) deployed as the primary action color, then softened through a four-step ramp — #4b916d, #97c693, #bde2a7, through to petal-pale #effae5 — that reads like a cross-section of living material rather than a brand-color kit. The neutral axis runs notably warm: parchment (#f1f0ef) and ash (#a8a6a5) ground the canvas rather than cool white-marble beige, giving product photography the feeling of stone-counter and linen rather than clinical gallery light. A muted coral-red (#df3131) enters selectively as an accent counterweight — enough warmth to keep the palette from reading as a produce co-op, not so much that it eclipses the green identity. Typography pairs a serif display voice for editorial moments — collection headers, hero statements — against clean Helvetica Neue for body and label copy, a combination positioning the brand just below the luxury threshold while remaining accessible. Product cards sit on warm off-white ({colors.surface-soft}) rather than pure white, reinforcing the organic material story without heavy-handed messaging. Navigation stays deliberately understated: no oversized logotype, no marquee banner, the product photography doing the commercial work. Pill-shaped badges ({rounded.full}) carry sustainability callouts and material labels — 14k gold-fill, recycled silver — surfacing brand values at the SKU level rather than the homepage level. Spacing is generous without the cold emptiness of luxury minimalism: {spacing.section} section breaks, {spacing.lg} card gutters, and touch targets that presume a mobile-first customer browsing between subway stops in Queens or the Lower East Side.
 
@@ -347,6 +351,13 @@ components:
 - Sustainability badges on product cards truncate to icon-only at single-column width
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

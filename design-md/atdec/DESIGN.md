@@ -4,6 +4,10 @@ name: "Atdec"
 source_url: "https://atdec.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The burnt-orange pair — #d85030 and #db4f30, separated by barely a perceptual step — functions as Atdec's precision mark: not a lifestyle accent but an engineering callout, the visual equivalent of a red-dot indicator on a torque specification. Mounted against the near-white #f5f5f6 field and anchored by deep-navy #221155, these flame-adjacent tones communicate that the brand's products are built to bear load and hold position. Gotham and GothamBook carry the typographic architecture: geometric, squared at the joints, constructed with the same logic as aluminum extrusion — efficient rather than expressive, suited to a procurement audience that scans spec sheets rather than browsing by mood.
 
@@ -339,6 +343,14 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

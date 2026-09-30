@@ -4,6 +4,10 @@ name: "Breitling"
 source_url: "https://www.breitling.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The #ffc72c amber on Breitling's primary CTAs has a direct lineage to aviation instrument panels — the high-contrast warm tone that pilots learned to trust at a glance under cockpit glare. Against the brand's signature deep navy (#072c54) and near-black (#09091a) backgrounds, the amber reads less like a marketing choice and more like a functional signal, which is precisely the effect Breitling has maintained since its AOPA partnership in the 1950s. The site carries this instrument logic throughout: dark surfaces dominate hero and collection pages, navigation anchors at depth (#0e2240), and text content pools into off-white (#fafafa) rather than pure white, keeping the register cool and legible without clinical sterility.
 
@@ -328,6 +332,14 @@ components:
 - Hero video pauses and is replaced by a static poster image in reduced-motion and low-bandwidth contexts
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

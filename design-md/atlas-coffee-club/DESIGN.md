@@ -4,6 +4,10 @@ name: "Atlas Coffee Club"
 source_url: "https://atlascoffeeclub.com"
 captured_at: "2026-09-28T09:26:55.538409+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Atlas Coffee Club's storefront CSS centers on a saturated egg-yolk yellow ("#f9e124") paired with a near-black charcoal ink ("#252323"), evidenced directly in the Tailwind-style button--primary rules (yellow background, dark text, pale-yellow hover state). Body copy is explicitly set in Open Sans with Helvetica/Arial fallbacks across the text-body utility classes, so that mapping is observed rather than assumed. Headline and display fonts (Jost, Barlow, Arsenal, Dancing Script) appear only in the loaded font-family list without a confirmed selector mapping; their assignment to display and title roles below is inferred from typical marketing-site hierarchy and should be treated as proposed, not confirmed.
   The palette also carries a muted, warm-neutral surface family (cream/off-whites like "#fbf7ef" and "#fcfdfc") suited to card and hero backgrounds against the primary yellow, plus semantic greens and corals (success/error states) already wired into button--primary.success and .error variants. A terracotta and a muted teal round out an "explore the world" accent set, appropriate to a globally-sourced coffee brand, though their specific UI usage was not observed and is treated as available accent inventory. Rounded corners and spacing follow a conventional 4/8-based scale inferred from the one confirmed 4px button radius.
@@ -142,6 +146,11 @@ components:
 Recommended breakpoints (not measured from live site): mobile ≤ 480px, tablet 481–1024px, desktop ≥ 1025px. Nav should collapse to a hamburger/off-canvas menu below 1024px; hero and product-card grids should stack to single-column below 768px. Touch targets for buttons and badges should maintain a minimum 44px height. This section is a proposed recommendation only; no interaction or breakpoint behavior was observed in the supplied static CSS/text evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS rules, a color/font inventory, and page text only — no rendered layout, DOM structure, or responsive behavior was observed. Heading/display font assignments (Jost, Barlow, Arsenal, Dancing Script) are inferred from the loaded font list, not from confirmed selector mappings, and their licensing/self-hosting status was not verified. Several component definitions (nav-bar, text-input, product-card, hero, search, badge) are proposed patterns with no matching selectors in the supplied evidence. All spacing and rounded-corner scale values beyond the single confirmed 4px button radius are proposed conventions, not measured. Color-to-role assignments (e.g., surface-soft vs. surface-card, hairline) are best-fit inferences from a flat hex list without confirmed usage context.

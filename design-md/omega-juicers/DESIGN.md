@@ -4,6 +4,10 @@ name: "Omega Juicers"
 source_url: "https://omegajuicers.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Two greens anchor the entire interface — a saturated mid-tone (#298556) that fills primary buttons, collection badges, and "Add to Cart" bars, and a darker forest (#007a3e) that surfaces on hover states and the sticky header wordmark. The effect is less "wellness pastel" and more produce-aisle conviction: celery stalk, wheatgrass shot, the cap of a cold-pressed bottle. Display headlines land in Poppins at 600–700 weight, giving product names a geometric solidity that pairs well with appliance photography where chrome cylinders and matte housings dominate the frame. Body copy and UI labels drop into DM Sans, a grotesque with open apertures that stays readable at 14px on dense spec-comparison tables — the kind Omega leans on heavily, stacking RPM, wattage, and warranty years in side-by-side grids. A golden amber accent (#ffb922) marks sale callouts, star ratings, and limited-edition flags; it reads warm against the green without drifting into citrus cliché. A deep berry (#9c005f) appears sparingly — clearance badges, urgent inventory warnings — functioning as a second alert layer distinct from standard error red. Cards sit on a pure-white canvas (#ffffff) with `{rounded.sm}` corners and a single `{colors.hairline}` border; product imagery bleeds to the card edge while text content observes `{spacing.base}` internal padding. The nav bar is slim (64px), ink-dark (#111111) text over white, collapsing to a hamburger at mobile with a full-screen drawer whose backdrop uses the same near-black (#121212) at 85% opacity. Spacing is utilitarian — `{spacing.section}` (64px) between homepage modules, `{spacing.lg}` (24px) gutters in the product grid — and the overall density is higher than lifestyle brands because the audience cross-shops on specs, not mood. Touch targets honor 48px minimums, pill-shaped filter chips use `{rounded.full}`, and the sticky mobile cart bar anchors to the viewport bottom with a `{colors.primary}` background that keeps the conversion action visible through long scroll depths.
 
@@ -506,6 +510,13 @@ components:
 - Breadcrumbs truncate to "… / Parent / Current" on mobile to prevent wrapping.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

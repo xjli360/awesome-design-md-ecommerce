@@ -4,6 +4,10 @@ name: "Oxbow Animal Health"
 source_url: "https://oxbowanimalhealth.com"
 captured_at: "2026-09-29T04:24:10.717363+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is built from Oxbow Animal Health's Astra/WooCommerce-based storefront CSS, which exposes a WordPress default block-editor palette (WP core colors like #cf2e2e, #00d084, #8ed1fc) alongside a smaller set of theme-level brand colors: a deep teal (#007d66), an amber/orange (#f8951c), and supporting blues (#0274be, #0170b9). Because the supplied CSS references CSS custom properties (--ast-global-color-0 through -5) without resolved hex values, the mapping of primary/secondary brand roles below is inferred from the button and hover-state rules, which consistently pair a saturated color for backgrounds with white (#ffffff) text. Neutral grays (#3a3a3a, #808285, #f7f6f1, #eeeeee) are treated as ink, muted text, and soft-surface roles based on typical Astra defaults and their proximity in the palette.
   Typography is defined only by the system-font stack applied to body, buttons, and form controls (-apple-system through Helvetica Neue). Several named display fonts (Filson Bold/Regular, Sweet Sans Heavy, Sagona Bold/Book Italic, Montserrat) appear in the extracted font list and are used here for heading-level type roles as an inferred brand-voice layer, since no selector-level font-family rule ties them to headings in the supplied evidence. Spacing, radii, and component states are proposed conventions suited to a pet-nutrition/education storefront, not measured layout facts.
@@ -142,6 +146,13 @@ components:
 Proposed breakpoints (not measured): mobile ≤600px, tablet 601–1024px, desktop 1025–1200px (matching the `--ast-normal-container-width:1200px` custom property), and wide >1200px. At mobile widths, the species mega-menu is expected to collapse into an accordion or off-canvas panel given its deep nesting; touch targets should be at least 44×44px for nav items, filter tabs, and buttons. Product grids are expected to reflow from multi-column to single/double-column stacks below tablet width. This section is a recommendation for implementation, not a description of measured site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered layout, live interaction states (hover/focus/active beyond the few explicit CSS rules), or JavaScript-driven behavior (e.g., mega-menu open state, cart drawer) were observed. The `--ast-global-color-0` through `-5` custom properties were not resolved to hex values in the supplied evidence, so primary/secondary/ink color role assignments are inferred from proximity and typical Astra theme conventions, not confirmed computed styles. Heading-level font-family assignments (Filson, Sweet Sans Heavy, Sagona, Montserrat) are drawn from the raw font list but were not tied to specific selectors in the supplied CSS, so their use for display/title roles is inferred. All spacing, radius, and typographic sizes beyond the explicitly quoted 15px body font and 15px/30px button padding are proposed conventions. Mobile/responsive behavior is a recommendation only. Licensing and availability of the custom fonts (Filson, Sweet Sans Heavy, Sagona) were not verified and should be confirmed before implementation.

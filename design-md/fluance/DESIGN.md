@@ -4,6 +4,10 @@ name: "Fluance"
 source_url: "https://www.fluance.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Fluance earns its audiophile credibility through restraint — nearly every surface sits in a family of cool near-whites (#f7f7f7, #f5f6f7, #fafafa) while a single alarm red, #da272a, does all the persuasive heavy lifting on CTAs, sale flags, and promotional strips. The contrast is deliberate: against clinical backgrounds, that red reads less like decoration and more like a power indicator, the kind of light that tells you the amplifier is on. Headings set in Titillium Web carry a slightly condensed, engineered geometry — the same family of letterforms found on oscilloscope labels and rack equipment panels — functioning as spec anchors rather than emotional mood-setting. Exo 2 enters at smaller scales for technical callouts and specification labels, extending the instrumentation vocabulary into the fine print where buyers verify frequency response and signal-to-noise ratios. Open Sans handles body copy, sustaining readability through long product descriptions and FAQ text without competing visually with the display type. Corner geometry follows the same logic of controlled precision: buttons sit at {rounded.xs} (4px), cards at {rounded.sm} (8px), and nothing tips into the pill shapes that signal lifestyle softness. A secondary teal, #007cad, handles informational links and secondary navigation states — it cools the palette just enough to prevent the red from reading purely as error rather than urgency. Dark surfaces appear at the footer and in promotional hero modules, where near-black (#0a0a0a) grounds reversed-out white type and gives product photography a stage-isolation effect. The layout grid is tight and rectilinear, biased toward maximum product surface area — spec tables, multi-angle image carousels, and comparison modules take priority over editorial whitespace. Sale badges and "New" callouts share the same #da272a as primary CTAs, doubling the red's semantic load: both "buy this" and "this is notable" use the same signal color, creating a tight associative loop that trained buyers learn quickly.
 
@@ -341,6 +345,13 @@ components:
 - Footer: 4-col → 2-col → 1-col with each section collapsible via accordion on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

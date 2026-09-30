@@ -4,6 +4,10 @@ name: "Ergo Direct"
 source_url: "https://www.ergodirect.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The deep-sea blue at #014d73 — closer to the ink on a clinical reference chart than to the sky-blue of consumer electronics — announces that this is a brand selling prevention, not decoration. ErgoDirect pairs that navy foundation against a vitality green (#009122) that confirms add-to-cart actions and in-stock status, borrowing a color vocabulary from medical-device dashboards rather than home-goods catalogues. The near-black #1a1a2e anchors headlines, while body copy descends through #1f2937 and settles into #6b7280 for metadata — a stepped gray ramp designed to make dense specification tables scannable by facilities managers comparing torque ratings and monitor weight capacities across dozens of SKUs.
 
@@ -424,6 +428,13 @@ components:
 - Footer multi-column grid → single-column accordion on mobile, each column heading toggling its link list
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

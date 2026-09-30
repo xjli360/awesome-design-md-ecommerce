@@ -4,6 +4,10 @@ name: "GenScript"
 source_url: "https://www.genscript.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   GenScript's interface anchors on deep-water navy (#000a46) as its ink register, then lifts through stacked temperature zones of blue — from procurement-trust #004b95 through the activating #1d73dd CTA blue — constructing a gradient-of-authority visual language that mirrors the precision hierarchy scientists expect from a reagent supplier. The accent system provides the real differentiation: #5fb035 biology-green appears on success badges, category chips, and iconography, functioning as a chromatic shorthand for "life science approved," while electric mint #65e5d1 and near-neon cyan #09ffeb surface in feature callouts and hover states, evoking the luminescent glow of gel electrophoresis under a UV transilluminator.
 
@@ -395,6 +399,13 @@ components:
 - Service category card grid: 4→3→2→1 columns across wide/desktop/tablet/mobile breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

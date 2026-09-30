@@ -4,6 +4,10 @@ name: "Rotiform"
 source_url: "https://rotiform.com"
 captured_at: "2026-09-28T10:18:33.112697+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Rotiform's supplied CSS surfaces a neutral, high-contrast utility palette (white
   #ffffff, near-black #1e1e1e, and a spread of mid-grays from #888888 to #f9f9f9)
@@ -168,6 +172,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should target a minimum ~44px hit area for buttons, size-selector pills, and nav items on mobile, per general accessibility practice — not derived from measured CSS. Sticky/collapsing header behavior on scroll is plausible for a catalog site but unverified.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Plugable"
 source_url: "https://plugable.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A utilitarian electronics brand that speaks through a #006341 green — the color of a circuit board's solder mask, of a "go" indicator on a powered dock — used as the primary voltage across CTAs, badges, and the top nav's active state. The palette is a mix of hardware-store grays (#5c677a, #88888d, #636763) and signal colors (#ce3525 for errors, #f9b434 for warnings), with a surprising secondary accent in #e83e8c (a hot pink that appears on sale badges and promotional ribbons). Typography runs proxima-nova as the brand face, backed by system sans-serifs, set at moderate sizes with tight line heights — the brand trusts spec sheets and comparison tables over editorial prose. Product cards use a clean white canvas ({colors.canvas}) with a soft {rounded.sm} corner, while the hero section deploys a full-bleed image with a green overlay gradient. The overall feel is "reliable hardware company that invested in a proper web store" — no whimsy, no lifestyle photography, just docks, cables, and adapters presented with the clarity of a data sheet.
 
@@ -348,6 +352,13 @@ components:
 - Product image gallery collapses to single-image view on mobile, thumbnails become dots
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

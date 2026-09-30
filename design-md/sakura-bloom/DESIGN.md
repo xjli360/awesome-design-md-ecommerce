@@ -4,6 +4,10 @@ name: "Sakura Bloom"
 source_url: "https://sakurabloom.com"
 captured_at: "2026-09-28T09:40:04.588314+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Sakura Bloom's storefront CSS defines a restrained two-typeface system: Tenor Sans, a serif-adjacent display face, for headers at a fixed 28px/400-weight, and Outfit, a light-weight sans, for body copy at 15px/300-weight with slight letter-spacing (0.025em). No brand accent color is declared as a CSS custom property; the only functional color decisions observed are two muted blue-grey button backgrounds (#7396a2, #5487a0) used on a passcode gate and a third-party "smt-button" utility, plus a warm orange (#c86800) and status reds/greens that appear to be system or app-injected rather than brand-authored. Given the product context (natural-fiber, handcrafted baby carriers made in California) and the observed blue-grey buttons, this interpretation treats #7396a2 as the working primary accent, reserving #5487a0 as a secondary/hover variant — both are inferred brand roles, not confirmed CTA colors sitewide. Neutrals (near-black inks, mid greys, off-white surfaces) dominate the palette and are mapped to ink/body/muted/surface roles to support a quiet, editorial, textile-forward aesthetic. Buttons are flat (--buttonRadius: 0), reinforcing a minimal, handcraft-focused visual language. Layout, spacing rhythm, and responsive breakpoints are not present in the supplied evidence and are proposed conventions only.
 
@@ -153,6 +157,13 @@ Recommended (not measured) breakpoint table:
 Touch targets should be at least 44×44px for cart, search, and swatch-selector controls. The hamburger menu and slide-out cart (`icon-X Close cart` / `icon-X Close menu` in page text) suggest an off-canvas mobile pattern, but exact collapse behavior, animation, and breakpoint values were not observed and are recommendations only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

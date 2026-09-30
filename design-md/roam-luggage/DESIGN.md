@@ -4,6 +4,10 @@ name: "Roam Luggage"
 source_url: "https://roamluggage.com"
 captured_at: "2026-09-28T10:07:12.939897+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   ROAM's public site presents a monochrome-forward premium aesthetic: near-black and white anchor the layout, with warm off-white surfaces (#f7f5f4, #fcfcf9) providing soft section backgrounds against a pure white canvas. A restrained red family (#df0a0a, #d21404, #b71616, #bc2e2e) appears on promotional and sale badges ("20% Off," "Save $200/$300"), which this spec treats as an accent rather than the core brand color, since the reviews-widget CSS shows default interactive buttons defaulting to black-on-white. Deep navy tones (#152368, #10233e, #172341) and a warm tan (#9b6740, #cd9f76) recur across what are likely color-swatch imagery for the brand's signature "customizable colorways" feature, so they are mapped as accent tokens rather than UI chrome. Typography is inferred from two systems: 'Area' is confirmed as the site-wide body/heading font via a broad selector rule, while 'Bebas Neue' is proposed for display headlines based on its condensed, all-caps character fitting the site's uppercase navigation and campaign copy; 'Figtree' and 'Work Sans' are treated as secondary/utility fonts of uncertain application. Numeric heading and body scales come directly from observed CSS custom properties. All component states beyond default (hover, focus, disabled, mobile) are proposed, not observed.
 
@@ -150,6 +154,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be at least 44×44px for buttons, swatches, and nav items. Colorway swatches should wrap onto multiple rows on narrow viewports. All of the above is a suggested pattern only; no live responsive layout was observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

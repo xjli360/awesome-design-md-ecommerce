@@ -4,6 +4,10 @@ name: "Tripped Travel Gear"
 source_url: "https://trippedtravelgear.com"
 captured_at: "2026-09-28T04:35:47.354560+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The evidence shows a bright, white-canvas storefront (#ffffff) with near-black
   body copy (#000000, #333333) and a warm orange accent (#f1a34d) repeated across
@@ -168,6 +172,13 @@ This is a recommended layout strategy, not measured site behavior — no respons
 Touch targets should be at least 44×44px for buttons and nav items. Search and filter controls should collapse into an icon-triggered overlay below tablet width. All figures above are proposed defaults for a Shopify-style storefront, not extracted measurements.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

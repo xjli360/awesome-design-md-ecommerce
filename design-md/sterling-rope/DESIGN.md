@@ -4,6 +4,10 @@ name: "Sterling Rope"
 source_url: "https://sterlingrope.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A climbing rope manufacturer that wears its technical confidence in a near-black #130c0d canvas and a single, unapologetic signal of #f3ce00 — a marigold yellow that appears on rope sheaths, safety warnings, and primary CTAs with the same functional urgency as a rescue whistle. The brand lives in a world of high-contrast utility: #130c0d ink against #f5f1e2 warm-cream surfaces, with #343741 charcoal as the secondary structural color for nav bars and footer blocks. Yellow (#f3ce00) is never decorative — it marks the actionable, the critical, the "pull here" moment. Typography runs on neue-haas-grotesk-text, a clean neo-grotesk that reads as precise but not cold, set at modest weights (400–600) with generous line-height to preserve readability in low-light or gloved conditions. Rounded corners are restrained — {rounded.xs} on buttons, {rounded.sm} on cards — suggesting molded plastic hardware rather than soft UI. The extracted palette includes outlier tones (#accef7, #d14343, #1a5632) that likely belong to partner badges, safety icons, or seasonal collections; the core system is disciplined around the black-yellow-cream triad. Product imagery dominates over illustration, with rope cross-sections and carabiner macro-shots doing the work of texture. The brand feels like a piece of gear: every element has a job, nothing is ornamental.
 
@@ -302,6 +306,13 @@ components:
 - Rope swatches remain inline but reduce to 20px diameter on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

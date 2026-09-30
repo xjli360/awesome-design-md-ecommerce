@@ -4,6 +4,10 @@ name: "DockATot"
 source_url: "https://eu.dockatot.com/"
 captured_at: "2026-09-29T03:59:17.635624+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from the DockATot EU Shopify storefront, a
   baby-gear retailer selling the Deluxe+ Dock lounger and its interchangeable
@@ -170,6 +174,12 @@ components:
 Touch targets should be a minimum of 44px in line with common accessibility guidance, applied to swatch selectors, carousel arrows (observed at 36px and likely enlarged on touch), and nav icons. This table is a recommendation based on typical Shopify theme conventions and the fluid font-size tiers present in the CSS; it is **not** measured from actual rendered breakpoints or device testing.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

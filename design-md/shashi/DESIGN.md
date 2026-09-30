@@ -4,6 +4,10 @@ name: "Shashi"
 source_url: "https://www.shopshashi.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The spaced lettermark — S H A S H I, each glyph separated by nearly a full em of silence — announces this costume-jewelry brand not through loudness but through geometric ceremony. Every page grounds itself in near-charcoal (#1d1d1d), a deliberate darkness that makes the warm copper and terra cotta product tones read almost as incandescent: the extracted palette describes a complete warm-metal spectrum — #d2815f copper, #c35121 burnt rust, #94553a deep bronze, and a soft blush (#f2d9cf) that introduces femininity without defaulting to predictable dusty rose. The voltage surprise lives in a second register: an electric cobalt (#3d5aff, #0024f0) that surfaces on CTAs and interactive states, cutting a sharp chromatic break against the thermal warmth of the jewelry palette. This oscillation — burnished vs. galvanic, earth-warm vs. spark-cold — is the brand's defining temperature. Pill-shaped filter tags ({rounded.full}) handle collection navigation while product cards and buttons stay strictly square-cornered ({rounded.none}), keeping the precision vocabulary consistent with the jewelry's own hard-set edges and bezel settings. Wide letter-spacing (0.15–0.5em) applied from the logo mark down through section headers, nav links, and button labels gives the interface its fashion pacing — each word spaced for scroll consumption rather than reading speed. Tangerine (#ff763d) and ember (#f04600) appear as flash-heat accents for urgency signals: transient and unmissable against the neutral field. A 36px promo ticker in near-black runs above the navigation, compressing promotional copy into a thin band that never competes with the editorial photography below.
 
@@ -331,6 +335,13 @@ components:
 - `promo-ticker` condenses to a single static line on mobile, disabling scroll animation
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

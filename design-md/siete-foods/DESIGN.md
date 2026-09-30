@@ -4,6 +4,10 @@ name: "Siete Foods"
 source_url: "https://sietefoods.com"
 captured_at: "2026-09-28T10:19:56.675357+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Siete Foods is a Mexican-American heritage food brand whose site evidence shows a warm,
   earth-toned neutral base (cream #f8f3ec canvas, off-white #ffffff cards) paired with a
@@ -167,6 +171,13 @@ Recommended, not measured, breakpoints:
 Touch targets for buttons and nav items should be at least 44×44px. Search and nav collapse behavior (drawer vs. dropdown) was not observed and is a UX recommendation only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

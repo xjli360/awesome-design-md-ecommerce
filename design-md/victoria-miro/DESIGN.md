@@ -4,6 +4,10 @@ name: "Victoria Miro"
 source_url: "https://www.victoria-miro.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Powder blue (#a5d3ef) sits at the top of the Victoria Miro color stack — an unexpected softness for a gallery showing Chantal Joffe, Isaac Julien, and Yayoi Kusama. The color is not decorative; it almost certainly marks the hover or active state on navigation links, the quiet chromatic signal that something is interactive. Against a dominant white canvas, this restraint places the full visual weight on the reproduced artworks — no competing brand color contests a Kusama accumulation or an Ofili canvas. The second blue, #2d89ef, functions as a more direct action color: links within body copy, a selected filter state, or a pressed indicator. Body text resolves to #222222, a near-black that reads printed rather than screen-native — the site behaves like a bound catalogue, not a storefront. Typography was not extractable from the live crawl; the site likely loads type tokens via JavaScript or behind bot-protection. Based on the catalogue-print sensibility common to galleries of this institutional standing, the type system almost certainly runs a restrained neo-grotesque — Helvetica Neue or an equivalent — at light weights for display headings and regular for body copy. Exhibition titles follow art-world editorial convention and appear in italic. All corners run sharp (`{rounded.none}`): no softening gestures, no pill buttons, no rounded cards. Layout uses strict vertical rhythm and generous white margins, treating each artist page as a monograph. White negative space is the dominant visual element — images of artwork float in it, and text sits recessed enough that the eye reads image first, label second.
 
@@ -254,6 +258,13 @@ components:
 - `gallery-highlight` band: padding reduces from `{spacing.section}` to `{spacing.xxl}` on mobile; body text remains same size
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

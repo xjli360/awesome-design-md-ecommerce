@@ -4,6 +4,10 @@ name: "Alto"
 source_url: "https://www.viaalto.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, saturated teal (#108474) anchors Alto's leather accessories storefront, a color choice that reads as deliberate and grounded — not the expected black or brown of a leather-goods brand, but a verdant, almost tropical green that makes the product photography of phone cases and card holders feel like objects in a terrarium. The palette leans heavily on a warm, earthy secondary: #bb731b, a burnished ochre that appears in badges, sale tags, and accent elements, while #fbcd0a (a bright marigold) provides the occasional high-voltage jolt. The canvas is a cool, clinical #f9fafb, and the text hierarchy runs from #292929 for headlines through #444444 for body copy to #888888 for muted labels, creating a clean, editorial reading experience. Type is set in Nunito Sans and Baskerville — the former a rounded, friendly sans-serif for UI and product titles, the latter a classic serif for long-form descriptions and brand storytelling, a pairing that bridges modern utility with a sense of craftsmanship. Corners are soft but not pillowy: cards and buttons use {rounded.md} (12px) and {rounded.lg} (20px), while the primary CTA button is a full-height teal rectangle with white text, no border, and a hover state that deepens to a darker green. The site's Shopify roots are visible in the checkout-widget colors (#3b5998, #1da1f2, #dd4b39) that pepper the extracted palette, but the brand's own identity is unmistakable in the teal-and-ochre duotone that governs every product card, navigation bar, and footer section.
 
@@ -383,6 +387,14 @@ components:
 - Product filters collapse to a "Filter" button on mobile, opening a modal overlay
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

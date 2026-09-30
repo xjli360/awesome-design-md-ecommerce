@@ -4,6 +4,10 @@ name: "Boon"
 source_url: "https://www.booninc.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The grass countertop drying rack — rows of flexible green pegs that look more like a lawn than kitchen equipment — established Boon's design language before any screen ever loaded: everyday baby utility reimagined as something you'd actually want to leave on your counter. That same impulse governs the digital surface: a single saturated orange (#f78f1e) carries every CTA, price callout, and promo strip while a warm cream canvas (#fbf8e7) and a disciplined range of cool neutrals (#636466, #757575, #e5e5e5) hold everything else in reserve. The brand doesn't apologize for color — it also keeps a teal (#00c2c7), a signal red (#f94436), and a golden yellow (#ffbb49) in rotation for product and promotional moments — but orange is the organizing voltage, the one hue that tells parents exactly where to press.
 
@@ -360,6 +364,14 @@ components:
 - Footer column layout shifts from four columns (desktop) to two (tablet) to single stacked (mobile)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

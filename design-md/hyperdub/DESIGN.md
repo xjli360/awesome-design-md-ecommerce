@@ -4,6 +4,10 @@ name: "Hyperdub"
 source_url: "https://www.hyperdub.net"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Four near-identical near-blacks — #121212, #141414, #151515 — layer the site the way sub-bass frequencies layer in a Burial record: barely perceptible separation, total tonal unity. Hyperdub's shop arrives stripped of decorative color; the extracted palette yields only grays (#787878, #dedede) and those near-blacks, a chromatic vocabulary so restrained that record sleeve art becomes the sole pigment event on any given page. Arial and Helvetica handle all type with zero affectation — no custom wordmarks, no expressive display cuts, no weight modulation for drama. The result mirrors the label's sound philosophy: Steve Goodman founded Hyperdub in 2004 around music that privileges negative space and low-end pressure over surface flourish. Navigation sits flat and unadorned; product cards hold release artwork in strict square format against the dark surface-card (#151515), with artist name and catalogue number in muted mid-gray (#787878) below, price in body-off-white (#dedede). Buttons invert the canvas logic — white fill on near-black, rendered at `{rounded.none}` — hard corners signal the industrial rather than the friendly. Text inputs follow the same flat geometry, borderlined in hairline-gray against the dark field. The spacing system breathes conservatively; section breaks happen through whitespace alone, not rules or dividers, echoing how dub production treats silence as structural material rather than gap. Release dates, catalogue numbers, and FLAC/MP3 format tags carry in caption-weight type at 10–11px — the metadata layer that the collector demographic reads first. Every component is subordinate to the record artwork: no rounded pill crops, no gradient overlays, full-bleed square at the top of the card, uninterrupted.
 
@@ -318,6 +322,13 @@ components:
 - Tracklist track numbers: hidden on mobile viewports below 375px to recover horizontal space for track name
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

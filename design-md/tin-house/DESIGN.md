@@ -4,6 +4,10 @@ name: "Tin House"
 source_url: "https://www.tinhouse.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A small press publisher that wears its primary red #ee3124 like a book-cloth spine — saturated, confident, and used sparingly enough that it lands as a signature rather than a shout. The site runs on a warm off-white canvas #f7f6ff that reads as paper stock, with body text in a quiet #444444 and secondary copy in #717171, creating a reading-room hierarchy where the typography does not compete with the words. Founders Grotesk, the declared brand face, carries display and body work at moderate weights — no heavy 700+ display sizes, no uppercase shouting — trusting the literary content to hold attention. The extracted palette includes a surprising streak of blues (#0600ff, #0b0f5a, #0000ff) that may belong to social icons or checkout widgets rather than the brand itself; the true brand voice is the red-and-white editorial frame with #222222 ink for headlines. Navigation is minimal — a thin bar with the logo left and a short link set right — and the footer runs deep with columns of series, authors, and newsletter signup, all in {typography.body-sm} with {rounded.none} corners. Cards carry soft shadows and {rounded.sm} corners, but the overall feel is typographic and flat: the brand trusts its cover designs and author names, not decorative UI.
 
@@ -308,6 +312,13 @@ components:
 - Hero section reduces padding and font size on mobile (display-xl drops to 24px)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

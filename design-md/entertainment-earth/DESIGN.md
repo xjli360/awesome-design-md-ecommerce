@@ -4,6 +4,10 @@ name: "Entertainment Earth"
 source_url: "https://www.entertainmentearth.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The #313131 near-black anchoring Entertainment Earth's navigation sets the visual temperature for a collector marketplace where badge density — EXCLUSIVE, PRE-ORDER, NEW, SALE — carries more communicative weight than lifestyle photography ever could. Every product card is a micro-billboard: licensed character art, a product name in tight 13px body type, a price block, a badge strip, and an Add to Cart or Pre-Order CTA crammed into roughly 220×320px. The system font stack (system-ui, -apple-system, Arial) is a deliberate non-statement: the Marvel, Star Wars, DC, and Transformers IP on display is the typographic event, not the retailer's typeface.
 
@@ -389,6 +393,13 @@ components:
 - Promo bar dismisses after first downscroll on mobile to recover vertical space; re-appears on upscroll to page top
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

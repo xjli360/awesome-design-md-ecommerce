@@ -38,36 +38,32 @@
     }
   ],
   "colors": {
-    "#000000": {
-      "count": 88,
-      "sources": [
-        "https://hasami-porcelain.com/original/css/slider-pro.css",
-        "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E",
-        "https://hasami-porcelain.com/#computed-style-snapshot"
-      ]
-    },
-    "#ffffff": {
-      "count": 34,
-      "sources": [
-        "https://hasami-porcelain.com/original/css/slider-pro.css",
-        "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E",
-        "https://hasami-porcelain.com/#computed-style-snapshot"
-      ]
-    },
-    "#cccccc": {
-      "count": 26,
-      "sources": [
-        "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E"
-      ]
-    },
     "#ff0000": {
       "count": 8,
       "sources": [
         "https://hasami-porcelain.com/original/css/slider-pro.css"
       ]
     },
+    "#ffffff": {
+      "count": 34,
+      "sources": [
+        "https://hasami-porcelain.com/original/css/slider-pro.css"
+      ]
+    },
+    "#000000": {
+      "count": 88,
+      "sources": [
+        "https://hasami-porcelain.com/original/css/slider-pro.css"
+      ]
+    },
     "#666666": {
       "count": 3,
+      "sources": [
+        "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E"
+      ]
+    },
+    "#cccccc": {
+      "count": 26,
       "sources": [
         "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E"
       ]
@@ -99,40 +95,13 @@
   },
   "font_families": {
     "UniversLTStd-BoldCn": [
-      "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E",
-      "https://hasami-porcelain.com/#computed-style-snapshot"
+      "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E"
     ],
     "UniversLTStd-Cn": [
       "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E"
     ],
-    "Yu Gothic": [
-      "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E",
-      "https://hasami-porcelain.com/#computed-style-snapshot"
-    ],
-    "YuGothic": [
-      "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E",
-      "https://hasami-porcelain.com/#computed-style-snapshot"
-    ],
     "sans-serif": [
-      "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E",
-      "https://hasami-porcelain.com/#computed-style-snapshot"
-    ],
-    "メイリオ": [
-      "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E",
-      "https://hasami-porcelain.com/#computed-style-snapshot"
-    ],
-    "太ゴB101": [
-      "https://hasami-porcelain.com/",
-      "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E",
-      "https://hasami-porcelain.com/#computed-style-snapshot"
-    ],
-    "游ゴシック": [
-      "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E",
-      "https://hasami-porcelain.com/#computed-style-snapshot"
-    ],
-    "游ゴシック体": [
-      "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E",
-      "https://hasami-porcelain.com/#computed-style-snapshot"
+      "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E"
     ]
   },
   "css_rules": [
@@ -199,10 +168,11 @@
       "sha256": "90bf529c7cd1cd0b9175bb36a42f385ca7c932fdce09c3f66462fca168bfbdff"
     }
   ],
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "remaining-20260929",
   "tokens": {
     "colors.primary": {
+      "value": "#998d71",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -210,6 +180,7 @@
       ]
     },
     "colors.accent-grey": {
+      "value": "#686763",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -217,33 +188,31 @@
       ]
     },
     "colors.ink": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://hasami-porcelain.com/original/css/slider-pro.css",
-        "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E",
-        "https://hasami-porcelain.com/#computed-style-snapshot"
+        "https://hasami-porcelain.com/original/css/slider-pro.css"
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://hasami-porcelain.com/original/css/slider-pro.css",
-        "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E",
-        "https://hasami-porcelain.com/#computed-style-snapshot"
+        "https://hasami-porcelain.com/original/css/slider-pro.css"
       ]
     },
     "colors.body": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://hasami-porcelain.com/original/css/slider-pro.css",
-        "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E",
-        "https://hasami-porcelain.com/#computed-style-snapshot"
+        "https://hasami-porcelain.com/original/css/slider-pro.css"
       ]
     },
     "colors.muted": {
+      "value": "#666666",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -251,6 +220,7 @@
       ]
     },
     "colors.muted-soft": {
+      "value": "#aaaaaa",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -258,6 +228,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#999999",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -265,6 +236,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#cccccc",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -272,24 +244,23 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://hasami-porcelain.com/original/css/slider-pro.css",
-        "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E",
-        "https://hasami-porcelain.com/#computed-style-snapshot"
+        "https://hasami-porcelain.com/original/css/slider-pro.css"
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://hasami-porcelain.com/original/css/slider-pro.css",
-        "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E",
-        "https://hasami-porcelain.com/#computed-style-snapshot"
+        "https://hasami-porcelain.com/original/css/slider-pro.css"
       ]
     },
     "colors.alert": {
+      "value": "#ff0000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -297,110 +268,351 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "UniversLTStd-BoldCn, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "0.02em"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "UniversLTStd-BoldCn, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.02em"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "UniversLTStd-BoldCn, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 700,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.05em"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "UniversLTStd-Cn, UniversLTStd-BoldCn, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.8,
+        "letterSpacing": "0.03em"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "UniversLTStd-BoldCn, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": 700,
+        "lineHeight": 1.36,
+        "letterSpacing": "0.05em"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "UniversLTStd-BoldCn, sans-serif",
+        "fontSize": "10px",
+        "fontWeight": 700,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.06em"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "UniversLTStd-BoldCn, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.04em"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xs} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.accent-grey}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xs} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairlineColor": "{colors.hairline}",
+        "padding": "{spacing.lg} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.surface-soft}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.muted}",
+        "hairlineColor": "{colors.hairline}",
+        "typography": "{typography.caption}",
+        "padding": "{spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xs} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.swatch-selector": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "activeBorderColor": "{colors.ink}",
+        "inactiveBorderColor": "{colors.hairline}",
+        "rounded": "{rounded.full}",
+        "size": "{spacing.xl}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#ff0000": {
+        "selector": ".sp-right-thumbnails.sp-has-pointer .sp-selected-thumbnail:before",
+        "property": "border-left",
+        "declaration": "5px solid #F00",
+        "url": "https://hasami-porcelain.com/original/css/slider-pro.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "2e6a12a710e1b6296813616de7ba88790efeaf5f95eafce0a7e1a6fde5dfecea"
+      },
+      "#ffffff": {
+        "selector": ".sp-black",
+        "property": "color",
+        "declaration": "#FFF",
+        "url": "https://hasami-porcelain.com/original/css/slider-pro.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "2e6a12a710e1b6296813616de7ba88790efeaf5f95eafce0a7e1a6fde5dfecea"
+      },
+      "#000000": {
+        "selector": ".sp-black",
+        "property": "background",
+        "declaration": "rgb(0, 0, 0)",
+        "url": "https://hasami-porcelain.com/original/css/slider-pro.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "2e6a12a710e1b6296813616de7ba88790efeaf5f95eafce0a7e1a6fde5dfecea"
+      },
+      "#666666": {
+        "selector": ".gnavi_list  a:hover",
+        "property": "color",
+        "declaration": "#666",
+        "url": "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "85c023843cccd140c4cd8c99f6917336885baa4ca01bd9016d3ab6919f1030c0"
+      },
+      "#cccccc": {
+        "selector": ".top_banner",
+        "property": "border",
+        "declaration": "1px solid #CCC",
+        "url": "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "85c023843cccd140c4cd8c99f6917336885baa4ca01bd9016d3ab6919f1030c0"
+      },
+      "#998d71": {
+        "selector": ".btn_original",
+        "property": "background-color",
+        "declaration": "#998d71",
+        "url": "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "85c023843cccd140c4cd8c99f6917336885baa4ca01bd9016d3ab6919f1030c0"
+      },
+      "#686763": {
+        "selector": ".btn_grey",
+        "property": "background-color",
+        "declaration": "#686763",
+        "url": "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "85c023843cccd140c4cd8c99f6917336885baa4ca01bd9016d3ab6919f1030c0"
+      },
+      "#999999": {
+        "selector": ".btn",
+        "property": "border",
+        "declaration": "solid 1px #999",
+        "url": "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "85c023843cccd140c4cd8c99f6917336885baa4ca01bd9016d3ab6919f1030c0"
+      },
+      "#aaaaaa": {
+        "selector": ".Suspended_info",
+        "property": "color",
+        "declaration": "#aaa",
+        "url": "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "85c023843cccd140c4cd8c99f6917336885baa4ca01bd9016d3ab6919f1030c0"
+      }
+    },
+    "font_families": {
+      "UniversLTStd-BoldCn": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"UniversLTStd-BoldCn\"",
+        "url": "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "85c023843cccd140c4cd8c99f6917336885baa4ca01bd9016d3ab6919f1030c0"
+      },
+      "UniversLTStd-Cn": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"UniversLTStd-Cn\"",
+        "url": "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "85c023843cccd140c4cd8c99f6917336885baa4ca01bd9016d3ab6919f1030c0"
+      },
+      "sans-serif": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"UniversLTStd-BoldCn\",\"太ゴB101\",\"游ゴシック体\", YuGothic, \"游ゴシック\", \"Yu Gothic\", \"メイリオ\", sans-serif",
+        "url": "https://hasami-porcelain.com/assets/css/style_new.css?%3C?php%20echo%20date(%27Ymd-Hi%27);%20?%3E",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "85c023843cccd140c4cd8c99f6917336885baa4ca01bd9016d3ab6919f1030c0"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

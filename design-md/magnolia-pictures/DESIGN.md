@@ -4,6 +4,10 @@ name: "Magnolia Pictures"
 source_url: "https://www.magpictures.com"
 captured_at: "2026-09-29T04:21:44.659242+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Magnolia Pictures presents itself through a high-contrast, cinematic surface: a
   near-black-on-white (and white-on-black) palette drawn from the site's own
@@ -168,6 +172,13 @@ This is a recommendation, not measured site behavior, as no media queries were p
 Touch targets should be at least 44×44px for buttons and nav items; primary/secondary buttons' padding ({spacing.md} {spacing.lg}) approximates this at larger font sizes but should be verified. Navigation is assumed to collapse into a mobile menu below the tablet breakpoint; no such interaction was observed in the supplied static CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from a limited, static snapshot of CSS declarations and a page-text excerpt for a single cover-page slide type; it does not reflect full-site crawling, JavaScript-driven states, or responsive breakpoints. The large supplied color list includes numerous well-known third-party brand/social-icon hexes (e.g. Facebook, Twitter, YouTube, Pinterest, Instagram colors) that were deliberately excluded from the design tokens as non-brand noise; only grayscale/neutral values with clear in-context CSS usage were promoted to tokens. Semantic role names (primary, muted, surface-soft, etc.) are inferred mappings onto observed hex values, not labels present in the source CSS. Several typography sizes (body-sm) and most spacing/rounded values are proposed conventions rather than measured from the evidence. No interaction states (focus rings, active states, mobile menu behavior, card hover) were observed beyond the two button hover rules supplied. Font availability, licensing, and self-hosting versus third-party CDN delivery for Oswald and proxima-nova were not verified. This is presented as the current Squarespace-hosted parent-site presentation of Magnolia Pictures, not a reconstruction of any prior or independent site design.

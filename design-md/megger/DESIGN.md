@@ -4,6 +4,10 @@ name: "Megger"
 source_url: "https://www.megger.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The casing of a Megger insulation resistance tester is near-black resin banded in high-visibility orange — the contrast ratio that survives a darkened switchgear room translates directly into the brand's digital identity. Near-black #313131 anchors every heading, nav rail, and data row; orange (`{colors.primary}`) delivers the single voltage point across primary CTAs, active states, and product-category callouts without supplementary accents competing for attention. Typography runs on a resolved system-font stack — Arial, Roboto, Segoe UI — which reads as deliberate rather than economical in a B2B catalog built for field engineers: no custom kerning, no variable-weight display face, just a clean 400–700 weight ladder that lets specification ranges, test voltages, and safety ratings render without friction.
 
@@ -396,6 +400,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

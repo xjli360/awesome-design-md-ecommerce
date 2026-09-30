@@ -4,6 +4,10 @@ name: "Manscaped"
 source_url: "https://manscaped.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A dark, direct-to-consumer men's grooming brand built on a near-black ink (#313131) that reads as industrial confidence rather than corporate gray, paired with a stark white canvas that lets product photography and instructional illustration carry the selling story. The brand's single extracted hex — a deep charcoal — suggests a system that trusts contrast over color: white text on dark backgrounds for headlines, black text on white for body copy, and no secondary accent color visible in the extracted palette. Typography runs the Apple system stack at modest weights, with display sizes likely landing in the 20–28px range at weight 500–600, avoiding the gym-bro boldness one might expect from a grooming brand aimed at men. Navigation reads as utilitarian and transactional: a sticky top bar with logo left, utility icons right, and a search field that collapses on mobile. Product cards use generous whitespace, soft rounded corners ({rounded.md} ~12px), and a single CTA button that lives in the dark ink — no gradient, no glow, no gimmick. The checkout flow, while not fully extracted, likely mirrors the same high-contrast, low-color approach: dark buttons on white, thin hairlines for dividers, and a focus on trust signals (secure checkout badges, money-back guarantees) over decorative flourish. This is a brand that sells razors and trimmers with the visual language of a tool company, not a skincare line.
 
@@ -425,6 +429,13 @@ components:
 - Multi-step checkout collapses to single-page scroll on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Lulu and Georgia"
 source_url: "https://luluandgeorgia.com"
 captured_at: "2026-09-28T04:51:19.165411+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Lulu and Georgia is a design-forward home furnishings retailer whose bathroom
   offering (vanities, bathroom lighting, mirrors + medicine cabinets, bath
@@ -164,6 +168,13 @@ components:
 Touch targets should be a minimum of 44×44px for filter chips, swatches, and nav items. Mega-menu flyouts should collapse to expandable accordions below 1024px. This table is a design recommendation only; no responsive behavior was measured from the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Pioneer"
 source_url: "https://www.pioneerminisplit.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Gunmetal gray (#303030) and near-white (#fafafa) carry the frame of a site engineered to inform rather than seduce — Pioneer's pages read like specification sheets adapted for commerce, with BTU counts, SEER ratings, and seasonal efficiency ratios occupying the same visual weight as the price. The brand's mid-navy (#485bad) — closer to blueprint ink than consumer electric blue — anchors every primary call-to-action and active nav state, deliberately distanced from the pale Shopify link-blue (#2c6ecb) that handles secondary affordances. Where most appliance retailers lean into lifestyle photography, Pioneer leans into data: efficiency-green (#168804) appears on in-stock indicators and energy-star callouts; sale red (#f4270c and #c30000) marks promotional pricing with the directness of a warning label. An olive register (#929457, #c6c775) surfaces in certification badges and secondary labels, a muted earthy counterpoint that reads as competence rather than embellishment. Type runs entirely on Inter — a geometric sans that handles engineering terminology cleanly at 14–16px body sizes, stepping up to 700-weight display for product headings without reaching for a separate display face. Buttons carry modest {rounded.sm} corners, inputs sit on {colors.surface-soft} at {rounded.xs}, and product cards use a thin {colors.hairline} border on a {colors.canvas} field — no shadow theatrics. The category grid is dense by consumer-brand standards: six to eight products per viewport, filterable by BTU range, application type, and heating or cooling mode. A persistent promotional banner in {colors.error-bright} red rides above the nav, a convention borrowed from appliance retail that signals Pioneer knows its buyers arrive price-sensitive and comparison-ready. The palette's warm taupe and cool sage channels (#938888, #868f89, #b5c2b9) appear in alternating spec-table rows and comparison tab backgrounds — low contrast, high legibility, calibrated for reading a twenty-line specification chart without eye fatigue.
 
@@ -369,6 +373,13 @@ components:
 - Category filter chips reflow to two rows before becoming a dropdown modal at < 375px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

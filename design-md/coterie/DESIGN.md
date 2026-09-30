@@ -4,6 +4,10 @@ name: "Coterie"
 source_url: "https://coterie.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep navy anchor at #0000c9 — the meta theme-color and the brand’s primary voltage — pulls Coterie away from the pastel baby-care cliché and into a space that feels clinical, premium, and deliberate. That blue is the single constant across the site: it fills the top nav bar, powers every primary CTA, and reappears as a subtle hairline on product cards. Against a canvas of #f5f5f5 and surface cards in #ffffff, the palette reads clean and almost pharmaceutical — a sharp contrast to the soft pinks and yellows of competitors. Red appears as a high-alert accent at #e43030 (sale badges, error states, limited-time banners), while green at #008544 marks subscription savings and eco-friendly callouts. The typography runs on a proprietary Suisse family (__coterieSuisse_ba454c and __suisseIntl_d9088a), set at moderate weights — display headlines sit at 500–600 rather than heavy 700+, letting product photography and whitespace carry the emotional weight. Corners are soft but not pill-like: buttons use {rounded.sm} (8px), cards use {rounded.md} (12px), and only the search bar and floating badges reach {rounded.full}. The overall mood is trustworthy, modern, and unapologetically adult — a baby brand that speaks to the parent’s need for performance and hygiene, not just cuteness.
 
@@ -313,6 +317,13 @@ components:
 - Search bar moves from inline to full-width below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Blueberry Pet"
 source_url: "https://blueberrypet.com"
 captured_at: "2026-09-28T10:12:26.931982+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Blueberry Pet's storefront CSS shows a working palette of a deep navy blue (#013a81) used for newsletter and form buttons, a soft sky-blue hover state (#a3dce6), and a large supporting set of neutrals (#ffffff, #191919, #333333, #777777, #e9e7e7, #f7f8fa) that carry text, backgrounds, and hairlines across the theme. Bootstrap-derived utility colors (#007bff, #28a745, #ffc107, #dc3545) and a review-widget accent (#393f79) also appear, suggesting the storefront layers a customized Shopify theme over stock component libraries and a third-party review app. Red tones (#ea0029, #f8353e, #c10b18) recur enough to be treated as an inferred sale/clearance accent, consistent with the "Sale / Markdown" navigation seen in the page text.
 
@@ -152,6 +156,14 @@ components:
 Touch targets should be a minimum 44×44px for variant buttons and cart actions. Navigation is expected to collapse into a mobile drawer below the tablet breakpoint, consistent with the `.tt-mobile-header` class present in evidence, though its exact collapse behavior, animation, and overlay opacity (`rgba(0,0,0,.55)` seen in one rule) were not verified through live interaction. This table is a recommendation based on common e-commerce patterns, not measured site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Baboon to the Moon"
 source_url: "https://baboontothemoon.com"
 captured_at: "2026-09-28T04:34:51.685636+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Baboon to the Moon presents as a direct-to-consumer bag brand built on a
   stark black-and-white foundation punctuated by a warm orange accent
@@ -168,6 +172,14 @@ Recommendation only — not measured from live rendering:
 Nav and hero elements likely collapse to a single column below `sm`. Touch targets on `button-primary`/`button-secondary` should maintain the observed 50–55px minimum height. Product grids are assumed to reflow from multi-column to single-column below `sm`, though this was not directly observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -14,6 +14,8 @@ from datetime import datetime, timezone
 from playwright.async_api import async_playwright
 from design_system import atomic_write
 from extract_site import capture, source_problem, BLOCKED
+from capture_state import begin, finish
+from measurements import collect as collect_measurements
 
 STYLES = """() => {
  const props=['color','background-color','border-top-color','font-family'];
@@ -24,6 +26,7 @@ STYLES = """() => {
 
 async def one(browser,site,root):
     directory=root/'_state/evidence'/site['slug'];directory.mkdir(parents=True,exist_ok=True)
+    attempt=begin(directory,site['url'])
     context=await browser.new_context(viewport={'width':1440,'height':1000})
     page=await context.new_page();responses=[]
     page.on('response',lambda response: responses.append(response) if response.request.resource_type=='stylesheet' and response.ok else None)
@@ -37,6 +40,7 @@ async def one(browser,site,root):
         if not problem and len(body.strip())<40:problem='RENDERED_EMPTY_BODY'
         if problem or BLOCKED.search(html[:150000]) or not response or not response.ok:
             result={'slug':site['slug'],'status':'hold','reason':problem or 'HTTP_OR_CHALLENGE','source_url':site['url'],'final_url':final,'http_status':response.status if response else None,'title':title,'checked_at':datetime.now(timezone.utc).isoformat()}
+            finish(directory,attempt,reason=result['reason'])
             atomic_write(directory/'browser-result.json',json.dumps(result,indent=2)+'\n')
             return result
         styles=[];seen=set()
@@ -58,10 +62,15 @@ async def one(browser,site,root):
             await page.screenshot(path=str(screenshot),timeout=5000)
             evidence['screenshots']=[dict(snapshot='desktop.png',sha256=hashlib.sha256(screenshot.read_bytes()).hexdigest())]
         except Exception:pass
-        atomic_write(directory/'capture.json',json.dumps(evidence,ensure_ascii=False,indent=2)+'\n')
+        if not evidence.get('failure'):
+            measured,images=await collect_measurements(page,directory)
+            evidence['measurements']=measured
+            evidence.setdefault('screenshots',[]).extend(images)
+        finish(directory,attempt,evidence,evidence.get('failure'))
         return {'slug':site['slug'],'status':'hold' if evidence.get('failure') else 'captured','reason':evidence.get('failure'),'title':title[:200],'final_url':final,'colors':len(evidence['colors']),'fonts':len(evidence['font_families'])}
     except Exception as e:
         result={'slug':site['slug'],'status':'hold','reason':str(e).split('Call log:')[0][:500],'source_url':site['url'],'checked_at':datetime.now(timezone.utc).isoformat()}
+        finish(directory,attempt,reason=result['reason'])
         atomic_write(directory/'browser-result.json',json.dumps(result,indent=2)+'\n')
         return result
     finally:await context.close()

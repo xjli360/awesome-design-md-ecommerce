@@ -4,6 +4,10 @@ name: "Cards Against Humanity"
 source_url: "https://www.cardsagainsthumanity.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deliberately ugly, confrontational card game brand that weaponizes a garish, high-saturation palette — #fe2f2f (a screaming stop-sign red), #7333f1 (a bruise-purple), #d7b73b (a sickly mustard), and #fffe5b (a retina-searing yellow) — against the polite, pastel conventions of tabletop gaming. The brand's visual system is an anti-design manifesto: system fonts (-apple-system, BlinkMacSystemFont, Helvetica) set in all-caps at modest weights, hard 0px corners everywhere, and a layout that feels like a mid-2000s GeoCities page that got hit by a truck. The primary red `{colors.primary}` appears on the main CTA button, the "BUY NOW" banner, and the site's header bar — always set in white all-caps Helvetica Neue at 14px. There is no rounded corner softer than `{rounded.xs}` (4px) anywhere; cards, buttons, and input fields all terminate in sharp 90-degree angles. The secondary purple `{colors.secondary}` appears on hover states, the "EXPANSIONS" section headers, and the "ABOUT" page link. The mustard `{colors.accent-mustard}` and yellow `{colors.accent-yellow}` are used for sale badges, price tags, and the "FREE SHIPPING" callout — colors that feel like they were chosen to be ugly on purpose. The site's canvas is `{colors.canvas}` (#ffffff), but the brand's true background is the off-white `{colors.surface-soft}` (#ede5ff) that appears on product cards and the "HOW TO PLAY" section — a lavender-tinged gray that suggests a dirty whiteboard. The overall effect is a brand that screams "we don't care about design" with the precision of a professional designer — every ugly choice is intentional, from the 16px body text set in system sans-serif to the 48px section spacing that creates a cluttered, dense feel. The brand's voice is nihilistic, profane, and self-deprecating; the design system mirrors that by rejecting every rule of "good" design.
 
@@ -514,6 +518,13 @@ components:
 - Badges may reduce in size on mobile (from 10px to 8px font)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

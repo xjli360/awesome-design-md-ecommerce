@@ -4,6 +4,10 @@ name: "Piccadilly Records"
 source_url: "https://www.piccadillyrecords.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, saturated blue (#003399) anchors Piccadilly Records — it appears as the primary brand colour across the site header, key navigation elements, and prominent call-to-action buttons, lending a sense of authority and musical heritage. This is paired with a vibrant orange (#f16e22) used as a secondary accent for sale tags, badges, and hover states, creating a high-contrast, energetic rhythm against the predominantly white canvas (#fefffe). The site feels dense and information-rich, a deliberate choice for a record store where browsing is the primary activity. Typography relies on a system stack (Arial, Helvetica Neue, sans-serif) for reliability, with the distinctive MochaMattari font reserved for display headings and the Piccadilly Records wordmark, adding a bespoke, hand-drawn quality. Layouts are grid-based and tightly packed, with product cards using minimal whitespace and a subtle hairline (#eeeeee) to separate items. The overall mood is utilitarian but warm, driven by the bold colour blocking and the tactile promise of vinyl discovery. Buttons are sharp-cornered rectangles (`{rounded.none}`) with solid fills, reinforcing a no-nonsense, direct approach. The footer expands into a dense information hub, using muted tones (#d1c7c7) for secondary links and a distinct gold (#e5d974) for sale or featured item highlights.
 
@@ -314,6 +318,13 @@ components:
 - Product grids reduce from 3-4 columns on desktop to 1-2 columns on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

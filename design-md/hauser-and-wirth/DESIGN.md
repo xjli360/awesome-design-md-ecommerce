@@ -4,6 +4,10 @@ name: "Hauser & Wirth"
 source_url: "https://www.hauserwirth.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every pixel on hauserwirth.com serves the same purpose as the white wall in one of their gallery spaces — to recede so completely that the artwork becomes the only thing you see. The digital identity runs on a strict monochrome axis: deep carbon black (#111111) letterforms set against a pure white canvas, with no decorative color accent competing for attention. Type is the primary architectural element; large-scale display headings in a refined grotesque serif carry the editorial weight that a lesser brand would assign to illustration or iconography. Navigation collapses to bare text links with generous negative space, reflecting the gallery's conviction that restraint is itself a curatorial statement. Artist pages open with full-bleed artwork photography — no rounded corners (`{rounded.none}`), no drop shadows, no overlaid gradient scrims — images bleed edge to edge at maximum fidelity the way a work on paper is presented unmatted. Exhibition listings and press releases follow a strict typographic grid reminiscent of the Swiss International Style: column rules, flush-left body copy at comfortable measure, and a header hierarchy that communicates urgency through scale alone rather than color. The footer spans the full page width in near-black, providing the only chromatic shift in the entire layout. Interactive affordances — buttons, form fields, hover states — are expressed through weight change and underline rather than background fill, keeping the palette unbroken. The overall effect is a digital environment that feels less like a commercial website and more like a well-designed institution catalogue: authoritative, unhurried, and completely confident that the work speaks for itself without promotional scaffolding.
 
@@ -201,7 +205,7 @@ components:
   exhibition-hero:
     layout: full-bleed
     imageRounded: "{rounded.none}"
-    overlayColor: none
+    overlayColor: transparent
     captionTypography: "{typography.caption-italic}"
     captionColor: "{colors.muted}"
     titleTypography: "{typography.display-xl}"
@@ -345,6 +349,13 @@ components:
 - The section-label rule and uppercase label stack responsively, maintaining their top-rule visual signature at every breakpoint
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

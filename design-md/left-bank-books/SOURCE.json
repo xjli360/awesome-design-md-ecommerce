@@ -30,39 +30,14 @@
     }
   ],
   "colors": {
-    "#000000": {
-      "count": 30,
-      "sources": [
-        "https://www.leftbankbooks.com/css/normalize.css",
-        "https://www.leftbankbooks.com/css/styles.css?v=8"
-      ]
-    },
-    "#ffffff": {
-      "count": 30,
-      "sources": [
-        "https://www.leftbankbooks.com/css/styles.css?v=8"
-      ]
-    },
-    "#3f0000": {
-      "count": 22,
-      "sources": [
-        "https://www.leftbankbooks.com/css/styles.css?v=8"
-      ]
-    },
-    "#aa0200": {
-      "count": 4,
-      "sources": [
-        "https://www.leftbankbooks.com/css/styles.css?v=8"
-      ]
-    },
-    "#cc33cc": {
-      "count": 2,
-      "sources": [
-        "https://www.leftbankbooks.com/css/styles.css?v=8"
-      ]
-    },
     "#ffff00": {
       "count": 1,
+      "sources": [
+        "https://www.leftbankbooks.com/css/normalize.css"
+      ]
+    },
+    "#000000": {
+      "count": 30,
       "sources": [
         "https://www.leftbankbooks.com/css/normalize.css"
       ]
@@ -71,6 +46,12 @@
       "count": 1,
       "sources": [
         "https://www.leftbankbooks.com/css/normalize.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 30,
+      "sources": [
+        "https://www.leftbankbooks.com/css/styles.css?v=8"
       ]
     },
     "#9999ee": {
@@ -85,8 +66,26 @@
         "https://www.leftbankbooks.com/css/styles.css?v=8"
       ]
     },
+    "#cc33cc": {
+      "count": 2,
+      "sources": [
+        "https://www.leftbankbooks.com/css/styles.css?v=8"
+      ]
+    },
     "#880000": {
       "count": 1,
+      "sources": [
+        "https://www.leftbankbooks.com/css/styles.css?v=8"
+      ]
+    },
+    "#aa0200": {
+      "count": 4,
+      "sources": [
+        "https://www.leftbankbooks.com/css/styles.css?v=8"
+      ]
+    },
+    "#3f0000": {
+      "count": 22,
       "sources": [
         "https://www.leftbankbooks.com/css/styles.css?v=8"
       ]
@@ -99,14 +98,10 @@
     }
   },
   "font_families": {
-    "Avenir Next": [
-      "https://www.leftbankbooks.com/css/styles.css?v=8"
-    ],
-    "monospace": [
+    "sans-serif": [
       "https://www.leftbankbooks.com/css/normalize.css"
     ],
-    "sans-serif": [
-      "https://www.leftbankbooks.com/css/normalize.css",
+    "Avenir Next": [
       "https://www.leftbankbooks.com/css/styles.css?v=8"
     ]
   },
@@ -168,10 +163,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Left Bank Books - Pike Place Market, Seattle",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-300",
   "tokens": {
     "colors.primary": {
+      "value": "#aa0200",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -179,22 +175,23 @@
       ]
     },
     "colors.ink": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.leftbankbooks.com/css/normalize.css",
-        "https://www.leftbankbooks.com/css/styles.css?v=8"
+        "https://www.leftbankbooks.com/css/normalize.css"
       ]
     },
     "colors.canvas": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.leftbankbooks.com/css/normalize.css",
-        "https://www.leftbankbooks.com/css/styles.css?v=8"
+        "https://www.leftbankbooks.com/css/normalize.css"
       ]
     },
     "colors.body": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -202,6 +199,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#cccccc",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -209,6 +207,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#c0c0c0",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -216,6 +215,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#3f0000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -223,6 +223,7 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#880000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -230,6 +231,7 @@
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -237,6 +239,7 @@
       ]
     },
     "colors.accent-purple": {
+      "value": "#cc33cc",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -244,6 +247,7 @@
       ]
     },
     "colors.accent-yellow": {
+      "value": "#ffff00",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -251,6 +255,7 @@
       ]
     },
     "colors.accent-lavender": {
+      "value": "#9999ee",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -258,6 +263,7 @@
       ]
     },
     "colors.accent-mauve": {
+      "value": "#cc99cc",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -265,110 +271,358 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "Avenir Next, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "Avenir Next, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "Avenir Next, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "Avenir Next, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Avenir Next, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Avenir Next, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 700,
+        "lineHeight": 1.4,
+        "letterSpacing": "2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "Avenir Next, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.lg}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.on-primary}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.lg}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.on-primary}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.display-md}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.xl} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.on-primary}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.category-list-button": {
+      "value": {
+        "backgroundColor": "{colors.on-primary}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.lg}",
+        "padding": "{spacing.sm}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#ffff00": {
+        "selector": "mark",
+        "property": "background",
+        "declaration": "#ff0",
+        "url": "https://www.leftbankbooks.com/css/normalize.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f4d7e8250f8f124f8b7d087e5e260766a34b079fddc43e7b20d8c18ca1e92e51"
+      },
+      "#000000": {
+        "selector": "mark",
+        "property": "color",
+        "declaration": "#000",
+        "url": "https://www.leftbankbooks.com/css/normalize.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f4d7e8250f8f124f8b7d087e5e260766a34b079fddc43e7b20d8c18ca1e92e51"
+      },
+      "#c0c0c0": {
+        "selector": "fieldset",
+        "property": "border",
+        "declaration": "1px solid #c0c0c0",
+        "url": "https://www.leftbankbooks.com/css/normalize.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f4d7e8250f8f124f8b7d087e5e260766a34b079fddc43e7b20d8c18ca1e92e51"
+      },
+      "#ffffff": {
+        "selector": "body",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://www.leftbankbooks.com/css/styles.css?v=8",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "b358417694f707a16b6a3da22a9c4602d051dbe7c14bc60b9dae2f5146cb07ae"
+      },
+      "#9999ee": {
+        "selector": ".main a, .store a",
+        "property": "color",
+        "declaration": "#9999ee",
+        "url": "https://www.leftbankbooks.com/css/styles.css?v=8",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "b358417694f707a16b6a3da22a9c4602d051dbe7c14bc60b9dae2f5146cb07ae"
+      },
+      "#cc99cc": {
+        "selector": ".main a:visited, .store a:visited",
+        "property": "color",
+        "declaration": "#cc99cc",
+        "url": "https://www.leftbankbooks.com/css/styles.css?v=8",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "b358417694f707a16b6a3da22a9c4602d051dbe7c14bc60b9dae2f5146cb07ae"
+      },
+      "#cc33cc": {
+        "selector": ".main a:visited:hover, .store a:visited:hover",
+        "property": "color",
+        "declaration": "#cc33cc",
+        "url": "https://www.leftbankbooks.com/css/styles.css?v=8",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "b358417694f707a16b6a3da22a9c4602d051dbe7c14bc60b9dae2f5146cb07ae"
+      },
+      "#880000": {
+        "selector": ".collective",
+        "property": "color",
+        "declaration": "#880000",
+        "url": "https://www.leftbankbooks.com/css/styles.css?v=8",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "b358417694f707a16b6a3da22a9c4602d051dbe7c14bc60b9dae2f5146cb07ae"
+      },
+      "#aa0200": {
+        "selector": ".site-nav .storeItem",
+        "property": "background-color",
+        "declaration": "#AA0200",
+        "url": "https://www.leftbankbooks.com/css/styles.css?v=8",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "b358417694f707a16b6a3da22a9c4602d051dbe7c14bc60b9dae2f5146cb07ae"
+      },
+      "#3f0000": {
+        "selector": ".main",
+        "property": "-webkit-box-shadow",
+        "declaration": ".6rem .6rem .3rem #3f0000",
+        "url": "https://www.leftbankbooks.com/css/styles.css?v=8",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "b358417694f707a16b6a3da22a9c4602d051dbe7c14bc60b9dae2f5146cb07ae"
+      },
+      "#cccccc": {
+        "selector": ".details input",
+        "property": "border",
+        "declaration": "1px inset #ccc",
+        "url": "https://www.leftbankbooks.com/css/styles.css?v=8",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "b358417694f707a16b6a3da22a9c4602d051dbe7c14bc60b9dae2f5146cb07ae"
+      }
+    },
+    "font_families": {
+      "sans-serif": {
+        "selector": "html",
+        "property": "font-family",
+        "declaration": "sans-serif",
+        "url": "https://www.leftbankbooks.com/css/normalize.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f4d7e8250f8f124f8b7d087e5e260766a34b079fddc43e7b20d8c18ca1e92e51"
+      },
+      "Avenir Next": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"Avenir Next\", sans-serif",
+        "url": "https://www.leftbankbooks.com/css/styles.css?v=8",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "b358417694f707a16b6a3da22a9c4602d051dbe7c14bc60b9dae2f5146cb07ae"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

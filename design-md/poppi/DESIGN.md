@@ -4,6 +4,10 @@ name: "Poppi"
 source_url: "https://drinkpoppi.com"
 captured_at: "2026-09-28T09:28:06.452244+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is built from decovostatic.com CSS (the production Next.js
   bundle for drinkpoppi.com) plus a third-party SmartCart widget stylesheet. The
@@ -165,6 +169,13 @@ Proposed breakpoints (not measured from live responsive behavior):
 Touch targets should be a minimum of 44px per side for buttons and nav icons, aligning with the observed `--swiper-navigation-size:44px` variable. Collapse of the horizontal nav into the hamburger menu is inferred from the presence of `.header_hamburger__MLpR5` in CSS, but the exact trigger breakpoint was not present in the supplied rules.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

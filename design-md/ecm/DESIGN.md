@@ -4,6 +4,10 @@ name: "ECM"
 source_url: "https://www.ecm.de/en"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   ECM's brand lives at the intersection of two temperatures — the deep royal blue (#003399) of precision instrument panels and the warm near-black (#100a05) of roasted coffee grounds. These two colors carry almost all chromatic work: a cool engineering blue beside a pigment so dark it reads as black with a trace of the roast embedded in it. The site canvas arrives in barely-warm gray (#e6e5e3) rather than paper white, a choice that keeps stainless-steel machine photography from floating on too clinical a ground. Every CTA arrives in that royal blue; no secondary accent competes for primary hierarchy. The red (#dc3232) surfaces only in system error states — it is not a brand color.
 
@@ -347,6 +351,13 @@ components:
 - Footer: 4-column link grid → 2-column at tablet → single-column accordion (headings are expand triggers) at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

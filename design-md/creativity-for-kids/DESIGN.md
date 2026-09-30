@@ -4,6 +4,10 @@ name: "Creativity for Kids"
 source_url: "https://www.fabercastell.com/pages/creativity-for-kids"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep forest-green (#05301a) anchors the brand as a grounding, earthy presence — not the bright primary of a toy aisle, but the color of a pine needle floor in a shaded woods. That green runs through the primary buttons, the footer background, and the header logo area, while a warm off-white canvas (#f6f6f0) — like unbleached paper or natural linen — replaces pure white everywhere, softening the reading experience. The palette leans heavily on a muted, almost monochromatic gray system (#707170, #787878, #aaaaaa, #d5d5d5, #eeeeee) that creates a quiet, uncluttered stage for product photography and craft materials. A single accent of marigold yellow (#eedd22) appears sparingly — perhaps on sale badges or age-range indicators — and a restrained red (#c60808) marks errors or limited-time callouts. Typography defaults to system sans-serif (Arial, Georgia for serif moments), suggesting the brand prioritizes readability and low visual friction over typographic personality. Cards and buttons use soft rounding (`{rounded.sm}` for buttons, `{rounded.md}` for cards), and the generous spacing (`{spacing.lg}` between elements, `{spacing.section}` between major blocks) gives the page the unhurried rhythm of a craft table where materials are laid out one at a time. The overall impression is not of a children's brand shouting for attention, but of a thoughtful, nature-connected space that trusts the creativity of the child — and the calm of the parent — to fill the silence.
 
@@ -305,6 +309,13 @@ components:
 - Category chip rows become horizontally scrollable with a fade-to-white edge indicator
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

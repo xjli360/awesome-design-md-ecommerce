@@ -4,6 +4,10 @@ name: "Finalmouse"
 source_url: "https://finalmouse.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A stark, almost brutalist hardware brand that uses #121212 as its gravitational center — not the warm charcoal of lifestyle tech but a dead-black void that makes every product photograph feel like a museum specimen under glass. The #fafafa canvas provides the only relief, a clinical white that never warms into cream, while #dedede hairline strokes trace the edges of product cards and navigation bars with the precision of a CNC router. EB Garamond appears unexpectedly in display contexts, a serif anachronism that signals Finalmouse's self-conscious positioning as "art objects that happen to be mice" — the type sits at generous sizes (28–36px) with tight letter-spacing, creating a typographic tension against the otherwise monochrome, hyper-minimal layout. Buttons use {rounded.sm} corners, never pills, and the primary CTA is a thin-outlined rectangle in #121212 on white — no filled color, no gradient, no shadow. The brand refuses the gamer-aesthetic clichés of RGB strips and angular vents; instead, product cards float on {spacing.base} margins with only a product name, a price, and a single "Sold Out" or "Buy" badge in {rounded.xs} capsules. The overall effect is less "gaming peripheral store" and more "limited-edition sneaker drop" — scarcity is the design system's invisible eleventh color.
 
@@ -343,6 +347,13 @@ components:
 - Search bar moves from dedicated page to a slide-down panel on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

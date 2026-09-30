@@ -4,6 +4,10 @@ name: "StarTech"
 source_url: "https://www.startech.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A utilitarian, information-dense industrial brand that speaks through a restrained palette of #404040 ink, #ebebeb surface, and #bd2426 signal red — the single accent that marks every "Add to Cart," "Buy Now," and critical alert. The brand lives in a world of spec sheets, compatibility matrices, and port diagrams; typography runs system-native (-apple-system, Arial, Helvetica Neue) at modest sizes with zero decorative weight, trusting clarity over character. Navigation is a dense horizontal strip of category links (Docking Stations, Cables, Adapters, Mounts) with a prominent search bar and a persistent cart badge, all on a #ffffff canvas. Product cards are tight rectangles with a 4:3 thumbnail, a model number in bold, a truncated description, and a price block anchored by the red CTA — no whitespace is wasted. The secondary palette of #62a1d8 (informational blue), #9bca3e (compatibility green), and #f68b1f (warning orange) forms a semaphore system for status badges: "In Stock" in green, "Discontinued" in orange, "New" in blue. Corners are minimal — 4px on buttons, 8px on cards — and the overall feel is that of a well-organized warehouse catalog rendered as a web page, where every pixel earns its place by conveying a fact.
 
@@ -314,6 +318,13 @@ components:
 - Spec tables on mobile become horizontally scrollable or collapse to a key-value list view
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

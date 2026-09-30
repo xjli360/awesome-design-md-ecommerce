@@ -4,6 +4,10 @@ name: "Mamagreen"
 source_url: "https://www.mamagreen.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Mamagreen arrives at luxury through restraint — a near-black charcoal grid (#222222, #444444) anchors the neutral field, and the site's only true color voltage, a deep ocean teal at #1d4354, surfaces where authority is required: primary CTAs, nav anchors, and product-color selectors. A warm terracotta (#cc6055) provides the counter-note, appearing in accent badges and hover treatments rather than competing for dominance, evoking the sun-baked stone patios the furniture is built to occupy. The overall effect reads as a system designed for photography to win: quiet type on near-white canvas (#fcfbfe) gives product imagery — teak grain, powder-coated aluminum, woven rope — full atmospheric control. Montserrat carries all typographic weight, from wide-tracked display headings at 48px down to tightly set all-caps captions. At display scale, letter-spacing opens to 3px, echoing the deliberate negative space in the furniture's frame geometry; button labels are uppercase with 2px tracking, treating each word as a precision mark. Body type stays conservative at 16px / 1.6 line-height, legible against the pale canvas. There are no serif detours, no decorative contrast pairings — just one geometric sans held at different weights, mirroring the brand's philosophy of a single material executed flawlessly rather than a catalogue of options. Corner radii sit almost entirely at {rounded.none}. Product cards, nav bars, and interactive buttons all use sharp corners; only material swatches break to {rounded.full} to mirror the circular profile of fabric samples and finish dots. This is a brand that sells objects with precise machined silhouettes — any softness in the UI would betray the aesthetic. Spacing is generous throughout: section breaks open at 64px, cards carry substantial internal padding, and the grid never crowds. On category landings, products present two-up at desktop, allowing each piece room to breathe as it would on an actual terrace. A pale lavender-gray (#e9e6ed, #cfc8d8) appears in filter panels and secondary surface areas — a warmer alternative to flat white that subtly references the diffuse light of overcast northern European mornings, the origin context for much of the collection's design language. WooCommerce plugin colors contaminate the extracted palette but represent no brand tokens.
 
@@ -398,6 +402,13 @@ components:
 - Hero subhead text hidden at mobile below 375px viewport width to preserve headline legibility
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

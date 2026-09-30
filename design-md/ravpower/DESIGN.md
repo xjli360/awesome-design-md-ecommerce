@@ -4,6 +4,10 @@ name: "RavPower"
 source_url: "https://www.ravpower.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A utility-focused power electronics brand that communicates reliability through a restrained palette anchored on a deep teal (#108474) — the single brand voltage that carries every primary CTA, cart button, and category badge. The site reads as a technical catalog first, retail store second: dense product grids, spec-heavy cards, and a navigation system that prioritizes product categories (Power Banks, Chargers, Cables, Wall Chargers) over brand storytelling. Type runs Nunito Sans at modest weights — body copy sits at 14–16px in weight 400, with product titles at 18–20px in weight 600, trusting the product photography and technical specifications to do the selling rather than typographic flourish. The extracted palette reveals a secondary accent system — a warm amber (#f77b08) for sale badges and price highlights, a cautionary red (#d61f1f) for error states and sold-out indicators, and a muted olive (#6b762d) that appears in footer and secondary information blocks, suggesting a brand that doesn't shy away from functional color coding. Cards use soft rounding ({rounded.sm} ~8px), buttons use slightly tighter radii ({rounded.xs} ~4px), and the search bar sits as a full-width input with a pill-shaped submit button — a pragmatic layout that puts product discovery above visual polish. The footer is dense with support links, warranty information, and trust badges (SSL, PayPal, Klarna), reinforcing the brand's positioning as a reliable hardware vendor rather than a lifestyle accessory. The overall mood is industrial, direct, and confidence-inspiring — every pixel exists to answer "will this charger work for my device?" rather than "does this feel premium?"
 
@@ -440,6 +444,13 @@ components:
 - Multi-image product galleries collapse from row layout to single-image swipeable carousel on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

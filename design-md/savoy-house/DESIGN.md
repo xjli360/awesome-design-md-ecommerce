@@ -4,6 +4,10 @@ name: "Savoy House"
 source_url: "https://savoyhouse.com"
 captured_at: "2026-09-29T04:11:23.334907+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Savoy House's supplied stylesheet is a customized Magento Luma theme serving a lighting-fixture
   manufacturer catalog (chandeliers, pendants, ceiling fans, outdoor and wall lights). The observed
@@ -173,6 +177,12 @@ Recommended, not measured, breakpoints:
 Touch targets should be at least 40–44px in the mobile range, consistent with the observed button padding scaling up on small screens. Navigation is expected to collapse into a hamburger/drawer pattern below the tablet breakpoint. None of this table reflects measured site behavior; it is a general storefront recommendation.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Atoms"
 source_url: "https://atoms.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Seventeen measurements per foot, quarter-size increments from 5 to 14, a canvas stretching from #f4f4f4 to #212121 without a single warm tint: Atoms designs sneakers the way a machinist approaches tolerances, and the interface inherits that logic exactly. Helvetica Now Display carries every headline — its optical precision at large sizes reads almost clinical, a deliberate choice over the humanist alternatives in the same stack. Where emphasis demands a different temperature, VC Garamond Condensed appears as editorial counter-weight, and PT Mono surfaces for data-dense labels — size charts, measurement tables, the quarter-unit selectors that are the brand's signature differentiator. The typeface pairing is rare: a grotesque-meets-condensed-serif combination that signals craft without warmth.
 
@@ -368,6 +372,14 @@ components:
 - Editorial callout reduces editorial font from 40px to 28px (`display-md`) on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

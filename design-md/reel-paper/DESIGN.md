@@ -4,6 +4,10 @@ name: "Reel Paper"
 source_url: "https://reelpaper.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A paper-goods brand that builds its visual identity around a deep teal-navy (#243f50) — the color of a forest canopy at dusk — used as the primary anchor for buttons, headlines, and the site's persistent top bar. The palette is deliberately restrained: a warm off-white (#f0e9e7) serves as the canvas, while a sage-green (#b6cfaf) and a dusty blue (#79abc9) appear as secondary accents, often in product imagery or decorative blocks. The typography runs AvenirLTPro-Heavy for display and button text, a weight that reads as confident and slightly retro, paired with lighter sans-serif weights for body copy. Product cards use generous white space and soft corners ({rounded.md} ~12px), with the primary CTA rendered as a solid teal pill ({rounded.full}) that contrasts sharply against the pale canvas. The checkout flow inherits Shopify's standard widget colors (PayPal blue, Klarna pink, Afterpay black), which sit uneasily next to the brand's muted earth tones — a known compromise of the platform. The overall mood is calm, domestic, and slightly Scandinavian: clean lines, matte finishes, and a trust in natural materials that the color palette reinforces without ever showing a literal tree.
 
@@ -221,6 +225,13 @@ components:
 - Hero sections reduce padding from 64px to 32px on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

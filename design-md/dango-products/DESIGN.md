@@ -4,6 +4,10 @@ name: "Dango Products"
 source_url: "https://dangoproducts.com"
 captured_at: "2026-09-28T10:23:24.487268+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Dango Products is a US-made everyday-carry brand selling wallets, watches, and
   rugged accessories. The observed palette is neutral-forward: white, warm
@@ -166,6 +170,13 @@ components:
 This table is a recommendation based on typical ecommerce patterns and the presence of toggle/menu affordances in the evidence; no actual responsive CSS or viewport behavior was captured. Interactive states (hover, focus, active swatch selection) beyond the `.btn--tab` animated underline rule are likewise proposed, not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Evidence is static CSS/text only; no rendered layout, computed styles, or DOM screenshots were available, so all component compositions above are proposed interpretations.

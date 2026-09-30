@@ -4,6 +4,10 @@ name: "Tudor"
 source_url: "https://www.tudorwatch.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The heraldic five-petaled rose at Tudor's center hasn't changed since 1952 — a deliberate anachronism that functions as the brand's entire visual argument. Every primary CTA, the shield-shaped logo frame, and the signature strap fabric inherit a single deep crimson (#CC0000) that reads as institutional rather than aggressive against expansive black-and-white photography. Tudor occupies a studied position between Swiss watchmaking heritage and accessible precision, marketed through a "Born to Dare" campaign that favors gritty adventure imagery — polar expeditions, saturation dives — over the drawing-room settings common among horological neighbors on the prestige ladder. The type system reinforces this duality: headline scales run in architecturally spaced uppercase that signals military brevity, while body copy settles into a clean humanist sans at modest weight. Product cards use high-aspect-ratio portrait crops to show the full watch face and bracelet without truncation, giving the wrist context that close-cropped dial shots deny. Navigation organizes by collection line — Black Bay, Pelagos, Royal, Ranger, 1926, Glamour Double Date — each carrying its own sub-palette of dial variants (black, blue, burgundy, silver) that coexist within the master crimson-black-white system. Hierarchy is enforced almost entirely by scale and padding; borders are sparse and hairline-weight where they appear. Buttons are sharp-cornered or carry only a vestigial radius ({rounded.xs}), never pill-shaped — a deliberate signal of engineering precision over lifestyle-brand warmth. Product detail pages organize technical specifications in two-column definition tables with tabular-figure numerals, nodding to instrument-panel legibility. The sole recurring decorative element is the rose badge itself, rendered in #CC0000 at every scale from 16px favicon to 120px embossed PDP header.
 
@@ -367,6 +371,13 @@ components:
 - `collection-strip` converts from underlined tabs to a no-scrollbar horizontal scroll container with touch momentum
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Our Place"
 source_url: "https://fromourplace.com"
 captured_at: "2026-09-28T04:10:14.394869+00:00"
 evidence_status: "historical_partial_css_evidence"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Our Place is a kitchen brand built around a single thesis — that what we share at the table is the most intimate conversation we have with each other — and the visual system bends every token toward that thesis. The page floor is a warm cream (`{colors.canvas}` — #fcfaf6), not white; type sets in deep cocoa-brown (`{colors.ink}` — #35312e), never black; the primary brand voltage is Spice (`{colors.primary}` — #d37556), a sunset-on-terracotta warmth that reads as cooking-pot copper rather than DTC-orange. The typography is unusual for a Shopify-era cookware brand: a serif called Cheltenham (`Chelt`, `CheltLight`, `CheltBTBolCon`) carries every editorial moment — the hero "Welcome to Our Place" headline, product titles, recipe blog cards — paired with two display sans-serifs (`Plaid-XS-Web` and `Plaid-XL-Web`, the brand's custom variable family that gives the wordmark its tall-narrow geometric character) for utility text, eyebrow labels and uppercase CTA labels, plus Calibre as a clean sans for body and product descriptions. Buttons are rectangular with only a `{rounded.xs}` 4px corner — a deliberate retreat from the heavily-rounded "soft-cookware" idiom — and they carry uppercase Plaid type at 14px, weighing the brand's voice as confident and editorial rather than friendly-cute. Each product card sits beneath a row of 20px circular color-swatch dots; clicking one rotates the hero photo to the matching Spice/Sage/Steam/Char/Blue Salt finish. The collection of "color names" itself is intentional, drawn from the brand's South-Asian-American founder Shiza Shahid: Spice (the terracotta of a marigold garland), Char (charred eggplant smoke), Sage (kitchen herb), Steam (rising from a kettle), Blue Salt (Pakistani salt lake), Cream, Spruce. These read as foods, memories and rooms — never as Pantone codes. The footer breaks rule and shifts to a deep maroon `#5d2020` ("Sienna") with cream text, a reading-room band that resolves the cream-canvas page into something warm-blooded and inhabited. The total impression is editorial-magazine-meets-dinner-party: cream paper, brown ink, terracotta accent, serif headlines, and a parade of swatches that name the world the way a family does.
 
@@ -611,6 +615,13 @@ There are no progressive elevation tiers — the system is essentially 2D, leani
 - Footer columns collapse to one column on mobile, with social icons centering beneath.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

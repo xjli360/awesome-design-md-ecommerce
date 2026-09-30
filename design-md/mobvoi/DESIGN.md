@@ -4,6 +4,10 @@ name: "Mobvoi"
 source_url: "https://www.mobvoi.com"
 captured_at: "2026-09-29T04:18:12.764269+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is built from CSS rules and a page-text excerpt captured from mobvoi.com/us, the brand's own storefront for TicWatch smartwatches, TicNote, and related wearables/smart-life gear. The observed palette is a neutral, tech-forward set: pure white canvas, near-black body text, two blues (#0091ff used on a subscribe CTA, #3487dc used on a header buy button), a legacy hyperlink blue (#0000ee), warm dark charcoal tones (#232427, #3e3a39) likely used for dark header/footer surfaces, mid grays (#999999, #767676) for secondary text and hairlines, and two reds (#ff5c5c, #f23434) that plausibly mark sale/discount badges given the "0% APR" and "2% off" promotional copy. Typography relies on a custom sfText family (Regular/Bold) with SFProText and CJK fallbacks (Microsoft JhengHei/YaHei, SimHei, WenQuanYi Micro Hei), confirming an international, Latin+CJK-ready stack rather than a distinctive brand typeface. Several sizes in the CSS use rem units consistent with a mobile flexible-root scaling pattern (assumed ~100px root); those pixel equivalents are treated as inferred. The proposed system favors compact pill buttons, thin borders over heavy shadows, and a product-grid, review-quote, and blog-card layout matching the page's "BEST-SELLERS," "curated gears," and press-quote content.
 
@@ -129,6 +133,13 @@ This is a recommendation, not measured site behavior, since no media queries wer
 Touch targets are recommended at a minimum 44×44px for buy buttons and nav dropdown triggers. The `.header-buy-btn`'s 26px height is below this threshold and should be enlarged for touch contexts in this proposal.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived solely from static CSS rules, a title tag, and a page-text excerpt; no live rendering, computed layout, or interaction states (hover/focus/active, dropdown open states, cart drawer behavior) were observed. Several role assignments — surface-soft/surface-card as dark section backgrounds, accent-sale colors as badge colors, and hairline as border gray — are inferred from limited, indirect evidence and may not match actual usage. Font sizes derived from rem values (e.g., 0.21rem, 0.18rem) assume a mobile flexible-root scaling convention that was not directly confirmed. All typography sizes other than the 15px button rule are proposed, not measured. Mobile/responsive breakpoints and collapse patterns are recommendations only. Custom font availability, licensing, and whether "sfTextRegular/sfTextBold" are proprietary, licensed, or self-hosted assets was not verified.

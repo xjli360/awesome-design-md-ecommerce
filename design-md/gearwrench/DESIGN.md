@@ -4,6 +4,10 @@ name: "GearWrench"
 source_url: "https://gearwrench.com"
 captured_at: "2026-09-28T09:05:06.370370+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   GearWrench presents as a utilitarian, trade-focused hand tool brand under Apex Tool Group, and the evidence
   supports a high-contrast, industrial visual system. The observed palette centers on black (#000000) and
@@ -168,6 +172,13 @@ Touch targets should be a minimum 44×44px for buy-now buttons and nav toggles. 
 actual collapse thresholds and animation are not observed and are proposed conventions.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

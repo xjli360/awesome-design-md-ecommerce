@@ -4,6 +4,10 @@ name: "Magnum Photos Shop"
 source_url: "https://shop.magnumphotos.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every print in the Magnum catalog arrives freighted with photographic history, and the shop's visual system respects that weight without announcing it — a pale ash canvas of #f0f0f0 recedes behind photography rather than competing with it, while near-black #1f1f1f grounds typography in a register that reads as archival rather than aggressive. The most distinctive design choice is sage #5a6455 as a brand accent, a green the colour of vintage photographic equipment or aged museum walls, surfacing in category indicators, active states, and the left border of the print-information panel. Against this achromatic field, crimson #b43232 fires exactly once per page as the primary purchase call-to-action — a hot single note that carries the full weight of the interaction without overusing itself. Instrument Sans runs through every text scale at quiet weight settings, trusting long line-lengths and generous leading to produce an editorial reading cadence appropriate to a publication-grade image archive. A muted blue-grey (#bed2dc) marks informational surfaces and selection states, referencing the cool cast of silver-gelatin printing paper. Dark hero sections dissolve from #000044 through #121212, giving the impression that vast documentary photography simply continues off the edge of the viewport. Product cards use {rounded.xs} corners — 4 pixels — to stay crisply rectangular in sympathy with the photographic frame; there are no pill shapes here. The dark navigation bar in #121212 with on-dark type in #f0f0f0 creates a museum-vitrine contrast, positioning each photograph as an object to collect rather than a product to browse. Wide gutters and generous {spacing.section} vertical breaks give the image grid the breathing room it needs to function as a curated exhibition rather than a scroll-optimised catalogue.
 
@@ -364,6 +368,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

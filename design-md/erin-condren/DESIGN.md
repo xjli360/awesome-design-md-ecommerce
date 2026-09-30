@@ -4,6 +4,10 @@ name: "Erin Condren"
 source_url: "https://www.erincondren.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The add-to-cart button, the coil binding printed in every product shot, and the "New" launch badge all run the same charged pink — a fuchsia anchored near #F04E88 that functions as the brand's single organizing voltage across every surface. Erin Condren sells the proposition that color is a productivity technology: planners ship in more than a dozen colorway families, and the site's cover customizer — a horizontally scrolling swatch strip — is often the first interactive moment a new visitor has with the brand, before they've finished reading the product description. This means the UI carries an unusually literal relationship to the physical product; the digital swatches are the same inks that will arrive in the customer's mailbox. Rounded corners appear everywhere — {rounded.md} on cards, {rounded.full} on badge pills and swatch selectors — echoing the coil apertures and tabbed page-edges that make the planners recognizable at arm's length. Background surfaces stay bright white (#FFFFFF) or a barely-there blush ({colors.surface-soft}), so product photography — always shot open at a 45-degree angle, weekly spread visible, stickers in mid-application — reads as editorial rather than catalogue. The type system is a clean geometric sans-serif at modest weights, deferring to color rather than scale for hierarchy: a planner-grid section label and an e-commerce category chip use the same family, differentiated by hue and size rather than typeface changes. A multi-color horizontal stripe — running through the logo mark and repeated as section dividers — makes the visual handoff between digital and physical feel inevitable rather than designed. The footer and PDP sidebar carry the same color-coded chip taxonomy used inside the planners themselves: color is not a cosmetic layer here, it is the information architecture.
 
@@ -372,6 +376,13 @@ components:
 - Footer columns collapse from 4-column → 2-column at tablet, single column with accordion sections on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

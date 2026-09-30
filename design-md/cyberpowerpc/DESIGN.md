@@ -4,6 +4,10 @@ name: "CyberPowerPC"
 source_url: "https://www.cyberpowerpc.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A high-octane gaming hardware brand that runs on a deep violet #603cba and a cyan #5bbadadual-voltage system — the violet acts as the brand's primary anchor, appearing on every primary CTA, navigation bar, and product-badge background, while the cyan serves as a secondary accent for highlights, hover states, and promotional ribbons. The brand's visual language is built around hard angles and sharp geometry — product cards use minimal rounding ({rounded.sm} ~8px), buttons are squared off ({rounded.xs} ~4px), and the layout grid is tightly packed with dense information density. There is no softness here; every pixel is optimized for the enthusiast PC builder who wants specs, prices, and configuration options at a glance. The typography system defaults to system fonts (no custom typeface extracted), relying on weight contrast (600–700 for headings, 400 for body) and generous size deltas to create hierarchy in the absence of whitespace. The canvas is pure white (#ffffff), with surface cards in a near-white (#f7f7f7) and hairlines in #e0e0e0, creating a clean but utilitarian backdrop for product photography that often features RGB-lit components and dark backgrounds. The brand's signature design move is the "configurator strip" — a persistent horizontal bar across the top of product pages that lets users toggle between pre-built, custom, and barebone configurations without leaving the page. This strip, backed in violet, is the single most recognizable UI element on the site.
 
@@ -540,6 +544,13 @@ components:
 - Hero section reduces font size from 36px to 24px on mobile, with reduced padding
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

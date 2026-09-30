@@ -4,6 +4,10 @@ name: "Boiron"
 source_url: "https://boironusa.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep blue (#0033ab) anchors Boiron's digital presence—a color that reads as clinical authority without the coldness of a pure navy, appearing across primary buttons, navigation bars, and footer backgrounds. The palette is dominated by a family of blues (#0170b9, #0274be, #0073c6, #003388, #003399, #0070ad) that create a layered, trustworthy hierarchy, while a secondary teal (#00acad) and sage green (#77a464) appear as accent colors for dosage indicators and wellness badges. The canvas is a warm off-white (#f9f9f9) rather than pure white, softening the clinical edge, with surfaces stepping through #fafafa, #fbfbfb, and #f5f5f5 for card and section differentiation. Typography runs Montserrat for display and Open Sans for body—a pairing that balances geometric modernity with readable warmth. Buttons use tight {rounded.sm} corners (8px), while informational badges and dosage pills adopt {rounded.full} for a friendly, approachable feel. The overall mood is that of a clean pharmacy counter: organized, reassuring, and quietly competent, with the blue family doing the heavy lifting of trust-building while the teal and sage provide moments of wellness-oriented optimism.
 
@@ -414,6 +418,14 @@ components:
 - Hero banner text size reduces proportionally, with CTA button moving below headline on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Euclid Records"
 source_url: "https://www.euclidrecords.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, saturated #163959 — the blue of a midnight highway or a vintage sleeve — sets the foundational mood for Euclid Records, an independent store that treats the physical artifact of music with the gravity of a museum. This dark ink anchors a palette that is otherwise surprisingly bright and varied: a traffic-cone orange (#f68b1f) and a fire-engine red (#bd2426) serve as energetic accents, while a soft, almost dusty green (#bada7a) and a warm, buttery amber (#f9b169) suggest the patina of well-loved cardboard and faded liner notes. The site’s canvas is a clean, slightly warm off-white (#ebebeb), a deliberate departure from pure white that softens the reading experience. Typography defaults to system sans-serif — `-apple-system`, `Arial`, `Helvetica Neue` — a pragmatic, no-nonsense choice that lets the product photography and color do the heavy lifting. Buttons are pill-shaped (`{rounded.full}`) in the primary blue, with secondary actions rendered in the bright orange, creating a clear visual hierarchy that feels both playful and urgent. The overall impression is of a space that is deeply knowledgeable and unpretentious, where a rare pressing sits alongside a new release, and the design’s job is to get out of the way and let the music speak. The extracted palette, while wide, suggests a brand that is comfortable with a high degree of chromatic contrast, using saturated primaries as wayfinding signals against the dark, quiet backdrop.
 
@@ -336,6 +340,13 @@ components:
 - The footer collapses from a multi-column layout to a single stacked column on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

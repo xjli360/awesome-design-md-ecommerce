@@ -4,6 +4,10 @@ name: "Rocky Mountain Hardware"
 source_url: "https://rockymountainhardware.com"
 captured_at: "2026-09-28T04:50:11.450523+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Rocky Mountain Hardware's public site evidence centers on a warm, artisanal
   bronze identity layered over a standard WordPress theme foundation. The only
@@ -160,6 +164,13 @@ components:
 Recommended, not measured, breakpoints: mobile up to 599px, tablet 600-959px, desktop 960-1279px, wide 1280px+. Navigation is expected to collapse into a hamburger/off-canvas menu below tablet width given the density of the listed menu taxonomy (8+ top-level items, 25+ collections). Touch targets should be a minimum of 44x44px for buttons and swatches. Product/collection grids are recommended to reflow from 4-column (desktop) to 2-column (tablet) to 1-column (mobile). None of this responsive behavior was observed in the supplied static CSS; it is a standard-practice recommendation only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "KBDfans"
 source_url: "https://kbdfans.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The checkout button on KBDfans lives at #fb485e — a coral that reads somewhere between fire-engine alarm and neon-salmon, hot enough to arrest a product-grid scroll without torching the mostly dark-neutral interface built around #121212. Two reds anchor the brand: the coral-primary for CTAs and interactive highlights, and #d7030b — a deeper, near-arterial red — reserved for group-buy countdowns and stock-pressure states, creating a two-tier urgency vocabulary that maps directly onto the keyboard community's calendar anxiety around limited runs. The near-black field absorbs product photography cleanly; anodized aluminum cases and POM plates render crisply against the low-reflectance background, so the brand shell stays recessive and lets the hardware carry visual weight.
 
@@ -361,6 +365,13 @@ components:
 - Group-buy countdown timer stacks into a 2×2 digit grid below 480px viewport width
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

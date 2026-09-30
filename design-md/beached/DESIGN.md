@@ -4,6 +4,10 @@ name: "Beached"
 source_url: "https://beached.shop"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Salt-lifted hair — the kind that dries into effortless texture after an afternoon in the surf — is what Beached sells, not a product category but a post-ocean feeling that most haircare brands only gesture at. The palette reads like a tidal strip at low tide: warm cream canvas #FDFAF5 where the dry sand begins, ocean teal #3D8F8F at the waterline where all primary brand energy lives, and deep driftwood ink #2C2416 carrying the reading work so the primary never feels overused. No harsh chrome, no clinical white — the system breathes at low contrast before the teal arrives on a CTA, a price callout, or an active nav state. Coral #E87B5A appears only on urgency markers: new-arrival badges, sale tags, the single warm accent in an otherwise cool-neutral field. Cards sit at {rounded.md} corners, reading like a sun-worn edge rather than an engineered corner; only the search pill and filter chips break into {rounded.full}, the one place the system allows a fully resolved curve. Type runs at unassuming weights — display headings at 600 rather than 800, body copy at a loose 1.6 line-height — because the copy does the mood-setting through ingredient origin stories and surf-report pacing rather than typographic muscle. Spacing is generous throughout: section breaks at {spacing.section} push content into breathing sequences that feel like walking from one tide pool to the next. The footer drops onto a warmer sand surface #EDE6DA rather than a stark dark band, keeping the register warm even in the bottom third. Collection headers use a sand wash #C4A882 as a background tone, while ingredient-focused callouts layer sea-foam #B8D9D4 behind the panel. The overall system sits at the intersection of beach-lifestyle ease and the precision that premium haircare demands: effortless without being careless.
 
@@ -314,6 +318,14 @@ components:
 - Promo banner: fixed on desktop and tablet; scrolls away on mobile after initial viewport to recover vertical space
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

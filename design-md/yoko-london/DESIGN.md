@@ -4,6 +4,10 @@ name: "Yoko London"
 source_url: "https://www.yokolondon.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Pearl jewelry tends to reach for cream and ivory; Yoko London reaches instead for a deep wine burgundy (#3c1929) and the cool precision of slate-blue gray (#586877) — the palette of a gem archive rather than a bridal suite. Against that dark-cool ground, champagne gold (#e6c297) and petal blush (#f0c7bc) read as the actual surface tones of the pearls being sold, luminescence pulled into the UI rather than applied as ornamental accent. Buttons, input fields, and image containers carry no radius at all ({rounded.none}): hard corners everywhere, a curatorial sharpness that refuses the softening gesture most jewelry brands make to read as feminine or approachable.
 
@@ -342,6 +346,13 @@ components:
 - Collection banners maintain full-bleed but reduce headline from display-md to display-sm on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Farer"
 source_url: "https://farer.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The dial of a Farer Lander arrives in a color that has no easy name — somewhere between teal and peacock, lacquered and slightly pearlescent — and the website that sells it is nearly its photographic negative: deep midnight navy (#021a30) against pale gray (#f4f4f4) surfaces, every bright note deferred to the product photography. This deliberate restraint is the central design argument: the UI recedes entirely so the watches can perform. FoundersGrotesk carries all text — a geometric grotesque with squared-off terminals that leans on British modernism without borrowing from Swiss tradition — set at modest weights and generous tracking to keep pages airy even when stacked with movement specifications and reference codes. Primary actions are rectangular buttons in #021a30 at zero border radius: a deliberate sharpness that rhymes with the machined edges of the cases themselves. The palette is intentionally narrow; two near-whites (#f4f4f4, #f1f1f1) alternate as canvas and surface-card while a third near-white (#f3f3f3) handles mid-surface states, slate-gray (#374757) covers secondary text and UI chrome, near-black (#121212) anchors headline ink, and hairlines in #dedede quietly rule the grid without announcing themselves. No decorative accent escapes from the product world into the interface: all chromatic energy lives inside the watch photographs, never in the surrounding chrome. Product cards center the dial image against a neutral field with minimal metadata below — reference code, collection name, and price stacked in compressed FoundersGrotesk that trusts the photograph to close the sale. Navigation runs flat and plain-spoken: a horizontal list of collection names in spaced uppercase at 14px, no drop-shadows, no animated reveals. The footer deepens back to #021a30, reversing the canvas-and-navy logic so the page begins and ends in the same midnight ink. The total effect is less a luxury-goods convention than a high-end catalog from a small British workshop: cool, controlled, and confident that the dials themselves are the only color the page needs.
 
@@ -317,6 +321,13 @@ components:
 - Hero image drops below text stack on mobile; navy background extends to fill
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Burrow"
 source_url: "https://burrow.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Warm terracotta (#e46950) glows against a cream canvas (#f7eee3) like sunbaked clay on linen — that single coral accent carries every primary CTA, configurator toggle, and "Add to Cart" moment on a site otherwise governed by earth and stone. Suisse Intl provides the typographic backbone: a Swiss grotesque with just enough humanist softness in its terminals to avoid clinical sterility, set at restrained weights (400–600) that let product photography do the convincing. DM Mono appears sparingly in price callouts and spec labels, lending a utilitarian precision that reinforces the engineering-forward "tool-free assembly" promise. The palette reads like a material sample board — dark walnut (#562e20), oxidized rust (#864c37), desert camel (#af8b66), and bleached sand (#e5be96) map directly to the wood, leather, and fabric swatches in the configurator, while sage (#a9b199) and deep olive (#424a2e) anchor the outdoor collection's environmental positioning. Surface hierarchy layers warm off-whites (#edeadf, #f0efe5) beneath pure-white product cards, creating depth without hard shadows. Corner radii stay conservative: `{rounded.sm}` on buttons and inputs, `{rounded.md}` on cards — nothing pill-shaped, nothing sharp, echoing the soft-cornered cushion geometry of the furniture itself. Navigation is minimal and wide-set, trusting the 1440px grid and generous `{spacing.section}` gaps to create breathing room between lifestyle vignettes and modular configuration panels. The overall effect is a showroom that feels residential rather than retail.
 
@@ -413,6 +417,14 @@ components:
 - Announcement bar text truncates with "..." and becomes tappable for full message on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

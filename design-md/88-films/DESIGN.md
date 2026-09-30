@@ -4,6 +4,10 @@ name: "88 Films"
 source_url: "https://88-films.myshopify.com/"
 captured_at: "2026-09-29T04:11:34.667107+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from the live 88 Films Shopify storefront
   (88-films.myshopify.com), a UK-based distributor of 4K UHD, Blu-ray and
@@ -172,6 +176,12 @@ components:
 Minimum touch targets are recommended at 44×44px for cart, nav and format-badge controls. This table is a design recommendation only; no live breakpoint or mobile interaction behavior was measured from the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

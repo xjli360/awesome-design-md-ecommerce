@@ -4,6 +4,10 @@ name: "Anne Pro"
 source_url: "https://www.obins.net"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The 60% layout is not a feature Anne Pro leads with — it is the product's geometry made into brand philosophy. By subtracting the numpad, the function row, and the navigation cluster, Obins returns 40% of the desk surface and ships a board that outsells full-size competitors in enthusiast forums not because it is cheaper but because it argues that constraint is the point. The visual system surrounding the Anne Pro 2 makes the same wager: near-white canvas, restrained ink-black body copy, and a warm orange on every primary CTA and "Add to Cart" trigger — a color choice drawn from the keyboard culture of amber-legend keycap sets rather than the consumer-electronics primary blues that dominate the category. Typography runs on the system sans-serif stack, trusting that a board this widely photographed in community unboxings does not need editorial font authority; display sizes reach 40px at 700 weight, but body copy stays at 13–15px with generous 1.6 line-height, closer to documentation than marketing. Product pages give the chassis 70% of the viewport at a slight overhead angle before a specification table opens below in label-over-value pairs — the layout of a datasheet, not a lifestyle lookbook. Firmware update banners, Bluetooth pairing callouts, and QMK documentation links all appear as inline info-bands with a left-border accent stroke in `{colors.primary}` rather than modal interruptions, because the Anne Pro customer follows a GitHub README as comfortably as a product page. The radius grammar nearly disappears: `{rounded.xs}` on buttons and inputs, `{rounded.sm}` on cards — no pill shapes, no soft consumer-app curves, just the milled-edge language of the keyboard's aluminum case options. The single moment of visual indulgence is a 6px RGB gradient strip on color-configuration pages, cycling the full hue wheel in a thin band that reads as a brand signature rather than decoration.
 
@@ -348,6 +352,14 @@ components:
 - Product cards in 1-column mobile layout show thumbnail rail below image
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

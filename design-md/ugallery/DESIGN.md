@@ -4,6 +4,10 @@ name: "UGallery"
 source_url: "https://www.ugallery.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Gallery linen lives in the hex values before a single painting loads — UGallery's canvas, #f8f6f0, is the deliberate off-white of cotton rag paper rather than a design-system default, and the warm layering beneath it (#e6e3d8 surface cards, #dad5c5 tonal accents, #a19a83 muted secondary text) creates the ambient warmth of a sun-lit gallery room rather than the clinical brightness of a retail site. The brand's primary action color, #625d4c, is an olive-taupe that reads closer to undyed linen than a conventional CTA; it signals commitment without urgency, appropriate for an audience deliberating over original paintings rather than adding impulse items to a cart. Two typefaces divide labor sharply. Orpheus Pro, a revival of the mid-century titling serif, carries artwork titles, artist names in featured contexts, and the editorial copy that bridges the collector and the canvas. General Sans — a contemporary geometric sans — handles navigation, filters, body prose, and price labels, keeping the commercial scaffolding legible without competing with the art. Together they establish a clear rhythm: serif declares the work, sans-serif frames the transaction. All-uppercase General Sans labels with tracked letter-spacing index filters, medium tags, and section dividers, drawing on museum label tradition without its austerity. The deepest tone in the palette, #092933 — a near-teal dark navy — surfaces in the footer and select editorial modules, lending weight without invoking luxury-black clichés. Artwork image containers use zero rounding ({rounded.none}) to preserve the rectangular truth of a physical canvas; subtle {rounded.sm} appears only on interactive filter chips and price badges. Hover states lift cards with a soft shadow over the warm ivory surface rather than color shifts, keeping attention on the artwork rather than the interface. The price-range and medium filters collapse on mobile into a slide-over drawer, while the desktop view presents them as persistent pill chips along the gallery's top rail. UGallery's 'View artwork' CTA sits below each card in consistently quiet typography — General Sans medium, uppercase, tracked — reinforcing that the gallery, not the button, is the protagonist.
 
@@ -357,6 +361,13 @@ components:
 - Hero split → vertical stack (artwork image above editorial text) with reduced headline scale (display-md instead of display-xl)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

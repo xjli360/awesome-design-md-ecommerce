@@ -4,6 +4,10 @@ name: "Flewd"
 source_url: "https://flewd.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Electric chartreuse (#e0fe2c) against near-black navy (#112233) — the combination reads almost radioactive, which is exactly the point for a bath soak brand built around the phrase "Stress Destroying." Flewd doesn't soften its premise with botanical beige or hushed type; the dominant signal color is a sharp yellow-green that vibrates against dark grounds like voltage on a circuit board. The warm cream (#fff5ef) enters only as a secondary surface, pulling spa-register warmth into a palette that otherwise reads closer to performance nutrition than bath product. That tension — medicinal aggression plus the sensory heat of a long soak — is the whole brand proposition delivered purely through color. Typography couldn't be reliably extracted from the live site (fonts load via JavaScript, only "inherit" and "swiper-icons" surfaced), but the brand voice ("Stress Destroying," "Anxiety, Insomnia, Aches") demands a wide, heavy grotesque — all-caps utility labels, not serene calligraphy. Full-pill shapes (`{rounded.full}`) on buttons and badges carry the brand's anti-softness stance: stress relief here is an act, not a ritual. The Swiper-based carousel architecture (visible from the font stack) signals a mobile-first product browsing experience. CTAs in chartreuse on dark navy achieve contrast ratios well above WCAG AA with zero softening — the brand's refusal to mute its primary is a deliberate signal that passive wellness is not the offer. A secondary lime (#f0ff96) provides a gentler tint for hover states and callout backgrounds, while the warm cream canvas gives product photography room without the clinical coldness of pure white. Alert red (#cc0000) reserved for urgency — sold-out flags, limited inventory — makes every other color in the system feel calm by contrast, a kind of chromatic hierarchy that mirrors the brand's core logic: name the stressor, then eliminate it.
 
@@ -307,6 +311,13 @@ components:
 - Hero subhead may be hidden at smallest mobile breakpoint to preserve headline impact
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

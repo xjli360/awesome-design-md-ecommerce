@@ -4,6 +4,10 @@ name: "Brilliant"
 source_url: "https://brilliant.tech"
 captured_at: "2026-09-28T04:52:03.942117+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Brilliant's public storefront pairs a white canvas (#ffffff) with a near-black
   ink (#1a1919) for body copy, matching the `body { background-color:#fff }`
@@ -157,6 +161,12 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be a minimum 40px height (matching the observed `.smart-apartment__tab-button` height of 40px); the hamburger/nav collapse point is proposed at 1024px since no explicit media query values were included in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered layout, real interaction states (hover/focus/active beyond the two documented), or JavaScript-driven behavior (tabs, cart drawer, quiz) were observed directly. CSS custom properties such as `--color-primary`, `--color-body-text-primary`, and `--color-background-primary` were referenced but not resolved to literal values in the evidence, so mappings to `primary`, `body`, and `ink` are best-effort inferences from adjacent hover/text rules. Several palette colors (cyan, violet, green, red) had no associated selectors and are speculative role assignments suited to a security/smart-home context. Font availability, licensing, and whether "Gotham A"/"Gotham B" are self-hosted or third-party licensed webfonts were not verified — generic sans-serif fallbacks are assumed available. All numeric spacing, radius, and unlabeled typography sizes beyond the directly observed 42px/32px/28px/16px/12px/11px values are proposed defaults, not measured site values. Mobile/responsive collapse behavior is a recommendation only.

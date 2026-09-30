@@ -4,6 +4,10 @@ name: "Traeger"
 source_url: "https://www.traegergrills.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Burnt orange (#d95e16) hits like the first lick of flame inside a preheated barrel — it is Traeger's singular brand voltage, present on every primary CTA, promo badge, and temperature dial accent across the site. The canvas is never clinical white; it sits at a smoky off-white (#f6f4f3) with warm taupe undertones (#d4d2ca, #b4aca6) that evoke ash-dusted steel and weathered hardwood. Knockout — Hoefler&Co's ultra-condensed gothic — dominates display headlines in weights 46 through Banner, delivering the verticality and compression of stenciled text on industrial equipment. Body copy drops to Roboto at 400/500 weight, a workhorse sans-serif that stays legible against those warm-neutral backgrounds. The type scale punches hard at the top — display headlines often hit 48–72px in Knockout-68 with heavy letterspacing — then compresses fast into modest 14–16px body. Corner radii are restrained: product cards use `{rounded.xs}` to `{rounded.sm}`, buttons sit at `{rounded.xs}`, and only pill badges or toggle chips reach `{rounded.full}`. The palette's depth lives in its neutral range — six distinct warm grays between #e9e9e6 and #393939 create layered surfaces without a single cool blue-gray in sight. Secondary accent orange (#e9ae85) and a red band (#e03d24 for sale states, #b72a1c on hover) extend the fire spectrum, while a single bright green (#3ce783) signals availability and success. Navigation is dark and dense (#25282a background, white text, Knockout-48 uppercase links), reinforcing the brand's tool-catalog DNA over lifestyle softness. Spacing is generous at the section level (`{spacing.section}` = 64px between content blocks) but tight within product grid cells, packing grill imagery edge-to-edge with only `{spacing.sm}` gutters.
 
@@ -426,6 +430,13 @@ components:
 - Footer columns collapse from 4 → 2 → 1 as viewport narrows
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

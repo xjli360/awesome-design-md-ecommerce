@@ -4,6 +4,10 @@ name: "Yanagisawa"
 source_url: "https://www.yanagisawasax.co.jp"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A precision instrument maker whose digital presence mirrors the exacting craft of its saxophones — the extracted palette reveals a system built on deep indigo (#0062cc) as the primary voltage, a color that reads as both technical authority and artistic depth, far from the expected brass-and-gold clichés of wind instrument branding. The site operates on a clean hierarchy of slate grays (#545b62 for body text, #dae0e5 for hairline strokes) against a white canvas, with #1e7e34 and #117a8b appearing as secondary accents that suggest the verdant patina of aged instrument cases and the cool breath of polished metal. The typography stack defaults to system-native faces — Segoe UI, Roboto, Helvetica Neue — a pragmatic choice that prioritizes legibility across devices over decorative flourish, much like a saxophone's keywork prioritizes function before form. Buttons carry the full indigo weight at 48px height with 12px rounded corners, while secondary actions slip into outline mode with the same slate body color. The nav bar sits at 64px, a compact but confident header that lets the product imagery — the true hero of this brand — command the viewport. There is no extraneous ornament; every pixel serves the object. The brand's voice is not loud; it is the quiet hum of a perfectly tuned instrument waiting to be played.
 
@@ -393,6 +397,13 @@ components:
 - Secondary navigation (breadcrumbs, sub-category filters) hides on mobile, accessible via a "Filter" button
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Blaklader"
 source_url: "https://blaklader.com"
 captured_at: "2026-09-28T09:38:23.718641+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Blåkläder's storefront pairs a stark black-and-white industrial base with a
   single high-visibility brand yellow (#ffe000, exposed as --color-yellow and
@@ -165,6 +169,12 @@ components:
 Touch targets should be at least 44×44px for hotspot triggers and nav items. Mega-menu items should collapse into accordions on mobile. None of this collapse/interaction behavior was directly observed; it is proposed based on standard responsive patterns and the grid-column tokens present in the CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

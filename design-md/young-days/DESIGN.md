@@ -4,6 +4,10 @@ name: "Young Days"
 source_url: "https://youngdays.com"
 captured_at: "2026-09-29T04:17:04.446423+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Young Days is a direct-to-consumer organic baby and toddler clothing brand
   built around a warm, neutral-first palette accented with playful color.
@@ -172,6 +176,12 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be a minimum 44×44px for size-selector chips and add-to-cart buttons. Mobile category/size filters are proposed to collapse into an accordion or bottom-sheet pattern rather than the desktop mega-menu, given the deep category/size nesting seen in the page text (Baby/Kids × category × size). No mobile layout, hover, or breakpoint values were observed in the supplied CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

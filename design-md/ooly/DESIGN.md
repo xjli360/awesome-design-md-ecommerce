@@ -4,6 +4,10 @@ name: "Ooly"
 source_url: "https://www.ooly.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A cheerful, low-friction arts-and-crafts marketplace that runs on a near-monochrome base of #dedede, #222222, and #121212—a palette that reads as a clean, uncluttered sketchbook page rather than a colorful toy store. The brand’s primary voltage is not a single saturated hue but the contrast between a warm off-white canvas and a near-black ink, letting the actual product photography (markers, paints, clay, stickers) supply all the chroma. Poppins, a geometric sans-serif with a friendly circular “O” and open apertures, runs at modest weights (400–600) across the site; display sizes hover around 24px rather than shouting, and body copy at 14px keeps the reading rhythm quick. Buttons are pill-shaped (`{rounded.full}`) with 48px height and generous 16px horizontal padding, giving them a squishy, approachable feel that matches the “Create your happy!” tagline. The top navigation is a simple, centered logo flanked by icon-only links (search, account, cart) with no dropdowns—everything feels like a single-page app for browsing. Product cards use a soft `{rounded.md}` (12px) corner, a white `{surface-card}` background, and a thin `{hairline}` border (#dedede) that keeps the grid airy. The search bar is a full-width pill with a `{rounded.full}` radius and a subtle `{hairline-soft}` border, placed prominently below the hero. The overall impression is of a brand that trusts its product to be the color, and uses typography and whitespace as the quiet, reliable frame.
 
@@ -336,6 +340,13 @@ components:
 - The hero section reduces vertical padding by half on mobile to conserve screen space.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

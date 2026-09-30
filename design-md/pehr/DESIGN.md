@@ -4,6 +4,10 @@ name: "Pehr"
 source_url: "https://pehr.com"
 captured_at: "2026-09-28T10:17:22.311015+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Pehr's storefront CSS shows a restrained, black-and-white foundation layered
   with a single recurring sage-teal tone. Solid buttons and outline-button
@@ -166,6 +170,12 @@ components:
 Touch targets should meet a minimum 44×44px hit area, consistent with the observed `--wk-button-min-height: 45px`. Header mega-menu collapse to an off-canvas or accordion pattern on mobile is a recommendation based on the size of the supplied navigation taxonomy, not a measured behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

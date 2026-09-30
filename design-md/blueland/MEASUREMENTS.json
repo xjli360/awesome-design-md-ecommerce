@@ -1,0 +1,1121 @@
+{
+  "schema_version": 1,
+  "source_url": "https://www.blueland.com/",
+  "method": "browser-computed-components",
+  "viewports": [
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "New: Lavender Sage Laundry Tablets\n\n|\n\nShop New Drop →\n\nNew:",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1000
+          },
+          "styles": {
+            "color": "rgb(11, 16, 87)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "17px",
+            "font-weight": "400",
+            "line-height": "24.14px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#main-header",
+          "label": "New: Lavender Sage Laundry Tablets\n\n|\n\nShop New Drop →\n\nNew:",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 105
+          },
+          "styles": {
+            "color": "rgb(11, 16, 87)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "17px",
+            "font-weight": "400",
+            "line-height": "24.14px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "navigation",
+          "selector": "#main-navigation",
+          "label": "Header Menu",
+          "box": {
+            "x": 0,
+            "y": 40,
+            "width": 1440,
+            "height": 65
+          },
+          "styles": {
+            "color": "rgb(11, 16, 87)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "17px",
+            "font-weight": "400",
+            "line-height": "24.14px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "48px",
+            "padding-bottom": "0px",
+            "padding-left": "48px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "grid",
+            "gap": "8px",
+            "row-gap": "8px",
+            "column-gap": "8px",
+            "max-width": "1536px"
+          },
+          "occluded": false
+        },
+        {
+          "role": "heading",
+          "selector": "#mainContent > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "label": "The Coast We Keep Collection",
+          "box": {
+            "x": 124,
+            "y": 770.203125,
+            "width": 1192,
+            "height": 52.796875
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "48px",
+            "font-weight": "500",
+            "line-height": "52.8px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "section-heading",
+          "selector": "#mainContent > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "label": "Shop By Category",
+          "box": {
+            "x": 546.5,
+            "y": 1072,
+            "width": 347,
+            "height": 48
+          },
+          "styles": {
+            "color": "rgb(11, 16, 87)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "40px",
+            "font-weight": "500",
+            "line-height": "48px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "body-copy",
+          "selector": "#mainContent > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) > p:nth-of-type(1)",
+          "label": "The Coast We Keep Collection",
+          "box": {
+            "x": 124,
+            "y": 770.203125,
+            "width": 1192,
+            "height": 52.796875
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "48px",
+            "font-weight": "500",
+            "line-height": "52.8px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#mainContent > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "Shop Now",
+          "box": {
+            "x": 617.890625,
+            "y": 888,
+            "width": 204.21875,
+            "height": 48
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(19, 60, 209)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "17px",
+            "font-weight": "400",
+            "line-height": "24.14px",
+            "letter-spacing": "normal",
+            "padding-top": "16px",
+            "padding-right": "56px",
+            "padding-bottom": "16px",
+            "padding-left": "56px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "9999px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(19, 60, 209)",
+            "display": "inline-flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#mainContent > section:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "label": "Shop all",
+          "box": {
+            "x": 652.265625,
+            "y": 2864.703125,
+            "width": 135.453125,
+            "height": 40
+          },
+          "styles": {
+            "color": "rgb(19, 60, 209)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "17px",
+            "font-weight": "400",
+            "line-height": "24.14px",
+            "letter-spacing": "normal",
+            "padding-top": "12px",
+            "padding-right": "32px",
+            "padding-bottom": "12px",
+            "padding-left": "32px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "9999px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(19, 60, 209)",
+            "display": "inline-flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > footer:nth-of-type(1)",
+          "label": "Even our emails are cleaner\n\nNo spam ever—just exclusive off",
+          "box": {
+            "x": 0,
+            "y": 8124.625,
+            "width": 1440,
+            "height": 606.921875
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(19, 60, 209)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "17px",
+            "font-weight": "400",
+            "line-height": "24.14px",
+            "letter-spacing": "normal",
+            "padding-top": "40px",
+            "padding-right": "48px",
+            "padding-bottom": "40px",
+            "padding-left": "48px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0057/9158/0227/files/PowerDuo-Laundry-Homepage-Infinite.gif?v=1785865373&width=400&height=226&crop=center",
+          "alt": "",
+          "width": 475,
+          "height": 268
+        },
+        {
+          "url": "https://cdn.shopify.com/videos/c/o/v/bc4cc43c8cc94a819193b805ec3f1045.mp4",
+          "alt": "",
+          "width": 0,
+          "height": 0
+        }
+      ],
+      "document_width": 1440,
+      "viewport": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 1000
+      },
+      "states": {
+        "initial": "observed",
+        "hover": {
+          "selector": "#mainContent > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(19, 60, 209)",
+            "borderColor": "rgb(19, 60, 209)",
+            "outline": "rgb(255, 255, 255) none 3px"
+          }
+        },
+        "focus": {
+          "selector": "#mainContent > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(251, 251, 253)",
+            "backgroundColor": "rgb(23, 63, 210)",
+            "borderColor": "rgb(19, 59, 208)",
+            "outline": "rgb(19, 60, 209) solid 2px"
+          }
+        },
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-desktop.png",
+        "sha256": "8b91045264375160cd7d52ee1291d5f316cb4bf41918d2ca2cfa4919f6b0af4f",
+        "public_path": "evidence/viewport-desktop.png"
+      }
+    },
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "New: Lavender Sage Laundry Tablets\n\n|\n\nShop New Drop →\n\nNew:",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 1024
+          },
+          "styles": {
+            "color": "rgb(11, 16, 87)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "21.3px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#main-header",
+          "label": "New: Lavender Sage Laundry Tablets\n\n|\n\nShop New Drop →\n\nNew:",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 94
+          },
+          "styles": {
+            "color": "rgb(11, 16, 87)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "21.3px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "navigation",
+          "selector": "#main-navigation",
+          "label": "Header Menu",
+          "box": {
+            "x": 0,
+            "y": 38,
+            "width": 768,
+            "height": 56
+          },
+          "styles": {
+            "color": "rgb(11, 16, 87)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "21.3px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "56px",
+            "padding-bottom": "0px",
+            "padding-left": "56px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "grid",
+            "gap": "20px",
+            "row-gap": "20px",
+            "column-gap": "20px",
+            "max-width": "976px"
+          },
+          "occluded": false
+        },
+        {
+          "role": "heading",
+          "selector": "#mainContent > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "label": "The Coast We Keep Collection",
+          "box": {
+            "x": 32,
+            "y": 783.453125,
+            "width": 704,
+            "height": 48.390625
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "44px",
+            "font-weight": "500",
+            "line-height": "48.4px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "section-heading",
+          "selector": "#mainContent > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "label": "Shop By Category",
+          "box": {
+            "x": 245.1875,
+            "y": 1097.84375,
+            "width": 277.609375,
+            "height": 38.390625
+          },
+          "styles": {
+            "color": "rgb(11, 16, 87)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "32px",
+            "font-weight": "500",
+            "line-height": "38.4px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "body-copy",
+          "selector": "#mainContent > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) > p:nth-of-type(1)",
+          "label": "The Coast We Keep Collection",
+          "box": {
+            "x": 32,
+            "y": 783.453125,
+            "width": 704,
+            "height": 48.390625
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "44px",
+            "font-weight": "500",
+            "line-height": "48.4px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#mainContent > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "label": "Shop Now",
+          "box": {
+            "x": 325.3125,
+            "y": 915.84375,
+            "width": 117.375,
+            "height": 38
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(19, 60, 209)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "21.3px",
+            "letter-spacing": "normal",
+            "padding-top": "12px",
+            "padding-right": "24px",
+            "padding-bottom": "12px",
+            "padding-left": "24px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "9999px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(19, 60, 209)",
+            "display": "inline-flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#mainContent > section:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "label": "Shop all",
+          "box": {
+            "x": 328.375,
+            "y": 2884.109375,
+            "width": 111.25,
+            "height": 38
+          },
+          "styles": {
+            "color": "rgb(19, 60, 209)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "21.3px",
+            "letter-spacing": "normal",
+            "padding-top": "12px",
+            "padding-right": "24px",
+            "padding-bottom": "12px",
+            "padding-left": "24px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "9999px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(19, 60, 209)",
+            "display": "inline-flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > footer:nth-of-type(1)",
+          "label": "Even our emails are cleaner\n\nNo spam ever—just exclusive off",
+          "box": {
+            "x": 0,
+            "y": 6840.5625,
+            "width": 768,
+            "height": 991.46875
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(19, 60, 209)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "21.3px",
+            "letter-spacing": "normal",
+            "padding-top": "32px",
+            "padding-right": "32px",
+            "padding-bottom": "32px",
+            "padding-left": "32px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0057/9158/0227/files/PowerDuo-Laundry-Homepage-Infinite.gif?v=1785865373&width=400&height=226&crop=center",
+          "alt": "",
+          "width": 768,
+          "height": 433
+        },
+        {
+          "url": "https://cdn.shopify.com/videos/c/o/v/bc4cc43c8cc94a819193b805ec3f1045.mp4",
+          "alt": "",
+          "width": 0,
+          "height": 0
+        }
+      ],
+      "document_width": 768,
+      "viewport": {
+        "name": "tablet",
+        "width": 768,
+        "height": 1024
+      },
+      "states": {
+        "initial": "observed",
+        "hover": {
+          "selector": "#mainContent > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(19, 60, 209)",
+            "borderColor": "rgb(19, 60, 209)",
+            "outline": "rgb(255, 255, 255) none 3px"
+          }
+        },
+        "focus": {
+          "selector": "#mainContent > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(254, 254, 255)",
+            "backgroundColor": "rgb(20, 61, 209)",
+            "borderColor": "rgb(19, 60, 209)",
+            "outline": "rgb(19, 60, 209) solid 2px"
+          }
+        },
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-tablet.png",
+        "sha256": "fea67599d8150ca33d46ddc600f3168f2ef9de3ce06a41bccfad6bd6b91a3120",
+        "public_path": "evidence/viewport-tablet.png"
+      }
+    },
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "New: Lavender Sage Laundry Tablets\n\nShop New Drop →\n\nNew: Th",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 844
+          },
+          "styles": {
+            "color": "rgb(11, 16, 87)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "19.88px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#main-header",
+          "label": "New: Lavender Sage Laundry Tablets\n\nShop New Drop →\n\nNew: Th",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 94
+          },
+          "styles": {
+            "color": "rgb(11, 16, 87)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "19.88px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "navigation",
+          "selector": "#main-navigation",
+          "label": "Header Menu",
+          "box": {
+            "x": 0,
+            "y": 54,
+            "width": 390,
+            "height": 40
+          },
+          "styles": {
+            "color": "rgb(11, 16, 87)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "19.88px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "24px",
+            "padding-bottom": "0px",
+            "padding-left": "24px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "grid",
+            "gap": "20px",
+            "row-gap": "20px",
+            "column-gap": "20px",
+            "max-width": "735px"
+          },
+          "occluded": false
+        },
+        {
+          "role": "heading",
+          "selector": "#mainContent > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "label": "The Coast We Keep Collection",
+          "box": {
+            "x": 24,
+            "y": 606,
+            "width": 342,
+            "height": 66
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "30px",
+            "font-weight": "500",
+            "line-height": "33px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "section-heading",
+          "selector": "#mainContent > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "label": "Shop By Category",
+          "box": {
+            "x": 82.21875,
+            "y": 908,
+            "width": 225.5625,
+            "height": 31.1875
+          },
+          "styles": {
+            "color": "rgb(11, 16, 87)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "26px",
+            "font-weight": "500",
+            "line-height": "31.2px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "body-copy",
+          "selector": "#mainContent > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) > p:nth-of-type(1)",
+          "label": "The Coast We Keep Collection",
+          "box": {
+            "x": 24,
+            "y": 606,
+            "width": 342,
+            "height": 66
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "30px",
+            "font-weight": "500",
+            "line-height": "33px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#mainContent > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "label": "Shop Now",
+          "box": {
+            "x": 136.3125,
+            "y": 768,
+            "width": 117.375,
+            "height": 36
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(19, 60, 209)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "19.88px",
+            "letter-spacing": "normal",
+            "padding-top": "12px",
+            "padding-right": "24px",
+            "padding-bottom": "12px",
+            "padding-left": "24px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "9999px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(19, 60, 209)",
+            "display": "inline-flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#mainContent > section:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "label": "Shop all",
+          "box": {
+            "x": 139.375,
+            "y": 2723.984375,
+            "width": 111.25,
+            "height": 36
+          },
+          "styles": {
+            "color": "rgb(19, 60, 209)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "19.88px",
+            "letter-spacing": "normal",
+            "padding-top": "12px",
+            "padding-right": "24px",
+            "padding-bottom": "12px",
+            "padding-left": "24px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "9999px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(19, 60, 209)",
+            "display": "inline-flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > footer:nth-of-type(1)",
+          "label": "Even our emails are cleaner\n\nNo spam ever—just exclusive off",
+          "box": {
+            "x": 0,
+            "y": 7168.5,
+            "width": 390,
+            "height": 976
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(19, 60, 209)",
+            "font-family": "Sailec, \"Sailec Fallback\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "19.88px",
+            "letter-spacing": "normal",
+            "padding-top": "32px",
+            "padding-right": "24px",
+            "padding-bottom": "32px",
+            "padding-left": "24px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0057/9158/0227/files/PowerDuo-Laundry-Homepage-Infinite.gif?v=1785865373&width=400&height=226&crop=center",
+          "alt": "",
+          "width": 390,
+          "height": 220
+        },
+        {
+          "url": "https://cdn.shopify.com/videos/c/o/v/bc4cc43c8cc94a819193b805ec3f1045.mp4",
+          "alt": "",
+          "width": 0,
+          "height": 0
+        }
+      ],
+      "document_width": 390,
+      "viewport": {
+        "name": "mobile",
+        "width": 390,
+        "height": 844
+      },
+      "states": {
+        "initial": "observed",
+        "hover": {
+          "selector": "#mainContent > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(19, 60, 209)",
+            "borderColor": "rgb(19, 60, 209)",
+            "outline": "rgb(255, 255, 255) none 3px"
+          }
+        },
+        "focus": {
+          "selector": "#mainContent > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(19, 60, 209)",
+            "borderColor": "rgb(19, 60, 209)",
+            "outline": "rgb(19, 60, 209) solid 2px"
+          }
+        },
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-mobile.png",
+        "sha256": "130269b8021ba2c6d34f435aeebc6be0020a8371de55ad2633ce3df69bcfdc99",
+        "public_path": "evidence/viewport-mobile.png"
+      }
+    }
+  ],
+  "visual_validation": {
+    "status": "not_performed",
+    "reason": "No implementation generated from DESIGN.md has been compared with the reference."
+  },
+  "brand_review": {
+    "decision": "matched_brand",
+    "reviewed_on": "2026-09-30",
+    "title": "Eco-Friendly Cleaning Products for Home | Blueland",
+    "final_url": "https://www.blueland.com/",
+    "capture_id": "d681031d338748eba9fd73a6d1d28fb1",
+    "expected_brand": "Blueland"
+  },
+  "requested_url": "https://www.blueland.com",
+  "captured_at": "2026-09-30T09:04:40.002155+00:00",
+  "capture_id": "d681031d338748eba9fd73a6d1d28fb1",
+  "landing_page_sha256": "6f12510bb9f3f2b96a558a255db6fdda1bef529dd9ec29d55e05563a92630c47"
+}

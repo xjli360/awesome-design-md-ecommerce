@@ -4,6 +4,10 @@ name: "FX Luminaire"
 source_url: "https://www.fxl.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every UI decision serves the same purpose as the fixtures themselves — to make the light the subject and let the housing recede. FX Luminaire operates in near-darkness by design: a deep obsidian canvas (#0C0C0C) anchors the entire system, with product photography occupying full-bleed hero frames where amber wash rakes across stone pathways and timber fascia at dusk. The primary accent, a warm amber (#C8843A), arrives precisely where a specification professional would place a fixture — marking active states, primary CTAs, and interactive highlights — while the surrounding interface holds in charcoal and cool-gray to avoid competing with the warmth of simulated light. Type runs a geometric sans-serif (Montserrat or a close equivalent), with display headings at 32–40px in weight 600 to project authority in specification contexts without tipping into decorative excess. Body copy drops to 13–15px with generous line-height for dense product-data grids: lumens output, beam-spread tables, color-temperature selectors, IP ratings. Corner radii are deliberately restrained — {rounded.xs} for form chrome, {rounded.sm} for cards, {rounded.none} wherever photography or technical drawings bleed — maintaining an architectural register that pill shapes would soften away. The product configurator, the core workflow for specification professionals, uses a stepped panel layout where fixture family, wattage, beam angle, and finish are each surfaced as a discrete selection tier, making the ordering logic visible without requiring a catalog reference. Hairlines at #2A2A2A divide content zones while the surface hierarchy (obsidian → charcoal → dark-card) creates readable depth without any light-mode canvas. The brand does not maintain a retail tone; there are no lifestyle promises, only specification confidence and photometric precision.
 
@@ -361,6 +365,13 @@ components:
 - Hero layouts shift from 50/50 split (desktop) to stacked image-above, copy-below (mobile) with the scrim removed in favor of a solid `{colors.canvas}` content block
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

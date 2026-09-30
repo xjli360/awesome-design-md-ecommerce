@@ -4,6 +4,10 @@ name: "Antigravity Batteries"
 source_url: "https://antigravitybatteries.com"
 captured_at: "2026-09-28T09:43:37.219332+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Antigravity Batteries sells lithium motorsports batteries, Micro-Start jump
   power supplies, Super-Chargers, and lithium deep-cycle/solar energy-storage
@@ -170,6 +174,14 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets for buttons and nav items should be at least 44×44px. Primary nav is expected to collapse into a hamburger/off-canvas menu below the tablet breakpoint; the search and account/cart icons likely persist in a condensed header bar. None of this has been observed in live rendering—only inferred from standard WooCommerce theme patterns.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

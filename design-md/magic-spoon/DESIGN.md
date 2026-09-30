@@ -4,6 +4,10 @@ name: "Magic Spoon"
 source_url: "https://magicspoon.com"
 captured_at: "2026-09-28T04:59:41.161219+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Magic Spoon's supplied CSS centers on a saturated violet-purple, #3f0791, used consistently as the button background, border, and CTA text color across both the review-widget (Okendo) custom properties and the site's own navigation components. White (#ffffff) serves as the on-primary and canvas color, with a hover treatment that swaps the primary pill into a pink-to-violet gradient (#d034a2 to #5222e3), suggesting an energetic, playful secondary accent pairing. The broader observed palette includes soft pastel tints (#bfefff, #dad9ff, #b2f9e9, #f3eeca, #faec76) that read as flavor-callout or badge backgrounds rather than core UI chrome; these are treated here as inferred accent/surface roles since no selectors confirm their usage. Body and helper text in the review widget use a cooler slate tone (#676986), which this spec assigns to the body role, alongside a darker inferred ink (#272d45) for headings. Typography draws on Poppins (confirmed in nav/button rules, uppercase, weight 700) for display and button text, Open Sans for body copy, and Saira Condensed as an inferred condensed headline alternate, all loaded on the page but not fully mapped to selectors. Rounded pill shapes (50px/100px observed) are generalized here as a "full" radius token. No live layout, spacing, or breakpoint behavior was observed; those below are proposed conventions consistent with a DTC snack/cereal subscription storefront.
 
@@ -162,6 +166,13 @@ The following breakpoints are a proposed convention, not measured from the live 
 Touch targets should be at minimum 44×44px, matching the observed 40px-tall nav CTA rounded up for accessibility. Mobile nav collapse into a slide-out/drawer pattern is inferred from the `mobile_slide` and `.mobile-menu` class names present in the CSS, but actual open/close animation and breakpoint pixel values were not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

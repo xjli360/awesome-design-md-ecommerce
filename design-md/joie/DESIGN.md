@@ -4,6 +4,10 @@ name: "Joie"
 source_url: "https://joiebaby.com"
 captured_at: "2026-09-29T04:21:28.886281+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from CSS and evidence captured on joiebaby.com/us, the parent-site
   presentation of Joie's car seats, strollers, and travel-system catalog. Observed CSS confirms a
@@ -159,6 +163,13 @@ This is a recommended breakpoint structure, not measured site behavior:
 Touch targets should be at least 44px in height for nav and buttons; the mobile nav toggle should expand/collapse a full-height overlay menu (proposed, not observed).
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Evidence is static CSS/text extraction; no rendered layout, computed styles, or interaction states (hover, focus, active, disabled) were observed.

@@ -4,6 +4,10 @@ name: "Bilstein"
 source_url: "https://bilstein.com"
 captured_at: "2026-09-28T04:58:25.126077+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   BILSTEIN's public site combines a technical, functional palette with a single vivid brand accent. The dominant surface is white (#ffffff) with dark ink (#182128) body text, supported by soft gray panels (#f4f5f7) and hairline dividers (#dae2e6) that separate content on an otherwise minimal ground. A saturated yellow (#ffdc00) is treated here as the primary accent, echoing BILSTEIN's historical yellow shock-absorber livery present in the supplied palette; this pairing is an inferred brand role, not a confirmed component capture. A secondary engineering blue (#0094d8, #014f89) is proposed for links and informational emphasis. Buttons are observed using solid black (#000000) and dark slate (#32373c) fills with white text, plus white-on-transparent outlined variants, all rendered with generous pill or rounded-rectangle radii per the .wp-block-button__link and .button-v2 rules. Headings use interstate-condensed at font-weight 800, a condensed, high-contrast display face well suited to automotive/technical branding; body copy is assumed to fall back to noto-sans, Helvetica, or Arial per the supplied font stack, since no explicit body-text selector was captured in the evidence. The resulting interpretation favors a dense, engineering-catalog aesthetic: flat surfaces, hard-edged imagery, condensed headlines, and restrained, high-contrast accent use against a largely monochrome UI shell.
 
@@ -150,6 +154,14 @@ This is a recommended breakpoint scheme, not a measured observation of the live 
 Touch targets should be at least 44×44px for buttons and nav items given the automotive/dealer-locator use case where users may search on mobile in a workshop or field context. Primary/secondary buttons should retain full pill shape at all sizes; outlined buttons should increase border contrast on small screens if the surrounding surface is dark.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

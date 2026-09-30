@@ -4,6 +4,10 @@ name: "Kamikoto"
 source_url: "https://kamikoto.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Kamikoto is a brand forged in the tradition of Japanese steel craftsmanship, where every pixel echoes the precision of a blade. The palette is anchored by a deep, almost-black ink (`#1e1e1e`) that serves as the primary canvas, creating a sense of gravity and focus. This is offset by a stark, pure white (`#ffffff`) for surfaces like cards and the main body, ensuring product imagery remains the hero. The primary action color is a restrained yet confident blue (`#1990c6`), with a deeper active state (`#136f99`) that feels like the patina on a well-used knife. Accents of a muted silver (`#a2a2a2`) and a warm, soft gray (`#dedede`) provide structure through hairline borders and subtle surface distinctions, while a single, sharp accent of crimson (`#dc143c`) is used sparingly for sale badges or critical alerts, mimicking the flash of a blade. The typography relies on the serifed elegance of 'Average', a choice that speaks to heritage and the written word of a master craftsman, rather than the cold efficiency of a modern sans-serif. Rounded corners are minimal and functional—the `{rounded.sm}` (8px) on buttons and `{rounded.md}` (12px) on cards provide a slight softening without compromising the brand's inherent sharpness. The overall feeling is one of a dimly lit, curated atelier: the `{colors.canvas}` is dark (`#1e1e1e`), the `{colors.surface-card}` is a lighter gray (`#252525`), and text is rendered in a clean white (`#dedede`) or a muted gray (`#a2a2a2`). This is not a brand of bright, airy spaces; it is one of focused, premium quality, where the product's own luster provides the light.
 
@@ -264,6 +268,13 @@ components:
 - The multi-column footer collapses into a single column, with accordion-style sections for links.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

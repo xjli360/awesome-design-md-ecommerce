@@ -4,6 +4,10 @@ name: "Dr. Dennis Gross"
 source_url: "https://drdennisgross.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A clinical yet warm skincare authority that communicates efficacy through a restrained palette anchored on near-black `#050505` and a signature electric orange `#fe6728` that pulses across primary calls-to-action, accent badges, and ingredient-highlight moments. The brand walks a deliberate line between medical credibility and approachable luxury — the deep ink `#1b1b1b` body text sits on a clean `#fafafa` canvas, while muted grays like `#53585b`, `#868a89`, and `#9da1a0` build hierarchy in product descriptions, ingredient lists, and secondary navigation. A secondary orange `#ff651b` and a cautionary red `#cc0000` appear in promotional badges and sale indicators, while unexpected accents of cyan `#b4d5fe`, mint `#4efac0`, and electric blue `#0018ff` surface in ingredient callout cards and before/after result highlights, suggesting a brand confident enough to break its own rules. Typography leans on a mix of Avenir Next Pro for clean, legible body copy and the serif warmth of JHATimesNow for aspirational display moments — a pairing that signals both dermatological precision and editorial sophistication. Buttons use `{rounded.sm}` (8px) for a soft but not pill-like feel, while product cards and ingredient modules adopt `{rounded.md}` (12px) for a modern, approachable edge. The overall mood is confident, results-driven, and slightly warm — a clinical brand that remembers to smile.
 
@@ -403,6 +407,13 @@ components:
 - Side-by-side product details (image + description) stack vertically below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

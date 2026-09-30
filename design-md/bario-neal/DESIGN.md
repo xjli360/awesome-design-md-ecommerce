@@ -4,6 +4,10 @@ name: "Bario Neal"
 source_url: "https://www.barioneal.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every ring in the Bario Neal catalog arrives against surfaces pale enough to read as the absence of color — a deliberate visual silence that concentrates the eye entirely on hand-formed metal and ethically sourced stone. The single extracted structural anchor is #313131, a dense charcoal that governs all typographic ink and border rules without tipping fully into pure black; this one shade carries the compositional weight that louder brands distribute across multi-color accent families. The surrounding palette is a warm neutral system — parchment whites (#f9f8f6) and clean canvas (#ffffff) that read closer to raw linen than clinical digital white, with hairlines at a barely-tinted off-tone (#e8e4de) that segment content without asserting territory.
 
@@ -312,6 +316,14 @@ components:
 - The hero's display-xl text scales down to the display-md size token below 744px to prevent overflow on short text containers.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

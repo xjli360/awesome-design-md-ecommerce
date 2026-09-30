@@ -4,6 +4,10 @@ name: "Kreg Tool"
 source_url: "https://kregtool.com"
 captured_at: "2026-09-28T04:20:00.678787+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Kreg Tool's public storefront runs on a Salesforce Commerce Cloud (Demandware) theme with Bootstrap-derived utility classes layered under a custom brand palette. The CSS root variables declare a primary corporate blue (#004c97) alongside a warm secondary gold (#dea037), a teal success tone (#008574), and a brown-toned danger/utility color (#612c17), all sitting on a neutral gray-scale system (#3a3a3a body text, #6c757d muted, #dee2e6 hairlines, #343a40 dark). Body copy renders in Montserrat with sans-serif fallback at a relaxed 1.625 line-height; monospace stacks (Consolas, Menlo, Courier New) appear only in code/utility contexts and are not treated as brand type. Button radius is explicitly observed at .1875rem (3px), informing the "sm" rounding token.
   This interpretation proposes a tool-and-hardware retail aesthetic: confident primary blue for calls-to-action and navigation accents, gold/warning tones reserved for promotional badges and sale pricing, and generous neutral surface tints (#f4f4f4, #e9f0f6) for card and section separation. Heading weight, hierarchy sizing, and several component states below are inferred design proposals, not measured page observations, since only CSS rules and a color/font inventory were supplied.
@@ -154,6 +158,13 @@ components:
 Touch targets should meet a minimum ~44px hit area for buttons and nav items (padding derived from `spacing.md`/`spacing.lg`). Primary navigation should collapse into a toggled drawer below the `md` breakpoint; search and cart icons should remain persistently visible.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Thule"
 source_url: "https://thule.com"
 captured_at: "2026-09-28T09:57:29.549082+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is built from Bootstrap-derived utility CSS and a small
   set of Thule-specific neutral and muted-outdoor tones served from
@@ -174,6 +178,13 @@ Recommended breakpoints (not measured from thule.com, proposed for a Bootstrap-b
 Touch targets should be at minimum 44×44px for primary buttons and nav items. Navigation is expected to collapse to an off-canvas or hamburger menu below `md`. This table is a design recommendation based on standard Bootstrap breakpoint tokens found in the CSS, not a record of observed responsive behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

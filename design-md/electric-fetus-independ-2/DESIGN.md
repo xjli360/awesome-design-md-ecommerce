@@ -4,6 +4,10 @@ name: "Electric Fetus"
 source_url: "https://www.electricfetus.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, dark storefront of possibility, Electric Fetus uses a black canvas (#000000) as its primary gesture — not as a background convenience but as the deliberate, enveloping atmosphere of a record store’s interior where every album sleeve, poster, and fixture becomes the focal point. The brand’s single voltage is a vivid, saturated magenta (#c6007e) that appears in primary CTAs, sale badges, and category highlights, cutting through the darkness like a neon sign in a basement window. With only Arial as the declared typeface, the site leans on weight contrast — bold, condensed headings at 28px sit above light-weight body copy at 14px — creating a utilitarian, no-nonsense hierarchy that lets product photography and album art do the emotional work. Search is a full-width, pill-shaped field (`{rounded.full}`) with a dark background and white text, suggesting the brand trusts discovery over navigation. Product cards use a soft white surface (`{colors.surface-card}`) against the black page, with thin, 1px hairlines (`{colors.hairline}`) separating items in grid and list views. The overall mood is that of a late-night crate-digging session: low light, high signal, and the occasional fluorescent burst of magenta.
 
@@ -266,6 +270,13 @@ components:
 - The footer collapses from a multi-column layout to a single column on mobile, with links stacked vertically.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

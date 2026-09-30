@@ -4,6 +4,10 @@ name: "The Rare Whiskey Shop"
 source_url: "https://therarewhiskeyshop.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every bottle at The Rare Whiskey Shop arrives framed by a near-black cellar ground — #0e1311, three degrees below the #111111 site theme-color hint, a darkness that reads as vault rather than dark mode. Against that depth a single electric teal (#11b1a7) carries every interactive surface: add-to-cart buttons, hovered nav links, active filter chips, search submission, account actions, and in-stock availability indicators. The contrast is severe by design — a cold neon signal over stored bourbon, the digital equivalent of a single inspection lamp in a bonded warehouse. Two typefaces divide the page into editorial and commerce registers: Tenor Sans, a text-weight serif with long open ascenders, names bottles at 52px with near-zero tracking so that "Pappy Van Winkle 23-Year" carries auction-catalog authority; Outfit, a geometric sans with condensed proportions, covers all UI chrome — navigation links, filter labels, uppercase CTA caps, form fields — keeping every bottle name from reading like a menu item. A full amber gradient family codes the liquid itself: from warm gold (#ffb846) through burnt sienna (#e16f27) to deep copper (#d05b2e), the pour-spectrum appears in tasting-note color bands, pour-line decorative elements, and rating bar fills. Coral (#e7656e) and red-orange (#ff4f33) handle low-stock and alert callouts; deep crimson (#c20000) overlays sold-out bottles with a subdued warning register. Body copy runs in #e8e8e1, a warm near-ivory that reads like aged paper rather than a clinical screen — a temperature match for the bourbon context. Surface depth steps through dark registers — #1c1d1d for secondary panels, #231f20 for product cards, #2b2b2b for elevated controls and whiskey badge borders — each step barely perceptible in isolation but collectively giving the layout dimension without breaking the vault aesthetic. Buttons and cards share {rounded.sm} corners throughout; only pill-shaped collection-filter tags and review score chips reach {rounded.full}; everywhere else geometry holds close to rectilinear, echoing the hard edges of distillery label printing.
 
@@ -329,6 +333,13 @@ components:
 - Footer columns stack single-column below 744px with 32px gap between sections
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

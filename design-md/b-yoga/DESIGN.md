@@ -4,6 +4,10 @@ name: "B Yoga"
 source_url: "https://byoganow.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A mustard-yellow #e9be33 voltage runs through B Yoga’s digital presence — not as a background wash but as the single accent that pulls the eye to CTAs, price tags, and active states against a deep charcoal #31373d body and a clean #eaeaea canvas. The palette is deliberately restrained: three neutrals (charcoal, medium gray #6c6c6c, and warm off-white) plus one blue #479ccf that surfaces in secondary links and subtle dividers, creating a quiet tension between the earthy yellow and the cooler blue. Typography stays in the Arial/Helvetica system stack, a pragmatic choice that keeps the focus on the yoga practice itself rather than on brand typographic flair. Buttons are compact and softly rounded (`{rounded.sm}`), navigation is lean with a single-level menu, and product cards use generous `{spacing.lg}` padding to let the imagery breathe. The overall feeling is that of a studio that knows its value — warm, direct, and uncluttered — where the yellow acts like a single beam of sunlight hitting a mat.
 
@@ -311,6 +315,14 @@ components:
 - Search bar moves from inline in nav to full-width below nav on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

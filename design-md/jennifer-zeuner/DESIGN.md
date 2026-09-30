@@ -4,6 +4,10 @@ name: "Jennifer Zeuner"
 source_url: "https://www.jenniferzeuner.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Neon pink bleeds through a white canvas like spilled nail lacquer — Jennifer Zeuner's signature #ea1298 magenta saturates every primary CTA, active badge, and hover state against the brand's crisp off-white scaffolding. The palette refuses simple femininity: hot pink sits alongside deep teal (#108474), a shade more associated with apothecary signage than costume jewelry, and acid gold (#fbcd0a) that reads closer to contemporary art than bridal. A softer lavender (#a89cc8) and muted mint (#c1e6e6) emerge in promotional sections and category tints, giving the color vocabulary range without the monoculture of most jewelry brands at this price point. The brightest variant, #ff0890, surfaces in hover moments and sale callouts — a single step hotter than the base primary, extending the pink register into something genuinely electric rather than just coral-adjacent.
 
@@ -345,6 +349,13 @@ components:
 - Footer columns: single stacked accordion on mobile; 3-column grid on desktop; column order preserved
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

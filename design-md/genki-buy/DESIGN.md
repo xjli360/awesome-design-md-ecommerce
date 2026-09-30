@@ -4,6 +4,10 @@ name: "Genki Buy"
 source_url: "https://www.genkibuy.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A high-performance PC and peripherals import shop that wears its Japanese-gaming enthusiasm on its sleeve through a deep indigo primary (#003388) — a color that reads as midnight-blue confidence rather than corporate navy, and appears across header bars, category badges, and primary CTAs. The palette leans cool and technical: a secondary blue (#0274be) for interactive hover states, a near-black ink (#222222) for body copy, and a sharp accent red (#fd1949) that snaps attention to sale tags, stock warnings, and limited-edition indicators. Surfaces stack from a clean white canvas (#fafafa) through soft grays (#efefef, #f1f1f1) to a darker surface (#e6e6e6) for footer and secondary panels, creating a layered hierarchy that feels like a well-organized electronics catalog. Typography runs Montserrat for display headings — a geometric sans-serif that echoes the angular lines of PC hardware — with Open Sans for body text, both set at moderate weights (400–600) to keep the interface readable during long browsing sessions. Product cards use `{rounded.sm}` corners and thin `{colors.hairline}` borders, while the search bar and primary CTA buttons adopt `{rounded.md}` for a slightly softer, approachable feel. The brand’s distinctive purple accent (#221155) appears sparingly — in the logo mark, selected navigation elements, and the "Genki" wordmark — adding a subtle otaku-culture nod without overwhelming the technical aesthetic. Checkout flows and cart summaries sit on `{colors.surface-card}` white with `{colors.hairline-soft}` dividers, keeping the transaction experience clean and trustworthy. The overall impression is of a store that knows its audience: enthusiasts who appreciate both raw specs and thoughtful design, where every pixel serves the goal of getting the right GPU or mechanical keyboard into the cart.
 
@@ -381,6 +385,13 @@ components:
 - Search bar collapses from full input to icon-only on mobile, expanding on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

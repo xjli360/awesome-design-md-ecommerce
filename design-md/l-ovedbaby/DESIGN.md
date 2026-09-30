@@ -4,6 +4,10 @@ name: "L'ovedbaby"
 source_url: "https://lovedbaby.com"
 captured_at: "2026-09-28T09:07:09.943313+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   L'ovedbaby is a Shopify-based storefront (Prestige-family theme, evidenced by
   --colorBtnPrimary custom properties, flickity carousels, and hotspot modules)
@@ -167,6 +171,13 @@ components:
 Recommended breakpoints (not measured from the site): mobile up to 749px, tablet 750–999px, desktop 1000px+. Below 750px, the multi-level `.site-nav` is expected to collapse into the observed `#NavDrawer .mobile-nav` drawer pattern (evidenced by matching mobile-nav selectors mirroring desktop nav color rules), with the hamburger and cart icons remaining in a fixed top bar. Touch targets for nav items, buttons, and badges should be at least 44×44px. Hero carousel controls (`.flickity-button`) should scale down and remain thumb-reachable near the image edges on mobile. This section is a recommendation based on theme conventions, not observed responsive behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

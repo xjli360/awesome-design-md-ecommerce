@@ -4,6 +4,10 @@ name: "SheetLabels.com"
 source_url: "https://www.sheetlabels.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The #0096ff anchoring SheetLabels.com is the rarest kind of primary color choice — one that earns its saturation. Full-voltage blue, not the softened cobalt most e-commerce platforms reach for when they want "trustworthy," but a signal-pure hue that reads as clickable before the eye finishes forming the thought. Against a white (#ffffff) canvas that matches the meta theme-color precisely, it functions as directional infrastructure: every CTA, nav item, link underline, and filter toggle runs in that same blue, making the interactive layer spatially legible even under the dense SKU grids a label buyer needs. The counterweight is #da532c, a warm orange-red deployed narrowly for urgency — promotional banners, sale price overrides, and inventory-low callouts — a color temperature that fires at a different frequency than the blue and never competes with it. SheetLabels.com sells to buyers who arrive with a spec in hand: sheet dimensions, material grade, perforation layout, die-cut shape. The catalog is built for specification-first navigation rather than lifestyle discovery — cards expose label dimensions, per-sheet counts, and material badges in the thumbnail zone; mega-menu navigation surfaces the full shape-and-substrate taxonomy before a search query is typed; configurator panels on detail pages lead with dimensions and quantity-break pricing tables rather than brand imagery. No custom typeface was recoverable from the extracted site data, suggesting either a system-ui rendering path or font assets behind bot-protection, so the design system defaults to a clean geometric sans-serif stack and relies on weight contrast — bold SKU codes and dimension strings, medium CTAs, regular descriptive copy — to establish hierarchy without a signature typeface. Corners run at modest radii (`{rounded.xs}` to `{rounded.sm}`) throughout: functional enough to soften the grid without veering toward the pill-and-blob vocabulary of consumer wellness brands. Spacing compresses to `{spacing.base}` gutters in product grids to maximize above-fold SKU density, the defining behavioral signal that this is a catalog built for efficiency over delight.
 
@@ -363,6 +367,13 @@ components:
 - Footer: 4-column layout at desktop, 2-column at tablet, single-column accordion at mobile with each section collapsible
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

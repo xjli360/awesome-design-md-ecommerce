@@ -4,6 +4,10 @@ name: "Gardyn"
 source_url: "https://mygardyn.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The palette arrives before the product pitch: #123c2e, a near-black forest green pulled from the deepest strata of a mature canopy, faces off against #fff8f2, a cream that reads like afternoon light filtering through greenhouse film. Between them, Gardyn positions two shot-of-energy accents — #ffa763, a harvest orange that appears on primary CTAs and urgency banners, and #c6ea5f, a young-leaf lime reserved for plant-variety badges and quantity indicators. The structural contrast between dark botanical authority and fresh-produce brightness is the brand's signature voltage: it suggests both the precision of hydroponic science and the pleasure of a Tuesday-morning harvest in your own kitchen.
 
@@ -430,6 +434,13 @@ components:
 - Footer: single-column stacked on mobile with accordion-toggle headings → 4-column grid at desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

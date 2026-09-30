@@ -4,6 +4,10 @@ name: "Makeblock"
 source_url: "https://www.makeblock.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A dark, industrial engineering canvas (#121212) and a crisp silver-gray (#dedede) form the primary voltage of Makeblock, a brand that treats its STEM audience as builders rather than browsers. The near-black background, paired with a secondary gray (#171414) for surface depth, signals workshop-grade seriousness — this is not a pastel children's toy brand but a platform for robotics, laser cutters, and programmable hardware. The brand's typographic voice runs on Montserrat for display and Lato for body, both geometric sans-serifs that echo the precision of CNC-machined aluminum and laser-etched circuit boards. Signature design moves include high-contrast product photography against the dark canvas, monospace code snippets (`{typography.code}`) that speak directly to the developer-educator audience, and sharp rectangular buttons (`{rounded.none}`) that avoid the friendly pill shapes of consumer brands — every corner is a right angle, every edge a deliberate cut. The top navigation is a floating dark bar (`{colors.ink}`) with white text, and the hero section often features a full-bleed product image with a semi-transparent overlay (`{colors.scrim}`) and bold white typography. Makeblock's color palette is intentionally restrained — no bright accent color emerges from the extracted data, suggesting the brand relies on the physical products themselves (neon-green LED strips, blue servo cables, red laser dots) to provide chromatic energy. The shopping experience is powered by Shopify, but the checkout is visually subdued, matching the brand's monochrome ethos. This is a design system built for the maker mindset: functional, modular, and unadorned.
 
@@ -554,6 +558,13 @@ components:
 - Code blocks become horizontally scrollable on mobile rather than wrapping
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

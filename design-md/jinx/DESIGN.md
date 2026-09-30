@@ -4,6 +4,10 @@ name: "Jinx"
 source_url: "https://www.thinkjinx.com/"
 captured_at: "2026-09-29T03:58:33.545662+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from Jinx's Shopify-hosted storefront at thinkjinx.com, a direct-to-consumer pet-food brand also distributed through Walmart, Chewy, and Amazon. The CSS exposes a custom heading/body font pairing (GTWalsheimBold for display, GTWalsheimMedium for body and navigation) layered over a neutral white-and-charcoal base, with a deep teal (#1a8168) explicitly named as an accent-alternative token, suggesting it functions as a secondary or supporting brand color rather than a dominant one. A near-black forest green (#051a17/#17554b) and a high-contrast lime (#b0ff73) also appear, consistent with a "natural, whole-food" visual register common to premium pet nutrition brands; these are treated here as inferred accent roles since no explicit semantic label was supplied for them. A cream tone (#efe0d0) is proposed as a warm surface option for ingredient or nutrition callouts. Utility colors observed in Shopify wallet/checkout components (blues #1990c6/#136f99, an announcement-bar blue #5070c4, and standard alert red/pink #721c24/#f8d7da) are preserved as functional, non-brand system colors. Layout metrics (radius values, header heights) reference CSS custom properties without resolved pixel values in the supplied evidence, so spacing and radius scales below are proposed conventions, not measured output.
 
@@ -152,6 +156,13 @@ This is a recommended breakpoint system, not measured site behavior:
 Touch targets should target a minimum of 44px height (matching the Shopify accelerated-checkout button's `clamp(25px, …, 55px)` sizing observed in vendor CSS). Navigation collapse and carousel/flickity behavior (prev/next buttons at 40px) are proposed conventions inferred from theme CSS, not confirmed via live interaction testing.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

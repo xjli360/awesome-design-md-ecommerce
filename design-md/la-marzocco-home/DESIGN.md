@@ -4,6 +4,10 @@ name: "La Marzocco Home"
 source_url: "https://lamarzoccohome.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The first thing you notice is the warmth: #d5ccb4, a color somewhere between aged linen and the pietra forte of a Florentine workshop, spreads across hero panels and product stages with the unhurried certainty of a material that has been handled for decades. This is not a tech-startup blue or a DTC pastel — it is the specific warm champagne of espresso crema caught in afternoon light, and it carries La Marzocco's entire visual identity. Against a clean white canvas, that sand tone fills full-bleed sections, product-detail backdrops, and configurator panels, creating the sense of walking into a showroom where machines sit on warm stone plinths rather than clinical white shelves.
 
@@ -394,6 +398,13 @@ components:
 - Product card hover effects are disabled on touch devices; tap goes directly to PDP
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Grace Lee"
 source_url: "https://www.gracelee.com"
 captured_at: "2026-09-28T04:14:38.607010+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Grace Lee presents a restrained, editorial aesthetic suited to fine jewelry and engagement-ring
   merchandising. The observed palette is built almost entirely from neutrals: true black (#000000)
@@ -155,6 +159,12 @@ components:
 Recommended breakpoints (proposed, not measured): mobile ≤480px, tablet 481–768px, desktop 769–1199px, wide ≥1200px. Suggest collapsing the nav-bar into a hamburger + drawer pattern below tablet, consistent with the presence of `.menu-drawer__close-button` and `#cart-drawer` in the evidence, though drawer visual behavior itself was not observed. Touch targets for buttons and swatches should maintain a minimum 44×44px hit area on mobile. Product-card grids are recommended to shift from multi-column desktop layouts to single or two-column mobile stacks; this is a general recommendation, not a measured layout change.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This interpretation is derived from static CSS custom properties and selector fragments only; no rendered page, computed layout, or interaction was observed. Several color roles (status-success, status-alert, accent-info, footer-ink) are inferred from hex presence alone and may represent unrelated UI states (e.g., form validation, third-party embeds) rather than confirmed brand accents. Display-level typography sizes (display-xl, display-md) are proposed extrapolations since the only captured heading rule (h1 at 14px) is unusually small and likely a component-level label rather than a hero heading. The Assistant font family appears in the font-family list but no rule ties it to a specific element, so its actual usage and licensing status are unverified. Hover/focus states beyond the two explicitly captured button rules, mobile menu/drawer visuals, and all spacing/radius values not tied to a literal CSS declaration are proposed conventions rather than confirmed site behavior. Custom font hosting via Google Fonts was referenced in an `@import` fragment but weight/style availability and licensing terms were not verified.

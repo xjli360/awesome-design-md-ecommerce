@@ -4,6 +4,10 @@ name: "Everyday Music"
 source_url: "https://www.everydaymusic.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep blue #116dff — the color of a record store's neon sign at dusk — anchors Everyday Music's digital storefront, appearing in primary buttons, navigation links, and hover states against a near-black #080808 ink and a cool gray #5f6360 for body text. The brand leans into a library-like seriousness with its typography stack: Cormorant Garamond for display headings (a serif that signals vintage record-sleeve sophistication) paired with Montserrat and Arial for body copy, creating a deliberate tension between old-world album art and modern e-commerce utility. The light blue wash of #e4ebfc surfaces in soft backgrounds and card states, suggesting the glow of a listening booth or a turntable's platter light. Everyday Music's design language is unpretentious but authoritative — it trusts its product photography and genre taxonomy over decorative flourishes, using generous whitespace and a restrained palette to let the records speak. The search bar, a primary entry point for crate-diggers, sits prominently with a full-pill shape, while product cards use soft rounded corners and minimal borders to keep focus on album covers. The overall mood is that of a well-organized basement archive: dark, focused, and rewarding to explore.
 
@@ -291,6 +295,13 @@ components:
 - Hero section reduces vertical padding from 64px to 32px on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

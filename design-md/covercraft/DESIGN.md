@@ -4,6 +4,10 @@ name: "Covercraft"
 source_url: "https://covercraft.com"
 captured_at: "2026-09-28T09:25:08.273797+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Covercraft's storefront CSS evidence shows a utilitarian e-commerce system built on Angular/SAP Commerce Cloud component patterns (custom-product-card, product-compare-dialog) rather than a heavily styled marketing skin. The observed palette centers on a neutral ink-on-white base (#212529, #54575e, #ffffff) with a saturated blue (#0070f2 / #0064d9) appearing in interactive contexts, a red (#db0002) likely reserved for promotional messaging such as the "20% OFF" banner, and a green (#38871f) used for a confirmation checkmark icon. Grays (#f4f4f4, #d3d6db, #dee2e6) form card borders and soft surfaces. Montserrat is the only font family explicitly tied to product-card typography in the supplied CSS; Effra, Open Sans, and system sans-serif stacks are present in the font manifest and are treated here as inferred body/UI candidates since no body-text rule was captured. This interpretation proposes a functional, catalog-dense design language: dense product grids, compact uppercase labels, and small-scale metadata text (10–14px), reflecting the brand's large SKU catalog across automotive, marine, RV, and patio categories. Semantic color-to-role assignments (primary action, success, alert) are inferred from usage context, not confirmed brand guidelines.
 
@@ -151,6 +155,13 @@ components:
 Touch targets should be a minimum 44×44px for nav and cart controls. This table is a recommendation derived from typical commerce-grid conventions, not a measured breakpoint set from the supplied CSS, which contained no `@media` evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

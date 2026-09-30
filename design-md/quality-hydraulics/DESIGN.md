@@ -4,6 +4,10 @@ name: "Quality Hydraulics"
 source_url: "https://www.qualityhydraulics.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Amber arrives before blue — #ffb73e, a high-visibility safety orange that reads like a hydraulic coupling at operating pressure, leads the palette and claims every primary action on the page. The decision is industrial-honest: this is a working parts supplier where procurement happens under fluorescent shop light, not a consumer lifestyle brand asking for admiration. The #0079c7 utility blue recedes into secondary roles — informational links, hover states, supporting structure — while #222222 near-black handles virtually all body copy at serious density. No softening neutrals, no lifestyle photography gradients; the canon is dark type on white canvas with amber firing at checkout and quote-request moments. Because no custom typeface stack was captured from the live site, the design system defaults to a compact system-sans hierarchy at functional weights — bold at display, medium at button, regular at body — sized for scan-and-locate behavior from a user who already knows the part number. Corner radii are minimal, consistent with catalogue-grade UI: a 4px `{rounded.xs}` on inputs and a flat `{rounded.none}` on table rows signal precision over personality. The product card is the center of gravity: part number renders in monospace caption, stock status carries a small `{colors.in-stock}` green or `{colors.low-stock}` amber badge, and the add-to-cart button fires in the full amber primary. Category navigation uses the industrial blue as an active underline, keeping the amber reserved for conversion actions only — a discipline that preserves its signal value across a deep catalog of fittings, valves, cylinders, and pneumatic components. Section spacing is generous for a B2B property because filter panels, spec tables, and multi-image product views demand vertical room to breathe without feeling cluttered.
 
@@ -433,6 +437,13 @@ components:
 - Spec table scrolls horizontally within a visible scroll-hint shadow on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

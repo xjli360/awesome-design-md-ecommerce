@@ -4,6 +4,10 @@ name: "Four Sigmatic"
 source_url: "https://foursigmatic.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every product in the Four Sigmatic lineup names its mushroom twice — once on the front panel in display type, once in a subhead reading like a formulation card: "Lion's Mane & Chaga, 250 mg each." That dual-naming convention shapes the UI system from the ground up: ingredient callout chips sit inside product cards the way nutrition facts sit on a label, not as decoration but as the primary decision lever. The brand's signature orange (#F0621E) is an earthy amber, far from the synthetic brights of sports nutrition; paired against a forest green (#2C5F2E) and an off-cream canvas (#FDF8F3), the whole palette reads like a field guide rather than a pharmacy shelf. Corners stay soft throughout — {rounded.md} on cards, {rounded.full} on benefit badges and pill CTAs — reflecting the organic positioning without sliding into rounded-corners-as-personality territory. Typography leans on a geometric sans-serif for display headings, stepped down to a comfortable readable weight at body scale; the brand's instructional voice demands long-form editorial treatment, so line-heights open up to 1.6 in body copy. Subscription framing is structurally embedded: every product card carries a "Subscribe & Save" toggle at the component level, not appended as an afterthought, and a clear visual grammar enforces the distinction — orange for one-time purchase, green for subscription. Educational modules occupy full-bleed sections with a surface-soft (#F5EDE4) background that warms the content without competing with product photography. The footer doubles as a content hub: newsletter signup, podcast links, and certifications (USDA Organic, Non-GMO Project Verified, Informed Sport) anchor every page with the same visual weight as primary navigation, because trust signals are a first-class product feature in the adaptogen category.
 
@@ -408,6 +412,13 @@ components:
 - Mushroom callout section: 3 columns on desktop, 2 on tablet, 1 stacked on mobile with icon centered above copy
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

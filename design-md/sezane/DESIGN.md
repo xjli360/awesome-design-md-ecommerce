@@ -4,6 +4,10 @@ name: "Sézane"
 source_url: "https://sezane.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Two warm extracted tones — a burnished gold (#b2832c) and a dusty olive (#a2944e) — tell the story before any type loads: this is a house that chose warmth over starkness, patina over polish. Sézane, the Parisian label born entirely online in 2013 before expanding into physical "Appartements," carries an editorial sensibility where the white canvas ({colors.canvas}: #ffffff) functions not as absence but as the page on which these warm accents are inked. The gold primary reads differently depending on context — against ivory it becomes amber harvest, against a dark product image it becomes jewellery — and this chromatic flexibility is the point: the brand wants one palette to carry both a silk blouse and a leather bag without typological clash. Display type leans toward elegant serifs at generous sizes, reinforcing the sense of reading a magazine rather than clicking through a grid. Buttons and inputs favor sharp, square geometry ({rounded.none}), avoiding the pill shapes of lifestyle and wellness brands; the hard corner signals fashion-house discipline. Product cards present clean portrait photography with minimal overlay — hover states reveal only the wishlist icon and a second product image crossfade, never flooding the tile with color. The navigation collapses into a clean drawer on mobile, where the full-bleed hero photograph replaces the desktop editorial split. Sézane's digital language trusts the reader to do some work — spacing is generous, calls to action are calm rather than urgent, and the primary gold (#b2832c) never shouts. The olive secondary (#a2944e) earns its role in seasonal editorial banners and category-label accents, providing a muted counterpoint that ages the palette toward something grown rather than designed.
 
@@ -327,6 +331,13 @@ components:
 - Mega-nav panel editorial photography column is hidden on tablet; only the link columns remain
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

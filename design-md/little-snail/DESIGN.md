@@ -4,6 +4,10 @@ name: "Little Snail"
 source_url: "https://littlesnail.com.au"
 captured_at: "2026-09-28T09:39:19.873547+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Little Snail is a WooCommerce-powered boutique selling European wooden, soft, and educational toys to Australian families. The observed CSS shows a white canvas (#ffffff) with dark neutral body text (#333333) and a small set of accent colors layered on top of a fairly standard WordPress/Storefront-derived stylesheet, including a broad Gutenberg default palette (reds, purples, yellows) that is likely used only occasionally in blog content rather than core UI chrome.
   The clearest brand signal is a warm orange (#e27e26) applied to feature links and call-to-action backgrounds, paired with a soft olive-green (#a2c164) used for the header shipping/promo strip and white text on both. A near-black slate (#32373c) is the default WordPress button color and is treated here as a secondary/neutral action color. Root variables define a consistent 16px corner radius for buttons and add-to-cart controls, which this spec treats as the brand's signature rounding rather than the sharper radii typical of stock themes.
@@ -144,6 +148,13 @@ The following breakpoints are a recommendation only; no responsive CSS or viewpo
 Touch targets for buttons and nav items should be at least 44px tall. Mobile category mega-menu (Baby / Children's toys / Gifting / Brands) should collapse into an accordion-style drawer given its depth in the observed content excerpt.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This specification is derived from static CSS/text extraction only; no rendered layout, hover/focus states, animations, or actual responsive breakpoints were observed. The exact primary body font behind `var(--wp--preset--font-family--primary)` is inferred as Source Sans Pro from the supplied font list and common Storefront-theme defaults — it has not been confirmed against a computed style. Schoolbell's actual usage scope beyond the single gift-wrap header rule is unknown. Several palette colors (Gutenberg preset reds, purples, yellows) appear to be default WordPress block-editor swatches rather than deliberate brand colors, and were excluded from primary role assignments accordingly. Component states (hover, active, disabled, error) are entirely proposed and not observed. Font licensing/availability for Schoolbell has not been verified. Card, hero, and footer background/spacing values are inferred defaults, not measured from rendered pages.

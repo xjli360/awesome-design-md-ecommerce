@@ -4,6 +4,10 @@ name: "Specialized"
 source_url: "https://www.specialized.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A cycling brand that uses red (#da291c) not as an accent but as a structural claim — the same voltage that marks a Tarmac frame's downtube also fills the primary CTA, the sale badge, the cart icon, and the "Rider First" banner. The palette is overwhelmingly gray: twenty-one steps from #252525 (near-black ink) through #f8f8f8 (canvas) with a warm amber sub-palette (#ffe31b through #482300) that surfaces in limited-edition frames and seasonal hero shots. Typography runs DINPro for body and Degular for display, a mix of German functionalism and American modernism that mirrors the brand's engineering-meets-culture ethos. Corners are mostly sharp — buttons use {rounded.sm} (8px), cards use {rounded.md} (12px), and the only {rounded.full} appears on the search orb and filter pills. The site trusts high-contrast photography and generous whitespace over decorative UI; the product grid is a dense, information-rich field of 4-column cards with spec callouts, price, and a "Quick Add" button that appears on hover. The nav bar is a 48px strip of {colors.ink} with white text, a persistent search icon, and a cart badge that inherits {colors.primary}. The overall mood is serious, fast, and rider-obsessed — the brand's own tagline "Made for riders, by riders." appears in the page title and footer, not as a decorative overlay.
 
@@ -399,6 +403,13 @@ components:
 - Filter strip collapses to a single "Filter" button on mobile, opening a full-screen overlay
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Foreo"
 source_url: "https://www.foreo.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A Swedish beauty-tech brand that lives in the tension between clinical precision and playful indulgence, anchored on a deep slate #313f49 that reads as dermatological authority against a shock of #f53794 — a fuchsia that feels less like a brand color and more like a heartbeat monitor gone rogue. The typography runs exclusively in Montserrat’s full weight spectrum, from ExtraLight (used for airy product descriptions that whisper rather than shout) to Bold (reserved for benefit-driven headlines that land like a clinical finding). Every product card sits on a pure white canvas with a soft shadow, the device rendered in 3D against gradients that shift from #78278b to #dbc088, suggesting the iridescence of high-end silicone rather than flat e-commerce photography. Buttons are pill-shaped ({rounded.full}) and use the fuchsia as primary voltage, while secondary actions adopt the slate or a clean outline. The checkout flow introduces unexpected accents — #2aa9f6, #25d7ff, #00c7b1 — that signal payment success or subscription tiers with the same saturated confidence as the hero pink. The brand’s signature move is the “before/after” slider: a vertical split that uses #ff6dac as the active handle, inviting the user to drag across skin texture with a single finger. There is no hard corner on any interactive element; even the footer accordion uses {rounded.sm} on its expanded panels. The overall effect is a clinic that serves champagne — sterile enough to trust, vivid enough to remember.
 
@@ -462,6 +466,13 @@ components:
 - Hero section stacks vertically on mobile: text above, image below.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Single Stone"
 source_url: "https://www.singlestone.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every ring in the Single Stone catalog opens with its stone's biography — old European cuts, mine cuts, and rose-cut diamonds described by era, carat geometry, and provenance rather than retail tier. The palette follows that curatorial logic: antique gold (#a88d48) is the brand's single voltage, warm like aged patina rather than polished brightness, paired against near-absolute blacks (#171717, #121212) that give each diamond uncontested luminance. A secondary note of deep teal (#09728c) appears in select accent positions — link hovers, editorial markers — adding the quiet distinctiveness that separates a curated gem cabinet from a category retailer. Cream (#fcf1cd) surfaces in editorial passages and callout fields, warming the otherwise cool neutral ground. Navy (#1e2d47) anchors footer and deep feature sections, grounding the brand in archival formality.
 
@@ -356,6 +360,13 @@ components:
 - Editorial callout body copy reduces from 16px to 15px on mobile while retaining the Jost typeface and line-height
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

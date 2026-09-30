@@ -4,6 +4,10 @@ name: "Gamewright"
 source_url: "https://gamewright.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A saturated, primary-color playground where #eec703 (a high-gamut marigold) and #5b0a69 (a deep plum) clash and harmonize across every product tile, badge, and navigation bar — the brand treats color as a game mechanic, not decoration. The extracted palette reads like a box of crayons dumped onto a white canvas: #027acd cyan, #f16d00 tangerine, #1da120 lime, #b9cc1a chartreuse, #cc007b fuchsia, and #29358e navy all appear with near-equal frequency, suggesting a system where any game can claim its own accent pair. Typography splits between Itim (a hand-drawn, slightly wobbly sans for display and titles) and Open Sans (a neutral, legible workhorse for body and instructions), with Wellfleet (a serifed slab with irregular letterforms) reserved for special callouts or age-rating badges. Corners are soft but not pill-shaped — `{rounded.md}` (12px) on cards and `{rounded.sm}` (8px) on buttons keep the interface approachable without losing the crispness needed for game component grids. The overall mood is unapologetically loud, child-forward but not childish: the brand trusts that saturated color blocks and chunky typography can signal fun without needing illustration or photography to carry the emotional load.
 
@@ -369,6 +373,13 @@ components:
 - Hero banners reduce padding and font size on mobile (display-xl drops to 28px).
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

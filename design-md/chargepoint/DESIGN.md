@@ -4,6 +4,10 @@ name: "ChargePoint"
 source_url: "https://chargepoint.com"
 captured_at: "2026-09-28T04:30:54.348117+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   ChargePoint's evidenced CSS shows a utilitarian, product-navigation-heavy site built on a
   white canvas (#FFFFFF) with a dominant dark-blue accent (#0F588A) used for active states,
@@ -156,6 +160,13 @@ components:
 Recommended breakpoints (not measured): mobile ≤480px, tablet 481–1024px, desktop 1025–1400px, wide ≥1401px (matching the observed 1400px max content width in `.cp-ProductNav_Wrapper`). Touch targets should be at least 44px tall for buttons and nav items. Below tablet width, the product mega-menu should collapse into a stacked accordion rather than the three-column grid, and the utility/nav-bar row should condense into a hamburger-triggered panel. These behaviors are proposed conventions, not confirmed interactions.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This interpretation is derived solely from static CSS declarations and a color/font extraction; no rendered page, responsive breakpoint, or interaction state (hover, focus, open menu) was directly observed beyond the literal selectors supplied. Semantic role assignments—such as treating #FF7A14 as an accent CTA color or #495E6B as a footer background—are inferred from typical usage patterns, not confirmed by layout screenshots. All typography sizes, weights, and letter-spacing outside the observed 16px/1.4286 body rule are proposed placeholders. Component definitions for text-input, hero, footer, product-card, badge, and station-status-tag are proposed patterns with no corresponding CSS evidence. Gotham Narrow SSm's licensing and availability were not verified; fallback to generic sans-serif is assumed for any environment lacking the licensed font.

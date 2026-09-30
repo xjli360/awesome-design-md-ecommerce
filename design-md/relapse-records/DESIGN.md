@@ -4,6 +4,10 @@ name: "Relapse Records"
 source_url: "https://www.relapse.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A record label and storefront that wears its death-metal lineage in a #ff0000 primary — a red that reads as blood-spatter, not brand-identity warmth, and sits against a #121212 near-black canvas. The extracted palette is deliberately raw: #232323 for ink, #5f605d for muted text, #ebebeb and #e7e7e7 for hairline strokes. There is no gradient, no soft-shadow, no rounded-full pill button — the system uses {rounded.xs} (4px) for cards and {rounded.sm} (8px) for buttons, as if every corner was clipped with a box-cutter. Montserrat runs the typography at 400/600/700 weights, with display sizes at 24–32px and body at 14–16px, never decorative. The #332fd0 accent (a cold, synthetic blue) appears on select badges and sale tags, a rare secondary voltage against the red-and-black. This is a store built for browsing band merch and vinyl: product cards are dense with album art, price, and format badges; the nav is a single dark bar with genre dropdowns; the search is a simple input, not a hero feature. The red is not friendly — it signals limited-edition drops, pre-order urgency, and the label's three-decade history in extreme music.
 
@@ -548,6 +552,13 @@ components:
 - Hero banner text overlay reduces font size from 32px to 24px below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

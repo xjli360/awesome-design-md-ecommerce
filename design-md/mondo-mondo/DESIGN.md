@@ -4,6 +4,10 @@ name: "Mondo Mondo"
 source_url: "https://mondo-mondo.com"
 captured_at: "2026-09-29T03:56:35.212519+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Mondo Mondo's storefront CSS (Shopify Timber base plus a custom "mondo.scss"
   layer) shows a stark black-and-white foundation: white canvas (#ffffff),
@@ -163,6 +167,13 @@ Proposed breakpoints (not measured from live site):
 Touch targets are recommended at a minimum 44×44px for cart, search, and swatch controls. The mobile-nav drawer (evidenced by `.mobile-nav__item`/`.drawer__close` rules) should collapse the primary nav into an off-canvas panel below the tablet breakpoint. This table is a recommendation only; no responsive/media-query behavior was present in the supplied CSS evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

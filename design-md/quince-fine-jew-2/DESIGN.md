@@ -4,6 +4,10 @@ name: "Quince"
 source_url: "https://www.quince.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The 3-degree warmth in #21201f — Quince's near-black — does more brand work than any campaign line: set against a #f7f7f5 canvas that reads linen rather than paper, it signals boutique temperature without boutique pricing. IvyPresto Headline carries display text in a light-weight editorial serif that nods to luxury fashion publishing, while Grosa — a geometric sans-serif — handles navigation, labels, and product specs with utilitarian precision; the contrast between these two type voices enacts the brand's core proposition in typographic form. Primary CTAs wear the same near-black, rendered as tracked uppercase Grosa labels with barely-there {rounded.xs} corners rather than the rounded pills that soften most DTC call-to-action buttons.
 
@@ -382,6 +386,13 @@ components:
 - Promo banner text may truncate with ellipsis at narrow widths; marquee scroll used for long messages
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "BetaFPV"
 source_url: "https://betafpv.com"
 captured_at: "2026-09-28T04:56:20.842282+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   BetaFPV's storefront evidence points to a utilitarian ecommerce build (Shopify-pattern class names, a Judge.me review widget, and a `ba-products-box` merchandising plugin) rather than a heavily custom brand skin. The confirmed palette is dominated by neutral grays and near-blacks (#111111, #222222, #555555, #666666, #999999) against a white canvas, with a recurring cyan/teal family (#54cce9, #3dc5e6, #81d9ef, #95d5df, #08a8cf) that appears often enough across otherwise-unrelated rules to be treated as an inferred accent group, likely used for links, highlights, or informational tags. A single concrete branded interactive color was observed: #616669 on a hero `.btn`. Red (#d02e2e) and teal-green (#108474) are proposed for sale/alert and "new" signaling respectively, since ecommerce sites in this category commonly need such states, though their exact usage was not directly observed. Typography is grounded in "Work Sans" for UI chrome and buttons (explicitly set on `.ba-products-box` and `.ba-product-addtocart`), with Montserrat proposed for larger display headings since it appears in the font stack evidence. Rounding is conservative: an explicit `border-radius:0` on a select control suggests a squared, technical aesthetic appropriate for a specs-heavy drone-parts catalog, so the rounded scale below leans toward smaller values.
 
@@ -166,6 +170,14 @@ This is a recommendation, not measured site behavior — no media queries or bre
 Touch targets on `button-primary`, `button-hero`, and `variant-selector` should maintain a minimum 44×44px hit area on mobile, achieved by padding rather than font-size changes to preserve the observed 14px button typography. Mega-menu categories (Drones, RTF Kits, Radio Controllers, FPV Gear, Parts & Spares) should collapse into an accordion pattern below tablet width given the depth of the category tree in the page text.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

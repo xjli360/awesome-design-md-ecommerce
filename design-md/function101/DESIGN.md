@@ -4,6 +4,10 @@ name: "Function101"
 source_url: "https://www.function101.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A workspace-organization brand that lives in the gap between Apple’s industrial precision and the mess of real cables, using a muted slate palette anchored on #919da9 — a warm gray that reads as engineered rather than sterile. The brand’s signature voltage is #108474, a deep teal that appears on every primary CTA, add-to-cart button, and checkout link, giving the storefront a calm, authoritative pulse against the predominantly gray canvas (#f1f1f1, #f5f5f5, #eeeeee). Type runs Montserrat at moderate weights — display headlines sit at 24–32px in weight 600 rather than heavy 700+, letting product photography and clean whitespace carry the hierarchy. Product cards use soft corners ({rounded.sm} ~8px) and subtle hairline borders (#d9d9d9), while the search bar and primary buttons adopt a slightly more rounded form ({rounded.md} ~12px). The brand avoids hard corners entirely, preferring a gentle radius that suggests approachability rather than cold utility. A secondary accent of #75bcfb (a muted sky blue) appears on secondary actions and informational badges, while #d6001c serves as a restrained error/alert red — used sparingly, never as a primary brand color. The overall mood is organized but not minimalist: there’s enough gray variation (#898989, #7b7b7b, #5d6b82, #444749) to create depth without noise, and the teal acts as a wayfinding color across the navigation, footer links, and product highlights. The brand’s Shopify platform means checkout flows inherit standard Shopify UI patterns, but the product pages and collection grids feel purpose-built for the Apple ecosystem — clean, centered, with generous padding ({spacing.lg} and {spacing.xl}) around every element.
 
@@ -418,6 +422,13 @@ components:
 - Collection filters collapse into a slide-out drawer at mobile, with a "Filter" button toggling visibility
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

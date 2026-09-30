@@ -4,6 +4,10 @@ name: "Gadget Guard"
 source_url: "https://www.gadgetguard.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A protective accessories brand that builds its visual identity around a sharp orange accent (#ff5501) — the color of a warning cone, a safety vest, the glow of a phone in low battery — set against a nearly monochrome field of grays (#d1d1d1, #7d7d7d, #c2c2c2, #e2e2e2, #f0f0f0, #f9f9f9, #f2f2f2, #e5e5e5, #f6f6f6) that reads as industrial restraint rather than premium minimalism. The palette is dominated by a cool silver-gray spectrum with a secondary blue (#006bb4, #1979c3, #499bf8) that appears in links and secondary actions, while the orange (#ff5501, #e65525, #ee5513) is reserved exclusively for primary CTAs, sale badges, and urgency signals — a single voltage that cuts through the gray like a hazard light. The typography stack relies on acumin-pro as the primary brand face, a clean geometric sans-serif with moderate contrast, paired with Open Sans as a web-fallback and Helvetica Neue for system-level consistency. Rounded corners are minimal — the system uses {rounded.sm} (8px) for buttons and cards, {rounded.md} (12px) for modals, and {rounded.full} only for badge pills and search fields, preserving a functional, slightly industrial feel that matches the product category (screen protectors, cases, cables). The canvas is near-white (#fcfcfc) with surface cards in pure white (#ffffff) and hairline borders in #e8e8e8, creating a clean but not sterile layout. The brand's design language prioritizes clarity and trust over warmth — there is no soft gradient, no playful illustration, no decorative flourish. Every element earns its place through utility, and the orange acts as a single point of visual urgency that guides the user through purchase decisions.
 
@@ -444,6 +448,13 @@ components:
 - Search bar collapses from a full-width input to an icon button that expands on tap.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Champion Tool Storage"
 source_url: "https://www.championbuilt.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The first thing that registers on championbuilt.com is the hard contrast of #006fcf — a broad-shouldered, mid-spectrum industrial blue — pushing out of a near-black (#121212) field. This is not the cool tech-company cobalt or the navy of workwear heritage; it's the blue of powder-coated steel cabinets under a shop's fluorescent bar, confident and utilitarian. Champion Tool Storage sells workbenches and tool chests to tradespeople and garage builders who evaluate products by load ratings and drawer slide quality before aesthetics, and the visual language responds accordingly: dark backgrounds carry authority, the blue drives every action state and callout badge, and light gray (#dedede) handles structural dividers and secondary labels without softening the overall tenor. The site's meta theme-color is pure black, reinforcing a dark-first intent that places the brand closer to motorsport equipment than to home-improvement retail. Because no custom font stack was extractable from the live page — tokens appear to be injected via JavaScript — the typography system below defaults to a robust system sans-serif that preserves the brand's industrial register: compact letter-spacing on headings, weight-600 for labels and CTAs, weight-400 for body copy with no romantic flourishes. Buttons are squared to a low-radius geometry (`{rounded.xs}` or `{rounded.sm}`), echoing the rectilinear silhouette of steel cabinetry. Product cards operate on a dark surface rather than white, with the blue appearing as a hover state accent and badge fill. The overall interaction grammar is direct: one primary CTA per viewport section, minimal animation, and information density calibrated for buyers who already know what a 52-inch tool chest is and just need the specs.
 
@@ -363,6 +367,13 @@ components:
 - Compare bar stack becomes full-width CTA strip with scrollable thumbnail row
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

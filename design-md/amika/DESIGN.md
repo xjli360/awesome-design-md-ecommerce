@@ -4,6 +4,10 @@ name: "Amika"
 source_url: "https://loveamika.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Amika is a professional haircare brand that feels like a playful, confident friend who also happens to be a brilliant chemist. The brand lives in a warm, off-white world anchored by `{colors.canvas}` (#fefaf0), a creamy parchment tone that softens everything it touches. This is not a sterile white lab — it's a boudoir, a backstage, a vanity lit by golden hour. The primary voltage comes from `{colors.primary}` (#d74f64), a dusty rose-red that appears on every CTA, badge, and accent, supported by a deeper `{colors.primary-active}` (#a8263a) for hover states. Amika's palette is deliberately expansive and eclectic: electric `{colors.accent-hot-pink}` (#ff29b8) and `{colors.accent-orange}` (#ff580a) sit alongside deep plums like `{colors.accent-plum}` (#3c2c53) and `{colors.accent-deep-plum}` (#322546), while cool `{colors.accent-blue}` (#2e88d5) and `{colors.accent-lavender}` (#a49cfb) provide contrast. The typography system leans on two distinct faces: Breno, a sophisticated serif likely used for display and editorial moments, and Futura ND Book/Medium, a geometric sans-serif that brings mid-century modern clarity to body text and navigation. Rounded corners are generous but not cartoonish — `{rounded.sm}` (8px) on buttons, `{rounded.md}` (12px) on cards — and the `{rounded.full}` pill shape is reserved for search bars and badges. The overall effect is a brand that feels simultaneously luxurious and irreverent, like a high-end salon that plays punk music.
 
@@ -373,6 +377,14 @@ components:
 - Search bar moves from inline nav position to full-width below the nav on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

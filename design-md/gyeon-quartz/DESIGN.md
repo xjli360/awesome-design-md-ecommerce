@@ -4,6 +4,10 @@ name: "Gyeon Quartz"
 source_url: "https://gyeonquartz.com"
 captured_at: "2026-09-28T09:43:04.916121+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is grounded in CSS extracted from the GYEON global site
   (gyeon.co), which shares the brand system used across GYEON Quartz regional
@@ -178,6 +182,13 @@ Recommended, not measured — no breakpoint or media-query evidence was supplied
 Touch targets should be a minimum 44×44px for nav items and buttons. Category/filter navigation should collapse into an accordion or dropdown below tablet width. These recommendations are conventions for a multi-category product catalog, not observed site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

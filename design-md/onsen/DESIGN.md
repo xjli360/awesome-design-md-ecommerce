@@ -4,6 +4,10 @@ name: "Onsen"
 source_url: "https://onsentowel.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Onsen is a bath brand that brings the calm, mineral-rich spirit of a Japanese hot spring into the daily ritual of drying off. The palette is anchored by a deep, oceanic navy (`#0f4c81`) that reads as both luxury and tranquility — it appears on primary buttons, the site header, and key product accents. A warm gold (`#dea439`) provides the brand's voltage, used sparingly for star ratings, sale badges, and hover states on secondary elements. The canvas is a soft, almost paper-like off-white (`#fefbf1`) rather than a stark white, giving the entire experience a tactile, spa-like warmth. Supporting tones include a muted sage (`#909762`) for botanical or sustainability callouts, a dusty rose (`#f0e7da`) for soft dividers and background sections, and a restrained slate (`#466993`) for secondary text and subtle UI borders. The typography system pairs a refined serif, P22Mackinac, for display and heading roles — lending editorial gravitas to product storytelling — with the clean, modern sans-serif Assistant for body copy, captions, and navigation. Rounded corners are generous but not pill-like: cards use `{rounded.md}` (12px), buttons use `{rounded.sm}` (8px), and the search bar uses `{rounded.full}` (9999px) for a friendly, approachable feel. The brand avoids harsh contrasts; even the darkest ink (`#292929`) is a soft charcoal rather than pure black, and the primary red (`#b82e2e`) is reserved for error states or limited-edition accents. Every design decision — from the `{spacing.section}` (64px) breathing room between product rows to the `{colors.muted-soft}` (#d0dae3) hairline that gently separates footer links — reinforces a sense of unhurried, premium self-care.
 
@@ -383,6 +387,13 @@ components:
 - Hero sections reduce padding and font sizes on mobile, with the title dropping from `{typography.display-xl}` (42px) to `{typography.display-md}` (28px).
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

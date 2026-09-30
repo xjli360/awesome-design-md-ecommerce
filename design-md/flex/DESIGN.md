@@ -4,6 +4,10 @@ name: "Flex"
 source_url: "https://flexpowertools.com"
 captured_at: "2026-09-28T10:13:39.395409+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Flex Power Tools presents itself through a stark, high-contrast palette: pure black (#000000) and white (#ffffff) frame the layout, punctuated by an aggressive safety-green accent (#00ff00, with a hover state at #00f200) used for the store's `--swiper-theme-color` and `.btn-primary` background. This green-on-black combination signals jobsite energy and battery-platform branding (the "24V" system callouts). Supporting grays (#c8c8c8, #dadada, #6c6c6c, #767676, #f4f4f4) appear across disabled states, secondary buttons, and select-menu chrome, and are mapped here to muted text, hairlines, and soft surfaces — this mapping is inferred from usage context, not confirmed as a formal design-token system.
 
@@ -152,6 +156,13 @@ components:
 Recommended breakpoints (not measured from live site): mobile ≤640px, tablet 641–1024px, desktop 1025–1920px (the CSS `max-width:1920px` on `body` suggests a capped, centered desktop container). Nav and category menus should collapse to a hamburger/drawer pattern below 1024px given the deep product taxonomy observed in page text. Touch targets should be a minimum 44px, matching the observed `.btn-primary` height. All breakpoint values and collapse behavior are proposed conventions, not confirmed site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This specification is derived from static CSS and text extraction only; no live rendering, DOM inspection, or interaction testing was performed. Semantic color roles (muted, hairline, surface-soft/card, on-dark) are inferred from selector context and usage patterns, not from an explicit design-token source. Font sizes for headings, cards, hero, and inputs are proposed estimates — only the `.btn-primary` (16px/15px) and select-menu (18px) sizes were directly observed. Mobile navigation, drawer, and collapse behavior were not observed and are proposed conventions only. 'Poppins' and 'Roboto Condensed' availability/licensing (self-hosted vs. Google Fonts) was not verified. Rounded-corner values are a generic proposed scale, as no `border-radius` values appeared in the supplied CSS evidence.

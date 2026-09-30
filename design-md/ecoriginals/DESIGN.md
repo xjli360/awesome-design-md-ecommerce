@@ -4,6 +4,10 @@ name: "Ecoriginals"
 source_url: "https://ecoriginals.com.au"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Where most plant-based baby care brands retreat to sage and pastel restraint, Ecoriginals plants a bold tomato-red (#d72c0d) on every primary CTA against a warm beeswax-cream canvas (#eeede5) — a deliberate refusal of the visual shorthand that equates "natural" with "soft-spoken." The palette earns its confidence from contrast rather than comfort: a deep forest night (#21301d) anchors eco authority in the navigation header and overline headings, while warm sand (#e2aa79) and terracotta (#d38571) surface through feature panels and product callouts, evoking pressed botanicals and clay rather than antiseptic white. Montserrat — the single typeface across every scale — runs at 700–800 weight for display headlines and relaxes to 400–500 for ingredient copy and subscription prose, achieving a voice that reads clearly for a parent scanning labels at midnight and a desktop shopper comparing bundle savings at noon. Corner radii stay generous throughout: {rounded.lg} on product cards, {rounded.full} on certification badges and pill-shaped promo tags, which soften the primary's voltage without losing the directness that separates the brand from softer-coded competitors. A recurring deep forest panel ({colors.forest}) set against on-dark white type and ochre-yellow accent marks (#f1e04d) provides a brief moment of authority — used for subscription upsell blocks and sustainability pledges — before the page returns to warm cream and earthy accents. Add-to-cart buttons run full-width in red at the base of every product card, removing purchase friction without apology. The overall register is a brand that has done the formulation work, holds the certifications, and trusts that bold color plus ingredient honesty will close the sale faster than a mood board full of eucalyptus sprigs.
 
@@ -367,6 +371,13 @@ components:
 - Hero: text-only layout on mobile (image suppressed or reduced to background); full image/text split on tablet; full-bleed photography with overlay on desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Hyperlite Mountain Gear"
 source_url: "https://www.hyperlitemountaingear.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A brand that builds its entire visual identity around a single, unmistakable voltage: #d54300 — a burnt-orange that reads as anodized aluminum, trail-dust, and the last light on a granite face. This orange is the brand's only color; it appears on the primary CTA, the shopping-bag icon, the "Add to Cart" button, and nowhere else in the palette. The rest of the system is a study in grays and near-grays: #171717 for ink, #676986 for body text, #f4f4f6 for the canvas, and #272d45 for deep-surface accents. The result is a site that feels like a machined part — every element has a purpose, every corner is either perfectly sharp ({rounded.none}) or softly radiused ({rounded.sm} at 8px), and the typography runs Geogrotesque W01 at moderate weights (400–600) with no display-size hero text. The product grid uses 12px rounded corners on cards, a 1px hairline in #e5e5e5, and generous whitespace that lets the gear's own photography — Dyneema composite fabrics, titanium stakes, carbon-fiber poles — carry the emotional weight. There is no decorative illustration, no gradient, no secondary accent color. The brand trusts that the orange, the gray scale, and the product itself are enough.
 
@@ -347,6 +351,13 @@ components:
 - Product image galleries (desktop: thumbnail strip + main image) collapse to a single swipeable carousel on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

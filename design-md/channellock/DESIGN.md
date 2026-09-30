@@ -4,6 +4,10 @@ name: "Channellock"
 source_url: "https://channellock.com"
 captured_at: "2026-09-29T04:22:15.625000+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Channellock's public site pairs an industrial, American-manufacturing narrative with a compact set of observed brand colors. The CSS exposes a bright blue (#009ddb, echoing the "Channellock Blue®" trademark text) and a strong red (#ce1141), consistent with the red/white/blue heritage messaging on the homepage. Neutrals run from near-black text (#212121/#231f20) through mid grays (#767676, #333333) to light surfaces (#efefef, #f4f4f4, #dddddd hairlines), giving a utilitarian, high-contrast reading experience appropriate for a tool catalog. The only brand-specific font family found in evidence is "Barlow Condensed," a condensed grotesk well suited to bold, industrial headlines; body copy is assumed to fall back to system sans-serif since no separate body font was declared. WordPress block defaults (fully rounded 9999px buttons, dark slate #32373c button background) appear in the CSS but are treated here as generic CMS defaults rather than confirmed brand identity, so this interpretation substitutes the observed brand red/blue for button coloring. Layout, spacing, and breakpoints below are proposed conventions for a hand-tools e-commerce site, not measured from a rendered page, and are labeled accordingly throughout.
 
@@ -148,6 +152,13 @@ Recommended breakpoints (not measured from the live site):
 Touch targets for buttons and nav items should be at least 44px tall. Category and trade tiles should stack vertically below `medium`. This table is a design recommendation only; no responsive CSS or media-query behavior was observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "House of Noa"
 source_url: "https://houseofnoa.com"
 captured_at: "2026-09-28T09:22:17.241842+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   House of Noa's evidence shows a warm, neutral storefront built on Shopify's Dawn-derived theme. The root palette pairs a soft cream canvas (#f7f4eb) with a near-black ink (#161414), giving a quiet, editorial contrast typical of a home-goods brand. Two observed font families drive type: "minerva-modern" (a serif, used here for headings per the h1-h5 CSS binding to --font-heading-family) and "nimbus-sans" (a sans-serif, bound to --font-body-family for body copy and UI text). No numeric font sizes were present in the supplied CSS beyond body's 1.2rem base and .text-body's 1.5rem, so all display/title/body sizes below are proposed and labeled as such, scaled from that base.
   Accent colors are inferred from functional CSS rather than declared brand tokens: #1990c6/#136f99 appear only on a Shopify payment-button skeleton (hover state), so they are treated here as a secondary "action-blue" utility rather than the primary brand accent, which remains the dark ink button (rgb 22,20,20) confirmed in the :root button variables. Surface variants (#ece9de, #fbf9f5, #ffe3d0) are drawn from the broader palette array and assigned to soft/card roles by proximity to the cream canvas, since no selector evidence ties them to a specific component. Rounded and spacing scales are proposed defaults, not measured, since the CSS exposes only custom-property variable names (e.g., --buttons-radius-outset) without resolved pixel values.
@@ -159,6 +163,12 @@ The following breakpoint table is a **recommendation**, not measured site behavi
 Touch targets should be a minimum 44px height (aligned with the observed `--shopify-accelerated-checkout-button-block-size:44px` default on the payment button). Nav and filter drawers are assumed to collapse into off-canvas panels below tablet width; this is proposed, not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Static CSS extraction did not include resolved pixel values for most spacing, radius, or typographic sizes; all such values above are proposed defaults scaled from the one confirmed base font-size (1.2rem body, 1.5rem `.text-body`).

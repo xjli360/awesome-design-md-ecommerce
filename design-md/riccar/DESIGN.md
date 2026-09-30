@@ -4,6 +4,10 @@ name: "Riccar"
 source_url: "https://www.riccar.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Pull the Tandem Air motor badge into a grid and you get the Riccar design system in miniature: compressed navy (#00548e), white letterforms, uppercase Gotham set at micro scale, and a geometry that trusts negative space over decoration. That badge propagates outward — the same navy anchors hero panels, primary buttons, and the nav bar, sitting against broad near-white fields (#f6f6f6, #f4f4f4) that let vacuum photography carry the emotional weight the color system deliberately withholds. Riccar does not reach for visual excitement; it reaches for the visual grammar of a brand that has been engineering belt-driven motors longer than most of its retail competitors have existed. Dapifer, a bracketed serif, handles display headlines exclusively — at 48px bold it lends "Tandem Air Technology" an editorial authority that a geometric sans alone could not sustain. Gotham A/B and NeueKabel take everything else: nav links at 14px/600, badge labels at 11px/700 with 0.8px tracking in uppercase, body copy at 16px/400. The two-typeface system maps cleanly onto a two-register brand voice: Dapifer for product storytelling, Gotham for interface utility. Orange enters as a single accent voltage — #da532c, a burnt brick tone, used on promotional badges, "Add to Cart" states, and clearance callouts. It is visually hot against the navy primary but Riccar gives it a narrow operational brief: conversion moments only, never structural chrome. Card geometry is conservative throughout — `{rounded.xs}` on buttons and inputs, `{rounded.sm}` on product cards — no large radii, which would read as playful in a category that earns trust through longevity and engineering credibility. The dealer-locator CTA is the site's most structurally recurring element, appearing in sidebars and section breaks far more often than a direct checkout button; Riccar's conversion architecture routes browse traffic toward authorized specialty retailers rather than online purchase, making that one block as load-bearing as the hero banner itself.
 
@@ -357,6 +361,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

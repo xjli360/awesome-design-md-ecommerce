@@ -4,6 +4,10 @@ name: "Blackstar"
 source_url: "https://www.blackstaramps.com"
 captured_at: "2026-09-29T04:09:59.592257+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is built from a WordPress/WooCommerce-driven storefront for
   Blackstar Amplification, a UK amp and cabinet manufacturer. The supplied CSS
@@ -169,6 +173,14 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets should be at least 44×44px for nav items and buttons given the pill button pattern. Mega-menu columns (Instrument, Product Type, Series) should collapse into stacked accordions below tablet width. None of this was directly observed; it follows standard WordPress mega-menu conventions.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

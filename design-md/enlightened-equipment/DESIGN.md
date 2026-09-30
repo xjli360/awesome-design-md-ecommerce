@@ -4,6 +4,10 @@ name: "Enlightened Equipment"
 source_url: "https://enlightenedequipment.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Bebas Neue — the condensed uppercase typeface borrowed from concert posters and streetwear — reappears here over ultralight sleeping quilts, and the collision is intentional. The brand treats visual weight exactly like pack weight: every ornament, gradient, and accent hue that couldn't justify its grams got cut. What survives is a two-anchor palette, charcoal (#444444) and ash (#eeeeee), applied with enough confidence that the absence of a third color reads as a decision rather than an omission. Bebas Neue handles all display work in uppercase at high size — section headers, CTAs, price figures — while body prose drops into a system sans at comfortable weight, the typographic equivalent of a hardshell over a baselayer. Buttons carry no radius to speak of; cards sit on the ash surface with a fine hairline border rather than elevation shadows; the whole system communicates function-first without ever announcing it. The signature interaction is the custom quilt configurator — an in-page selection flow for fill weight, shell fabric, and temperature rating — which demands a clean spec-chip component and a step-panel treatment that can surface dense technical data (fill power, baffle count, draft collar presence) without visual clutter. `{rounded.xs}` is the maximum curvature applied to interactive elements; `{rounded.none}` governs most structural containers. Navigation is low-profile: a single horizontal bar in charcoal on white, Bebas labels at reduced tracking, no mega-menu imagery. The footer inverts to a dark surface (`{colors.surface-dark}`) that creates a bookend to the ash-and-white body, and weight-spec badges — the ultralight community's primary purchase signal — appear as tight monospace chips in `{colors.surface-soft}` with `{typography.spec-label}` uppercase tracking. There is no primary accent beyond charcoal itself; every call to action is the brand color.
 
@@ -350,6 +354,13 @@ components:
 - Footer 4-column layout collapses to single-column stacked accordions on mobile; dark background retained
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

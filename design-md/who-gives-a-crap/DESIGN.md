@@ -4,6 +4,10 @@ name: "Who Gives a Crap"
 source_url: "https://whogivesacrap.org"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A toilet paper brand that uses its own packaging as a billboard — the signature seafoam green #2dcb98 appears on every box, roll wrapper, and CTA button, a color so distinctive it reads as a category violation against the pastel-and-white DTC bathroom aisle. The palette is deliberately limited: near-black #121212 for headlines, warm gray #dedede for backgrounds and cards, and that single green voltage that carries the brand's mission (50% of profits fund toilets in developing countries) without ever feeling preachy. Typography runs system-native (no custom font detected, likely a deliberate cost-conscious choice that mirrors the brand's no-frills, direct-to-consumer ethos), with generous leading and modest weights that let the green do the work. Every corner is softly rounded — buttons at {rounded.full}, cards at {rounded.md}, even the subscription toggle — creating a friendly, approachable feel that undercuts the seriousness of the sanitation mission. The brand trusts its product photography (bright, clean, often featuring the green boxes in real bathrooms) and its cheeky copy (roll names like "Enormous" and "Luxury") over decorative flourishes. There is no hero image carousel, no parallax, no animation for animation's sake — the site loads fast, reads clean, and lets the green and the mission sell.
 
@@ -475,6 +479,13 @@ components:
 - Search bar may collapse into icon-only on mobile, expanding on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Free League Publishing"
 source_url: "https://freeleaguepublishing.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep blue (#003388) the color of a midnight sky over a Nordic forest anchors Free League Publishing’s digital storefront, a hue that appears nowhere in the extracted palette as a generic web default and instead reads as the brand’s deliberate, atmospheric primary. That blue saturates the primary button, the top navigation bar, and the hero section’s background, while a secondary accent of muted crimson (#cf6363) appears sparingly — perhaps on sale badges or limited-edition callouts — offering a single point of warmth against the cool, scholarly greys (#393939, #313131, #444444) that form the body and ink layers. The typography stack is a hybrid of the familiar and the bespoke: Eksell Display Small, a quirky, slightly condensed display face with a hand-drawn quality, appears for headlines and game titles, while the body and UI rely on the workhorse Open Sans and the more geometric futura-pt. Beaufort-pro, a serifed typeface often associated with fantasy and historical settings, hints at the brand’s tabletop RPG catalog — games like *The One Ring* and *Forbidden Lands* — and likely appears in product descriptions or chapter headers. The canvas is a clean, near-white (#f9f9f9) with soft surfaces (#eeeeee, #eaeaea) and hairline-thin borders (#dcdcdc) that keep the layout airy despite the dense information load of game listings, rulebook previews, and expansion announcements. Buttons are softly rounded (`{rounded.sm}`) and the search bar adopts a pill shape (`{rounded.full}`), a gesture toward approachability that tempers the brand’s otherwise serious, lore-heavy identity. The overall impression is of a publisher that treats its digital presence as a library or a guild hall — orderly, trustworthy, and lit by the glow of a single, unwavering blue.
 
@@ -301,6 +305,13 @@ components:
 - Hero section text stacks vertically on mobile; on wider screens, it may sit alongside a featured image.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

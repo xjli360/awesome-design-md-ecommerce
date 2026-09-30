@@ -4,6 +4,10 @@ name: "Black Crows"
 source_url: "https://www.blackcrows.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Electric cyan (#00b3ff) punches through a near-black field (#121212) the way a racer's line cuts untracked slope — Black Crows concentrates its entire interactive vocabulary into that single voltage, running navigation hovers, add-to-cart events, and active filter chips all through one hue without variation. The proprietary typefaces are named with the same economy as the skis: BC-bold and BC-normal, two weights, no optical-size variants, no ornamental cuts. Both run at tight leading over wide hero headers, letting full-bleed mountain photography carry the emotional weight while type supplies precision rather than drama. The foundational palette reads as mountain shadow: deep blue-gray (#4a5764) serves as both compositional tone and secondary text color, near-black (#121212) reserved for maximum-contrast headers and body copy, and cool gray (#c1c9d1) occupying disabled states and ghost borders — one muted step between live UI and field. Surface corners are sharply angular; the brand tolerates almost nothing above {rounded.sm} on interactive elements. Product cards bleed imagery to the full frame boundary, and technical specification panels appear directly below hero photography on product pages rather than collapsed behind accordion tabs, treating engineering data as brand voice. The thin hairline (#dedede) draws every row separator, input border, and navigation edge; structural density is the design value because a buyer comparing twelve ski models across eight parameters does not want decorative breathing room between specification rows. The dark-mode footer mirrors the hero: #121212 ground, on-dark type, with cyan (#00b3ff) appearing on link hovers as the sole luminous signal in an otherwise compressed, high-contrast system.
 
@@ -354,6 +358,14 @@ components:
 - **Hero CTAs**: Side-by-side with {spacing.sm} gap on desktop/tablet → stacked full-width with {spacing.sm} vertical gap on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

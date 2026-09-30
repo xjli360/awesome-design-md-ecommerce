@@ -4,6 +4,10 @@ name: "Cometeer"
 source_url: "https://cometeer.com"
 captured_at: "2026-09-28T10:20:36.834642+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Cometeer's storefront CSS shows a warm, café-inspired palette built on a cream canvas (#f7f0d3) with near-black ink (#2c2b2b) for body copy, and a golden-yellow accent (#f5d577) used explicitly as the primary button background, with a deeper gold (#d6ba68) on hover and a muted sage-gray (#d8dacf) for disabled states. The stylesheet sets BauTF as the primary typeface across body and buttons, with system sans-serif fallbacks; additional families (Agipo, BauTF-Medium, JetBrainsMono) appear in the font list but their applied roles are not confirmed in the supplied rules, so they are treated as inferred secondary/mono options for headings or numeric price display. Buttons use uppercase text, wide letter-spacing (0.2em), and fully pill-shaped corners (50px radius), suggesting a soft, tactile e-commerce aesthetic suited to a DTC coffee brand. A cluster of saturated hues (teals, browns, a plum, and a red) also appears in the palette; these are inferred as roast-level or flavor-tag accents (e.g., light/medium/dark/decaf badges, "Sweet & Fruity" tags) given the product copy, not confirmed component colors. This interpretation extends the observed button, background, and text tokens into a broader system for cards, navigation, and subscription UI, while flagging anything not directly evidenced as proposed.
 
@@ -143,6 +147,13 @@ components:
 Recommended breakpoints (not measured): mobile ≤ 480px, tablet 481–1024px, desktop ≥ 1025px. A `--cometeer-mobile-header-height: 56px` custom property confirms a distinct mobile header exists, supporting a collapsed/hamburger nav pattern below tablet width. Touch targets for buttons should maintain the 44px+ height implied by the swiper navigation size token (`--swiper-navigation-size: 44px`). Product-card grids are recommended to collapse from a multi-column desktop layout to a single or two-column mobile stack; this is a proposed convention, not an observed layout.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered page, computed layout, or interaction states (hover/focus/active transitions beyond the one captured button) were observed. Several font families (Agipo, BauTF-Medium, JetBrainsMono) appear in the font list without corresponding selector rules, so their actual usage, weight mapping, and licensing/availability are unverified. Many palette entries (teals, plum, red, amber) have no confirmed component association and are mapped here to badge/roast roles by inference from adjacent product copy only. All typography sizes except the 12px button rule are proposed estimates, not measured values. Mobile menu behavior, cart drawer interaction, and subscription-toggle mechanics are described only via page text, not CSS, so their visual implementation is unconfirmed.

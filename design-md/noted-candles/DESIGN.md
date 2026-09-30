@@ -4,6 +4,10 @@ name: "Noted Candles"
 source_url: "https://notedcandles.com"
 captured_at: "2026-09-28T09:51:04.058872+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Noted Candles' storefront runs on a Shopify theme with multiple pre-built
   color schemes; the surveyed CSS custom properties define a warm, neutral
@@ -163,6 +167,13 @@ components:
 Touch targets are recommended at a minimum 44×44px for nav links, scent chips, and cart controls. Mega-menu categories (Shop by Scent, Shop by Category, Shop by Values) should collapse into accordions on mobile. This table is a recommendation based on common e-commerce patterns and the theme's multi-scheme structure; it is not a measurement of the live responsive implementation.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

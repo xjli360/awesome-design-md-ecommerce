@@ -4,6 +4,10 @@ name: "Promega"
 source_url: "https://www.promega.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The life-science supply sector defaults to cold institutional blue, but Promega's interface opens on #fdb813 — a warm amber that runs from the navigation masthead through every primary CTA, communicating laboratory-grade optimism rather than corporate restraint. The color is genuinely anomalous: competing catalog sites reach for their respective shades of #0059b3 and regulatory gray; Promega brands itself with the color of reagent-vial labels warming under a biosafety cabinet. Below that amber anchor, the palette intentionally fragments into a product-line taxonomy legible at a glance. Blues (#0371bd, #2275d3, #048fef) shade molecular biology and cloning reagents; biology greens (#028845, #0eb58a, #4bc076) track genomics and cell-viability assay kits; teal (#317d8b) marks detection and instrument categories; mauve (#713a61) and violet (#660099) signal specialty or premium research lines; periwinkle-lavender (#7e8be4) appears in informational callouts and data-visualization strips. This is not aesthetic variety — it is a color-coded wayfinding system for researchers navigating a catalog numbering in the thousands of SKUs, each seeking the exact buffer or enzyme in under three clicks. Type runs Roboto across the full stack with Arial and Helvetica Neue as system fallbacks — no proprietary typeface, no variable-weight showmanship. Display hierarchy is built on size and weight contrast alone: 36px/700 at the hero level steps cleanly to 14px/400 body copy. Spare uppercase tracking at 11px/700 labels filter pills and section anchors, borrowing the fixed-abbreviation convention of laboratory signage — brief, unambiguous, scannable. Catalog numbers render in monospace to signal machine-copyability, a subtle but functional nod to scientists who paste SKUs into LIMS systems. Buttons sit on {rounded.sm} corners (4px), preserving the utilitarian geometry expected in professional procurement contexts; cards adopt {rounded.md} (6px); the canvas stays white (#ffffff) with #f1f1f1 surface-card fills and #ececec mid-tones for alternating table rows, importing the visual logic of a printed catalog into the screen. A 6px amber stripe anchors both the top nav and the footer top edge, framing every page in the brand's single voltage.
 
@@ -389,6 +393,13 @@ components:
 - Footer collapses from four-column to two-column at tablet and single-column stacked at mobile; amber top stripe and dark fill persist at all widths
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

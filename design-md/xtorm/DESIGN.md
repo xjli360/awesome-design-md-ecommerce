@@ -4,6 +4,10 @@ name: "Xtorm"
 source_url: "https://www.xtorm.eu"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep teal (#108474) pulses through Xtorm's interface like a charged battery indicator — every primary button, active link, and category badge carries this single saturated hue against acres of neutral gray canvas. The palette is deliberately industrial: a near-black ink (#191d21), mid-weight body text in #555555, and a cool #eeeeee surface system that reads like brushed aluminum casing. Orange (#f28c00) fires only at urgency moments — sale badges, low-stock warnings, solar-output indicators — creating a two-signal vocabulary where teal means "go" and amber means "notice." Typography pairs Maven Pro for headlines (geometric, rounded terminals that echo USB-C port silhouettes) with Nunito Sans at 400/600 weights for body and UI chrome; both are sans-serifs tuned for small mobile screens where wattage specs and mAh figures must scan instantly. Cards sit on #ffffff surfaces lifted from a #f9fafb canvas with subtle #e2e2e2 hairlines — no heavy shadows, no glassmorphism, just clean separation. Corner radii stay tight: product cards at `{rounded.sm}`, buttons at `{rounded.xs}`, chips and badges nudged to `{rounded.full}` pill shapes for capacity tags like "20000 mAh" or "45W PD." The nav bar is a slim 64px strip with a dark #2b2f3d mega-menu dropdown housing product category icons. Grid gutters tighten aggressively on mobile where three-across product tiles pack maximum information density — image, wattage badge, price, and stock indicator in under 200px width. A secondary lavender (#a89cc8) appears exclusively on the Fuel Series product line, while light teal (#c1e6e6) backgrounds feature-comparison tables, giving each product family a chromatic identity without fragmenting the core teal+neutral system.
 
@@ -371,6 +375,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

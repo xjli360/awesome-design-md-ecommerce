@@ -4,6 +4,10 @@ name: "Inspired Leather"
 source_url: "https://inspiredleatherco.com"
 captured_at: "2026-09-28T10:23:53.020801+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Inspired Leather's storefront evidence shows a deliberately high-contrast,
   black-and-white foundation: body and sidebar text render in pure black
@@ -170,6 +174,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be at least 44px tall; `button-md`'s observed 55px height comfortably satisfies this. Navigation and filter panels are assumed to collapse into a drawer/menu below tablet width; this collapse behavior was not observed and is a standard e-commerce convention.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

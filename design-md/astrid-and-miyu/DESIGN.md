@@ -4,6 +4,10 @@ name: "Astrid & Miyu"
 source_url: "https://www.astridandmiyu.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Parchment-warm cream (#f6ede6) floods every background layer on this London demi-fine storefront — the meta theme-color set at the document root, so even the browser chrome blushes before a single product image loads. Cormorant, a high-contrast editorial serif whose hairline strokes run as thin as a fine-gauge chain, handles all display headings at light weight 300, letting generous negative space carry the editorial register that a heavier cut would shout. Tenor Sans governs navigation and labels in spaced uppercase, its even stroke width sitting in cool contrast to Cormorant's modulated forms; Montserrat picks up body copy and price strings with utilitarian neutrality below the fold. CTAs fire in terracotta #cb7f64 — a warm copper-rose calibrated to read as an extension of yellow-gold and rose-gold metal tones rather than a marketing alarm. Against the blush canvas the contrast ratio is deliberately intimate; this is a brand where "add to cart" feels like an invitation rather than a demand. A companion dusty-slate #676986 handles filter pill selections and secondary link states, its blue-lavender undertone maintaining cool tension with the warm neutral field. The broader palette maps to precious metals and gemstone adjacents: burnished sand (#e2c4ac), dusty rose (#e6c0b3), warm blush (#dba593), sage mist (#d4dcd0), and a deep navy-charcoal (#272d45) that anchors the footer and announcement bar in stark contrast to the body warmth. Corner radii follow jewelry-counter logic: product images and primary buttons sit at {rounded.none}, placing them in the same visual register as a ring box or folded tissue; filter chips and metal-swatch circles use {rounded.full}, mirroring the round forms of the pieces themselves. Spacing is generous — heroes breathe at {spacing.section}, product grids run at {spacing.xl} gutter. The Okendo review widget inherits star fills in the terracotta primary, maintaining tonal continuity across third-party social proof.
 
@@ -427,6 +431,14 @@ components:
 - Footer 4-column link grid collapses to single-column accordion on mobile; `slate-deep` background maintained at all breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

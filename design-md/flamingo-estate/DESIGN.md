@@ -4,6 +4,10 @@ name: "Flamingo Estate"
 source_url: "https://flamingoestate.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Flamingo Estate is a California-born bath, body, and home brand that feels like stepping into a sun-drenched garden studio where the soil is still on the tomatoes. The palette is rooted in a deep, earthy olive {colors.primary} (#45523e) that appears on primary buttons and key accents, balanced by a soft, almost chalky cream {colors.canvas} (#fcfbf6) that serves as the background for most pages. Secondary surfaces use a muted sage {colors.surface-soft} (#eff2e9), while product cards and content blocks sit on a clean white {colors.surface-card} (#ffffff). The brand’s signature red — a warm, slightly brickish tone {colors.badge-red} (#a32121) — appears on sale badges, limited-edition flags, and small accent dots, providing a pop of heat against the otherwise cool, botanical palette. Typography leans heavily on the Exposure family — a variable, expressive serif that can shift from a delicate, almost calligraphic thin weight in headlines to a sturdy, grounded medium in body text — paired with the friendly, rounded sans-serif Maison Neue for UI labels and buttons. The overall mood is one of cultivated wildness: nothing feels overly polished, yet every detail — from the generous 32px corner radius on cards to the 64px section spacing — suggests a deliberate, tactile luxury. The brand trusts its product photography to carry emotion, using generous whitespace and a restrained color system that lets the deep greens and earthy reds of the actual ingredients (rosemary, tomato, honey) do the talking. The result is a design system that feels less like a retail interface and more like a beautifully printed seed catalog — warm, honest, and just a little bit unruly.
 
@@ -386,6 +390,13 @@ components:
 - Secondary navigation (category filters) collapses to a horizontal scroll strip on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

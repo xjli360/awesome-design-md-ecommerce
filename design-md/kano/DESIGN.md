@@ -4,6 +4,10 @@ name: "Kano"
 source_url: "https://kano.me"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A brand built on the idea that making a computer should feel like building a LEGO set, Kano uses a saturated, almost candy-colored palette anchored on a vivid orange (#ff6900) that reads as energy and play, not corporate tech. This primary orange appears on the site's primary CTAs, the product hero imagery, and the brand's signature "Make" button — a bright invitation to create rather than consume. The supporting palette is a deliberate departure from the grayscale-and-blue of conventional computing: a deep purple (#8a59c6) for secondary actions, a warm yellow (#ffc100) for badges and highlights, and a coral-pink (#ff5266) for error states and sale markers. The neutral system is a warm charcoal (#414a51) for body text rather than pure black, keeping the interface approachable. Typography runs a geometric sans-serif at moderate weights — display headlines sit at 24–32px in weight 600, never heavy enough to intimidate. Cards use a soft 12px radius (`{rounded.md}`), buttons are pill-shaped (`{rounded.full}`) at 48px height, and the entire interface avoids sharp corners except on data-heavy tables. The brand's signature design move is the "kit" metaphor: every product page shows components as individual, colorful modules arranged in a grid, each with its own subtle drop shadow and a 2px hairline (`{colors.hairline}`) that reads as a construction diagram. The footer is a dense, colorful grid of links and illustrations, more like a toy box than a legal document. Kano's voice is direct, instructional, and celebratory — "You made this" appears after every build step, rendered in the brand orange on a white canvas.
 
@@ -465,6 +469,13 @@ components:
 - Step indicators hide labels on mobile, showing only numbers
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

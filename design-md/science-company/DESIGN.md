@@ -4,6 +4,10 @@ name: "Science Company"
 source_url: "https://www.sciencecompany.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Laboratory safety green — #117744, deep as a fume hood indicator — anchors every primary action on sciencecompany.com, a palette choice that reads less like brand strategy and more like institutional habit: the same green that marks "safe exit" and "eyewash station" now marks "Add to Cart." The second extracted color, a pure #ff0000 with no warm or cool offset, functions as the system's alarm register: required-field markers, out-of-stock notices, sale-price deltas. Together the two chromatic signals mirror the binary of a lab environment — proceed or stop — with no decorative third tone in between.
 
@@ -385,6 +389,13 @@ components:
 - nav-top-strip is hidden on mobile to preserve header height for logo and hamburger
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

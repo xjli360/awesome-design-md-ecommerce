@@ -4,6 +4,10 @@ name: "Bauman Rare Books"
 source_url: "https://www.baumanrarebooks.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A gilded, scholarly marketplace where #ebcb45 — a warm, aged-gold yellow — punctuates an otherwise bone-white and pale-gray canvas (#ececec), evoking the patina of leather-bound first editions rather than the sterile white of a modern e-commerce site. The brand leans into its heritage: proxima-nova at moderate weights (400–600) sets a tone of understated erudition, while Arial serves as a pragmatic fallback for system-level text. Signature design moves include a persistent top nav with a deep link structure (Shop, Authors, Browse, About) that mirrors a physical bookstore's taxonomy, and product pages that foreground condition notes and provenance details — the bibliophile's equivalent of a tasting menu. Buttons and CTAs use the gold as a restrained accent, never overwhelming the page; the real drama comes from high-resolution images of rare books, their spines and gilding catching light against the soft gray backdrop. The footer is dense with informational columns (Customer Service, Events, Press, Sign Up), treating the site as a destination for collectors rather than a quick-transaction funnel. There are no hard corners anywhere — inputs and cards use gentle {rounded.sm} radii — but the overall feel is serious and archival, not playful. The extracted palette is sparse (two colors), suggesting a brand that relies on photography and whitespace over chromatic variety.
 
@@ -308,6 +312,14 @@ components:
 - The quantity selector and add-to-cart button stack vertically on mobile product pages.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

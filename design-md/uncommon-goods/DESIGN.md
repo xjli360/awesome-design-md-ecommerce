@@ -4,6 +4,10 @@ name: "Uncommon Goods"
 source_url: "https://www.uncommongoods.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The shop declares its personality through an unlikely chromatic adjacency: a national-forest green (#006341) — the shade of a ranger station rather than a commerce CTA — set against warm apricot (#ffa549) that turns every sale badge and promo strip golden. That green, confirmed by the site's own meta theme-color, saturates every primary button, navigation bar, and trust marker, deepening to #003926 under hover. What distinguishes the visual system is its refusal to stop at two or three anchors: Uncommon Goods runs a full gift-taxonomy spectrum across catalog browse — dusty peach (#fee4ca) and vivid tangerine (#eb5721) tag outdoor and garden discoveries, rose (#f391a4) and deep mauve (#d94f6a) mark personal-care items, swimming-pool teal (#2ac4e3) signals kitchen and bar finds, warm honey (#f5bc22) flags art and home décor. Each hue functions as a wayfinding signal as much as a brand color; the palette is a product taxonomy wearing category colors.
 
@@ -392,6 +396,13 @@ components:
 - Hero text/image stacks vertically on mobile with text above image
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

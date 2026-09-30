@@ -4,6 +4,10 @@ name: "Duesenberg"
 source_url: "https://www.duesenberg.de"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The parchment warmth of #e4e2d5 anchors a site that would rather whisper Duisburg workshop than broadcast e-commerce — a cream ground that reads more like an aged guitar catalog than a contemporary DTC storefront. Duesenberg's instruments draw from the same 1930s-to-1950s American visual grammar as the automobiles that lend the brand its name: binding details, bound headstocks, sparkle finishes. Digitally, that heritage surfaces in the restraint of an almost entirely system-font type stack — no custom display typeface claims the foreground; the guitars themselves provide the visual energy. Primary interactions run through an assertive #0062cc, a blue inherited from Bootstrap's utility layer rather than a bespoke brand color, which puts CTA work in serviceable hands without upstaging product photography. Dark near-blacks (#1d2124, #1b1e21) anchor footers and immersive hero sections, creating the shadow-box context that vintage instrument photography demands. Spec data renders in monospace via Consolas or Courier New — a legible nod to the technical precision that German manufacturing implies. Rounded corners stay conservative: {rounded.xs} on buttons and inputs keeps UI geometry squared-off, matching the angular cutaways and binding edges of the instruments themselves. Guitar model names carry the brand's real typographic personality — typically set large, tight-tracked, with enough weight to feel structural rather than decorative. The extracted palette's Bootstrap-pattern secondary colors (success greens, warning ambers, danger reds) appear to drive badge and alert states rather than brand expression, meaning the site's true visual identity rests almost entirely on photography and hardware chrome, with typography and color playing a supporting structural role.
 
@@ -279,6 +283,13 @@ components:
 - Artist signature cards collapse from horizontal to vertical stack below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Taikan"
 source_url: "https://www.taikan.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A dark, almost obsidian canvas (#131313) is the defining gesture of Taikan — a phone-accessories brand that treats the screen as a vanishing point and the case as a sculptural object. The palette is overwhelmingly black and near-black (#272727, #222222, #3e3e3e, #1d1d1d), with a single sharp accent of #f0523d, a desaturated vermilion that appears on price tags, add-to-cart buttons, and sale badges. Typography runs Clarkson and proxima-nova at modest weights — there is no display face, no decorative serif; the brand communicates through product photography and tight, utilitarian copy blocks. Buttons are pill-shaped (`{rounded.full}`) and sit flush against the dark canvas, while product cards use `{rounded.lg}` corners that echo the rounded bezels of the phones themselves. The footer is a dense grid of links in #aaaaaa on #131313, and social icons appear in their native brand colors (#3b5998 for Facebook, #e4405f for Instagram, #0976b4 for Twitter), suggesting the brand lets platform identity bleed through rather than enforcing a monochrome lockup. The overall effect is of a premium aftermarket — not a case you buy because you have to, but one you choose because it matches the phone's own black-glass minimalism.
 
@@ -313,6 +317,13 @@ The footer is a dense grid of links on `{colors.canvas}` (#131313). Column headi
 - Sale badges remain visible at all breakpoints but reduce font size on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

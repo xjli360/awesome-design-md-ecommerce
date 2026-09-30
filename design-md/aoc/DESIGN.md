@@ -4,6 +4,10 @@ name: "AOC"
 source_url: "https://www.aoc.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Thirty distinct hex values in the extracted palette — crimson, violet, amber, jade, steel-blue, magenta — and every one of them assigned to a product tier rather than used decoratively. AOC's voltage color is #e91a21, a saturated signal-red that charges every primary CTA, the AGON gaming sub-brand's mark, and active navigation states. Below that red anchor, #3c3c3c near-black charcoal carries body text on an #ffffff white canvas, letting hardware photography read cleanly without competing color fields. The multi-spectrum accent system encodes product lines the way a spec sheet encodes panel resolution: #ff8500 orange for mid-tier gaming, #9f5fec violet for high-refresh competitive displays, #fbba00 amber for professional color-accurate panels, #009640 green for entry-level screens, #46aad2 steel-blue for business lines, and #7328cd deep violet for AGON PRO flagship configurations. A buyer scanning product thumbnails can sort performance tier by color before reading a single spec. Structural geometry is hard-edged throughout — cards sit at {rounded.sm}, buttons at {rounded.xs}, and there is no pill form anywhere except category filter chips. This angularity reinforces a precision-hardware positioning that contrasts sharply with the lifestyle DTC brands that soften every corner. On AGON gaming sub-pages, the canvas inverts to near-black {colors.dark-canvas}, the red primary becomes the lone warm signal against a cold dark field, and the accent hues glow the way desktop RGB LEDs do against a darkened desk. Spec-comparison tables are the primary conversion surface and receive the most layout real estate; a four-column desktop product shelf collapses to two columns on tablet and single-column stacked cards on mobile while keeping a floating comparison tray accessible at the viewport bottom. Typography was loaded via JavaScript and not capturable at extraction time; the rendered stack behaves as a geometric grotesque in a 400–700 weight range with tight letter-spacing at display sizes.
 
@@ -453,6 +457,14 @@ components:
 - Series navigation tabs (AGON, Style, Pro Line) collapse to a horizontally scrollable pill row on tablet and below with no visible overflow indicator — pills scroll on swipe
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

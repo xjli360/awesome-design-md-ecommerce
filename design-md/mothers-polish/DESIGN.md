@@ -4,6 +4,10 @@ name: "Mothers Polish"
 source_url: "https://mothers.com"
 captured_at: "2026-09-29T04:16:00.104226+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation reads Mothers.com as a heritage automotive-care brand (est. 1974) built on a Shopify storefront layered with Bootstrap-derived utility classes. The observed palette is dominated by a strong red (#dc1831, reinforced by #ce1126, #ee1616, #f8353e) against near-black body text (#1f1f1f) and pure white canvas — a combination consistent with a garage/performance-product identity, though the exact brand-red role is inferred from frequency and contrast rather than a labeled brand token. Bootstrap system colors (#28a745, #dc3545, #17a2b8, #ffc107, #007bff) appear in the CSS and are treated here as functional/status colors rather than brand expression, since they follow standard Bootstrap button-state naming (.btn-success, .btn-info, .btn-warning).
   Typography combines system sans stacks (Arial, sans-serif) with loaded webfonts: Oswald and Muli/Open Sans for structured UI and body copy, plus a Typekit-served eurostile-condensed (italic, weight 800) whose presence suggests a condensed, motorsport-flavored display treatment for hero or promotional headlines. This role is inferred, not confirmed by a screenshot.
@@ -135,6 +139,13 @@ This is a recommended breakpoint structure, not measured site behavior:
 Touch targets should be at minimum 44px in height for cart and filter controls (proposed). Navigation collapse thresholds and mega-menu behavior mirror the multi-level menu labels found in the page text but were not verified through direct interaction testing.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered screenshots, computed styles, or live interaction states were captured. Role assignments for `primary`, `ink`, `body`, and `muted` are inferred from frequency and typical semantic pairing, not from labeled design tokens. Bootstrap-style status colors (`success`, `danger`, `info`, `link`) follow standard framework class naming and may not represent intentional brand choices. Font role assignments (display vs. body) are inferred from common industry convention (condensed display faces for automotive branding); the eurostile-condensed face is confirmed only via a Typekit `@font-face` import, and licensing/availability for reuse outside Mothers.com is not verified. All spacing, rounding, and breakpoint values are proposed defaults, not measured from the live site. Mobile menu behavior, hover/focus states, and cart-drawer interactions referenced in the page text were not directly observed and are marked proposed throughout.

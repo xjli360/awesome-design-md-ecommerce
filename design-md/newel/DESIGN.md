@@ -4,6 +4,10 @@ name: "Newel"
 source_url: "https://www.newel.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Near-black at #171717 is the load-bearing surface of Newel's digital gallery — not a background but a room: dark walls, controlled light, antiques given a museum-grade stage. Type is set in ASTORIA for display headings, a condensed geometric sans whose uppercase forms echo wayfinding signage in a physical gallery, paired with EB Garamond for body copy and pricing — an Elizabethan serif that reads like catalog text from an auction house rather than an e-commerce grid. The grayscale palette runs from #fbfbfb (near-white canvas for card and search surfaces) through three grays — #e0e0e0 hairline, #757575 muted annotations, #4f4f4f body copy — down to the primary near-black ink (#262626) and the deepest field tone (#171717), an entire brand expression built without a single chromatic accent. Interactive elements hold the same dark register: a button activating reads like the same ink annotating a provenance note. Corners throughout are square or nearly so, reinforcing the gallery's institutional formality — there is no softness anywhere except the white glove. Product cards hold antiques at respectful distance: the image fills a tall 4:5 container, with item title, period, and price in compact EB Garamond beneath. The nav sits in the primary near-black with ASTORIA uppercase labels at tight tracking, echoing a gallery's room-by-room wayfinding rather than a navigation menu. Search is purposefully restrained — a clean input against the dark header, no pill, no orb, just a functional form that defers entirely to the inventory. Newel's interface is the architectural decision to let a 19th-century French commode or a 1930s Art Deco lamp speak for itself, framed by dark walls and a spare serif.
 
@@ -345,6 +349,13 @@ components:
 - Inquiry form occupies full column width on mobile, losing the inset panel treatment
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

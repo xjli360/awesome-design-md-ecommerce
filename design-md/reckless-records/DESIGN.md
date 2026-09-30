@@ -4,6 +4,10 @@ name: "Reckless Records"
 source_url: "https://www.reckless.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A Chicago institution that wears its inventory like a badge of honor, Reckless Records builds its digital storefront on a deep black ink (#111111) canvas that makes every album cover, DVD spine, and seven-inch sleeve pop like a jewel in a dark crate. The extracted palette reads like a record store's back room — muted grays (#868e96, #464a4e) for secondary text and dividers, with sharp accent colors that map directly to vinyl genres and price tags: a deep indigo (#004085) for the header and primary actions, a forest green (#155724) for in-stock badges, a teal (#0c5460) for special-edition callouts, and a warm amber (#856404) for sale markers. The typography stack leans hard on system fonts — Apple's San Francisco via -apple-system, Roboto for Android, and Helvetica Neue for legacy — giving the site a fast, utilitarian feel that prioritizes browsing speed over brand theater. Buttons use tight {rounded.sm} corners (8px), not the pill shapes of modern ecommerce; the search bar sits as a simple input with a magnifying-glass icon, not a floating orb. The nav bar is a single dark band (#111111) with white text, carrying the store's name and a handful of links — no mega-menus, no lifestyle photography. This is a site built for people who already know what they want: a specific pressing, a rare import, a used CD that's been out of print for years. The design gets out of the way.
 
@@ -316,6 +320,13 @@ components:
 - Footer links collapse from a multi-column layout to a single vertical stack on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

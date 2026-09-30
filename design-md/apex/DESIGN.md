@@ -4,6 +4,10 @@ name: "Apex"
 source_url: "https://apexride.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A 3px crimson left-border accent — and nothing else — separates a scheduled workout from a product tile in Apex's library. That single mark does the taxonomic work that another brand would assign to color fills, background swaps, or icon sets, and it reveals the design logic operating underneath the entire system: maximum signal, minimum surface. The canvas runs near-black (#0A0A0A), dark enough that product photography reads as emitted light rather than reflected; component surfaces step up in 8–10 luminance points at a time ({colors.surface-soft}, {colors.surface-card}), creating a depth hierarchy that feels like instrument layers on a head-unit display rather than a conventional page stack. Into that compressed field, a single performance-red primary (#FF2D20) carries every CTA, active pill, data-accent, and progress-fill — there is no secondary brand hue, no gradient, no tint palette. Secondary actions defer to white outlines on the dark field, and the outline disappears entirely for ghost variants that only need a red text label. Typography runs in two registers: a condensed grotesque at heavy weight and wide uppercase tracking for display and button copy — the kind of letterform that reads at sprint pace on a class-room screen — and a monospaced data stack for wattage figures, resistance percentages, and session counts. The condensed display scale starts at 80px on desktop (weight 800, uppercase, −1.5px letter-spacing) and compresses to 40px at mobile, maintaining optical mass at every breakpoint. The monospaced data-readout (32px, weight 700) sits beside the prose stack on product detail pages, giving specs the instrument-panel authority that raw text weight cannot provide. Corner radii are minimal: {rounded.xs} (4px) on buttons and inputs signals engineering precision; {rounded.md} (12px) on cards adds enough curve to prevent the grid from reading as a dashboard error panel. Spacing pulses between tight component density and generous {spacing.section} (64px) section breaks, structuring the page like an interval session — compressed effort, deliberate recovery. Badge language is blunt and uppercase: RIDE, TRAIN, COMPETE — no subtitle, no icon, no soft qualifier anywhere in the system.
 
@@ -337,6 +341,14 @@ components:
 - Hero typography: `display-xl` scales linearly; sub-headline body text is hidden at < 744px to avoid text collision with the compressed layout
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

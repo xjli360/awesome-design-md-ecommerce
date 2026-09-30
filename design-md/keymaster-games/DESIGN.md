@@ -4,6 +4,10 @@ name: "Keymaster Games"
 source_url: "https://keymastergames.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Three display typefaces on a single storefront — sculpin for geometric headlines, Bricolage Grotesque for characterful UI labels, maple-web for warm body text — is the kind of typographic layering that board-game retailers almost never attempt online, yet Keymaster makes the stacking order feel editorial rather than cluttered. The extracted palette runs five stops from near-white #dedede through mid-gray #777777 down to near-black #121212, a monochrome corridor with no accent hue visible in the static CSS extraction. This is a deliberate gamble: every pixel of chromatic energy belongs to the game artwork — illustrated boxes, painted landscapes, hand-lettered title lockups — and the site shell refuses to compete. Primary CTAs render in solid #191919 with `{colors.on-primary}` white text, dense and authoritative against the lighter canvas, while `{colors.surface-dark}` panels at #121212 create full-bleed hero sections that turn each featured title into a cinema-poster reveal. Buttons and cards use modest rounding (`{rounded.sm}` to `{rounded.md}`), keeping containers structured so that the organic, hand-illustrated game art provides all the curvilinear warmth. Navigation sits in Bricolage Grotesque at a restrained weight, its variable-width strokes lending a handmade quality that quietly rhymes with the tabletop ethos — things built to be touched and shared around a table. Body copy in maple-web reads warm and approachable at paragraph length, a softer voice that bridges sculpin's geometric sharpness and the humanist navigation type. A monospace face appears in accent contexts — edition numbers, game-stat callouts, promotional lockups — adding a utilitarian register that nods toward rulebook typography. Spacing runs generous, with `{spacing.xl}` and `{spacing.section}` gutters between game collections signaling gallery-wall presentation rather than catalog density. The overall system reads as a tabletop publishing house that happens to sell through Shopify: restrained chrome, editorial type hierarchy, and an absolute conviction that the brightest thing on every page should be the game itself.
 
@@ -538,6 +542,13 @@ components:
 - The cart drawer becomes a full-screen overlay on mobile (< 744px) instead of a side panel.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

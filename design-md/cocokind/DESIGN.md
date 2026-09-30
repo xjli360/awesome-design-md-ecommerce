@@ -4,6 +4,10 @@ name: "Cocokind"
 source_url: "https://www.cocokind.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Cocokind is a clean, sensitive-skin-first skincare brand that feels like a gentle morning ritual — soft, warm, and deeply intentional. The canvas is a creamy off-white (#f7f4ec) that reads more like unbleached cotton than sterile white, while the primary brand voltage comes from a muted terracotta (#cd3b1f) that appears on CTAs, badges, and ingredient callouts without ever feeling aggressive. Supporting accents drift into sage (#2d4e46), blush (#e56b54), and a pale peach (#fcc89b) that echo the brand's plant-based, "skin-cycling" philosophy. Typography runs Aktiv Grotesk Corp for headlines and Libre Franklin for body — both clean, slightly warm humanist sans-serifs that avoid the cold precision of typical beauty brands. Buttons use soft 8px radii (`{rounded.sm}`) and generous padding, while product cards and ingredient badges lean into 12px corners (`{rounded.md}`) that feel tactile but not pillowy. The overall mood is "apothecary meets modern minimalism" — there is no hard black anywhere; even the ink (#121212) is a softened near-black, and the hairline (#dedede) is barely there. Signature moves include a persistent top nav with a search bar that collapses to an icon on mobile, a hero section that pairs a single product shot with a warm gradient overlay (#fdf2d9 to #f7f4e9), and a footer that uses the sage green (#2d4e46) as a grounding anchor. The brand trusts negative space, soft shadows, and ingredient photography over heavy typography or flashy animations.
 
@@ -407,6 +411,13 @@ components:
 - Product image galleries collapse to a single swipeable carousel on mobile, removing thumbnails
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

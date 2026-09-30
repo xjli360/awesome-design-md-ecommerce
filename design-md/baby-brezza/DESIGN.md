@@ -4,6 +4,10 @@ name: "Baby Brezza"
 source_url: "https://babybrezza.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Warm greiges and charcoal-tinted grays — a palette running from #bcb2a8 through #62605d down to #303030 — form the environmental backdrop rather than a pediatric-primary palette, signaling that Baby Brezza is marketing to design-conscious parents who live in neutral-toned homes. The true brand voltage arrives via #006fba, a saturated utility blue that carries every add-to-cart button, primary CTA, and active nav element. Work Sans handles all typography — a geometric sans-serif that reads as modern and approachable without the clinical coldness of Inter or the retro warmth of Futura; at title weights (600) it has enough mass to anchor product names across the Formula Pro Advanced and Sterilizer categories, while at body weight (400) it stays legible at small sizes for instruction-dense product detail pages.
 
@@ -426,6 +430,14 @@ components:
 - Feature strip wraps to 2×2 grid below 480px with increased vertical padding between rows
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

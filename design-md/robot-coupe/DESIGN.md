@@ -4,6 +4,10 @@ name: "Robot Coupe"
 source_url: "https://www.robot-coupe.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Green runs through Robot Coupe's digital presence the way it marks every physical machine housing — #5aa039 anchors navigation highlights, CTA buttons, and category badges with the directness of a power switch on stainless steel. The site reads like a technical catalogue given just enough digital polish: product imagery dominates on white canvas, specifications live in tightly gridded tables, and the color story stays restrained to that single institutional green against warm grays (#707070 for body copy, #717171 for secondary labels). There is no gradient play, no lifestyle-brand softness — corners stay sharp or barely eased (`{rounded.xs}` on cards, `{rounded.sm}` on buttons), communicating the precision engineering of a brand that invented the commercial food processor in 1963. Typography loads via JavaScript and likely resolves to a geometric sans in the Helvetica/Arial lineage, set at moderate weights; display headers read bold but never decorative, reinforcing the equipment-manual clarity that professional chefs expect. Product cards present a machine photograph, a model name in `{typography.title-md}`, and a single green "Discover" button — no star ratings, no lifestyle copy, no promotional noise. The navigation groups products by professional application (vegetable preparation, cutter mixers, blenders) rather than by marketing campaign, and a country-selector dropdown reflects the 100+ market reach. Spacing is generous at section level (`{spacing.section}`) but compressed within data-dense spec blocks (`{spacing.sm}` gutters), letting information breathe without wasting the screen real-estate a procurement officer needs to compare models. The overall impression is an engineering company that respects its users' time — functional, credible, green.
 
@@ -346,6 +350,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Veritas"
 source_url: "https://www.leevalley.com/en-us/tools/brand/veritas/sharpening-tools"
 captured_at: "2026-09-29T04:15:55.964770+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Veritas is the in-house tool brand of Lee Valley Tools, presented here within Lee Valley's parent e-commerce site rather than as an independent storefront. The observed palette is dominated by neutral grays and off-whites (#eeeeef page background, #4a4a4a body copy, #767676 muted text) paired with a small set of deep institutional blues (#013056, #00467e, #003c71) used for buttons and links, consistent with a trade-tool retailer's restrained, functional aesthetic. No Veritas-specific accent color was distinguishable from Lee Valley's general site chrome, so the primary action color is inferred from the observed button background (#013056) rather than confirmed brand guidelines.
   Typography is dual-stack: computed styles on this page resolve to "Open Sans"/"Open Sans Fallback," while the stylesheet also defines a separate `body.veritas-font` rule (verdana, arial, helvetica) presumably reserved for Veritas-branded product or legacy content blocks. This document treats Open Sans as the primary observed UI font and notes the verdana/arial stack as an available but unconfirmed secondary treatment.
@@ -152,6 +156,13 @@ This is a proposed, unmeasured breakpoint recommendation, not observed site beha
 Touch targets are recommended at a minimum 44×44px for buttons and nav items, per general accessibility practice, not a value extracted from the CSS. Collapse of secondary filters/facets into an off-canvas panel on mobile is a proposed pattern for a tool-catalog page of this density and is not confirmed from the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

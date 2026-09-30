@@ -4,6 +4,10 @@ name: "Monte Design"
 source_url: "https://montedesign.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Monte Design crafts modern luxurious furniture for nursery and home, where a serene, sophisticated palette of soft greys and muted tones creates a calm, nurturing atmosphere. The brand's identity is built on a foundation of understated elegance, using a primary blue accent (#1990c6) that acts as a gentle focal point against a canvas of warm whites and light greys (#dedede, #747474). This isn't a loud or trendy aesthetic; it's a considered, timeless approach where the quality of materials and the purity of form take center stage. The typography, set in the refined Chap typeface, reinforces this quiet confidence with its clean, slightly geometric lines, appearing in both light weights for airy body text and bolder weights for impactful headlines. Signature design moves include the use of soft, pill-shaped buttons (`{rounded.full}`) and generously rounded corners on product cards (`{rounded.lg}`), which echo the gentle curves of the furniture itself. The deep, almost-black ink (#121212) provides necessary contrast without harshness, while the muted greys (#333333, #747474) create a layered, tactile experience that feels both premium and approachable. The overall mood is one of curated calm — a space where every element, from the `{colors.surface-card}` white of a crib to the `{colors.hairline}` grey of a drawer pull, is chosen to foster a sense of peace and security, perfectly suited for the modern nursery or any room seeking a touch of luxurious serenity.
 
@@ -319,6 +323,13 @@ components:
 - Hero section text and images may stack vertically on smaller screens.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

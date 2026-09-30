@@ -4,6 +4,10 @@ name: "Ubisoft Store"
 source_url: "https://store.ubisoft.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A darkly atmospheric game storefront where #0a0a0a ink meets a cyan voltage of #008aa4, the primary that pulses through every CTA, badge, and hover state. The palette reads like a night-ops briefing: #c8cedd and #e5e8f0 form the muted silver of secondary text and hairline borders, while #00c248 and #1bc55a inject a neon-game-green for wishlist hearts and sale badges. Ubisoft Sans — a proprietary geometric sans — carries the brand's weight at display sizes with a crisp 600 weight, while body copy settles into Roboto for readability across game descriptions and system menus. The top nav is a persistent black bar (#0a0a0a) with white text, housing a full-width search field with a #008aa4 focus ring and a cart icon that glows the same cyan on hover. Product cards use a #fefefe canvas with #e6e6e6 borders and a subtle shadow, but the real signature is the "Add to Cart" button: a #008aa4 pill with white text, 48px tall, that shifts to #0058c4 on active and #007a91 on hover — a three-state cyan gradient that feels both gamey and trustworthy. Badges for pre-order, sale, and "New" use #ffdd00 gold, #cc4b37 red, and #00c248 green respectively, each with white text and a 4px radius. The footer is a dense #0a0a0a slab with #444444 dividers, legal links in #428ee0, and social icons in #929db6. Every corner is either sharp (0px on nav and cards) or softly rounded (8px on buttons, 4px on badges) — no pill extremes except the search bar, which uses a 20px radius to feel approachable. The overall mood is "premium gaming utility": dark, high-contrast, with cyan as the single source of brand heat.
 
@@ -321,6 +325,13 @@ components:
 - Cart icon remains visible at all breakpoints, but cart preview panel becomes full-screen on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

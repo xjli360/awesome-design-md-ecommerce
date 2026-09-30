@@ -4,6 +4,10 @@ name: "Fireball Printing"
 source_url: "https://fireballprinting.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The name earns its color — #cf4646, a warm declarative red that ignites every primary call-to-action on the site before a visitor reads a single headline. Against a canvas washed in printer's-proof blue-white (#f5f9fb, #e0ecf4), that red arrives with the urgency of a deadline stamp, and the entire design system is organized around that moment of contrast. The typography system runs exclusively on Brown — Brown-Bold for headlines, price displays, CTAs, and quantity labels; Brown-Regular for body copy, spec tables, and form fields — a geometric sans-serif that sits between Futura's precision and something more workday and durable, legible at 12px caption labels and authoritative at 40px hero headlines without visual strain in either register. The color vocabulary is unusually broad for a printing service: a structured blue axis descends from deep navy #002e47 through brand-blue #3483ac down to pale wash tones (#ddeaf2, #cadfeb) that tile as surface separators and product-category backgrounds — a whole range that likely maps to pantone reference sheets and paper-stock swatches rather than arbitrary branding decisions. Alongside this, a deliberate accent system introduces yellow (#fae351), green (#76ae31, #9cd15a), and amber (#dc9600) as category flags and turnaround-status markers: rush-order urgency versus eco-stock availability, each distinguishable at scroll speed across a dense product grid. Rounded corners are consistent throughout — {rounded.sm} (8px) on interactive elements, {rounded.md} (12px) on product cards and calculator panels — approachable without veering toward consumer-app pill shapes; the geometry signals tool, not toy. The overall layout is catalog-dense: inline pricing on product cards, a quote-calculator widget that front-loads quantity and specification selection, a footer that treats turnaround times and paper options as first-class navigation. Every {spacing.lg} gap earns its keep by separating a paper finish option from its price tier, and the print workflow — configure, upload, proof, order — is the organizing spine of every page template on the site.
 
@@ -375,6 +379,13 @@ components:
 - `nav-bar-top-strip` is hidden below 744px if the banner message is non-critical; retained for active promotions
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

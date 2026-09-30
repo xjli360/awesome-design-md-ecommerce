@@ -1,0 +1,1336 @@
+{
+  "schema_version": 1,
+  "source_url": "https://www.tower28beauty.com/",
+  "method": "browser-computed-components",
+  "viewports": [
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "Skip to content\n\nFREE Mini Pouch on your First Order!\n\nFREE ",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 5522
+          },
+          "styles": {
+            "color": "rgb(135, 38, 38)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "\"Scto Grotesk A Medium\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "grid",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#shopify-section-sections--17196973391927__header > sticky-header:nth-of-type(1) > header:nth-of-type(1)",
+          "label": "Shop\nSwipe Serum Concealer®\nFind My Shade\nAbout\nLog in\nCart",
+          "box": {
+            "x": 0,
+            "y": 29,
+            "width": 1440,
+            "height": 56
+          },
+          "styles": {
+            "color": "rgb(135, 38, 38)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "\"Scto Grotesk A Medium\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "32px",
+            "padding-bottom": "0px",
+            "padding-left": "32px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "grid",
+            "gap": "normal 20px",
+            "row-gap": "normal",
+            "column-gap": "20px",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "navigation",
+          "selector": "#shopify-section-sections--17196973391927__header > sticky-header:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1)",
+          "label": "Shop\nSwipe Serum Concealer®\nFind My Shade\nAbout",
+          "box": {
+            "x": 219,
+            "y": 29,
+            "width": 1002,
+            "height": 56.5
+          },
+          "styles": {
+            "color": "rgb(135, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"Scto Grotesk A Medium\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "heading",
+          "selector": "#shopify-section-sections--17196973391927__header > sticky-header:nth-of-type(1) > header:nth-of-type(1) > h1:nth-of-type(1)",
+          "label": "",
+          "box": {
+            "x": 32,
+            "y": 29.25,
+            "width": 167,
+            "height": 56
+          },
+          "styles": {
+            "color": "rgb(135, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"Cooper Lt BT\", serif",
+            "font-size": "48px",
+            "font-weight": "400",
+            "line-height": "0px",
+            "letter-spacing": "-1px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "section-heading",
+          "selector": "#shopify-section-template--17196975161399__8b4724ed-eef7-4864-918c-11889d03f4c3 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > collection-list-toggle:nth-of-type(1) > h2:nth-of-type(1)",
+          "label": "Trending Now",
+          "box": {
+            "x": 56.015625,
+            "y": 1042.25,
+            "width": 290.8125,
+            "height": 56
+          },
+          "styles": {
+            "color": "rgb(135, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"Cooper Lt Bt\", sans-serif",
+            "font-size": "48px",
+            "font-weight": "400",
+            "line-height": "56px",
+            "letter-spacing": "-1px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "body-copy",
+          "selector": "#splide-template--17196975161399__8b4724ed-eef7-4864-918c-11889d03f4c3-slide05 > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+          "label": "Plumping without Irritation",
+          "box": {
+            "x": 1325.578125,
+            "y": 1467.640625,
+            "width": 293.390625,
+            "height": 21
+          },
+          "styles": {
+            "color": "rgb(135, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"Scto Grotesk A Medium\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "21px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--17196975161399__image_banner_ETbcJq > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "Shop the JELL-O Collection",
+          "box": {
+            "x": 985.09375,
+            "y": 436.65625,
+            "width": 297.78125,
+            "height": 38
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(218, 29, 54)",
+            "font-family": "\"Scto Grotesk A Medium\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "18px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "60px",
+            "padding-bottom": "0px",
+            "padding-left": "60px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "40px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(255, 255, 255)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "fit-content"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--17196975161399__8b4724ed-eef7-4864-918c-11889d03f4c3 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "SHOP ALL",
+          "box": {
+            "x": 1088.78125,
+            "y": 1063.25,
+            "width": 74.421875,
+            "height": 14
+          },
+          "styles": {
+            "color": "rgb(135, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"Scto Grotesk A Medium\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "500",
+            "line-height": "14px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "product-card",
+          "selector": "#splide-template--17196975161399__8b4724ed-eef7-4864-918c-11889d03f4c3-slide01 > div:nth-of-type(1)",
+          "label": "On Sale\nSOS Stressed Skin Mini Starter Gift Set\n\nAdd — \nOrig",
+          "box": {
+            "x": 56.015625,
+            "y": 1122.25,
+            "width": 293.390625,
+            "height": 492.390625
+          },
+          "styles": {
+            "color": "rgb(135, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"Scto Grotesk A Medium\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "flex",
+            "gap": "8px",
+            "row-gap": "8px",
+            "column-gap": "8px",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "#shopify-section-sections--17196973359159__footer > footer:nth-of-type(1)",
+          "label": "Made in L.A.\nShop All\nShop All\nMakeup\nSkincare\nShade Finder\n",
+          "box": {
+            "x": 0,
+            "y": 4601.3125,
+            "width": 1440,
+            "height": 920.6875
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "\"Scto Grotesk A Medium\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(255, 255, 255)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/Image_1_4ab3c8d7-8590-43d9-805d-67503b9a430d.png?crop=center&height=240&v=1743726170&width=240",
+          "alt": "SOS Spray Bottle",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/DSC3656_1_c5d1b34a-047e-4cad-af0c-450ce956e6d7.png?crop=center&height=240&v=1743726207&width=240",
+          "alt": "Shade Match",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/logo--clear-space.svg?v=1689771808&width=300",
+          "alt": "Tower 28 Beauty",
+          "width": 300,
+          "height": 80
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/JELL-O-Hero_Desktop_1.jpg?v=1790262756&width=1500",
+          "alt": "",
+          "width": 1440,
+          "height": 810
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/JELL-O-Mobilev2.jpg?v=1790612232&width=1100",
+          "alt": "",
+          "width": 1413,
+          "height": 2031
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/Copy_1.png?v=1790262754&width=1500",
+          "alt": "",
+          "width": 1440,
+          "height": 848
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/Copy_1.png?v=1790262754&width=450",
+          "alt": "",
+          "width": 1440,
+          "height": 848
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/3031119-hero.jpg?v=1790271685&width=400",
+          "alt": "[shared]",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/3025954-av-1.jpg?v=1790271686&width=400",
+          "alt": "[shared]",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/3026242-hero.jpg?v=1788277978&width=400",
+          "alt": "[shared]",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/3026242-av-3.jpg?v=1788277978&width=400",
+          "alt": "[shared]",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/3026234-Hero.jpg?v=1790635240&width=400",
+          "alt": "[shared]",
+          "width": 1440,
+          "height": 1440
+        }
+      ],
+      "document_width": 1440,
+      "viewport": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 1000
+      },
+      "states": {
+        "initial": "observed",
+        "hover": {
+          "selector": "#shopify-section-template--17196975161399__image_banner_ETbcJq > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(218, 29, 54)",
+            "borderColor": "rgb(255, 255, 255)",
+            "outline": "rgb(255, 255, 255) none 3px"
+          }
+        },
+        "focus": {
+          "selector": "#shopify-section-template--17196975161399__image_banner_ETbcJq > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(218, 29, 54)",
+            "borderColor": "rgb(255, 255, 255)",
+            "outline": "rgb(255, 255, 255) none 0px"
+          }
+        },
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-desktop.png",
+        "sha256": "e94ee558245c2fa258b70bd0111a96a781db333dd5adfd13c72374775a1ff992",
+        "public_path": "evidence/viewport-desktop.png"
+      }
+    },
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "Skip to content\n\nFREE Mini Pouch on your First Order!\n\nFREE ",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 5475.671875
+          },
+          "styles": {
+            "color": "rgb(135, 38, 38)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "\"Scto Grotesk A Medium\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "grid",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#shopify-section-sections--17196973391927__header > sticky-header:nth-of-type(1) > header:nth-of-type(1)",
+          "label": "Log in\nCart",
+          "box": {
+            "x": 0,
+            "y": 30,
+            "width": 768,
+            "height": 56
+          },
+          "styles": {
+            "color": "rgb(135, 38, 38)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "\"Scto Grotesk A Medium\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "32px",
+            "padding-bottom": "0px",
+            "padding-left": "32px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "grid",
+            "gap": "normal 0px",
+            "row-gap": "normal",
+            "column-gap": "0px",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "heading",
+          "selector": "#shopify-section-sections--17196973391927__header > sticky-header:nth-of-type(1) > header:nth-of-type(1) > h1:nth-of-type(1)",
+          "label": "",
+          "box": {
+            "x": 93.546875,
+            "y": 34,
+            "width": 150,
+            "height": 48
+          },
+          "styles": {
+            "color": "rgb(135, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"Cooper Lt BT\", serif",
+            "font-size": "48px",
+            "font-weight": "400",
+            "line-height": "0px",
+            "letter-spacing": "-1px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "section-heading",
+          "selector": "#shopify-section-template--17196975161399__8b4724ed-eef7-4864-918c-11889d03f4c3 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > collection-list-toggle:nth-of-type(1) > h2:nth-of-type(1)",
+          "label": "Trending Now",
+          "box": {
+            "x": 16,
+            "y": 1038.59375,
+            "width": 290.8125,
+            "height": 56
+          },
+          "styles": {
+            "color": "rgb(135, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"Cooper Lt Bt\", sans-serif",
+            "font-size": "48px",
+            "font-weight": "400",
+            "line-height": "56px",
+            "letter-spacing": "-1px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "body-copy",
+          "selector": "#splide-template--17196975161399__8b4724ed-eef7-4864-918c-11889d03f4c3-slide05 > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+          "label": "Plumping without Irritation",
+          "box": {
+            "x": 931.1875,
+            "y": 1411.390625,
+            "width": 204.796875,
+            "height": 21
+          },
+          "styles": {
+            "color": "rgb(135, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"Scto Grotesk A Medium\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "21px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--17196975161399__image_banner_ETbcJq > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "Shop the JELL-O Collection",
+          "box": {
+            "x": 353.109375,
+            "y": 437.65625,
+            "width": 297.78125,
+            "height": 38
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(218, 29, 54)",
+            "font-family": "\"Scto Grotesk A Medium\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "18px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "60px",
+            "padding-bottom": "0px",
+            "padding-left": "60px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "40px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(255, 255, 255)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "fit-content"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--17196975161399__8b4724ed-eef7-4864-918c-11889d03f4c3 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "SHOP ALL",
+          "box": {
+            "x": 493.578125,
+            "y": 1059.59375,
+            "width": 74.421875,
+            "height": 14
+          },
+          "styles": {
+            "color": "rgb(135, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"Scto Grotesk A Medium\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "500",
+            "line-height": "14px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "product-card",
+          "selector": "#splide-template--17196975161399__8b4724ed-eef7-4864-918c-11889d03f4c3-slide01 > div:nth-of-type(1)",
+          "label": "On Sale\nSOS Stressed Skin Mini Starter Gift Set\n\nAdd — \nOrig",
+          "box": {
+            "x": 16,
+            "y": 1118.59375,
+            "width": 204.796875,
+            "height": 429.796875
+          },
+          "styles": {
+            "color": "rgb(135, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"Scto Grotesk A Medium\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "flex",
+            "gap": "8px",
+            "row-gap": "8px",
+            "column-gap": "8px",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "#shopify-section-sections--17196973359159__footer > footer:nth-of-type(1)",
+          "label": "Made in L.A.\nShop All\nShop All\nMakeup\nSkincare\nShade Finder\n",
+          "box": {
+            "x": 0,
+            "y": 4448.6875,
+            "width": 768,
+            "height": 1026.984375
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "\"Scto Grotesk A Medium\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(255, 255, 255)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/Image_1_4ab3c8d7-8590-43d9-805d-67503b9a430d.png?crop=center&height=240&v=1743726170&width=240",
+          "alt": "SOS Spray Bottle",
+          "width": 768,
+          "height": 768
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/DSC3656_1_c5d1b34a-047e-4cad-af0c-450ce956e6d7.png?crop=center&height=240&v=1743726207&width=240",
+          "alt": "Shade Match",
+          "width": 768,
+          "height": 768
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/logo--clear-space.svg?v=1689771808&width=300",
+          "alt": "Tower 28 Beauty",
+          "width": 300,
+          "height": 80
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/JELL-O-Hero_Desktop_1.jpg?v=1790262756&width=1500",
+          "alt": "",
+          "width": 768,
+          "height": 432
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/JELL-O-Mobilev2.jpg?v=1790612232&width=1100",
+          "alt": "",
+          "width": 754,
+          "height": 1083
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/Copy_1.png?v=1790262754&width=1500",
+          "alt": "",
+          "width": 768,
+          "height": 452
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/Copy_1.png?v=1790262754&width=450",
+          "alt": "",
+          "width": 768,
+          "height": 452
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/3031119-hero.jpg?v=1790271685&width=400",
+          "alt": "[shared]",
+          "width": 768,
+          "height": 768
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/3025954-av-1.jpg?v=1790271686&width=400",
+          "alt": "[shared]",
+          "width": 768,
+          "height": 768
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/3026242-hero.jpg?v=1788277978&width=400",
+          "alt": "[shared]",
+          "width": 768,
+          "height": 768
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/3026242-av-3.jpg?v=1788277978&width=400",
+          "alt": "[shared]",
+          "width": 768,
+          "height": 768
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/3026234-Hero.jpg?v=1790635240&width=400",
+          "alt": "[shared]",
+          "width": 768,
+          "height": 768
+        }
+      ],
+      "document_width": 768,
+      "viewport": {
+        "name": "tablet",
+        "width": 768,
+        "height": 1024
+      },
+      "states": {
+        "initial": "observed",
+        "hover": {
+          "selector": "#shopify-section-template--17196975161399__image_banner_ETbcJq > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(218, 29, 54)",
+            "borderColor": "rgb(255, 255, 255)",
+            "outline": "rgb(255, 255, 255) none 3px"
+          }
+        },
+        "focus": {
+          "selector": "#shopify-section-template--17196975161399__image_banner_ETbcJq > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(218, 29, 54)",
+            "borderColor": "rgb(255, 255, 255)",
+            "outline": "rgb(255, 255, 255) none 0px"
+          }
+        },
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-tablet.png",
+        "sha256": "4b1931be2e2499cf6e53e53cdf232ab559fd9afe5cbda006e40383edc2fc0492",
+        "public_path": "evidence/viewport-tablet.png"
+      }
+    },
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "Skip to content\n\nFREE Mini Pouch on your First Order!\n\nFREE ",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 5639.453125
+          },
+          "styles": {
+            "color": "rgb(135, 38, 38)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "\"Scto Grotesk A Medium\", sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "22.5px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "grid",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#shopify-section-sections--17196973391927__header > sticky-header:nth-of-type(1) > header:nth-of-type(1)",
+          "label": "Log in\nCart",
+          "box": {
+            "x": 0,
+            "y": 33,
+            "width": 390,
+            "height": 48
+          },
+          "styles": {
+            "color": "rgb(135, 38, 38)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "\"Scto Grotesk A Medium\", sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "22.5px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "16px",
+            "padding-bottom": "0px",
+            "padding-left": "16px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "grid",
+            "gap": "normal 0px",
+            "row-gap": "normal",
+            "column-gap": "0px",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "heading",
+          "selector": "#shopify-section-sections--17196973391927__header > sticky-header:nth-of-type(1) > header:nth-of-type(1) > h1:nth-of-type(1)",
+          "label": "",
+          "box": {
+            "x": 64,
+            "y": 33,
+            "width": 262,
+            "height": 48
+          },
+          "styles": {
+            "color": "rgb(135, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"Cooper Lt BT\", serif",
+            "font-size": "32px",
+            "font-weight": "400",
+            "line-height": "0px",
+            "letter-spacing": "-1px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "section-heading",
+          "selector": "#shopify-section-template--17196975161399__8b4724ed-eef7-4864-918c-11889d03f4c3 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > collection-list-toggle:nth-of-type(1) > h2:nth-of-type(1)",
+          "label": "Trending Now",
+          "box": {
+            "x": 16,
+            "y": 746,
+            "width": 189.875,
+            "height": 37
+          },
+          "styles": {
+            "color": "rgb(135, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"Cooper Lt Bt\", sans-serif",
+            "font-size": "32px",
+            "font-weight": "400",
+            "line-height": "37px",
+            "letter-spacing": "-1px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "body-copy",
+          "selector": "#splide-template--17196975161399__8b4724ed-eef7-4864-918c-11889d03f4c3-slide05 > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+          "label": "Plumping without Irritation",
+          "box": {
+            "x": 1044,
+            "y": 1092,
+            "width": 233,
+            "height": 21
+          },
+          "styles": {
+            "color": "rgb(135, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"Scto Grotesk A Medium\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "21px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--17196975161399__image_banner_ETbcJq > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "Shop the JELL-O Collection",
+          "box": {
+            "x": 46.109375,
+            "y": 345.96875,
+            "width": 297.78125,
+            "height": 44
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(218, 29, 54)",
+            "font-family": "\"Scto Grotesk A Medium\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "18px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "60px",
+            "padding-bottom": "0px",
+            "padding-left": "60px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "40px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(255, 255, 255)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "fit-content"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--17196975161399__8b4724ed-eef7-4864-918c-11889d03f4c3 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "SHOP ALL",
+          "box": {
+            "x": 299.578125,
+            "y": 757.5,
+            "width": 74.421875,
+            "height": 14
+          },
+          "styles": {
+            "color": "rgb(135, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"Scto Grotesk A Medium\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "500",
+            "line-height": "14px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "product-card",
+          "selector": "#splide-template--17196975161399__8b4724ed-eef7-4864-918c-11889d03f4c3-slide01 > div:nth-of-type(1)",
+          "label": "On Sale\nSOS Stressed Skin Mini Starter Gift Set\n\nAdd — \nOrig",
+          "box": {
+            "x": 16,
+            "y": 807,
+            "width": 233,
+            "height": 432
+          },
+          "styles": {
+            "color": "rgb(135, 38, 38)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"Scto Grotesk A Medium\", sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "22.5px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(229, 231, 235)",
+            "display": "flex",
+            "gap": "8px",
+            "row-gap": "8px",
+            "column-gap": "8px",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "footer",
+          "selector": "#shopify-section-sections--17196973359159__footer > footer:nth-of-type(1)",
+          "label": "Made in L.A.\nShop All\nShop All\nMakeup\nSkincare\nShade Finder\n",
+          "box": {
+            "x": 0,
+            "y": 4064.890625,
+            "width": 390,
+            "height": 1574.5625
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "\"Scto Grotesk A Medium\", sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "22.5px",
+            "letter-spacing": "0.6px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(255, 255, 255)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/Image_1_4ab3c8d7-8590-43d9-805d-67503b9a430d.png?crop=center&height=240&v=1743726170&width=240",
+          "alt": "SOS Spray Bottle",
+          "width": 389,
+          "height": 389
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/DSC3656_1_c5d1b34a-047e-4cad-af0c-450ce956e6d7.png?crop=center&height=240&v=1743726207&width=240",
+          "alt": "Shade Match",
+          "width": 389,
+          "height": 389
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/logo--clear-space.svg?v=1689771808&width=300",
+          "alt": "Tower 28 Beauty",
+          "width": 195,
+          "height": 52
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/JELL-O-Hero_Desktop_1.jpg?v=1790262756&width=1500",
+          "alt": "",
+          "width": 390,
+          "height": 219
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/JELL-O-Mobilev2.jpg?v=1790612232&width=1100",
+          "alt": "",
+          "width": 382,
+          "height": 550
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/Copy_1.png?v=1790262754&width=1500",
+          "alt": "",
+          "width": 390,
+          "height": 229
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/Copy_1.png?v=1790262754&width=450",
+          "alt": "",
+          "width": 390,
+          "height": 229
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/3031119-hero.jpg?v=1790271685&width=400",
+          "alt": "[shared]",
+          "width": 390,
+          "height": 390
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/3025954-av-1.jpg?v=1790271686&width=400",
+          "alt": "[shared]",
+          "width": 390,
+          "height": 390
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/3026242-hero.jpg?v=1788277978&width=400",
+          "alt": "[shared]",
+          "width": 390,
+          "height": 390
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/3026242-av-3.jpg?v=1788277978&width=400",
+          "alt": "[shared]",
+          "width": 390,
+          "height": 390
+        },
+        {
+          "url": "https://www.tower28beauty.com/cdn/shop/files/3026234-Hero.jpg?v=1790635240&width=400",
+          "alt": "[shared]",
+          "width": 390,
+          "height": 390
+        }
+      ],
+      "document_width": 390,
+      "viewport": {
+        "name": "mobile",
+        "width": 390,
+        "height": 844
+      },
+      "states": {
+        "initial": "observed",
+        "hover": {
+          "selector": "#shopify-section-template--17196975161399__image_banner_ETbcJq > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(218, 29, 54)",
+            "borderColor": "rgb(255, 255, 255)",
+            "outline": "rgb(255, 255, 255) none 3px"
+          }
+        },
+        "focus": {
+          "selector": "#shopify-section-template--17196975161399__image_banner_ETbcJq > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(218, 29, 54)",
+            "borderColor": "rgb(255, 255, 255)",
+            "outline": "rgb(255, 255, 255) none 0px"
+          }
+        },
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-mobile.png",
+        "sha256": "999af9108990db7b41025db66c5128da0d1cae1e01241ddff64d822b6d049d44",
+        "public_path": "evidence/viewport-mobile.png"
+      }
+    }
+  ],
+  "visual_validation": {
+    "status": "not_performed",
+    "reason": "No implementation generated from DESIGN.md has been compared with the reference."
+  },
+  "brand_review": {
+    "decision": "matched_brand",
+    "reviewed_on": "2026-09-30",
+    "title": "Tower 28 Beauty | Clean, Vegan & Cruelty free",
+    "final_url": "https://www.tower28beauty.com/",
+    "capture_id": "da69ffe4cc524b008162963a5bd2e7ef",
+    "expected_brand": "Tower 28"
+  },
+  "requested_url": "https://www.tower28beauty.com",
+  "captured_at": "2026-09-30T09:11:28.102408+00:00",
+  "capture_id": "da69ffe4cc524b008162963a5bd2e7ef",
+  "landing_page_sha256": "74495902b18052d0cd22285c5a690a191c95c94d87b53d76de1ccc1dc8938dae"
+}

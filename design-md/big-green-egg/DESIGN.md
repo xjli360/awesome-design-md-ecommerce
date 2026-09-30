@@ -4,6 +4,10 @@ name: "Big Green Egg"
 source_url: "https://www.biggreenegg.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The green arrives first — not a lifestyle-brand sage or a muted olive but a deep, unambiguous porcelain-kiln green (#105742) that matches the ceramic glaze on the Egg itself, sitting on a warm parchment canvas (#f4f0e6) that evokes butcher paper laid across a prep table. Where most outdoor-cooking brands default to charcoal-and-flame palettes, Big Green Egg builds its entire visual identity from the product's physical surface, then wraps it in a typographic system that pairs Fraunces — a variable serif with playful ball terminals and optical-size axis — for display headings with Figtree, a crisp geometric sans-serif, for body and UI text. The result reads as Southern-hospitality premium: warmer than a Traeger, more literary than a Weber, and never clinical. Display type runs large and heavy (Fraunces at 48–56px, weight 800) with tight negative tracking that gives headlines the gravitational pull of a cast-iron skillet, while body copy at Figtree 16px/400 breathes in long recipe descriptions and product specs. A secondary serif, new-spirit, appears in accent contexts — pull quotes, recipe card subtitles, editorial asides — adding a second voice without competing with Fraunces. The accent red (#cf263b) appears on sale badges and urgent CTAs, a deliberate ember-glow against the green; a burnished gold (#a07636) surfaces in premium tier callouts and "Lifetime Warranty" badges, reinforcing the product's heirloom positioning. Cards and product tiles use `{rounded.sm}` to `{rounded.md}` corners with generous `{spacing.lg}` gutters, while primary CTAs are solid green rectangles at `{rounded.sm}` — confident, not cute. The soft teal (#aadddd) functions as an informational highlight for cooking-mode indicators and temperature guides, distinct enough from the primary green to read as data rather than brand. Navigation runs on helvetica-neue-lt-pro in condensed and standard widths, a pragmatic choice that keeps menus compact without sacrificing legibility at small sizes. The overall system trusts negative space, warm photography of charred meats and ceramic curves, and that single inescapable green to carry the brand — ornament is minimal, and every pixel of decoration earns its place.
 
@@ -667,6 +671,14 @@ components:
 - Promo banner text truncates with ellipsis on very narrow viewports; a "Details" link replaces the full message
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

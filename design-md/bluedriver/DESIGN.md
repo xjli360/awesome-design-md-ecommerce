@@ -4,6 +4,10 @@ name: "BlueDriver"
 source_url: "https://www.bluedriver.com"
 captured_at: "2026-09-29T04:18:42.693023+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   BlueDriver's storefront (served on the us.bluedriver.com Shopify theme) evidences a dark, technical
   brand register built on a near-black navy (#08101b) body background with white (#ffffff) text and
@@ -59,7 +63,7 @@ spacing:
   section: 64px
 components:
   button-primary:
-    backgroundColor: "linear-gradient({colors.primary}, {colors.gradient-end})"
+    background: "linear-gradient({colors.primary}, {colors.gradient-end})"
     textColor: "{colors.on-primary}"
     typography: "{typography.button-md}"
     rounded: "{rounded.full}"
@@ -153,6 +157,12 @@ components:
 Recommended (not measured) breakpoints: mobile ≤480px, small tablet 481–768px, tablet 769–1024px, desktop ≥1025px. Touch targets for buttons and nav items should maintain a minimum 44×44px hit area, consistent with the pill-button padding proposed above. Navigation is expected to collapse into a hamburger/off-canvas menu below the tablet breakpoint, and the cart drawer (referenced as "Your Cart" in the text excerpt) should remain a slide-in panel at all sizes. Product-card grids are recommended to reflow from a multi-column desktop layout to single-column on mobile. This section is a design recommendation only; no responsive CSS, media queries, or rendered mobile layout were present in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

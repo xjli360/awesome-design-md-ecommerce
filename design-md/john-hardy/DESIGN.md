@@ -4,6 +4,10 @@ name: "John Hardy"
 source_url: "https://www.johnhardy.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The forge-orange of #ff5c1d — John Hardy's single digital voltage — earns its intensity from what happens upstream of any product page: each piece exits a Bali workshop by hand, a fact the brand repeats in editorial copy, navigation callouts, and footer copy without apology. Against a near-white (#fcfcfc) canvas and deep-charcoal ink (#33383c), the orange reads less like a standard e-commerce CTA and more like an ember held from the metalworking floor — warm, deliberate, and structurally anchoring. Type runs in General Sans, a geometric sans-serif that gives the brand's heritage story a clean container without imposing editorial personality of its own; display sizes sit at weight 600 rather than punishing 700+, trusting product photography — silver chain coiled against dark stone, gold against warm skin — to carry visual weight that heavy type would crowd out. Surface hierarchy descends in shallow steps: #fcfcfc canvas to #f9f9f9 section backgrounds to #ffffff product cards, leaving no surface competing with imagery. Hairlines at #dedede and #e6e6e6 divide content zones without adding weight; the charcoal (#33383c) used for structural elements and ink echoes oxidized silver, connecting a craft finish to a system token. Buttons adopt {rounded.sm} (4px) rather than pills — the {rounded.full} radius is reserved exclusively for search inputs and filter pills, keeping a strict rectangular geometry elsewhere. Error states reach for #cb3b3b, a red closer in temperature to garnet than to tomato; success uses a botanical #63d977. Both appear as functional utilities the brand chose not to over-style. The material-tag component carries metal and gemstone callouts — Sterling Silver, 18K Gold Vermeil, Black Sapphire — in uppercase General Sans at 11px, a typographic nod to hallmark stamps more than to product labeling convention.
 
@@ -329,6 +333,13 @@ components:
 - PLP filters: hidden behind a "Filter" pill on mobile that opens a slide-up bottom sheet with full filter tree
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

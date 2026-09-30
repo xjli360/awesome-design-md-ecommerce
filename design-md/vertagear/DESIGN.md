@@ -4,6 +4,10 @@ name: "Vertagear"
 source_url: "https://www.vertagear.com"
 captured_at: "2026-09-28T04:10:39.984222+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Vertagear's storefront (built on a Shopify "Timber"-derived theme) presents a
   restrained, neutral base: white canvas, dark gray body copy (#333), and
@@ -159,6 +163,13 @@ components:
 Recommended (not measured) breakpoints: mobile up to 599px, tablet 600–959px, desktop 960px+. Touch targets should be a minimum 44×44px, with the mobile navigation collapsing into the drawer/toggle pattern implied by `.mobile-nav__toggle` and `.drawer__close` selectors. Product-card grids are recommended to reflow from a single column on mobile to 3–4 columns on desktop. This section is a proposed convention only; no actual responsive layout or media-query behavior was observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

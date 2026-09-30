@@ -4,6 +4,10 @@ name: "Kalon Studios"
 source_url: "https://kalonstudios.com"
 captured_at: "2026-09-28T09:38:57.642250+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Kalon Studios' front-end CSS shows a restrained, editorial system built on WordPress/WooCommerce defaults rather than a fully bespoke design language. Body copy renders in AdelleSans (14px, line-height ~1.43, color #404040) on a soft off-white canvas (#f4f4f4), with headings set in the same family at bold weight (700) and tight line-height (1.1), color inherited from context. The only clearly branded interactive element observed is the primary button: a dark charcoal fill (#32373c), white text, and a fully pill-shaped radius (9999px) — this becomes the anchor for the proposed button and badge components. Bootstrap-derived status colors (success #3c763d/#dff0d8, warning #8a6d3b/#fcf8e3, danger #a94442) indicate WooCommerce form validation styling, relevant to cart, wholesale, and product-registration flows. A large block of WordPress default editor-palette swatches (vivid blues, oranges, purples) also appears in the evidence; these are treated as CMS tooling defaults, not confirmed brand colors, and are excluded from the core palette. Surface tones (#eeeeee, #ffffff, #f5f5f5) are inferred as card/section backgrounds to support the "material integrity" content (wood, stone, metal, textile imagery) without adding unverified brand hues.
 
@@ -149,6 +153,13 @@ This is a proposed breakpoint recommendation, not measured site behavior — no 
 Touch targets on buttons and nav items should maintain a minimum 44px hit area; the pill-shaped button radius (9999px) supports this comfortably at the proposed padding scale. Collapse/expand interaction for mobile navigation, filters, and cart drawer is not observed and should be validated against live implementation.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

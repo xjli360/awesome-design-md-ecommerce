@@ -4,6 +4,10 @@ name: "Kotn"
 source_url: "https://kotn.com"
 captured_at: "2026-09-28T04:45:27.072384+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Kotn's storefront CSS shows a neutral, paper-toned palette anchored by near-black text (#000000, #191919), warm off-white canvases (#fcfbef, #f4f1dd), and soft grays (#737373, #7e7e7e, #e8e8e8) that read as restrained, sustainable-basics styling. A small set of saturated accents appear in the palette — a deep green (#14a166, #006642) and a warm gold (#ffd500) — which this interpretation assigns to primary/eco-accent roles, since Kotn's copy emphasizes cotton, ethics, and school-funding impact; this mapping is inferred, not confirmed as brand-official.
   Two font families are directly observed in the CSS: "Kotn Sohne" (used for headers, buttons, and body copy via var(--font-sans)) and "Reckless," which appears only in the supplied font-family list without a captured usage rule — it is treated here as a serif display candidate for large editorial headlines, consistent with Kotn's "timeless design" positioning, but its actual applied selector was not present in evidence. A monospace stack appears once, scoped to a quantity stepper control.
@@ -144,6 +148,12 @@ Recommendation only — no responsive CSS or breakpoints were present in evidenc
 Touch targets should be ≥44px (buttons observed at 3.5rem/56px height satisfy this). Nav collapse and swatch/hover interactions are proposed, not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered page, JavaScript-driven state, or responsive breakpoints were observed. The "Reckless" font's actual selector/usage was not present in the supplied CSS rules — its display role here is inferred solely from its presence in the font-family list and Kotn's editorial tone; licensing and self-hosting details are unverified. Color role assignments (e.g., green/gold as "eco" accents) are interpretive, not confirmed via brand guidelines. All spacing scale values and most typography sizes beyond `--text-copy`/`--text-heading` variables are proposed placeholders. Mobile menu behavior, hover states, form validation styling, and animation timing beyond the two documented `fadeIn` keyframes are not observed.

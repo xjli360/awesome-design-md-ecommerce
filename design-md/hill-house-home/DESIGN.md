@@ -4,6 +4,10 @@ name: "Hill House Home"
 source_url: "https://hillhousehome.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Hill House Home's central gesture is the Nap Dress — a garment that straddles garden-party and sleepwear without fully belonging to either — and that productive ambiguity runs through the entire visual system down to its smallest token. The primary is a steel teal (#276680), a color that reads as neither cold corporate blue nor warm coastal aqua but something precisely between: adult, editorial, quietly unexpected on a brand selling ruffled smocked dresses. It anchors navigation, primary CTAs, and the meta theme-color (#43647c), while a soft rose blush (#e48a91) surfaces as the emotional counterpoint — appearing on sale badges, wishlist fills, and seasonal callouts, its warmth drawing the eye without shouting. The canvas pulls back to near-white (#f7f7f8 / #f4f4f6) rather than stark white, giving product photography the diffused quality of afternoon light through sheer curtains. Neutrals span a thoughtful range from deep navy-ink (#272d45) through purple-washed midtones (#676986, #9a9db1) to pale lavender-gray borders (#d3d4dd, #dbdde4), a palette that sits unmistakably closer to editorial fashion than to mass retail's hard black-and-white grid. A bright mint (#b2f9e9) and a saturated teal-green (#00caaa) appear as highlight accents — seasonal promo strips, progress indicators, gift-note callouts — adding a fresh counterpoint against the otherwise restrained ground. Typography was not captured in extraction; the brand's aesthetic suggests an elegant serif face for display headings and a refined geometric sans-serif for body and UI copy, scales set at light-to-regular weights to preserve the softness the product photography depends on. Buttons favor full-pill shapes ({rounded.full}) for primary actions, maintaining the brand's approachable, feminine line quality throughout the purchase funnel. Spacing is generous: product cards breathe on a matte near-white surface, collection grids favor two-up on mobile rather than cramped three-up, and editorial sections command full-bleed photography with copy laid over soft teal scrim overlays.
 
@@ -400,6 +404,13 @@ components:
 - Announcement bar: static centered text → marquee scroll when content overflows viewport
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

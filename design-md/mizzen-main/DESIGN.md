@@ -4,6 +4,10 @@ name: "Mizzen+Main"
 source_url: "https://mizzenandmain.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The dress shirt that sweats with you — Mizzen+Main built its entire brand identity on a single material contradiction, performance-engineered fabric cut into the silhouette of boardroom formalwear, and the visual language holds that tension throughout. A deep performance navy (#1a2b4a) anchors every primary CTA and headline treatment, while a compressed, military-inflected sans-serif with wide uppercase tracking projects confidence without stuffiness. The palette is deliberately restrained: navy, white, a light cool gray for surfaces, and a signal red reserved exclusively for sale and clearance states. There are no expressive accent colors competing for attention — the photography does that work, showing the same button-down worn through a red-eye flight, a client dinner, and a weekend hike. Corner radii are tight throughout ({rounded.xs} at 4px for badges and chips, {rounded.sm} at 6–8px for cards and inputs), reflecting the precision-cut garment aesthetic rather than the soft pill-shapes that populate most DTC playbooks. The nav organizes by occasion and fit — not by product type alone — signaling that the brand sells a lifestyle proposition first and SKUs second. Performance-feature callouts ("Moisture-Wicking," "Wrinkle-Resistant," "4-Way Stretch") appear as tight uppercase chips inline with product titles, reinforcing that technical differentiation is the primary value claim. Landing sections breathe at 80–96px vertical spacing with full-bleed photography, then the product grid tightens to 24px gutters to maximize density. The footer is dense and utility-first: fit guides, fabric explainers, and a size calculator alongside the standard nav links, because Mizzen+Main's customer is a rational optimizer who needs convincing with data before he replaces every dress shirt he owns.
 
@@ -465,6 +469,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

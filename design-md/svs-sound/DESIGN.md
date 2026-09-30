@@ -4,6 +4,10 @@ name: "SVS Sound"
 source_url: "https://svsound.com"
 captured_at: "2026-09-28T04:25:34.578180+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The SVS Sound stylesheet resolves to a high-contrast neutral system: near-black ink (#121212, #0f0f0f) on white (#ffffff) canvas, with a cool utility blue (#376cb1) driving interactive elements such as the Okendo review widget buttons and header sale-badge text (#549eff). Secondary neutrals span light grays (#f0f3f5, #f5f5f5, #dedede, #cccccc) for soft surfaces and hairlines, while darker slate tones (#1f2021, #242833, #29333d) suggest card or footer backgrounds inferred from a dark-mode section pattern. Accent hues (#ff4d95, #ffd200, #00caaa) appear sparsely and are treated here as promotional/badge accents rather than core brand color, since their component context is not confirmed. Typography is set in Assistant, a humanist sans-serif, with Arial as the observed system fallback; Baskerville also appears in the family stack but its applied role (heading vs. body) is not confirmed by the supplied rules, so it is treated as a possible display serif candidate only, not assigned to a token here. This interpretation proposes a clean e-commerce audio-brand system: confident black/white contrast, a single blue action color, and restrained accent usage reserved for sale/badge messaging. Layout, spacing, and interaction states below are proposed conventions for a product-catalog site, not measured observations.
 
@@ -147,6 +151,12 @@ This is a recommended pattern set, not measured site behavior:
 Buttons and nav links should maintain a minimum 44×44px touch target on mobile; the hamburger/mega-menu collapse point is a proposed convention, not confirmed by the supplied CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/custom-property extraction only; no rendered layout, breakpoint behavior, or JavaScript-driven interaction (menus, carousels, cart drawers) was directly observed. The primary action color is inferred from the Okendo review-widget's `--oke-button-*` variables (#376cb1), not from a confirmed site-wide "add to cart" or nav button. Accent colors (#ff4d95, #ffd200, #00caaa, #549eff) are present in the palette but their exact component usage (badges vs. sale banners vs. illustration) is not confirmed. Dark slate tones are assumed to represent footer/section backgrounds by convention, not by a captured dark-section rule. Baskerville appears in the font-family evidence but no selector ties it to a specific role, so it is not assigned to any typography token; Assistant is used throughout with Arial as the observed system fallback, and generic sans-serif is added defensively. All pixel sizes in typography, rounded, and spacing scales beyond the observed 15px body font-size are proposed conventions for a product-catalog site. Custom font hosting, licensing, and availability for Assistant/Baskerville were not verified.

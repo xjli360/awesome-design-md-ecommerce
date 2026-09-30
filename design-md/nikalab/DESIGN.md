@@ -4,6 +4,10 @@ name: "Nikalab"
 source_url: "https://nikallab.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The name collapses two ideas — a personal first name and a laboratory — and that tension shapes the entire visual proposition: something that feels formulated for you specifically, not mass-produced. Premium supplement brands usually choose between clinical coldness and lifestyle warmth; Nikalab's positioning in the "lab" end of that spectrum suggests a canvas-dominant system where white space does the heavy lifting and a single restrained accent color carries all primary intent. Without live color extraction (the site appears to load tokens client-side or behind bot protection), the palette below is inferred from category-peer analysis of UK-origin premium supplement DTC brands that share the same clinical-meets-personal naming pattern: off-white canvases at #f8f7f5 or colder, ink at near-black rather than pure black to soften the clinical edge, and a muted primary drawn from warm neutrals or desaturated botanicals rather than a vivid hue. Typography in this segment almost universally resolves to a clean geometric sans-serif — Söhne, Inter, or a comparable stack — set at lighter weights for display and medium for body, leaning on tracking adjustments rather than weight contrast to create hierarchy. Buttons tend toward moderate radius (`{rounded.md}` range, approximately 8–12px) rather than the pill shapes of consumer wellness apps, because "lab" implies precision over softness. Product cards likely feature minimal decoration — a clean drop shadow or a hairline border at `{colors.hairline}`, generous internal padding, and the product image as the primary visual anchor. The components spec below constructs a coherent system from these inferences; every value should be validated against the live site before production use, and flagged gaps are enumerated at the end of this document.
 
@@ -354,6 +358,13 @@ components:
 - Footer columns: 2-column stack on mobile, 4-column grid on desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

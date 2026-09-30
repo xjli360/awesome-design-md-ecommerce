@@ -4,6 +4,10 @@ name: "Salazar Packaging"
 source_url: "https://www.salazarpackaging.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Corrugated crimson meets fulfillment logic at Salazar Packaging — the primary red (#c0372f) reads like a hazmat-border stripe or a shipping-label dash, and the site pairs it against deep navy (#003388) with the decisiveness of a warehouse floor plan rather than a retail mood board. Poppins absorbs the weight of category headers and product names; Open Sans handles the dense specification copy — unit counts, sheet calipers, weight limits, pallet minimums — at 14–16px without inducing fatigue across long comparison sessions. Amber (#ffbb00) surfaces only at bulk-discount callouts and promotional badges, a flash of procurement urgency against an otherwise gray-white canvas. The bright link blue (#2ea3f2) carves a navigation lane distinct from the red CTA lane, so scan paths through product listings remain unambiguous when multiple affordances stack in a single row. Button shapes hold 6px corners (`{rounded.sm}`) — not the pill softness of a consumer brand, but enough curvature to signal a digital interface rather than a printed form. Surface layering is spare: near-white (#f5f5f5) canvas under card-gray (#eeeeee) tiles creates enough depth that product photography — corrugated kraft, clear polybag, white foam — reads without competition. Courier New appears for SKU labels and quantity values, a typographic register borrowed from actual packing slips and inventory systems that the site's procurement audience already knows how to scan. Trust signals arrive as an icon-paired navy band immediately below the hero, amber-tinted icons marking shipping thresholds, bulk-savings tiers, recyclability claims, and live support. The overall palette — red and navy with amber accents and neutral grays — positions Salazar as a no-nonsense fulfillment partner whose catalog site is as legible and efficient as the boxes it ships.
 
@@ -388,6 +392,13 @@ components:
 - Bulk-badge and promo-badge chips remain on product cards at all breakpoints; sale-badge is the only badge that collapses to an icon-only pill below 375px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

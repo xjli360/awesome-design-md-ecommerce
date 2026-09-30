@@ -4,6 +4,10 @@ name: "Fi"
 source_url: "https://tryfi.com"
 captured_at: "2026-09-28T09:36:37.622678+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Fi's storefront CSS reflects a neutral, high-contrast UI system built on a
   Tailwind-derived gray scale — ink (#111827, confirmed via the body rule
@@ -167,6 +171,11 @@ This is a proposed recommendation, not measured site behavior; only the `--heade
 Touch targets are proposed at a minimum 44×44px (the observed weight-selector buttons at 32×32px are below this and should be treated as a desktop-oriented control unless verified otherwise on mobile). Nav collapses to a hamburger/menu pattern below `md` per convention, not per observation.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

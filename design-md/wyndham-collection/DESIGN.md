@@ -4,6 +4,10 @@ name: "Wyndham Collection"
 source_url: "https://wyndhamcollection.com"
 captured_at: "2026-09-28T09:56:50.754482+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Wyndham Collection is a bathroom-fixtures storefront (vanities, bathtubs, storage, countertops, mirrors) built on a Shopify theme with CSS custom properties for color, spacing, and interaction states. The observed palette centers on a near-black foreground/button token (rgb(18,18,18)) against a white background, paired with a family of deep navy-slate tones (#102b44, #455c77, #365977, #222d3a, #303940) used in the header wordmark, image-with-text buttons, and footer. Two very light warm-neutral tints (#f7f2f7, #f8f1f6) appear alongside a cool neutral gray (#f3f3f3), suggesting soft section and card backgrounds. A single saturated blue (#334fb4) and a muted mauve-gray (#9e9499) are also present but their exact UI role is not confirmed from the evidence and is treated as inferred.
   Typography evidence shows body copy set at 1.5rem with 0.06rem letter-spacing via a CSS variable font stack; the site references Assistant, Cabin, Poppins, and Roboto as available families, but which family maps to headings versus body is not proven by the supplied rules and is labeled inferred. A confirmed 2px button corner radius and 44px minimum touch target come directly from an observed slideshow button rule and inform the interaction primitives below. The interpretation favors a restrained, trade-pro-oriented UI: dark neutral actions, navy brand accents, and soft neutral surfaces for product cards.
@@ -150,6 +154,13 @@ components:
 Recommended breakpoints (not measured from live site): mobile < 768px, tablet 768–1023px, desktop ≥ 1024px. Navigation is expected to collapse to a hamburger/drawer pattern below tablet width. Touch targets should meet the 44px minimum height confirmed in the `.wc-slide__button` rule. Product-card grids are recommended at 2 columns on mobile, 3 on tablet, 4–5 on desktop. This section is a design recommendation only; actual responsive markup and behavior were not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

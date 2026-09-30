@@ -4,6 +4,10 @@ name: "KitchenAid"
 source_url: "https://www.kitchenaid.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Empire Red — the exact shade that has lived on the tilt-head stand mixer since 1955 — doubles as every primary call-to-action on kitchenaid.com, a rare case where a product colorway and a digital brand token are literally the same pigment (#C41230). The site frames appliances the way a gallery frames sculpture: generous white canvas, restrained sans-serif type set no heavier than 600 except for price displays, and product photography that bleeds to full-width on desktop heroes. Navigation is a slim 64px black bar with white wordmark and sparse utility icons; category mega-menus drop on hover with a subtle `{colors.hairline}` border, never a heavy shadow. Cards use `{rounded.sm}` corners and a single `{colors.hairline}` stroke — the brand trusts product silhouettes to sell, not decorative containers. Add-to-cart buttons sit in Empire Red at `{rounded.xs}`, squared off enough to feel professional-grade rather than playful, while secondary actions use a 1px black outline on `{colors.canvas}`. Typography leans on a geometric sans-serif stack close to Mark Pro or Helvetica Neue; body copy stays at 15–16px / 400 weight with comfortable 1.6 line-height, giving spec-heavy product pages room to breathe. The color system below Empire Red is intentionally muted — warm grays for muted text, a near-white `{colors.surface-soft}` for alternating content bands, and a single accent black (`{colors.ink}`) that carries headlines, price tags, and the persistent sticky-nav. Spacing is architectural: 64–80px between homepage content blocks, 24–32px gutters inside product grids, and 48px padding on comparison-table rows. The overall impression is of a brand that treats every pixel as seriously as it treats die-cast zinc alloy.
 
@@ -409,6 +413,13 @@ components:
 - Breadcrumbs truncate middle segments with "..." on mobile, showing only parent and current page
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

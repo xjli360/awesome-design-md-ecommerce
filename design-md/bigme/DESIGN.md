@@ -4,6 +4,10 @@ name: "Bigme"
 source_url: "https://bigmestore.com"
 captured_at: "2026-09-28T09:24:26.861559+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Bigme's storefront runs on Shopify's Dawn-derived theme, and the evidence
   exposes a strict two-value neutral system rather than a colorful brand
@@ -170,6 +174,12 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Buttons and inputs should maintain a minimum 44×44px touch target on mobile. Country/currency selector (extensive list observed in page text) should collapse into a scrollable dropdown or modal on small screens.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Static CSS extraction only; no rendered layout, breakpoints, hover/focus states, or JS-driven interactions (e.g., menu drawers, region selector behavior) were observed.

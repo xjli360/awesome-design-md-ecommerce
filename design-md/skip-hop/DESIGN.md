@@ -4,6 +4,10 @@ name: "Skip Hop"
 source_url: "https://www.skiphop.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A baby brand that leads with a crisp red #ce0e2d — not a pastel pink or muted sage — as its primary voltage, applied to CTAs, badges, and sale flags against a near-white canvas of #fafbfc. The palette is unusually restrained for the category: three grays (#f0f1f2, #f0eeee, #b1b5b8) handle all structural hierarchy, with a single warm accent #fcf0f2 reserved for hover states and soft backgrounds. Roboto at 400 weight carries body copy, while buttons and navigation use 500 weight for a clean, utilitarian clarity — no hand-drawn type or rounded display faces. Cards use {rounded.sm} (8px) corners, not the pill shapes of consumer marketplaces, and the search bar sits as a simple outlined rectangle rather than a full-radius orb. The brand trusts product photography and clear information hierarchy over decorative flourishes: category navigation is a horizontal strip of text labels, badges are flat rectangles with {rounded.xs} (4px), and the footer collapses into a single-column accordion on mobile. This is a system built for quick scanning by tired parents — high contrast, generous tap targets, and a single red thread that says "click here" without ambiguity.
 
@@ -343,6 +347,13 @@ components:
 - Hero banner reduces vertical padding by 50% on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

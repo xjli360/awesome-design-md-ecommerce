@@ -4,6 +4,10 @@ name: "Wicked Vision"
 source_url: "https://www.wicked-vision.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A midnight-black canvas (#000000) and a single, unapologetic accent — a neon-lime green that reads like a CRT phosphor afterimage — form the entire chromatic argument of this cult-movie label. Where most streaming or boutique-Blu-ray brands reach for warm, nostalgic tones, Wicked Vision stakes its identity on the cold glow of a cathode-ray tube: the primary green (#39ff14) appears only on interactive elements — the "Add to Cart" button, the search icon, the active nav link — and never on decorative surfaces, making every click feel like a command issued to a machine. The body type runs a monospaced or geometric sans at 14–16px in weight 400, set against the ink-black background with generous line-height (1.6) to preserve readability; display heads sit at 24–32px in weight 700 with tight letter-spacing (-0.5px), evoking the title cards of a 1980s VHS rental. Product cards use a dark-gray surface (#1a1a1a) with a subtle 1px hairline (#2a2a2a) and {rounded.sm} corners — no pill shapes, no softness, just the functional geometry of a circuit board. The brand's voice is archival and obsessive: every movie page includes a "Format" badge (4K UHD, Blu-ray, Limited Edition) rendered in the neon green on a transparent background, and the footer collapses into a single column of 10px micro-links. This is not a brand that wants to be your friend — it wants to sell you a steelbook of a 1978 Italian giallo, and it trusts the starkness of the interface to make that transaction feel serious.
 
@@ -328,6 +332,13 @@ components:
 - Filter dropdowns collapse to a single "Filter" button on mobile, opening a modal overlay
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

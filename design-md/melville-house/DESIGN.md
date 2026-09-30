@@ -4,6 +4,10 @@ name: "Melville House"
 source_url: "https://www.mhpbooks.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A small press that wraps its books in a single, unapologetic #313131 — a near-black so dense it reads as literary authority rather than corporate gray. The extracted palette offers no accent color, no warm secondary, no brand voltage; the site trusts the weight of its own words and the quiet prestige of its covers. Typography defaults to the system stack — -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif — a deliberate non-choice that says the content, not the chrome, is the product. There are no pill buttons, no soft cards, no generous radii; the interface is rectilinear and unadorned, with `{rounded.none}` as the default posture and `{rounded.sm}` as the only concession for form elements. The nav bar sits at a compact 48px, the body copy runs at 16px with 1.5 line-height, and the entire experience feels like a well-printed page migrated to screen — no shadows, no gradients, no decorative flourishes. Melville House does not sell a lifestyle; it sells the book in your hand, and the site is designed to disappear.
 
@@ -335,6 +339,13 @@ components:
 - Sidebar or secondary navigation (if present) collapses to accordion or disappears on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

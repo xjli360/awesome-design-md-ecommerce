@@ -4,6 +4,10 @@ name: "Clae"
 source_url: "https://clae.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every sole on a CLAE sneaker carries a material origin story — recycled plastic bottles, natural rubber, chrome-free leather — and the brand's visual system is built to make that traceability feel effortless rather than preachy. The defining voltage is #ff6600, a traffic-cone orange that hits CTAs, sale badges, and hover states with the same blunt confidence you'd find on the tongue of a construction worker's boot. It reads as industrial rather than fashionable, which is exactly the point: CLAE (an acronym for Clean, Life, Art, Earth) wants sustainability to feel like craft, not virtue-signaling. That orange sits against a near-black ink of #0f172a — a Tailwind slate-950 derivative, not a pure black — giving the palette a slightly blue-shifted shadow that keeps everything from reading as flat CMYK dark. The secondary tone, #006699, a mid-depth teal-blue, handles informational links and complementary accent work without competing with the orange. Canvas is #f8fafc rather than pure white, a barely-there off-white that softens the high-contrast pairing. Montserrat carries all display and body text — geometric, dependable, legible at small sizes on product description copy, and punchy enough at weight 700 to sell a product title without custom letterforms. Spacing is generous for an e-commerce context: large product imagery is given room to breathe, filter rails collapse cleanly, and the checkout flow avoids the cramped multi-column layouts common to footwear brands. Rounded corners sit at a restrained {rounded.sm} for buttons and cards — just enough to soften without going pill-shaped, keeping the industrial design language intact. The sustainability credential block — a row of material badges (recycled, vegan, natural) — appears on every PDP and uses {colors.surface-soft} chip backgrounds with {colors.primary} icon accents to communicate eco-sourcing without interrupting the purchase flow.
 
@@ -379,6 +383,13 @@ components:
 - Footer columns (4-up desktop) collapse to 2-up tablet, 1-up mobile accordion
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

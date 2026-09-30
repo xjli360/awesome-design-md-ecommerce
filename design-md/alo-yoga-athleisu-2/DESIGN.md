@@ -4,6 +4,10 @@ name: "Alo Yoga"
 source_url: "https://aloyoga.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Lime at the edge of neon — #dbf482 appears as a promotional banner fill and seasonal product accent against a near-black canvas (#121212), and this contrast tells the entire brand story: a yoga company that photographs like a fashion house. The type system runs arquitecta for display headings and proxima-nova for all UI text, both set at compressed weights with wide tracking and uppercase transforms; there is no decorative serif, no handwritten warmth, no nostalgic gesture — only the cool composure of a brand that trusts editorial photography to carry all the emotion. Rounded corners stay minimal to nonexistent: product cards and primary CTAs sit on {rounded.none} edges, resisting the softness that most athleisure brands deploy as a cue for approachability. The primary CTA is a flat dark rectangle — {colors.ink} on {colors.canvas} or the reverse — with no gradient, no shadow, and no softening radius. Against this monochrome skeleton, the seasonal accent palette arrives like a colorway drop: blush pink (#f9cae6), sage (#758e6d), and cool teal (#00aba9) function as deliberate editorial punctuation rather than persistent system tokens, rotating with collections rather than hardwired to UI states. Navigation is austere and mega-menu-driven, with a horizontal flyout that lists categories in small proxima-nova caps alongside imagery panels — shopping is treated as a lookbook browse rather than a hierarchy to descend. Product cards hover-reveal a second colorway image with no badge or overlay text, letting the product do the selling. The footer inverts to the deep charcoal ground ({colors.footer-bg}: #232933) with white reversed type, a structural signal marking the editorial-to-commerce boundary. Spacing is generous: hero sections breathe at {spacing.section} vertical padding, product grids hold {spacing.lg}–{spacing.xl} gutters, and the absence of decorative elements makes every unit of negative space load-bearing. The overall register is aspirational minimalism — the composed confidence of a brand certain its photography is argument enough.
 
@@ -372,6 +376,14 @@ components:
 - Footer four-column → two-column at tablet → single-column stacked at mobile with full-width newsletter input
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Leuchtturm1917"
 source_url: "https://www.leuchtturm1917.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Numbered pages — every folio printed, 1 through 249 — is the small act of German precision that grounds everything else on leuchtturm1917.com. Against that systematic logic, the site strips visual noise completely: the single UI tone reliably extracted is a mid-gray (#757575), set against white canvas and near-black ink, with all chromatic energy deferred to product photography where 25-plus cover colors carry the full brand palette. System typefaces — Arial and Helvetica, unmodified and unembellished — arrive not as a cost-saving shortcut but as typographic infrastructure that disappears in service of content, the digital equivalent of dotted-grid paper. The lighthouse mark (Leuchtturm, lighthouse in German) functions as a compact identity anchor in the header rather than a sprawling mascot; its silhouette prints cleanly at 24px and at invoice-corner scale alike. Navigation is organized by product system — Notebooks, Planners, Accessories — each category a flat text link with no dropdown megamenu, trusting users who arrive knowing exactly which gram-weight cover they want. Product tiles sit in a disciplined column grid, thumbnail images cropped consistently to show binding and spine color. Corners stay mildly squared — a modest {rounded.sm} on cards and {rounded.xs} on inputs — never the soft pillowing of consumer lifestyle brands, never the hard austerity of pure utility. Form inputs and CTAs share the same proportional logic: 48px touch-target height, tight letter-spacing at small sizes, weight stepping between 400 body and 700 display. Color-picker swatches for cover selection are the one UI component where the brand's rainbow identity surfaces directly — circles in {rounded.full}, each selection state signaled by border weight rather than background flood. The result is a design system built for catalog density: grid-faithful, chromatic only where the product demands it, and uninterested in decorative noise.
 
@@ -361,6 +365,13 @@ components:
 - Hero side-by-side layout → stacked image-above-text at mobile, with image cropped to top-third to preserve cover art
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

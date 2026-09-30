@@ -4,6 +4,10 @@ name: "AutomationDirect"
 source_url: "https://www.automationdirect.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Before e-commerce was normalized in heavy industry, AutomationDirect was shipping PLCs direct to engineers at prices that bypassed the distributor tier entirely — the site's design follows that same logic, stripping ornament to keep spec data, part numbers, and price breaks at zero distance from the buyer. The canvas holds at a clean #FFFFFF with a dense, catalog-native grid; the brand's primary medium blue (#0073AE) anchors the navigation bar and category headers, while a warm orange (#F47920) carries every primary CTA, add-to-cart button, and promotional callout. A deeper navy (#003E7E) caps the very top of every page in a thin announcement bar, creating a two-tone header system that reads as institutional rather than consumer. Typography runs on a tight Arial-based stack — no proprietary web font — which signals that the audience is plant-floor engineers and procurement managers who open ten tabs at a time and need data density over editorial polish. Product cards surface stock status, model numbers, and list-vs.-discounted prices without soft-touch imagery; a green in-stock badge (#2E7D32) is as close to a lifestyle accent as the product grid gets. Form factors lean utilitarian: inputs are rectangular (`{rounded.none}` to `{rounded.xs}`), button corners are minimal (`{rounded.xs}`), and the component language deliberately avoids pill shapes and soft radii that consumer brands use to signal approachability. Search is the site's primary navigation mechanism — a mega-search bar with category-scoped selectors at the top of every page reflects an audience that arrives knowing exactly what part number or product family they need. AutomationDirect's design is a direct consequence of its business model: remove the friction, surface the data, win on price — and trust that engineers can read a datasheet without needing a hero video to get there.
 
@@ -428,6 +432,14 @@ components:
 - Footer link columns stack vertically into collapsible accordion sections on mobile, collapsed by default
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

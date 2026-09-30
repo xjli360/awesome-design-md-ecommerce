@@ -4,6 +4,10 @@ name: "Shelflove Crate"
 source_url: "https://www.shelflovebox.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A subscription box brand that wraps its bookish identity in a palette anchored on #f0523d — a warm, assertive coral-red that appears on primary buttons, badges, and accent elements against a canvas of #f6f6f6 and #ffffff. The brand's visual system leans heavily on grayscale layering: #3e3e3e for body text, #a1a1a1 for muted labels, and #e4e4e4 for hairline borders, creating a clean, editorial feel that lets the coral-red pop without competing. Typography runs Clarkson, a geometric sans-serif with a friendly, slightly condensed character, set at moderate weights — display sits at 24–32px in weight 500, trusting generous whitespace and the coral accent over heavy typographic muscle. Rounded corners are restrained: buttons use {rounded.sm} (8px), cards use {rounded.md} (12px), and only the search bar and avatar elements reach {rounded.full}. The nav bar is a fixed 64px strip with a subtle bottom hairline, housing a logo lockup and a coral-red CTA that reads "Get Your Box." Product cards stack a cover image, a title in {typography.title-md}, a one-line description, and a coral "Subscribe" button — the coral is the only color that moves the user forward. The footer is dense with links in {typography.body-sm} and a coral email-signup field, reinforcing the brand's direct-to-consumer subscription model. The overall feel is warm but not saccharine, structured but not rigid — a bookish marketplace that trusts its accent color to do the emotional work.
 
@@ -392,6 +396,13 @@ components:
 - Category tags: On mobile, the tag strip becomes horizontally scrollable with snap points
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

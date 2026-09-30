@@ -4,6 +4,10 @@ name: "Kith"
 source_url: "https://kith.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Amber-priced markdown figures against #141414 product cards — a single warm pigment in an otherwise achromatic system, where #f59e0b appears on sale callouts and strike-through labels while everything else runs through a tight grayscale from off-white canvas (#f6f6f6) to deep ink (#121212). Typography carries the brand's duality most visibly: altesse-std-64pt and linotype-didot-headline govern editorial moments with high-fashion authority, setting display at 60–72px in a light roman that reads closer to Vogue than a sneaker drop, while rocky-compressed and proxima-nova-extra-condensed build the counter-register — tightly tracked uppercase at 11–13px, stamped onto size chips and add-to-cart buttons like a garment care label. The wordmark sits on a cleared axis, black on #f6f6f6 in the default state; over dark editorial photography the nav inverts to white-on-transparent without swapping assets.
 
@@ -362,6 +366,13 @@ components:
 - Search overlay input scales from {typography.display-sm} (22px) to {typography.body-md} (14px) on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

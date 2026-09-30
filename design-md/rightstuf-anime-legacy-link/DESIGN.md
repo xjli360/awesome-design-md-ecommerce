@@ -4,6 +4,10 @@ name: "RightStuf Anime (Legacy link)"
 source_url: "https://www.rightstufanime.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A high-voltage collector's bazaar where #ff5e00 — a searing safety-orange — ignites every add-to-cart button, sale badge, and urgency banner against a deep #181818 ink field. The palette is a deliberate collision of anime-merchandise energy: #fab818 marigold for limited-edition callouts, #029ddf cyan for pre-order highlights, and #ea001e crimson for clearance fire-sales, all riding on a #f3f3f3 canvas that keeps product photography from drowning in the noise. Typography runs two distinct voices — Nutmeg for display headlines that carry the weight of series titles and franchise names, and Lato for body copy and navigation, both set at modest weights (400–600) to let the art and price tags do the selling. The site's architecture is a dense grid of product thumbnails with hard 4px corners ({rounded.xs}) on cards and sharp 0px on the main nav, creating a no-nonsense browsing experience that prioritizes catalog density over editorial whitespace. Search is a full-width bar anchored in the top nav, while category strips use pill-shaped filters ({rounded.full}) in #23252b against the dark header. The checkout flow introduces a secondary palette of #2e844a (success green) and #0176d3 (action blue), likely inherited from Shopify or payment widgets, but the brand's own voice remains unmistakably orange — the color of limited stock, flash sales, and the thrill of the hunt for out-of-print steelbooks and import editions.
 
@@ -414,6 +418,13 @@ components:
 - Hero banner reduces typography from display-lg (28px) to display-md (24px) on mobile, with reduced padding
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Eureka Entertainment"
 source_url: "https://eurekavideo.co.uk"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep-crimson accent of #c90000 against a near-white canvas of #fdfdfd announces Eureka Entertainment as a home for serious cinema — the red is not a playful brand mark but a signal of authority, used sparingly on primary CTAs, the masthead logo, and the "Masters of Cinema" series badge. The palette is deliberately restrained: body text in #2c2d33, secondary copy in #5d7380, and hairline borders in #dadada create a reading environment that prioritizes film stills and poster art over decorative UI. Typography relies on system-native stacks — Helvetica Neue, Arial, and BlinkMacSystemFont — with Andale Mono reserved for technical metadata (run times, aspect ratios, release years), a nod to the collector's impulse for specification. Cards and buttons use gentle radii ({rounded.sm} ~8px) that never compete with the hard edges of film frames, while the footer and secondary navigation recede into #eeeeee surfaces. The brand trusts its product photography entirely: there are no hero illustrations, no decorative gradients, no brand patterns — just a white gallery wall with red accents.
 
@@ -435,6 +439,13 @@ components:
 - Hero banner text overlays shift from side-by-side to stacked on mobile, with reduced font sizes.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

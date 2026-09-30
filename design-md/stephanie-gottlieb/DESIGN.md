@@ -4,6 +4,10 @@ name: "Stephanie Gottlieb"
 source_url: "https://www.stephaniegottlieb.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Hot pink—#fe3981—used as the permanent CTA voltage on a fine jewelry site is a deliberate aesthetic rupture: where the sector defaults to pearl-cream or champagne reserve, Stephanie Gottlieb deploys this saturated rose as the full interaction infrastructure, carrying every primary button, cart action, and editorial focal point against near-black (#121212) ink on a white canvas. ChromaticGeometricLight handles display-register headlines at thin weights (300), its circular letterforms and open counters structurally echoing the round-brilliant diamonds the brand specializes in — at 60px the strokes reduce to pure geometric silhouette, engineered to recede behind product photography rather than compete with it. Jost covers the functional layer: navigation, button labels, filter chips, and category markers all set uppercase in tracked Jost 400–500, introducing clean mechanical contrast that distinguishes interaction affordances from the ChromaticGeometric editorial voice. MinSansBook grounds body copy and price display in book-weight legibility.
 
@@ -380,6 +384,13 @@ components:
 - Main nav condenses to icon bar at < 744px; full link tree lives in an off-canvas left drawer
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

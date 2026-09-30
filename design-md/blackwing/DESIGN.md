@@ -4,6 +4,10 @@ name: "Blackwing"
 source_url: "https://blackwing602.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every Blackwing pencil ships with a replaceable flat eraser — a mechanical holdover that most pencilmakers abandoned decades ago — and the digital system inherits the same logic: one purposeful element per surface, nothing ornamental. The site grounds itself in near-black (#232323) rather than the clinical white that most Shopify storefronts default to, placing product photography against a dark field where lacquer color and finish can be read accurately against the ground. The primary voltage is a warm coral-red (#e9514b), warm enough to read as wax or lacquer rather than urgency; it appears on add-to-cart buttons and edition markers throughout the shop. A secondary orange (#ff8b21) handles sale pricing and promotional callouts while a slate blue (#338fb1) owns informational link states — three accent channels that share the palette without competing because each holds a distinct semantic lane. Open Sans carries the full typographic system at moderate weights; no custom display cut was found in extraction, meaning hierarchy is built from size and scale alone rather than typeface contrast. Monospaced labels surface on SKU codes and edition series numbers, borrowing ledger-floor precision to serve a collector community that catalogues pencil grades the way audiophiles track pressings. Rounded values stay minimal: {rounded.xs} at 4px for inputs and badges, {rounded.sm} at 8px for product cards — no pill shapes appear anywhere, echoing the hexagonal cross-section of the pencil barrel. Light surface grays cluster in a narrow band — #f8f8f8, #fafafa, #f6f6f6 — separating layers without ever reaching true brightness. Spacing is generous at hero scale and tight at component level, keeping individual elements legible without adding visual weight to the page. The system reads like archival print applied to a Shopify storefront: high figure-ground contrast, restrained color, and authority earned through specificity rather than volume.
 
@@ -336,6 +340,14 @@ components:
 - Monospace tags on product detail pages wrap to new lines rather than truncating edition codes
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

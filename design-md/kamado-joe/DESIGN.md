@@ -4,6 +4,10 @@ name: "Kamado Joe"
 source_url: "https://www.kamadojoe.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   That unmistakable ember-red (#e2231a) hits before any headline loads — the same glaze color fired onto the ceramic dome of every Classic and Big Joe, now pulled into every CTA, price badge, and hover state on the site. The digital palette mirrors the physical product line: charcoal steel (#343738) for nav bars and footer slabs, a near-black ink (#231f20) for body copy that reads heavy and confident against generous white canvas, and a cool light gray (#dedede) used sparingly for dividers and disabled states. There is no pastel softness here; the color system runs on two voltages — the searing red and the carbonized darks — with white space acting as the only pressure release. Typography lands in a system sans-serif stack at workmanlike weights; display headings run 600–700 at 36–48px, trusting product photography (wide-angle hero shots of glowing charcoal and smoke rings) to carry the emotional load rather than decorative type. Corners stay tight — buttons and cards use `{rounded.xs}` to `{rounded.sm}`, rarely softer, channeling the machined-metal precision of the air-control dials and cast-iron hardware. Product cards sit on `{colors.surface-card}` with a subtle 1px `{colors.hairline}` border, stacking vertically on mobile with full-bleed imagery. The nav bar runs a solid `{colors.charcoal}` background with white logotype and link text, anchoring every page to that dark-on-light inversion that separates Kamado Joe from the sea of white-header e-commerce. Section spacing is generous (`{spacing.section}` at 64px+), letting each content block — configurator, comparison table, recipe carousel — breathe like a standalone billboard on the scroll.
 
@@ -384,6 +388,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

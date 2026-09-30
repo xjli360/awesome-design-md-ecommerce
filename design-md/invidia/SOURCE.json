@@ -60,31 +60,7 @@
         "https://invidia-usa.com/"
       ]
     },
-    "#ffffff": {
-      "count": 14,
-      "sources": [
-        "https://invidia-usa.com/"
-      ]
-    },
-    "#ced4da": {
-      "count": 3,
-      "sources": [
-        "https://invidia-usa.com/"
-      ]
-    },
-    "#e7e7e7": {
-      "count": 2,
-      "sources": [
-        "https://invidia-usa.com/"
-      ]
-    },
     "#ff0000": {
-      "count": 1,
-      "sources": [
-        "https://invidia-usa.com/"
-      ]
-    },
-    "#20b2aa": {
       "count": 1,
       "sources": [
         "https://invidia-usa.com/"
@@ -96,38 +72,20 @@
         "https://invidia-usa.com/"
       ]
     },
-    "#e6d4b4": {
-      "count": 1,
+    "#ffffff": {
+      "count": 14,
       "sources": [
         "https://invidia-usa.com/"
       ]
     },
-    "#6b302c": {
-      "count": 1,
+    "#e7e7e7": {
+      "count": 2,
       "sources": [
         "https://invidia-usa.com/"
       ]
     },
-    "#5173a6": {
-      "count": 1,
-      "sources": [
-        "https://invidia-usa.com/"
-      ]
-    },
-    "#ffc0cb": {
-      "count": 1,
-      "sources": [
-        "https://invidia-usa.com/"
-      ]
-    },
-    "#c16464": {
-      "count": 1,
-      "sources": [
-        "https://invidia-usa.com/"
-      ]
-    },
-    "#c25dfc": {
-      "count": 1,
+    "#ced4da": {
+      "count": 3,
       "sources": [
         "https://invidia-usa.com/"
       ]
@@ -150,18 +108,6 @@
         "https://invidia-usa.com/"
       ]
     },
-    "#cccccc": {
-      "count": 1,
-      "sources": [
-        "https://invidia-usa.com/"
-      ]
-    },
-    "#5a1c86": {
-      "count": 1,
-      "sources": [
-        "https://invidia-usa.com/"
-      ]
-    },
     "#ededed": {
       "count": 1,
       "sources": [
@@ -176,23 +122,11 @@
     }
   },
   "font_families": {
-    "Feather": [
-      "https://invidia-usa.com/cdn/shop/t/2/assets/feather.css?v=102398783625551263341725476910"
-    ],
-    "Inter": [
-      "https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap"
-    ],
     "Kanit": [
       "https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
     ],
-    "feather": [
-      "https://invidia-usa.com/cdn/shop/t/2/assets/feather.css?v=102398783625551263341725476910"
-    ],
-    "icomoon": [
-      "https://invidia-usa.com/cdn/shop/t/2/assets/icomoon.css?v=17584611577166971641725476910"
-    ],
-    "wpbingofont": [
-      "https://invidia-usa.com/cdn/shop/t/2/assets/wpbingo.css?v=140782895005728160771725476911"
+    "Inter": [
+      "https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap"
     ]
   },
   "css_rules": [],
@@ -202,10 +136,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "My Store",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "remaining-20260929",
   "tokens": {
     "colors.primary": {
+      "value": "#ed5d43",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -213,6 +148,7 @@
       ]
     },
     "colors.ink": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -220,6 +156,7 @@
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -227,6 +164,7 @@
       ]
     },
     "colors.body": {
+      "value": "#333333",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -234,6 +172,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#6f6f6e",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -241,6 +180,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#ced4da",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -248,6 +188,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#ededed",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -255,6 +196,7 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#e7e7e7",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -262,6 +204,7 @@
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -269,6 +212,7 @@
       ]
     },
     "colors.accent-gold": {
+      "value": "#c69a02",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -276,6 +220,7 @@
       ]
     },
     "colors.alert": {
+      "value": "#ff0000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -283,6 +228,7 @@
       ]
     },
     "colors.border-strong": {
+      "value": "#aaaaaa",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -290,110 +236,360 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "Kanit, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "Kanit, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "Kanit, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 500,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "Kanit, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1,
+        "letterSpacing": "0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "borderBottom": "1px solid {colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-gold}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.fitment-selector": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "border": "1px solid {colors.border-strong}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}",
+        "labelTypography": "{typography.caption}",
+        "valueTypography": "{typography.body-md}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#000000": {
+        "selector": ".wpb-variants-swatch .Black",
+        "property": "background-color",
+        "declaration": "#000000",
+        "url": "https://invidia-usa.com/",
+        "snapshot": "homepage.html",
+        "sha256": "659fbcd664d4d5a7fedbdef5049e6202089a9b2ffd82d447d58822a49e3e2b5e"
+      },
+      "#ff0000": {
+        "selector": ".wpb-variants-swatch .Red",
+        "property": "background-color",
+        "declaration": "#ff0000",
+        "url": "https://invidia-usa.com/",
+        "snapshot": "homepage.html",
+        "sha256": "659fbcd664d4d5a7fedbdef5049e6202089a9b2ffd82d447d58822a49e3e2b5e"
+      },
+      "#c69a02": {
+        "selector": ".wpb-variants-swatch .Yellow",
+        "property": "background-color",
+        "declaration": "#c69a02",
+        "url": "https://invidia-usa.com/",
+        "snapshot": "homepage.html",
+        "sha256": "659fbcd664d4d5a7fedbdef5049e6202089a9b2ffd82d447d58822a49e3e2b5e"
+      },
+      "#ffffff": {
+        "selector": ".wpb-variants-swatch .White",
+        "property": "background-color",
+        "declaration": "#ffffff",
+        "url": "https://invidia-usa.com/",
+        "snapshot": "homepage.html",
+        "sha256": "659fbcd664d4d5a7fedbdef5049e6202089a9b2ffd82d447d58822a49e3e2b5e"
+      },
+      "#e7e7e7": {
+        "selector": "#shopify-section-template--17072967942280__featured_line_BtDbUb .bwp-widget-line .wpbingo-section__content",
+        "property": "background",
+        "declaration": "#e7e7e7",
+        "url": "https://invidia-usa.com/",
+        "snapshot": "homepage.html",
+        "sha256": "659fbcd664d4d5a7fedbdef5049e6202089a9b2ffd82d447d58822a49e3e2b5e"
+      },
+      "#ced4da": {
+        "selector": ".vfitz-custom-layout #vfitz-select2-dropdown-parent .select2-dropdown",
+        "property": "border",
+        "declaration": "1px solid #ced4da",
+        "url": "https://invidia-usa.com/",
+        "snapshot": "homepage.html",
+        "sha256": "659fbcd664d4d5a7fedbdef5049e6202089a9b2ffd82d447d58822a49e3e2b5e"
+      },
+      "#333333": {
+        "selector": ".vfitz-custom-layout .loading.la-dark",
+        "property": "color",
+        "declaration": "#333",
+        "url": "https://invidia-usa.com/",
+        "snapshot": "homepage.html",
+        "sha256": "659fbcd664d4d5a7fedbdef5049e6202089a9b2ffd82d447d58822a49e3e2b5e"
+      },
+      "#ed5d43": {
+        "selector": "#shopify-section-template--17072967942280__featured_collections_image_iVYdLb .wpbingo-section--collections-image .collection-item__title a:hover",
+        "property": "color",
+        "declaration": "#ed5d43",
+        "url": "https://invidia-usa.com/",
+        "snapshot": "homepage.html",
+        "sha256": "659fbcd664d4d5a7fedbdef5049e6202089a9b2ffd82d447d58822a49e3e2b5e"
+      },
+      "#aaaaaa": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "#aaaaaa",
+        "url": "https://invidia-usa.com/",
+        "snapshot": "homepage.html",
+        "sha256": "659fbcd664d4d5a7fedbdef5049e6202089a9b2ffd82d447d58822a49e3e2b5e"
+      },
+      "#ededed": {
+        "selector": ".footer-center",
+        "property": "border-color",
+        "declaration": "#ededed",
+        "url": "https://invidia-usa.com/",
+        "snapshot": "homepage.html",
+        "sha256": "659fbcd664d4d5a7fedbdef5049e6202089a9b2ffd82d447d58822a49e3e2b5e"
+      },
+      "#6f6f6e": {
+        "selector": ".footer-bottom .footer-index-1",
+        "property": "color",
+        "declaration": "#6f6f6e",
+        "url": "https://invidia-usa.com/",
+        "snapshot": "homepage.html",
+        "sha256": "659fbcd664d4d5a7fedbdef5049e6202089a9b2ffd82d447d58822a49e3e2b5e"
+      }
+    },
+    "font_families": {
+      "Kanit": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Kanit\"",
+        "url": "https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f442dad14278f08df010bb7f7c3d2cd848fc135730829dd5887b315204b0ef3c"
+      },
+      "Inter": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Inter\"",
+        "url": "https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "10c76c9f37631ed6ffe64ace3b093265da76efa6d7a5e450c0dbf893b3657ec3"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

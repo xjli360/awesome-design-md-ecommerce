@@ -4,6 +4,10 @@ name: "Sun Noodle"
 source_url: "https://sunnoodle.com"
 captured_at: "2026-09-28T10:05:09.341492+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Sun Noodle's observed CSS exposes a small, named palette built around three
   custom properties: --noodle (#faf6de, a warm cream used as the noodle-dough
@@ -131,7 +135,7 @@ components:
     textColor: "{colors.on-primary}"
     typography: "{typography.body-sm}"
     padding: "{spacing.xxl} {spacing.lg}"
-    linkColor: "{colors.accent-gold} (proposed hover/link accent on dark ground)"
+    linkColor: "{colors.accent-gold}"
   badge:
     backgroundColor: "{colors.accent-gold}"
     textColor: "{colors.ink}"
@@ -177,6 +181,13 @@ This is a recommended breakpoint structure, not measured site behavior:
 Touch targets for buttons and nav links should maintain a minimum 44×44px hit area; the observed button padding (`.75rem 1rem` / `12px 32px`) is compatible with this at desktop sizes but should be re-verified for compact mobile buttons. Menu collapse behavior is inferred solely from the "Menu Close" label in page text, not from observed JavaScript or breakpoint CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no live rendering, computed styles, or interaction states (hover, focus, active, disabled) were directly observed beyond the `:hover` rules explicitly listed. Several hex values (e.g., #a1122d as a hover-red, #fcb316 as an accent-gold) are plausible role assignments based on palette proximity and naming conventions (`--hotSriracha` was referenced but its value not captured), not confirmed CSS variable bindings. All spacing scale, breakpoint widths, and component sizes not explicitly present in the supplied CSS are proposed conventions for internal consistency, not measurements. Mobile menu behavior, grid column counts, and card layouts are inferred from page text and general e-commerce/blog conventions, not from captured layout CSS. The custom font Dreamboat's licensing, hosting, and full character-set availability were not verified from the supplied evidence; Work Sans and Noto Sans JP are assumed to be standard web-font loads. Japanese-locale-specific styling (`html[lang=ja]`) confirms bilingual support but its visual treatment beyond font-family swaps was not fully captured.

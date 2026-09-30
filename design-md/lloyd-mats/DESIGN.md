@@ -4,6 +4,10 @@ name: "Lloyd Mats"
 source_url: "https://lloydmats.com"
 captured_at: "2026-09-28T10:00:50.583653+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Lloyd Mats Store runs on a Magento/Luma-derived storefront, evidenced by class patterns like `.abs-action-link-button`, `luma-icons`, and Bootstrap-style alert classes (`.alert-success`, `.alert-danger`). The observed palette is a standard Luma default set: neutral grays (#ffffff, #333333, #cccccc, #dddddd, #f5f5f5) carry body text and surfaces, while #1979c3 and #006bb4 appear as the theme's blue action/link colors — here interpreted (inferred) as the brand primary, since no vehicle-specific brand color was distinguishable in the evidence. #ff5501/#ff5216 orange values are treated as an accent for promotional or CTA emphasis, and the Bootstrap alert quartet (#5cb85c/#3c763d success, #d9534f/#a94442 danger, #f0ad4e/#8a6d3b warning, #5bc0de/#31708f info) is retained for system messaging. Typography is Open Sans with Helvetica Neue/Helvetica/Arial/sans-serif fallback, per `body` and heading rules; no display or brand-specific webfont was observed. Given the category — made-to-order automotive floor mats sold by vehicle fitment — the interpretation favors a utilitarian, catalog-dense layout: clear hairlines, muted grays for secondary UI (filters, breadcrumbs, vehicle pickers), and the blue/orange pair reserved for primary actions and configurator highlights. All spacing, radius, and most component states are proposed, not measured.
 
@@ -157,6 +161,13 @@ Proposed breakpoint table (not measured from live site):
 Touch targets should be minimum 44×44px for buttons and nav toggles. The header's "Toggle Nav" text suggests a collapsible mobile menu, but its exact collapse behavior, breakpoint, and animation were not observed. All values above are recommendations only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

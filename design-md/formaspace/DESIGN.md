@@ -4,6 +4,10 @@ name: "Formaspace"
 source_url: "https://www.formaspace.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Steel-gauge authenticity is the opening move — Formaspace's navigation renders under a near-black charcoal (#313131) that reads less like a website header and more like the cross-section of a workbench edge, structural material before the surface begins. The brand sells configurable industrial furniture for aerospace assembly lines, university chemistry labs, warehouse operations, and electronics manufacturing, and the design logic mirrors the product: modular, specification-first, optimized for configuration flows rather than impulse browsing. Typography runs on a pure system-UI stack with no licensed typeface, which signals a B2B audience that expects clarity over brand personality and treats technical spec sheets as the actual content rather than aspirational photography. The presumed primary accent is an orange-amber near #e87722, the one warm voltage the brand uses to separate CTA buttons, quote-request forms, and configurator "Add to Quote" actions from the surrounding charcoal-and-white grid; in the workbench category, orange carries industrial warning-label authority rather than consumer warmth. Corners land at a modest `{rounded.sm}` — 8px on cards, 4px on buttons — avoiding both the harshness of zero-radius enterprise design and the friendliness of pill shapes, landing precisely where a tool catalog belongs: professional, dimensional, unhurried. Section spacing is generous on desktop, using `{spacing.section}` and `{spacing.xxl}` rhythm to let full-bleed product photography of large-format benches breathe without crowding specification details. The overall palette is intentionally restrained — charcoal plus orange on white, with mid-gray body text and light-gray hairlines separating configuration panels — because buyers reading load ratings and surface materials do not need visual interference between themselves and the specification.
 
@@ -342,6 +346,13 @@ components:
 - Footer columns: 4-column grid on desktop → 2-column at tablet → single stacked column at mobile; orange top border persists at all widths
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

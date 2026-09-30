@@ -4,6 +4,10 @@ name: "Groovy Lab in a Box"
 source_url: "https://www.groovylabinabox.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A bright, primary-color voltage runs through every corner of this kids' STEM subscription brand — #9bca3e (a zesty lime-green) and #f68b1f (a warm marigold) punch against a #dedede-and-#ebebeb neutral backdrop, while #0051c3 and #bd2426 (a classic red) add the kind of saturated, toy-box energy that signals "hands-on science inside." The extracted palette reads like a well-stocked art bin: the greens and oranges feel intentional for a brand that ships monthly experiment kits, though the site itself appears to be offline or behind a DNS error at time of extraction, so these colors come from residual CSS and cached assets rather than a fully rendered page. What's visible suggests a system built on generous white space, chunky buttons with {rounded.sm} corners, and a typographic voice that leans on system fonts — -apple-system, Roboto, and Helvetica Neue — for reliability across devices rather than a custom typeface. The brand's signature move appears to be the pairing of that lime (#9bca3e) with deep navy (#003681) for contrast, creating a palette that feels educational without being clinical, playful without being chaotic. Badges and accent elements likely use the full rainbow of extracted hexes — #2f7bbf for informational callouts, #ee730a for urgency or sale markers — while the grays (#404040, #313131, #d9d9d9) handle body text and structural dividers. The overall mood is "classroom science fair meets modern DTC subscription box": clean enough for parents to trust, colorful enough for kids to beg for the next delivery.
 
@@ -428,6 +432,13 @@ components:
 - Hero section stacks vertically on mobile (text above image) instead of the side-by-side desktop layout
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

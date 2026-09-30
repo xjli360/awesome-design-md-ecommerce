@@ -4,6 +4,10 @@ name: "Chubbies"
 source_url: "https://chubbiesshorts.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Five-inch inseam. That measurement — the number on the hang-tags, in the campaigns, practically in the brand name itself — is the whole thesis externalized as a UI system. Chubbies commits to color the same way it commits to short hemlines: fully and without hedging. The product palette reads directly into the design tokens — #f7a519 amber, #f24392 hot pink, #ff5a00 bonfire orange, #d1f270 lawn-party lime, and #02bce5 electric cyan all exist first as purchasable colorways and second as system accents. The navigational chrome wraps around a teal family (#0082a6, #006c8c, #036282) that gives the grid enough authority to route the eye without fighting the merchandise photography underneath it. Sofia Sans Condensed runs the display layer — headlines stack wide and tight, all-caps, at 800–900 weight, spaced so close the letterforms nearly merge into a single silk-screened mass. Montserrat handles everything transactional: price labels, navigation links, form inputs, and button text in bold uppercase with tracking opened to 1.5px for legibility at scroll speed. Corner radii stay blunt — {rounded.none} on product cards and primary CTAs, with the search bar as the lone exception at {rounded.full} — keeping the page reading like a printed catalog rather than a polished SaaS dashboard. Near-black #000a14 (not true black; slightly navy-shifted, warmer) grounds the ink layer in announcement bars, hero overlays, and footer fills, creating a consistent dark anchor across all three vertical ends of the scroll. Light scaffolding grays (#e0e0e0, #f0f0f0, #ededed) exist to amplify the accent colors by contrast rather than to carry any visual weight themselves. The urgency economy — countdown timers in #ff5a00, limited-colorway badges in #f24392, email-capture blocks saturated in #02bce5 — operates throughout the site with the same deadpan commitment the brand brings to its newsletter subject lines. Product badges are color-coded by urgency grade: orange for sale, pink for limited, lime for new. Nothing here asks the shopper to work very hard; the whole system is optimized to be operated at the lake with one hand.
 
@@ -383,6 +387,13 @@ components:
 - Countdown timer drops descriptive labels (days / hours / minutes) and renders digits only on mobile to fit within a single row
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

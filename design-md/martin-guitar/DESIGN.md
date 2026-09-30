@@ -4,6 +4,10 @@ name: "Martin Guitar"
 source_url: "https://www.martinguitar.com"
 captured_at: "2026-09-28T04:41:16.050633+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Evidence points to a heritage-forward acoustic instrument retailer built on a Salesforce Commerce Cloud (Demandware) storefront. The only brand-specific typeface found in the CSS is "Marsden Compact Bold," paired directly with a dark teal-green background (#245c4f) in a hero-style rule, suggesting a custom display face reserved for section headings or promotional banners. Body and UI copy fall back to the observed system/sans stack (Open Sans, Roboto, Noto Sans, Helvetica Neue, Arial), typical of a Salesforce-templated site rather than a custom brand typesystem.
   The supplied palette is broad and includes many likely UI-framework utility colors (Bootstrap-style grays, alert reds/greens/blues) alongside a smaller set of colors that plausibly carry brand meaning: the deep teal-green (#245c4f/#2b3830), a warm brass/gold (#c4a154) evocative of wood and hardware finishes, a muted cream (#edeae0/#dedad2) suited to product photography backgrounds, and a deep red (#a3080f) usable for sparing accents. This interpretation treats teal-green as primary, gold as a secondary wood-toned accent, and neutrals/cream as the surface system, with all other supplied hues retained for semantic states (link, success, warning) rather than brand identity. Layout, spacing, and interaction patterns below are proposed, not observed.
@@ -150,6 +154,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets are recommended at a minimum of 44x44px for buttons and nav items. Mega-menu collapse behavior, hover vs. tap interactions, and actual mobile navigation patterns were not observed and should be validated against the live site before implementation.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Evidence was extracted from static CSS/text snapshots; no rendered layout, computed styles, or DOM structure were observed, so component composition above is inferential.

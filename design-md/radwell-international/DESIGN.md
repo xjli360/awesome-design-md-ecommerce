@@ -4,6 +4,10 @@ name: "Radwell International"
 source_url: "https://www.radwell.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Search boxes outnumber decorative images across Radwell's catalog — the entire interface functions as an industrial inventory lookup engine where part numbers, condition grades (New, Recertified, Repaired), and lead times are the primary content hierarchy. The single confirmed extracted color, charcoal #313131, anchors navigation rails, table headers, and inline labels as the workhorse ink for a high-density B2B catalog; all other palette values were unextractable because Cloudflare bot protection blocked the live site during analysis (see Known Gaps). The broader palette likely pairs that charcoal with a deep industrial blue for CTA buttons and search-submit actions, and an amber-orange for condition badges — the two-signal system standard across industrial automation e-commerce where procurement speed outranks visual novelty. Type is drawn entirely from the system stack, Arial and Roboto first, a declaration that utility supersedes aesthetics and that pages must render crisply on factory-floor workstations and field-service laptops where custom font loading is a liability. Corner geometry is blunt throughout: part cards carry {rounded.xs} at most, CTA buttons land at {rounded.xs}, and only the search input earns a slightly softer {rounded.sm} — square edges communicate engineering precision rather than consumer friendliness. The component hierarchy places a mega-search bar at the absolute top of every page, followed by manufacturer and condition facets that filter across millions of SKUs. Product cards carry dense spec rows — manufacturer, part number in monospace, condition badge, in-stock count, price — with thumbnail images subordinate to the data grid. Trust signals appear as inline callouts: ISO certifications, warranty durations, repair turnaround promises. Every layout decision compresses maximum information into minimum viewport height, optimized for procurement professionals returning daily to look up one specific part number.
 
@@ -350,6 +354,13 @@ components:
 - Hero search bar reduces from two-line (headline + search) to single search bar only on mobile, headline hidden
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

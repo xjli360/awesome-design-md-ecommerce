@@ -14,12 +14,6 @@
     }
   ],
   "colors": {
-    "#ffffff": {
-      "count": 37,
-      "sources": [
-        "https://tractive.com/"
-      ]
-    },
     "#121623": {
       "count": 15,
       "sources": [
@@ -32,14 +26,14 @@
         "https://tractive.com/"
       ]
     },
-    "#e3e4ea": {
-      "count": 7,
+    "#ffffff": {
+      "count": 37,
       "sources": [
         "https://tractive.com/"
       ]
     },
-    "#b42f4f": {
-      "count": 5,
+    "#e3e4ea": {
+      "count": 7,
       "sources": [
         "https://tractive.com/"
       ]
@@ -50,61 +44,19 @@
         "https://tractive.com/"
       ]
     },
-    "#fbe4e9": {
-      "count": 4,
-      "sources": [
-        "https://tractive.com/"
-      ]
-    },
-    "#dbdbe2": {
-      "count": 3,
-      "sources": [
-        "https://tractive.com/"
-      ]
-    },
     "#5c606e": {
       "count": 3,
       "sources": [
         "https://tractive.com/"
       ]
     },
-    "#d1e3fa": {
-      "count": 3,
-      "sources": [
-        "https://tractive.com/"
-      ]
-    },
-    "#488fed": {
-      "count": 1,
-      "sources": [
-        "https://tractive.com/"
-      ]
-    },
-    "#d93856": {
-      "count": 1,
-      "sources": [
-        "https://tractive.com/"
-      ]
-    },
-    "#ff808f": {
-      "count": 1,
-      "sources": [
-        "https://tractive.com/"
-      ]
-    },
-    "#ffaeb8": {
-      "count": 1,
+    "#b42f4f": {
+      "count": 5,
       "sources": [
         "https://tractive.com/"
       ]
     },
     "#f5f5fa": {
-      "count": 1,
-      "sources": [
-        "https://tractive.com/"
-      ]
-    },
-    "#878a96": {
       "count": 1,
       "sources": [
         "https://tractive.com/"
@@ -116,19 +68,13 @@
         "https://tractive.com/"
       ]
     },
-    "#00652d": {
-      "count": 1,
+    "#fbe4e9": {
+      "count": 4,
       "sources": [
         "https://tractive.com/"
       ]
     },
     "#4a14a2": {
-      "count": 1,
-      "sources": [
-        "https://tractive.com/"
-      ]
-    },
-    "#f7f2ff": {
       "count": 1,
       "sources": [
         "https://tractive.com/"
@@ -146,37 +92,7 @@
         "https://tractive.com/"
       ]
     },
-    "#005336": {
-      "count": 1,
-      "sources": [
-        "https://tractive.com/"
-      ]
-    },
-    "#e0f3ef": {
-      "count": 1,
-      "sources": [
-        "https://tractive.com/"
-      ]
-    },
-    "#6b3e1e": {
-      "count": 1,
-      "sources": [
-        "https://tractive.com/"
-      ]
-    },
-    "#feeeda": {
-      "count": 1,
-      "sources": [
-        "https://tractive.com/"
-      ]
-    },
     "#c0c2ca": {
-      "count": 1,
-      "sources": [
-        "https://tractive.com/"
-      ]
-    },
-    "#1168db": {
       "count": 1,
       "sources": [
         "https://tractive.com/"
@@ -194,31 +110,13 @@
         "https://tractive.com/"
       ]
     },
-    "#fef7e0": {
-      "count": 1,
-      "sources": [
-        "https://tractive.com/"
-      ]
-    },
     "#f3ecff": {
       "count": 1,
       "sources": [
         "https://tractive.com/"
       ]
     },
-    "#191919": {
-      "count": 1,
-      "sources": [
-        "https://tractive.com/"
-      ]
-    },
     "#00b67a": {
-      "count": 1,
-      "sources": [
-        "https://tractive.com/"
-      ]
-    },
-    "#005128": {
       "count": 1,
       "sources": [
         "https://tractive.com/"
@@ -391,10 +289,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Pet GPS Tracker | Health Tracker for Cats and Dogs | Tractive",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-300",
   "tokens": {
     "colors.primary": {
+      "value": "#1a73e8",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -402,6 +301,7 @@
       ]
     },
     "colors.ink": {
+      "value": "#121623",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -409,6 +309,7 @@
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -416,6 +317,7 @@
       ]
     },
     "colors.body": {
+      "value": "#464b5a",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -423,6 +325,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#5c606e",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -430,6 +333,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#e3e4ea",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -437,6 +341,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#f5f5fa",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -444,6 +349,7 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#e8f1fc",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -451,6 +357,7 @@
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -458,6 +365,7 @@
       ]
     },
     "colors.border-strong": {
+      "value": "#c0c2ca",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -465,6 +373,7 @@
       ]
     },
     "colors.accent-danger": {
+      "value": "#b42f4f",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -472,6 +381,7 @@
       ]
     },
     "colors.accent-danger-soft": {
+      "value": "#fbe4e9",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -479,6 +389,7 @@
       ]
     },
     "colors.accent-success": {
+      "value": "#00b67a",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -486,6 +397,7 @@
       ]
     },
     "colors.accent-purple": {
+      "value": "#4a14a2",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -493,6 +405,7 @@
       ]
     },
     "colors.accent-purple-soft": {
+      "value": "#f3ecff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -500,6 +413,7 @@
       ]
     },
     "colors.accent-tan-soft": {
+      "value": "#fef2e6",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -507,6 +421,7 @@
       ]
     },
     "colors.accent-lime": {
+      "value": "#d6ff70",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -514,6 +429,7 @@
       ]
     },
     "colors.link-hover": {
+      "value": "#155cba",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -521,6 +437,7 @@
       ]
     },
     "colors.focus-ring": {
+      "value": "#76abf1",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -528,110 +445,419 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.17,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.17,
+        "letterSpacing": "-0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 600,
+        "lineHeight": 1.33,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 500,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 500,
+        "lineHeight": 1.4,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 500,
+        "lineHeight": 1.33,
+        "letterSpacing": "0.1px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 600,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.muted}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-danger}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.tracker-configurator": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "accentColor": "{colors.primary}",
+        "optionBorderColor": "{colors.hairline}",
+        "optionSelectedBorderColor": "{colors.primary}",
+        "priceTypography": "{typography.title-md}",
+        "labelTypography": "{typography.body-sm}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#121623": {
+        "selector": "body",
+        "property": "color",
+        "declaration": "#121623",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#1a73e8": {
+        "selector": "p>a",
+        "property": "color",
+        "declaration": "#1a73e8",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#ffffff": {
+        "selector": ".button",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#e3e4ea": {
+        "selector": ".button:disabled",
+        "property": "background",
+        "declaration": "#e3e4ea",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#76abf1": {
+        "selector": ".button:active:not(:disabled)",
+        "property": "background",
+        "declaration": "#76abf1",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#5c606e": {
+        "selector": ".button--secondary",
+        "property": "border",
+        "declaration": "1px solid #5c606e",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#b42f4f": {
+        "selector": ".icon-button--cart span",
+        "property": "background",
+        "declaration": "#b42f4f",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#f5f5fa": {
+        "selector": ".language-switcher-button",
+        "property": "background",
+        "declaration": "#f5f5fa",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#464b5a": {
+        "selector": ".navbar__mega-menu--icons-grid p",
+        "property": "color",
+        "declaration": "#464b5a",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#fbe4e9": {
+        "selector": ".badge--background",
+        "property": "background-color",
+        "declaration": "#fbe4e9",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#4a14a2": {
+        "selector": ".badge--purple",
+        "property": "color",
+        "declaration": "#4a14a2",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#155cba": {
+        "selector": ".badge--blue",
+        "property": "color",
+        "declaration": "#155cba",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#e8f1fc": {
+        "selector": ".badge--blue",
+        "property": "background-color",
+        "declaration": "#e8f1fc",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#c0c2ca": {
+        "selector": ".slider-tag",
+        "property": "border",
+        "declaration": "1px solid #c0c2ca",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#d6ff70": {
+        "selector": ".fullscreen-hero__promotion-badge--green",
+        "property": "background-color",
+        "declaration": "#d6ff70",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#fef2e6": {
+        "selector": ".selling-points__item:nth-of-type(1)",
+        "property": "--icon-background",
+        "declaration": "#fef2e6",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#f3ecff": {
+        "selector": ".selling-points__item:nth-of-type(3)",
+        "property": "--icon-background",
+        "declaration": "#f3ecff",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#00b67a": {
+        "selector": ".tp-1-cgnfh",
+        "property": "fill",
+        "declaration": "#00B67A",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      }
+    },
+    "font_families": {
+      "Poppins": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Poppins,sans-serif",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "sans-serif": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Poppins,sans-serif",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

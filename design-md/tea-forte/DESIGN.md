@@ -4,6 +4,10 @@ name: "Tea Forte"
 source_url: "https://teaforte.com"
 captured_at: "2026-09-28T09:10:27.137867+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation draws from Tea Forté's observed CSS custom properties and color palette, which centers on desaturated slate-blue neutrals (#46555e, #455560, #7f8c95) paired with a warm brass/gold accent (#ae8e4b, #b09040) that reads as premium and botanical, consistent with a gourmet tea retailer. True black (#000000, #0c1418, #18191e) and white (#ffffff) anchor contrast, while soft off-whites (#fafafa, #f5f5f5, #f4f3ee) suggest card and section backgrounds. A red family (#e42127, #b8070c) appears in discount-related selectors and is mapped here to sale/badge accents; a green (#25b900) is mapped to success/in-stock states — both roles are inferred from selector naming, not confirmed visual observation. Typography is built on the observed 'Gotham SSm A'/'Gotham SSm B' stack (with Work Sans, Roboto, Helvetica Neue, Arial, and system fallbacks present in the CSS), which this spec treats as the primary brand typeface family for headings and body copy. Spacing tokens mirror the site's own --hh-space-* scale (5–120px). Rounding, exact type sizes beyond the one observed 16px/24px body rule, and most component states are proposed conventions for a premium e-commerce tea brand, not measured layout facts, and are labeled accordingly throughout.
 
@@ -133,6 +137,13 @@ components:
 This table is a recommendation based on common e-commerce conventions and the spacing scale present in the CSS custom properties; it is not derived from measured site behavior at any breakpoint. Touch targets should maintain a minimum 44×44px hit area on mobile, and any multi-level navigation (visible in the observed category list) should collapse into an accordion or drawer pattern below tablet width.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is generated from static CSS extraction and a text excerpt only; no live rendering, computed layout, or interaction states were observed. Color-to-role mapping (e.g., treating #ae8e4b as primary brand accent, #e42127/#b8070c as sale/discount colors, #25b900 as success) is inferred from selector names and general e-commerce convention, not from visual confirmation. Typography sizes beyond the single observed 16px/24px body rule are proposed, not measured. The Gotham SSm A/B font family's licensing and actual availability/loading on the live site were not verified. No mobile menu, cart drawer, hover, focus, or form-validation states were observed; all such behaviors above are proposed conventions. Rounding and spacing values for individual components are estimated using the site's own spacing scale but were not confirmed against rendered elements.

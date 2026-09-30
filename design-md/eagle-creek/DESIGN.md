@@ -4,6 +4,10 @@ name: "Eagle Creek"
 source_url: "https://eaglecreek.com"
 captured_at: "2026-09-28T05:03:03.932014+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Eagle Creek's supplied CSS shows a neutral e-commerce shell (white canvas, near-black and mid-gray text tones) accented by an earthy olive-green pairing (#4b6633 hover state, #6c785a announcement button) and a warm sand/cream tone (#c9c1a6, #f2f0e9) consistent with an outdoor/adventure-travel positioning. Supporting hues include a utility blue (#0068c6, referenced as --ec-blue for link-style controls), a signal orange (#ec7f21) and red (#de3618) likely reserved for sale or alert badges, though their exact application was not directly observed beyond token presence.
 
@@ -155,6 +159,12 @@ This is a recommended structure, not measured site behavior:
 Touch targets should target a minimum 44px height for buttons and nav items; the mega-menu submenus (Featured, Luggage, Packing Cubes, Travel Bags, Accessories) should collapse into accordion-style disclosures on mobile. None of this collapse behavior was directly observed in the supplied CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

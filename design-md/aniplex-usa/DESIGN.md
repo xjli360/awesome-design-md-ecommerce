@@ -4,6 +4,10 @@ name: "Aniplex+ USA"
 source_url: "https://p-bandai.com/us/search?sort=relevance&text=aniplex"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A collector-grade marketplace where premium anime merchandise meets a restrained, product-forward interface. The site operates on a clean white canvas (#ffffff) with a single brand voltage — a deep, saturated crimson (#c8102e) that appears exclusively on the primary "Pre-Order" and "Add to Cart" buttons, signaling urgency without competing with the vibrant product photography. Typography runs a utilitarian sans-serif stack — likely Noto Sans JP or a system fallback — at modest weights (400–600), never exceeding 24px for display text, trusting the elaborate figure boxes and character art to carry visual weight. The navigation is a dense, two-tier system: a persistent top bar with account, cart, and search icons, and a secondary mega-menu strip of franchise categories (Demon Slayer, Fate, Gundam, etc.) that collapses into a hamburger on mobile. Product cards use a soft 8px corner radius (`{rounded.sm}`) and generous 16px padding, with price tags set in bold 16px type against the white card surface. The search bar is a full-width pill (`{rounded.full}`) with a magnifying-glass icon, sitting below the hero banner rather than in the nav, suggesting discovery is secondary to browsing known franchises. Badges — "Pre-Order", "Sold Out", "Limited Edition" — are compact 20px-tall pills in crimson or muted gray, using 11px uppercase type. The overall mood is efficient and slightly austere: no decorative flourishes, no brand illustrations, just a clean grid of product thumbnails and the crimson button as the only emotional cue.
 
@@ -326,6 +330,14 @@ components:
 - Cart icon badge count is hidden on mobile; cart icon remains visible
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

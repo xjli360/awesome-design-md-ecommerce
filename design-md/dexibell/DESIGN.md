@@ -4,6 +4,10 @@ name: "Dexibell"
 source_url: "https://www.dexibell.com"
 captured_at: "2026-09-28T09:34:11.726956+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Dexibell's public site runs on WordPress with the Gutenberg block editor and the UIkit 3.1.5
   framework, and the observed evidence reflects that stack more than a bespoke brand system. The
@@ -187,6 +191,13 @@ observed `.uk-icon-button` 36×36px sizing. Navigation collapse, sticky-header b
 grid column counts were not observed and should be validated against the live responsive site.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

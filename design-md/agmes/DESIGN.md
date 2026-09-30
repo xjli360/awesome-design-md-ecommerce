@@ -4,6 +4,10 @@ name: "Agmes"
 source_url: "https://www.agmesnyc.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every element on agmesnyc.com arrives without color — five near-achromatic tones spanning near-black (#121212) through silver-gray (#dedede) to cream (#fafafa), with nothing between that could upstage the jewelry itself. Agmes treats the interface as a museum wall: achromatic, recessive, constructed to hold light rather than emit it. The pieces carry all chromatic weight; the site declines the offer to compete. Raleway provides the typographic spine, set at ultralight weights — 200 for display, 300 for subheadings — with letter-spacing pushed to 0.10–0.18em. Headlines feel less like names than dimensions stamped on a studio sample tag, and uppercase tracking governs every label, navigation link, and call-to-action with consistent studio-quiet authority. No headline shouts; each reads like engraving.
 
@@ -333,6 +337,14 @@ components:
 - Nav dropdown becomes a full-screen accordion on mobile; hover states become tap-toggle states
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

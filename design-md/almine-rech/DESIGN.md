@@ -4,6 +4,10 @@ name: "Almine Rech"
 source_url: "https://www.alminerech.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep royal blue (#003399) takes every primary link and CTA — a deliberate assertion against the all-black neutrality that dominates institutional gallery sites. The canvas holds at pure white, the meta theme-color #ffffff enforced so exhibition photography arrives without interference, applying to the screen the same logic a white-cube room applies to hung work. Text runs in #08191b, a near-black with a faint oceanic undertone that separates it from true black and from the charcoal grays (#323232, #595959, #7d7d7d) managing secondary and tertiary hierarchy. Cool gray #cccdd5 handles divider and surface-muted duty, while the light blue tint #ddeeff surfaces as a hover-state wash behind interactive elements — focus feedback that adds no new hue to the visual field.
 
@@ -348,6 +352,14 @@ components:
 - Footer four-column grid collapses to two columns at 744px, then one column at 480px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

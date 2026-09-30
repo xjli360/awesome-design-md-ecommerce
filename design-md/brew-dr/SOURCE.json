@@ -38,12 +38,28 @@
     }
   ],
   "colors": {
+    "#000000": {
+      "count": 46,
+      "sources": [
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+      ]
+    },
+    "#333333": {
+      "count": 33,
+      "sources": [
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+      ]
+    },
     "#ffffff": {
       "count": 225,
       "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 38,
+      "sources": [
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
       ]
     },
     "#006072": {
@@ -52,231 +68,14 @@
         "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
       ]
     },
-    "#337ab7": {
-      "count": 49,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#000000": {
-      "count": 46,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#dddddd": {
-      "count": 38,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#00000000": {
-      "count": 36,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#333333": {
-      "count": 33,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#f5f5f5": {
-      "count": 32,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#777777": {
-      "count": 23,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#cccccc": {
-      "count": 21,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#fcf8e3": {
-      "count": 16,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#eeeeee": {
-      "count": 15,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#dff0d8": {
-      "count": 15,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#f2dede": {
-      "count": 15,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#2e6da4": {
-      "count": 15,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#84dade": {
-      "count": 14,
+    "#fafaf4": {
+      "count": 9,
       "sources": [
         "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#3c763d": {
-      "count": 14,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#8a6d3b": {
-      "count": 14,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#a94442": {
-      "count": 14,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#d9edf7": {
-      "count": 14,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#e8e8e8": {
-      "count": 14,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#006172": {
-      "count": 13,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#5cb85c": {
-      "count": 13,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#5bc0de": {
-      "count": 13,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#f0ad4e": {
-      "count": 13,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#d9534f": {
-      "count": 13,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
       ]
     },
     "#1ecad3": {
       "count": 12,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#fefefe": {
-      "count": 12,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#d7f2f3": {
-      "count": 12,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#016172": {
-      "count": 12,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#999999": {
-      "count": 11,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#222222": {
-      "count": 11,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#286090": {
-      "count": 11,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#efefdc": {
-      "count": 10,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#080808": {
-      "count": 10,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#fafaf4": {
-      "count": 9,
       "sources": [
         "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
       ]
@@ -287,8 +86,8 @@
         "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
       ]
     },
-    "#004957": {
-      "count": 9,
+    "#d7f2f3": {
+      "count": 12,
       "sources": [
         "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
       ]
@@ -299,1871 +98,33 @@
         "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
       ]
     },
-    "#036072": {
-      "count": 9,
+    "#f5f5f5": {
+      "count": 32,
       "sources": [
         "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
       ]
     },
-    "#31708f": {
-      "count": 9,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#555555": {
-      "count": 9,
+    "#777777": {
+      "count": 23,
       "sources": [
         "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#449d44": {
-      "count": 8,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#31b0d5": {
-      "count": 8,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ec971f": {
-      "count": 8,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#c9302c": {
-      "count": 8,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#3898ec": {
-      "count": 7,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#0000001a": {
-      "count": 7,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#1a1b1f": {
-      "count": 7,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#444444": {
-      "count": 7,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#e0e0e0": {
-      "count": 7,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#265a88": {
-      "count": 7,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#419641": {
-      "count": 7,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#2aabd2": {
-      "count": 7,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#eb9316": {
-      "count": 7,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#c12e2a": {
-      "count": 7,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ffffff00": {
-      "count": 6,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#264653": {
-      "count": 6,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#3dc1d0": {
-      "count": 6,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#b0ebb9": {
-      "count": 6,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#d0e9c6": {
-      "count": 6,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#c4e3f3": {
-      "count": 6,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#faf2cc": {
-      "count": 6,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ebcccc": {
-      "count": 6,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#9d9d9d": {
-      "count": 6,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#dbdbdb": {
-      "count": 6,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ff337ab7": {
-      "count": 6,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#e2e2e2": {
-      "count": 5,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#fafafa": {
-      "count": 5,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#75869600": {
-      "count": 5,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#e4f6f7": {
-      "count": 5,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#d6eaed": {
-      "count": 5,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#fafaf5": {
-      "count": 5,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#23527c": {
-      "count": 5,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#ffbba6": {
-      "count": 5,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#ffffffbd": {
-      "count": 5,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#e5e5e5": {
-      "count": 5,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#f8f8f8": {
-      "count": 5,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#e7e7e7": {
-      "count": 5,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#d6e9c6": {
-      "count": 5,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#bce8f1": {
-      "count": 5,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#faebcc": {
-      "count": 5,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#ebccd1": {
-      "count": 5,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#ebebeb": {
-      "count": 5,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#2b669a": {
-      "count": 5,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#3dc1d1": {
-      "count": 4,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#006271": {
-      "count": 4,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#e4ebf3": {
-      "count": 4,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#000000d9": {
-      "count": 4,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#c5c5c5": {
-      "count": 4,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#575555d9": {
-      "count": 4,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#d9d9d9": {
-      "count": 4,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#fff5f5f5": {
-      "count": 4,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#3c3c3c": {
-      "count": 4,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#0f0f0f": {
-      "count": 4,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#c8e5bc": {
-      "count": 4,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#b9def0": {
-      "count": 4,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#f8efc0": {
-      "count": 4,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#e7c3c3": {
-      "count": 4,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#c8c8c8": {
-      "count": 3,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#e2f6f5": {
-      "count": 3,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#00000099": {
-      "count": 3,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#ea4139": {
-      "count": 3,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#25cad2": {
-      "count": 3,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#90508b": {
-      "count": 3,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#32343a": {
-      "count": 3,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#43464d": {
-      "count": 3,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#ffffffcc": {
-      "count": 3,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#ff715b": {
-      "count": 3,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#ffffff1a": {
-      "count": 3,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#b0eab9": {
-      "count": 3,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#faf7f2": {
-      "count": 3,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#004d59": {
-      "count": 3,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#18ad3a": {
-      "count": 3,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#2b542c": {
-      "count": 3,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#66512c": {
-      "count": 3,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#843534": {
-      "count": 3,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#e6e6e6": {
-      "count": 3,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#204d74": {
-      "count": 3,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#398439": {
-      "count": 3,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#269abc": {
-      "count": 3,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#d58512": {
-      "count": 3,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#ac2925": {
-      "count": 3,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#ffe8e8e8": {
-      "count": 3,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ff2e6da4": {
-      "count": 3,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ffff00": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#5d6c7b": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#0082f3": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#00000066": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#fffeef": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#d3f6c1": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#1c6172": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#f7a76c": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#9f5d3a": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#faa86e": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#285566": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#e53e51": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#d7f2f300": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#a7e4e7": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#9de1e5": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#a2e2e6": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#f9ae00": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#275566": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#ffd011": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#3f6474": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#016072": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#4169e1": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#245269": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#67b168": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#c0a16b": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#ce8483": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#8c8c8c": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#adadad": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#122b40": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#4cae4c": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#255625": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#46b8da": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#1b6d85": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#eea236": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#985f0d": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#d43f3a": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#761c19": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#5e5e5e": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#80000000": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#ffffffff": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#245580": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ff5cb85c": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#3e8f3e": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ff5bc0de": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#28a4c9": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#fff0ad4e": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#e38d13": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ffd9534f": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#b92c28": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ffdff0d8": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ffd9edf7": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#fffcf8e3": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#fff2dede": {
-      "count": 2,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#aaadb0": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#ffdede": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#f3f3f3": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#ea384c": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#758696": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#33333366": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#22222266": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#ffffff66": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#000000e6": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#2895f7": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#204f58": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#47888a": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#f0ecfd": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#5532fa": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#1e116e": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#a695fb": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#2e5261": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#6e6e6e": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#e76f51": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#2c2c2c": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#c2ecd5": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#131313": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#eeece9": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#524c44": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#000000c2": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#434cff": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#86dbdf": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#482b77": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#86dbde": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#9de2e5": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#91dee1": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#6c1965": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#af0061": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#9ce1e4": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#e1ebe7": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#fecf03": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#00000008": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#f8a86f": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#a05d3a": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#eb9a64": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#b66d46": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#f8f7eb": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#fe5000": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#472b74": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#fedd00": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#ff8291": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#44bbb9": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#9ec5c7": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#003741": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#a95f1b": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#efefdc80": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#723c3c": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#85dade": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#016373": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#006074": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#de780a": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#e0821c": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#96a3b51f": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#96a3b54d": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#76879d1a": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#3a4554": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#96a3b533": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#595959": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#004c5a": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#ec8600": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#c96900": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#ac390073": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#fcfce1": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#24cad4": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#006473": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#002f38": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#29335c33": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#00963e": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#f71818": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#818181": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#575757cc": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#e1e1e1": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#eef8f8": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#29335c26": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#05414c1a": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#05414cb3": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#05414ccc": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#003b46": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#ffffffad": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#00607200": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#c7dce0": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#05414c00": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#dfdfdf": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#51aa761a": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#93ff4133": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#000000a6": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#ffffff4d": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#000000cc": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#0000002b": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#84dadd": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#156775": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#da5d7c": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#f7ae03": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#006072eb": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-      ]
-    },
-    "#c1e2b3": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#afd9ee": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#f7ecb5": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#e4b9b9": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#c7254e": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#f9f2f4": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#f9f9f9": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#66afe9": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#737373": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#d4d4d4": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#262626": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#888888": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#101010": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#d5d5d5": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#c9e2b3": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#a6e1ec": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#f7e1b5": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#e4b9c0": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#c7ddef": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#e3e3e3": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#f7f7f7": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      ]
-    },
-    "#ffe0e0e0": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ff265a88": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ff419641": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ff2aabd2": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ffeb9316": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ffc12e2a": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#fff8f8f8": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ffdbdbdb": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ffe2e2e2": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ff3c3c3c": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ff222222": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ff080808": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ff0f0f0f": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ffc8e5bc": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#b2dba1": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ffb9def0": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#9acfea": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#fff8efc0": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#f5e79e": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ffe7c3c3": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#dca7a7": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ffebebeb": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ff286090": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ff449d44": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ff31b0d5": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ffec971f": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ffc9302c": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ff2b669a": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ffd0e9c6": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ffc4e3f3": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#fffaf2cc": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#ffebcccc": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-      ]
-    },
-    "#dcdcdc": {
-      "count": 1,
-      "sources": [
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
       ]
     }
   },
   "font_families": {
-    "-apple-system": [
+    "sans-serif": [
       "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
     ],
     "Arial": [
-      "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
-      "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-    ],
-    "BlinkMacSystemFont": [
-      "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-    ],
-    "Bricolage Grotesque": [
-      "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-    ],
-    "Cantarell": [
-      "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-    ],
-    "Consolas": [
-      "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-    ],
-    "Courier New": [
-      "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-    ],
-    "Droid Sans": [
-      "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-    ],
-    "Fira Sans": [
-      "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-    ],
-    "Georgia": [
-      "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-    ],
-    "Glyphicons Halflings": [
-      "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-    ],
-    "Handelson One": [
-      "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-    ],
-    "Helvetica": [
-      "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
-      "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-    ],
-    "Helvetica Neue": [
-      "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
-      "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-    ],
-    "Menlo": [
-      "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-    ],
-    "Merriweather": [
-      "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-    ],
-    "Monaco": [
-      "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-    ],
-    "Oxygen": [
-      "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-    ],
-    "Roboto": [
-      "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-    ],
-    "Segoe UI": [
-      "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-    ],
-    "Ubuntu": [
-      "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-    ],
-    "Verdana": [
-      "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-    ],
-    "din-2014": [
-      "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-    ],
-    "din-2014-narrow": [
       "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
     ],
     "gopher": [
       "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
     ],
-    "monospace": [
-      "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
-      "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-    ],
-    "sans-serif": [
-      "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
-      "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-    ],
-    "serif": [
-      "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
-      "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-    ],
-    "system-ui": [
+    "Bricolage Grotesque": [
       "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
     ],
-    "webflow-icons": [
-      "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
-    ],
-    "webflow-icons !important": [
+    "din-2014-narrow": [
       "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
     ]
   },
@@ -2325,10 +286,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Brew Dr. Kombucha | Elevate Your Tea – Organic, raw, gut-friendly kombucha",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "remaining-20260929",
   "tokens": {
     "colors.primary": {
+      "value": "#006072",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -2336,6 +298,7 @@
       ]
     },
     "colors.ink": {
+      "value": "#013741",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -2343,23 +306,23 @@
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
       ]
     },
     "colors.body": {
+      "value": "#333333",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
       ]
     },
     "colors.muted": {
+      "value": "#777777",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -2367,14 +330,15 @@
       ]
     },
     "colors.hairline": {
+      "value": "#dddddd",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
       ]
     },
     "colors.surface-soft": {
+      "value": "#fafaf4",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -2382,24 +346,23 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#f5f5f5",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
-        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
       ]
     },
     "colors.accent": {
+      "value": "#1ecad3",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -2407,6 +370,7 @@
       ]
     },
     "colors.accent-tint": {
+      "value": "#d7f2f3",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -2414,6 +378,7 @@
       ]
     },
     "colors.surface-deep": {
+      "value": "#05414c",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -2421,110 +386,400 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "Bricolage Grotesque, sans-serif",
+        "fontSize": "110px",
+        "fontWeight": 700,
+        "lineHeight": 1,
+        "letterSpacing": "-1px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "gopher, sans-serif",
+        "fontSize": "56px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "din-2014-narrow, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 800,
+        "lineHeight": 1,
+        "letterSpacing": "0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": "20px",
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": "18px",
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Arial, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": 400,
+        "lineHeight": "16px",
+        "letterSpacing": "0.3px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "din-2014-narrow, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 800,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.primary}",
+        "border": "1px solid {colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "borderBottom": "1px solid {colors.hairline}",
+        "padding": "{spacing.base} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "shadow": "0 1px 3px rgba(0,0,0,0.08)"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "headlineTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-deep}",
+        "textColor": "{colors.on-primary}",
+        "linkTypography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-tint}",
+        "textColor": "{colors.primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.md}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "iconColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xs} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.flavor-tag": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.primary}",
+        "border": "1px solid {colors.accent}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.md}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#000000": {
+        "selector": "mark",
+        "property": "color",
+        "declaration": "#000",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "#333333": {
+        "selector": "body",
+        "property": "color",
+        "declaration": "#333",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "#ffffff": {
+        "selector": "body",
+        "property": "background-color",
+        "declaration": "#fff",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "#dddddd": {
+        "selector": ".w-form-done",
+        "property": "background-color",
+        "declaration": "#ddd",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "#006072": {
+        "selector": ":root",
+        "property": "--dark-slate-grey",
+        "declaration": "#006072",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "#fafaf4": {
+        "selector": ":root",
+        "property": "--floral-white",
+        "declaration": "#fafaf4",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "#1ecad3": {
+        "selector": ":root",
+        "property": "--_brew-dr-library---clear-mind",
+        "declaration": "#1ecad3",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "#05414c": {
+        "selector": ":root",
+        "property": "--_brew-dr-library---teal-base",
+        "declaration": "#05414c",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "#d7f2f3": {
+        "selector": ".section.is-impact-hero",
+        "property": "background-image",
+        "declaration": "linear-gradient(#fefefe, #d7f2f3 73%, #84dade)",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "#013741": {
+        "selector": ".h1-jumbo.is-impact.is-center",
+        "property": "color",
+        "declaration": "#013741",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "#f5f5f5": {
+        "selector": ".consent_prefs_tracker-template",
+        "property": "background-color",
+        "declaration": "#f5f5f5",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "#777777": {
+        "selector": ".h1 .small,.h1 small,.h2 .small,.h2 small,.h3 .small,.h3 small,.h4 .small,.h4 small,.h5 .small,.h5 small,.h6 .small,.h6 small,h1 .small,h1 small,h2 .small,h2 small,h3 .small,h3 small,h4 .small,h4 small,h5 .small,h5 small,h6 .small,h6 small",
+        "property": "color",
+        "declaration": "#777",
+        "url": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "f75e846cc83bd11432f4b1e21a45f31bc85283d11d372f7b19accd1bf6a2635c"
+      }
+    },
+    "font_families": {
+      "sans-serif": {
+        "selector": "html",
+        "property": "font-family",
+        "declaration": "sans-serif",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "Arial": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Arial, sans-serif",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "gopher": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "gopher, sans-serif",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "Bricolage Grotesque": {
+        "selector": ".container",
+        "property": "font-family",
+        "declaration": "Bricolage Grotesque, sans-serif",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "din-2014-narrow": {
+        "selector": ".nav-link",
+        "property": "font-family",
+        "declaration": "din-2014-narrow, sans-serif",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      }
+    }
+  },
+  "derived_colors": {
+    "#00000014": {
+      "base": "#000000",
+      "status": "proposed_opacity",
+      "alpha": 0.0784313725490196
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

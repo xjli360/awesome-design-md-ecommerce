@@ -4,6 +4,10 @@ name: "Packlane"
 source_url: "https://www.packlane.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every primary CTA on packlane.com wears #2e469d — a deep navy-indigo with enough chromatic mass to anchor both a B2B order form and a consumer gift-box configurator. The brand lives at that intersection: authoritative enough for a print buyer ordering 500 custom mailers, approachable enough for a first-time shop owner placing their first tissue paper run. That dual register plays out in the palette. Ringing the core navy is a confetti of material-preview swatches — lemon #f9cf57, arctic mint #98ff98, electric teal #1bdfc7, safety orange #ffa300, and sky wash #b4eef9 — not placed decoratively but as live representations of what cardstock, kraft, and foil can become. The product is the swatch ring, and the interface surfaces that fact without overstatement.
 
@@ -407,6 +411,13 @@ components:
 - Footer columns collapse from four columns to two on tablet, single column on mobile with accordions for each section
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

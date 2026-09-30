@@ -4,6 +4,10 @@ name: "Manfrotto"
 source_url: "https://manfrotto.com"
 captured_at: "2026-09-28T09:13:20.358865+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Manfrotto's storefront CSS exposes a Bootstrap-derived variable system layered under a Hyva/Magento theme, with `--primary` and `--danger` both mapped to a saturated signal red (#f51928) against a neutral gray-scale body (#252525 ink, #505050 secondary text, #6e6e6e muted, #f1f1f1 light surfaces). The base stylesheet explicitly sets `body { font-family: "Inter", ... sans-serif }` at 16px/1.5, with headings inheriting the family at weight 500 and line-height 1.2 — the only typographic facts confirmed by the evidence. Additional families (Open Sans, Karla-Bold, Roboto, Helvetica Neue) appear in the asset manifest but are not tied to specific selectors here, so they are treated as unverified and excluded from primary tokens.
   This interpretation reads Manfrotto as a technical, professional-gear brand: a compact neutral palette punctuated by a single confident red for calls-to-action and alerts, functional Bootstrap status colors (success green, warning amber, info cyan) reused for stock/shipping-style badges relevant to bag inventory, and restrained 4px input radii carried through as the base rounding unit. Layout, breakpoints beyond the declared Bootstrap variables, and any live interaction states are inferred, not observed.
@@ -149,6 +153,13 @@ Recommendation only — no live breakpoint behavior was observed. Based on the B
 Touch targets should maintain minimum 44×44px hit areas on interactive elements (buttons, badges) at all widths under 992px; this guidance is a general practice recommendation, not a measured constraint.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived solely from static CSS/text evidence supplied for the splash-page bundle; no rendered layout, JavaScript-driven interaction, or mobile viewport was observed. Semantic color roles (e.g., which gray serves "body" vs. "muted") are inferred from Bootstrap variable naming conventions and selector context, not confirmed via visual inspection. Font sizes, weights (outside the explicitly declared 16px body and h1–h6 weight-500/line-height-1.2 rule), letter-spacing, and component paddings are proposed defaults, not measured. Additional font families listed in the asset manifest (Open Sans, Karla-Bold, Roboto, Helvetica Neue, Font Awesome variants) appear in the CSS bundle but lack selector-level evidence tying them to specific text roles, so they were excluded from typography tokens. Custom font licensing/availability (including Inter's actual delivery method — self-hosted vs. system fallback) was not verified. Component states (hover, active, disabled, error) are proposed conventions, not observed pseudo-class rules beyond the table-hover/table-striped opacity rules present in the source CSS.

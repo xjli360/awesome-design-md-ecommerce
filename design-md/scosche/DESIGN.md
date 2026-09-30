@@ -4,6 +4,10 @@ name: "Scosche"
 source_url: "https://www.scosche.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A high-voltage accessory brand that uses its own product category as its primary design signal — the bright #f5d83e yellow of a mounting clamp or charging indicator becomes the system’s only saturated accent, appearing on primary CTAs, sale badges, and the brand’s signature “#1 Mount” claim. Everything else recedes into a grayscale spectrum: the body grid runs on #303030 ink, #555555 muted text, and #ededed hairline dividers, with #111111 used sparingly for hero headlines. The typography stack is pure Helvetica Neue in four weights (Regular, Medium, Bold, and a condensed Bold for display), a no-nonsense Swiss choice that mirrors the brand’s mechanical, mount-and-hold engineering ethos. Buttons are sharp-cornered rectangles ({rounded.sm} ~8px) rather than pills — the brand avoids softness, preferring the visual torque of a yellow rectangle against a white or dark canvas. Product cards use #f0f0f0 surface fills with #c2c2c2 borders, and the search bar sits as a full-width #e8e8e8 field with no decorative icon. The palette’s secondary accent is #1979c3, a technical blue used exclusively for hyperlinks and “Learn More” text — never for CTAs. The overall effect is a system that looks like it was designed by an industrial engineer: every color has a job, every corner is a right angle, and the yellow is the only thing that moves.
 
@@ -329,6 +333,13 @@ components:
 - Badge text truncates to “SALE” instead of “SALE - 20% OFF” on cards narrower than 200px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

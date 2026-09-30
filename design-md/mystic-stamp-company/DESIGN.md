@@ -4,6 +4,10 @@ name: "Mystic Stamp Company"
 source_url: "https://www.mysticstamp.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Perforated edges run the visual grammar at Mystic Stamp Company — the catalog-era sensibility of American philately shapes everything from the dense, image-forward product grid to the deep-navy header that grounds every page like a first-day cover envelope. This is a brand built for collectors who study condition grades and watermark varieties, not impulse browsers; the design reflects that by prioritizing information density, legibility of fine-print provenance notes, and institutional trust over trend-chasing minimalism. Deep navy in the #0a2d6e range anchors the primary UI, lending the site the authority of a government postal service without the sterility — paired with a warm off-white canvas (#fafaf7) that quietly echoes aged album pages. Red accent (#c8102e) surfaces only on urgent CTAs and sale flags, borrowing directly from the patriotic stamp subjects that anchor US philatelic culture. Product cards organize around stamp image thumbnails with condition-badge overlays — "Mint NH", "Fine-VF", "Used" — rendered in a small-caps serif that signals catalog credibility. The type system mixes a traditional serif stack (Georgia-led) for display headings and price callouts with a clean system sans-serif for body copy and navigation, a split that mirrors the dual audience of seasoned philatelists who read condition guides and newcomers exploring thematic collections. Buttons sit at modest `{rounded.xs}` corners — nearly square, nothing playful — consistent with a brand that leans on provenance and completeness rather than delight. The search experience emphasizes faceted filtering (country, era, topic, condition, price range) over visual discovery, and the footer expands into a full catalog-resource section with links to stamp identifier tools, grading guides, and club memberships that no casual lifestyle brand would include.
 
@@ -420,6 +424,13 @@ components:
 - Footer columns collapse from 5-column to 2-column at tablet and single-column accordion at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

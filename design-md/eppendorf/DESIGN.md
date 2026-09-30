@@ -4,6 +4,10 @@ name: "Eppendorf"
 source_url: "https://www.eppendorf.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every working scientist has a drawer full of tubes named after this brand — the 1.5 mL polypropylene microcentrifuge tube, genericized into scientific vernacular decades before "googling" was a verb — and the same bright saturated blue (#009ee0) that bands every Eppendorf pipette handle dominates the brand's digital surface. Primary actions, navigation indicators, and CTA buttons fire in that oxygen-rich azure; on a white (#ffffff) canvas that evokes cleanroom protocols and lab-coat fabric, the color reads as both instrument-grade precision and institutional trust. The typographic register stays narrow and controlled — a clean corporate sans-serif at conservative weights — because the product is a centrifuge or a 5000 µL pipette calibrated to four decimal places, and the design defers to specification copy rather than editorial flourish. Product cards expose SKU strings, volume ranges, and speed ratings with the same unhesitating confidence as a datasheet; category labels sit in small-caps uppercase to echo instrument panel legends. Navigation runs deep — product lines subdivide by application domain (genomics, cell culture, protein research), then by product family, then by individual model — and the mega-menu tier inherits soft surface washes ({colors.surface-soft}) to visually bracket the taxonomy without hierarchical confusion. Corner radii trend toward the conservative end ({rounded.sm} at 8px for cards, {rounded.xs} at 4px for badges), reinforcing the sense of calibrated engineering over organic warmth. Application-note PDFs, certificates of conformance, and instrument protocols receive dedicated download-card components marked with a left-border rule in {colors.primary}, an accent that echoes the instrument's grip color and flags the asset as an official Eppendorf document. A specification table component renders parameter rows in a monospaced stack so that RPM ceilings, temperature ranges, and tube-capacity figures read with the same visual authority as a printed DIN datasheet. The footer operates as a compliance substrate — WEEE markings, regulatory country selectors, and ISO certifications close the page under a full-bleed hairline that terminates the white grid with the formality of a calibration certificate.
 
@@ -414,6 +418,13 @@ components:
 - Footer collapses from 5-column grid to 2-column accordion on mobile, with legal sub-row stacking vertically
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Maxbone"
 source_url: "https://maxbone.com"
 captured_at: "2026-09-28T04:17:38.358379+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Maxbone's storefront CSS shows a restrained, editorial palette built on true black
   (#000000) and near-black charcoal (#231f20) against white (#ffffff) and off-white
@@ -146,6 +150,13 @@ Recommended, not measured, breakpoints:
 Touch targets should maintain a minimum 40px height, matching the observed `.btn` height. Nav and filter menus are expected to collapse into an off-canvas or accordion pattern on mobile; this is a proposed convention, not confirmed by extracted markup.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS extraction only; no live rendering, DOM inspection, or JavaScript-driven state (hover, focus, open menus, cart drawer) was observed. Semantic color roles (primary, muted, hairline, surface tiers) are inferred from selector names and usage context, not confirmed via visual screenshots. Typography sizes beyond the single confirmed `font-size:16px` body rule are proposed, not measured. The large list of font families in evidence likely includes third-party widget/icon fonts (e.g., `oke-reviews-icons`) and generic system fallbacks; only `GoodSans` is confirmed as an intentionally declared brand body font, and its licensing/availability has not been verified. Mobile layout, breakpoint values, and interaction states (button hover beyond the two captured rules, form validation, cart behavior) are not observed and are marked as proposed throughout.

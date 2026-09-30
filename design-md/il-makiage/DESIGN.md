@@ -4,6 +4,10 @@ name: "Il Makiage"
 source_url: "https://www.ilmakiage.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Il Makiage is a high-performance, direct-to-consumer makeup brand that marries a sophisticated, almost clinical precision with a bold, unapologetic glamour. The brand's digital presence is a study in contrasts: a pristine, predominantly white canvas (`#ffffff`) is punctuated by a signature, vibrant hot pink (`#ff0283`) that acts as its primary voltage, appearing in key CTAs, promotional badges, and interactive highlights. This is not a soft, pastel pink; it is a confident, saturated statement. Supporting this are accents of a deep, almost-black ink (`#0d0c0c`), a clean primary blue (`#1890ff`) for informational links and secondary actions, and a warm, inviting gold (`#faad14`) for loyalty or special status indicators. The palette is further enriched by a range of sophisticated neutrals: soft greys like `#e8e8e8`, `#f5f5f5`, and `#d9d9d9` create subtle surfaces and hairlines, while `#787878` and `#727272` provide muted text tones. A hint of blush (`#e6d8d8`) and error reds (`#f5222d`, `#ffc4c2`) round out the system, ensuring every state from active to disabled is clearly communicated. The typography leans on a custom primary face, "Maison Neue", appearing in both Book and Light weights, which gives the brand a refined, editorial feel without sacrificing legibility. This is a system built for a brand that knows its product is the hero; the design is clean, confident, and deliberately restrained, allowing the vibrant product imagery and the signature pink to command attention. The overall mood is one of accessible luxury—precise, modern, and deeply feminine, but with a sharp, contemporary edge.
 
@@ -317,6 +321,13 @@ components:
 - The hero banner's side-by-side layout collapses to a stacked layout on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

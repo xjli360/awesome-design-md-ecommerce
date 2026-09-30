@@ -4,6 +4,10 @@ name: "Mugsy Jeans"
 source_url: "https://mugsyjeans.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   An electric blue (#3366ff) CTA button sitting on a near-white field is Mugsy's first visual declaration — a denim brand that treats stretchability as a performance specification rather than a fabric footnote, and the interface encodes that logic at every layer. The type stack leads with Hind, a compressed humanist sans-serif that reads hard-working rather than aspirational, running tight negative letter-spacing on display-xl headlines and a comfortable 1.5 line-height through body copy. Fire-engine red (#fc0000) intercepts the scroll at sale callouts and urgency triggers; saturated yellow (#ffd200) badges frame bestsellers and new-arrival signals in a register closer to a streetwear drop calendar than department-store signage. Beneath this high-contrast CTA layer the page breathes in pale surface tones — #f4f4f6 cards on #f7f7f8 backgrounds — while muted blue-gray (#676986) handles secondary labels in sizing grids and filter menus without competing with the product imagery. A dark navy (#272d45) grounds both the announcement bar at the top and the footer at the bottom, anchoring the scroll with consistent brand gravity. The {rounded.full} pill shape appears on promotional badges exclusively — sale chips, bestseller tags, new-arrival flags — never on primary action buttons, which hold at {rounded.sm} to signal utility over softness. Color swatches mirror the pill logic with fully circular dots, while size swatches stay rectangular, reinforcing the brand's functional register. Full-width hero sections run edge-to-edge photography against dark overlays with no softening radius at the viewport break, keeping the performance-brand energy intact from first impression through checkout.
 
@@ -374,6 +378,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

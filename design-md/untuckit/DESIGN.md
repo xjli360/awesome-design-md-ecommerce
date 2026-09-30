@@ -4,6 +4,10 @@ name: "Untuckit"
 source_url: "https://untuckit.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Alternate Gothic Condensed — all-caps, compressed horizontally, carrying an authority that fills whatever container it occupies — handles the brand's loudest register: promo headers slam across the full viewport, campaign callouts crowd their letters to the edge, and seasonal sale banners arrive like placards rather than whispers. Beneath that display energy, Proxima Nova carries body copy, product names, and navigation labels in a clean geometric sans that reads frank and functional rather than decorative. The palette is built in three layers: a deep navy (#142d51) drives every primary CTA, navigation background, and hover state; a concentrated burgundy (#4d0b35) and vivid crimson (#dc143c) surface in campaign moments and limited colorway badges, lending the brand a clubby confidence that flat navy alone would not carry. Everyday surfaces cool the palette — #eaeaea and #dedede grays hold product grids in an airy register while near-black #121212 handles price text and body prose at full ink density. Corner geometry throughout stays close to square: product cards clip at {rounded.xs} (4px), buttons are nearly rectangular, and the search bar inherits the same tight radius — there are no pill shapes anywhere in the layout. This right-angle discipline reinforces the brand's core claim that fit is a precise, engineered outcome, not a soft approximation. A promotional purple (#a45cec) surfaces on sale badge overlays, deliberately dissonant against the navy-and-crimson base, flagging a discount event as a distinct object rather than a tonal variation. The light accent blue (#accef7) appears in informational callouts and loyalty-program highlight strips. Navigation runs two tiers: a slim utility rail on {colors.surface-soft} for the country selector, size guide, and free-shipping threshold, then a full-width white primary bar with the wordmark centered and category links spread across — Shirts, Pants, Shorts, Sweaters, Outerwear — each opening a full-width mega-dropdown panel. Hero sections run full-bleed photography on desktop with white Alternate Gothic Condensed headlines reversed directly into the scene; on mobile the image compresses and the headline drops below in dark ink on canvas.
 
@@ -343,6 +347,13 @@ components:
 - Fit quiz CTA strip retains full width at all breakpoints; left border accent reduces to 2px on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

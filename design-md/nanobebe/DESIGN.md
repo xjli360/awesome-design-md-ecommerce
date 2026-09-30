@@ -4,6 +4,10 @@ name: "Nanobebe"
 source_url: "https://nanobebe.com"
 captured_at: "2026-09-28T04:54:03.861400+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is built from Shopify theme CSS variables, checkout-widget styling, and payment/badge tokens captured on nanobebe.com, not from direct visual inspection. The only distinctly brand-like hue in the palette is a muted sage green (#a2b790), which echoes the "Sage" color option used across bottles, pacifiers, and breastmilk bottles; it is treated here as the primary accent. Ink and surface tones come from dark near-black grays (#1c1c1c, #232323) paired with white canvas and light gray surfaces (#dedede, #cccccc) used for sold-out badges and skeleton loaders. A secondary blue (#1990c6, hover #136f99) appears only inside the Shopify accelerated-checkout button and is mapped here as a functional secondary action color, not a core brand hue. Grayscale-only success/warning/error CSS variables suggest the live theme favors monochrome status messaging, but concrete hex equivalents (#28a745, #ff9800, #dc3545) from the supplied palette are used as clearer stand-ins, labeled inferred. Typography pairs a distinctive display face (Josefin Sans) with a rounder workhorse sans (Nunito) for body and UI text, a common pairing convention rather than a confirmed observation. Layout tokens (container gutters, section spacing) are drawn directly from `:root` custom properties.
 
@@ -148,6 +152,12 @@ This is a recommendation, not measured site behavior.
 Touch targets should be at least 44px per the checkout button's clamped `block-size` (25–55px range observed); interactive swatches and nav items should follow the same minimum. Mobile menu collapse is assumed from the presence of two header-grid definitions but was not visually confirmed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

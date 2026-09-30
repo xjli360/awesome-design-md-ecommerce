@@ -4,6 +4,10 @@ name: "Lark & Berry"
 source_url: "https://www.larkandberry.com"
 captured_at: "2026-09-29T03:59:53.084252+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Lark & Berry presents itself as a London-founded demi-fine/fine jewellery
   house built around lab-grown diamonds, private appointments and modular
@@ -166,6 +170,13 @@ components:
 Touch targets should be at least 44px in height for primary buttons despite the compact 8–9px button label type observed, achieved via generous vertical padding. Navigation and filters likely collapse into a drawer or accordion on mobile; this is a recommendation only and was not measured from live responsive behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

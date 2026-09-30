@@ -4,6 +4,10 @@ name: "Vossen Wheels"
 source_url: "https://vossenwheels.com"
 captured_at: "2026-09-28T09:42:03.148393+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Vossen Wheels' public site evidence shows a WordPress/Gutenberg-based build using default block-editor color slugs (very-light-gray #eee, very-dark-gray #313131) alongside a bold saturated red (#d21c24) and a darker red (#9c1116) that appear distinct from the WordPress admin/editor defaults (#007cba family) and from generic Gutenberg swatches (#0693e3, #ff6900, #00d084, etc.), which are treated as unused CMS palette noise rather than brand color. The red is inferred as the brand primary/accent given its saturation and separation from neutral tones, consistent with automotive performance branding; this mapping is inferred, not confirmed by a style guide.
 
@@ -141,6 +145,13 @@ components:
 Proposed breakpoints (not measured from live site): mobile ≤480px, tablet 481–1024px, desktop 1025px+. Below tablet, nav-bar collapses to a hamburger/off-canvas menu; product-card grids reduce from 4/3 columns to 1–2 columns; hero display type scales down toward `{typography.display-md}` sizing. Touch targets on button-primary/secondary and search should maintain a minimum 44px height using `{spacing.md}`–`{spacing.lg}` vertical padding. This section is a recommendation only; no responsive CSS or media queries were present in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

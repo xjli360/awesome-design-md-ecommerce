@@ -4,6 +4,10 @@ name: "Marlondo Leather"
 source_url: "https://marlondoleather.com"
 captured_at: "2026-09-28T10:08:03.777372+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Marlondo Leather's observed CSS shows a restrained, utilitarian retail system built on Open Sans for body copy (15px/1.6, color #585858) and Montserrat (700 weight) for headings and buttons, both falling back to Helvetica Neue/sans-serif. The measured interaction chain on `.btn` — base state unspecified in evidence, hover `#20585d`, active `#19464a` — establishes a dark teal family as the functional accent; `#266a70` from the same palette cluster is inferred here as the resting primary brand color since no unhovered button background was captured. Secondary buttons use a neutral gray ramp (`#dcdcdc` → `#cfcfcf` → `#c3c3c3`), and disabled states use `#f6f6f6`/`#b6b6b6`. Header and cart chrome sit on off-white surfaces (`#f2f2f2`, `#e5e5e5`) against a white canvas, with heading text at `#333` and body copy at `#585858`. A cluster of warm brown tones (`#8d5f3d`, `#6a472e`, `#9f6b45`) appears in the palette and is treated as an inferred leather-material accent for imagery framing and material swatches, not confirmed as a UI color. This interpretation extends the observed 2px button radius and teal/neutral system into a full component library for a duffel-bag-focused storefront, flagging all unmeasured values as proposed.
 
@@ -155,6 +159,13 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets for `.btn`/`.header-cart-btn` should maintain a minimum 44px tap height; the observed `padding:8px 20px` on buttons likely needs vertical padding increases on touch devices. Category flyouts ("More leather briefcases ›") should collapse into accordions below tablet width. None of this responsive behavior was directly observed in the supplied CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered layout, computed styles, or DOM screenshots were available. The resting (non-hover) background of `.btn` was never captured, so `{colors.primary}` is an inferred value from the surrounding teal cluster, not a directly observed rule. Brown/leather tones (`#8d5f3d`, `#6a472e`, etc.) appear in the palette but their actual UI usage (swatches, imagery overlays, or unrelated icon assets) is unconfirmed. All spacing, rounded, and breakpoint values beyond the two directly observed (`border-radius:2px`, `padding:8px 20px`) are proposed conventions, not measurements. Montserrat and Open Sans are used as declared font-family values only; no confirmation of licensing, self-hosting, or web-font-loading behavior was available. Mobile menu behavior, hover/focus states beyond `.btn`/`.btn-secondary`/`.header-cart-btn`, and any JavaScript-driven interactions (cart drawer, ajaxify behavior referenced in filenames) were not observed or verified.

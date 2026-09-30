@@ -4,6 +4,10 @@ name: "Satechi (Stands)"
 source_url: "https://satechi.net"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Blaze-orange at `#f55a19` does all the commercial lifting on a page that otherwise insists on restraint — every primary CTA, sale callout, and active-state indicator borrows this same high-Kelvin flame while the broad canvas stays in warm bone tones (`#f5f2ef`, `#ede6e0`, `#cfc6bf`) that echo the brushed aluminum and woven fabric of the physical stands themselves. That pairing — industrial warmth offset by a single hot accent — is the defining visual move. Satechi then layers two auxiliary voltages that never compete for the same real estate: a deep indigo-purple at `#4e34e0` appears in promo banners and price-comparison highlights, and a mint-teal at `#00eab6` surfaces on trust indicators and secondary badges. The three-accent system is unusually legible because each hue maps to a distinct message register — purchase urgency, promotional frame, credibility signal — preventing palette fatigue across long, spec-heavy product pages.
 
@@ -351,6 +355,13 @@ components:
 - Hero CTA stacks below body text on mobile; secondary text-link CTA is hidden below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

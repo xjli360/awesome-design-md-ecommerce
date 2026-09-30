@@ -4,6 +4,10 @@ name: "Steve Spangler Science"
 source_url: "https://www.stevespanglerscience.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   #ff7700 orange arrives on the Steve Spangler Science site the way a Van de Graaff generator discharges — sudden, impossible to ignore, and entirely deliberate. Every primary action button, promotional callout, and sale indicator fires in this single frequency, set against a #282f37 charcoal navigation bar thick enough to anchor the energy without absorbing it. The canvas beneath opens to #f3f2f7, a faint lavender-white that positions product photography — mid-pour liquids, billowing chemical fog, color-changing crystals — as the actual selling surface. The visual grammar owes less to lifestyle retail than to the science fair: orange is the ignition, darkness is the void before the experiment starts, and the product image is the reaction. Age-range pills ({rounded.full}, solid #ff7700) floating on kit cards are the primary scanning signal parents use before reading any copy. Grade-level context arrives in #003388 navy pills, the brand's secondary authority color, carrying the curriculum-alignment cue that teachers and homeschool buyers need. Typography runs in a clean, accessible sans-serif hierarchy with no display theatrics — legibility matters more than style when the audience spans third-graders and their parents simultaneously. The broader extracted palette contains a recognizable cluster of WordPress Gutenberg block-editor defaults — #9b51e0 purple, #7bdcb5 mint, #cf2e2e red — accumulated across years of experiment and blog content rather than reflecting structural brand decisions. The load-bearing system is tighter: #ff7700 for every action, #282f37 for every container that needs weight, #f3f2f7 for breathing room, and #003388 when the brand needs to read as credible rather than exuberant.
 
@@ -374,6 +378,13 @@ components:
 - Hero layout transitions from side-by-side (desktop) to image-above-text (mobile) below 480px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

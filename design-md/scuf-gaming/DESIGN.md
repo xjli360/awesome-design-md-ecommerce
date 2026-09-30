@@ -4,6 +4,10 @@ name: "SCUF Gaming"
 source_url: "https://scufgaming.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A midnight-blue (#19212c) chassis holds the brand's entire identity — this is the color of pro-gamer focus, the dark of a dimmed tournament room where only controller LEDs and monitor glow cut through. Against that deep navy, a single high-voltage orange (#ff8f1c) fires every primary CTA, thumbstick ring, and configurator highlight, while a secondary electric blue (#2563eb) handles secondary actions and link states. The typography stack splits cleanly: Sofia Sans Semi Condensed for display and button text (tight, competitive, space-efficient), Tomorrow for technical specs and data readouts, and Verveine-Regular as an unexpected cursive accent for limited-edition drops and signature series. Corners are mostly sharp — {rounded.none} on cards and panels — but thumbsticks and D-pads get {rounded.full} treatment, mirroring the actual hardware. The configurator is the beating heart: a three-column layout with live 3D controller preview, swatch grid of shell colors (#ece81a yellow, #ff0a02 red, #3b8649 green), and component selector tabs that feel more like a CAD tool than an ecommerce page. Badges read "PRO" and "LIMITED" in all-caps Sofia Sans at 10px, pinned to the top-right of product cards with a {rounded.sm} clip. The brand doesn't soften anything — there is no pastel, no gradient wash, no generous whitespace. It's dense, technical, and built for people who care about trigger tension and paddle placement more than lifestyle photography.
 
@@ -472,6 +476,13 @@ components:
 - Hero banner reduces font size and may hide secondary text below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Seagate"
 source_url: "https://www.seagate.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Two visual registers govern Seagate's digital presence: a near-black stage — roughly #080808 — where storage hardware photography floats in negative space like engineered objects in a void, and a clean white canvas that surfaces spec tables, comparison grids, and commerce flows. Between them, a single electric green (approximately #00BD4F, the brand's most documented accent) carries every primary CTA, product-line badge, and hover-state. This split isn't a dark-mode toggle — it's a deliberate product theater where performance-tier hardware (FireCuda NVMe, Exos enterprise arrays) gets the cinematic dark treatment while consumer-facing copy and checkout surfaces stay legible on white. Typography leans on a geometric sans-serif at moderate weight; headlines are set large and sparse rather than stacked tight, trusting that a single product name at 48–64px across a black field communicates more than a paragraph of copy would. Rounded corners are restrained: buttons sit at a low 4–6px radius, cards at 8px — the geometry reads as precision-engineered rather than friendly. Navigation carries product-line sub-brands (IronWolf, Barracuda, FireCuda, Exos, Lyve) as equal-weight peers, which means the nav architecture mirrors a portfolio company more than a single-SKU brand. Product-line color coding extends into badge and icon tinting: IronWolf picks up a cooler seafoam, FireCuda an amber-orange, signaling that the green primary is a holding company signal while sub-brand palette tokens do the category differentiation at component level. CTAs like "Shop Now" and "Learn More" appear in both filled-green and ghost-outline variants, the latter set on dark sections where the green fill would compete with backlit hardware renders. Spacing is generous — section gutters open to 80–96px on desktop — giving the hardware photography room to breathe and reinforcing the sense that each product is presented rather than listed.
 
@@ -409,6 +413,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

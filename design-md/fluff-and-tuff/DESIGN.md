@@ -4,6 +4,10 @@ name: "Fluff & Tuff"
 source_url: "https://fluffandtuff.com"
 captured_at: "2026-09-29T04:11:20.739403+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Fluff & Tuff is a BigCommerce-powered storefront for a plush dog-toy brand, evidenced by Stencil theme CSS, product cards with size/price variants (Small/Medium/Large+), and retailer/wholesale flows typical of a wholesale-plus-DTC pet brand. The confirmed typographic system pairs "Clarendon LT Std" for headings and buttons with "Gotham Rounded" for body copy, both falling back to Arial/Helvetica/sans-serif — a serif-slab-meets-rounded-sans combination that reads as friendly but established, fitting a legacy pet-product brand. The dominant heading color is a deep brick-red (#640707), while the primary interactive color is a brighter red (#c2191e) used for primary buttons; these two reds are related but distinct and are preserved as separate roles rather than merged. Neutrals (#555, #757575, #999, #ccc, #e5e5e5) drive body text, borders, and secondary buttons. A warm off-white (#f0edea) appears as a panel/section tone distinct from pure white, and is used here as a soft surface. Additional palette colors (orange, green, blue, tan) are present in the evidence but their exact UI role is not confirmed by the supplied selectors, so they are mapped only to plausible, clearly-labeled inferred roles (status/badge accents). All spacing, radii beyond the confirmed 4px button radius, and most sizing are proposed conventions, not measured values.
 
@@ -156,6 +160,13 @@ This is a proposed responsive recommendation, not measured site behavior; the CS
 Touch targets should be at least 44px tall for buttons and size-selector chips. Navigation should collapse into a hamburger/menu toggle below 801px, consistent with the "Toggle menu" label present in page text, though the exact collapse mechanism was not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Extraction is static (CSS + text only); no live rendering, computed styles, or DOM screenshots were captured, so actual layout, spacing rhythm, and grid structure are not observed.

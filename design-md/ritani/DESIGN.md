@@ -4,6 +4,10 @@ name: "Ritani"
 source_url: "https://www.ritani.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Diamond proportion charts and 360-degree stone viewers demand a UI that recedes — Ritani's canvas is consistently floor-white, interrupted only by product photography and a deep navy (#163959) that carries the top navigation and primary CTAs. The interface treats itself as a display case: generous whitespace, restrained typographic weight, and a palette that never competes with the platinum, yellow gold, or rose gold finishes on its settings. Blues graduate from the anchor navy through #2f7bbf and #62a1d8 into interactive states and progress indicators, creating a structured coolness that reads as precision rather than warmth. Grays layer from near-black #272727 through body gray #404040 to hairline #ebebeb, establishing a clean tonal ramp that keeps lengthy filter panels and size guides readable at a glance. The brand's configurator-first model — build your own ring, choose stone, choose setting — pushes the interface toward dense specification tables and comparison panels that need strong typographic hierarchy more than decorative flourishes. Borders stay tight at 1px in #dedede; corners are modestly rounded rather than pill-shaped, maintaining the precision of a jeweler's loupe rather than the friendliness of a lifestyle marketplace. System sans-serif stacks (Helvetica Neue, Segoe UI, -apple-system) serve both the display line and body copy, relying on weight and size contrast — not custom brand fonts — to separate product names from spec rows, filter labels from diamond certificate data. On mobile, the configurator collapses into a step-by-step flow where each decision (shape, carat, cut, clarity, color) occupies a full-width panel, preserving the deliberate pace of what is, for most customers, the single largest discretionary purchase they will make.
 
@@ -355,6 +359,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

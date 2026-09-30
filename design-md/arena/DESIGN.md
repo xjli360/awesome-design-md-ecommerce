@@ -4,6 +4,10 @@ name: "Arena"
 source_url: "https://arena.fit"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A fitness ecosystem that uses a pale, almost clinical palette of #c1e9ff, #e1fcff, and #bde7ff to create a sense of clean air and open space — the brand equivalent of a gym at 6am before anyone else arrives. The primary accent #5b5b5b is an unexpected choice: a warm mid-gray that reads as equipment metal, not brand energy, suggesting Arena trusts its photography of athletes and movement to supply the color. Shopify Sans Medium and Regular run the typography at modest weights, with no display-heavy boldface — the system lets the product grid and workout imagery do the heavy lifting. The extracted palette includes #eceafb and #f0edfe, lavender-tinged neutrals that soften the industrial gray, and #f4f5f6 as a near-white canvas. There are no hard corners in the UI: buttons use `{rounded.sm}`, cards use `{rounded.md}`, and the search bar uses `{rounded.full}`. The brand feels like a white-box gym repurposed for digital — clean, uncluttered, with the equipment (the product catalog, the class schedule, the trainer profiles) arranged in neat, accessible rows.
 
@@ -550,6 +554,14 @@ components:
 - Search functionality moves from an inline bar to a full-screen overlay on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

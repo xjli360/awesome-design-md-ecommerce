@@ -4,6 +4,10 @@ name: "Skout's Honor"
 source_url: "https://skoutshonor.com"
 captured_at: "2026-09-28T09:17:34.448880+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Skout's Honor presents as a clean, high-trust pet-care storefront built on Shopify's Dawn-derived theme architecture, evidenced by CSS custom properties like --color-background, --color-foreground, and a spacing scale (--sp-*) driving both layout and type sizing. The observed neutral core — white (#ffffff) canvas, near-black (#171717) foreground text, and mid-grey (#333333) for secondary UI like carousel controls — signals a restrained, product-forward palette typical of DTC pet brands. A single saturated red (#d82026) appears distinctly against the neutral system and is interpreted here as the primary brand/CTA accent, paired with white text for contrast. Two additional darks (#030f14, #121212) are treated as inferred deep-surface options for footer or high-contrast panels, not confirmed as brand-intentional. Light greys (#dedede, #e5e5e5) are mapped to hairlines and soft surface fills for card and section separation. Typography evidence lists Figtree and Merriweather among font_families; given heading/body CSS variables reference separate font-family tokens, Figtree is inferred as the body/UI sans and Merriweather as the heading serif, lending warmth to an otherwise utilitarian, science-forward brand voice ("microbiome-friendly," "B Corp"). Numeric type sizes are proposed, since source values resolve through an internal --sp-* spacing scale rather than static pixel figures. This interpretation favors clarity, generous whitespace, and a single confident accent for commerce actions.
 
@@ -146,6 +150,12 @@ This is a recommended breakpoint strategy, not measured site behavior, since no 
 Touch targets are recommended at a minimum 44px height for buttons and nav items. Primary/secondary buttons should collapse to full-width on mobile. The search and account/cart icons in the header are assumed to remain persistently visible across breakpoints based on the header markup pattern in the page text, though exact responsive collapse was not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This specification is derived from static CSS custom properties, a partial page-text excerpt, and a discrete color/font list — no rendered layout, computed styles, or interaction states were observed. The mapping of Figtree to body text and Merriweather to headings is inferred from the font_families list and the presence of separate --font-body-family/--font-heading-family variables, but no rule confirming this pairing was supplied. Numeric type sizes in the typography tokens are proposed estimates, since actual values resolve through an internal --sp-* spacing scale without corresponding pixel output in the evidence. The red (#d82026) is assumed to be the primary brand accent based on its distinctiveness against the neutral palette, but no explicit --color-primary or CTA-specific rule was present. Dark tones (#030f14, #121212) are inferred for footer/dark-surface use without direct footer CSS. Hover, focus, active, and disabled states across all components are proposed conventions, not observed. Mobile navigation collapse, grid column counts, and touch-target sizing are recommendations only. Custom font licensing and self-hosting availability for Figtree and Merriweather were not verified.

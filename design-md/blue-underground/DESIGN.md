@@ -4,6 +4,10 @@ name: "Blue Underground"
 source_url: "https://blue-underground.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A midnight-blue and coral-accented horror archive built on a deep #003388 foundation that reads as a collector’s vault rather than a streaming storefront. The extracted palette is dominated by a distinctive navy (#003388) and a bright cyan (#2ea3f2) that together create a cold, cinematic tension — the kind of light that glows off a CRT monitor in a dark room. Accents of #f5795d (a burnt coral) and #e09900 (a warning amber) puncture the blue field like emergency lights, while the grayscale runs from #222222 ink through #4e4e4e body text to #eeeeee canvas, giving the interface a gritty, pre-2015 web texture that suits the classic-horror audience. Typography defaults to Open Sans and Arial — workhorse sans-serifs with no pretense — and the layout uses hard corners ({rounded.none}) on most structural elements, reserving a soft {rounded.sm} (8px) for buttons and badge tags. The nav bar sits at 80px with a #003388 background and white text, a bold header that never recedes. Product cards use a white surface (#ffffff) with a #e2e2e2 hairline, and the primary CTA button (#2ea3f2 on white) feels like a hyperlink made solid — functional, not friendly. This is a design system built for browsing by flashlight.
 
@@ -340,6 +344,14 @@ components:
 - Search bar moves from inline in the nav (desktop/tablet) to a full-width bar below the nav (mobile)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

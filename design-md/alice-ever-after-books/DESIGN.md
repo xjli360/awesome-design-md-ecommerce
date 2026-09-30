@@ -4,6 +4,10 @@ name: "Alice, Ever After Books"
 source_url: "https://www.aliceeverafterbooks.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A children's bookstore in Buffalo, NY that wraps itself in a slate-and-ink palette — #73859f, a quiet blue-gray that reads as neither childish nor corporate, anchors the brand alongside #2b333f for deep text and #eff4f8 for the page canvas. The extracted colors suggest a system built on muted confidence: #919191 and #707070 for secondary text, #f1f1f1 and #f8f8f8 for soft surfaces, with #bce7f4 as a possible accent for interactive elements. The brand runs on Inter and Arial, a pragmatic sans-serif stack that prioritizes legibility for young readers and their parents. Buttons use {rounded.sm} corners — friendly but not cartoonish — while the overall layout leans on generous {spacing.lg} and {spacing.xl} gaps that give children's book covers room to breathe. The store's physical address at 295 Parkside Ave grounds the digital experience in a real place, and the meta theme-color of #eff4f8 ensures the browser chrome itself feels like a page from a well-loved picture book. There is no heavy-handed whimsy here; the design trusts the books themselves to provide color and wonder, while the interface stays calm, organized, and quietly supportive.
 
@@ -309,6 +313,14 @@ components:
 - Breadcrumb trail truncates to show only the current page and parent category on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

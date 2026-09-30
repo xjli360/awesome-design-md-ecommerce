@@ -4,6 +4,10 @@ name: "Stiletto"
 source_url: "https://stiletto.com"
 captured_at: "2026-09-29T04:06:33.743985+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Stiletto's site presents a professional-tools identity built on a Bootstrap 5
   foundation, with body copy inheriting a system sans-serif stack (Helvetica,
@@ -147,6 +151,13 @@ This is a recommendation, not measured site behavior. Proposed breakpoints follo
 Touch targets should maintain a minimum 44px height for buttons and nav links on mobile. Submenus (e.g., "Hammers & Axes," "Squares") should collapse into accordions below the md breakpoint given their nested structure in the observed markup.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered layout, live interaction states (hover, focus, active), or mobile behavior were observed. The heading font ("55 Roman"/"65 Medium") could not be verified as a licensed brand font and is not asserted as available; sans-serif fallback is used throughout. Color role assignments (primary, muted, hairline, etc.) are inferred from limited CSS selector context (mostly a search icon and Bootstrap utility defaults) rather than confirmed brand style guides. Typography sizes, spacing scale, and rounded-corner values are proposed conventions, not measured from the source. Bootstrap's default alert/status colors (danger, success, warning, info) are included for completeness but are not confirmed as intentionally chosen brand colors. Component definitions (product-card, spec-table, hero, etc.) are reasonable proposals for a hand-tools e-commerce site but do not reflect verified DOM structure or class names beyond the header/search selectors supplied.

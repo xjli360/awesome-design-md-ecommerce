@@ -4,6 +4,10 @@ name: "Sugar Percussion"
 source_url: "https://www.sugarpercussion.com"
 captured_at: "2026-09-28T09:02:55.231446+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Sugar Percussion is a small-batch solid-wood drum maker built on a Shopify
   storefront (theme base.css v10) with Lato as the sole observed typeface,
@@ -158,6 +162,12 @@ components:
 Recommended breakpoints (proposed, not measured): mobile ≤599px, tablet 600–899px, desktop 900–1279px, wide ≥1280px. Navigation is expected to collapse to a hamburger/drawer pattern below tablet width, consistent with common Shopify theme conventions, though no media queries were included in the supplied evidence. Touch targets for buttons and nav items should maintain a minimum 44×44px hit area. Product grids likely reflow from the desktop `zoom-out` multi-column layout (evidenced `repeat(10, …)` grid-template) down to 2 columns on tablet and 1–2 on mobile; exact column counts at each breakpoint are inferred, not confirmed. This section is a recommendation only and does not reflect observed responsive behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

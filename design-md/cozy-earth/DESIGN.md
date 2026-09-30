@@ -4,6 +4,10 @@ name: "Cozy Earth"
 source_url: "https://cozyearth.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Cozy Earth is a luxury bedding and loungewear brand that wraps you in a quiet, earth-toned sanctuary. The brand's visual language is anchored by a warm, muted palette drawn from nature — the primary `#6F534A` (a rich, warm brown from the meta theme-color) grounds every CTA and key interaction, while supporting tones like `#8b645a`, `#5f4c40`, and `#493338` create a sense of depth and comfort. The canvas is a soft `#fafafa`, not a stark white, and surfaces are built with `#f4f4f6` and `#f3ece0` to feel tactile and lived-in. Typography leans on the elegant serif "September Spirit" for display headings, paired with the clean, modern sans-serif "Work Sans" for body text — a combination that feels both heirloom and contemporary. Buttons are softly rounded (`{rounded.sm}`) and generously padded, while product cards use `{rounded.lg}` to echo the plushness of the bedding itself. The brand avoids hard edges and aggressive contrasts; instead, it layers subtle neutrals like `#d8d8d8`, `#b0b7be`, and `#a09998` to create a calm, aspirational atmosphere. Accent colors like `#1a2f5b` (a deep navy) and `#8c2231` (a muted burgundy) appear sparingly in badges and sale tags, adding just enough tension without breaking the serene mood. Every design decision — from the `{spacing.section}` padding to the `{rounded.full}` search bar — reinforces the promise of life-changing comfort.
 
@@ -403,6 +407,13 @@ components:
 - Hero sections reduce padding from `{spacing.section}` to `{spacing.xxl}` on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

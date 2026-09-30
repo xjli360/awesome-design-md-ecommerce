@@ -4,6 +4,10 @@ name: "Evenflo"
 source_url: "https://evenflo.com"
 captured_at: "2026-09-29T04:08:04.731737+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Evenflo's storefront runs on a Shopify Online Store 2.0 theme (Dawn-family CSS
   custom-property naming: --color-background, --color-foreground, --color-button)
@@ -167,6 +171,13 @@ Recommendation only — no live breakpoints, resize behavior, or device layouts 
 Touch targets should be at least 44×44px for cart, add-to-cart, and swatch controls. The mega-menu (evidenced by `.gm-menu` selectors) should collapse to an accordion/drawer pattern below tablet width; this is a standard proposed pattern, not a confirmed interaction from the CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Evidence is static CSS/text extraction only; no rendered screenshots, computed layout, or JavaScript-driven interaction states (hover, focus, mega-menu open/close, cart drawer) were observed.

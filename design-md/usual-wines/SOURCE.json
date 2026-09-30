@@ -54,52 +54,8 @@
     }
   ],
   "colors": {
-    "#252525": {
-      "count": 11,
-      "sources": [
-        "https://usualwines.com/"
-      ]
-    },
-    "#ff3d3d": {
-      "count": 11,
-      "sources": [
-        "https://usualwines.com/"
-      ]
-    },
     "#fffcf0": {
       "count": 6,
-      "sources": [
-        "https://usualwines.com/"
-      ]
-    },
-    "#121212": {
-      "count": 3,
-      "sources": [
-        "https://usualwines.com/",
-        "https://usualwines.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
-    "#eeeeee": {
-      "count": 3,
-      "sources": [
-        "https://usualwines.com/"
-      ]
-    },
-    "#ffffff": {
-      "count": 3,
-      "sources": [
-        "https://usualwines.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://usualwines.com/cdn/shop/t/136/assets/base.css?v=159841507637079171801777474493"
-      ]
-    },
-    "#ffffff00": {
-      "count": 3,
-      "sources": [
-        "https://usualwines.com/cdn/shop/t/136/assets/base.css?v=159841507637079171801777474493"
-      ]
-    },
-    "#f3f3f3": {
-      "count": 2,
       "sources": [
         "https://usualwines.com/"
       ]
@@ -110,14 +66,32 @@
         "https://usualwines.com/"
       ]
     },
-    "#334fb4": {
-      "count": 2,
+    "#121212": {
+      "count": 3,
+      "sources": [
+        "https://usualwines.com/"
+      ]
+    },
+    "#252525": {
+      "count": 11,
+      "sources": [
+        "https://usualwines.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
       "sources": [
         "https://usualwines.com/"
       ]
     },
     "#fade9a": {
       "count": 2,
+      "sources": [
+        "https://usualwines.com/"
+      ]
+    },
+    "#ff3d3d": {
+      "count": 11,
       "sources": [
         "https://usualwines.com/"
       ]
@@ -130,36 +104,6 @@
     },
     "#f8ddb0": {
       "count": 2,
-      "sources": [
-        "https://usualwines.com/"
-      ]
-    },
-    "#00000000": {
-      "count": 2,
-      "sources": [
-        "https://usualwines.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
-    "#dedede": {
-      "count": 2,
-      "sources": [
-        "https://usualwines.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
-    "#0000000d": {
-      "count": 2,
-      "sources": [
-        "https://usualwines.com/cdn/shop/t/136/assets/base.css?v=159841507637079171801777474493"
-      ]
-    },
-    "#cccccc": {
-      "count": 1,
-      "sources": [
-        "https://usualwines.com/"
-      ]
-    },
-    "#eae9f1": {
-      "count": 1,
       "sources": [
         "https://usualwines.com/"
       ]
@@ -188,6 +132,12 @@
         "https://usualwines.com/"
       ]
     },
+    "#ffffff": {
+      "count": 3,
+      "sources": [
+        "https://usualwines.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
     "#1990c6": {
       "count": 1,
       "sources": [
@@ -200,24 +150,15 @@
         "https://usualwines.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
       ]
     },
-    "#000000": {
-      "count": 1,
+    "#dedede": {
+      "count": 2,
       "sources": [
-        "https://usualwines.com/cdn/shop/t/136/assets/base.css?v=159841507637079171801777474493"
-      ]
-    },
-    "#00000080": {
-      "count": 1,
-      "sources": [
-        "https://usualwines.com/cdn/shop/t/136/assets/base.css?v=159841507637079171801777474493"
+        "https://usualwines.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
       ]
     }
   },
   "font_families": {
     "Assistant": [
-      "https://usualwines.com/"
-    ],
-    "JudgemeStar": [
       "https://usualwines.com/"
     ]
   },
@@ -379,10 +320,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Usual Wines - Single Serve Wine you can feel good about",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-300",
   "tokens": {
     "colors.primary": {
+      "value": "#252525",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -390,14 +332,15 @@
       ]
     },
     "colors.ink": {
+      "value": "#121212",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://usualwines.com/",
-        "https://usualwines.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+        "https://usualwines.com/"
       ]
     },
     "colors.canvas": {
+      "value": "#fffcf0",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -405,6 +348,7 @@
       ]
     },
     "colors.body": {
+      "value": "#252525",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -412,6 +356,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#cccccc",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -419,6 +364,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#dedede",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -426,6 +372,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#f2efe4",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -433,22 +380,23 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://usualwines.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://usualwines.com/cdn/shop/t/136/assets/base.css?v=159841507637079171801777474493"
+        "https://usualwines.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://usualwines.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://usualwines.com/cdn/shop/t/136/assets/base.css?v=159841507637079171801777474493"
+        "https://usualwines.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
       ]
     },
     "colors.accent": {
+      "value": "#ff3d3d",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -456,6 +404,7 @@
       ]
     },
     "colors.accent-alt": {
+      "value": "#ff5c60",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -463,6 +412,7 @@
       ]
     },
     "colors.sale": {
+      "value": "#9b2121",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -470,6 +420,7 @@
       ]
     },
     "colors.badge-warm": {
+      "value": "#fade9a",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -477,6 +428,7 @@
       ]
     },
     "colors.badge-warm-soft": {
+      "value": "#f8ddb0",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -484,6 +436,7 @@
       ]
     },
     "colors.link-blue": {
+      "value": "#1990c6",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -491,6 +444,7 @@
       ]
     },
     "colors.link-blue-hover": {
+      "value": "#136f99",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -498,6 +452,7 @@
       ]
     },
     "colors.navy": {
+      "value": "#242833",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -505,6 +460,7 @@
       ]
     },
     "colors.cream-alt": {
+      "value": "#f6f6ed",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -512,6 +468,7 @@
       ]
     },
     "colors.border-soft": {
+      "value": "#e9e9e2",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -519,110 +476,405 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "Assistant, sans-serif",
+        "fontSize": "56px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "Assistant, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "Assistant, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0.96px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "Assistant, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 400,
+        "lineHeight": 1.45,
+        "letterSpacing": "0.96px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Assistant, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Assistant, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.3,
+        "letterSpacing": "0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "Assistant, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 600,
+        "lineHeight": 1,
+        "letterSpacing": "0.96px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "borderBottom": "{colors.hairline}",
+        "height": "72px"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "headingTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "ctaComponent": "button-primary",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "borderTop": "{colors.hairline}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "newVariant": {
+          "backgroundColor": "{colors.badge-warm}",
+          "textColor": "{colors.ink}"
+        },
+        "soldOutVariant": {
+          "backgroundColor": "{colors.sale}",
+          "textColor": "{colors.on-primary}"
+        },
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.review-rating": {
+      "value": {
+        "starColor": "{colors.badge-warm}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.caption}",
+        "iconFont": "JudgemeStar"
+      },
       "status": "inferred"
     },
     "components.single-serve-info-chip": {
+      "value": {
+        "backgroundColor": "{colors.cream-alt}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.xxs} {spacing.md}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#fffcf0": {
+        "selector": ":root,\n        .color-scheme-1",
+        "property": "--gradient-background",
+        "declaration": "#fffcf0",
+        "url": "https://usualwines.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d1c1fc040b9574245bdd7daabe9fb5b3b857ab1e34f8fd4badf4d2f01535bce"
+      },
+      "#242833": {
+        "selector": ".color-scheme-3",
+        "property": "--gradient-background",
+        "declaration": "#242833",
+        "url": "https://usualwines.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d1c1fc040b9574245bdd7daabe9fb5b3b857ab1e34f8fd4badf4d2f01535bce"
+      },
+      "#121212": {
+        "selector": ".color-scheme-4",
+        "property": "--gradient-background",
+        "declaration": "#121212",
+        "url": "https://usualwines.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d1c1fc040b9574245bdd7daabe9fb5b3b857ab1e34f8fd4badf4d2f01535bce"
+      },
+      "#252525": {
+        "selector": ":not(.jdgm-prev-badge__stars)>.jdgm-star",
+        "property": "color",
+        "declaration": "#252525",
+        "url": "https://usualwines.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d1c1fc040b9574245bdd7daabe9fb5b3b857ab1e34f8fd4badf4d2f01535bce"
+      },
+      "#cccccc": {
+        "selector": ".jdgm-spinner",
+        "property": "border-left",
+        "declaration": "2px solid #ccc",
+        "url": "https://usualwines.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d1c1fc040b9574245bdd7daabe9fb5b3b857ab1e34f8fd4badf4d2f01535bce"
+      },
+      "#fade9a": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#fade9a",
+        "url": "https://usualwines.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d1c1fc040b9574245bdd7daabe9fb5b3b857ab1e34f8fd4badf4d2f01535bce"
+      },
+      "#ff3d3d": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#ff3d3d",
+        "url": "https://usualwines.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d1c1fc040b9574245bdd7daabe9fb5b3b857ab1e34f8fd4badf4d2f01535bce"
+      },
+      "#ff5c60": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#ff5c60",
+        "url": "https://usualwines.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d1c1fc040b9574245bdd7daabe9fb5b3b857ab1e34f8fd4badf4d2f01535bce"
+      },
+      "#f8ddb0": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#f8ddb0",
+        "url": "https://usualwines.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d1c1fc040b9574245bdd7daabe9fb5b3b857ab1e34f8fd4badf4d2f01535bce"
+      },
+      "#f6f6ed": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#f6f6ed",
+        "url": "https://usualwines.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d1c1fc040b9574245bdd7daabe9fb5b3b857ab1e34f8fd4badf4d2f01535bce"
+      },
+      "#f2efe4": {
+        "selector": ".infinite-bar-template--18248473280608__infinite_bar_HVVfK9",
+        "property": "background-color",
+        "declaration": "#f2efe4",
+        "url": "https://usualwines.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d1c1fc040b9574245bdd7daabe9fb5b3b857ab1e34f8fd4badf4d2f01535bce"
+      },
+      "#e9e9e2": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#e9e9e2",
+        "url": "https://usualwines.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d1c1fc040b9574245bdd7daabe9fb5b3b857ab1e34f8fd4badf4d2f01535bce"
+      },
+      "#9b2121": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#9b2121",
+        "url": "https://usualwines.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d1c1fc040b9574245bdd7daabe9fb5b3b857ab1e34f8fd4badf4d2f01535bce"
+      },
+      "#ffffff": {
+        "selector": ".shopify-payment-button__button",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://usualwines.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#1990c6": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#1990c6",
+        "url": "https://usualwines.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#136f99": {
+        "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+        "property": "background-color",
+        "declaration": "#136f99",
+        "url": "https://usualwines.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://usualwines.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      }
+    },
+    "font_families": {
+      "Assistant": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Assistant",
+        "url": "https://usualwines.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d1c1fc040b9574245bdd7daabe9fb5b3b857ab1e34f8fd4badf4d2f01535bce"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

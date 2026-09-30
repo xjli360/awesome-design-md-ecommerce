@@ -4,6 +4,10 @@ name: "Margaux"
 source_url: "https://margauxny.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Amber interrupts near-black with unusual precision: #f59e0b lands on add-to-cart buttons, active filter indicators, and fit-quiz CTAs against an otherwise monochrome field of #141414 ink and white canvas — the brand's clearest statement that warmth is an architectural decision, not decoration. The warm cream band (#f7eadb) surfaces in seasonal promotion callouts and the fit-quiz entry module, evoking the tissue paper inside a shoe box and grounding a digital experience in a specific, physical sensory memory. The two amber values (#f59e0b base, #fbbf24 hover lift) create a subtle luminosity shift rather than the hard-darkening hover convention most footwear brands use, reinforcing a brand disposition toward lightness over weight. Canela's high-contrast hairline serifs carry the display register at weight 300 and generous scale — headlines lean 40–56px, trusting the typeface's inherent editorial posture over typographic force. TT Commons Pro and Inter assume functional custody below: navigation links, filter labels, and product names set between 11px and 16px with modest letter-spacing lifting the uppercase CTA labels into formal territory without stiffness. Corner radii split along a deliberate axis: product cards and editorial surfaces are flush ({rounded.none}), while width-selectors and option pills adopt {rounded.full} pill shapes, signaling interactivity and softening a configurator that might otherwise feel clinical. This pairing keeps the catalog in editorial mode and the customization layer in tool mode so the user never conflates the two registers. Collection grids run four columns on desktop in a 3:4 portrait ratio — tall enough to show foot-in-shoe silhouette, not merely an accessory floating on white. The hairline at #e2e2e2 and medium-gray body text at #545454 produce a three-stop grayscale that reads as controlled and precise against the warm cream accent. The footer inverts the palette entirely to #141414, with Canela wordmarks and TT Commons Pro column heads set in #ffffff — the same typeface pair that opens the page, now carrying the brand's closing posture in reverse.
 
@@ -332,6 +336,13 @@ components:
 - Footer: multi-column grid → single-column stacked accordion on mobile, headings become expand/collapse toggles
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

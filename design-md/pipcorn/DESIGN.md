@@ -4,6 +4,10 @@ name: "Pipcorn"
 source_url: "https://pipsnacks.com"
 captured_at: "2026-09-28T09:26:15.257460+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Pip's Heirloom Snacks (formerly Pipcorn) presents a farm-forward, ingredient-led
   snack brand built on a small observed palette: an olive/light green
@@ -157,6 +161,12 @@ Recommended (not measured) breakpoints:
 Touch targets should be at least 44px tall (aligning with the `.shopify-payment-button__button` clamp(25px, …, 55px) pattern observed in cart CSS). Primary nav should collapse to a hamburger/drawer below `md`; the cart should render as a slide-in drawer per the "Cart / Close cart" copy found in evidence. This table is a design recommendation, not a measured site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Evidence is static CSS/text extraction only; no rendered screenshots, computed styles, or JavaScript-driven states were captured.

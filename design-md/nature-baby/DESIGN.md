@@ -4,6 +4,10 @@ name: "Nature Baby"
 source_url: "https://naturebaby.com"
 captured_at: "2026-09-29T04:21:13.373955+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Nature Baby's public CSS evidence points to a soft, organic palette built from
   layered off-whites and creams (#ffffff, #fbf7ef, #f5f2ec, #f8f1e3, #f3eee2)
@@ -163,6 +167,12 @@ Recommended breakpoint table (proposed, not measured beyond the observed header-
 Touch targets should be at least 44px in the mobile nav and filter chips. All breakpoint values beyond the three header-height variables are recommendations, not measured site behavior; actual grid columns, menu animation, and collapse thresholds were not observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This interpretation is derived solely from static CSS/text extraction and carries several limitations: no rendered layout, spacing rhythm, or component states (hover/focus/disabled/error) were directly observed beyond the generic `:focus` outline rule referencing `var(--accent)`, whose color value was not resolved in the evidence. Font-to-role mapping (e.g., "Little Days" as display, Roboto Slab as sub-heading) is inferred from typical usage patterns for a kids/organic brand, not confirmed by selector-level font-family evidence tied to headings. Font licensing and availability (particularly "Little Days" and "Gotham," both commercial faces) were not verified. The `rounded` and `spacing` scales are proposed conventions consistent with the observed `--RADIUS` and grid-gap custom properties but no explicit pixel values for radius were captured. The red (#ea0202) and gold (#ab8c52/#9a7e4a) accents' functional roles are inferred, not confirmed. Mobile menu interaction, cart drawer behavior, and product-grid column counts were not present in the supplied evidence and are therefore excluded from firm claims.

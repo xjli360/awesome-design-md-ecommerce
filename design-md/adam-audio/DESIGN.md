@@ -4,6 +4,10 @@ name: "ADAM Audio"
 source_url: "https://www.adam-audio.com"
 captured_at: "2026-09-28T04:08:54.979849+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from ADAM Audio's WordPress-based markup and a
   legacy Bootstrap-derived stylesheet (main.css) serving the public site. The
@@ -165,6 +169,14 @@ The following breakpoint table is a **recommendation**, not measured site behavi
 Touch targets should be a minimum of 44×44px for buttons and nav items, per common accessibility guidance (proposed, not sourced from the site). Below `md`, the nav-bar and search components should collapse into an overlay/drawer pattern; this collapse behavior was not observed and is a UX-standard recommendation only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

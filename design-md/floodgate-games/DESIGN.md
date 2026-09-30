@@ -4,6 +4,10 @@ name: "Floodgate Games"
 source_url: "https://floodgategames.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A board-game publisher whose visual identity is anchored on a deep navy field (#002554) and a cyan signal (#00a9e0) that reads like a lighthouse beam across a dark tabletop. The palette is maritime in weight — the ink is near-black (#1a1118), the body text a cool charcoal (#555555), and the canvas a warm off-white (#f7f5f0) that softens the screen the way a well-worn game board softens a table. A single marigold accent (#ffb81c) appears sparingly, like a victory token or a meeple crown, while a coral error-red (#ff6b6b) provides the only other saturated note. The typography is where the brand reveals its character: Gelica, a rounded serif with generous ball terminals, carries display and title roles — it feels hand-drawn, friendly, and slightly whimsical, like the art on a game box lid. Greycliff, a geometric sans-serif, handles body and UI copy, creating a clean counterpoint to Gelica's warmth. Buttons and cards use soft radii (`{rounded.sm}` for buttons, `{rounded.md}` for cards), never sharp corners, and the primary CTA sits in that cyan field (`{colors.primary}`) with white text (`{colors.on-primary}`). The nav bar is a full-bleed strip of the deepest navy (`{colors.ink}`), creating a strong top boundary. The overall effect is one of deliberate contrast: a dark, serious frame around playful, illuminated content — the tabletop after the lights go down, the box lid lifted.
 
@@ -389,6 +393,13 @@ components:
 - Product filters (if present) collapse into a slide-out drawer on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

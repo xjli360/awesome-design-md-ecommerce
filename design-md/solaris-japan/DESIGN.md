@@ -4,6 +4,10 @@ name: "Solaris Japan"
 source_url: "https://solarisjapan.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A teal-and-gold import marketplace (#108474 primary, #f5af19 accent) that reads like a Tokyo electronics district translated into a clean Shopify grid — the brand's voltage comes from the contrast between a cool, trustworthy teal and a warm, urgent gold that powers every "Add to Cart" and sale badge. The canvas is a near-white #f9fafb, with product cards floating on #ffffff against hairline borders at #e9e9e9, creating a dense but legible catalog layout. Type runs Nunito Sans at modest weights — display headlines sit at 24px weight 600, body at 14px weight 400 — letting the product photography and price tags do the heavy selling. The search bar is a pill-shaped input (`{rounded.full}`) with a teal border on focus, and category navigation uses a horizontal scroll strip with active tabs underlined in the primary teal. Badges for "Pre-order", "Sale", and "Limited" use the gold accent (#f5af19) on white, while sold-out indicators shift to a muted #7b7b7b. The footer stacks social icons (Facebook #3b5998, Twitter #1da1f2, Instagram #e60023, Pinterest #e60023) in a tight row, and the checkout flow inherits Shopify's default widget colors (#c8102e for error states, #ffff00 for Klarna). The overall feel is utilitarian but warm — a marketplace that trusts its teal-gold signal over decorative flourishes.
 
@@ -381,6 +385,13 @@ components:
 - Breadcrumbs truncate with ellipsis on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

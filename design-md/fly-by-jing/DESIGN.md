@@ -4,6 +4,10 @@ name: "Fly By Jing"
 source_url: "https://flybyjing.com"
 captured_at: "2026-09-28T04:32:27.243147+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The evidence shows a Shopify-based storefront defining two literal font stacks:
   a monospace heading stack (SFMono-Regular, Menlo, Consolas, Monaco, Liberation
@@ -148,6 +152,12 @@ This is a proposed breakpoint scheme, not measured site behavior:
 Touch targets should be at least 44px in height for buttons and nav items; mobile menus and filters are assumed to collapse into drawers or accordions, but this interaction pattern was not observed in the supplied static evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS custom properties and a color/font extraction, not from rendered page observation. Specific mappings — such as which hex applies to body copy versus muted text, or which color-scheme variable (scheme1–scheme6, plus several UUID-named schemes) applies to which page section — are inferred, not confirmed. Font sizes, weights beyond the declared `400`, and letter-spacing values beyond the declared `0.0` for headings are proposed defaults, not measured. Payment-brand icon colors (e.g., Visa blue, Mastercard red/orange, PayPal blues) present in the raw palette were excluded from role assignment as non-brand. Interaction states (hover, focus, active, disabled) and mobile/collapsed navigation behavior were not observed and are proposed only. The presence of unusual font names in the evidence (e.g., JeanLuc, Publico, SimHei) suggests additional typefaces may be used elsewhere on the site, but no corresponding CSS rule was supplied to confirm their role, so they are omitted from this specification; their licensing and availability are unverified.

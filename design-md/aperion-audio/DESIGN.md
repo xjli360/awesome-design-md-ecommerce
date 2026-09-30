@@ -4,6 +4,10 @@ name: "Aperion Audio"
 source_url: "https://aperionaudio.com"
 captured_at: "2026-09-28T09:08:29.640966+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Aperion Audio's storefront runs on a Shopify theme whose CSS exposes a neutral
   operating palette (white #ffffff canvas, near-black #171717 foreground, and
@@ -166,6 +170,12 @@ Recommended, not measured, breakpoints:
 Touch targets should be at least 44×44px for cart, search, and account icons. Primary navigation should collapse into a drawer or accordion below ~1024px given the number of top-level categories (Home, Speakers, Hi-Fi, Custom Install, Subwoofers, Amplifiers, Accessories, About). This table is a design recommendation only; no live responsive behavior was observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Kemper"
 source_url: "https://www.kemper-amps.com"
 captured_at: "2026-09-28T04:07:16.281581+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Kemper's public site renders as a dark-themed interface: the observed
   body rule sets a near-black canvas (#1a1a1a) with white body copy (#ffffff)
@@ -178,6 +182,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should maintain a minimum 44×44px hit area on interactive elements (buttons, nav items, table row actions). Collapse patterns (hamburger nav, accordioned spec tables) are proposed conventions for a dark, information-dense product site and were not verified from the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is built from static CSS/color/font extraction only; no rendered page, DOM structure, or interaction states were observed. Layout composition (grid structure, hero content, nav markup) is inferred from general product-site conventions, not from captured HTML. Border-radius and spacing values are proposed defaults, as no radius or margin/padding rules were present in the supplied evidence. The role of several palette colors (e.g., #33715b, #f17e6f, #8baea2, #aec7bd) as "brand" vs. incidental is an inferred mapping based on recurrence and plausibility, not a confirmed selector-to-role binding. Numerous supplied hex values (Facebook, Instagram, Twitter/X, Pinterest, Spotify, Google-brand blues/reds) were identified as third-party social-icon colors and deliberately excluded from the brand token set. Font availability and licensing for 'Lato' (and any secondary faces like 'proxima-nova' seen in the raw font list but not confirmed by a body/heading rule) were not verified and should be confirmed before production use. Mobile/touch interaction patterns, hover/focus states, and animation are entirely proposed and unobserved.

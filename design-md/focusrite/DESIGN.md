@@ -4,6 +4,10 @@ name: "Focusrite"
 source_url: "https://www.focusrite.com"
 captured_at: "2026-09-28T05:08:29.917546+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Focusrite's public storefront runs on a shared BigCommerce Stencil theme also used by
   sibling brands (Novation, Sonnox, ADAM Audio), so the CSS evidence mixes a neutral base
@@ -164,6 +168,13 @@ Breakpoint hints appear in the evidence as media-query fragments (max-width:551p
 Touch targets should be at least 44px tall for nav and button elements; the mega-menu should collapse to an accordion below 801px. This table is a recommendation derived from media-query breakpoints in the CSS, not measured or screenshot-verified site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is built from static CSS/text extraction only; no rendered layout, computed styles, or interaction states (hover/focus/active beyond the one documented `.button` set) were observed. Several colors (accent blues, red, green, gold tones) appear in the palette but their functional roles are inferred by convention, not confirmed by selector context. Font availability and licensing for "TT Norms Pro," "DINPro," and "Montserrat" custom weights were not verified. The evidence mixes theme rules shared across multiple BigCommerce-hosted brands (Novation, Sonnox, ADAM Audio); rules scoped to `[data-store]` selectors for those other brands were excluded, but the base theme defaults may still be shared rather than Focusrite-exclusive. Spacing scale, card layout, hero structure, and mobile navigation behavior are proposed design patterns, not measured from the live site.

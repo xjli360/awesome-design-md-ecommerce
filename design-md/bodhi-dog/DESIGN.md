@@ -4,6 +4,10 @@ name: "Bodhi Dog"
 source_url: "https://www.thebodhidog.com/"
 captured_at: "2026-09-29T03:58:47.295099+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Bodhi Dog is a Shopify-hosted storefront for a family-owned natural pet care brand selling grooming, bath, dental, and odor-control products. The observed CSS exposes a warm, retail-friendly palette anchored by a saturated orange (#f89522) used for primary calls-to-action, paired with a deep navy (#124067) reserved for secondary buttons. Body chrome sits on a soft off-white (#f7f7f7) rather than pure white, with card and section surfaces likely using #ffffff and #f9f8f4 for contrast. Text colors range from near-black (#1a1a1a/#262626) for headings to mid-gray (#666666/#757575) for body copy, consistent with a light, legible commerce layout.
   Font-family declarations reference Inter, Lora, Roboto, and SF Pro Text alongside generic serif/sans-serif/monospace fallbacks; no single family is confirmed as the enforced brand typeface, so this spec treats Inter as the primary UI sans (buttons, nav, product data) and Lora as an inferred serif accent for display headlines, reflecting a "natural/artisanal" positioning common to small-batch pet brands. All sizing, weights, and spacing scales below are proposed defaults calibrated to a compact Shopify grid, not measured from rendered layout. Interactive states (hover/focus/disabled) are drawn directly from theme CSS (e.g. #e07c07 hover, #ae6006 focus, #d5d5d5 disabled) and are the most reliably observed values in this file.
@@ -167,6 +171,14 @@ This is a **recommendation**, not measured site behavior — no breakpoints, med
 Touch targets should be a minimum of 44×44px for buttons and nav icons; the mobile nav is expected to collapse into a slide-out or dropdown menu given the "Home / All Products / About Us / Contact Us" link list, though this interaction was not observed in the supplied CSS/HTML.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This specification is derived from a static CSS/text snapshot; no rendered DOM, computed layout, or JavaScript-driven interaction (cart drawer, search overlay, mobile menu toggle) was observed. Font-family roles (Inter for UI, Lora for display) are an inferred pairing based on which families appear in the supplied `font_families` list — actual heading/body assignment in the live theme is unconfirmed, and custom font licensing/availability was not verified. Several color roles (ink vs. heading, muted vs. body, hairline) are inferred by proximity to gray/neutral values in the palette rather than confirmed via matched selectors. Typography sizes, spacing scale, and border-radius values are proposed defaults, not measured from the site. Component layouts (nav-bar, hero, footer, search, text-input) are structurally inferred from page text and generic Shopify theme conventions, since no corresponding selectors were supplied for them. Interactive/hover states are reliable only where explicitly present in theme CSS (buttons); all other states are proposed.

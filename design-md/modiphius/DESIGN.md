@@ -4,6 +4,10 @@ name: "Modiphius"
 source_url: "https://www.modiphius.net"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A tabletop RPG publisher that uses a deep teal (#108474) as its primary brand voltage — a color that reads as both dungeon-crypt and premium board-game felt, appearing on every primary CTA, navigation bar, and product-badge background. The palette is unusually broad for a games publisher: alongside the teal sits a warm marigold (#b2920d), a cool navy (#2f3590), a bright signal blue (#3968d9), and a coral-pink (#fb8077) that could be a critical-hit indicator or a limited-edition accent. The canvas is a near-white (#f9fafb) with a secondary surface (#f3f3f3) that keeps the reading experience airy despite the dense product catalog. Typography runs Nunito Sans at modest weights — display headlines sit at 500–600 weight rather than the heavy 700+ of action-RPG sites — letting the product photography and miniatures do the heavy lifting. Buttons use a soft 8px radius (`{rounded.sm}`) that feels approachable rather than sharp, while product cards take a slightly larger 12px radius (`{rounded.md}`) to distinguish them from interactive elements. The nav bar carries the teal as a full-width band, a confident move that signals "this is a brand, not a forum." The extracted color list is noisy with Shopify-widget blues (#007aff), review-platform purples (#a89cc8), and stock-image tones, but the teal-marigold-navy triad is the brand's true signal.
 
@@ -432,6 +436,13 @@ components:
 - Footer columns stack vertically below 744px, with newsletter signup remaining prominent
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

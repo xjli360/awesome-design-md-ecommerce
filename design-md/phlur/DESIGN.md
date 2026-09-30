@@ -4,6 +4,10 @@ name: "Phlur"
 source_url: "https://phlur.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A modern fine fragrance house that speaks in whispers and punctuates with pigment. Phlur's digital presence is a study in restrained sensuality — a mostly-white canvas (`#fefefe`) overlaid with a muted gray palette (`#666666`, `#888888`, `#999999`, `#aaaaaa`, `#b0b0b0`, `#b6b6b6`, `#bdbdbd`, `#dedede`, `#e5e5e5`, `#e6e6e6`) that never shouts. The brand's emotional voltage comes from a constellation of accent colors: a deep indigo (`#272d45`) and a brighter navy (`#2e3192`, `#334fb4`) that anchor navigation and key typography, a warm amber (`#ffcf2a`) that appears in badges and highlights, and a series of unexpected pastel-magenta (`#df6980`), teal (`#0e7a82`, `#0881b0`), and violet (`#a45cec`) swatches that feel like the color of a scent memory. Typography is built on ABCRepro-Regular — a clean, slightly condensed grotesque — with ABCReproMono-Medium for accent moments and Figtree as a secondary sans. The brand uses generous whitespace (`{spacing.section}`) and soft corners (`{rounded.sm}` on cards, `{rounded.md}` on buttons) to create a tactile, almost haptic feel. There is no aggressive gradient or heavy shadow; instead, Phlur relies on thin hairlines (`{colors.hairline}`: `#e5e5e5`) and subtle surface differentiation (`{colors.surface-soft}`: `#f4f4f6`, `{colors.surface-card}`: `#fafafa`) to create hierarchy. The overall effect is that of a perfume counter in a minimalist gallery — quiet, deliberate, and utterly confident in its own restraint.
 
@@ -368,6 +372,13 @@ components:
 - Product image galleries collapse from thumbnail strip to dot indicators on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

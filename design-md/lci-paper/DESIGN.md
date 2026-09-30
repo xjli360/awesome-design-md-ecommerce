@@ -4,6 +4,10 @@ name: "LCI Paper"
 source_url: "https://www.lcipaper.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The weight of paper stock — the gap between 80 lb text and 130 lb cover — is the invisible axis around which LCI Paper organizes its entire catalog. Every product page reads as a material study: metallics with a mirror-bright surface, cotton rags with a felt-side texture, linen covers with a woven-grid embossing. The single confirmed extracted color, #313131, operates exactly as heavy ink pressed onto uncoated stock — flat, dense, and paper-forward — so no vivid accent competes with the substrates on display. Sharp square corners (`{rounded.none}`) on product cards and form fields reinforce the rectilinear logic of a printed grid; there are no soft pill radii that would read as consumer-casual. Typography runs on system fonts, a utilitarian architecture that steps back so substrate names, paper weights, and sheet counts carry the communicative load. Primary buttons inherit #313131 on white `{colors.on-primary}`, a press-run monochrome with no gradient or color flourish. The canvas reads as clean white or a faint warm cream `{colors.surface-soft}` (#f8f5f1) that suggests a quality paper sample card rather than a clinical tech surface. Navigation likely exposes material categories — Cotton, Metallic, Textured, Translucent, Recycled — at the top level, mirroring the sample-book taxonomy a print studio would use. Product cards are spec-forward: material name, sheet size, weight (gsm/lb), finish, and price form the visual hierarchy, not aspirational lifestyle photography. The brand operates in the professional-prosumer corridor — letterpress studios, wedding invitation designers, packaging shops — where the interface must communicate material expertise and catalog efficiency above any other ambition. With only one reliably extracted hex value and no confirmed custom typeface, portions of this palette are inferred from category norms and declared in Known Gaps.
 
@@ -344,6 +348,13 @@ components:
 - Footer collapses from 4-column grid to single-column accordion on mobile; background color and typography unchanged
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Bond Manufacturing"
 source_url: "https://www.bondmfg.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Steel geometry frames open flame — Bond Manufacturing's fire pits and patio heaters sit at the precise junction of fabricated metal and outdoor ritual, and the brand's digital identity holds that tension in a high-contrast industrial palette where near-black backgrounds let warm ember tones carry the visual heat. A combustion orange at approximately #e85d04 — the brand's single emotional accent — pulls primary CTAs out of the dark canvas the way a lit fire pit reads against a night yard: one point of warmth surrounded by structural dark. Product edges throughout the UI square off at {rounded.xs} to echo the machined-corner construction of the cast-iron and rolled-steel pieces in the catalog. Filter pills break the pattern by rounding to {rounded.full}, providing a softer visual counterpoint against an otherwise angular category grid.
 
@@ -375,6 +379,14 @@ components:
 - Parts Finder widget stacks vertically on mobile with full-width input and full-width submit button
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

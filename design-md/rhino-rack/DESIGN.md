@@ -4,6 +4,10 @@ name: "Rhino-Rack"
 source_url: "https://rhinorack.com"
 captured_at: "2026-09-28T04:58:42.238530+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is grounded in two coexisting token systems found in Rhino-Rack's stylesheet: a Bootstrap-derived utility palette (blues, grays, semantic reds/greens) and a custom brand palette exposed as CSS variables (--earth-v2, --blue-v2, --cream-v2, --black-v2, --sand-v2, --forest-v2, --rock-v2). The observed .btn-primary rules confirm #b65b00 (earth/orange) as the working call-to-action color, with #834200 as its hover state, and a secondary blue variant (#005cb9 hover #004386) for alternate actions. These are treated as primary and secondary respectively. Body copy uses a system sans-serif stack (Segoe UI/Roboto/Helvetica/Arial), while custom "trim-*" weights and "din-2014" appear as declared font-family values, suggesting a display/heading typeface distinct from body text; their exact usage in headings versus buttons is inferred rather than confirmed beyond the single observed .btn rule using trim-regular. Neutral surfaces (#ffffff, #f6f6f6, #f8f8f8) and hairlines (#dee2e6, #cccccc) support a rugged, utilitarian outdoor-gear aesthetic consistent with roof racks, awnings, and load-securing hardware. Component definitions below are proposed patterns for an e-commerce/fitment-driven storefront, not verified DOM observations.
 
@@ -164,6 +168,13 @@ Breakpoint values below are taken directly from the `:root` custom properties (`
 Touch targets for buttons and nav items should maintain a minimum 44px height, consistent with the `.btn` padding pattern (`12px 30px 10px`) observed in the CSS. Mobile nav collapse and mega-menu interaction states are recommendations, not measured site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Blizzard Gear"
 source_url: "https://gear.blizzard.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A storefront built for the Warcraft, Overwatch, and Diablo faithful, where #790002 — a deep, dried-blood crimson — serves as the brand's primary voltage, appearing on CTAs, sale badges, and cart indicators against a canvas of #efefef and #dedede. The palette reads as a night-ops briefing: #2a2c32 and #232a39 form the nav and footer surfaces, while #f4bf2a (a muted gold) and #0074e0 (a cold alliance blue) act as faction-specific accents across product badges and category tags. Cards and containers use `{rounded.sm}` (8px) corners — crisp enough to feel precise, soft enough to avoid a military-hard edge. The typography, likely a system sans-serif stack, runs at moderate weights with generous line-height on body copy to keep long product descriptions readable against the dark backgrounds. Search bars and filter pills adopt `{rounded.full}` for a quick, friendly tap target, while the primary button sits at `{rounded.sm}` with a 48px height that feels substantial without overwhelming the grid. The overall mood is one of controlled intensity: the crimson never bleeds into the layout, the gold never glitters too brightly, and the white space around product images feels like a museum vitrine for collector's editions and faction-logo tees.
 
@@ -344,6 +348,14 @@ components:
 - Hero banner content stacks vertically, with the CTA button placed below the title and subtitle.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

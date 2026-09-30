@@ -4,6 +4,10 @@ name: "Extech Instruments"
 source_url: "https://www.extech.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Extech Instruments leads with a deep teal (#008375) that reads more like precision-instrument lacquer than web brand color — the hue sits between aquamarine and forest, different enough from the clinical blues of medical instrumentation and the safety-orange of construction equipment to feel genuinely proprietary. Against near-black (#080808) navigation panels and dark charcoal body text (#323339), the teal fires at instrument-grade contrast, the same legibility logic behind a calibrated meter scale. A tiered family of teal derivatives — #80c1ba at midtone, #b3dad6 at near-wash, #004f46 and #00423b as pressed-state darks — provides system depth without reaching for a second hue. The exception is #ffc425, a saturated amber-yellow deployed sparingly as a caution accent, the visual equivalent of a warning indicator on an actual Extech meter.
 
@@ -385,6 +389,13 @@ components:
 - Hero text block stacks above image on mobile; image becomes an aspect-ratio-locked banner below the headline
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

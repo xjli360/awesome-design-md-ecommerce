@@ -4,6 +4,10 @@ name: "Mushie"
 source_url: "https://mushie.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A muted, earth-toned feeding and baby brand that builds its visual identity on a warm off-white canvas of {colors.canvas} (#fcfaf7) and a deep, almost-black ink of {colors.ink} (#0f0f0f), creating a quiet, grounded atmosphere that feels more like a natural-fiber boutique than a plastic-heavy baby aisle. The brand's primary accent, a soft terracotta {colors.primary} (#d2815f), appears sparingly but deliberately — on add-to-cart buttons, sale badges, and select product swatches — while a deeper burnt-orange {colors.primary-active} (#c35121) provides hover-state voltage without ever feeling aggressive. Supporting tones of dusty rose {colors.surface-soft} (#f3ece7), warm sand {colors.surface-card} (#f8f0e7), and a slate blue {colors.accent-blue} (#748cab) suggest a palette drawn from natural pigments rather than digital primaries. Typography relies on a single system font stack (the site's only declared font-family is `swiper-icons`, indicating a reliance on native system fonts for body copy), keeping the interface clean and unadorned. Buttons use a soft {rounded.sm} radius (8px) that feels approachable without being pill-shaped, while product cards and image containers adopt a slightly more generous {rounded.md} (12px) to frame photography gently. The overall impression is one of restraint — the brand trusts its product photography and earthy color story to do the emotional work, letting the UI recede into a warm, tactile background.
 
@@ -369,6 +373,13 @@ components:
 - Accordion: always collapsed by default on mobile; can be expanded on desktop for persistent visibility of key info
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

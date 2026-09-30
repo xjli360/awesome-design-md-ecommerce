@@ -4,6 +4,10 @@ name: "Wemax"
 source_url: "https://wemax.com"
 captured_at: "2026-09-28T10:17:43.612399+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Wemax's storefront (Shopify-based) is built on a restrained near-monochrome
   foundation: pure white (#ffffff) canvas paired with near-black ink
@@ -164,6 +168,12 @@ Recommendation only — no live breakpoints were measured.
 Touch targets should be ≥44px for cart, nav icons, and hotspot dots. Search and cart drawers are assumed to collapse into slide-in panels on mobile, consistent with common Shopify theme conventions, but this behavior is not confirmed from the supplied CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This spec is derived from static CSS custom properties, a text excerpt, and a flat color/font list — no rendered layout, computed styles, hover/focus states, or JavaScript-driven interactions were observed. Numeric `--sp-*` spacing values referenced in the source CSS (e.g., `sp-12`, `sp-14`, `sp-23`) could not be resolved to exact pixel values, so all spacing and typography sizes above are proposed approximations, not extracted figures. The large set of saturated colors in the supplied palette are attributed to third-party social/payment iconography rather than brand identity; this inference could be wrong if any are in fact used as accent colors elsewhere on the site. Font licensing/self-hosting status for Inter is not verified. Mobile menu structure, cart-drawer behavior, and hotspot hover/tap interactions are assumed from naming conventions only and are not confirmed observations.

@@ -4,6 +4,10 @@ name: "Sara Patino Jewelry"
 source_url: "https://sarapatinojewelry.com"
 captured_at: "2026-09-28T09:31:42.925597+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Sara Patino Jewelry's storefront CSS exposes a minimal, monochrome utility
   layer typical of a stripped Shopify theme: pure black (#000000) and white
@@ -167,6 +171,12 @@ components:
 Touch targets should meet a 44px minimum height, matching the `clamp(25px, …, 55px)` range used by Shopify's accelerated-checkout button. Mobile navigation collapse behavior, drawer animation, and exact grid column counts are **recommendations only** and were not measured from live rendered layout.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

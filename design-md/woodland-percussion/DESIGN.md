@@ -4,6 +4,10 @@ name: "Woodland Percussion"
 source_url: "https://www.woodlandpercussion.com"
 captured_at: "2026-09-28T09:52:02.411925+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Woodland Percussion's public CSS evidence surfaces a neutral, high-contrast
   foundation (near-black ink tones #111111/#272727/#000000 against white
@@ -162,6 +166,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be a minimum 44x44px for buttons and nav toggles. The observed "Open Menu/Close Menu" text pairing suggests a collapsible mobile nav pattern, but its visual treatment (drawer, overlay, icon) was not present in the supplied CSS and is therefore proposed only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

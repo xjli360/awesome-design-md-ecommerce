@@ -4,6 +4,10 @@ name: "Terra Universal"
 source_url: "https://www.terrauniversal.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Contamination begins with a fingerprint; every surface in a Terra Universal modular cleanroom is engineered to reject it. That same logic — nothing accumulates without purpose — shapes the site's design posture: a stark #313131 charcoal anchors navigation and body text with the authority of printed technical documentation, while a generous white canvas enforces the visual hygiene the brand sells in physical form. Terra Universal manufactures for semiconductor fabs, biotech suites, and pharmaceutical environments where ISO classifications govern every material choice, so the UI must perform as a specification tool first and a marketing surface second: product tables run dense with filtration ratings, pressure differentials, and fan filter unit configurations; CTA buttons are functional declarations, not emotional prompts.
 
@@ -360,6 +364,13 @@ components:
 - Quote form: two-column field layout on desktop collapses to single-column stacked on mobile with full-width submit button
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

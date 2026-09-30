@@ -4,6 +4,10 @@ name: "Matador"
 source_url: "https://matadorup.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A brand built on the tension between deep wilderness and clean minimalism, Matador uses a primary green (#108474) that reads as alpine lake water rather than corporate emerald — it appears on CTAs, badges, and the signature Packable Hip Pack logo, always on a near-white canvas (#fafafa, #f9fafb). The palette is overwhelmingly neutral: six distinct grays from #eeeeee down to #4d4d4d create a quiet hierarchy where product photography does the heavy lifting. A single accent, marigold (#fbcd0a), appears only on sale badges and limited-edition markers, never competing with the green. Type runs Montserrat at moderate weights — display headlines sit at 600 weight, body at 400, with no heavy 700+ anywhere except the logo lockup. The brand avoids hard corners: buttons use {rounded.sm} (8px), product cards use {rounded.md} (12px), and the signature flat-pack pouches are photographed with soft shadows that echo the {rounded.lg} (20px) on hero modules. There is no hero video, no autoplay — just still photography of gear against granite, snow, and sandstone, with the green acting as the only synthetic color in frame.
 
@@ -388,6 +392,13 @@ components:
 - Accordion content collapses by default on all breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

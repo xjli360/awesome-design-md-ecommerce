@@ -4,6 +4,10 @@ name: "Sabai"
 source_url: "https://sabai.design"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Sabai is a furniture brand built on the conviction that sustainability shouldn't mean sacrificing style or convenience. The palette is grounded in warm, earthy neutrals — `#9c8d85`, `#c9bcac`, `#b9afa9` — that feel like sun-baked clay or raw linen, avoiding the sterile grays of fast furniture. A single, deliberate accent of `#ffb600` (a confident, almost mustard yellow) acts as the brand's primary voltage, appearing on CTAs, badges, and key interactive elements, while a secondary `#ff8327` and `#e16a13` add a touch of warmth. The typography leans on the humanist and slightly quirky "Mabry Pro" for display and "Maison Neue" for body, creating a voice that is approachable, editorial, and never corporate. Rounded corners are generous but not cartoonish — `{rounded.md}` (12px) on cards and `{rounded.lg}` (20px) on buttons — softening the hard lines of modernism. The canvas is a warm off-white `#f8f4ef`, not pure white, giving the entire experience the feel of a well-loved, sunlit room. Deep navy `#1d1b3e` and charcoal `#373737` provide contrast for text and structure, while a subtle `#f0eede` and `#f1eedc` hint at a secondary, more botanical or organic layer. The overall mood is one of considered calm — a brand that trusts material honesty and gentle color over aggressive marketing.
 
@@ -346,6 +350,13 @@ components:
 - Hero section padding reduces from `{spacing.section}` to `{spacing.xxl}` on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

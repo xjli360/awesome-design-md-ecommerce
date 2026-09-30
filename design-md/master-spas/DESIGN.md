@@ -4,6 +4,10 @@ name: "Master Spas"
 source_url: "https://www.masterspas.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The meta theme-color #000c29 — a midnight navy so dark it reads as water viewed from depth — announces the brand before a single image loads. Master Spas builds its entire visual system outward from that near-black ocean floor: a graduated ascent through #1d2e38, #2d4156, and #355973 creates a sense of immersion rather than contrast, as though the UI itself is submerged. Against this column of dark blues, the lighter accent tones #a6c4dd and #c2dff7 read as shafts of refracted light rather than mere highlights — a compositional choice that makes the products feel aquatic at a chromatic level, not just a categorical one.
 
@@ -396,6 +400,13 @@ components:
 - Footer columns collapse from 5-column to a 2-column grid on tablet, then single-column accordion on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

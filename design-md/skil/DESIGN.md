@@ -4,6 +4,10 @@ name: "Skil"
 source_url: "https://skil.com"
 captured_at: "2026-09-28T09:18:33.736673+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Skil's storefront CSS exposes a restrained neutral system (#ffffff canvas, #222222 ink,
   #444444 secondary text, #ededed hairlines) layered with a family of named "color-scheme"
@@ -162,6 +166,13 @@ components:
 Touch targets should be a minimum 44px height for buttons and nav items on sm/md. Mega-menu columns (Power Tools, Saws, Outdoor Power Equipment, Systems) are recommended to collapse into an accordion or drawer below md. This table is a recommendation derived from typical e-commerce patterns, not measured site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This DESIGN.md was generated from static CSS custom-property extraction and page text only; no live rendering, computed styles, or DOM interaction was observed. Font sizes, weights, and letter-spacing in the typography tokens are proposed conventions, not measured from stylesheet rules (only font-family names were confirmed). The specific role of Arapey could not be determined and is treated as unused. Semantic assignment of Archivo to headings and Inter to body is inferred from typical pairing conventions, not confirmed usage in markup. Interaction states (hover/focus/active beyond the documented `--color-btn-bg-hover`), mobile menu behavior, and responsive breakpoints are not observed and are marked proposed. Licensing and self-hosting/CDN availability of Archivo, Bebas Neue, Arapey, and Inter were not verified.

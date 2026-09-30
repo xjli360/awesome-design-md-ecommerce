@@ -4,6 +4,10 @@ name: "Bryan Anthonys"
 source_url: "https://www.bryananthonys.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The laminated story card folded into every Bryan Anthonys gift box is what separates this brand from the category — before a wearer puts on the piece, she reads a poem. That narrative-first identity saturates every screen: a warm ivory canvas (#fcfbf9) that reads like uncoated paper stock, editorial Baskerville serifs carrying emotional headline copy in gentle italics, and a singular house gold (#ab8c52) that pulls every primary action — add-to-cart fills, price callouts, and hover transitions. This gold is deliberately muted, closer to hammered brass or an oxidised finish than reflective karat shine; its pressed register (#806430) handles active button states, its palest echo (#e8d4ae) washes over disabled elements and background chips, and the mid-tone sibling (#9a7e4a) surfaces in secondary icon highlights. A quiet teal (#108474) functions as the brand's only departure from the warm palette — reserved for trust-building moments like shipping confirmations, in-stock badges, and loyalty callouts — and never overlaid on product photography, where the cream registers (#f5f2ec, #f0ebe2, #f7f4ef) hold uninterrupted. Body text lands at deep charcoal (#212121) rather than pure black, with a softer secondary register at #555555 for supporting copy and hairlines at #dfdcd4 that nearly dissolve into the warm canvas.
 
@@ -330,6 +334,14 @@ components:
 - Gift-message module collapses its checkbox-plus-text-field layout to a full-width accordion row on mobile, expanding inline on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

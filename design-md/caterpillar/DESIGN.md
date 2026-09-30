@@ -4,6 +4,10 @@ name: "Caterpillar"
 source_url: "https://catfootwear.com"
 captured_at: "2026-09-28T09:19:57.354656+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Cat Footwear's storefront CSS exposes an explicit black-and-white brand
   system through root custom properties: `--color-primary:#000`,
@@ -165,6 +169,13 @@ components:
 Touch targets for buttons and category pills should maintain a minimum 44px hit area; the pill component's observed `height:3.10895312em` supports this at typical base font sizes. This table is a design recommendation only — no responsive/mobile layout was observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This specification is derived solely from static CSS/text extraction of a single desktop-rendered page (`/US/en/home`); no JavaScript-driven states, mobile viewport rendering, or interaction sequences (hover/focus/active beyond the few rules supplied) were observed. Several palette entries (e.g., #dc4405, #e5b020, #8e8a7c, #2f547d) appear only in the raw color list without an associated selector, so their brand role is uncertain and treated as optional/inferred accents rather than confirmed system colors. All spacing, radius (beyond the 5px, 99em, and 50% values explicitly seen), breakpoint, and typographic size values not tied to a `--font-size-*` custom property or explicit CSS declaration are proposed estimates, not measurements. Font availability and licensing for the proprietary families referenced in `font_families` (Mier-A/B, Druk, NoeDisplay, PilatExtended) were not verified; generic sans-serif fallbacks are assumed to render in most environments. Component definitions for product-card, hero, footer, text-input, and button-secondary are extrapolated from adjacent evidence and general e-commerce convention, not directly confirmed by supplied selectors.

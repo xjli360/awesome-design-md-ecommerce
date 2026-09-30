@@ -4,6 +4,10 @@ name: "Prodigy Games"
 source_url: "https://www.prodigygames.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A competitive TCG marketplace that wears its red #ee2c2f like a tournament judge's armband — a single, urgent accent that snaps attention to "BUY NOW" buttons, sold-out badges, and the cart icon against a near-black #232424 canvas. The site reads as a dimly lit game shop after hours: deep charcoal surfaces (#151616, #121212) absorb light, while the silver-gray #dedede of card rarities and price tags provides the only relief. Navigation is dense and utilitarian — a top bar packed with franchise logos (Pokémon, Yu-Gi-Oh!, Magic: The Gathering) and a search field that doubles as a set-code lookup, suggesting a user base that knows exactly what it wants and types in shorthand. Product cards stack in tight grids with minimal whitespace, each one a thumbnail of the card art, a bolded name, and a price in the accent red. There is no hero imagery, no lifestyle photography — the inventory is the hero. The checkout flow, powered by Shopify, introduces a brief moment of white (#ffffff) and rounded corners ({rounded.sm}) that feel almost out of place against the otherwise hard-edged, monochrome layout. This is a system built for speed and scanability: high information density, low decoration, and a single color used sparingly but precisely.
 
@@ -287,6 +291,13 @@ components:
 - Pagination collapses from numbered pages to a "Load More" button on mobile to reduce UI clutter.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

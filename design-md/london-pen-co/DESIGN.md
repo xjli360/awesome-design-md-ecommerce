@@ -4,6 +4,10 @@ name: "London Pen Co."
 source_url: "https://www.londonpenco.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Ink-pool navy (#112233) forms the brand's gravitational center — a blue so dark it reads as black until placed beside the slightly warmer near-blacks (#272727, #111111) that carry body type, revealing the cool depth underneath. London Pen Co. mounts Rubik as its primary typeface: a geometric sans-serif with subtly softened terminals that keeps the all-dark palette from reading as corporate severity. The red-family secondaries (#cc3b3b, #bd0000) function as punctuation rather than identity — CTA buttons, sale badges, price highlights — evoking the lacquered barrel of a classic British pen without literal illustration or heritage cliché. A dusty rose tone (#e99292) softens error and discount states, giving the alert palette warmth rather than alarm. The near-white canvas (#fafafa) and soft surfaces (#fbfbfb, #eeeeee) create just enough lift beneath dark typographic elements without the clinical brightness of pure white.
 
@@ -346,6 +350,13 @@ components:
 - Collection header headline: {typography.display-md} → {typography.title-md} on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

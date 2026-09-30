@@ -4,6 +4,10 @@ name: "BaubleBar"
 source_url: "https://baublebar.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Mulish headlines give way to utopia-std serifs at the editorial scale — a typographic split that maps BaubleBar's dual register: everyday product listings set in clean geometric sans, campaign moments elevated by italic slab-serif display. Three saturated accents interrupt an otherwise graduated neutral stack: teal (#009879) loads every primary CTA and add-to-cart confirmation state, coral (#f94c43) flags sale and clearance callouts, amber (#f6a429) marks gifting surfaces and bestseller badge moments. The remaining 80% of each page runs in near-blacks (#202223, #121212), a mid-gray ladder (#484848, #7e7e7e, #939393), and a white canvas — restraint that lets each accent voltage hit with full saturation on contact. Buttons carry a near-flat profile consistent with the Mulish grid geometry: not the pill friendliness of beauty brands, not the hard square corners of fashion editorial. Product cards float photography on white without visible card borders, giving jewelry room to breathe rather than boxing it into shelves. Filter capsules break the grid intentionally with {rounded.full} shapes, marking the one interactive zone that reads explicitly touchable. The announcement bar runs inverted — deep ink (#202223) background with all-caps Mulish captions — functioning as a persistent orientation stripe rather than a dismissible notice. Personalization and gift-finder modules reach for amber ({colors.highlight}) over sale coral ({colors.sale}), a color distinction that preserves promotional hierarchy even when both badge types appear on the same product card. The cool-grey accent (#c5c8d1) surfaces exclusively in helper text, placeholder states, and decorative dividers — it never substitutes for the hairline system ({colors.hairline}, #dedede). At the display scale, utopia-std-headline carries optical mass that weighted Mulish body text cannot, letting hero banners read as editorial spreads rather than catalog listings. The page title's "Luxury Jewelry & Personalized Accessories" framing is backed by white-space generosity and photography priority, not surface ornamentation.
 
@@ -416,6 +420,14 @@ Three badge variants share the same 10px/800-weight/uppercase Mulish structure a
 - Filter bar switches from wrap to horizontal scroll on mobile; active filter count badge appears on filter toggle button
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

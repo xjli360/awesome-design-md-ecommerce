@@ -4,6 +4,10 @@ name: "Bernell Hydraulics"
 source_url: "https://www.bernellhydraulics.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   One extracted hex — #116600, a compression green shared with hydraulic hose placards and OSHA safety charts — does all the brand-color work on Bernell Hydraulics' catalog site. This is not a marketing green; it is a shop-floor green, a color that maintenance technicians and OEM engineers read as "action" long before they read it as "brand." The site builds around this single industrial anchor with what the detected Bootstrap Icons dependency suggests is a utility-first, Bootstrap-powered layout — structurally clear, built for part-number lookup and quote requests rather than for scroll-stopping imagery. When the only web font extracted is an icon library rather than a typeface, the message is plain: the brand invests in catalog depth and navigation clarity, not typographic craft. Text falls to system stacks, reinforcing the sense that speed-to-information outranks font selection — a technician hunting a Parker gear-pump replacement at 6 AM before a production line goes down will not notice letterforms, but will notice a three-click path to a PDF spec sheet. Surface treatment stays minimal: white canvas, a featherweight gray shelf for alternating spec-table rows, and near-black ink that keeps pressure ratings and port sizes legible at a glance. Corner radii are conservative — 4px at most for interactive controls, none at all on data tables — signaling industrial reliability over consumer friendliness. The primary CTA green (#116600) on white clears WCAG AA contrast without decoration; active states darken toward #0d4f00 rather than shift hue, preserving the safety-signal quality through every interaction state. The system reads as a competent regional distributor with a functional-first digital posture: every pixel earns its place by reducing friction between a broken hydraulic circuit and the correct replacement part.
 
@@ -344,6 +348,14 @@ components:
 - Multi-level category trees collapse to accordion pattern on mobile and tablet
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

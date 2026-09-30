@@ -22,12 +22,6 @@
     }
   ],
   "colors": {
-    "#0000ee": {
-      "count": 250,
-      "sources": [
-        "https://www.analogman.com/#computed-style-snapshot"
-      ]
-    },
     "#000000": {
       "count": 224,
       "sources": [
@@ -36,6 +30,12 @@
     },
     "#ffffff": {
       "count": 1,
+      "sources": [
+        "https://www.analogman.com/#computed-style-snapshot"
+      ]
+    },
+    "#0000ee": {
+      "count": 250,
       "sources": [
         "https://www.analogman.com/#computed-style-snapshot"
       ]
@@ -130,10 +130,11 @@
       "sha256": "4f2571ca0ad91d1fac24982d1e285a08b6c4540e25ca35ae145f8385e142de5d"
     }
   ],
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "remaining-20260929",
   "tokens": {
     "colors.primary": {
+      "value": "#0000ee",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -141,6 +142,7 @@
       ]
     },
     "colors.ink": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -148,6 +150,7 @@
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -155,6 +158,7 @@
       ]
     },
     "colors.body": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -162,6 +166,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -169,6 +174,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -176,6 +182,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -183,6 +190,7 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -190,6 +198,7 @@
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -197,110 +206,291 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "Times, serif",
+        "fontSize": "40px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "Times, serif",
+        "fontSize": "28px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "Times, serif",
+        "fontSize": "20px",
+        "fontWeight": 700,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "Times, serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Times, serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Times, serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "Times, serif",
+        "fontSize": "15px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "linkColor": "{colors.primary}",
+        "typography": "{typography.body-sm}",
+        "borderColor": "{colors.hairline}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.muted}",
+        "linkColor": "{colors.primary}",
+        "typography": "{typography.body-sm}",
+        "borderColor": "{colors.hairline}",
+        "padding": "{spacing.xl} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.pedal-index-row": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "linkColor": "{colors.primary}",
+        "dividerColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xs} {spacing.sm}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#000000": {
+        "selector": ".sample-0-body",
+        "property": "color",
+        "declaration": "rgb(0, 0, 0)",
+        "url": "https://www.analogman.com/#computed-style-snapshot",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "6f6d9be0108dbfb27203201a36519ddc7f7fd144525b433a721a182531ed18f3"
+      },
+      "#ffffff": {
+        "selector": ".sample-0-body",
+        "property": "background-color",
+        "declaration": "rgb(255, 255, 255)",
+        "url": "https://www.analogman.com/#computed-style-snapshot",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "6f6d9be0108dbfb27203201a36519ddc7f7fd144525b433a721a182531ed18f3"
+      },
+      "#0000ee": {
+        "selector": ".sample-3-a",
+        "property": "color",
+        "declaration": "rgb(0, 0, 238)",
+        "url": "https://www.analogman.com/#computed-style-snapshot",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "6f6d9be0108dbfb27203201a36519ddc7f7fd144525b433a721a182531ed18f3"
+      }
+    },
+    "font_families": {
+      "Times": {
+        "selector": ".sample-0-body",
+        "property": "font-family",
+        "declaration": "Times",
+        "url": "https://www.analogman.com/#computed-style-snapshot",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "6f6d9be0108dbfb27203201a36519ddc7f7fd144525b433a721a182531ed18f3"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

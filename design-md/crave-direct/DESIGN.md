@@ -4,6 +4,10 @@ name: "Crave Direct"
 source_url: "https://www.cravedirect.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Four tones — near-black #121212, dark charcoal #222222, mid-gray #404040, and pale silver #dedede — constitute the entire extracted palette for Crave Direct, with the white (#ffffff) meta theme-color providing the browsing canvas. The absence of any accent color is the system's defining choice: a warehouse-direct accessories operation that trusts product photography and price clarity over brand color drama. Buttons, cards, and input fields resolve to the same monochromatic stack, using weight shifts and surface contrast rather than hue to establish hierarchy. The `{rounded.sm}` radius on primary CTAs and `{rounded.xs}` on badges reads as purposeful — a clean-shouldered edge that matches the utilitarian promise of the category. The nav occupies a white ground at the top, grounding the browser experience before the catalog shifts into darker surface territory for promotional moments, a split that separates discovery from conversion. Type runs on a system-UI fallback stack since no custom font families were detectable — a move that trades distinctiveness for universal rendering speed, appropriate for a catalog that may span hundreds of SKUs across phone cases, chargers, cables, and screen protectors. Display headlines sit at weight 700 with tight letter-spacing to compress visual density, product titles land at 600 for scanning legibility, and body copy drops to 400 — a three-rung ladder that communicates without a signature typeface. Hover and active states deepen toward #121212 on the light canvas, or flip to a lighter fill on dark grounds, keeping interactions legible across both surface modes. The overall system is engineered for catalog throughput: dense grids, fast-add affordances, and sale badges that snap to the top-left corner of every card.
 
@@ -388,6 +392,13 @@ components:
 - `search-bar` collapses to an icon tap that expands a full-width overlay input on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

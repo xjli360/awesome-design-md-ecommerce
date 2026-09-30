@@ -4,6 +4,10 @@ name: "Allbirds"
 source_url: "https://allbirds.com"
 captured_at: "2026-09-28T04:10:59.776112+00:00"
 evidence_status: "historical_partial_css_evidence"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The canvas opens at #ece9e2 — not white, but the color of unprocessed merino fiber, a deliberate material echo that brands sustainability before any copy loads. Against this warm ground, near-black ink (#212121) lands with quiet precision, and the contrast feels organic rather than clinical. Allbirds operates with a restrained palette of four extracted tones: two near-blacks, a warm cream canvas, and a light gray hairline — no accent voltage, no brand red or bold primary hue competing for attention. The visual tension lives entirely in texture and proportion. Buttons are dark rectangles with gently rounded corners (`{rounded.sm}`), rejecting the pill-shaped softness common in DTC wellness brands in favor of something more grounded and confident. Typography is set in a geometric sans-serif at modest weights — display text rarely exceeds 600 weight, and the brand trusts generous whitespace and the warmth of #ece9e2 over typographic spectacle. Product cards carry the same restraint: clean image windows, minimal metadata, no urgency-driving badges or countdown timers. The nav sits low and open, a logo mark rather than wordmark anchoring the left position. Sustainability credentials arrive not through color splashes but through measured copy treatment — certifications and material callouts use uppercase label chips and a consistent muted tone (`{colors.muted}`) rather than colored badges. The overall cadence is slow: sections breathe at `{spacing.section}` gaps, CTAs appear once per scroll depth, and the page never shouts. Allbirds built a brand that asks customers to slow down and pay attention — the design system enforces this discipline at every scale, from the single hairline border (`{colors.hairline}`) separating nav zones to the wide, unencumbered product imagery that lets natural materials speak without editorial interference.
 
@@ -317,6 +321,14 @@ components:
 - Hero section stacks vertically on mobile: copy block first, full-width image below
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

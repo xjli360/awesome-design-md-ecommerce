@@ -4,6 +4,10 @@ name: "Thames & Kosmos"
 source_url: "https://www.thamesandkosmos.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Four accent colors — orange (#f89406), red (#bd362f), grass-green (#51a351), and teal (#2f96b4) — organize the Thames & Kosmos catalog the way a periodic table indexes elements: each hue maps to a subject family or age band, working as a functional taxonomy rather than emotional decoration. The sky-blue primary (#2bbaf4) that runs headers and CTAs sits conspicuously lighter than the deep institutional navy most STEM education brands default to, reading closer to a lit indicator lamp than a corporate identity color — energetic without tipping into toy-store primary. Deep navy (#0044cc, #002a80) is not the hero here; it anchors the navigation bar and footer as a dark frame that makes the bright accent spectrum read cleanly against the near-white canvas (#fbfbfb).
 
@@ -325,6 +329,13 @@ components:
 - Footer four-column grid stacks to single column on mobile; newsletter form anchors at the bottom of the stacked layout
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

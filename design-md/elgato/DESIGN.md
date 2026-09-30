@@ -4,6 +4,10 @@ name: "Elgato"
 source_url: "https://www.elgato.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, saturated teal (#093836) anchors Elgato's streaming-hardware ecosystem — not as a background, but as the primary brand voltage that fills every key visual, product shot, and hero section. This is a brand that lives in the dark: its canvas is near-black (#111111), its surfaces are layered grays (#323232, #414141, #525252), and its accents are neon-bright — a cyan (#40ddd3) that reads like a live-stream chat glow, a lime (#6ff787) that could be a key-light indicator, and a warning red (#e12a40) for alerts and recording states. The typography stack is a hybrid of display and utility: ABC Ginto Discord Nord (the Discord-derived face) for bold headlines and badges, HelveticaNeueLTPro for body and interface copy, and Bebas Neue Pro for condensed numeric displays. Buttons and interactive elements use sharp, minimal radii — the brand avoids pill shapes in favor of crisp rectangles with {rounded.sm} (8px) corners, reinforcing a pro-audio/studio aesthetic. The color palette is unusually broad for a hardware brand, with 30+ extracted hexes that include a deep blue (#0c2588), a bright blue (#204cfe), a purple (#a638fe), and multiple greens (#55f578, #2eff82, #49f5eb) — suggesting a system where each product line or software feature gets its own accent color. The overall feel is that of a control surface: dark, legible, high-contrast, with color used sparingly but with high saturation to signal state changes, alerts, and brand moments.
 
@@ -361,6 +365,13 @@ components:
 - Search bar collapses to icon-only on mobile, expanding on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

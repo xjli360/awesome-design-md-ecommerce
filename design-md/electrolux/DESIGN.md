@@ -4,6 +4,10 @@ name: "Electrolux"
 source_url: "https://www.electrolux.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Sweden's largest appliance maker relies on a single confident mid-blue — approximately #1461a4 — to carry its entire premium signal across CTAs, navigation highlights, and section anchors; there is no secondary accent color, no warm copper or terracotta to soften the engineering tone. The effect is deliberately institutional: Electrolux has been building household appliances since 1919, and the UI signals that lineage through restraint rather than personality. Type runs in a clean humanist sans-serif at modest weights — headline displays sit around 32–40px at weight 600 rather than the heavy 800+ favored by DTC newcomers; the brand trusts large product photography and generous whitespace to carry the premium message. Backgrounds are almost exclusively white (#ffffff) and a very light cool gray (#f4f4f4) for alternating content bands, with near-black charcoal (#1a1a1a) for body text — the palette reduces to four or five genuine hues across the entire experience. Cards appear with shallow elevation and minimal radii ({rounded.sm}), keeping the industrial appliance context without feeling heavy; pill shapes are avoided entirely in favor of nearly-square button corners ({rounded.xs}) that read as precise and utilitarian. The grid is generous at desktop — typically four product columns collapsing to two on tablet and single-column on mobile — with consistent {spacing.section} rhythm between content zones. Energy-rating badges in EU label colors, specification comparison drawers, and filter-by-spin-speed chips form the signature components: this is a site where the user's first question is always "does it reach 1600 rpm?" and the layout architecture answers before the first scroll.
 
@@ -381,6 +385,13 @@ components:
 - Footer four-column layout → stacked single-column with each section in a disclosure accordion on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Klein Tools"
 source_url: "https://kleintools.com"
 captured_at: "2026-09-28T04:48:31.126775+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Klein Tools' public site evidence shows a utilitarian, high-contrast industrial system built around a single saturated safety-orange accent (#ee6809) against near-black and dark-grey chrome (#000000, #232323, #222222) with white canvas and mid-grey body copy (#333333). This pairing reads as job-site signage: high legibility, minimal decoration, and an accent reserved for calls-to-action, hover states, and the "back to top" control. Header and navigation surfaces use a dark #232323 band with white text, switching to orange on hover/focus, which we treat as the primary interactive-state pattern site-wide (inferred for buttons and links beyond the observed nav/back-to-top instances).
 
@@ -154,6 +158,13 @@ components:
 This table is a recommendation based on the presence of toggle/hamburger selectors in the CSS, not measured viewport behavior. Interactive collapse thresholds, exact grid column counts, and touch-gesture behavior were not observed and should be validated against the live responsive site.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Lenovo"
 source_url: "https://www.lenovo.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Red as a signal, never a soak — the entire Lenovo digital system stakes its visual hierarchy on a single high-voltage accent (#e1251b) that fires from "Add to Cart" buttons, sale countdown timers, and price-drop badges against fields of near-black (#171717) and cool white (#f6f7f8). The effect is closer to a cockpit instrument panel than a lifestyle storefront; every flash of Lenovo red means "act now." A secondary blue (#294e95) anchors the global navigation and category headers — steady, institutional, the color of a ThinkPad lid rather than a fashion statement. Typography runs Lato for UI text and Noto Sans for multilingual body copy, both at 400/600 weights with tight letter-spacing that lets dense spec tables (RAM, SSD, display resolution) remain scannable without feeling clinical. Product cards are squared-off at `{rounded.xs}` or `{rounded.sm}`, reinforcing the engineering-catalog aesthetic; only pill-shaped filter chips and search inputs (`{rounded.full}`) break the rectilinear grid. Lenovo's most distinctive UI pattern is the configurator card — a vertically stacked product tile that opens into an inline spec-comparison tray, letting buyers toggle between i5/i7/Ryzen variants without leaving the listing page. Deep magenta (#7a126b) and its lighter wash (#f1e1ed) surface for Legion gaming-line callouts, while a burnt-orange (#c73d00) drives flash-deal urgency. Spacing is generous at desktop (`{spacing.section}` = 64px between major blocks) but compresses aggressively on mobile, where the mega-navigation collapses into a full-screen drawer and product grids shift from three columns to a single scrollable rail. The footer is a dense, four-tier link structure — products, support, company, legal — set in `{typography.caption}` against #333f48 dark slate, a low-contrast exit ramp from a site engineered to convert.
 
@@ -461,6 +465,13 @@ components:
 - Breadcrumbs truncate middle segments with ellipsis on mobile, showing only the parent and current page
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

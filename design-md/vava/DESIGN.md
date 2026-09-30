@@ -4,6 +4,10 @@ name: "VAVA"
 source_url: "https://vava.com"
 captured_at: "2026-09-28T09:40:41.811581+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   VAVA's storefront evidence shows a teal-led palette (#00bfb2 as the dominant
   interactive/brand color, paired with a darker teal #215654 used as text and
@@ -166,6 +170,12 @@ This is a recommended, non-measured breakpoint scheme, since no media queries we
 Interactive/touch states (hover, focus rings, active press) were not present in the supplied CSS and are proposed conventions only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Evidence is static CSS/text extraction; no rendered layout, computed styles, or DOM screenshots were available, so all spacing, radius, and breakpoint values are proposed, not measured.

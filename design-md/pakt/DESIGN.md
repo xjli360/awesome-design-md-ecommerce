@@ -4,6 +4,10 @@ name: "Pakt"
 source_url: "https://paktbags.com"
 captured_at: "2026-09-29T04:05:13.516184+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Pakt's evidence base shows a restrained black/white/gray system built around a single
   saturated accent, #ff5740, used on primary buttons and likely on sale/new badges. Ink
@@ -178,6 +182,13 @@ This is a recommended breakpoint scheme, not measured site behavior, informed on
 Touch targets should be at least 44px (aligning with the observed `--button-small-height: 44px`); primary buttons meet this via the observed `--button-height: 52px`. Navigation should collapse to a hamburger/drawer pattern below 768px (proposed, not observed); product grids should reduce from a multi-column desktop layout to 2-column mobile (proposed).
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

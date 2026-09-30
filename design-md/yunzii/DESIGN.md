@@ -4,6 +4,10 @@ name: "Yunzii"
 source_url: "https://www.yunzii.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A keyboard brand that builds its visual identity on a deep, almost-black green (#2b2f2d) and a vivid teal accent (#108474), with a secondary jolt of orange (#ed9741) that appears in sale badges and promotional banners. The palette is unusually restrained for a mechanical-keyboard company — no neon RGB excess, no gamer-zone aggression. Instead, Yunzii presents itself as a serious toolmaker: the product pages use generous white canvas (#f9fafb) and soft gray surfaces (#f7f7f7, #eeeeee) to let the keyboards' own aluminum and PBT textures command attention. Typography runs Figtree at moderate weights — display headlines sit at 24–32px in weight 600, body copy at 14–16px in weight 400, and the brand avoids heavy 700+ weights except in price tags and CTA labels. Buttons use the teal primary (#108474) with white text (#ffffff) and {rounded.sm} corners — a friendly but not childish 8px radius. The navigation bar is a slim 64px strip of the dark green (#2b2f2d) with white nav links, and the footer repeats the same dark canvas with a secondary orange (#ed9741) used sparingly for newsletter signup prompts and social icons. Product cards are white (#ffffff) with {rounded.md} (12px) corners and a subtle drop shadow, each featuring a clean price block where the teal primary appears only on the "Add to Cart" button. The overall effect is a workshop aesthetic — precise, muted, confident — where the teal acts as a single voltage point rather than a flood.
 
@@ -354,6 +358,13 @@ components:
 - Search bar moves from nav bar to a full-width element below the nav on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

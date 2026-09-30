@@ -4,6 +4,10 @@ name: "Kitchen Arts & Letters"
 source_url: "https://www.kitchenartsandletters.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A specialty bookstore in New York City since 1983, Kitchen Arts & Letters lives in a deep-navy world anchored by `#00008f` — the theme-color meta tag and the most distinctive extracted hex — a color that reads as learned, serious, and slightly old-world, like the spine of a well-bound cookbook. The brand's second voltage is a warm, urgent red (`#d12328`) used for CTAs, sale badges, and the logo mark, creating a tension between scholarly navy and appetite-driven crimson. The canvas is a soft off-white (`#f0f0f0`) rather than pure white, giving the page a paper-stock feel that matches the bookstore's physical inventory of rare and out-of-print food titles. Typography leans on Archivo for headings — a geometric sans-serif with sharp apertures that feels editorial — and Baskerville for body text, a serif that carries the weight of printed recipe collections and culinary memoirs. The extracted font stack includes Libre Franklin and Times, suggesting a layered approach: Archivo for display, Baskerville for long-form reading, Libre Franklin for navigation and metadata. The site uses `{rounded.none}` throughout — no pill buttons, no rounded cards, no softened corners — a deliberate choice that signals seriousness and trustworthiness over friendliness. Every interaction feels like turning a page in a rare-book room. The red (`{colors.primary}`) appears only in high-signal moments: the add-to-cart button, the sale badge, the newsletter signup. The navy (`{colors.ink}`) dominates headers, footer backgrounds, and the top nav, creating a strong vertical hierarchy. The extracted palette includes a green (`#00964d`) that appears in stock-status badges ("In Stock" / "Available"), and a yellow (`#ffff00`) used sparingly for "New Arrival" flags — both restrained accents that never compete with the primary red. The overall mood is that of a curated library: quiet, authoritative, and deeply knowledgeable about its domain.
 
@@ -455,6 +459,13 @@ components:
 - Search bar collapses to an icon-only button on mobile, expanding to full-width on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

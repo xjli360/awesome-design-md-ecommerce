@@ -4,6 +4,10 @@ name: "Humanscale (Chairs)"
 source_url: "https://www.humanscale.com/products/seating"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every Humanscale seating page opens with a near-silent palette — deep graphite (#1d1d1b) on white (#ffffff), no accent voltage, no promotional red — because the brand's authority derives from precision tolerances and load ratings rather than from color psychology. The chairs themselves carry all the visual energy: the sinuous carbon-fiber shell of the Freedom Headrest, the gossamer mesh of the Liberty, and the folding geometry of the Diffrient Smart act as the primary graphic system. Typography runs at tight tracking and light weight — display lines sit at fontWeight 300, not 700, behaving more like engineering documentation than retail copy; certifications, material grades, and weight capacities share the same visual register as the product name and price. Rounded tokens stay minimal — {rounded.xs} on swatches and inputs, {rounded.none} for every button — because Humanscale's product geometry is rectilinear and precise, not pillow-soft. Product configuration panels, where users select fabric families, base finishes, and armrest grades, are the most functionally dense moments on the page; they use a compact swatch grid with tight {spacing.sm} gutters and a hard outline on the selected state rather than a color fill. The navigation system expands via a horizontal mega-menu organized by product category, leaning on {colors.ink} type against {colors.canvas} with a single underline rule as the only active indicator. CTA copy reads as directives — Configure, Request a Quote, Find a Dealer — transactional language suited to the B2B procurement context where facilities managers and corporate buyers, not impulsive individual shoppers, often finalize the purchase. Surface colors grade from {colors.canvas} through {colors.surface-soft} using luminance steps small enough that section breaks feel structural rather than decorative. The overall grammar is German functionalist: every element earns its presence by doing work, and the system's extreme restraint is its most legible brand signal.
 
@@ -372,6 +376,13 @@ components:
 - Footer transitions from 4-column to 2-column at tablet breakpoint, then single-column at mobile with each section collapsed behind an accordion toggle
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

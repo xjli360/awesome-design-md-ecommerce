@@ -4,6 +4,10 @@ name: "Rise Art"
 source_url: "https://www.riseart.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The artwork owns every pixel — Rise Art's gallery-white canvas recedes so completely that the only thing with visual weight is the art itself. Primary actions arrive in a concentrated red (approximately #e8262a based on observed brand materials), a deliberate interruption in an otherwise monochrome field that functions the way a gallerist's hand gesture does: decisive, never decorative. Typography falls to Arial and neutral sans-serif stacks, kept light-weight at body level so that editorial content — curator notes, artist profiles, medium descriptions — reads as curatorial voice rather than commerce noise. Cards present artwork with near-zero chrome: a thin `{rounded.xs}` corner, a hairline border in `{colors.hairline}`, artist name in `{typography.caption}` below the image, and price flush-right in `{typography.title-sm}`. The proportions are orthodox white-cube — each artwork tile gets generous breathing room through `{spacing.xxl}` gutters, and the grid collapses gracefully rather than squeezing. The nav sits in a thin horizontal band at `{colors.canvas}`, with the Rise Art logotype left-anchored and a compact suite of links — Curated Collections, Artists, Sell Art — rendered in `{typography.nav-link}` weight 500, never bold. Search is a lightweight text field, not a pill or hero bar, signaling that discovery here is browsing and editorial rather than keyword retrieval. Badges appear in two flavors: a muted `{colors.surface-soft}` chip for "Limited Edition" and a sharp `{colors.primary}` fill for "New Arrival," both in `{typography.badge}` uppercase. Footer divides into four editorial columns — About, Artists, Support, Legal — on `{colors.ink}` background with reversed `{colors.on-dark}` text, a hard tonal inversion that closes the gallery-white experience like a colophon page.
 
@@ -371,6 +375,13 @@ components:
 - Artwork grid never drops below one column; minimum card width ~280px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

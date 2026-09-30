@@ -4,6 +4,10 @@ name: "Ostrichpillow"
 source_url: "https://ostrichpillow.com"
 captured_at: "2026-09-28T05:05:40.030267+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Ostrichpillow's storefront is built on Shopify's Dawn-derived CSS custom-property system, exposing an explicit foreground/background pair (rgb 18,18,18 on white) and a saturated blue button token (#0f32c3) used for primary CTAs and mega-menu buttons. A darker slate blue (#53607b) appears as a secondary/upsell button fill, alongside a muted grey (#585858) used near form controls and select arrows. Neutral surfaces (#f1f2f4, #f9fafb, #d9dee1) suggest card and section backgrounds versus the pure white canvas. The confirmed body typeface is "SharpSans" with sans-serif fallback at a 1.5rem base size and slight positive letter-spacing; "Montserrat" is also present in the stylesheet and is inferred here as a possible heading face, though no heading-specific rule was supplied, so that mapping is explicitly inferred rather than observed. Rounded pill buttons (25px radius, hover-to-black) and a circular wishlist counter badge point to a soft, rounded, low-drama interface consistent with a sleep/wellness brand. This specification treats layout, spacing, and breakpoints as proposed conventions layered onto the observed color and type tokens, not as measured page geometry.
 
@@ -126,6 +130,13 @@ components:
 Touch targets should be a minimum 44px hit area for cart, wishlist, and search icons. Mega-menu items and buy buttons should collapse to accordions/stacked lists below tablet width. This table is a recommendation based on common Shopify theme conventions, not measured breakpoint behavior of the live site.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered layout, computed styles, or responsive DOM behavior was observed. Header height is ambiguous (two conflicting `--header-height` declarations were both supplied with no confirmed media-query trigger). The Montserrat/SharpSans heading-vs-body split is inferred, not confirmed by any heading-specific selector in the evidence. All typography sizes beyond the one confirmed body rule (1.5rem/SharpSans) are proposed defaults, not measured. Component states such as focus rings, form validation, disabled buttons, and mobile navigation drawer behavior were not present in the supplied CSS and are labeled proposed. Font licensing and availability of "SharpSans" as a web-safe or licensed asset were not verified. Color role assignments (e.g., which greys serve as body vs. muted vs. border) are inferred from selector context, not confirmed via visual rendering.

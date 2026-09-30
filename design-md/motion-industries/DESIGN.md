@@ -4,6 +4,10 @@ name: "Motion Industries"
 source_url: "https://www.motion.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Sixteen million SKUs, one search box — Motion Industries bets that catalog depth outweighs brand warmth, and the visual system agrees: spec sheets render faster than hero images, part numbers sit in monospace at `{typography.part-number}` weight, and the primary navigation bar arrives as a dense stripe in `{colors.primary}` anchoring every page before the product grid loads. The single extracted hex, `#313131`, is the near-black charcoal that carries all body copy and table text — a sign that the ink tier does the heaviest lifting, bearing manufacturer names, cross-reference codes, and availability callouts without typographic embellishment. Corner radii are deliberately minimal throughout: buttons sit at `{rounded.xs}` (4px), product cards at `{rounded.sm}` (8px), reflecting the procurement context where a buyer arrives with a PO number rather than a wishlist. The system font stack — system-ui, Segoe UI, Roboto, Helvetica Neue — signals zero tolerance for web font latency, a practical choice when maintenance managers check availability from a plant-floor tablet on intermittent connectivity. Category navigation spans bearings, power transmission, electrical, pneumatics, and fluid power, organized in a deep megamenu hierarchy rather than lifestyle collections; visual priority is faceted filtering and manufacturer logos, not editorial curation. Orange appears as the accent CTA (`{colors.accent}`) based on brand knowledge — Motion's marketing materials use a warm amber-orange to draw the eye to primary actions — though the exact hex could not be extracted due to Cloudflare anti-bot blocking on the live site. Price displays run larger than product imagery in many catalog views, and stock-status badges use a success/warning/danger system (`{colors.success}`, `{colors.warning}`, `{colors.danger}`) that mirrors industrial indicator-light conventions — green for in-stock, amber for limited, red for backorder — making procurement decisions scannable at a glance without reading prose.
 
@@ -465,6 +469,13 @@ components:
 - Promo banner remains visible on all breakpoints but reduces to a single-line centered message on mobile (no dismiss button to save vertical space)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

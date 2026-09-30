@@ -4,6 +4,10 @@ name: "Bellroy"
 source_url: "https://bellroy.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   GTUltraFine — Grilli Type's geometric serif-adjacent face with calligraphic stress points — runs at weight 400 across bellroy.com, an unusual decision that makes even headline copy feel like a label stamped on a handmade object rather than a brand declaration. The signature burnt-orange (#cd4c20) is the only hot color in the system, appearing precisely at points of decision pressure: the primary CTA, new-item badges, the active-swatch ring, and section eyebrows. Everywhere else the palette retreats to near-black (#1d1d1b), cool mid-grays (#9b9b9b), and the off-white surface (#f7f7f7) that product photography rests on without competition. A secondary blue (#2279a9) appears exclusively in informational and link contexts, keeping thermal contrast purposeful. Hard corners ({rounded.none}) govern every button and input — flush ninety degrees, no radius softening — which reads as material confidence rather than approachability engineering. Product swatches are pill-shaped ({rounded.full}) at 20px while the surrounding card stays completely square, so the organic swatch form signals material sampling rather than UI embellishment. The navigation mega-menu exposes an unusually granular carry taxonomy — slim wallets, bifolds, travel wallets, cardholders, bags by size — segmented by carry function rather than gender or seasonal collection. This mirrors the brand's founding logic: engineer the minimum object for a specific carry need, then show it in every colorway. Typography rarely departs from two weights (400 and 700) and always pairs GTUltra for display contexts with Lato for utility text, keeping everything from campaign hero to checkout confirmation visually of a piece. Frank Ruhl Libre appears in the stack as a serif fallback for multilingual support, signaling global reach without introducing a third display voice. The word 'considered' in the page title is a system constraint, not marketing copy — the UI enforces it through sparse type scale, a single accent hue, and geometry that never competes with the product.
 
@@ -398,6 +402,14 @@ components:
 - Footer columns collapse to a single-column accordion on mobile, defaulting to closed state
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Pwnage"
 source_url: "https://pwnage.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A performance-gaming brand that signals its precision through a high-voltage blue (#3561ff) — the meta theme-color and the single electric accent that charges every primary button, link, and badge across a near-monochrome canvas of deep charcoal (#232527, #1c1d1f) and cool white (#fafdff). The brand lives in a world of soft surfaces: cards and buttons carry gentle radii ({rounded.sm}–{rounded.md}), while the typography runs Outfit at clean weights — display heads sit at 500–600 rather than the aggressive 700+ common in gaming, suggesting a mature, tool-like confidence. A secondary accent of vivid cyan (#1dfef2) and a warning yellow (#ffd900) appear sparingly, reserved for stock indicators and sale flags. The extracted palette reveals a heavy reliance on near-blacks (#252525, #121212) and cool grays (#e9ecee, #d3d7d9, #8d9398) that frame product photography — mice, keyboards, and accessories — as the hero. The brand's voice is technical but not cold: the blue (#3561ff) is the same shade used in engineering schematics and precision instruments, and the layout leans on generous whitespace and centered product grids rather than dense, information-heavy modules. The single most distinctive design move is the pairing of a bright, saturated primary with a near-black body — a high-contrast system that reads as both premium and functional, closer to tool design than esports spectacle.
 
@@ -390,6 +394,13 @@ components:
 - Search bar collapses to icon-only trigger on mobile, expanding to full-width overlay on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

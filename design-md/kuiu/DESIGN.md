@@ -4,6 +4,10 @@ name: "Kuiu"
 source_url: "https://www.kuiu.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A backcountry-hunting brand that uses a muted sage #aaccaa as its primary identifier — not camouflage green or blaze orange, but a dry, alpine-lichen tone that signals the Sierra Nevada palette rather than the bass-pro-shop aisle. The brand's visual system runs on high-contrast dark ink (#202020) against a near-white canvas (#f8f8f8), with a secondary accent of deep crimson (#970c11) reserved for sale badges, cart indicators, and urgent CTAs. Typography defaults to system sans-serif stacks (Arial, Helvetica Neue, Roboto) at moderate weights — no proprietary typeface, no display faces; the brand lets product photography and technical copy carry the authority. Cards and buttons use soft rounding ({rounded.sm} ~8px) that reads as utilitarian rather than friendly, and the nav bar sits at a compact 64px with a sticky white background and a single search icon. The checkout flow introduces a warm olive (#6f6c42) and a muted gold (#dbbb07) for progress indicators and trust badges, but the core shopping experience is deliberately austere: white space, grid product tiles, and a persistent "shop by category" mega-menu that reveals the full catalog without page reloads. The brand's design ethos is "performance first, decoration never" — every visual decision serves legibility in field conditions and fast load times on satellite internet.
 
@@ -727,6 +731,13 @@ components:
 - Size selector collapses from grid to horizontal scroll on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

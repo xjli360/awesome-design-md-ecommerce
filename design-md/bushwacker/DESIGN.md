@@ -4,6 +4,10 @@ name: "Bushwacker"
 source_url: "https://bushwacker.com"
 captured_at: "2026-09-28T10:18:47.587708+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Bushwacker is presented through RealTruck's shared commerce platform, so the
   observed tokens describe a functional, parts-catalog aesthetic rather than a
@@ -155,6 +159,13 @@ This is a recommended breakpoint structure, not measured site behavior:
 Touch targets should be a minimum 44px height for buttons and nav items on sm/md. Mobile header is expected to collapse category mega-menu into an accordion or drawer, consistent with the `.or-mobile-header` selector observed in CSS, though its expanded/collapsed visual behavior was not captured.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS custom properties and a page-text excerpt, not a rendered or interactively tested page. The exact roles of several custom properties (e.g., `--colorSecondary`, `--colorDangerDark`, `--colorInfoLight`) were referenced but not fully resolved in the supplied evidence, so mappings for footer CTA and badge tint are inferred best-guesses. No component states (hover, focus, active, disabled, error) were observed; all are proposed. Mobile menu behavior, breakpoint pixel values, and grid column counts are proposed conventions, not measured. "PlatformFont" and "PlatformBrandFont" are platform-level (RealTruck) font tokens of unknown license/availability and unverified actual typeface; generic sans-serif fallback is assumed. Spacing scale and rounded-corner values are proposed defaults, not extracted from layout measurements. Because Bushwacker's storefront is served through RealTruck's shared platform, brand-specific visual distinction beyond the yellow accent could not be confirmed from the supplied evidence.

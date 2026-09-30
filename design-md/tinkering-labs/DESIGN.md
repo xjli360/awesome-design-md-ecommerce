@@ -4,6 +4,10 @@ name: "Tinkering Labs"
 source_url: "https://tinkeringlabs.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A brand built for the moment a child's hand first touches a motor wire, where #ee5d35 — a hot, almost metallic orange — strikes against #003388, a deep navy that reads less like a sky and more like a circuit-board substrate. The palette is deliberately high-contrast: #ee5d35 powers every primary CTA and hero accent, while #003388 anchors headers, navigation, and the footer, creating a visual tension that mirrors the brand's promise of "messy, creative, real" engineering. Type runs Lato at clean, readable weights — display sits at 24–32px in weight 700, body at 16px weight 400 — with generous line heights that keep instructions and product descriptions from feeling dense. Cards and buttons use {rounded.sm} (8px) corners, a subtle softening that prevents the industrial palette from feeling cold. The hero section typically pairs a full-bleed product photo with an overlaid CTA pill in #ee5d35, while product cards stack a white canvas (#eeeeee) with a navy title and orange price badge. Badges for "Ages 8+" or "New" appear as small {rounded.full} pills in #003388 with white text, echoing the brand's signal that this is serious play. The overall feel is workshop-meets-playroom: clean enough for a parent to trust, bright enough for a kid to grab.
 
@@ -361,6 +365,13 @@ components:
 - On desktop: full layout with no collapsing
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

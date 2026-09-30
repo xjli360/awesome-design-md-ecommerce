@@ -4,6 +4,10 @@ name: "Powertraveller"
 source_url: "https://www.powertraveller.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A single dark anchor — #313131 — runs through the entire Powertraveller experience, from the bold product-tile borders to the footer background, giving the brand a grounded, industrial consistency that never wavers. The site reads as a technical catalog for the serious traveler, where every power bank, solar panel, and charging station is presented with a no-nonsense, utilitarian clarity. Product images dominate, often isolated against a clean white canvas, with the dark ink providing a strong framing device in cards and section dividers. The typography relies on a system-font stack — -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif — prioritizing legibility and fast load times over typographic flair. There are no decorative serifs or custom brand faces; the hierarchy is established purely through weight (600 for titles, 400 for body) and size, with display text at 24px and body copy at 16px. Buttons are solid, rectangular, and purposeful: the primary CTA uses the dark ink as a background with white text, while secondary actions are outlined in the same dark tone. The overall mood is one of reliability and straightforwardness — a brand that sells gear for off-grid power, not lifestyle. The only visual relief comes from the product imagery itself, which introduces natural greens, blues, and metallic grays against the otherwise monochromatic palette.
 
@@ -312,6 +316,13 @@ components:
 - Hero banner padding reduces by 50% on mobile to conserve vertical space.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

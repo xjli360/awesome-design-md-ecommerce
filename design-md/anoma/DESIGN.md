@@ -4,6 +4,10 @@ name: "Anoma"
 source_url: "https://www.anomawatches.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every dial in the Anoma lineup reads as a solved problem: indices stripped to the minimum needed to tell the time, hands tapered to the point of near-disappearance, and a dial texture—often brushed or grained—that only declares itself under raking light. The brand operates at the edge of the independent micro-watch world where a single model may run for two years before a revision, and where the website is less a shop than a slow argument for paying attention. The color logic follows the same restraint: a near-black canvas (#0d0d0d) absorbs photography the way a lightbox would, letting polished brass indices and lume plots carry warmth without the brand imposing a signature hue. The one departure from neutrality is a muted antique-gold accent (#b8956a) used only for price callouts, active navigation states, and the faintest border highlight on product cards — present enough to signal intentionality, absent enough to stay out of the dial's way. Type runs a classical-cut serif at display sizes — tracking tightened to feel engraved rather than set — and switches to a geometric sans at body and caption scale, the same move every serious horological publisher makes when legibility overtakes atmosphere. `{rounded.none}` dominates: buttons are rectangular, cards carry at most `{rounded.xs}` on the image container, and the search field is a bare underline. The overall effect is closer to a printed catalogue than a Shopify storefront, which is exactly the positioning the brand needs to compete against heritage names at one-fifth the price.
 
@@ -348,6 +352,14 @@ components:
 - Movement callout panel retains full-width treatment at all breakpoints; only inner padding reduces
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

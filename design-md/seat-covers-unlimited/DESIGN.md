@@ -4,6 +4,10 @@ name: "Seat Covers Unlimited"
 source_url: "https://seatcoversunlimited.com"
 captured_at: "2026-09-29T03:59:02.970642+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Seat Covers Unlimited's storefront runs on a Shopify theme whose root
   variables define a restrained, high-contrast base: near-black
@@ -167,6 +171,13 @@ components:
 All touch targets are recommended at a minimum 44×44px hit area, and the vehicle-selector dropdowns should collapse into an accordion or modal on narrow viewports. This table is a design recommendation only; no responsive CSS or breakpoints were present in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered page, computed layout, or JavaScript-driven interaction (e.g., cart drawer, vehicle-fitment filtering, slick carousel behavior) was observed. Several palette entries originate from a generic third-party jQuery UI "smoothness" theme file rather than confirmed brand-authored CSS, so their assignment to brand roles (sale/alert/success accents) is an inference, not a verified brand decision. The mapping of Gobold/Inter to display/body roles is inferred from the font list order and common theme conventions, not from explicit `font-family` declarations tied to those names in the supplied rules. Root body font-size (1.5rem) and its relationship to `--font-body-scale` could not be resolved to an exact pixel value, so all typographic sizes beyond what's explicitly shown are proposed defaults. Rounded and spacing scales are proposed conventions, not measured from the source. Font licensing/availability for Gobold was not verified and should be confirmed before implementation.

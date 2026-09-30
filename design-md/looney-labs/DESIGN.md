@@ -4,6 +4,10 @@ name: "Looney Labs"
 source_url: "https://www.looneylabs.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Purple hits you first — not a muted lavender or corporate violet but a saturated, slightly warm #6745a3 that reads like a tabletop wizard's cloak draped across every primary button, nav accent, and collection badge. Looney Labs sells card games (Fluxx, Chrononauts, Pyramids) to a community that skews playful-nerdy, and the digital storefront mirrors that energy through a triadic accent system: teal #22d6ce pops on hover states and promotional callouts, coral #fb8077 flags sale prices and urgency badges, and the purple anchors everything authoritative. Type is set entirely in Open Sans — a utilitarian sans-serif that stays out of the way while dense game-rule descriptions, flavor text, and product specs do the heavy lifting. Display headings run at weight 700 in the 28–32px range; body copy stays at 16px/400 with generous 1.6 line-height to keep long product descriptions scannable. Cards sit on a white #ffffff canvas with soft gray #dedede hairlines and `{rounded.md}` corners — rounded enough to feel approachable but squared enough to stack cleanly in a multi-column grid. The product card pattern dominates: a large square image (game box art does the marketing), a bold title, a teal "Add to Cart" pill or purple primary button depending on context, and a small muted price line in #777777. Navigation is minimal — a sticky top bar with the Looney Labs pyramid logo left-aligned, a handful of collection links in `{typography.nav-link}`, and a cart icon badged in coral when items are present. Footer runs dark (#121212 background, white text) with newsletter signup and social links. Spacing is generous at the section level (`{spacing.section}` between content blocks) but tight within cards (`{spacing.sm}` between title and price), creating a rhythm that lets colorful box art breathe while keeping purchase-relevant info clustered. The overall impression is a toy store's enthusiasm filtered through clean e-commerce conventions — nothing precious, nothing overwrought, just enough color and curve to signal fun without sacrificing clarity.
 
@@ -382,6 +386,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

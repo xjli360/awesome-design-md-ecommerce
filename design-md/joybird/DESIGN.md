@@ -4,6 +4,10 @@ name: "Joybird"
 source_url: "https://joybird.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A mid-century modern furniture brand that feels like a warm, curated living room brought to life through a teal-and-charcoal palette anchored on `#107c8c` — a deep, confident teal that appears on primary buttons, navigation accents, and product badges, carrying the brand's signature voltage without overwhelming the eye. The canvas is a soft `#f1f1f1` rather than pure white, giving the entire experience a lived-in, tactile warmth that distinguishes Joybird from stark, white-box furniture competitors. Secondary accents of `#b85455` (a dusty brick red) and `#fdde5c` (a warm mustard) appear on sale tags and promotional banners, while `#f56a62` and `#70db96` provide error and success signals respectively. Typography runs on Interstate, a geometric sans-serif with a friendly, slightly condensed character that echoes mid-century signage — display headings sit at modest weights (500-600) rather than heavy 700+, trusting the brand's generous product photography and `{spacing.section}` whitespace to carry visual hierarchy. Buttons use `{rounded.sm}` (8px) corners — soft but not pill-shaped — while product cards and modals use `{rounded.md}` (12px) for a gentle, approachable feel. The brand's voice is aspirational yet accessible: "Design your dream sofa" appears in `{colors.ink}` (`#262626`) on `{colors.canvas}` (`#ffffff`) cards, with `{colors.muted}` (`#717171`) supporting text that recedes respectfully. A consistent `{colors.hairline}` (`#cccccc`) defines card edges and dividers, while `{colors.hairline-soft}` (`#e5e5e5`) softens secondary borders. The overall mood is one of thoughtful retro-modernism — every corner is slightly softened, every color slightly desaturated from pure primaries, creating a system that feels both nostalgic and contemporary.
 
@@ -609,6 +613,13 @@ components:
 - Category navigation strips collapse to horizontal scroll on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

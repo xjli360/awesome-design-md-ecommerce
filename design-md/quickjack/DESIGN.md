@@ -4,6 +4,10 @@ name: "QuickJack"
 source_url: "https://quickjack.com"
 captured_at: "2026-09-28T10:02:58.816624+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   QuickJack's storefront runs on a Magento/Bootstrap foundation, evidenced directly
   by the :root custom-property block (--primary:#007bff, --secondary:#6c757d,
@@ -156,6 +160,13 @@ Proposed breakpoints (not measured from live rendering), aligned to the Bootstra
 Touch targets should be at least 44x44px for buttons and nav toggles. This table is a recommendation based on standard Bootstrap breakpoint values found in the CSS variables, not an observation of actual rendered layout or JavaScript-driven behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Color roles beyond `.btn-primary` (`#007bff`) are inferred from frequency and hue grouping, not from selector-level confirmation; the orange, navy, and secondary-blue assignments are educated guesses.

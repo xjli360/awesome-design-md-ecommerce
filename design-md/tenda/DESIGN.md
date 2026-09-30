@@ -4,6 +4,10 @@ name: "Tenda"
 source_url: "https://www.tendacn.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   One LED on a router chassis makes the same argument every time — a single vivid dot against dark plastic tells you the device is live and routing. Tenda encodes that logic directly into its web presence: #fb5100, a red-shifted tangerine closer to a molten indicator light than marketing orange, fires against a near-black ground (#1d1d15) with no gradient to cushion the jump. The brand operates on the same binary clarity as the hardware it sells — connections either work or they don't — and every design decision follows that premise. CTAs are tight orange rectangles ({rounded.xs}), not pills or ghosts; corner radii stay cropped so nothing reads as tentative. A secondary orange #ff6b00 appears on hover states and highlight badges, giving the single-hue accent system just enough micro-depth to register without softening the overall voltage. Supporting neutrals are stratified in cool-gray steps — body copy at #333336, helper text at #737373, muted labels at #aaaaaa — layered over a staircase of surface tones (#f5f5f5, #f0f1f2, #fafafa) that keep product photography from floating against raw white. The type stack runs entirely on system fonts: Helvetica Neue and -apple-system anchor Western locales while Microsoft Yahei, Noto Sans SC, and PingFang SC queue behind for Chinese-locale visitors, a quiet signal that the brand operates at genuine global-manufacturing scale rather than simulated globalism. Display type runs at 600–700 weight with tight negative tracking at large sizes, treating headlines as labels for technical decisions — "WiFi 7 Tri-Band Router" carries the same declarative energy as a spec sheet line item. Spec tables, comparison grids, firmware download blocks, and regional-support selectors occupy more visual real estate than any lifestyle photograph. The dark footer (#212121) with orange hover links mirrors the dark hero panels, bracketing the product grid in a chassis-black shell that makes the whole page feel like a device you are configuring rather than a catalog you are browsing.
 
@@ -578,6 +582,13 @@ components:
 - Footer: link groups collapse to accordions on mobile; bottom bar reorganizes into stacked copyright + link rows
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "D'Addario"
 source_url: "https://www.daddario.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, resonant #303030 ink anchors D'Addario's digital presence, a near-black that reads as serious and tactile — the color of a guitar fretboard or a piano's polished ebony. Against this, #cf2027 fires as the single brand voltage, a confident red that appears on primary CTAs, sale badges, and the iconic D'Addario logo mark, signaling precision and passion in equal measure. The canvas is a clean #f7f7f7, not a clinical white, lending a warm workshop feel, while #e2e6eb and #dedede provide soft structural hairlines and card borders that keep the layout airy without sacrificing hierarchy. Product cards use a generous {rounded.sm} corner radius, softening the industrial edge of instrument hardware, while the top navigation runs full-width at 80px with a subtle bottom border in #e0e0e0, housing a search bar with {rounded.full} pill ends and a cart icon that pulses the brand red. The typography leans on a clean sans-serif system — likely a variant of Inter or a similar geometric — with display headlines at 28px and 500 weight, body copy at 16px with 1.5 line height, and button labels set in 14px semibold. A secondary green (#1f3521) surfaces in environmental messaging and sustainability badges, while #289551 appears in success states and "in stock" indicators. The overall mood is that of a master luthier's workshop translated into a clean, high-fidelity e-commerce experience: every component feels machined, tested, and ready to perform.
 
@@ -359,6 +363,13 @@ components:
 - Accordion panels are used on mobile to collapse product specs and descriptions
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

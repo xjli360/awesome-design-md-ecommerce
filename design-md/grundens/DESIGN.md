@@ -4,6 +4,10 @@ name: "Grundens"
 source_url: "https://grundens.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A brand built for the harshest marine environments, Grundens uses a palette anchored on deep marine navy (#242d35) and a high-voltage safety orange (#fe5000) that cuts through fog, spray, and low light — the same visual logic as a PFD or a channel marker. The primary CTA, the search icon, and the cart badge all carry that orange, a deliberate jolt against the dark, weathered backgrounds (#090b0d, #191919) that dominate the site. The secondary palette introduces a muted sea-foam (#abc7ca) and a cool slate (#242833), colors that read as wet stone and salt-bleached canvas rather than decorative pastels. Typography runs Colfax Web at clean, functional weights — display sizes sit at 400–600 weight, never decorative, always legible at arm's length in a pitching boat. Buttons are generously padded with {rounded.sm} corners, product cards use {rounded.md}, and the overall grid feels industrial and purposeful: wide gutters, dense information, no wasted motion. The brand trusts its product photography — wet neoprene, dripping Gore-Tex, steel hardware — to carry the sensory load, keeping the UI itself as a transparent, fast-loading shell. There is no hero carousel; the homepage leads with a single strong product image and a direct value prop, reflecting a customer who knows what they need and doesn't want to browse.
 
@@ -305,6 +309,13 @@ components:
 - Search bar collapses to icon-only on mobile, expands to full-width overlay on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Lola"
 source_url: "https://mylola.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The ingredient list comes before the product name on every LOLA page — that reversal of hierarchy is the clearest signal of the brand's operating logic. Primary teal (#207c83) anchors every CTA and structural element, a hue that reads closer to medical authority than beauty trend, deliberately placed against the soft-pink conventions of the feminine care category. A near-black navy (#272d45) carries heading and body copy weight, while a warm amber (#ff9529) surfaces sparingly on promotional callouts and urgency tags, preventing the palette from reading clinical or cold. The lightest surface (#f7f7f8) is barely perceptible against white — bare backgrounds let product photography and ingredient copy carry visual weight without competition. Apercu handles all display and UI work: letters set at 500–600 weight rather than heavy 700+, trusting tight tracking and clean geometric letterforms over typographic muscle. Cabin takes over for body copy, its humanist warmth softening the data-dense ingredient panels and transparency disclosures that distinguish LOLA from legacy competitors. Buttons use {rounded.sm} to {rounded.md} curvature rather than full pill shapes, positioning the brand as health-and-wellness rather than fashion — friendly without being frivolous. The subscription-first model shapes every purchase pattern: subscription pricing leads before one-time options in product cards, a prominent toggle holds visual weight near add-to-cart, and a mint-tinted surface (#b2f9e9) flags the savings tier with a restrained pastel rather than a loud promotional stripe. Product bundling sits at the top of the purchase hierarchy — build-your-box flows appear before single-product add-to-cart. Navigation carries product categories in clean horizontal structure with a sticky header that collapses on scroll to preserve the reading space that dense ingredient and mission copy demands. An eyebrow type style — 11px Apercu, 1.5px letter-spacing, uppercase — marks ingredient transparency sections, giving certification claims visual authority without icon clutter.
 
@@ -356,6 +360,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

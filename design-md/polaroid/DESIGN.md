@@ -4,6 +4,10 @@ name: "Polaroid"
 source_url: "https://polaroid.com"
 captured_at: "2026-09-29T04:07:25.134778+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Polaroid.com is confirmed as the brand's official US storefront, presenting
   its current camera, film, and printer catalog (I-2, Flip, Now+, Now, Go)
@@ -170,6 +174,13 @@ Recommended, not measured, breakpoints:
 Touch targets should be at least 44px for buttons and nav items. The mega-menu (Cameras/Film/Printers/Accessories) should collapse into an accordion on mobile; the camera color-swatch selector should remain thumb-reachable near the bottom of the product image on small screens. None of this is measured site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS module rules, a text/DOM excerpt, and a color/font inventory only; no rendered screenshots, computed layout, or interaction states (hover, focus, open menu, mobile breakpoints) were observed. The mapping of specific hex values to semantic roles (primary, muted, hairline, surface tones) is inferred from naming context and frequency, not confirmed usage in a live component. All display-size typography values and the button-md style are proposed extrapolations beyond the four directly observed body font sizes. Custom font availability, licensing, and actual rendering of REAL_HEADER_OFFC, SAOL_TEXT, and COMMIT_MONO were not verified beyond their declared font-family names. The "spectrum" accent grouping and color-swatch-selector component are reasonable but unverified interpretations of the palette's multiple saturated hues.

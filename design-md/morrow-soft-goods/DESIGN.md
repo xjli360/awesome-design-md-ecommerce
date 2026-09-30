@@ -4,6 +4,10 @@ name: "Morrow Soft Goods"
 source_url: "https://morrowsoftgoods.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Morrow Soft Goods is a bedding brand that speaks in hushed, earthy tones and tactile textures, where every piece feels like a quiet invitation to rest. The palette is anchored by deep, warm browns like {colors.primary} (#423432) and {colors.primary-active} (#5c3d38), which ground the brand in a sense of natural, unpretentious luxury. These are balanced by a range of soft, sun-bleached neutrals—{colors.canvas} (#f7f3ee), {colors.surface-soft} (#e6dcd0), and {colors.surface-card} (#dedede)—that evoke the feel of well-worn linen and aged plaster. Accents of muted gold ({colors.accent-gold} #bcaa75), sage green ({colors.accent-sage} #8ba985), and dusty blue ({colors.accent-blue} #6c8fa3) appear sparingly, like faded threads in a vintage tapestry, while a deeper wine tone ({colors.accent-wine} #542a30) adds a touch of richness. The typography, built on the clean, geometric Brown and the elegant serif freight-big-pro, feels both modern and timeless—display sizes are generous but never shout, and body text is set in a warm, readable weight. Corners are softly rounded ({rounded.sm} 8px for buttons, {rounded.md} 12px for cards), reinforcing a tactile, approachable feel. The overall effect is one of deliberate calm: a brand that trusts the weight of its materials and the quiet power of a well-made bed.
 
@@ -461,6 +465,13 @@ components:
 - Accordion components are used on mobile to collapse long lists of product details or FAQs that would otherwise be displayed inline on desktop.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

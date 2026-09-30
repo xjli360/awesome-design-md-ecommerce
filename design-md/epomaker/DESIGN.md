@@ -4,6 +4,10 @@ name: "Epomaker"
 source_url: "https://epomaker.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   That saturated teal (#108474) hitting you from every "Add to Cart" button and category badge signals a brand more comfortable in the mechanical-switch hobbyist world than in minimalist consumer electronics — it is bright enough to pop against the dark product photography of keycap sets and aluminum cases, yet muted enough to avoid clashing with the rainbow of keyboard colorways on display. Epomaker's type system leans on Poppins, a geometric sans-serif whose rounded terminals echo the pill-shaped keycaps the brand sells; headings land at weight 600–700 in modest sizes (24–32px display), trusting large product imagery and specification grids to do the heavy visual lifting rather than oversized typography. The layout defaults to a near-black ink (#181818) on a white canvas, with generous use of #f5f5f5 surface panels to separate product grids from editorial blocks, and a mint-tinted surface (#dff8ef) reserved for promotional banners and "in-stock" success states that reinforce the primary teal family. Corners stay relatively tight — `{rounded.sm}` on buttons and cards, `{rounded.xs}` on badges — conveying the precision-engineering ethos of the product line without descending into brutalist hard edges. A secondary electric blue (#0037c9) appears in hyperlinks and informational callouts, while a bold red (#da3f3f) marks sale pricing and low-stock warnings. Gold (#dec700) punctuates limited-edition releases and rating stars, adding a collector's-market energy. The component library is dense: spec-comparison tables, switch-type selectors with color swatches, group-buy countdown timers, and a sticky bottom bar on mobile PDPs all reflect a catalog that demands more UI surface than a typical lifestyle storefront. Navigation stacks product categories horizontally with dropdown mega-menus exposing keyboard size (60%, 65%, 75%, TKL, full) and switch-type filters — the information architecture of a hobbyist marketplace compressed into a Shopify theme.
 
@@ -481,6 +485,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

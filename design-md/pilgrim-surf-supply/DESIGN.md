@@ -4,6 +4,10 @@ name: "Pilgrim Surf + Supply"
 source_url: "https://pilgrimsurfsupply.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Three extracted hex values — #010101, #121212, and #dedede — constitute the entire visible palette, and that compression is intentional: Pilgrim Surf + Supply operates on near-total contrast, an editorial gambit that hands all visual weight to the goods themselves. The canvas is white (#ffffff, confirmed by meta theme-color), type runs close-to-black, dividers sit at a single soft gray, and nothing else is added — no accent hue, no brand voltage, no signature color. The refusal of ornament is the identity. Founded in Brooklyn and rooted in the overlapping cultures of surf, skate, and outdoor craft, the shop curates objects that speak through material quality rather than marketing palette. Primary CTAs almost certainly execute as a simple inversion: #010101 fill with #ffffff text, resting flush on {rounded.none} — hard-edged, confident, consistent with a shop that treats decorative radius as noise. Typography could not be extracted from this build (likely JS-loaded tokens or bot-protection), but the brand's documented editorial sensibility points toward a clean grotesque set at restrained tracking, quiet enough to let product names lead without competition from letterform personality. Small-scale labels — buttons, category chips, nav links — likely carry slight open tracking in the {typography.button-md} and {typography.category-tag} ranges, giving uppercase text clarity without added weight. Spacing is generous throughout; whitespace is the primary selling tool. Product cards surface without decorative chrome: full-bleed portrait image, name in {typography.title-md}, price in {typography.price}, nothing else cluttering the object's presence. Navigation is deliberately spare — a wordmark, a shallow set of category links, a cart count — with no mega-menu expansion and no promotional bar competing with the header zone. The footer grounds the page against {colors.dark-ground}, reversing to {colors.on-dark} for link columns, closing the page exactly as it opened: high contrast, minimal structure, nothing extra.
 
@@ -309,6 +313,13 @@ components:
 - Filters: horizontal scrolling chip row on mobile rather than a collapsible sidebar; sidebar appears at desktop widths only
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

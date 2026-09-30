@@ -4,6 +4,10 @@ name: "Clare"
 source_url: "https://clare.com"
 captured_at: "2026-09-28T04:20:58.011139+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Clare's observed stylesheet centers on a warm marigold accent (#f5be18) paired
   with a deep navy (#003149) used as both button text and footer/announcement
@@ -152,6 +156,13 @@ The following breakpoint table is a recommendation only; no responsive CSS or vi
 Touch targets should be at least 44px in the proposed scale (roughly `{spacing.xl}`), and primary/secondary buttons should retain the pill radius across breakpoints. Mobile nav collapse, drawer patterns, and swatch-picker touch interactions are proposed conventions, not confirmed from the site.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is built from static CSS/JSON evidence only; no live page render, DOM interaction, or JavaScript-driven state was observed. The "Reader" and "Freight" font families are referenced by name in CSS custom properties but their actual availability, licensing, and full weight range are not verified — generic sans-serif fallbacks are used per constraint. The mapping of colors to semantic roles (e.g., surface-soft, surface-card) is inferred from variable naming conventions (`--colorBodyDim`, sale-tag colors) rather than confirmed visual usage. All spacing, rounded corner scale (aside from the observed 50px button radius), and breakpoint values are proposed design conventions. Component states such as hover/focus/disabled are only confirmed for `.flickity-button` and `.ocu-cta__buy`; all other interactive states are proposed. Mobile layout, menu behavior, and card grid structure were not present in the supplied evidence and are therefore inferred from common e-commerce patterns.

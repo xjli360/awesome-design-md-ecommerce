@@ -4,6 +4,10 @@ name: "Method"
 source_url: "https://methodhome.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A cleaning brand that wears its chemistry on its sleeve — #7e57c7, a vivid purple, is the primary voltage, not the pastel or neutral you'd expect from a home-care aisle. It's paired with #77d42a (lime green) as the secondary accent, creating a high-contrast, almost playful palette that reads more like a consumer-electronics brand than a soap company. The site uses Avenir LT W01 as its primary typeface, with a light weight (35) for body text and a medium weight (65) for headings, giving the interface a refined, slightly European feel. Buttons and cards use generous {rounded.md} corners, softening the otherwise bold color blocks. The product photography is the real hero — bright, clean, often isolated on white — while the interface stays out of the way with a white canvas ({colors.canvas}) and thin {colors.hairline} borders. The brand's voice is direct and slightly irreverent ("people against dirty"), and the design mirrors that: no fluff, no decorative flourishes, just clear information architecture with color as the primary wayfinding tool. The extracted palette is unusually broad — including multiple blues, oranges, yellows, and reds — suggesting a system that uses color to differentiate product lines or categories rather than a single-brand monochrome approach. The purple (#7e57c7) and lime (#77d42a) are the most distinctive and likely represent the core brand identity, while the blues (#007dc1, #00b7ea) and oranges (#d0451b, #ffab23) may be sub-brand or product-variant colors. The site avoids heavy shadows or gradients, relying instead on flat color blocks and clean typographic hierarchy.
 
@@ -406,6 +410,13 @@ components:
 - Category tags collapse to a horizontally scrollable strip on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

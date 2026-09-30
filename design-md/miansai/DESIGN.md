@@ -4,6 +4,10 @@ name: "Miansai"
 source_url: "https://www.miansai.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Metal staging drives the interface — the same #313131 charcoal that backgrounds Miansai's cuff-and-cord photography bleeds into navigation chrome and editorial sections, treating every screen surface as a dark velvet setting for the pieces themselves. Founded in Miami by Michael Saiger, the brand built its identity on a specific visual tension — raw nautical rope knotted through precision-milled brass hardware — and that push-pull reads in the digital system too: hard geometric grid structures offset by warm metallic accent tones, stark ink on open white canvas interrupted by the close crop and the deliberate absence of decoration. The color vocabulary lives almost entirely in one extracted tone (#313131), a blue-black charcoal that is neither true black nor a warm gray, working throughout as primary CTA fill, body type anchor, and the dominant value in product photography. White canvas (#ffffff) provides the negative space with near-zero surface hierarchy — surface-soft barely separates itself at #f9f9f9 — which keeps focus relentlessly on the metal, cord, and stone in the product frames. A muted brass-gold (#c4a97d) enters only as accent: in material-selector indicators, engraving badges, and occasional editorial callout headlines, calibrated to read as the actual jewelry rather than a branding device. Typography runs on system sans-serif stacks — no custom typeface was captured in extraction, likely served via a JS-loaded resource or anti-bot wall — favoring restraint throughout: display sizes under 40px, body type at 15–16px with generous 1.6× line-height, and near-total absence of uppercase tracking except on small collection-filter labels. Component geometry is deliberately austere: `{rounded.none}` or `{rounded.xs}` on buttons and inputs, no pill shapes anywhere. The product card is essentially a full-bleed photograph with a single line of type and price at the bottom edge — corner radius zero. This is a system that trusts its product photography completely and strips every UI element that might compete with a shot of oxidized silver against black cord.
 
@@ -379,6 +383,13 @@ components:
 - Footer four-column grid collapses to two-column at tablet and single accordion-style column at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

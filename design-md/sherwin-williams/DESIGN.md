@@ -4,6 +4,10 @@ name: "Sherwin-Williams"
 source_url: "https://sherwin-williams.com"
 captured_at: "2026-09-28T10:14:57.301584+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is built from static CSS and markup evidence for the
   Sherwin-Williams storefront, a paint, stain and coatings retailer serving
@@ -145,6 +149,13 @@ Recommended, not measured, breakpoints:
 Touch targets should be at least 44px in the mobile drawer; the mega-menu's many nested links suggest an accordion collapse pattern on small screens, but this interaction is inferred from content volume, not observed markup or breakpoints.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This spec is derived from static CSS/text extraction only; no rendered layout, JavaScript-driven states, or responsive behavior was observed. Hover, focus, active, and disabled states for buttons and inputs are proposed, not measured. The role of several near-duplicate blues (#0069af, #0067b1, #0068b3, #336699, #005896) is ambiguous — one was selected as `primary` and others omitted; the true design-token mapping may differ. The navy (#071c51) assigned to `footer` and the sand tone (#eeefea) assigned to `hero` are inferred surface pairings, not confirmed against footer/hero-specific selectors. "Playfair Display" is listed in the font stack but its actual usage context (headlines vs. incidental) is unverified. Custom families (SW Dropcloth variants, tagicons, icomoon, Phosphor) appear to be icon or proprietary display fonts; their licensing and web-availability were not verified and they are excluded from text typography roles. Mobile menu collapse, swatch-grid layout, and product-card imagery were not present in the supplied evidence and are therefore proposed patterns only.

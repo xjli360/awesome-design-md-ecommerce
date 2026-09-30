@@ -4,6 +4,10 @@ name: "Bio-Techne"
 source_url: "https://www.bio-techne.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Twelve subsidiary brands — R&D Systems, Novus Biologicals, Tocris, ProteinSimple, Shapes Sciences, and seven others — live as peer catalog entries under a single navigation umbrella rather than behind a brand-switcher; Bio-Techne trusts search and category taxonomy to route researchers who arrive with an antibody catalog number or a gene target in mind, not a parent-company preference. The design language is instrument-panel minimal — a white canvas (`{colors.canvas}`) carrying a corporate mid-blue primary (estimated #005BAC from observed site usage; extraction yielded no tokens, see Known Gaps) on nav fills, primary CTAs, and active tab underlines, never decoratively applied. Typography runs a clean sans-serif stack at restrained weights: body copy at 16px/400 on 1.5 leading, display at 24–32px without the heavy 700-weight maximalism common in consumer DTC — the brand communicates precision over persuasion, mirroring how a technical datasheet reads. Product cards carry dense metadata in a 12px caption tier — catalog number, host species, reactivity species, validated application icons (WB, IHC, IF, ELISA) — alongside a discreet 14px price and an "Add to Cart" button, because the purchase decision criterion is a specificity value, not a lifestyle image. The search experience functions as the true homepage regardless of page context: a prominent, full-width search bar with catalog-number and gene-name autocomplete sits above the fold on every template, acknowledging that scientists arrive with a molecular target rather than browsing intent. Corner radii are nearly absent — inputs and cards use `{rounded.xs}` at most, reinforcing the clinical, scientific-catalog register. A strict 12-column grid and 1px hairlines keep pages scannable at high information density without decorative fills. The B2B posture surfaces in CTA duality: "Add to Cart" and "Request a Quote" appear as sibling buttons on many product pages, and "Download Protocol" / "View Datasheet" links occupy their own CTA tier, reflecting institution-pricing workflows layered on top of a direct-purchase channel.
 
@@ -393,6 +397,14 @@ components:
 - Search autocomplete dropdown reduces to 5 results (from 10) on mobile to avoid keyboard overlap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

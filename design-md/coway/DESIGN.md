@@ -4,6 +4,10 @@ name: "Coway"
 source_url: "https://cowaymega.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The palette stacks from petroleum-navy (#17384c) at the structural base through a graduated column of sky tones — #377ca4, #007eb0, #6bc4e8, #d8e7ee — before dissolving into near-transparent ice (#eaf7fc, #f0f5f7) at the canvas layer; it is a chromatic argument that the product literally cleans what it contacts. Neutral slates (#303030, #5e5e5e, #919191) carry all editorial text, keeping the blue-spectrum range free to carry atmosphere rather than utility. Montserrat governs structure — display headlines run 600–700 weight from 28px to 48px — while DM Sans occupies the humane register: body copy, navigation labels, and specification tables where geometric softness matters more than authority. The pairing positions Coway exactly between a medical-grade certification brand and a considered home-goods label.
 
@@ -361,6 +365,13 @@ components:
 - Promo strip persists at all breakpoints; truncates to single line with ellipsis on Mobile before close icon
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

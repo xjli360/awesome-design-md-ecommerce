@@ -4,6 +4,10 @@ name: "Gold Rush Vinyl"
 source_url: "https://www.goldrushvinyl.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A record pressing plant that wears its American manufacturing heritage in every visual decision — the site runs on a deep, confident navy (#1a2a3a) as its primary voltage, a color that reads more like a well-worn denim jacket than corporate blue. The canvas is a warm off-white (#f5f0e8) that evokes the paper sleeve of a vintage LP, not the sterile white of a SaaS dashboard. Headlines sit in a condensed, muscular sans-serif at 36–48px, set tight with negative letter-spacing, while body copy runs at 16px in a clean geometric sans — the pairing suggests a factory floor sign translated to screen. Product cards use a soft 12px radius (`{rounded.md}`) and a subtle shadow, framing vinyl mockups like framed album art. The primary CTA button is a solid navy rectangle with white text and an 8px radius (`{rounded.sm}`), unapologetically direct — no pill shapes, no gradients, no gimmicks. The top nav is a simple white bar with the brand's wordmark centered, flanked by "About," "Services," "Vinyl," and "Contact" links in all-caps at 13px. The footer runs a dark navy background with gold-accented links (#c9a84c), a nod to the gold record award aesthetic. The overall mood is analog warmth meets industrial precision: the site trusts its product photography (vinyl close-ups, pressing machines, factory floor) over decorative illustration, and every spacing decision — from the 64px section gaps (`{spacing.section}`) to the 24px padding inside cards — feels deliberate, like a well-cut groove.
 
@@ -358,6 +362,13 @@ components:
 - Accordion components (FAQ, service details) collapse by default on all breakpoints, expanding on click
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Moonkie"
 source_url: "https://moonkieshop.com"
 captured_at: "2026-09-28T04:53:37.063086+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Moonkie's storefront CSS shows a warm, muted palette built around a taupe-brown
   (#917b69) used for the mini-cart checkout button and inline text links, paired
@@ -170,6 +174,13 @@ Recommended breakpoints (proposed, not measured):
 Touch targets should meet a minimum 44px height, matching the observed `--button-small-height: 44px`; primary buttons use the observed 52px height at all sizes. Mega-menu collapse into an accordion or drawer on mobile is a standard proposal, not an observed interaction.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Remus Innovation"
 source_url: "https://remus.eu"
 captured_at: "2026-09-28T10:00:39.277007+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The extracted evidence shows a high-contrast, editorial system built on a
   near-black ink (#000000/#161516/#212121) against a white canvas (#ffffff),
@@ -149,6 +153,13 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets should be at least 44×44px for nav items, buttons, and the vehicle-fitment-selector controls. Navigation is assumed to collapse into a slide-out or dropdown menu below the `md` breakpoint, consistent with the "Menu Menu" duplication seen in the extracted text (suggesting a toggled mobile menu state), though this interaction was not directly observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This specification is derived from static CSS and text extraction only; no rendered page, computed layout, or interaction states were observed. Semantic color roles (primary red, muted plum, surface tones) are inferred from palette position and typical brand usage, not from confirmed element screenshots. All font sizes beyond the two directly observed utility classes (body-sm, body-md) are proposed conventions scaled from those values. Rounded and spacing scales are conventional proposals, not extracted from the CSS. Hover, focus, active, and disabled states for all components are proposed and unverified. Mobile menu behavior, breakpoint values, and touch-target sizing are recommendations only. The custom font "gtAmerica" is referenced via CSS variable but its license, weights availability, and self-hosting terms were not verified from the supplied evidence.

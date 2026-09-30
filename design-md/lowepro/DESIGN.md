@@ -4,6 +4,10 @@ name: "Lowepro"
 source_url: "https://lowepro.com"
 captured_at: "2026-09-28T05:05:18.939324+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Lowepro's stylesheet exposes a Bootstrap-derived variable system layered with a
   custom brand palette. The primary accent is a saturated safety orange
@@ -183,6 +187,13 @@ Recommended breakpoints (not measured, proposed only), loosely aligned with the 
 Touch targets should be at least 44×44px for primary buttons and nav items on mobile. The nav-bar and region-selector should collapse into a hamburger/menu drawer below `md`, per common e-commerce convention — not a confirmed behavior of this site.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

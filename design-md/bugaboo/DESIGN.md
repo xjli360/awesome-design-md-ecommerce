@@ -4,6 +4,10 @@ name: "Bugaboo"
 source_url: "https://bugaboo.com"
 captured_at: "2026-09-28T04:22:09.233612+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Bugaboo's storefront CSS points to a restrained, monochrome-led palette anchored by a near-black
   (#0f0f02) used for primary buttons and loading states, set against white and warm off-white
@@ -167,6 +171,14 @@ This is a recommendation based on inferred conventions and the observed `--conta
 Touch targets should be at minimum 44x44px for buttons and nav items; the pill button and search patterns should collapse to icon-only or full-width variants on mobile. Navigation is assumed to collapse into a toggle/hamburger pattern given the repeated "Toggle navigation" text in the page title metadata, though the exact mobile menu structure was not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS and metadata extraction only; no live rendering, DOM inspection, or interaction testing was performed. Breakpoint values are inferred from CSS custom-property redefinitions of `--header-offset-height` and `--container-width`, not from confirmed `@media` ranges. Many palette colors (greens, reds, ambers, blues) appear only in isolated rules and their semantic roles (success/error/warning/info) are inferred from common convention, not confirmed usage. Hover, focus-visible, and loading-state styles exist in CSS (e.g., `.c-button.is--loading`) but their visual/motion behavior was not directly observed. Mobile menu structure, hero content, footer layout, and product-card markup are proposed patterns, not extracted layouts. The "AeonikPro" font's licensing, availability, and full weight range are not verified; fallback stacks are provided for resilience. All typography sizes beyond the confirmed button style (14px/500/1.35) are proposed, not measured.

@@ -4,6 +4,10 @@ name: "Liquid Death"
 source_url: "https://liquiddeath.com"
 captured_at: "2026-09-29T04:09:22.573122+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Liquid Death presents itself as a Shopify-hosted storefront for canned mountain water, sparkling
   water, energy drinks and iced tea, wrapped in a heavy-metal, mock-horror brand voice ("Murder Your
@@ -161,6 +165,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be at least 44px in height for buttons and nav links (per the observed accelerated-checkout button clamp of 25–55px). Navigation should collapse below `md`; carousel arrows (per the observed `.flickity-button` rule) should remain tappable at the same 44px minimum. No mobile layout or breakpoint values were directly observed; this table is a proposal only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

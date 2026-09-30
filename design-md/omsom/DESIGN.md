@@ -4,6 +4,10 @@ name: "Omsom"
 source_url: "https://omsom.com"
 captured_at: "2026-09-28T05:00:52.441231+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Omsom sells bold, chef-partnered Asian sauces and starters, and the observed
   palette reflects that "proud + loud" positioning: a dominant vivid purple
@@ -161,6 +165,13 @@ This is a recommendation only; no live responsive/mobile layout was observed.
 Touch targets should be at least 44px in height for buttons and nav items; collapse nav into a slide-out or dropdown menu below the tablet breakpoint. These values are proposed defaults, not measured from the live site.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Evidence was limited to a small CSS excerpt and hashed/obfuscated selectors (e.g., `._99eNQQ.gFh1Bw .SJUElg`), so exact component styling, spacing tokens, and hover/focus states could not be confirmed.

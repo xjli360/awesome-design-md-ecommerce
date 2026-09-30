@@ -4,6 +4,10 @@ name: "The North Way Studio"
 source_url: "https://www.thenorthwaystudio.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deeper than the bridal-blush palettes that dominate the category, The North Way Studio anchors its visual language in a near-black forest green (#243125) — a color more at home in pine shadow than on a jewelry pedestal, and exactly the choice that makes the brand feel like a studio rather than a boutique. Against it, honeyed parchment (#f5ebdf) and a barely-there canvas (#fffefc) carry product photography without competition, letting metal surfaces and stone inclusions do the speaking that copy usually crowds out. Warm terracotta-gold (#cd9b77) surfaces as an accent — not the flat corporate gold of mass-market wedding jewelry, but something closer to the tone of reclaimed brass or sun-aged copper, reinforcing the studio's handmade positioning. The muted taupe mid-tones (#bebba4, #e6e2e1) prevent any two surfaces from snapping against each other harshly; every border and card background feels as though it was laid in the same low northern light.
 
@@ -320,6 +324,13 @@ components:
 - Ring-sizer tool opens as a full-screen modal on mobile; an inline side panel on desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Oster"
 source_url: "https://www.oster.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Brushed stainless steel on a white laminate counter — that is the image Oster builds every page around, and the entire design system exists to stay out of the photograph's way. The sole brand accent is a saturated warm red (#DA291C) pulled from decades of packaging, blister cards, and the wordmark lockup; it fires on "Add to Cart" bars, sale callouts, and the persistent mobile CTA strip, always set against `{colors.on-primary}` white at contrast ratios well above 4.5:1. Ink sits at #313131, a soft charcoal that avoids the clinical edge of true black and pairs naturally with the system-native font stack headed by -apple-system, Segoe UI, and Roboto — Oster treats typography as plumbing, not decoration, letting product photography carry the visual weight. Display headings land between 28–36px at weight 700, heavy enough to anchor spec-dense detail pages where wattage, cubic-foot capacity, and preset counts compete for attention, while body copy at 16px/1.5 in weight 400 keeps feature lists and care instructions scannable across a long vertical scroll. A dark navy-charcoal (#2D3142) surfaces in the top navigation bar, the footer, and comparison-table headers, grounding the red without competing for attention. Cards use `{rounded.sm}` corners with a 1px `{colors.hairline}` border and zero drop-shadow — utilitarian, catalog-grid clean — while product imagery fills a fixed 4:3 frame on a `{colors.surface-soft}` neutral background that makes chrome finishes pop. Buttons are compact rectangles (`{rounded.xs}`, 48px tall, 14px vertical padding) sized for toolbar-style filter bars yet comfortable enough for touch. Sale badges snap to the card's top-left with `{spacing.sm}` inset, using `{typography.badge}` uppercase type at 11px/700 on the same `{colors.primary}` red. The layout grid caps at 1280px with `{spacing.section}` vertical rhythm between hero, feature grid, comparison table, and review blocks — an appliance showroom rendered in markup, with just enough red to steer the eye toward conversion.
 
@@ -483,6 +487,13 @@ components:
 - Promo bar: full text -> truncated with ellipsis on narrow viewports
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

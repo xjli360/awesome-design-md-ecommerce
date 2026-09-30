@@ -4,6 +4,10 @@ name: "Domino Mart"
 source_url: "https://www.dominomart.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep blue #003399 anchors Domino Mart’s identity — not as a corporate navy but as a saturated, almost electric ultramarine that appears on the primary button, the top nav background, and the site’s favicon, giving the label-shop a sense of authoritative calm rather than loud hype. The canvas is a clean white, letting the blue and a small set of accent tones — a sharp red #e71c42 for sale badges and a warm beige #f18e7e for secondary highlights — do the work of hierarchy without visual clutter. Typography runs system-native: the stack of -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, and sans-serif means the site loads instantly with no custom font overhead, a practical choice that reads as quietly confident. Buttons are rectangular with a subtle {rounded.sm} radius, and the search bar follows the same logic — no pill shapes, no floating orbs, just clean, functional geometry. The product grid uses generous {spacing.lg} gutters and cards with a soft shadow and {rounded.md} corners, letting album art and merchandise photography breathe. The footer is dense with links in {colors.muted} on a {colors.surface-soft} background, a familiar e-commerce pattern that prioritizes discoverability over decoration. Domino Mart feels like a record store that knows its catalog is the star — the design steps back, uses a single strong color as its handshake, and otherwise gets out of the way.
 
@@ -251,6 +255,13 @@ components:
 - Search bar moves from inline in the nav to a full-width element below the nav on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

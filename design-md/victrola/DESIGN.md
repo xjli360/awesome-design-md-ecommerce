@@ -4,6 +4,10 @@ name: "Victrola"
 source_url: "https://www.victrola.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Victrola drops a needle onto a near-black canvas (#1c1c1c, #202125) and lets a single signal carry — a warm-vinyl orange (#fb661f) lands on every primary CTA, promotional badge, and add-to-cart button across the store. The contrast is deliberate: dark platter-weight hero backgrounds let the orange read as the center label on a 45rpm single, drawing the eye directly to conversion points. Secondary accents are not decorative — they map one-to-one onto product finish variants. Turntables sold in limited colorways surface directly as UI swatch circles: mustard-gold (#facd34, #e8db34), dust-rose (#db5b70), midnight teal (#025f70), maritime navy (#00247a), cognac brown (#5f3f3f), and a vintage warm-cream (#edebdf) that evokes the texture of kraft paper inner sleeves. The palette is the catalog. Type runs entirely on system font stacks (Arial, Helvetica Neue, -apple-system) with display headlines pushed to weight 700 and body copy held at 400 — a narrow range that favors shelf-tag legibility over typographic personality. The absence of a custom typeface is offset by strong product photography: turntables against dark environments carry the aesthetic weight that proprietary type would otherwise need to provide. Button and card corners use modest radii ({rounded.sm} 8px to {rounded.md} 12px) — direct enough for a hardware retailer, soft enough to avoid grid-catalog austerity. The neutral gray skeleton (#e5e5e5, #ededed, #c8c8c8) manages hairlines, input borders, and card separators, while the off-cream wash (#edebdf) recurs as a warm section background — an analog surface cue inside a digital catalog.
 
@@ -327,6 +331,13 @@ components:
 - Color swatch rows truncate beyond 6 swatches on mobile with a "+N more" text expander
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

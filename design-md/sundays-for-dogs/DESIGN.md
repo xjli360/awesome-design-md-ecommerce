@@ -4,6 +4,10 @@ name: "Sundays for Dogs"
 source_url: "https://sundaysfordogs.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The marigold-yellow primary (#f2d001) set against warm parchment (#fff4e6) is an unusual design bet for pet food — most competitors reach for clean white or clinical blue, but Sundays bets on something that reads like a Saturday farmer's market stall, grain sacks in sunlight. Monument, a wide geometric display sans, carries the brand's top-of-funnel declarations at scale while Garamond Book and Garamond Light handle the ingredient narrative below, producing a bifurcated typographic register: geometry for the shout, old-press serif for the story. Deep forest greens (#003005, #116600) anchor everything — appearing in text, borders, and dense illustrative foliage — so the warmth of the yellow reads as earned rather than cheery. The warm canvas (#fff4e6) is not a lazy off-white but a baked, slightly orange-tinted parchment that makes the brand feel edible-adjacent even before a product image loads. Secondary yellows (#ffdf5d, #ffda00, #ffed80) modulate the primary across hover, badge, and disabled states without ever abandoning the hue family — the palette has the internal consistency of a recipe, not a mood board. Sage (#abb39c) plays supporting role as a desaturated mid-tone, appearing in ingredient chips, secondary borders, and muted labels where the green family would be too loud. Pill-shaped badges (`{rounded.full}`) label protein source, production method, and certifications directly on product cards, making regulatory-speak feel like a menu callout. Alert and status colors (#ff0000, #008000) are strictly utilitarian — form validation, stock status — and carry zero brand weight. The subscription model surfaces through a persistent warm-tinted callout component, using golden yellows and the deep forest ink to frame recurring-delivery offers as a household staple rather than a cost-saving transaction.
 
@@ -410,6 +414,13 @@ components:
 - Nutrition panel: full width on mobile, max 480px on desktop, centered
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

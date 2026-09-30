@@ -4,6 +4,10 @@ name: "Alvarez Guitars"
 source_url: "https://www.alvarezguitars.com"
 captured_at: "2026-09-29T04:11:02.775003+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from Alvarez Guitars' WordPress-based storefront, whose exposed CSS shows a neutral, utility-driven palette dominated by grayscale values (#1f1f1f, #333333, #666666, #dddddd, #f7f7f7) alongside a Bootstrap-derived accent set (#0275d8 blue, #5cb85c green, #f0ad4e amber, #d9534f red, #5bc0de cyan). No brand-specific hex beyond this system was present in the evidence, so the interpretation treats the dark grays as primary ink and the blue as the sole strong accent for interactive elements, both labeled inferred roles rather than confirmed brand colors. A warm tan (#c8bfb2) appears in the palette and is proposed here as an optional wood-toned accent for badges or dividers, evoking the instrument material without asserting it as a verified brand color. Typography draws only from families actually present in the CSS/font list: acumin-pro and freight-sans-pro (likely body/heading webfonts), Open Sans and Raleway (utility/plugin fonts), and system-ui/Helvetica/Arial fallbacks. Layout patterns (hero, product grid, series cards, comparator UI) are inferred from page-text structure (Latest Products, Featured Guitars, Explore by Series) and plugin selectors (guitar-comparator), not from measured rendering. All sizing, spacing, and radius values are proposed defaults suited to a photography-forward instrument catalog, not extracted measurements.
 
@@ -135,6 +139,14 @@ components:
 Recommended, not measured: mobile <768px collapses the nav into a toggled menu with 44px-minimum touch targets; product/series grids drop from 3–4 columns to 1–2 columns; the comparator panel stacks vertically below 768px. Breakpoint table (proposed): mobile 0–599px (1-col), tablet 600–959px (2-col), desktop 960–1279px (3-col), wide ≥1280px (4-col). Buttons and comparator controls should maintain a minimum 44×44px tappable area on touch devices; none of this was verified via live rendering.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived solely from static CSS/text extraction; no live rendering, hover states, animations, or actual breakpoints were observed. Color roles (primary, muted, accent-wood, etc.) are inferred assignments from a generic Bootstrap-influenced palette, not confirmed brand guidelines — the true Alvarez brand palette may differ from what this shared plugin/theme CSS exposes. Typography sizes and weights beyond the two `--wp--preset--font-size` values (16px, 42px) are proposed, not measured. Font family availability, licensing, and actual application (which text uses acumin-pro vs. freight-sans-pro vs. Open Sans) were not verified. Mobile menu behavior, carousel mechanics ("Explore by Series," "Latest Models"), and comparator interaction states are inferred from selector names only. No imagery, iconography, or grid measurements were confirmed from rendered pages.

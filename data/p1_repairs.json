@@ -1,0 +1,28 @@
+[
+  {
+    "slug": "dang-foods",
+    "token": "colors.accent-teal",
+    "before": "#aadddd",
+    "after": "#ffb500",
+    "reason": "CSS selector is not a color declaration; reuse existing observed token, role remains proposed."
+  },
+  {
+    "slug": "marshall-headphon-2",
+    "token": "colors.success-soft",
+    "before": "#aaddaa",
+    "after": "#1a1a1a",
+    "reason": "CSS selector is not a color declaration; reuse existing observed token, role remains proposed."
+  },
+  {
+    "slug": "kenwood",
+    "before": "\"Courier New\", monospace",
+    "after": "monospace",
+    "reason": "Legacy underscore font property is not a modern font-family declaration."
+  },
+  {
+    "slug": "kicker",
+    "before": "Gotham-Black, Helvetica Neue, Arial, sans-serif",
+    "after": "Helvetica Neue, Arial, sans-serif",
+    "reason": "Legacy underscore font property is not a modern font-family declaration."
+  }
+]

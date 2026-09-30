@@ -4,6 +4,10 @@ name: "The Honest Kitchen"
 source_url: "https://thehonestkitchen.com"
 captured_at: "2026-09-28T09:02:55.235790+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The Honest Kitchen's storefront theme (Shopify, evidenced by theme.BpMpUrW1.asset.min.css) pairs a warm,
   food-safe palette with a condensed display typeface. Observed CSS variables define --primary-font: Graphik
@@ -149,6 +153,11 @@ components:
 Touch targets should meet the theme's own `--touch-target-size` tokens (32px baseline, 44px on touch devices, per CSS). This table is a recommendation based on token evidence, not measured breakpoint behavior on the live site.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Color-role assignments (primary accent, surface tiers) are inferred from a static palette dump; no rendered screenshots were available to confirm actual usage context.

@@ -4,6 +4,10 @@ name: "Activist Skincare"
 source_url: "https://activistskincare.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A brand built on the conviction that effective skincare and environmental responsibility are not mutually exclusive, Activist Skincare communicates its mission through a palette rooted in nature and a typographic voice that feels both grounded and modern. The primary green (#108474) acts as the brand's visual anchor, appearing across buttons, badges, and key interactive elements, while a deeper forest tone (#0a4021) provides weight and hierarchy. The canvas is a warm off-white (#f9fafb) that softens the digital experience, complemented by a secondary cream (#f8f2e3) that evokes recycled paper and sustainable packaging. Accents of yellow (#fbcd0a) and teal (#c1e6e6) add moments of brightness and freshness, while the extensive use of light grays (#eeeeee, #dddddd, #dadada) creates a clean, airy structure. The brand's signature typographic move is the use of a condensed display font, FeatureDisplayCondensed or Vinila-Compressed, for headlines and hero text, lending a bold, editorial feel that contrasts with the softer, more readable body copy set in Halant or Nunito Sans. This interplay of compressed, assertive headlines and warm, approachable body text mirrors the brand's core message: that activism can be both powerful and inviting. Rounded corners, from soft pills (`{rounded.full}`) to gentle card radii (`{rounded.sm}`), reinforce a tactile, approachable quality, while generous spacing (`{spacing.section}`) gives each product and message room to breathe, avoiding the clutter of conventional beauty e-commerce.
 
@@ -301,6 +305,14 @@ components:
 - Hero sections may reduce to a single image with text overlay.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

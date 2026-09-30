@@ -4,6 +4,10 @@ name: "Goal Zero"
 source_url: "https://www.goalzero.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The charge indicator on a Yeti power station glows the same high-voltage chartreuse as every primary CTA on goalzero.com — #cad618, a color that functions less as brand identity and more as a live readout: power available, action possible. The entire design system is organized around this signal color sitting against deep near-black infrastructure (#212121, #231f20), creating a contrast vocabulary borrowed from instrument panels rather than consumer storefronts. Galaxie Polaris, Goal Zero's primary typeface, is a geometric sans-serif that carries a precision-tool character; its Condensed variant handles campaign headers and product names at tight line-heights and compressed widths, while Galaxie Polaris Book runs body copy at relaxed 1.5 spacing. Button labels are uppercase and tracked — a convention from outdoor gear labeling, where every call-to-action reads more like a toggle switch than a soft invitation. A secondary tier of steel blues (#7796a8, #1c9ad6, #003f84) manages informational hierarchy: spec callouts, informational links, and availability notices occupy the blue register while all purchase-intent surfaces hold `{colors.primary}` chartreuse. Cards are nearly square-cornered — `{rounded.xs}` throughout — with #d2d3d3 hairline borders giving the product grid a technical-catalog rigor. The promo bar above the nav and CTA overlays on hero images share the same `{colors.primary}` fill, keeping commercial pressure visible and consistent without bleeding into the interface chrome. Error and alert states step to #d20000 against white, isolating urgency from promotional voltage. Deep `{colors.dark-surface}` footers absorb the page into darkness, with `{colors.light-gray}` navigation links providing quiet exit paths while `{colors.on-dark}` text anchors legal and support content.
 
@@ -367,6 +371,13 @@ components:
 - Product card image wells maintain square aspect ratio at all breakpoints; card body below image flexes to content
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

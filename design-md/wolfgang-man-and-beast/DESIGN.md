@@ -4,6 +4,10 @@ name: "Wolfgang Man & Beast"
 source_url: "https://wolfgangusa.com"
 captured_at: "2026-09-29T03:53:12.902218+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Wolfgang's storefront CSS exposes a compact, high-contrast system built around a near-black ink
   (#212322) paired with a signature aqua-teal accent (#7eddd3) used as the primary button and
@@ -191,6 +195,13 @@ This table is a recommendation only — no media queries or breakpoint values we
 supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

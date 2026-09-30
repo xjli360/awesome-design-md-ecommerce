@@ -4,6 +4,10 @@ name: "Indochino"
 source_url: "https://indochino.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The measurement form is the product. Before any suit ships, Indochino collects around twenty body measurements — chest, waist, seat, inseam, sleeve pitch — and that exacting sequence is embedded in the digital interface at every level. The palette reflects the same economy: three near-white surfaces (#fafbfc, #f0f1f2, #f0eeee) layer beneath product photography with almost no differentiation, creating a blank-form backdrop that lets imagery carry all persuasive weight. The single departure from this restraint is #ce0e2d, a high-saturation crimson — not burgundy, not oxblood, but closer to a signal flare — which appears on the primary CTA, the promo banner, the wordmark, and nowhere else. Its isolation is the entire point: in a palette this muted, one fully saturated hue carries enormous pressure per pixel. Roboto handles all typographic work at every scale, running at weight 700 for display headlines and stepping to 400 for body copy without ever switching families. This mono-family discipline suits a brand that sells precision over poetry; type here is a delivery mechanism, not an aesthetic statement. Display lines sit around 36–40px with tight letter-spacing that evokes editorial menswear catalogue formatting rather than tech-startup energy. The measurement customization flow — six to eight steps from fabric through lining, lapel, button stance, and fit — is navigated via a `{rounded.full}` step-indicator with the active pip in `{colors.primary}`. Fabric swatches render as square thumbnails in a scrollable grid; the selected state draws a 2px ring in `{colors.primary}`. A soft pink surface (#fcf0f2), aliased as `{colors.primary-light}`, appears on hover and active configurator states, warming the otherwise cool-gray stack just enough to register without announcing itself. Medium gray (#b1b5b8) handles all secondary text, disabled inputs, and placeholder labels throughout. The effect is sober and competent — the brand correctly assumes its customer already decided he wants a suit before he opened the browser.
 
@@ -310,6 +314,13 @@ components:
 - Product card hover shadow disabled on touch; tap triggers a bottom-sheet quick-view with CTA and swatch selector
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

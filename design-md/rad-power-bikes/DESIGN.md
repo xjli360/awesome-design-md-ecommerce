@@ -4,6 +4,10 @@ name: "Rad Power Bikes"
 source_url: "https://www.radpowerbikes.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A single marigold-amber — #fcbc3d — does the work that most vehicle brands spread across an entire primary/secondary/tertiary palette: it appears on every CTA button, category tab highlight, price-accent chip, and configurator swatch, anchoring a storefront that sells $1,500–$2,000 electric bikes with the warmth of outdoor gear rather than the clinical sheen of automotive tech. The canvas is not pure white but #faf9f5, a faint cream that makes product photography read like print catalog pages; ink is near-black #282a2c rather than true black, softening the contrast just enough to feel approachable. Marfa, a geometric sans-serif with humanist apertures, is the sole typeface — all hierarchy is built from weight and size contrast alone, with display headlines sitting wide and confident at 56px/700 weight while spec labels drop to 11px uppercase for stat-dense comparison rows. Corners are consistently 8px across buttons, inputs, and product cards — modern without going fully pill-shaped. Burnt orange (#cb4e17) and coral (#f3743c) are reserved for urgency surfaces: sitewide sale banners, low-stock alerts, countdown timers. A disciplined teal (#078466) handles positive confirmation states — in-stock dots and checkout success marks — without expanding into a second brand color. The primary amber has a formal warm tint ramp stepping through #ffca60, #fddd9e, and #fff8ec for hover washes, disabled states, and promotional fills. Dark grays (#404040, #4a4e52) carry secondary body copy and spec metadata, keeping the color energy focused on the amber-anchored CTA system rather than dispersed across the grid.
 
@@ -416,6 +420,13 @@ components:
 - Category pill rail on shop page becomes horizontally scrollable on mobile rather than wrapping to multiple rows
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

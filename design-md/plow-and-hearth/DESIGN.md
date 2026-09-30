@@ -4,6 +4,10 @@ name: "Plow & Hearth"
 source_url: "https://www.plowhearth.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Orange embers pressed against parchment — the CTA flame of #ff6600 lands against warm cream (#f7f1e1) with the same logic as a lit lantern at garden-dusk: functional heat that reads as comfort rather than urgency. The palette divides cleanly into two registers. A cool utility layer of near-whites and light grays (#f7f7f7, #f9f9f9, #fafafa) keeps the product catalog airy and scannable; a warm heritage layer — cream (#f7f1e1), sand-tan (#c9ad90), forest green (#2a5135), and that campfire orange — carries the homestead identity the brand name promises. The deep navy (#0f172a) anchors footers and utility bars, a shade that arrives looking like wood-smoke charcoal rather than tech neutral because the surrounding warmth earns it.
 
@@ -373,6 +377,13 @@ components:
 - Promo banner text truncates to a single headline at mobile; any secondary CTA link becomes an expand trigger
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

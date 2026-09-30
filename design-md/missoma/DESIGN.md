@@ -4,6 +4,10 @@ name: "Missoma"
 source_url: "https://missoma.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   IvyPresto Headline arrives at Missoma with the authority of a fashion-magazine masthead: high-contrast bracketed serifs, pronounced stroke modulation, and a self-possession that makes even a sale callout feel intentional. Set against a near-black canvas (#121212), these display cuts occupy the page the way a statement piece occupies a wrist — there is no negotiating with them. The secondary typographic voice is Neue Haas Grotesk Text, an unadorned grotesque that absorbs product names, filter labels, and pricing without drawing attention to itself, leaving the visual field clear for gold on skin.
 
@@ -322,6 +326,13 @@ components:
 - Quick-add hover interactions on product cards are suppressed on touch devices; the add action moves to the product detail page
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

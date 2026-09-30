@@ -4,6 +4,10 @@ name: "Dimplex"
 source_url: "https://www.glendimplexamericas.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Steel-blue light at #005faa floods the interface the way halogen floods a showroom floor — it is the single dominant hue across navigation bars, CTAs, and product-category headers, lending a corporate precision to a company whose products produce actual warmth. Glen Dimplex Americas runs its digital presence on a tightly controlled blue spectrum: primary actions sit at #005faa, hover states deepen to #004b96, and deep-navy banners (#003782, #000083) anchor hero sections where electric fireplaces glow against near-black backgrounds. Against this cool authority, a warm brown (#85644f) surfaces in product lifestyle imagery and accent borders — the only chromatic nod on the page that visually acknowledges flame. A secondary teal (#15576f) distinguishes outdoor and ventilation product lines from the core indoor fireplace catalog, creating a wayfinding system that is color-coded rather than icon-driven. Typography loads through CSS custom-property aliases (`main`, `alt`) that resolve at runtime, making the actual typeface opaque to extraction, but the rendered result reads as a clean geometric sans-serif in the Helvetica Neue / Roboto lineage: moderate x-height, tight letterspacing on headlines, generous line-height on specification copy. Display headings run bold at 36–48px for hero headlines, dropping to 600-weight at 22–28px for section titles — nothing shouts, because the product photography (glowing ember beds, linear flame walls, outdoor patio scenes) carries the emotional register. Cards use `{rounded.xs}` corners and rest on `{colors.surface-soft}` (#f5f5f5) panels that keep the grid feeling architectural rather than playful; buttons are squared-off with `{rounded.xs}` to echo the rectilinear geometry of mantel surrounds and linear fireplaces. Spacing is generous but metronomic — `{spacing.section}` between major content blocks, `{spacing.lg}` between product cards — producing a vertical rhythm that gives large product images room to breathe. An amber accent (#d39e00) handles warning states and energy-rating badges, while red (#bd2130) marks form errors and out-of-stock flags, rounding out a palette that is overwhelmingly blue-and-gray with deliberate, product-motivated warm punctuation.
 
@@ -480,6 +484,13 @@ components:
 - Footer columns collapse into accordions on mobile, with headings acting as toggle triggers.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

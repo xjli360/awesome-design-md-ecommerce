@@ -4,6 +4,10 @@ name: "Romoss"
 source_url: "https://www.romoss.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Electric cyan (#00dbdb) pulses through Romoss's interface like current through a charging cable — a single, unmistakable voltage that marks every primary CTA, progress indicator, and product highlight against an otherwise restrained gray-and-white canvas. The color system draws from adjacent teal (#2cb2c2) for hover and active states, creating a subtle thermal gradient that reinforces the brand's energy-transfer identity without ever feeling garish. Typography runs entirely on Outfit, a geometric sans-serif whose open counters and uniform stroke width give technical specifications the same visual clarity as marketing headlines; display sizes stay at 600–700 weight while body copy sits at 400, trusting the font's inherent legibility over heavy contrast. OPPOSansM appears as a secondary CJK stack for Chinese-language content, maintaining the same geometric DNA across scripts. Surface architecture is flat and panel-based: product cards lift on `{rounded.sm}` corners with barely-there `{colors.hairline}` borders, hero sections run full-bleed on `{colors.canvas}` with oversized product photography dominating the viewport, and specification tables alternate between `{colors.surface-soft}` and white rows for scanability. The near-black ink (#231815) carries a warm brown undertone that softens the otherwise clinical tech aesthetic, while a generous neutral palette (#f5f5f5, #f0f0f0, #e5e5e5) provides layering without visual noise. Warning and error states borrow from a standard utility palette — coral (#f56c6c) for alerts, amber (#e6a23c) for cautions — keeping the cyan channel exclusively for brand affirmation. Button radii stay compact at `{rounded.xs}` to `{rounded.sm}`, projecting precision over friendliness, while pill shapes (`{rounded.full}`) appear only on tags and status badges. Spacing is generous at the section level (`{spacing.section}`) but tight within product grids, compressing information density where shoppers compare mAh ratings and port counts side by side.
 
@@ -422,6 +426,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Hatch"
 source_url: "https://hatch.co"
 captured_at: "2026-09-28T09:39:44.984671+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Hatch's public site pairs a warm, paper-like canvas (#faf8f4, #f1ebe1) with a deep navy anchor color drawn from CSS custom properties such as --hdc-navy-1000, used for primary buttons, the nav submit action, and product name text. Observed hex values in the surrounding palette (#13294b, #0a1a34, #274d7b, #040f1f) form a plausible navy family; #13294b is proposed as the resolved primary since it sits mid-scale and pairs cleanly with white text. Neutral UI grays (#111827, #374151, #6b7280, #e5e7eb) handle body copy, muted labels, and hairlines, consistent with a Tailwind-influenced utility system layered under a custom design language. A terracotta accent (#b5541a) and soft tan (#e3d5c5) appear in the palette and are inferred as a secondary/warm accent for badges or highlights, not confirmed as primary brand color. Typography relies on three custom font families declared in :root — ttCommonsPro (default UI text), enfantine, and exposure (both likely display/editorial faces) — each with explicit fallback tokens, generic sans/serif fallbacks are assumed since none were declared. Rounded values span pill-shaped shop buttons (100px), 16px back-buttons, and 8px submit buttons, all directly observed in CSS.
 
@@ -141,6 +145,13 @@ components:
 Recommended (not measured) breakpoints: mobile ≤480px, tablet 481–768px, desktop 769–1200px, wide ≥1201px. The 64px nav height should collapse into a hamburger/back-button pattern below tablet width, consistent with the observed `.style-module__IpXK2a__backButton` mobile-nav-return control. Touch targets should be ≥44px; button-primary's 52px height (seen in `.submitButton`) already satisfies this. Product-card grids are recommended to reflow from multi-column to single-column stacking under 768px. This section is a proposed recommendation only; no live responsive behavior was observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Lakeshore Learning"
 source_url: "https://www.lakeshorelearning.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every category landing page signals its subject before a word is read — a manipulative math tile in warm red (#e8392a), a language-arts badge in cobalt blue (#1a6fb8), a science kit ringed in leaf green (#3a9e4d). Lakeshore Learning operates five distinct accent hues as a semantic taxonomy: age-group, subject area, and grade-level are encoded in color rather than left to text labels alone. The primary red carries logo, primary CTA, and sale-badge simultaneously and never appears as decoration. Canvas is hard white with minimal surface tinting; product photography supplies all warmth and visual density, so the grid can run short padding stacks and still read as generous.
 
@@ -433,6 +437,13 @@ components:
 - Footer columns stack to 2-column layout on tablet and a single-column accordion (expand/collapse per subject group) on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

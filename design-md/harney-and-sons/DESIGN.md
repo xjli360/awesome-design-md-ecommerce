@@ -4,6 +4,10 @@ name: "Harney & Sons"
 source_url: "https://harney.com"
 captured_at: "2026-09-28T09:45:39.026256+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is grounded in Harney & Sons' Shopify-rendered storefront CSS, where a warm antique-gold (#c6a95a) drives primary buttons, paired with near-black text (#111111) for contrast — an inferred "old-world tea merchant" palette rather than a confirmed brand guideline. Cream and off-white tones (#fffcf5, #fafafa, #f5f5f5) suggest a soft, paper-like canvas appropriate to a heritage tea purveyor, while a muted olive-gold hover state (#b0913d) and a deeper bronze (#8a722f) provide secondary emphasis. A thin neutral hairline (#d9dbdc) matches the observed sticky-header border token. Typography is anchored by Cardo, a serif observed directly in the CSS, used here for display and heading roles to evoke tradition and craft; sans-serif is reserved for body copy and UI labels since a specific sans family was not named in evidence, only the generic fallback. Heading scale (12–56px+) is taken from the site's own custom-property tokens across breakpoints. Buttons, forms, and spacing follow the measured --button-height (52px) and --form-input-field-height (52px) tokens. Rounded corners, several spacing values, and some component states (hover, focus, mobile nav collapse) are proposed conventions, not confirmed from the supplied evidence, and are labeled accordingly throughout.
 
@@ -143,6 +147,13 @@ components:
 Recommended breakpoints (not measured from live site): mobile <640px, tablet 640–1024px, desktop >1024px. The `:root` token sets (52px→64px large heading; 64px→90px vertical breather) suggest at least two responsive tiers already exist in the source CSS, likely tablet and desktop. Proposed guidance: collapse the mega-menu navigation into a slide-out drawer below 1024px; stack hero text above imagery below 640px; maintain a minimum 44px touch target for nav links and filter pills; product grids should reflow from multi-column to 2-column (tablet) to single-column (mobile). These are recommendations for implementation, not observed site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS custom properties, a limited rule sample, and page text — no live rendering, computed styles, or JavaScript-driven states were observed. Component states such as hover, focus, active, and disabled are proposed except where explicitly present in evidence (button-primary hover). Mobile navigation, menu collapse behavior, and touch interactions were not observed and are inferred conventions only. Body font family is not explicitly named in evidence beyond the generic "sans-serif" fallback; Cardo's availability, licensing, and hosting method were not verified. Several color-to-role mappings (footer background, badge, search) are inferred from general palette availability rather than confirmed selectors. Spacing scale beyond the measured 52px control heights and 64–90px vertical breathers is proposed for consistency, not extracted from source.

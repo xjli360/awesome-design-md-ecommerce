@@ -4,6 +4,10 @@ name: "Kit & Kin"
 source_url: "https://kitandkin.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A protective, earth-toned baby-care brand built on a sage-and-charcoal palette anchored by #8baa99 — a muted, silvery green that appears nowhere in the generic web palette and reads as botanical without being sweet. The brand pairs this with #25282a (near-black ink) and #f6f3ee (warm off-white canvas), creating a system that feels grounded and clinical in the best sense: clean enough for a nursery, serious enough for a parent reading ingredient labels. The extracted hex list is unusually large (25+ colors), but the core story is the green-gray gradient from #8baa99 through #a7bdb1 and #9eafa6 to #d7e0da — a tonal family that replaces the pastel pinks and blues typical of baby care. Accents of #7dc4bc (teal) and #a32138 (crimson) add rare jolts of saturation, the latter likely used for sale badges or error states. Gotham is the declared typeface, a geometric sans-serif with military precision that lends authority to product claims and ingredient lists. The brand uses generous whitespace and soft card corners (`{rounded.lg}` ~20px) to offset the seriousness of the type, and the `{rounded.full}` pill shape appears on CTAs and search inputs, echoing the rounded organic forms of baby bottles and teething rings. The overall mood is "trustworthy modernism" — a brand that knows parents are exhausted and skeptical, and responds with clarity, not cuteness.
 
@@ -354,6 +358,13 @@ components:
 - **Wide (> 1440px):** Content constrained to max-width container; backgrounds extend full-width; product grid may show 4 columns for category pages
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "StrapsCo"
 source_url: "https://www.strapsco.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   At 22mm, 20mm, and 18mm, the lug-width filter dominates StrapsCo's navigation hierarchy before a brand name is ever read — a catalog-first stance that positions the site as a precision parts shop rather than a lifestyle boutique. The palette enforces this reading: deep royal blue (#003399) anchors every primary CTA and category header, evoking instrument panels and technical schematics, while orange (#f58220) fires as a high-contrast accent the way a luminous index sits on a dive bezel. Dark slate (#353c4e) frames the navigation bar like a brushed-steel case back — functional and dense. Typography draws entirely from system fonts — Inter and Helvetica Neue — with no bespoke typeface investment; dimensional accuracy (lug width, strap thickness, material composition) is the brand's primary language, not editorial warmth. Surfaces stay neutral: off-white canvases (#f2f2f2, #fafafa) with hairlines in muted gray (#ccc9c9, #d9d9d9) keep photography and strap color swatches as the dominant visual signal. Button geometry favors modest rounding ({rounded.sm}) over the pill shapes lifestyle brands prefer — corners here are working edges, not friendly gestures. Filter sidebars and compatibility selectors are structurally the most prominent UI surfaces, organized around variables a collector actually uses: lug width, case brand, material, buckle type. Error states and discount flags appear in red (#e53e3e), cleanly separated from both blue and orange so no state signal reads ambiguously. The overall interface reads like a well-indexed technical reference — structured, dense with specification, and built for a customer who arrives already knowing the exact millimeter measurement of their watch case.
 
@@ -374,6 +378,13 @@ components:
 - Promo bar remains pinned on all breakpoints with a right-edge dismiss icon; re-appears on page refresh unless cookie is set
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Uplift Desk"
 source_url: "https://www.upliftdesk.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every configurator swatch, primary CTA, and progress indicator on upliftdesk.com resolves to the same electric sky-blue (#04a7e9) — a hue that reads as an engineering-department brand decision rather than a marketing flourish. Behind it, a stack of deep navies (#041f33, #063255, #08406f) provides structural weight, suggesting load-bearing furniture rather than aspirational lifestyle goods. The canvas is a warm near-white (#f9f7f2, #f7f6f4) that keeps photography from reading cold against all that steel and blue. Open Sans carries all UI work — nav labels, configurator dropdowns, spec comparison tables — at utilitarian weights that hold up in dense option matrices a standing-desk buyer must navigate across a multi-session purchase journey. Merriweather appears selectively for editorial and ergonomics-claim copy, lending a research-backed authority that sans-serif alone cannot convey. Sale and urgency moments are contained within a graduated red family (#b52818, #8c2013, #66160d), kept well-separated from the primary blue so the configurator's inherent complexity does not tip into alarm. Corner radius language is conservative throughout — `{rounded.xs}` on spec badges and table cells, `{rounded.sm}` on buttons and panels — reinforcing the idea that what you are configuring is precision hardware, not a consumer soft-good. An accent orange (#ed6325) surfaces on select promotional labels and secondary highlights, adding warmth without contesting the primary blue. Hover depth comes from cooling the blue toward #057feb or #045a80 rather than shifting hue, which preserves orientation through a purchase journey that routinely spans multiple configuration sessions. The overall system reads as a technical instrument calibrated for someone who already knows they want a standing desk and now needs to make thirty granular decisions — not a brand that first has to convince you furniture can have feelings.
 
@@ -441,6 +445,13 @@ components:
 - Editorial image + text sections stack image-first on mobile with text below at full width
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

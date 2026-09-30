@@ -4,6 +4,10 @@ name: "Saddleback Leather"
 source_url: "https://saddlebackleather.com"
 captured_at: "2026-09-28T10:22:46.831734+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Saddleback Leather's storefront runs on a BigCommerce Stencil theme with a
   restrained, craft-goods palette. The observed CSS sets body copy and all
@@ -180,6 +184,13 @@ Breakpoint math is visible in the supplied media-query fragments (approximate bo
 This table is a recommendation derived from the presence of matching media-query breakpoints in the CSS bundle, not a measurement of actual rendered layout or interaction behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Static CSS/text extraction only; no rendered DOM, computed styles, or JavaScript-driven states (mega-menu open state, cart drawer, search overlay) were observed.

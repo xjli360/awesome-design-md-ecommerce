@@ -4,6 +4,10 @@ name: "The Last Bookstore"
 source_url: "https://www.lastbookstorela.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A labyrinth of a bookstore where the walls themselves are made of books — the site mirrors that physical density with a deep charcoal ink (#080808) on a clean white canvas, punctuated by a single sky-blue accent (#7fccf7) that reads like a skylight in a dim, towering stack room. The primary action color (#3899ec) is a cooler, more utilitarian blue, suggesting the site prioritizes function over whimsy — search, browse, cart — while the muted gray (#5f6360) handles secondary text and borders with a quiet, library-like neutrality. Typography defaults to system sans-serifs (Arial, Helvetica, Madefor, Hiragino Kaku Gothic Pro) with no custom display face, a pragmatic choice that lets the bookstore's own character — the sheer strangeness and scale of the physical space — do the heavy lifting. Rounded corners are minimal: buttons get a soft {rounded.sm} (8px), but cards and containers stay at {rounded.none} or {rounded.xs} (4px), preserving a no-nonsense, grid-aligned feel. The nav bar sits fixed at the top, a thin {spacing.sm} strip of white with the logo centered, while the hero section uses a full-bleed image of the store's famous book tunnel, the blue accent appearing only in the search bar and primary CTA. There is no decorative typography, no illustration system, no brand pattern — the design is a frame for the content, deliberately invisible so the books and the store's mythology take center stage.
 
@@ -333,6 +337,13 @@ components:
 - Footer columns collapse to a single column below 744px, with accordion-style expandable link groups.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

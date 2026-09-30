@@ -4,6 +4,10 @@ name: "NEB (New England Biolabs)"
 source_url: "https://www.neb.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The warmest background in molecular biology supply belongs to NEB — a cream-parchment ground (#f9f7f4, #f4f0e9) that evokes the field notebooks of bench scientists who built the company from a 1974 Massachusetts operation into the world's largest collection of DNA-modifying enzymes. While most scientific suppliers default to clinical white, this off-white canvas carries a slight yellowish warmth, a quiet reference to the physical culture of laboratory science where protocols live in spiral-bound notebooks and reagent labels age to yellowed permanence on freezer shelves. Navigation stays sparse and utilitarian: a system-font stack (Arial / Helvetica Neue / Roboto) with no proprietary typeface load detected, letting product data carry the page rather than brand expression. Typography is set at restrained weights — body text at 400, labels at 500, headers at 600 — and sizes don't stretch past 28px even at display scale, calibrated for a catalog audience that scans enzyme names and fidelity ratings rather than lifestyle headlines. The blue-gray muted palette (#94a3b8, #e2e8f0) handles borders and secondary text, creating a slate-cool foil to the warm ground — a tension between the warmth of the canvas and the precision of scientific data. Components built for the catalog context: product cards surface molecular weight, concentration, and activity units at the same visual weight as price; protocol-download links sit as bordered inline elements alongside product actions; and a persistent top-bar search accommodates alphanumeric enzyme naming conventions (M0491S, R0101L) that no consumer auto-suggest was ever built to anticipate. Badges carry specificity rather than marketing urgency — "Hot Start," "High Fidelity," "Epigenetics" — functioning as functional filter tags over promotional callouts. Rounded corners stay at {rounded.xs} and {rounded.sm}, reinforcing a precision-instrument aesthetic rather than the consumer-friendly softness of retail DTC brands.
 
@@ -421,6 +425,13 @@ components:
 - Nav-utility-bar hides on mobile (account/cart folded into hamburger drawer)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

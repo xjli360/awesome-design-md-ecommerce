@@ -4,6 +4,10 @@ name: "Nest Diapers"
 source_url: "https://nestdiapers.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A clean, safe, and sustainable baby care brand built on a deep teal anchor (#115e67) that reads as clinical-soft rather than pastel-nursery — the brand’s primary voltage appears in logo marks, navigation bars, and subscription CTAs, while a warm marigold accent (#ffc945) and a safety-red (#c00000) handle urgency badges and sale flags. The canvas is a near-white (#f2f2f2) that avoids the sterile hospital white of competitors, and the body text runs a modest #212121 on that surface for high contrast without harshness. Typography pairs Poppins (for display and button labels) with Sofia Sans (for body copy), giving the brand a rounded, approachable sans-serif voice that matches the softness of a diaper product without tipping into cutesy. Signature design moves include a pill-shaped search bar (`{rounded.full}`), product cards with generous `{rounded.md}` corners, and a sticky top nav that carries the teal background with white text — a rare inversion that makes the brand feel like a destination rather than a utility. The checkout flow uses Shopify’s native widgets (hence the #34ccdd and #4a9f53 accents in the extracted palette), but the brand’s own color system stays disciplined: teal for trust, marigold for delight, red for urgency, and a soft green (#028e48) for sustainability badges. The overall mood is calm, competent, and parent-friendly — no loud gradients, no heavy shadows, just clean rectangles with subtle rounding and a lot of breathing room.
 
@@ -460,6 +464,13 @@ components:
 - Search bar collapses from inline to full-width overlay on mobile, with auto-focus on the input field
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

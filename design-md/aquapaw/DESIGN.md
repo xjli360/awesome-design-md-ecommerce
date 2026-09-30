@@ -4,6 +4,10 @@ name: "Aquapaw"
 source_url: "https://aquapaw.com"
 captured_at: "2026-09-29T04:11:27.568117+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Aquapaw's storefront CSS centers on a single saturated accent, #00c1ff, applied to the theme's primary `.spr-button` class and unusually also set as the global `html,body` text color — treated here as the brand's signature "aqua" accent used for CTAs and highlight text, not as a literal body-copy color choice for this spec. Supporting neutrals run from near-black (#111111, #222222) through mid grays (#444444, #717171, #cccccc) to light surfaces (#f4f4f4, #f6f6f6, #ffffff), giving a clean, product-photo-forward backdrop typical of a DTC pet-gear shop. Secondary accents appear only in commerce widgets: warm greens (#a1c65b, #4ed14e, #44c767) mark bundle/upsell "add" buttons, while deep red (#8c0000) flags sale pricing and strikethrough comparisons. Headings use Quicksand with Helvetica Neue/sans-serif fallback at weight 500 with slight positive letter-spacing — a rounded, friendly display face fitting a pet-product brand; body copy falls back to plain Arial/Helvetica at 15px with generous 1.6 line-height. No custom font files, breakpoints, or interaction states were present in the supplied evidence, so layout, hover/focus behavior, and responsive rules below are explicitly inferred or proposed, grounded only in the class names and declarations observed (bundle pricing, upsell popups, slideshow markup, satisfaction-guarantee copy).
 
@@ -147,6 +151,14 @@ Recommendation only — no breakpoints, media queries, or mobile layout were pre
 Touch targets on buttons should be at least 44px tall using `{spacing.md}`–`{spacing.lg}` vertical padding; the existing `.spr-button` hover rule (padding-right increases to reveal an arrow icon) implies a min-width/padding buffer for interactive states even on touch, though tap-specific behavior was not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

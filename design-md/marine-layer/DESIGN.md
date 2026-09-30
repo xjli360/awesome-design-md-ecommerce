@@ -4,6 +4,10 @@ name: "Marine Layer"
 source_url: "https://www.marinelayer.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The product photography consistently shows crumpled hems and relaxed posture — no crisp folds, no catalogue stiffness — and the digital palette makes that strategy explicit; only three hex values came through extraction. #121212 near-black handles every primary CTA and product title with flat authority, no gradients, no drop shadows, nothing that implies effort; against a white canvas, #dedede hairlines barely register, creating the impression that product imagery simply floats; #475569 slate manages secondary copy and navigational metadata with enough distance from near-black ink to read hierarchy without opening a second color channel. No brand-voltage accent punches through — the restraint is the entire design position. Primary CTAs run in #121212 with #ffffff type, a dark-button treatment that carries authority without aggression, with the active state falling to pure black and disabled pulling back to a mid-gray, all within the same monochrome register. Font extraction returned nothing, signaling JavaScript-loaded tokens; from widely visible brand usage, Marine Layer deploys a humanist sans-serif at measured weights — display around 500–600, body at 400 — with generous 1.5 line heights that add air without color. Rounded corners are conservative throughout: product cards at {rounded.xs}, CTA buttons at the same, only Re-Spun sustainability pill tags closing to {rounded.full}. Whitespace is the primary layout tool — {spacing.lg} gutters on the product grid, {spacing.section} for section breaks — and the footer gives email capture real estate without decorating it. The whole system communicates one thing: the garment is soft; everything else stays out of the way.
 
@@ -311,6 +315,13 @@ components:
 - Promo banner: full message visible on desktop → shortened to essential offer text on mobile if line wraps
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

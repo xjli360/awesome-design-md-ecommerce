@@ -4,6 +4,10 @@ name: "Watch Collectors"
 source_url: "https://watchcollectorsllc.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Where most luxury e-commerce fights for brightness, Watch Collectors builds its visual language in the dark — near-black canvas layers (#121212, #242424) absorb ambient light and make every dial photograph read like a piece sitting under gallery track lighting. Against that darkness, the champagne-gold signature (#ccb17b) operates precisely as a private dealer's price tag or vitrined boutique signage would: warm, unhurried, unmistakably valuable. The cool silver-gray tones (#dedede, #d4d9db) handle secondary surfaces and form fields, echoing brushed steel and white-gold finishing without attempting to simulate them.
 
@@ -302,6 +306,13 @@ components:
 - `product-card` image aspect ratio held at 4:3 across all breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

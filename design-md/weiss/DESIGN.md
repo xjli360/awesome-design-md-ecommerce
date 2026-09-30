@@ -4,6 +4,10 @@ name: "Weiss"
 source_url: "https://www.weisswatchcompany.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Cameron Weiss operates one of fewer than ten facilities in the United States capable of assembling a mechanical caliber from raw components, and that manufacturing credential shapes every layout decision on weisswatchcompany.com — bench photography appears alongside product photography rather than quarantined behind an "About" link, specification tables lead with jewel count and power reserve before mentioning case material, and the primary CTA is the same near-black (#111111) as the movement plate itself. The site runs on a pure white (#ffffff) canvas with no secondary accent color: no signature coral, no heritage navy. Dial photography, shot high-key against white, carries all the visual energy the system requires, so the interface stays out of the way. A warm off-white (#f8f7f5) surfaces on spec-heavy pages as a tonal section break — the only departure from strict monochrome — and it reads as a reference to tungsten bench lighting rather than a palette choice. Component edges are square or barely softened (`{rounded.xs}` to `{rounded.sm}` at most); pill radii or fully-rounded cards would conflict with the straight-lugged silhouettes in the photography.
 
@@ -365,6 +369,13 @@ components:
 - Movement callout: horizontal padding reduces from `{spacing.xxl}` to `{spacing.base}` on mobile; bench photography remains full-bleed within the block
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Oris"
 source_url: "https://www.oris.ch"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The red of an Oris crown cap — #bf342d, specific enough to be identified across a watchmaker's bench — is the only chromatic commitment the brand permits on a layout otherwise composed entirely of deep charcoal (#2b333f), warm off-white (#f6f6f5), and a hierarchy of mechanical grays. Every primary button, every hover state, every active indicator resolves to that one red, functioning the way the physical crown mark functions on a watch case: a single orienting signal in an otherwise precision-machined object. Brown LL TT, the Swiss geometric sans from Lineto, carries all editorial and navigational text — its even-stroked, optically regularized letterforms sit closer to engineering specification than advertising copy, which suits a brand whose product pages read like technical bulletins as much as luxury retail. Display type runs large and light (weight 300–400), relying on spatial isolation rather than typographic mass; the photography — deep-focus lightbox watches against controlled dark grounds — does the tonal work.
 
@@ -333,6 +337,13 @@ components:
 - `collection-header` headline steps down: `{typography.display-xl}` on desktop → `{typography.display-md}` on tablet → `{typography.display-sm}` on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

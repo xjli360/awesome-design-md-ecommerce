@@ -4,6 +4,10 @@ name: "Rick Steves"
 source_url: "https://ricksteves.com"
 captured_at: "2026-09-28T09:49:11.108859+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Rick Steves' Europe is a long-running travel-planning publisher and small-group tour operator with an integrated online store for guidebooks and travel accessories. The observed CSS shows a utilitarian, content-dense site: white canvas (#ffffff), near-black body copy (#252525), and a signature steel-blue (#005A84) used for headings, the mobile header bar, and tile hover states, paired with a brighter working blue (#007AA3) for tile backgrounds and tab states. A marigold-yellow (#FEBE11) appears as a 3px accent rule under h1 headings and the mobile header border, functioning as the brand's single strong accent against an otherwise restrained blue/gray/white system. Neutral grays (#f7f7f7, #eeeeee, #d1d1d1, #717171) support cards, dividers, and secondary text; muted status colors (#cc0000 error red, #165f2b/#20883e greens) appear in jQuery UI widget states and are inferred as reusable alert/success tokens rather than confirmed brand semantics. Typography is set in ProximaNova (Regular/Bold/Light) with Arial/helvetica/sans-serif fallbacks; Baskerville appears in the family list but its usage context is not evidenced, so it is treated as a possible editorial/serif accent only. This interpretation proposes a practical, information-first component system — tiles, tabs, and form widgets — matching the evidenced jQuery UI and tile-grid patterns, appropriate for a travel-accessories storefront layered onto a publishing site.
 
@@ -150,6 +154,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets are proposed at a minimum 44×44px for buttons and tile links. Navigation collapse (hamburger vs. full menu) is proposed, not confirmed by supplied CSS, which only shows a fixed-height `#mobile-header` without documented breakpoint media queries.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Evidence is static CSS/text extraction only; no rendered layout, interaction states, or real breakpoints were observed.

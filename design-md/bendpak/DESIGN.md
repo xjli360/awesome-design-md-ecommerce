@@ -4,6 +4,10 @@ name: "BendPak"
 source_url: "https://bendpak.com"
 captured_at: "2026-09-28T09:44:44.079457+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The observed palette centers on a dark navy, "#152d45", which recurs across
   multiple opacity variants ("#152d4599", "#152d454d", "#152d4533", "#152d4566",
@@ -172,6 +176,14 @@ The following breakpoints are a recommendation, not measured site behavior:
 Touch targets should be at minimum 44×44px for nav links, search trigger, and cart/account icons given the icon-heavy header (CART, SEARCH, Sign in). Mega-menu categories (Shop, Brands, Solutions, Discover, Resources, Company, Support) should collapse into an accordion or drawer below the `md` breakpoint. None of this is confirmed by observed layout CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "P&S Detail Products"
 source_url: "https://psdetailproducts.com"
 captured_at: "2026-09-28T10:18:55.227422+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   P&S Detail Products is a Shopify-powered storefront for professional and DIY
   automotive detailing chemicals. The supplied evidence yields a neutral
@@ -185,6 +189,12 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets for buttons and variant selectors should be at least 44×44px. The main navigation is expected to collapse into a slide-out or accordion menu below the tablet breakpoint; this collapse behavior and any sticky-header transition were not directly observed in the supplied CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

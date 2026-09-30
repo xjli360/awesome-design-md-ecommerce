@@ -4,6 +4,10 @@ name: "Anine Bing"
 source_url: "https://aninebing.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every primary action on aninebing.com fires from a solid #121212 rectangle — no rounded corners, no gradient, no softening. The brand applies exactly one warm signal to an otherwise fully monochromatic interface: #ff0000, a saturated primary red reserved for sale pricing and urgency badges, never warmed to coral or cherry. All other surfaces sit in a compressed grayscale band running from the near-black #121212 ink through mid-range neutrals (#4a4a4a, #656565, #808080) to a cool off-white #f6f6f6 that replaces pure white on product-listing backgrounds. Two typefaces carry the entire system — DidotLT, a high-contrast didone serif with dramatic thin-to-thick stroke variation, handles display headlines and editorial title moments, its proportions echoing the mastheads of print fashion titles rather than digital-native display fonts. Gibson, a geometric humanist sans-serif, runs everything operational: navigation labels, body copy, product names, size charts, and button text. The pairing maps directly onto the brand's dual identity — European fashion-house rigor through DidotLT, California directness through Gibson.
 
@@ -328,6 +332,14 @@ components:
 - Multi-column footer → 2-column at tablet → single-column accordion at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

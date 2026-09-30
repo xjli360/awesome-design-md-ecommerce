@@ -4,6 +4,10 @@ name: "Western Rise"
 source_url: "https://westernrise.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Before the product images load, Western Rise names the fabric — stretch percentage, moisture-wicking rating, and fabric weight in ounces per square yard — arranged in a monospaced spec block that treats technical data as a design element rather than fine print. The full site palette compresses into a disciplined range: near-black (#222222, #121212) for all primary actions, warm off-white surfaces (#f1f0ed, #fafafb) that keep the experience from going clinical or military, and a vivid mint (#b2f9e9) that appears on performance-attribute highlights and limited badge states — a single chromatic flare inside an otherwise earth-and-charcoal system. Muted olive (#707761), warm sage (#babfa7), and a deep midnight navy (#272d45) supply the secondary range, grounding the brand in outdoors and terrain without evoking recreation. Corners sit near-flat (`{rounded.xs}`, `{rounded.none}`) on every interactive element — buttons, size selectors, badges, and cards alike — the design language of working tools, not lifestyle objects. The type stack is led by Geist, a low-contrast geometric sans-serif, running at tight letter spacing in display positions and loosening into comfortable measure for fit guides and fabric descriptions; Geist-Mono handles spec data inline. A teal accent (#0e7a82) surfaces in sale states and secondary CTAs, narrow enough in usage that it retains impact. Navigation carries unusual information density: category, fit guide, fabric technology, and activity filters coexist at the top level, honoring an audience that arrives already knowing what they need. Product cards forgo editorial abstraction — no lifestyle taglines, just the product name, fabric descriptor, and price — in the same pattern of direct communication the brand uses in its technical specs and warranty documentation.
 
@@ -368,6 +372,13 @@ components:
 - Footer four-column grid collapses to single accordion column on mobile, all sections closed by default
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Manta Sleep"
 source_url: "https://mantasleep.com"
 captured_at: "2026-09-28T10:08:55.108525+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Manta Sleep's evidence shows a neutral, editorial base (#ffffff, #161616,
   #f7f5f0) paired with a warm coral-red accent family (#ff4551, #ff5859,
@@ -138,6 +142,13 @@ components:
 Recommended, not measured, breakpoints: sm ≤480px (single-column stack, full-width buttons, collapsed hamburger nav), md 481–768px (two-column product grids, condensed nav links), lg 769–1024px (three-column grids, inline nav), xl ≥1025px (four-column grids, full mega-menu). Touch targets should be at least 44×44px for buttons and nav items; the mega-menu (Sleep Masks, White Noise, Earplugs, Bundles, Accessories) should collapse into an accordion drawer below md. This table is a proposed responsive strategy only; no live breakpoint, mobile menu, or JavaScript behavior was observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS variables, a text excerpt, and a partial color/font list — no rendered layout, spacing, real breakpoints, or interaction states (hover/focus/active/disabled) were directly observed. Role assignments (e.g., primary vs. accent, body vs. muted) are inferred from variable names such as `--header-color-button` and `--header-color-announcement`, not confirmed visual usage. Typography sizes, letter-spacing, and line-heights beyond the single button rule (13px/20px padding, 1.42 line-height) are proposed estimates, not measured values. Font availability, weights, and licensing for Poppins and Montserrat were not verified beyond their appearance in the `--font-stack` declarations. Component structures (product-card, hero, quiz-callout, etc.) are reasonable proposals for a sleep-mask/travel-pillow storefront but do not reflect confirmed DOM or visual QA. Mobile navigation, cart drawer, and search UI behavior were not observed and are extrapolated from menu-text content only.

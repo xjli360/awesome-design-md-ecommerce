@@ -4,6 +4,10 @@ name: "Design Toscano"
 source_url: "https://www.designtoscano.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Carved stone meets coastal fog in the one color extracted from Design Toscano's pre-launch state — #45768d, a muted steel-teal that reads like weathered verdigris on garden bronze left through three seasons of rain. The site's relaunch tagline, "Reimagined. Refined. Returning.", signals an editorial recalibration for a catalog built on European antiquities: gargoyles watching from garden walls, medieval knights standing sentry at front doors, Venetian masks and life-size Romanov statues sold with the conviction that a home should feel like a private museum. Where garden decor brands typically invoke terra cotta and cottage-garden sage, Design Toscano has long anchored its identity in weight and shadow — the density of cast resin, the theatrical scale of a life-size figure, the moral seriousness of a Gothic frieze. The UI should carry that gravitational pull without tipping into dusty catalogue. Canvas reads warm parchment ({colors.canvas}), not clinical white. Editorial serif type — proportioned for museum wall labels — handles display and product names; a clean sans-serif covers navigation and utility copy. Primary CTAs inherit the extracted teal ({colors.primary}), which holds legibility against both the dark hero backdrops that will anchor the relaunch campaign and the warm surface cards beneath product grids. A secondary gilt token ({colors.gold-accent}) appears on "new arrival" badges, sale ribbon accents, and hover states on featured collection links — the one place the catalog allows itself a flourish. Rounded tokens are deliberately restrained: {rounded.xs} on badges, {rounded.sm} on primary buttons, {rounded.md} on product cards — nothing approaches a pill; a bubbly border-radius would be incongruous next to a life-size stone lion. Section spacing is theatrical at {spacing.section}, product grids breathe rather than compress, and hero zones run edge-to-edge. Because the 2026 extraction caught only one distinctive hex and zero web fonts, all type stacks and supporting palette entries below are derived from documented brand aesthetics and should be revisited once the relaunched site is publicly accessible.
 
@@ -424,6 +428,13 @@ components:
 - Collection heading `display-md` (28px) → 22px at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

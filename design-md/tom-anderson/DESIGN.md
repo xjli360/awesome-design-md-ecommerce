@@ -4,6 +4,10 @@ name: "Tom Anderson"
 source_url: "https://www.andersonguitars.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Anderson Guitarworks photographs its instruments against near-black (#040404) studio voids, a choice that makes each guitar's grain and finish the only light source on the page. The palette runs on two axes: a cold midnight navy (#112233) holds navigation and structural anchors while a thinly deployed guitar-lacquer red (#cc3b3b, intensified to #bd0000 on active states) fires only at the sharpest moments — a CTA fill, a sale badge, an image-viewer selection ring. The surrounding field is almost exclusively neutral — #aaaaaa on dark surfaces, #eeeeee on light — keeping all spectral attention on instrument photography. Custom display work uses Clarkson for headlines, a serif-adjacent display face that carries old-world luthier weight without period-room stiffness; Josefin Sans handles mid-weight subheads and navigation where geometric regularity fits technical specs and model names; Oswald covers uppercase labels, badges, and specification tables where compressed condensed weight reads at a glance. Body copy runs Arial/Helvetica Neue — utility-grade, intentionally invisible. Corner radii are kept minimal throughout: product cards use {rounded.none}, CTAs are equally sharp, reinforcing the precision-machined quality claim. Spacing is generous in hero sections — full {spacing.section} gaps before spec blocks — compressing to tight {spacing.md} and {spacing.sm} grids inside model comparison tables. The site reads less like retail and more like a catalog issued by a workshop: every layout decision defers to the guitar.
 
@@ -333,6 +337,13 @@ components:
 - Footer four-column link grid collapses to single-column accordion on Mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

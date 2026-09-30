@@ -4,6 +4,10 @@ name: "Kotobukiya"
 source_url: "https://www.kotous.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A precision-engineered collectible marketplace where deep navy (#3c4662) and a single cyan accent (#00d7e1) provide the voltage, while a vast gray spectrum — from #fcfcfc canvas to #111111 ink — creates the quiet, museum-grade backdrop that lets sculpted plastic figures command attention. The brand's visual system is built on deliberate restraint: a primary blue (#006bb4) that reads as institutional rather than playful, supported by warm amber (#ffca30) and safety-orange (#ff5501) for limited-use badges and sale flags. Every corner is soft but not pillowy — cards and buttons land at {rounded.sm} (8px) rather than the full-radius approach of consumer marketplaces, suggesting a catalog of precision objects rather than casual goods. Typography runs Open Sans across all weights, with display sizes staying lean at 500–600 weight rather than heavy 700+, letting product photography and sculpt detail do the heavy lifting. The checkout and utility chrome leans heavily on a secondary blue (#1979c3) and a warm error red (#e02b27), while the persistent top bar uses a dark navy (#3c4662) with white text — a framing device that says "gallery" more than "store." The extracted palette is notably gray-dominant (over a dozen grays from #f0f0f0 to #8f8f8f), suggesting a system that uses value contrast rather than color to create hierarchy, with the cyan (#00d7e1) and amber (#ffca30) acting as rare, deliberate surprises — the equivalent of a single bright decal on an otherwise monochrome mecha kit.
 
@@ -376,6 +380,13 @@ components:
 - Breadcrumb truncates on mobile, showing only current page and "Home"
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

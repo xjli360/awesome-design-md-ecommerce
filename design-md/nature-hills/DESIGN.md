@@ -4,6 +4,10 @@ name: "Nature Hills"
 source_url: "https://www.naturehills.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep nursery teal (#108474) saturates every primary call-to-action on a nearly-white canvas, a color choice that reads more botanical garden signage than typical e-commerce green — and that distinction matters. Nature Hills pairs this anchor with a supporting leaf-lime (#8abb54) for category badges and secondary highlights, then punctuates seasonal promotions with a warm marigold (#ffdb27) that catches the eye without competing against the dominant green family. Typography runs a two-font system — Figtree for body copy and navigational text where its open counters aid scanability across long plant descriptions, and Barlow for display headings and button labels where its slightly condensed proportions let "Japanese Maple 'Bloodgood'" fit a product card title without wrapping. Corners land at a moderate `{rounded.sm}` (8px) on cards and inputs, stepping down to `{rounded.xs}` on tight UI like availability badges and up to `{rounded.full}` on pill-shaped filter chips and "Add to Cart" buttons — a deliberate split that separates browsing containers from action triggers. The grid breathes generously: product cards sit in a 3-up or 4-up layout with `{spacing.lg}` gutters, hero banners claim the full viewport with overlay text knocked out in white, and category navigation tiles stack lush photography behind semi-transparent dark scrims. Earthy accent browns (#8c564b) surface in zone-hardiness badges and seasonal icons, while a dark forest green (#5f8c32) reinforces trust in footer links and guarantee callouts. Error and alert states lean on a muted brick red (#b71c1c) rather than a synthetic scarlet, keeping even validation messages within a naturalistic register. The overall effect is a digital greenhouse catalog — dense with living-product imagery yet navigable, where the design system's job is to frame each plant photograph rather than compete with it.
 
@@ -437,6 +441,13 @@ components:
 - Trust bar items stack vertically on mobile or cycle in a single-line carousel
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

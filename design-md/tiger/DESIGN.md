@@ -4,6 +4,10 @@ name: "Tiger"
 source_url: "https://www.tiger-corporation.com/en/usa"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep navy (#003388) anchors every navigation bar, footer panel, and hero overlay on Tiger's appliance storefront — a color dense enough to evoke the enamel finish of their vacuum-insulated flasks. Against a pale #eeeeee canvas, product photography does the persuading while typography stays lean and mechanical: Barlow Semi Condensed in medium weight handles headlines at scale, its narrow letterforms echoing the compressed proportions of a rice cooker's LCD display, while standard-width Barlow carries body copy with quiet geometric clarity. Noto Sans JP appears for bilingual product descriptions, a nod to Tiger's Osaka headquarters and the dual-market audience the US storefront serves. CTAs fire in #ff6900 — a saturated orange that reads as thermal energy, heat indicators, and the orange ring on the company's tiger-head logomark — while informational accents reach for #34e2e4, a bright teal used in feature callouts and comparison-table highlights. Cards hold `{rounded.sm}` corners, buttons sit at `{rounded.xs}`, and the overall geometry prefers right angles over softness, letting the brushed-steel product renders feel at home inside the UI frame. Spacing runs generous at section boundaries (`{spacing.section}` = 64px between feature blocks) but tightens inside product spec grids where data density matters. The palette deliberately avoids pastels and lifestyle warmth — this is an engineering-first brand that sells precision temperature control, vacuum insulation, and induction heating, and the interface mirrors that posture: dark structured headers, bright functional accents, white breathing room, nothing decorative that doesn't earn its pixel.
 
@@ -397,6 +401,13 @@ components:
 - Footer: multi-column layout becomes stacked accordions with expand/collapse toggles
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

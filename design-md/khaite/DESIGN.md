@@ -4,6 +4,10 @@ name: "Khaite"
 source_url: "https://khaite.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   ITC Galliard's ink-pooling ball terminals and Fakt Pro's sliced-circle geometry occupy the same interface without softening toward each other — that deliberate typographic standoff defines how Khaite approaches everything from product naming to navigation labels. The near-black canvas (#141414) is specifically chosen to be softer than #000000 while still reading as absolute dark; photography floats against it with none of the warmth a cream or off-white background would introduce. The brand has decided austerity is the luxury signal, and the interface enforces that conviction throughout every scroll depth.
 
@@ -287,6 +291,13 @@ components:
 - Hero headline: `{typography.display-xl}` (56px) scales to `{typography.display-md}` (36px) on mobile without switching typeface
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

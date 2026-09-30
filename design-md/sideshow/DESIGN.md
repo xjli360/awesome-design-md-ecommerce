@@ -4,6 +4,10 @@ name: "Sideshow"
 source_url: "https://www.sideshow.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every product page on sideshow.com operates as a theatrical stage rather than a storefront — near-black backgrounds (#0d0d0d) hold each figure in dramatic isolation, the way a museum vitrine uses black velvet to silence competing visual noise. Gold (#c9a96e) appears as the single warm voltage threading through edition callouts, primary CTAs, and the thin ruled lines that separate editorial copy from pricing; it reads less like a brand accent and more like a provenance stamp pressed into dark materials. The brand's structural tension is between the sculptural seriousness of its products — hand-painted 1:1 life-size busts, hyper-detailed sixth-scale figures cast in polystone — and the transactional necessity of an e-commerce platform; the design resolves this by letting hero photography bleed edge-to-edge and confining interface chrome to {colors.surface-card} panels that feel closer to gallery plaques than UI widgets. Display typography runs bold and condensed with tight tracking, evoking the credit sequences of the licensed properties (Star Wars, Marvel, DC, Lord of the Rings) that dominate the catalog; body copy runs light-weight sans on dark backgrounds for high contrast without the severity of pure white-on-black. Product cards float on {colors.surface-card} with a 1px {colors.hairline} border demarcating the collectible's frame from the surrounding field, and on hover the border transitions to {colors.primary} with a faint gold inner glow — the active card feels lit from within. Collector-status badges — "Premium Format," "Polystone," "Sixth Scale," "Sideshow Exclusive" — appear as all-caps tracked labels in {colors.gold}, functioning as provenance stamps rather than promotional stickers. The checkout and layaway flow (Sideshow's FlexPay) interrupts the cinematic dark aesthetic only minimally, keeping form surfaces in {colors.surface-soft} rather than switching to a light canvas.
 
@@ -377,6 +381,13 @@ components:
 - Footer four-column grid collapses to a single-column accordion on mobile; each column header acts as the expand/collapse trigger
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

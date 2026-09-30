@@ -4,6 +4,10 @@ name: "LD Products"
 source_url: "https://www.ldproducts.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Orange (#ff5501) interrupts institutional blue (#1979c3) at every conversion moment — add-to-cart buttons, deal callout strips, countdown banners — a color pairing that declares "trust us, act now" in one visual beat. The palette otherwise retreats into a long gray corridor: #d1d1d1 borders, #f2f2f2 surfaces, #7d7d7d secondary text — a deliberately un-branded shell that pushes products, yield figures, and compatibility tables to the foreground. Open Sans carries every scale from 28px hero headers down to 11px compatibility badges without weight variation; it is a functional choice matching the utilitarian register of a business-supplies catalog rather than a lifestyle store. Warm amber surfaces — #fdf0d5 fields with #6f4400 type — lift deal pricing out of the gray lattice with a receipt-stub warmth that signals savings without screaming clearance. Dark green (#006400) marks compatibility check marks and "You Save" tallies, anchoring the eye at the moment of purchase justification. {rounded.xs} corners on product cards and search inputs signal a no-frills Magento architecture; there are no pill shapes or soft radii except on promotional badge chips. Pricing display is the real hero content: OEM original struck through in muted gray beside the LD savings figure in bold — that contrast is the brand's core UI gesture, repeated on every product tile, every cart line, every confirmation email. No proprietary typeface, no illustrated mascot, no seasonal hero imagery — just ink pricing mathematics, surfaced clearly enough that the customer can verify the savings and proceed.
 
@@ -375,6 +379,13 @@ components:
 - Deal callout strips stack vertically at mobile rather than displaying inline beside price
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

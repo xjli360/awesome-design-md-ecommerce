@@ -4,6 +4,10 @@ name: "Heraclea"
 source_url: "https://heraclea.co"
 captured_at: "2026-09-28T10:04:13.128972+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Heraclea's evidence points to an earthy, editorial Mediterranean palette built around deep teal-greens (#236776, #1c5561, #326f83), olive/sage tones (#b0b994, #a0a887, #d6debd), and terracotta browns (#763426, #602b20, #c3a683, #cda787) set against warm off-white canvases (#fcfbf5, #ebe9de) and true ink (#000000, #111827). These earth and sea hues read as brand-forward accents against neutral grays used for structure (#374151, #4b5563, #9ca3af, #e5e7eb). Two font families are confirmed in the CSS: "Assistant" (a humanist sans, used for UI/body-weight text) and "Suisse Works" (a serif-leaning display face used for editorial headings), with "Times" as a system fallback and sans-serif as the generic fallback. This interpretation assigns Suisse Works to display/heading roles and Assistant to body/UI roles as an inferred split, since the CSS custom properties (--font-body-family, --font-heading-family) were not resolved to explicit values in the supplied evidence.
 
@@ -147,6 +151,13 @@ Recommended, not measured:
 Touch targets should be at least 44×44px for cart, menu, and add-to-bag controls. Mobile nav is expected to collapse into a slide-out or overlay menu given the "Menu"/"Skip to content" text present in the excerpt, but the actual collapse mechanism was not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Static CSS/HTML extraction only; no rendered layout, computed styles, or JavaScript-driven states were observed.

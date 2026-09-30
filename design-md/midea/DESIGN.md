@@ -4,6 +4,10 @@ name: "Midea"
 source_url: "https://www.midea.com/us"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Eight distinct blues — #1f94d2, #0083de, #0092d8, #00b0f0, #37a6f3, #077dce, #2b85c3, #498ff2 — layer across hero modules, CTA buttons, interactive badges, and link states to build visual depth from a single hue family rather than contrast from opposing colors. The primary is #1f94d2, a sky-toned technical blue that reads as mechanical precision without the coldness of navy. Against it, a differentiated surface hierarchy — #f7f7f7 base, #e9f4fb blue-wash panels, crisp white cards — creates the layering typical of appliance catalog retail without requiring color noise. Red (#ec1c24) appears exclusively for promotional badges and urgency callouts, keeping it semantically loaded rather than decorative; amber (#faad14) handles star ratings and warning states; green (#52c41a) confirms success states like cart additions and compatibility checks.
 
@@ -391,6 +395,13 @@ components:
 - Footer columns stack vertically with accordion expand/collapse per section on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

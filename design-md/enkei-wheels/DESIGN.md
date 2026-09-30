@@ -4,6 +4,10 @@ name: "Enkei Wheels"
 source_url: "https://enkei.com"
 captured_at: "2026-09-28T10:00:22.795155+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Enkei's public site runs on a WordPress/Divi stack, and the extracted CSS shows a restrained, utilitarian palette rather than a bold automotive brand system. Body copy renders in Open Sans (Arial, sans-serif fallback) at 14px, medium weight, with a loose 1.7em line-height typical of Divi's default theme styles. Headings (h1-h6) stay in the same body font family but shift to a darker ink (#333333) at weight 500, with no distinct display typeface confirmed. The one clear accent is a bright link/hover blue (#2ea3f2), used for search icons, social hovers, and light-background button text — this is treated as the primary brand accent. A secondary deeper blue (#006799) appears in the palette and is inferred as a hover/pressed variant. Buttons observed via `.et_pb_button` use a 2px bordered, transparent-fill pattern with a dark slate fallback background (#32373c) for `.wp-element-button`, suggesting two coexisting button conventions (Divi module buttons vs. block-editor buttons). Neutral grays (#eeeeee, #f4f4f4, #dddddd, #f7f7f7, #fafafa) are common Divi framework fills and are mapped here as inferred surface/hairline tokens, not confirmed from live layout screenshots. No proprietary racing/motorsport typeface or color system was detected in the evidence.
 
@@ -127,6 +131,13 @@ This is a recommendation, not measured site behavior; no media queries or breakp
 Touch targets should be at least 44px tall for nav links and buttons; the observed button padding (`0.667em`/`1.333em`) roughly supports this at body font sizes but was not verified against rendered pixel heights. Mobile nav collapse behavior (hamburger menu, dropdown mechanics) was not observed and is a standard proposed pattern only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS and page-text extraction only; no rendered screenshots, computed styles, or interaction states (hover/focus/active, form validation, mobile menu behavior) were observed. The font list includes several families (Lato, Montserrat, Roboto, Lucida, Courier New, FontAwesome, ETmodules) that appear in the raw evidence but are not tied to confirmed selectors for body or heading text; only Open Sans/Arial/sans-serif is used here as the confirmed base stack. Many supplied hex values match default WordPress block-editor and Divi framework palettes rather than confirmed brand-specific accents; only colors tied to actual selectors (`#2ea3f2` links/hovers, `#333` headings, `#666` body, `#32373c` buttons, `#fff` background) are treated as reliably observed, while neutral grays used for surfaces/hairlines are inferred common-framework fills. All typography sizes beyond the confirmed 14px body and 20px button text are proposed, not measured. Font licensing/availability for Open Sans (Google Fonts, generally open-licensed) was not independently verified against Enkei's actual font-loading method. Component visual details (card shadows, exact spacing, grid columns) are proposed conventions suited to a wheels/tires storefront, not confirmed layout observations.

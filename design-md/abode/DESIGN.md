@@ -4,6 +4,10 @@ name: "Abode"
 source_url: "https://goabode.com"
 captured_at: "2026-09-28T09:38:13.306745+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Abode's observed CSS shows a clean, technical DIY-security aesthetic: white canvas (#ffffff),
   a near-black slate ink (#2d3037) for headings and body copy, and a cyan-teal primary
@@ -162,6 +166,14 @@ This is a recommended pattern set, not measured site behavior:
 Touch targets should be a minimum of 44×44px, particularly for pill-shaped buttons and badge/status chips. Primary navigation is expected to collapse into a slide-in or drawer menu below tablet width; this collapse behavior is proposed and was not observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

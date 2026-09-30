@@ -4,6 +4,10 @@ name: "Tales for Tadpoles"
 source_url: "https://talesfortadpoles.ie"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A children's bookstore that wraps itself in a warm, storybook palette anchored on #f9f6f0 — a soft, cream-washed canvas that feels like aged paper under good light. The brand's true voltage comes from two distinctive reds: #d8385a, a berry-coral that appears on primary buttons and sale badges, and #a62f48, a deeper, more grounded crimson used for hover states and secondary accents. These sit against a supporting cast of muted greys (#a29f9b, #d5d5d5, #e6e6e6) that form the structural bones — borders, dividers, secondary text — while #bedcd2, a pale sage, surfaces in badge backgrounds and category tags, adding a gentle, organic counterpoint to the reds. The typography leans on Josefin Sans for display headings — its geometric, slightly playful letterforms evoke a modern fairy-tale quality — paired with Georgia and Courier for body text, lending a literary, printed-book feel. Corners are softly rounded ({rounded.sm} on buttons, {rounded.md} on cards), never pill-shaped, preserving a sense of crafted, physical object-ness. The overall mood is generous and unhurried: generous whitespace, a restrained use of the red accent (never more than one per view), and a footer that reads like a colophon, with tiny type and a warm #faf4e8 background. This is a brand that trusts its colors to tell the story — the red is the exclamation point, the cream is the page, and the sage is the quiet nod to nature and nurture.
 
@@ -385,6 +389,13 @@ components:
 - Newsletter form remains inline on tablet and above, stacks vertically on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

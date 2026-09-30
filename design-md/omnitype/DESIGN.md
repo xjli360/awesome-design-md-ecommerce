@@ -4,6 +4,10 @@ name: "Omnitype"
 source_url: "https://omnitype.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A precision-engineering enthusiast's playground where #ff3533 — a stop-sign red that reads as both urgency and obsession — anchors a system otherwise built on warm grays (#eeeeee, #f7f8f7, #f9fafb) and the occasional teal surprise (#108474). The brand's visual language is that of a machinist's workshop translated into pixels: generous whitespace, sharp rectangular cards with {rounded.sm} corners, and a typographic hierarchy that lets product photography do the heavy lifting. The red appears in primary CTAs, sale badges, and the theme-color meta tag — it's the single voltage that signals "this matters" against a canvas of #ffffff and #f9f9f9. Secondary accents drift into purple (#a89cc8, #cbaaff, #9c5dff) and mint (#c1e6e6), suggesting limited-edition colorways or category badges rather than core brand tokens. The extracted font stack is thin — Nunito Sans appears alongside system fallbacks — but the design compensates with consistent 16px body copy, 14px captions, and 48px section spacing that gives each product page the breathing room of a gallery wall. There is no rounded-full anywhere except the occasional badge; Omnitype prefers the honesty of a straight edge.
 
@@ -425,6 +429,13 @@ components:
 - Hero section text and CTA stack vertically on mobile, with the CTA taking full width
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

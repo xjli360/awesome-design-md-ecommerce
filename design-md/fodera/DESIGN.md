@@ -4,6 +4,10 @@ name: "Fodera"
 source_url: "https://www.fodera.com"
 captured_at: "2026-09-28T09:51:30.423261+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Fodera is a Brooklyn-based luthier producing handmade custom basses and guitars since 1983, and the evidence reflects a crafted, materials-forward storefront rather than a mass-market retailer. The observed palette centers on warm brass and wood tones (#ab8c52, #9a7e4a, #806430, #868154, #7d784e) layered over a family of near-white and cream neutrals (#ffffff, #fcfbf9, #f5f2ec, #f7f4ef, #f4f0e8, #ece7db) with charcoal-to-black text values (#121212, #212121, #303030). These warm neutrals and metallic-gold tones are inferred as the primary brand accent, evoking hardware finishes and tonewood, since no single CSS rule labels a "brand color" variable. A small set of cool grays (#c9cccf, #d3d3d3, #e3e3e3) appears reserved for hairlines and structural chrome, while #de3618 is treated as an inferred alert/sale color and #0070c9/#c9e7ff/#00ffff are Algolia search-widget system colors, not brand colors, and are excluded from the core palette. Typography draws on three observed sans-serif families — IBM Plex Sans, Inter, and Poppins — with roles assigned by inference: Poppins for display headings, IBM Plex Sans for body and UI text, and Inter for compact search/utility text. Layout figures (header height, logo width) are taken directly from CSS custom properties; all spacing/radius scales beyond that are proposed conventions suited to a premium instrument-maker aesthetic.
 
@@ -148,6 +152,13 @@ This is a recommended breakpoint scheme, not measured site behavior, informed on
 Touch targets should be at least 44×44px for nav icons and swatch selectors (proposed, not verified). Navigation collapse behavior, menu animation, and exact grid column counts were not present in the supplied CSS and are therefore proposed conventions only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This specification is built from static CSS custom properties, a color list, font-family names, and a page-text excerpt dominated by a currency/country selector; no rendered layout, hover/focus states, or mobile interaction were observed. Semantic role assignment (primary brand color, heading vs. body font pairing) is inferred from typical craft/luxury-brand conventions and the relative prominence of warm gold-brown tones in the palette, not from an explicit brand style declaration. Several palette entries (`#0070c9`, `#c9e7ff`, `#00ffff`) belong to the Algolia search widget's own RGB variable system and were deliberately excluded from brand color roles. Spacing, radius, and most typography sizes are proposed scales consistent with the observed header/logo measurements, not extracted values. Font availability, licensing, and actual weights served for IBM Plex Sans, Inter, and Poppins were not verified. No product-detail, cart, or checkout markup was present in evidence, so `product-card`, `swatch-selector`, `badge`, and `hero` are proposed patterns grounded only in adjacent CSS signals (e.g. swatch-size variables) rather than direct observation.

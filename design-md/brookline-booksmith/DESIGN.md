@@ -4,6 +4,10 @@ name: "Brookline Booksmith"
 source_url: "https://www.brooklinebooksmith.com"
 captured_at: "2026-09-29T04:22:19.224160+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Brookline Booksmith's stylesheet exposes a compact palette anchored by a deep marine blue
   (--color-primary: #005a8c) and an even darker navy secondary (--color-secondary: #002f49),
@@ -185,6 +189,14 @@ collapsible accordion behavior on mobile. This table is a design recommendation 
 actual responsive CSS or JavaScript breakpoints were present in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

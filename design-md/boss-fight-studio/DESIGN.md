@@ -4,6 +4,10 @@ name: "Boss Fight Studio"
 source_url: "https://bossfightstudio.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Seven extracted shades of near-total black and a single light gray — that is the complete static palette of bossfightstudio.com. The canvas floors at #121212, barely distinguishable from an unlit monitor; surfaces step up through #171717, #191919, and #1f1f1f in a depth hierarchy legible only under deliberate scrutiny. This tonal compression is structural: the hyper-articulated, paint-detailed figures the brand sells are meant to ignite against a surrounding field of engineered darkness, with zero chromatic interference from UI chrome or decorative color. Inter handles all type across the stack, running at weight 700–800 for display headings and 400 for body copy, accompanied by a monospace family for SKU strings and part-number callouts — a nod to the collector-community convention where exact part codes carry genuine secondary-market meaning. The single extracted light value, #dedede, does double duty as the primary ink tone on dark surfaces and the closest the palette offers to a CTA highlight; #777777 steps in for metadata hierarchy — series labels, stock indicators, filter counts — while #555555 absorbs disabled states and subdued secondary marks. Rounding is almost certainly kept near zero: hard corners read as precision-manufacturing discipline and suit a brand that counts articulation points per figure as a core selling argument. The Shopify backbone implies a conventional grid scaffold (4-column desktop collapsing to 1-column mobile) beneath the dark shell, with metafields likely carrying figure-specific structured data: scale, character faction, wave number, and accessories count. A brand-voltage accent color — whatever activates the primary "Add to Cart" state and hover feedback — did not appear in the static DOM extraction and is the single most consequential missing token in this system.
 
@@ -358,6 +362,14 @@ components:
 - Footer 4-column grid → 2-column at 744px → 1-column accordion at < 480px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

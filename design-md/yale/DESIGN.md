@@ -4,6 +4,10 @@ name: "Yale"
 source_url: "https://yalehome.com"
 captured_at: "2026-09-28T09:56:14.058958+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from CSS evidence for the Yale Home smart-lock and
   door-hardware storefront, a Shopify-hosted site built on a global theme bundle.
@@ -166,6 +170,13 @@ This is a recommendation, not measured site behavior, since no media-query break
 Touch targets should be at least 44×44px (per the Swiper navigation-size default of 44px present in vendor CSS), particularly for finish swatches, carousel arrows, and locale/nav dropdown toggles. Navigation and filter panels are recommended to collapse into an off-canvas or accordion pattern below the tablet breakpoint; no such collapse behavior was directly observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is generated from static CSS/text extraction only; no live rendering, computed layout, or DOM interaction was performed. Color-to-role mapping (e.g., primary vs. accent vs. status colors) is inferred from frequency and contrast plausibility, not from confirmed component usage — in particular, #ff1d5e's role as "primary" brand color is an inference, as is treatment of #007aff as a third-party Swiper default rather than a Yale brand color. Font sizes, weights, letter-spacing, and the full typographic scale are proposed conventions built around the observed family names (YaleSolis-Bold/Light/Regular, Open Sans, Arial/Helvetica); no explicit font-size or weight declarations were present in the supplied CSS rules. All spacing and rounded-corner tokens are proposed defaults, not extracted values. Responsive breakpoints, mobile navigation collapse, hover/focus/active interaction states, and swatch-selection behavior are not observed and are presented only as reasonable, labeled proposals. Availability, licensing, and web-font-loading configuration for the proprietary YaleSolis family were not verified.

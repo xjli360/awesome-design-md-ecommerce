@@ -4,6 +4,10 @@ name: "Holgate Toys"
 source_url: "https://www.holgatetoy.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A wooden toy brand that uses #ff0000 as its primary voltage — a pure, unapologetic red that reads as both childhood primary and mid-century toy-store signage, not the muted clay or ochre that "natural" brands reach for. The palette is built on a stark black-and-white skeleton (#121212 ink, #ffffff canvas) with red as the only color that gets to be loud; every other chromatic hue in the extracted palette (#0071e3 blue, #334fb4 navy, #62bbfa sky) appears to belong to Shopify checkout widgets or social-icon footers rather than the brand itself. Assistant serves as the primary typeface, a clean geometric sans that pairs with the wood-grain photography and blocky toy silhouettes without competing for attention. The site runs on Shopify, so the product-grid layout follows the platform's standard 2-3-4 column breakpoints, but the brand asserts itself through red-on-white CTAs, red price badges, and red "ADD TO CART" buttons that create a consistent pulse across every product page. There is no gradient, no drop shadow, no decorative flourish — the design trusts the physical product photography (wooden trains, blocks, puzzles) to supply all the warmth, while the UI stays in a crisp, almost industrial register. The red (#ff0000) appears in three states: full saturation for primary actions, a slightly darker #cc0000 for hover, and a washed-out #ff4444 for disabled or secondary indicators. The overall feeling is less "cozy toy store" and more "design-conscious maker's catalog" — the red is the exclamation point, the white is the silence, and the wood is the substance.
 
@@ -335,6 +339,13 @@ components:
 - Sale badges remain visible but reduce font size to prevent overflow on small cards
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

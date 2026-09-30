@@ -4,6 +4,10 @@ name: "GoToob"
 source_url: "https://humangear.com"
 captured_at: "2026-09-28T10:08:24.680125+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from humangear.com's Squarespace-hosted stylesheet, which underlies the GoToob travel-bottle line. The observed palette is neutral-forward: near-white canvas (#ffffff), a near-black ink (#111111/#0e0e0e), and a wide grayscale ramp (#f6f6f6 through #333333) used for structure, borders, and secondary text. The one clearly branded accent is a coral-red (#f0523d), observed driving hover/interaction states on tooltip and cookie-banner controls; it is inferred here as the primary call-to-action color since no other saturated hue recurs as consistently. A bright cyan (#00b2ff) and a flat yellow (#ffff00) also appear in the palette and are treated as secondary/utility accents (e.g., informational or highlight badges) rather than primary brand color, since their functional role in the live UI is not evidenced.
 
@@ -152,6 +156,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Buttons and size-selector pills should maintain a minimum 44×44px touch target on mobile. Nav-bar is proposed to collapse into a slide-out or overlay menu below 960px, consistent with the "Open Menu / Close Menu" labels present in the page text, though the actual mobile interaction pattern was not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Evidence is static CSS/text extraction only; no rendered layout, breakpoints, or interaction states (hover, focus, active, disabled) beyond the cookie-banner/tooltip rules were directly observed.

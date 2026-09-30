@@ -4,6 +4,10 @@ name: "Fatboy"
 source_url: "https://www.fatboy.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Seventeen kilos of recycled EPS beads inside a double-stitched nylon shell — that is the Fatboy Original, and the Dutch irreverence behind it reads clearly in the brand's digital aesthetic: oversized headlines, unapologetic color blocks, and product photography that treats bean bags and garden lamps as objects worth serious attention. The site operates on a near-monochrome frame — #1A1A1A ink on an #FFFFFF canvas, with mid-gray neutrals handling secondary text and hairlines — that exists almost entirely to amplify the product palette, which spans forty-plus colorways per SKU. Primary brand voltage arrives in a saturated orange (#FF5500), deployed sparingly on key CTAs, hover states, and swatch selection rings — precise enough to feel designed and warm enough to remain fun. Display typography runs at heavy weights, with uppercase lockups at hero scale giving the brand the presence of a design-fair installation rather than a catalog page. Product cards sit at {rounded.sm} — corners clipped but not bubbly — reinforcing a sensibility that is playful without tipping into juvenile. The filtering system accommodates an unusually wide color dimension: shoppers sort by product colorway, which demands swatch arrays rendered as {rounded.full} circles rather than dropdown menus, each swatch carrying a selection ring that echoes the primary orange. Navigation is horizontal and category-forward, with subcategories revealed in a full-width flyout panel that relies on {spacing.section} padding to separate editorial photography from product links. Outdoor hero sections run to full viewport width — no crop, no text overlay — letting the object's physical scale do the storytelling. The footer anchors in {colors.brand-black}, inverting the page canvas, with white body text and the primary orange appearing only on link hovers, sustaining brand hierarchy to the last scroll position.
 
@@ -292,6 +296,13 @@ components:
 - Hero: full display-xl headline truncates at 3 lines max on mobile with ellipsis; image crops center on smaller viewports
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

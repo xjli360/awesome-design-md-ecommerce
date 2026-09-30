@@ -4,6 +4,10 @@ name: "Great Jones"
 source_url: "https://greatjonesgoods.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Great Jones is a direct-to-consumer cookware brand that brings a sense of warmth, wit, and color to the kitchen. The brand's palette is anchored by a deep, earthy green (`#0e5540`) that appears on primary buttons, key navigation elements, and product details, evoking a sense of groundedness and natural quality. This is paired with a rich navy (`#243d94`) used for secondary actions and accents, creating a confident, trustworthy foundation. The brand's voice is playful and modern, expressed through a signature golden yellow (`#f4a620`) that highlights sale badges, promotional banners, and interactive hover states, injecting energy and optimism. A soft, neutral canvas (`#ede1d4`) serves as the primary background for product pages and cards, offering a warm, tactile feel that contrasts with the stark white (`#ffffff`) often used in the rest of the e-commerce world. Typography relies on the serif warmth of CooperBT, used for display headlines and product titles to convey a sense of heritage and approachability, while body copy and UI elements are set in a clean, legible serif stack (`Times, Times New Roman, serif`). The design system employs generous spacing (`{spacing.lg}` and `{spacing.xl}`) around product imagery and generous padding (`{spacing.base}`) inside cards and buttons, creating a breathable, editorial layout. Signature moves include the use of `{rounded.full}` pill-shaped buttons for primary CTAs and `{rounded.sm}` for input fields and cards, balancing friendliness with structure. The overall mood is that of a trusted, stylish friend who knows their way around a kitchen—confident but not pretentious, colorful but not chaotic.
 
@@ -403,6 +407,13 @@ components:
 - Hero sections reduce headline size and stack CTA buttons vertically on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

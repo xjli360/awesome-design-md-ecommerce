@@ -4,6 +4,10 @@ name: "Mushie"
 source_url: "https://mushie.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A Swedish-born baby brand that paints its world in #fcfaf7 — a warm, almost chalky off-white that feels like unbleached cotton rather than sterile hospital white. Against this canvas, #d2815f (a dried-clay terracotta) and #c35121 (a deeper burnt sienna) appear as accent notes, not primary statements, giving the brand a grounded, earthy pulse without shouting "baby pink" or "pastel blue." The palette leans heavily on #4e4e50 and #575757 — soft charcoals that read as gentle ink rather than harsh black — while #f3ece7 and #f8f0e7 layer in as surface tones that mimic the warmth of sanded wood or unglazed ceramic. Product photography carries the weight: toys, bibs, and pacifiers sit in generous whitespace with soft shadows, the brand trusting object silhouette over decorative clutter. Rounded corners hover at {rounded.sm} to {rounded.md} — never pill-shaped, never sharp — suggesting softness without the saccharine. Navigation stays minimal: a single logo mark, a search icon, a cart badge, and a hamburger menu on mobile, all in #0f0f0f against the warm canvas. The checkout flow, likely powered by Shopify, introduces #007aff (a standard platform blue) that breaks the earthy contract — a known gap the brand tolerates for conversion. Type is absent from extracted CSS beyond swiper-icons, suggesting a system font stack or a single weight of a geometric sans-serif, letting materiality and color do the emotional work.
 
@@ -364,6 +368,13 @@ components:
 - Product filters: horizontal strip on desktop collapses to a "Filter" button + modal drawer on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

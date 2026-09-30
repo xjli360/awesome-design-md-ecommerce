@@ -4,6 +4,10 @@ name: "Birmingham Pen Co."
 source_url: "https://www.birminghampens.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The first color you encounter on birminghampens.com reads less like a brand choice and more like a well-shaken bottle of iron gall ink — #b74038, a deep brick-crimson that sits closer to oxidized copper than fire-engine red, carrying the warmth of Birmingham's metalworking heritage into every primary CTA and hover state. Young Serif handles all display work at normal weight, bringing an unhurried editorial gravity to pen names and collection headers that conjures the pleasure of a hand-typeset broadside; Figtree runs the interface layer — nav links, body copy, price strings, filter pills — as a clean geometric sans that keeps commerce legible without competing with the serif's personality. The canvas is #fafaf6, a warm off-white that reads like quality laid paper rather than a screen default, while the near-black body sits at #2e2e28, noticeably brown-tinted rather than neutral — a detail that makes text feel inked rather than printed. A secondary voltage, amber #ffb503, surfaces on sale badges and highlight moments; the color of brass nibs and sealing wax, it signals warmth and craft rather than markdown urgency. Corners stay deliberately modest: {rounded.xs} (4px) on buttons and inputs, {rounded.sm} (8px) on cards — precise enough to suggest hand-finishing, nothing so round it reads as consumer-app. Ink swatches render as small filled circles ({rounded.full}) with a thin hairline ring on hover, giving the catalog its most distinctive UI moment: a row of ink puddles, each named. The overall register is workshop-serious: a brand that names products plainly, photographs them on the warm canvas without lifestyle staging, and trusts the objects themselves to close the sale. No gradients, no neon, no hero text overlaid on lifestyle imagery — just objects, light, and two fonts working in deliberate contrast.
 
@@ -377,6 +381,14 @@ components:
 - Footer columns collapse from four-column to two-column at 744px and single-column at 480px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

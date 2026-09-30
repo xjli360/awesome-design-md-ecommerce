@@ -4,6 +4,10 @@ name: "Fabletics"
 source_url: "https://fabletics.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every Fabletics landing page opens at impact — a full-bleed athlete in motion against deep charcoal, making the brand's GT Pressura display text land at 80px weight-800 like a physical object rather than a type choice. GT Pressura is the single typeface across all surfaces, a geometric grotesque athletic enough to hold at extreme display scale yet clean enough for 14px body copy, with no secondary font brought in to signal luxury or softness. The extracted palette is sparse — just #9d9d9c reaching through the JavaScript-loaded token system — but that confirmed neutral reads clearly as disabled state and secondary text in a system that otherwise operates at the poles: deep charcoal surface, white canvas in content zones, and a warm CTA red in the #e03 family that fires every primary action. The VIP membership mechanic shapes the component inventory in ways that distinguish Fabletics from standard DTC athleticwear: countdown timers live below hero sections, quiz-entry CTAs surface within two scrolls on every landing page, and member price renders in the accent red beside a struck-through retail price on every product tile. Buttons carry zero border-radius and uppercase lettering — 52px tall, weight 700, tracking opened slightly — a sharp geometry that reads confident rather than approachable, matching the brand's performance-first posture over the softly rounded competitors that lean on boutique minimalism. Product cards tile at 3:4 portrait aspect ratio in dense 4-column desktop grids, hover behavior swapping to a second lifestyle shot, with a badge system running BESTSELLER and sale-percentage overlays in label-uppercase at 11px letter-spaced 1.5px. Navigation megamenus embed editorial imagery panels beside category links, hinting at catalog depth that spans leggings, sports bras, outerwear, and menswear. Footer and primary hero sections share the same deep dark canvas, giving the brand's high-contrast identity a consistent frame at entry and exit.
 
@@ -377,6 +381,13 @@ components:
 - Footer: 4-column link grid collapses to accordion-style expandable sections on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

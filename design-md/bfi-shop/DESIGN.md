@@ -4,6 +4,10 @@ name: "BFI Shop"
 source_url: "https://shop.bfi.org.uk"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep violet #783df6 anchors the BFI Shop experience — not a timid accent but a confident, almost theatrical primary that appears on every add-to-bag button, navigation highlight, and membership badge. This purple, paired with a secondary royal blue #003399, evokes the BFI's institutional heritage while the violet signals a modern, curated film-merchandise sensibility. The canvas is near-white #fefefe, with a warm gray #e8e8e8 for card backgrounds and a cool medium gray #494949 for body text, creating a clean, readable hierarchy that lets film posters and product photography carry the emotional weight. Typography runs Helvetica Neue Medium at modest sizes — display sits at 20–24px rather than the heavy 700+ weights common in e-commerce — trusting the brand's cultural authority over typographic muscle. Search bars use {rounded.full} pill shapes, product cards employ {rounded.sm} corners, and the persistent top nav carries the BFI logo alongside a dark #1e1e1e background for the primary navigation strip. The checkout flow introduces a secondary dark surface #202024 for the cart sidebar, creating a distinct transactional zone. Membership badges and limited-edition tags use the violet #783df6 against white, while sold-out indicators shift to the muted #e6e6e6. The overall mood is that of a cinema lobby gift shop — polished, slightly dramatic, and deeply respectful of the films it represents.
 
@@ -287,6 +291,14 @@ components:
 - Search bar expands to full width on mobile when focused
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "MVMT"
 source_url: "https://mvmt.com"
 captured_at: "2026-09-28T04:16:24.396337+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   MVMT's storefront CSS shows a high-contrast, editorial palette built from near-black text (#1c1c1c, #232323), true black (#000000, #121212) and white (#ffffff), with soft neutrals (#efefef, #dedede) used for panels and hairlines. The only saturated brand-adjacent color found in functional UI (not payment-network logos) is a teal-blue pair (#1990c6 default, #136f99 hover) drawn from the Shopify accelerated-checkout button, which we treat as the interactive accent. A warm taupe (#b9b3a8) appears in the palette and is proposed as a secondary, lower-emphasis accent. Payment-icon colors (#eb001b, #f79e1b, #ff5f00, #0071ce, #142fbd, #1532cb) are excluded from brand roles since they belong to third-party wallet marks, not MVMT's own system.
 
@@ -143,6 +147,12 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets should be at least 44px tall, matching the accelerated-checkout button's `clamp(25px, 44px, 55px)` sizing pattern found in evidence. Nav collapse to an off-canvas/hamburger menu below tablet is a standard proposal, not confirmed via captured mobile markup.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/JS extraction only; no live rendering, viewport testing, or interaction recording was performed. Several badge and status colors (sale, sold-out, success/warning/error) exist only as unconverted `rgb()` triples in custom properties and were intentionally excluded from the hex-only color tokens above, so badge semantics are approximated using existing palette entries. The mapping of "brandon-grotesque"/"ivypresto-headline" to specific heading/body roles is inferred from naming and CSS variable structure, not a confirmed style guide. Payment-network colors (Mastercard, Amex, Visa, PayPal blues/reds/oranges) were deliberately excluded from brand roles. All spacing, rounded-corner, and component states (hover, focus, disabled, mobile nav) beyond the single documented checkout-button radius (`0px`) and hover color are proposed, not observed. Licensing and availability of "brandon-grotesque" and "ivypresto-headline" as web fonts were not verified.

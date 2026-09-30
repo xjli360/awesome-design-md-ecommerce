@@ -4,6 +4,10 @@ name: "Grab Green"
 source_url: "https://grabgreenhome.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A laundry and home-cleaning brand that uses a deep forest green (#1f3521) as its environmental anchor — not as a primary CTA color but as a persistent brand signature on packaging, badges, and accent elements, while the actual interactive system runs on a warm charcoal (#303030) and a sandy beige (#dfd5c4) that reads more like a natural-fiber textile than a typical cleaning aisle. The palette is deliberately low-contrast: body text sits at #707070 on a #f7f7f7 canvas, avoiding the harsh black-on-white of most CPG sites, and the hairline (#e0e0e0) is soft enough to feel like a pencil sketch. A single red alert (#d12121) and a muted coral (#cc6328) provide the only heat in the system, used sparingly for sale badges and error states. Typography runs ValueSans across all weights — a clean, slightly condensed geometric that avoids the friendly roundness of a brand like Method or the clinical sans of Seventh Generation. The site reads as a Grove Collaborative sub-brand (the page title confirms it), which means the navigation and checkout are inherited from Grove's ecosystem, but Grab Green's own product cards use a distinctive {rounded.sm} corner on a white (#ffffff) surface with the forest-green badge pinned to the top-left. The overall feeling is of a brand that trusts its ingredients list more than its marketing — the design steps back and lets the "plant-powered" messaging breathe on a quiet, beige-tinted stage.
 
@@ -440,6 +444,13 @@ components:
 - The hero banner collapses from a two-column layout (text + image) to a single stacked column on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

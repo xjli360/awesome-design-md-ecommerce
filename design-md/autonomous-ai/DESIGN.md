@@ -4,6 +4,10 @@ name: "Autonomous.ai"
 source_url: "https://www.autonomous.ai"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Fraunces — an optical-size variable serif with ink-trap details designed for print-scale headlines — appears as display type and price numerals across a standing-desk configurator, a jarring and productive pairing with the JetBrains Mono specification tables sitting just below it. The three-register typographic system maps precisely onto the brand's three actual audiences: someone scrolling lifestyle photography of a cleared desk, someone comparing motor lift ranges and load capacities, and someone integrating the desk's USB-C hub into a home automation stack. The color vocabulary reinforces the same layered logic: a single electric blue — #1174dc — carries all primary CTAs and interactive states, positioned between corporate navy and startup cobalt without landing on either. Blue-tinted surface layers (#eff5f8, #e7f0ff, #d0e1fe) spread beneath card grids and configurator panels, keeping the interface cool without the warmth that would undercut the technical register. The badge system earns its specificity: #ff9900 amber marks sale pricing, #1ab759 green marks stock and deal states, #ff3333 red handles urgency — three semantic hues that can appear simultaneously on a single product card during deal windows and reward fast visual scanning without iconography. The canvas runs near-white (#f8f8f8, #fafafa) rather than pure white, slightly compressing contrast and reducing eye strain across long research sessions where a shopper is comparing six desk configurations side by side. Prices render in Fraunces at 24px/700 — the single most conspicuous editorial moment on a product card — while specifications lock to JetBrains Mono, grounding dimension data in a monospace register that implies measurement precision. Corner radii stay conservative throughout: {rounded.sm} on buttons and inputs, {rounded.md} on cards, nothing that suggests softness or playfulness. The overall effect is a precision catalog with editorial ambitions — a shop that treats knowing the difference between desk load ratings as a design asset rather than a footnote.
 
@@ -477,6 +481,14 @@ The four-badge semantic system — `badge-sale` (amber #ff9900), `badge-availabl
 - Spec-table horizontal scroll activates at < 744px; column headers become sticky left rail
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

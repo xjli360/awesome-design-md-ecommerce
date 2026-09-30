@@ -4,6 +4,10 @@ name: "Benjamin Moore"
 source_url: "https://benjaminmoore.com"
 captured_at: "2026-09-28T09:56:26.825613+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Benjamin Moore's homepage evidence points to a neutral, paper-and-charcoal foundation punctuated by rotating paint-swatch color. The body background (#EFEFEF) and a near-black ink (#1A1A1A) form the primary reading surface, observed directly on `body` and the `.toggleBtn` component, which also shows an inferred border/rule role for the same dark tone. A saturated blue (#367fda) appears distinct from the earthy, muted swatch palette and is treated here as the interactive/link accent, though its exact UI role (link vs. CTA) is inferred rather than confirmed. The remaining palette is dominated by warm, desaturated clay, sand, forest, and navy tones (e.g. #b36957, #9c6040, #306e6d, #2b3762, #af8840) consistent with a paint retailer showcasing color chips; these are mapped as accent/swatch tokens rather than core UI chrome, since the CSS evidence shows them appearing as content, not structural color.
 
@@ -141,6 +145,14 @@ components:
 Recommended, not measured, breakpoints: mobile ≤480px, tablet 481–1024px, desktop ≥1025px. Navigation is proposed to collapse into a toggle/hamburger pattern below tablet width, consistent with the `.toggleBtn` disclosure control observed in CSS. Touch targets should be at least 44×44px for buttons and swatch tiles. Product/color-swatch grids are proposed to reflow from multi-column (desktop) to 2-column (tablet) to single-column (mobile), but no grid or media-query evidence was supplied to confirm actual behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This interpretation is derived from a limited static CSS/text snapshot and does not reflect verified live rendering, responsive breakpoints, or interaction states (hover, focus, active, disabled). The role of #367fda as a primary/CTA color is inferred from its visual distinctiveness, not confirmed usage. Component definitions beyond `.toggleBtn` and `body` are proposed patterns, not extracted selectors. Macklin and Moderat are treated as the brand's custom typefaces based on font-family evidence, but licensing, weight availability, and fallback behavior were not verified. Spacing and rounded-corner scales beyond the observed 16px/24px padding are proposed defaults for consistency, not measured values. Mobile layout, grid structure, and footer/nav markup were not present in the supplied evidence.

@@ -4,6 +4,10 @@ name: "J. Hannah"
 source_url: "https://jhannahjewelry.com"
 captured_at: "2026-09-29T04:01:18.720420+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   J. Hannah's storefront CSS points to a restrained, materials-first aesthetic consistent with a Los Angeles fine-jewelry maker working in solid 14k gold and sterling silver. The theme declares an explicit --color-primary of rgba(65,54,34,1) (#413622, a dark warm bronze/umber) and --color-secondary of #393624, both warm near-blacks that read as ink rather than saturated brand color — likely standing in for text and dark UI chrome. --color-background is declared as white, and the palette includes soft off-whites (#fcfbf9, #f5f0e4, #fdfdfd) that are inferred as card and section surface tones layered over pure white. A cooler #1990c6/#136f99 pair appears only inside the Shopify accelerated-checkout button styles, so it is treated as a payment-provider default rather than a brand accent, though it is preserved here for CTA usability. #a82323 appears only in a low-opacity utility class and is mapped speculatively to an alert/error role pending confirmation. Typography evidence lists a serif family (Allegro) alongside Times fallbacks and a "folio-book" family, paired with a custom sans "JH Gothic" and Helvetica Neue fallbacks — interpreted here as serif display type over sans-serif UI/body text, matching the brand's "modern relic" positioning. Grid tokens (24-column desktop, 8-column at the "l" breakpoint, 16–20px insets) are carried through as spacing/layout guidance.
 
@@ -90,6 +94,12 @@ components:
 This table is a **recommendation derived from declared CSS custom properties**, not measured rendered behavior. Touch targets for buttons and nav items should target a minimum 44px hit area (matching `--swiper-navigation-size: 44px` as a size cue); mobile nav collapse into a hamburger/drawer pattern is proposed, not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Extraction is static (CSS + text only); no DOM screenshots, computed styles, or interaction states (hover, focus, active, error) were captured beyond the few pseudo-classes present in source (e.g., `:hover` on the checkout button).

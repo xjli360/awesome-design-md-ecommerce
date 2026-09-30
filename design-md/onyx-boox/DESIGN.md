@@ -4,6 +4,10 @@ name: "Onyx Boox"
 source_url: "https://shop.boox.com"
 captured_at: "2026-09-28T04:56:59.651398+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from the BOOX Shop storefront, the official e-commerce site for Onyx's E Ink tablets, e-readers, and accessories. The observed palette is dominated by neutral grays and near-blacks (#000000, #232323, #3c3c3c, #333333, #787878) against white and off-white surfaces (#ffffff, #f9f9f9, #f8f8f8, #fafafa), consistent with a photography-led product catalog that lets device screens and hardware carry visual weight. A warm red-orange (#ff674b) appears in the supplied palette and is assigned here as the primary accent/CTA color, since no button-specific rule confirmed its role in the extracted CSS; this mapping is inferred, not observed. A darker neutral (#3c3c3c) is confirmed as the header-top background with white text, so it is retained as a "dark-surface" utility for top bars or footers. Placeholder and helper text use a mid-gray (#787878), and hairlines/dividers are proposed from light grays present in the palette (#e6e6e6, #cccccc). Typography uses the observed system-font stack (Roboto, -apple-system, Segoe UI, Helvetica Neue, Arial, sans-serif) with FontAwesome for iconography; no proprietary display typeface was present in the evidence, so all type sizing below is a proposed scale layered onto the confirmed family. Layout components (nav, hero, product card, spec table) are proposed patterns appropriate to an E Ink device storefront, not measured DOM structures.
 
@@ -148,6 +152,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets for buttons and nav icons should be at least 44×44px. The header's language/currency dropdown and cart drawer should collapse into a full-screen overlay below the tablet breakpoint. Sticky-header background transition (`#f9f9f9` → `#fff`) should be preserved across breakpoints since it is a confirmed CSS state.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

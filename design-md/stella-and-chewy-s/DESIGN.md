@@ -4,6 +4,10 @@ name: "Stella & Chewy's"
 source_url: "https://stellaandchewys.com"
 captured_at: "2026-09-29T03:54:31.056909+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from Shopify theme CSS variables and observed
   hex values for Stella & Chewy's, a freeze-dried raw pet food brand. The
@@ -168,6 +172,12 @@ A compact, proposed breakpoint table (not measured from live rendering):
 Touch targets should be at least 44px in height, consistent with the `--shopify-accelerated-checkout-button-block-size` default of 44px seen in checkout button CSS. Navigation collapse into a hamburger/drawer pattern is a standard proposal for the smaller breakpoint and was not directly observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

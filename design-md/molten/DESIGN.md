@@ -4,6 +4,10 @@ name: "Molten"
 source_url: "https://www.moltenusa.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, saturated blue (#003399) anchors the entire brand — not as a quiet background but as an active, confident primary that appears on every product page, navigation element, and primary CTA. This is not the generic blue of a thousand startups; it is a specific, almost electric ultramarine that carries the weight of precision sports equipment. A secondary purple (#221155) adds a layer of depth and sophistication, appearing in footer backgrounds, secondary badges, and hover states, creating a two-tone system that feels both athletic and premium. The brand trusts its color to do the heavy lifting: white canvas (#ffffff) provides clean breathing room, while the deep blue and purple create a visual tension that suggests performance and durability. There are no gradients, no decorative flourishes — every design decision serves clarity and hierarchy. The typography system is built on a single sans-serif stack, with display sizes at 32px and 24px using a weight of 700 for maximum impact, while body text at 16px and 14px stays at 400 for readability. Buttons are generously padded at 16px 32px with a subtle 8px radius, making them feel substantial and trustworthy. The overall impression is of a brand that knows exactly what it is: serious about sports, confident in its heritage, and unwilling to compromise on visual clarity.
 
@@ -670,6 +674,13 @@ components:
 - Multi-step forms collapse to single-step vertical layout on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

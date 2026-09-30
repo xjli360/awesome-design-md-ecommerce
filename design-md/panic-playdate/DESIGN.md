@@ -4,6 +4,10 @@ name: "Panic (Playdate)"
 source_url: "https://play.date"
 captured_at: "2026-09-28T04:57:56.157478+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Playdate's site evidence points to a bright, toy-like palette layered over a neutral, near-monochrome UI shell. The dominant accent is a warm brand yellow (#ffc833, close to the device's own #fbc651 shell color), paired with a dark warm-black ink (#312f28, the CSS "screen-black") used for both body text and, inverted, as button fill. Backgrounds sit on a soft off-white/gray (#efefef, #f5f5f5) rather than pure white, with true white (#ffffff) reserved for cards and inputs. A vivid purple (#6c00ff) and an orange-red (#ef5023) appear as secondary/link and negative-state accents respectively, echoing the playful multi-color game icons visible in the evidence. Typography is set in "Roobert" with Helvetica/sans-serif fallback — a single observed family used here across all scales via weight and size variation, since no distinct display face was supplied.
   This interpretation treats yellow as the primary brand accent (not the default button color, which the CSS actually keys to ink-on-white), ink as body/on-primary text, and purple as the interactive/link color, all explicitly inferred mappings. Corner radii, spacing, and component states are proposed conventions calibrated loosely to observed rem/em radii, not measured pixel values.
@@ -160,6 +164,13 @@ This is a recommended, non-measured breakpoint scheme, since no media queries or
 Touch targets for buttons and nav-bar links should maintain a minimum 44×44px hit area, consistent with the pill-shaped buttons' generous padding (`0.25em–0.35em` vertical, `0.7em` horizontal) observed in the CSS. All of the above is proposed guidance, not measured from the live site.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

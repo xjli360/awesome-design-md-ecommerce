@@ -4,6 +4,10 @@ name: "Novo Guitars"
 source_url: "https://www.novoguitars.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Novo Guitars lands on a canvas the color of aged bone — #e8e8e1, a warm off-white that registers less as a website background and more as the cream binding on a 1950s archtop. Against this understated ground, Open Sans carries all text at practical weights, a deliberate voice for a maker whose instruments do the speaking. The single voltage color is #ffde16, a chrome-yellow that reads as headstock-bright — not playful, not corporate, but metallically specific, the hue of a vintage Kluson tuner button or a well-lit selector switch cap. Primary CTAs fire in this yellow against near-black #231f20 ink, a lacquer-meets-binding contrast pair that sidesteps tech-brand convention entirely.
 
@@ -307,6 +311,13 @@ components:
 - Hero text moves below the image on mobile (stacked block layout) rather than overlapping the photograph
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

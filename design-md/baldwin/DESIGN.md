@@ -4,6 +4,10 @@ name: "Baldwin"
 source_url: "https://baldwinhardware.com"
 captured_at: "2026-09-28T09:05:29.916065+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Baldwin Hardware's site CSS confirms a neutral, high-contrast system: white canvas (#ffffff), near-black body copy (#212529), and pure black (#000000) as the primary action color used on .btn-primary and .btn-black. Bootstrap-derived utility colors (grays #6c757d/#343a40/#f8f9fa, borders #dee2e6, status reds/greens/yellows) remain in the CSS variable set alongside three brand-named custom properties — --estate (#af4640), --prestige (#de9c5c), --reserve (#45707e) — and --gold (#98846d), which map to Baldwin's Estate, Reserve, and cabinet/brass product portfolios referenced in the page copy. These portfolio colors are treated as accent/identifier tones rather than primary UI color, since no selector usage was supplied beyond the :root declaration.
   Typography is confirmed only through the body and heading rules: the system font stack (-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif) at 16px/1.5 for body text, with headings set to font-weight:500 and line-height:1.2 via `font-family: inherit`. Although the asset list contains Montserrat, Gotham SSm, Lato, and condensed display fonts, no CSS rule in evidence applies them, so this spec does not assign them to any typographic role — all tokens below use the confirmed system stack. The resulting interpretation is a restrained, brass-and-black luxury-hardware aesthetic: black CTAs on white surfaces, warm portfolio accents used sparingly for badges/category tags, and generous whitespace suited to a durable-goods catalog.
@@ -152,6 +156,14 @@ Recommended, not measured:
 Breakpoints reuse the confirmed Bootstrap `--breakpoint-*` custom properties (576/768/992/1200px). Touch targets are recommended at a minimum 44×44px for nav and swatch controls; mobile nav collapse behavior is proposed, not observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived solely from static CSS/text extraction; no rendered layout, hover/focus states, animation, or JavaScript-driven interaction (e.g., Lock Designer configurator) was observed. Font-family roles are restricted to the system stack confirmed in the `body`/`h1–h6` rules; Montserrat, Gotham SSm, Lato, and condensed families appear only in the raw font-asset list without an accompanying selector, so they are excluded from all typography tokens pending further evidence. Semantic color roles (ink/muted/hairline/surface tones) are inferred groupings of Bootstrap-style CSS variables, not brand-declared design-system names. All pixel sizes in the typography scale beyond the confirmed 16px body/500-weight headings are proposed placeholders. Mobile/responsive behavior, breakpoint-specific component states, and custom-font licensing/availability have not been verified against the live site.

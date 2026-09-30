@@ -4,6 +4,10 @@ name: "Compartes"
 source_url: "https://compartes.com"
 captured_at: "2026-09-29T03:55:25.314562+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Compartés presents itself as a heritage Los Angeles chocolatier (est. 1950) repositioned as a modern luxury-gifting brand, evidenced by CSS variables named --color-cocoa, --color-chocolate, and --color-cream-tint, and by button/body classes built on the Figtree sans-serif. The observed palette centers on deep umber-browns (#31261d, #1a1612) against warm off-white canvases (#fefefd, #f9f6f0, #f2e9db), with a muted tan (#94795d) for secondary text and hairlines, and a warm gold (#c9a75a, #e6cd8f) reserved for accents befitting "award-winning" and "private reserve" language. A burgundy (#622128) and a deep navy (#101c40) also appear in the palette; their exact UI role is unmeasured, so they are treated here as inferred seasonal/accent colors rather than primary brand colors. Typography pairs the utilitarian Figtree for UI/body copy with Adobe Kepler serif families (display, subhead, caption, with Georgia/Charter/Palatino fallbacks) for editorial headings, matching the site's "House of Compartés" storytelling tone. Notably, --radius-scale is set to 0 in the observed CSS, flattening most corners except a pill-shaped filter radius (9999px) — this interpretation keeps a broader rounded scale available but flags it as proposed beyond those two confirmed states.
 
@@ -147,6 +151,13 @@ components:
 This table is a recommendation based on the presence of width/nav CSS variables, not measured rendered behavior. Mobile menu, hamburger animation, and gesture support were not present in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

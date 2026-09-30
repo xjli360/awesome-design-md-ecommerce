@@ -4,6 +4,10 @@ name: "Grand Seiko"
 source_url: "https://www.grand-seiko.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Grand Seiko's digital canvas opens on photography that behaves more like landscape painting than product documentation — a dial magnified until its texture reads as terrain: a frozen lake, a birch forest, snowflakes caught mid-fall above the Shinshu highlands. The dominant navigation color is `#000040`, a midnight navy so deep it borders on space-black, and it carries none of the urgency of a conventional luxury brand's gold-or-red hierarchy. It is still, precise, and as deliberately placed as a hand-polished bevel on a Zaratsu-finished case. As the page opens into product territory, the canvas lightens through `#f6f6f6` and `#eeeeee`, a seamless shift from brand gravity toward the clarity needed to evaluate a dial gradient or a movement specification.
 
@@ -343,6 +347,13 @@ components:
 - `dial-detail-panel` shifts from horizontal rows to vertical stacked blocks on mobile, each block separated by `{colors.hairline}`
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

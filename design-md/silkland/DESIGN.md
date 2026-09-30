@@ -4,6 +4,10 @@ name: "Silkland"
 source_url: "https://www.silkland.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Two gradient stops — #4e54c8 deep indigo and #8f94fb periwinkle — constitute the entire extracted chromatic identity of Silkland, a cables-and-adapters brand that chose a palette more at home in a fintech dashboard or SaaS onboarding screen than on accessory packaging. The indigo-to-lavender sweep fires across primary CTAs and hero surfaces, replacing the metallic grays and safety-red accents that crowd the cable category with something cooler and more metropolitan. Against that violet wash, white canvas (`{colors.canvas}`) and the near-ghost `{colors.surface-soft}` carry product photography and compatibility grids without competing. The font stack is purely system — Geneva leads, followed by Segoe UI, Tahoma, and Verdana — meaning renders vary by platform: slightly warmer and condensed on macOS, crisper on Windows. Rather than fighting this, the design leans on weight contrast (700 for headings, 400 for body) and conservative line-heights to maintain hierarchy across environments without a custom typeface.
 
@@ -366,6 +370,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

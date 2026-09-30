@@ -4,6 +4,10 @@ name: "R&R Games"
 source_url: "https://rnrgames.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A game publisher that uses a sharp lime-green #97c300 as its primary voltage — not the warm amber of a family-game night or the deep blue of strategy titles, but a high-frequency, almost acidic green that reads as modern and competitive. That green sits against a near-white canvas of #f6f6f6 and #f9f9f9, with secondary accents in gold (#eebe00, #e8af00) for badges and callouts, and a coral-red #ff4f60 for urgency signals like sale tags or limited-time banners. The typography runs Roboto at clean, readable weights — no display black or ultra-bold; the brand trusts game photography and bold color blocks rather than typographic hierarchy to carry energy. Buttons use the lime green with white text, corners at {rounded.sm} (8px) — soft enough to feel approachable, not pill-shaped like a social app. The extracted palette reveals a heavy reliance on grays (#8c8c8c, #444444, #eeeeee) for structural elements: hairline borders, muted body text, and secondary backgrounds. This is a system built for a catalog of dozens of game titles — the design recedes enough to let each product's box art and photography lead, while the green and gold provide consistent brand grip across product cards, nav bars, and CTAs. The footer and legal areas drop into darker grays (#2c2c2c) and deep green (#045304), creating a clear visual basement. There is no hero gradient, no large display type — the brand's design language is modular, grid-based, and built for scale across hundreds of SKUs.
 
@@ -399,6 +403,13 @@ components:
 - Hero banner collapses from side-by-side text/image to stacked layout below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "WizKids"
 source_url: "https://wizkids.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A tabletop RPG brand that wears its gold #986c15 like a guild emblem — it appears on every primary CTA, product-badge border, and category header, anchoring a system that otherwise runs on cool grays (#747474, #3e3e3e, #aaaaaa) and a bone-white canvas (#f8f8f8). The extracted palette reveals a brand that uses color sparingly but with intention: a deep navy #003388 surfaces in footer links and secondary headers, a forest-green #65bc7b marks in-stock indicators, and a warning-red #d04544 flags sold-out or limited-run items. Type is where WizKids distinguishes itself — Captain Nelson, a serif inline printed face, appears on product titles and hero headers, while Klinic Slab Bold and Klinic Slab Book handle subheads and body copy, giving the site a letterpress-meets-gaming-guild feel. Open Sans and PT Sans serve as fallback workhorses for navigation and utility text. Product cards use soft {rounded.sm} corners and a light #ebeaea hairline, with hover states that shift the card background to #f9f9f9. The brand's signature move is the gold-accented badge — a {rounded.xs} pill in #986c15 with white text — that labels "New Release," "Pre-Order," and "Exclusive" across the catalog. Buttons follow a two-tier system: gold-filled for primary actions, gray-outlined (#747474) for secondary, both at 48px height with {rounded.sm} corners. The overall impression is a digital game shop that respects the tactility of physical miniatures and rulebooks — generous whitespace, restrained color, and typography that feels stamped rather than set.
 
@@ -357,6 +361,13 @@ components:
 - Product grid collapses from 4 columns to 1 on mobile, 2 on tablet
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

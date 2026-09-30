@@ -4,6 +4,10 @@ name: "Kong"
 source_url: "https://kongcompany.com"
 captured_at: "2026-09-28T04:47:03.033032+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   KONG's storefront runs on a stock BigCommerce Stencil theme, so the extracted CSS shows a neutral, utilitarian foundation (white canvas, near-black type, gray hairlines) carrying one clear brand accent: a saturated red (#d61b37) used for primary buttons and cart-caption overlays, deepening to #961024 on hover/active. Typography pairs Jost for body copy with Oswald for headings and buttons — both are observed via explicit font-family declarations, with Arial/Helvetica/sans-serif as measured fallbacks. Other family names in the raw evidence (Comic Relief, Montserrat, Mulish) appear in the CSS bundle but are not tied to any selector in the supplied rules, so they are omitted from the typography system as unverified.
   The broader palette (golds, oranges, blues, greens) reflects seasonal/category badges (Halloween, 50th-anniversary gold) and BigCommerce form-state colors (success/info/warning tints) rather than core brand identity; this spec treats the red/black/white/gray set as primary and reuses the remaining hues sparingly for promotional and status accents, with those role assignments marked inferred. Radii and spacing follow the single observed 4px button/pagination radius, extended into a proposed scale. Layout, responsive behavior, and hover/focus states beyond the two documented button rules are proposed patterns for a chew-toy/pet-product storefront, not confirmed observations.
@@ -152,6 +156,13 @@ Proposed, not measured from live rendering — inferred only from the presence o
 Touch targets should be at least 44px for cart/nav icons; the mobile menu and cart drawer are assumed to use overlay/slide patterns typical of Stencil themes, but no interaction behavior was directly observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is built from static CSS/text extraction only; no rendered page, computed layout, or DOM screenshots were available. Font sizes, letter-spacing beyond the two observed heading/button rules, and all component paddings/breakpoints are proposed estimates, not measurements. Color-to-role mapping for non-button colors (gold, orange, blue, green tints) is inferred from general palette presence and BigCommerce form-state conventions, not confirmed selectors. Jost and Oswald are used as observed font-family declarations; their licensing, hosting, and actual availability were not verified. Additional font names present in the raw CSS bundle (Comic Relief, Montserrat, Mulish) had no associated selector evidence and were excluded. No hover/focus/active states, mobile menu behavior, or cart-drawer interactions were directly observed — all are proposed conventions for BigCommerce Stencil storefronts.

@@ -4,6 +4,10 @@ name: "Eventide"
 source_url: "https://www.eventideaudio.com"
 captured_at: "2026-09-28T10:10:06.489305+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Eventide's public site is a WordPress/Astra-based storefront for professional
   effects pedals, rack processors, and plug-ins, and its extracted CSS is
@@ -170,6 +174,13 @@ A compact, proposed breakpoint table (not measured from live responsive behavior
 Touch targets are recommended at a minimum 44×44px for nav items, buttons, and player controls. Given the deep multi-level navigation implied by the text excerpt (Products → Effects Pedals/Plug-ins/Subscriptions/Rack Effects/Eurorack/Broadcast/Software/Apps), a collapsible accordion pattern is recommended for mobile rather than nested hover menus. This section is a design recommendation only; no actual responsive markup or breakpoints were observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

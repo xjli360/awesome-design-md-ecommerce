@@ -4,6 +4,10 @@ name: "Mason-Kay"
 source_url: "https://www.masonkay.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The green at the center of Mason-Kay's identity is not a trend color — it is #009200, the precise saturation of living moss on jade stone under gallery lighting, deployed as the brand's single chromatic commitment across every primary action and navigational signal. A second, lighter jade (#71c764) serves as hover states and decorative borders, creating a two-green system that mirrors how jadeite itself grades from light to imperial. Against these two greens, the page runs on #2e2e2e — a dark, near-black slate that carries all body text — with #003399 appearing as a legacy-blue link register, the kind of utilitarian link color that specialist retailer sites of long standing tend to preserve rather than redesign. The overall palette reads scholarly and horticultural at once: a natural history museum's color logic applied to a jewelry catalog. Type is set in a serif display (the site's font extraction returned an ambiguous class identifier rather than a named typeface; see Known Gaps) over a clean system sans for body copy, a pairing that signals institutional authority — Mason-Kay leans on certification language, grade taxonomy (A-grade, B-grade, Type A jadeite), and provenance documentation as primary sales arguments rather than lifestyle aspiration. Product photography is pulled against white or near-white surfaces, letting the stone's translucency and color depth carry the image. Corners stay modestly rounded, nothing pill-shaped; the UI vocabulary is that of a specialist dealer rather than a mass-market jeweler. Navigation is dense and taxonomic — stone type, cut, setting metal, price range — because Mason-Kay's buyer is filtering by geological criteria, not browsing a mood board. CTAs in #009200 with white labels sit at comfortable height and full-width on mobile, collapsing a complex catalog into a clean commerce surface. The deep blue (#003399) appears primarily on inline text links and informational copy about jade grading, a functional accent that keeps scholarly authority without competing with the primary jade green.
 
@@ -360,6 +364,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

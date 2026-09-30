@@ -4,6 +4,10 @@ name: "Hobby Link Japan"
 source_url: "https://www.hlj.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A dense, inventory-first import shop where #0066c8 — a saturated corporate blue pulled straight from a Bandai catalog header — governs every primary action, while #ea345d, a sharp Japanese-flag accent, marks sale badges and urgent notifications against a #f0f0f0 canvas that reads more warehouse than boutique. The site stacks thousands of product SKUs in a tight, monochrome grid of #4d4d4d body text on white cards, with #c5c5c5 hairline borders and #979797 muted labels that keep visual noise low despite the sheer volume of data. Montserrat-Regular at 14–16px drives the reading experience, but the real typographic signature is the 11px uppercase badge — #ea345d on white or #fffa90 on #777620 — that screams "Preorder" or "Sale" in a language every hobbyist understands. Navigation is a two-tier affair: a dark #232323 utility bar for account and cart, then a #0066c8 mega-menu bar that fans out into categories like "Plastic Model Kits" and "Action Figures" with #1e82c0 hover states. The search bar, a full-width #ffffff pill with #d2d2d2 border, sits under the logo like a command line — this is a site built for people who know exactly what they want. Product cards use {rounded.xs} corners, just enough to soften the hard stock-photo edges, and the footer collapses into a #2b2b2b slab with #dad55e links that echo the yellow of Gundam packaging tape. Every design decision defers to the catalog: the blue is the brand's handshake, the pink is the urgent tap on the shoulder, and the gray is the shelf.
 
@@ -370,6 +374,13 @@ components:
 - Breadcrumbs: truncate with "..." on mobile, showing only current page and parent.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

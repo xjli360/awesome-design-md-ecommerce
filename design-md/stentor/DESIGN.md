@@ -4,6 +4,10 @@ name: "Stentor"
 source_url: "https://www.stentor-music.com"
 captured_at: "2026-09-28T04:09:23.294049+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Stentor's public stylesheet is a stock Bootstrap 2.x build: a 14px Helvetica
   Neue/Helvetica/Arial sans-serif body at 20px line-height, bold heading
@@ -161,6 +165,13 @@ Recommendation only — no responsive behavior was observed in the supplied evid
 Touch targets should be at least 40px tall (spacing.xl-adjacent) for buttons and nav items; collapse pattern for nav-bar is a standard hamburger/disclosure proposal, not confirmed from markup.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

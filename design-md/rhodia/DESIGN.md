@@ -4,6 +4,10 @@ name: "Rhodia"
 source_url: "https://www.rhodiapads.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Lime green at `#72c02c` is where the entire site concentrates its color budget — a single mid-spectrum accent cutting through a strict progression of grays that runs from near-black `#080808` through charcoal `#444444`, smoke `#777777`, pale ash `#bbbbbb`, and a near-white page surface at `#f5f5f5`. Everything else is functional: hairline borders at `#eeeeee` dissolve into card backgrounds, Bootstrap-derived alert fills confirm actions in success green (`#dff0d8`), warning amber (`#fcf8e3`), danger rose (`#f2dede`), and info blue (`#d9edf7`) without emotional charge. Type runs Open Sans first, falling through Arial, Helvetica Neue, and Helvetica — a humanist sans-serif that matches the mechanical precision of Rhodia's grid-ruled paper without feeling clinical. Consolas and Courier New handle monospace contexts — product codes, ruling specifications, the small numeric data that stationery buyers read closely.
 
@@ -378,6 +382,13 @@ components:
 - Footer reflows from four columns to two at tablet, single column at mobile; heading/links remain visually grouped per section
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

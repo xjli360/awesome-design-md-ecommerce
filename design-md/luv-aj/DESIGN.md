@@ -4,6 +4,10 @@ name: "Luv Aj"
 source_url: "https://luvaj.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Freight Big Pro in condensed italic at large display weights — a long-descender editorial serif that evokes runway lookbooks rather than jeweler's catalogues — is the single loudest typographic decision on Luv Aj's site, and it sets the tone immediately. This is an LA-rooted brand that treats chain layering and ear-cuff stacking as wardrobe attitude, not occasion accessorizing. The color system resolves almost entirely to two poles: a near-black primary (#121212) that does double duty as ink, CTA fill, announcement bar background, and footer ground, and a clean white (#ffffff) canvas with a single gray hairline (#dedede) drawing zone boundaries without visual weight. No warm accent punctuates the grid — the #1199ff that surfaces in extraction is an ambient Shopify system artifact, not a brand signal, and the editorial photography carries all the warmth the palette omits. Typography pairs freight-big-pro at light or book weights (often italic) with acumin-pro-wide running navigation and button labels in all-caps tracked at 0.08–0.12em; the long-descender serif against the compressed grotesque creates the brand's core visual tension: glamour in the headline, precision in the label. Every structural edge is hard — buttons carry `{rounded.none}`, product cards share the same zero-radius treatment, and inputs are unrounded boxes with a single bottom-rule focus state. Softness is excluded from the structural layer entirely. The announcement bar is a 36px strip of white-on-black tight caps, the only horizontal interruption to the canvas. Product photography holds a strict 4:5 portrait crop — either the jewel isolated on skin or a close editorial frame — keeping the grid clean and letting stacking combinations read clearly at thumbnail size. Quick-add overlays surface as a full-width black fill on card hover, typography reversed to white, consistent with the brand's preference for binary contrast over gradient softening. Campaign hero blocks use freight-big-pro italic at display-xl scale against full-bleed dark or photograph backgrounds, delivering the editorial-magazine energy that connects Luv Aj's product photography to its broader cultural positioning between streetwear editorial and accessible fine jewelry.
 
@@ -334,6 +338,13 @@ components:
 - Hero editorial split: 50/50 column layout stacks to image-above, text-below on tablet and mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

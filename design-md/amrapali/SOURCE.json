@@ -60,91 +60,7 @@
         "https://amrapalijewels.com/"
       ]
     },
-    "#ffffff": {
-      "count": 56,
-      "sources": [
-        "https://amrapalijewels.com/"
-      ]
-    },
-    "#e11931": {
-      "count": 31,
-      "sources": [
-        "https://amrapalijewels.com/"
-      ]
-    },
-    "#868686": {
-      "count": 14,
-      "sources": [
-        "https://amrapalijewels.com/"
-      ]
-    },
-    "#f5f5f5": {
-      "count": 5,
-      "sources": [
-        "https://amrapalijewels.com/"
-      ]
-    },
-    "#333333": {
-      "count": 4,
-      "sources": [
-        "https://amrapalijewels.com/"
-      ]
-    },
-    "#d3d3d3": {
-      "count": 2,
-      "sources": [
-        "https://amrapalijewels.com/"
-      ]
-    },
-    "#bbbbbb": {
-      "count": 2,
-      "sources": [
-        "https://amrapalijewels.com/"
-      ]
-    },
-    "#dcdcdc": {
-      "count": 2,
-      "sources": [
-        "https://amrapalijewels.com/"
-      ]
-    },
-    "#f3f3f3": {
-      "count": 2,
-      "sources": [
-        "https://amrapalijewels.com/"
-      ]
-    },
-    "#e7e7e7": {
-      "count": 2,
-      "sources": [
-        "https://amrapalijewels.com/"
-      ]
-    },
-    "#005bd3": {
-      "count": 1,
-      "sources": [
-        "https://amrapalijewels.com/"
-      ]
-    },
     "#d49a06": {
-      "count": 1,
-      "sources": [
-        "https://amrapalijewels.com/"
-      ]
-    },
-    "#05aa3d": {
-      "count": 1,
-      "sources": [
-        "https://amrapalijewels.com/"
-      ]
-    },
-    "#ffc0cb": {
-      "count": 1,
-      "sources": [
-        "https://amrapalijewels.com/"
-      ]
-    },
-    "#f61f1f": {
       "count": 1,
       "sources": [
         "https://amrapalijewels.com/"
@@ -156,8 +72,38 @@
         "https://amrapalijewels.com/"
       ]
     },
-    "#ffe500": {
+    "#ffffff": {
+      "count": 56,
+      "sources": [
+        "https://amrapalijewels.com/"
+      ]
+    },
+    "#00000000": {
       "count": 1,
+      "sources": [
+        "https://amrapalijewels.com/"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 2,
+      "sources": [
+        "https://amrapalijewels.com/"
+      ]
+    },
+    "#e11931": {
+      "count": 31,
+      "sources": [
+        "https://amrapalijewels.com/"
+      ]
+    },
+    "#dcdcdc": {
+      "count": 2,
+      "sources": [
+        "https://amrapalijewels.com/"
+      ]
+    },
+    "#333333": {
+      "count": 4,
       "sources": [
         "https://amrapalijewels.com/"
       ]
@@ -168,8 +114,20 @@
         "https://amrapalijewels.com/"
       ]
     },
-    "#f4f4f4": {
-      "count": 1,
+    "#f5f5f5": {
+      "count": 5,
+      "sources": [
+        "https://amrapalijewels.com/"
+      ]
+    },
+    "#868686": {
+      "count": 14,
+      "sources": [
+        "https://amrapalijewels.com/"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 2,
       "sources": [
         "https://amrapalijewels.com/"
       ]
@@ -179,20 +137,8 @@
     "Cormorant Garamond": [
       "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
     ],
-    "Feather": [
-      "https://amrapalijewels.com/cdn/shop/t/2/assets/feather.css?v=102398783625551263341768391028"
-    ],
     "Lato": [
       "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
-    ],
-    "feather": [
-      "https://amrapalijewels.com/cdn/shop/t/2/assets/feather.css?v=102398783625551263341768391028"
-    ],
-    "icomoon": [
-      "https://amrapalijewels.com/cdn/shop/t/2/assets/icomoon.css?v=133400068308511673211773130357"
-    ],
-    "wpbingofont": [
-      "https://amrapalijewels.com/cdn/shop/t/2/assets/wpbingo.css?v=113704213177135829161768391028"
     ]
   },
   "css_rules": [
@@ -353,10 +299,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Amrapali Jewels",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-200",
   "tokens": {
     "colors.primary": {
+      "value": "#e11931",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -364,6 +311,7 @@
       ]
     },
     "colors.ink": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -371,6 +319,7 @@
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -378,6 +327,7 @@
       ]
     },
     "colors.body": {
+      "value": "#333333",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -385,6 +335,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#868686",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -392,6 +343,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#bbbbbb",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -399,6 +351,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#f5f5f5",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -406,6 +359,7 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#f8f8f8",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -413,6 +367,7 @@
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -420,6 +375,7 @@
       ]
     },
     "colors.border-light": {
+      "value": "#e7e7e7",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -427,6 +383,7 @@
       ]
     },
     "colors.divider": {
+      "value": "#dcdcdc",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -434,6 +391,7 @@
       ]
     },
     "colors.accent-gold": {
+      "value": "#d49a06",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -441,6 +399,7 @@
       ]
     },
     "colors.accent-rose": {
+      "value": "#b76e79",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -448,110 +407,378 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "Cormorant Garamond, serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "Cormorant Garamond, serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "Cormorant Garamond, serif",
+        "fontSize": "24px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "Lato, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Lato, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Lato, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "Lato, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": 500,
+        "lineHeight": 1.4,
+        "letterSpacing": "2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "hairlineColor": "{colors.hairline}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.border-light}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.base}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.muted}",
+        "linkColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-gold}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "iconColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.heritage-collection-tile": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.accent-gold}",
+        "titleTypography": "{typography.title-md}",
+        "captionTypography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.lg}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#000000": {
+        "selector": ".wpb-variants-swatch .Black",
+        "property": "background-color",
+        "declaration": "#000000",
+        "url": "https://amrapalijewels.com/",
+        "snapshot": "homepage.html",
+        "sha256": "deb9288c5069a472997ee98366bb278a6a7061f040acbfd8e345c924dd1f0a50"
+      },
+      "#d49a06": {
+        "selector": ".wpb-variants-swatch .Gold",
+        "property": "background-color",
+        "declaration": "#D49A06",
+        "url": "https://amrapalijewels.com/",
+        "snapshot": "homepage.html",
+        "sha256": "deb9288c5069a472997ee98366bb278a6a7061f040acbfd8e345c924dd1f0a50"
+      },
+      "#b76e79": {
+        "selector": ".wpb-variants-swatch .Rose.gold",
+        "property": "background-color",
+        "declaration": "#B76E79",
+        "url": "https://amrapalijewels.com/",
+        "snapshot": "homepage.html",
+        "sha256": "deb9288c5069a472997ee98366bb278a6a7061f040acbfd8e345c924dd1f0a50"
+      },
+      "#ffffff": {
+        "selector": ".wpb-variants-swatch .White",
+        "property": "background-color",
+        "declaration": "#FFFFFF",
+        "url": "https://amrapalijewels.com/",
+        "snapshot": "homepage.html",
+        "sha256": "deb9288c5069a472997ee98366bb278a6a7061f040acbfd8e345c924dd1f0a50"
+      },
+      "#00000000": {
+        "selector": "body.template-index .bwp-header-topbar",
+        "property": "background",
+        "declaration": "rgba(0,0,0,0)",
+        "url": "https://amrapalijewels.com/",
+        "snapshot": "homepage.html",
+        "sha256": "deb9288c5069a472997ee98366bb278a6a7061f040acbfd8e345c924dd1f0a50"
+      },
+      "#bbbbbb": {
+        "selector": ".bwp-header-topbar:before",
+        "property": "border-color",
+        "declaration": "#bbbbbb",
+        "url": "https://amrapalijewels.com/",
+        "snapshot": "homepage.html",
+        "sha256": "deb9288c5069a472997ee98366bb278a6a7061f040acbfd8e345c924dd1f0a50"
+      },
+      "#e11931": {
+        "selector": "#shopify-section-template--26054564544787__slidershow_wFjjfz .wpbingo-slideshow .slick-arrow:hover",
+        "property": "border-color",
+        "declaration": "#e11931",
+        "url": "https://amrapalijewels.com/",
+        "snapshot": "homepage.html",
+        "sha256": "deb9288c5069a472997ee98366bb278a6a7061f040acbfd8e345c924dd1f0a50"
+      },
+      "#dcdcdc": {
+        "selector": ".slider-arrow",
+        "property": "border",
+        "declaration": "1px solid #dcdcdc",
+        "url": "https://amrapalijewels.com/",
+        "snapshot": "homepage.html",
+        "sha256": "deb9288c5069a472997ee98366bb278a6a7061f040acbfd8e345c924dd1f0a50"
+      },
+      "#333333": {
+        "selector": ".slider-arrow span",
+        "property": "border-left",
+        "declaration": "2px solid #333",
+        "url": "https://amrapalijewels.com/",
+        "snapshot": "homepage.html",
+        "sha256": "deb9288c5069a472997ee98366bb278a6a7061f040acbfd8e345c924dd1f0a50"
+      },
+      "#f8f8f8": {
+        "selector": ".ai-banner-grid-item-anm14k1vjrdbqactckaigenblock9e13e0dcjcrxz",
+        "property": "background-color",
+        "declaration": "#f8f8f8",
+        "url": "https://amrapalijewels.com/",
+        "snapshot": "homepage.html",
+        "sha256": "deb9288c5069a472997ee98366bb278a6a7061f040acbfd8e345c924dd1f0a50"
+      },
+      "#f5f5f5": {
+        "selector": ".ai-banner-grid-nav-anm14k1vjrdbqactckaigenblock9e13e0dcjcrxz",
+        "property": "background-color",
+        "declaration": "#f5f5f5",
+        "url": "https://amrapalijewels.com/",
+        "snapshot": "homepage.html",
+        "sha256": "deb9288c5069a472997ee98366bb278a6a7061f040acbfd8e345c924dd1f0a50"
+      },
+      "#868686": {
+        "selector": "#shopify-section-template--26054564544787__featured_custom_section_mLr7Qa .wpbingo-widget--testimonials .testimonial-card__content",
+        "property": "color",
+        "declaration": "#868686",
+        "url": "https://amrapalijewels.com/",
+        "snapshot": "homepage.html",
+        "sha256": "deb9288c5069a472997ee98366bb278a6a7061f040acbfd8e345c924dd1f0a50"
+      },
+      "#e7e7e7": {
+        "selector": "#shopify-block-AMmlKSTVCUHkvRTc3b__line_KMm8ww .bwp-widget-line .wpbingo-section__content",
+        "property": "background",
+        "declaration": "#e7e7e7",
+        "url": "https://amrapalijewels.com/",
+        "snapshot": "homepage.html",
+        "sha256": "deb9288c5069a472997ee98366bb278a6a7061f040acbfd8e345c924dd1f0a50"
+      }
+    },
+    "font_families": {
+      "Cormorant Garamond": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Cormorant Garamond\"",
+        "url": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "1eaa394ba0c83c395725d93bcfb632ab1276e3278d1f4e680ff1852c4de8081d"
+      },
+      "Lato": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Lato\"",
+        "url": "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "5f7fe2a35dcc901b10895cdb83da89f1c0e54cc530f7a928502d9d76e0b07994"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

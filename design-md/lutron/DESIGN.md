@@ -4,6 +4,10 @@ name: "Lutron"
 source_url: "https://www.lutron.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every Lutron control surface is engineered to vanish — flush-mounted keypads in architectural finishes, dimmers that slide without printed labels, apps that mirror the stillness of a properly lit room. The digital expression carries this same discipline. A near-black navy (#0a0e17) dominates hero sections and system-selector panels, implying the enclosure of a well-appointed room rather than the brightness the products command. Against that dark field, warm amber (#e07830) performs exactly the function of a dimmed sconce: it draws the eye to precisely one thing at a time, appearing only on primary CTAs, active navigation states, and product callout moments. The contrast is architectural — dark ground, warm signal.
 
@@ -391,6 +395,13 @@ components:
 - Footer 4-column → 2-column at tablet → single accordion-style column on mobile with expand/collapse per section; legal row always visible
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

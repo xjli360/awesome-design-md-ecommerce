@@ -4,6 +4,10 @@ name: "Hot Spring Spas"
 source_url: "https://www.hotspring.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The thermal teal at `#007681` — not aqua, not navy, but the specific blue-green of mineral-rich spring water — anchors every primary action surface on hotspring.com, from CTA buttons to section dividers, functioning as a single brand voltage that names the product category without words. MuseoSans-300, a genuinely thin humanist face, carries all body copy at weights that feel lighter than most wellness brands dare; the 300 in the font name is not incidental — the brand trusts generous white space and a restrained typographic hand over heavy slab muscle. Roboto Slab steps in for display headings, adding serif warmth that grounds the teal and signals durability for hardware built to last a decade outdoors. The neutral backbone runs from near-black `#434343` ink through midtone grays `#707070` and `#555555` to the light hairline `#eeeeee`, a complete tonal range without a single pure black or pure white in the extracted set. A warm stone tone `#b8a88c` surfaces as an earthy counterpoint to the teal — it appears in lifestyle sections evoking wood cabinetry and cedar deck surroundings rather than clinical pool environments. The accent vocabulary extends to `#63c6bd` (a lighter teal for hover states and badges), `#7aba7b` (sage for eco and FreshWater Salt System indicators), and `#a4d866` (bright lime for energy-efficiency callouts). Corner radii are modest at 4–8px — cards and inputs stay grounded and product-forward rather than playfully pill-shaped, appropriate for an audience making a $5,000–$20,000 purchase decision. Navigation lives in a dark charcoal `#32373c` band capped by a 4px teal stripe at the very top of the viewport, a signature structural accent that reads before any content begins. The navy `#003388` and alert red `#b94a48` are reserved for dealer-network maps and error states respectively, keeping the teal uncontested as the primary brand signal.
 
@@ -408,6 +412,13 @@ components:
 - Wellness callout shifts from two-column to stacked image-below-text at tablet width
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "iBUYPOWER"
 source_url: "https://www.ibuypower.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A high-performance PC builder where the brand voltage comes from a bright, competitive accent — #ee730a, a vivid safety-orange that appears on configurator CTAs, spec badges, and sale flags, cutting through a palette dominated by #404040 ink, #ebebeb hairline, and #ffffff canvas. The site reads like a spec sheet come to life: dense product cards with stacked pricing, wattage ratings, and RGB-switch icons, all held in place by a strict 12-column grid and sharp {rounded.sm} corners on every module. Navigation is a two-tier bar — a thin utility strip of account, support, and financing links in {colors.muted} #737373, then a fat primary bar with dropdown mega-menus for Desktop, Laptop, Parts, and Deals, each category badge carrying the orange #ee730a or a gaming-green #9bca3e. The hero section on the homepage is a full-bleed dark canvas (#272727) with a single hero PC rendered in high-contrast, the CTA button glowing in #ee730a on #ffffff text — no gradient, no shadow, just flat, confident color. Product cards use a three-column layout on desktop, each card a white {surface-card} with a 4:3 product image, a title in {typography.title-md} at 16px/600 weight, a row of spec pills (CPU, GPU, RAM) in {typography.caption} with {rounded.full} backgrounds in #ebebeb, and a price block that stacks MSRP and sale price in #bd2426 red. The checkout flow shifts to a cooler register: #0051c3 blue for primary actions, #163959 for the progress bar, and #f68b1f for financing CTAs — a deliberate palette switch from the gaming-orange of the storefront to a trustworthy, financial-services blue. The typography stack is system-native: -apple-system, Segoe UI, Roboto, Helvetica Neue — no custom font, which keeps page loads fast and the spec-sheet density readable at any zoom level. Every interactive element — buttons, dropdowns, filter chips — uses a 2px focus ring in #62a1d8, a light blue that appears nowhere else in the palette, reserved entirely for accessibility.
 
@@ -503,6 +507,13 @@ components:
 - Hero section collapses from full-bleed to a contained card on mobile, with smaller typography and reduced padding.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

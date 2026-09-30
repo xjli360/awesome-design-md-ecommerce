@@ -4,6 +4,10 @@ name: "Baltic Watches"
 source_url: "https://baltic-watches.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Baltic builds its entire digital identity from a five-stop tonal grayscale — deep navy (#000d1e) through cool off-white (#f2f3f4) — with zero chromatic accent extracted from the live site. Where most watch brands cut in gold, red, or a brand-signature hue to signal premium positioning, Baltic withholds color entirely, letting dial photography carry all the expressive work: a sunburst blue fumé, a warm cream sub-dial, a lacquered black plate. The frame around those images is as neutral as a lightbox. Proxima Nova carries every type role without variation in family — a deliberate choice that keeps the editorial voice clipped and technical. Display headings run at weight 600–700 in tight tracking; product names such as HMS, Bicompax, Aquascaphe, and MR01 render in small-uppercase at `{typography.spec-label}` scale, echoing the engraved caseback discipline of the objects being sold. Body paragraphs stay lean at 16px/400 with 1.6 line-height — long enough to accommodate the French-language copy that appears across the bilingual storefront without crowding. The geometry is strictly orthogonal. Product cards, CTAs, and text inputs share a `{rounded.none}` envelope, and the specification table anchoring every PDP rows watch data — movement, case diameter, lug-to-lug, power reserve, water resistance — behind `{colors.hairline}` dividers at #cccfd2. The deep navy (`{colors.primary}`) doubles as hero background and mobile navigation drawer fill, creating a consistent dark-on-dark environment where `{colors.on-primary}` text reads cleanly against the near-black ground. `{colors.surface-soft}` at #f2f3f4 provides the only warmth in the palette, lifting product cards and form fields off the white canvas. Baltic's restraint is its product argument: a brand confident enough in its movements and dial craft to present them on a monochrome stage.
 
@@ -354,6 +358,14 @@ components:
 - Filter panel: persistent sidebar on desktop → full-screen overlay on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

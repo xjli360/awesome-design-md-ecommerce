@@ -4,6 +4,10 @@ name: "1944 Militaria"
 source_url: "https://www.1944militaria.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The year in the brand name is a credential, not a conceit — 1944 signals that every artifact in this store is calibrated to a specific historical moment, and the visual system honors that weight through a palette drawn directly from the era's material culture. Deep navy uniform blue (#2a2c6b) anchors primary surfaces: a color close enough to wartime officer dress blues to read as archival rather than invented. Military olive (#5a7d2c) functions as the secondary accent — not a trendy sage but a true field-drab green that sits alongside the navy the way a service ribbon sits against a jacket, the most brand-distinctive color in the extracted set. Warm amber cascading through rust (#f68721 through #d4612c) handles promotional heat — sale callouts, featured badges, urgency tiers — evoking aged brass hardware rather than generic e-commerce orange. Type runs in Lato, a humanist sans-serif that balances ledger-like legibility with enough warmth to feel like archival labels transcribed to screen; Open Sans handles secondary copy at 14–16px across dense catalog pages where condition grades, provenance notes, and lot numbers compete for attention. Button radii stay low at {rounded.xs}, avoiding the pill softness of lifestyle retail in favor of institutional precision. Product cards give photography maximum surface area on clean white canvas (#ffffff), with olive condition badges marking authenticated pieces and amber tags flagging featured lots. The nav carries deep navy as a full-width banner with reversed white type — visual shorthand for authority and provenance. Spacing inside individual product listings is generous to let object detail read clearly, while the category rail and filter sidebar compress to serve the collector who moves fast through deep inventory. The footer grounds in dark steel-blue (#194769), where authentication policies and shipping guarantees sit in small caption type that reads like fine print in an auction house catalog.
 
@@ -363,6 +367,14 @@ components:
 - Footer columns: each section collapses to an accordion row with caption-strong +/– toggle; all collapsed by default on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

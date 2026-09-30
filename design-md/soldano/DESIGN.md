@@ -4,6 +4,10 @@ name: "Soldano"
 source_url: "https://www.soldano.com"
 captured_at: "2026-09-29T04:01:37.442041+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Soldano's storefront runs on a WooCommerce/Divi stack whose observed CSS is
   dominated by pure black (#000000) and white (#ffffff), with body copy set
@@ -155,6 +159,13 @@ components:
 Proposed breakpoints (not measured from the live site): mobile ≤480px, tablet 481–1024px, desktop ≥1025px, aligned loosely to the theme's `--wp--style--global--content-size` (823px) and `--wide-size` (1080px) tokens, which suggest a content column near 823px and a wide layout ceiling near 1080px. Nav should collapse to an off-canvas/slide-in menu below tablet width (consistent with the `.et_slide_in_menu_container` selectors present in evidence), touch targets should be at least 44px tall for cart, nav, and configurator controls, and product-card grids should reduce from a multi-column layout to a single column below 480px. This section is a recommendation only; no responsive CSS or viewport behavior was directly observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

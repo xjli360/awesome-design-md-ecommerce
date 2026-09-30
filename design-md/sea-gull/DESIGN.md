@@ -4,6 +4,10 @@ name: "Sea Gull"
 source_url: "https://seagulllighting.com"
 captured_at: "2026-09-28T09:18:43.178583+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Sea Gull Lighting's markup exposes a legacy catalog-site stack: a 1124px fixed
   `.full-body` wrapper, small utility type classes (bodytype9 through
@@ -159,6 +163,13 @@ Recommended, not measured: stack the fixed 1124px `.full-body` layout into fluid
 | <480px | Mobile portrait, single-column |
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This is a static-extraction interpretation: no JavaScript-driven states (hover, focus, active, mega-menu behavior) were observed, and no live layout, breakpoints, or mobile rendering were captured. Font availability and licensing for `proxima-nova-condensed` and the Avenir LT W01 variants listed in evidence were not verified and may require licensing to use as specified. Color-to-role mapping (primary, hero, badge, alert) is inferred from limited, small-scale utility classes and may not reflect actual brand guidelines. All typography sizes above the smallest observed (9–12px) utility classes are proposed placeholders for hierarchy, not measured values.

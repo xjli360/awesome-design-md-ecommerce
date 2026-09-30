@@ -4,6 +4,10 @@ name: "The First Edition Rare Books"
 source_url: "https://thefirstedition.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A bookseller that treats its inventory as museum objects, not merchandise — the site reads like a private collection catalogue printed on heavy stock. The canvas is a warm off-white (#f5f2ed), not clinical white, and the primary ink is a deep, almost-black charcoal (#1a1a1a) that avoids the harshness of true black. Every product card is a softly bordered rectangle with `{rounded.sm}` corners, housing a single book photograph against a white surface-card (#ffffff) — the image is the artifact, the text is the provenance. The typography leans on a classic serif for display and a clean sans-serif for body, a pairing that signals both authority and readability. The primary action color is a restrained dark olive (#4a5d4e), used sparingly for "Add to Cart" buttons and category tags — it never shouts. Navigation is a thin, persistent bar with the brand name in a refined serif, and the search bar sits as a `{rounded.full}` pill with a magnifying-glass icon, inviting discovery without urgency. The overall feel is that of a quiet reading room: generous whitespace, minimal decoration, and a deep respect for the printed object.
 
@@ -365,6 +369,13 @@ components:
 - The footer stacks its columns vertically on mobile, with each section (About, Help, Social) taking full width.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

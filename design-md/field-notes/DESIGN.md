@@ -4,6 +4,10 @@ name: "Field Notes"
 source_url: "https://fieldnotesbrand.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Sixty-four pages stapled into a 3.5 × 5.5-inch kraft cover generated an entire visual identity around the discipline of what fits in a shirt pocket. The primary voltage is a dense cobalt (#003399) — the kind of blue that appears on government stationery and railway timetables rather than on product landing pages — and it carries every CTA, link, and structural accent against a warm khaki ground (#aea288, also the meta theme-color) that reads like aged bond paper under incandescent light. A third tone, steel blue (#3f8da7), steps in for mid-hierarchy product tags and catalog callouts without competing with the cobalt's authority. New Century Schoolbook (newcenturyschoolw01-rg) does nearly all the editorial work: its bracketed serifs and generous x-height trace back to nineteenth-century American newspaper composition, giving price lines and body copy a ledger quality rather than a designed-in affect. At large sizes with tight tracking, the same family becomes the display voice, recalling the rubber-stamp labels pressed into memo book covers. Corner radii stay minimal — product cards sit at `{rounded.xs}`, interactive elements at `{rounded.sm}`, structural panels at `{rounded.none}` — because the memo book itself has no rounded corners. Spacing mirrors the economy of a narrow-ruled page: `{spacing.base}` and `{spacing.lg}` run the grid, `{spacing.section}` appears only at editorial breaks between the catalog runs that separate new editions from archive stock. The warm putty of `{colors.brand-tan}` avoids both beige and brown, reading as something found on a workshop bench; it anchors the palette against the risk of the cobalt drifting into tech-brand territory. Limited-edition releases rotate through custom cover colors each quarter, but the nav chrome, footer grid, and button system hold constant — that structural consistency is what makes seasonal variety legible rather than chaotic. Every badge, strip, and label in the UI echoes the product itself: terse, stamped-looking, confident in a very small amount of space.
 
@@ -350,6 +354,13 @@ components:
 - Search: persistent inline bar in nav on desktop → icon-only with full-screen expand on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

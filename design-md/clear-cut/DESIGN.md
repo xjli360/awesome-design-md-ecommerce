@@ -4,6 +4,10 @@ name: "The Clear Cut"
 source_url: "https://www.theclearcut.co"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   NoeDisplay paired with Raisonne is the tell — The Clear Cut is a media property that happens to sell diamonds, not a jeweler that added a blog. NoeDisplayMedium renders headlines with the authority of a fashion magazine masthead; its wedge serifs carry editorial confidence that Garamond fallbacks echo at lower fidelity. Raisonne's geometric letterforms handle navigation, specification tables, and carat weights with the crispness the 4Cs demand. The warm cream canvas (#f5f4f2) is the brand's most consequential decision: it refuses the cold white-and-steel grammar of traditional diamond retail, reading instead as though a printed lookbook has been digitised. The palette extends from this cream into a cluster of soft pastels — powder blue (#c4d6e0), blush peach (#f7d0bb), dusty lavender (#e6d1ea), and muted mauve (#947481) — used as surface tints for editorial cards, education modules, and category pages rather than as CTA colors. Primary actions run on near-black (#202223), setting a sober, authoritative tone against the warm ground. Button shapes stay mildly rounded (`{rounded.sm}`) rather than fully pill-shaped, signalling precision over approachability. The overall register is closer to a magazine like Porter or Vogue Living than to a traditional jewellery counter — prices are treated as data, diamonds as subjects worth studying, and the site architecture foregrounds education (What Is the Best Diamond Shape? The 4Cs Explained) as prominently as commerce. The extraction surfaced a notably broad palette for a single brand; the pastels are almost certainly thematic background swatches for content categories rather than a single accent, making the powder blue #c4d6e0 the best candidate for the "primary" brand color anchoring the cool editorial identity, even while dark ink handles the action layer.
 
@@ -398,6 +402,13 @@ components:
 - Hero headline scale drops from `{typography.display-xl}` to `{typography.display-lg}` on mobile; subhead to `{typography.body-sm}`
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Health-Ade"
 source_url: "https://health-ade.com"
 captured_at: "2026-09-29T04:10:06.548961+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Health-Ade's storefront CSS exposes a navy-on-white brand core: root
   variables set `--color-foreground`, `--color-button`, and `--color-link`
@@ -199,6 +203,13 @@ Touch targets for buttons/badges should target a minimum 44px hit area per
 common accessibility guidance; this is a recommendation only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

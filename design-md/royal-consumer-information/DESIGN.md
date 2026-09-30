@@ -4,6 +4,10 @@ name: "Royal Consumer Information"
 source_url: "https://www.royal.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Navy and amber sit together the way a government-issue hallmark does — Royal's #003388 deep blue and #f7b818 gold carry institutional weight that makes sense for a company that has been manufacturing paper-handling machines since 1904. The custom "Rey Primary" typeface anchors display headings and navigation labels; Open Sans carries body copy and spec data at modest weights, keeping feature comparison tables and DIN-rating readouts clean without academic formality. Primary interactive chrome — buttons, links, focus rings — runs on #055e94, a mid-range royal blue that reads as authoritative on both white canvas and product photography. The golden amber (#f7b818) surfaces strictly as a promotional signal: sale flags, new-arrival callouts, limited-run badges. It never appears as a primary button color, preserving its meaning as a reward marker rather than a navigation device.
 
@@ -393,6 +397,13 @@ components:
 - Footer link columns collapse to a single accordion on mobile; each column heading becomes an expand toggle
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

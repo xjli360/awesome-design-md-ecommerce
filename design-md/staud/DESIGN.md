@@ -4,6 +4,10 @@ name: "Staud"
 source_url: "https://staud.clothing"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every call-to-action on staud.clothing glows in amber (#f59e0b) — a single warm voltage inside an editorial shell built almost entirely from near-blacks and off-white. Three near-identical darks (#141414, #1f1f1f, #121212) layer the type hierarchy from display to caption, their contrast delta so compressed that the UI reads as monochromatic from a distance; only the amber CTA and the brand's saturated photography interrupt that grayscale register. The amber at #fbbf24 appears as a secondary hover tone, giving the primary action color a one-step warmth shift rather than a simple darken. Inter, the Swiss-neutral system sans-serif, carries all type: display headers sit at weight 300 with open line-height, uppercase nav labels are set at 500 with measured letter-spacing, and the gap between them is bridged by a tightly controlled scale. No custom typeface is used; letter-spacing and weight alone separate editorial from functional.
 
@@ -311,6 +315,13 @@ components:
 - Mega-menu: full-width desktop panel → full-screen drawer on mobile with back-navigation per category level
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

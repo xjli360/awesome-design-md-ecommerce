@@ -4,6 +4,10 @@ name: "Quincy Mae"
 source_url: "https://quincymae.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A baby-clothing brand that uses a single warm charcoal (#313131) as its entire color story — no pastel pinks, no mint greens, no nursery-soft blues. The extracted palette is a monochrome reduction: one dark neutral applied to every headline, button, link, and product title against a pure white canvas. This is a deliberate editorial choice — the clothes are the color, not the interface. Product photography of swaddles, rompers, and sleep sacks in muted earth tones (oatmeal, sage, clay) does all the emotional work; the UI steps back into near-invisibility. Type runs the system stack at modest sizes — body copy at 14px, display at 24px — with no custom font declaration found, suggesting the brand trusts legibility over personality. Buttons are compact at 40px height with {rounded.sm} corners, never pill-shaped, never oversized. The overall effect is a quiet, restrained storefront that feels more like a minimalist Japanese boutique than a typical baby brand. There are no badges, no sale banners, no urgency patterns — just product, description, and the single charcoal thread holding it together.
 
@@ -372,6 +376,13 @@ components:
 - Secondary navigation (utility links like "Search," "Account") collapses into the hamburger menu on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

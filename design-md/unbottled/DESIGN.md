@@ -4,6 +4,10 @@ name: "Unbottled"
 source_url: "https://unbottled.co"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Unbottled is a French body-care brand that has built its entire visual identity around the conviction that solid, plastic-free products should feel like a small daily luxury, not a sacrifice. The palette is anchored by a warm, almost edible coral — `#f79b76` — that appears on primary buttons, badges, and accent elements, giving every interaction a soft, sunlit glow. This is balanced against a deep teal `#108474` used for secondary actions, selected-product highlights, and the brand's signature "solid" badge, creating a natural, botanical tension between earth and fruit. The canvas is a clean `#eeeeee` rather than pure white, lending the entire site a slightly warmer, more tactile feel than the typical stark e-commerce template. Typography relies on DM Sans for body text and DM Serif Display for headlines, a pairing that reads as both contemporary and artisanal — the serif brings a touch of editorial sophistication to product titles, while the sans keeps navigation and pricing clean. Accent yellows (`#fde16c`, `#fbcd0a`) and a muted lavender (`#a89cc8`) appear in limited, intentional doses — on sale badges, star ratings, and secondary informational tags — preventing the palette from feeling monochromatic. The brand's commitment to `{rounded.full}` pills for buttons and `{rounded.sm}` for cards creates a friendly, approachable interface where nothing feels sharp or industrial. This is a design system that trusts color over chrome, using generous `{spacing.xl}` and `{spacing.xxl}` gutters to let product photography and the warm coral-teal contrast breathe.
 
@@ -348,6 +352,13 @@ components:
 - Product image galleries switch from thumbnail strip to swipeable dots on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

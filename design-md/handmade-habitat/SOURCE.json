@@ -54,25 +54,6 @@
     }
   ],
   "colors": {
-    "#edbcb5": {
-      "count": 4,
-      "sources": [
-        "https://www.handmadehabitat.co/"
-      ]
-    },
-    "#ffffff": {
-      "count": 3,
-      "sources": [
-        "https://www.handmadehabitat.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://www.handmadehabitat.co/cdn/shop/t/2/assets/base.css?v=1539170451765018161782177833"
-      ]
-    },
-    "#ffffff00": {
-      "count": 3,
-      "sources": [
-        "https://www.handmadehabitat.co/cdn/shop/t/2/assets/base.css?v=1539170451765018161782177833"
-      ]
-    },
     "#faf8f5": {
       "count": 2,
       "sources": [
@@ -85,45 +66,26 @@
         "https://www.handmadehabitat.co/"
       ]
     },
+    "#edbcb5": {
+      "count": 4,
+      "sources": [
+        "https://www.handmadehabitat.co/"
+      ]
+    },
     "#c16f64": {
       "count": 2,
       "sources": [
         "https://www.handmadehabitat.co/"
       ]
     },
-    "#18566c": {
+    "#000000": {
       "count": 2,
       "sources": [
         "https://www.handmadehabitat.co/"
       ]
     },
-    "#00000000": {
-      "count": 2,
-      "sources": [
-        "https://www.handmadehabitat.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
-    "#dedede": {
-      "count": 2,
-      "sources": [
-        "https://www.handmadehabitat.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
-    "#000000": {
-      "count": 2,
-      "sources": [
-        "https://www.handmadehabitat.co/cdn/shop/t/2/assets/base.css?v=1539170451765018161782177833",
-        "https://www.handmadehabitat.co/cdn/shop/t/2/assets/component-localization-form.css?v=170315343355214948141765468189"
-      ]
-    },
-    "#0000000d": {
-      "count": 2,
-      "sources": [
-        "https://www.handmadehabitat.co/cdn/shop/t/2/assets/base.css?v=1539170451765018161782177833"
-      ]
-    },
-    "#0071ce": {
-      "count": 1,
+    "#ffffff": {
+      "count": 3,
       "sources": [
         "https://www.handmadehabitat.co/"
       ]
@@ -135,36 +97,6 @@
       ]
     },
     "#232323": {
-      "count": 1,
-      "sources": [
-        "https://www.handmadehabitat.co/"
-      ]
-    },
-    "#eb001b": {
-      "count": 1,
-      "sources": [
-        "https://www.handmadehabitat.co/"
-      ]
-    },
-    "#f79e1b": {
-      "count": 1,
-      "sources": [
-        "https://www.handmadehabitat.co/"
-      ]
-    },
-    "#ff5f00": {
-      "count": 1,
-      "sources": [
-        "https://www.handmadehabitat.co/"
-      ]
-    },
-    "#142fbd": {
-      "count": 1,
-      "sources": [
-        "https://www.handmadehabitat.co/"
-      ]
-    },
-    "#1532cb": {
       "count": 1,
       "sources": [
         "https://www.handmadehabitat.co/"
@@ -182,8 +114,8 @@
         "https://www.handmadehabitat.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
       ]
     },
-    "#121212": {
-      "count": 1,
+    "#dedede": {
+      "count": 2,
       "sources": [
         "https://www.handmadehabitat.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
       ]
@@ -198,9 +130,6 @@
   "font_families": {
     "Cormorant": [
       "https://www.handmadehabitat.co/"
-    ],
-    "object-fit: contain": [
-      "https://www.handmadehabitat.co/cdn/shop/t/2/assets/component-predictive-search.css?v=118923337488134913561765468189"
     ]
   },
   "css_rules": [
@@ -361,10 +290,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Handmade Habitat",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-200",
   "tokens": {
     "colors.primary": {
+      "value": "#c16f64",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -372,6 +302,7 @@
       ]
     },
     "colors.ink": {
+      "value": "#232323",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -379,6 +310,7 @@
       ]
     },
     "colors.canvas": {
+      "value": "#faf8f5",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -386,6 +318,7 @@
       ]
     },
     "colors.body": {
+      "value": "#1c1c1c",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -393,6 +326,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#854435",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -400,6 +334,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#dedede",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -407,6 +342,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#edbcb5",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -414,22 +350,23 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.handmadehabitat.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://www.handmadehabitat.co/cdn/shop/t/2/assets/base.css?v=1539170451765018161782177833"
+        "https://www.handmadehabitat.co/"
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.handmadehabitat.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://www.handmadehabitat.co/cdn/shop/t/2/assets/base.css?v=1539170451765018161782177833"
+        "https://www.handmadehabitat.co/"
       ]
     },
     "colors.accent-teal": {
+      "value": "#1990c6",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -437,6 +374,7 @@
       ]
     },
     "colors.accent-teal-hover": {
+      "value": "#136f99",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -444,6 +382,7 @@
       ]
     },
     "colors.overlay-scrim": {
+      "value": "#00000080",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -451,110 +390,361 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "Cormorant, serif",
+        "fontSize": "48px",
+        "fontWeight": 500,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "Cormorant, serif",
+        "fontSize": "34px",
+        "fontWeight": 500,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "Cormorant, serif",
+        "fontSize": "24px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "0.06rem"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "Cormorant, serif",
+        "fontSize": "15px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0.06rem"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Cormorant, serif",
+        "fontSize": "13px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0.06rem"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Cormorant, serif",
+        "fontSize": "11px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.08rem"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "Cormorant, serif",
+        "fontSize": "15px",
+        "fontWeight": 500,
+        "lineHeight": 1,
+        "letterSpacing": "0.06rem"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "borderColor": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.xs}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}",
+        "padding": "{spacing.base}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.muted}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.scent-swatch": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.full}",
+        "labelTypography": "{typography.caption}",
+        "padding": "{spacing.xs}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#faf8f5": {
+        "selector": ":root,\n        .color-scheme-1",
+        "property": "--gradient-background",
+        "declaration": "#faf8f5",
+        "url": "https://www.handmadehabitat.co/",
+        "snapshot": "homepage.html",
+        "sha256": "cc3ab78c0e32be93a1929aa757da0284e26fe37c33c5baeec72c546a4757ef4a"
+      },
+      "#854435": {
+        "selector": ".color-scheme-2",
+        "property": "--gradient-background",
+        "declaration": "#854435",
+        "url": "https://www.handmadehabitat.co/",
+        "snapshot": "homepage.html",
+        "sha256": "cc3ab78c0e32be93a1929aa757da0284e26fe37c33c5baeec72c546a4757ef4a"
+      },
+      "#edbcb5": {
+        "selector": ".color-scheme-3",
+        "property": "--gradient-background",
+        "declaration": "#edbcb5",
+        "url": "https://www.handmadehabitat.co/",
+        "snapshot": "homepage.html",
+        "sha256": "cc3ab78c0e32be93a1929aa757da0284e26fe37c33c5baeec72c546a4757ef4a"
+      },
+      "#c16f64": {
+        "selector": ".color-scheme-4",
+        "property": "--gradient-background",
+        "declaration": "#c16f64",
+        "url": "https://www.handmadehabitat.co/",
+        "snapshot": "homepage.html",
+        "sha256": "cc3ab78c0e32be93a1929aa757da0284e26fe37c33c5baeec72c546a4757ef4a"
+      },
+      "#000000": {
+        "selector": "inline-style",
+        "property": "stroke",
+        "declaration": "black",
+        "url": "https://www.handmadehabitat.co/",
+        "snapshot": "homepage.html",
+        "sha256": "cc3ab78c0e32be93a1929aa757da0284e26fe37c33c5baeec72c546a4757ef4a"
+      },
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "fill",
+        "declaration": "white",
+        "url": "https://www.handmadehabitat.co/",
+        "snapshot": "homepage.html",
+        "sha256": "cc3ab78c0e32be93a1929aa757da0284e26fe37c33c5baeec72c546a4757ef4a"
+      },
+      "#1c1c1c": {
+        "selector": "inline-style",
+        "property": "fill",
+        "declaration": "#1C1C1C",
+        "url": "https://www.handmadehabitat.co/",
+        "snapshot": "homepage.html",
+        "sha256": "cc3ab78c0e32be93a1929aa757da0284e26fe37c33c5baeec72c546a4757ef4a"
+      },
+      "#232323": {
+        "selector": "inline-style",
+        "property": "fill",
+        "declaration": "#232323",
+        "url": "https://www.handmadehabitat.co/",
+        "snapshot": "homepage.html",
+        "sha256": "cc3ab78c0e32be93a1929aa757da0284e26fe37c33c5baeec72c546a4757ef4a"
+      },
+      "#1990c6": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#1990c6",
+        "url": "https://www.handmadehabitat.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#136f99": {
+        "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+        "property": "background-color",
+        "declaration": "#136f99",
+        "url": "https://www.handmadehabitat.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://www.handmadehabitat.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#00000080": {
+        "selector": ".animate--hover-3d-lift .card-wrapper:hover .card--card,.animate--hover-3d-lift .card-wrapper:hover .card--standard .card__inner,.animate--hover-3d-lift .button:not(.button--tertiary):not([disabled]):hover,.animate--hover-3d-lift .shopify-challenge__button:not([disabled]):hover,.animate--hover-3d-li",
+        "property": "box-shadow",
+        "declaration": "-1rem -1rem 1rem -1rem #0000000d,1rem 1rem 1rem -1rem #0000000d,0 0 .5rem #fff0,0 2rem 3.5rem -2rem #00000080",
+        "url": "https://www.handmadehabitat.co/cdn/shop/t/2/assets/base.css?v=1539170451765018161782177833",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "529e72831e5e6a80f86e4f38bc98031f20445281220f84b5478055c35b32b76d"
+      }
+    },
+    "font_families": {
+      "Cormorant": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Cormorant",
+        "url": "https://www.handmadehabitat.co/",
+        "snapshot": "homepage.html",
+        "sha256": "cc3ab78c0e32be93a1929aa757da0284e26fe37c33c5baeec72c546a4757ef4a"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

@@ -4,6 +4,10 @@ name: "Sofia Zakia"
 source_url: "https://www.sofiazakia.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Where most bridal jewelers reach for pale blush or polished platinum, Sofia Zakia anchors its identity in a sumac-dark brown (#4d300f) — a pigment closer to aged amber or dried rosewater than the cool metallics its category defaults to. The canvas is a warm off-white (#fcfcf9), barely distinguishable from cream parchment, and secondary surfaces drift further into golden ivory (#f7f7e8, #f5f5eb) — a thermal palette that suggests handwritten invitations and wax seals rather than digital storefronts. Against this warmth, primary text sits in #22292d, a near-black with just enough green undertone to feel alive rather than stark.
 
@@ -381,6 +385,13 @@ components:
 - Footer collapses from four columns to two on tablet, single column accordion on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

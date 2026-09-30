@@ -4,6 +4,10 @@ name: "Calcana"
 source_url: "https://www.calcana.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The store gate — "Shop Calcana Infrared Heaters | Choose USA or Canada Store" — is the brand's first statement: Calcana routes buyers by jurisdiction before they see a product, the move of a cross-border industrial supplier rather than a lifestyle shop. That operational transparency runs straight through the visual language. The single warm element in an otherwise industrial palette is `#f28c1f`, the precise amber of a gas pilot flame, which appears on every primary CTA and heat-output badge against near-black surfaces (`#151414`, `#2f2e2e`) and cool off-whites (`#f1f0ef`, `#f5f7ff`). Nothing else is warm; the orange earns its temperature through isolation and contrast. Typography reinforces the technical register without tipping into the utilitarian. Futura LT drives headlines and call-to-action labels — geometric and engineered — with uppercase buttons tracked at 1.2px in `{typography.button-md}` that read like silk-screened panel markings. DIN Next Light handles specification labels, sustaining the data-table cadence that commercial and residential contractors expect: BTU output, coverage area, mounting type, IP rating, all in small-caps. Avenir Light carries navigation and secondary copy — still clean-working-class but fractionally warmer than DIN. Proxima Nova handles installation guides and FAQ body text, a dependable serif-substitute for long-form technical prose. Corner radii are nearly flat: `{rounded.xs}` at 4px for buttons and inputs, `{rounded.sm}` at 8px for cards. The spec strip — a full-bleed `{colors.ink}` band carrying BTU, coverage, and rating columns in tracked white caps — is the signature component, porting catalog-page density directly into the product experience. Two geo-flag badges (`badge-usa` in `#116dff`, `badge-canada` in `#df3336`) appear at the product-card level to signal regulatory and shipping jurisdiction, a pattern that belongs to industrial portals rather than consumer lifestyle brands. The footer closes every page with a column-grid in `{colors.ink}` that mirrors the spec strip, making the last impression one of data density rather than brand warmth.
 
@@ -376,6 +380,13 @@ components:
 - Footer: 4-column grid collapses to 2 columns on tablet, single-column accordion on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

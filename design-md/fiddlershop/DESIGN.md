@@ -4,6 +4,10 @@ name: "Fiddlershop"
 source_url: "https://www.fiddlershop.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A warm, instrument-focused marketplace built on a near-white canvas (#ffffff) and a deep, almost-ink black (#121212) that gives every product photo and detail page a crisp, gallery-like presence. The brand’s signature moves are subtle: a soft gray divider (#dedede) that separates sections without visual noise, and a typographic pairing of Figtree (clean, modern sans-serif for navigation and body copy) with Fraunces (a refined, slightly ornamental serif for display headings) that bridges traditional craftsmanship with contemporary e-commerce. Product cards use gentle rounded corners ({rounded.sm}) and generous whitespace ({spacing.lg}) to let the instruments — violins, cellos, basses — command attention. The top navigation is a simple, high-contrast bar with the brand name in Fraunces, signaling heritage, while the search bar and filter controls use Figtree for clarity. There is no aggressive accent color; the brand trusts its product imagery and the stark contrast of {colors.ink} on {colors.canvas} to create hierarchy. Buttons are solid, rectangular, and purposeful — no pill shapes, no gradients — reinforcing a no-nonsense, educational tone that says “we know instruments, and we want you to know them too.” The footer is dense with links, reflecting a catalog-driven business where every product category (violin, viola, cello, bass, accessories) needs clear entry points. The overall feel is that of a specialty shop that has been carefully digitized: clean, trustworthy, and built for browsing with intent.
 
@@ -385,6 +389,13 @@ components:
 - Breadcrumb trail truncates on mobile, showing only the current page and parent category.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

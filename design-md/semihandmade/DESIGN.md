@@ -4,6 +4,10 @@ name: "Semihandmade"
 source_url: "https://semihandmade.com"
 captured_at: "2026-09-29T04:02:52.191535+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Semihandmade's CSS evidence shows a Bootstrap-derived utility system layered with brand-specific type and a warm-coral accent. Headings use "Domaine Sans Text Regular" at font-weight 400, giving a quieter, editorial display voice rather than a bold slab; buttons use "GT America Bold Helvetica" at weight 700, creating clear contrast between calm headlines and assertive calls-to-action. The observed palette centers on a coral/red family (#f16154, #f16255, #d15449) used for accents and CTAs, paired with a deep navy (#001838) and a slate-blue (#43576b) that appears on the header and off-canvas navigation backgrounds. Bootstrap's neutral grays (#f8f9fa, #e9ecef, #ced4da, #6c757d, #212529) supply body text, borders, and light surfaces; a warm off-white (#f7f4f0) is treated here as a card surface to suit a home-goods/materials catalog. Role assignments beyond header background and button styling (e.g. body text color, hairlines, card surfaces) are inferred from Bootstrap defaults and general contrast logic, not confirmed page screenshots. No custom breakpoints, spacing scale, or corner-radius values were observed at scale; those below are proposed conventions sized for a product/e-commerce catalog with swatch and door-style browsing.
 
@@ -153,6 +157,12 @@ This is a recommended breakpoint scheme, not measured site behavior; only Bootst
 Touch targets should meet a 44px minimum tap area for swatch selectors and nav items (proposed, not measured). Off-canvas menu collapse/expand interaction is referenced in copy ("Offcanvas Search," "Back" labels in nav) but exact animation/timing was not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

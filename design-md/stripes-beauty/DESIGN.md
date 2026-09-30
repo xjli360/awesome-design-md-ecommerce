@@ -4,6 +4,10 @@ name: "Stripes Beauty"
 source_url: "https://www.stripesbeauty.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The warmest detail on a Stripes Beauty page is the canvas itself — #fffff3, a cream that sits one step shy of warm paper, placing every element in what reads as ambient domestic light rather than a screen's cold glow. Against this ground, the primary blue (#356687) reads not clinical but intentional: a mid-depth teal-leaning pigment borrowed from botanical illustration rather than pharmaceutical packaging, saturated enough to carry every primary CTA without suggesting an infirmary. Secondary warmth arrives in terracotta (#e08a73) and dusty peach (#eaae9d) — skin-tone adjacents that humanize a wellness category that has historically either been so clinical it chills, or so soft it patronizes.
 
@@ -366,6 +370,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

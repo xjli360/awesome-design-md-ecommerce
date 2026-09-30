@@ -4,6 +4,10 @@ name: "Rise Gardens"
 source_url: "https://risegardens.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The first signal that Rise Gardens means business is chromatic — #50de7f, an electric chlorophyll green that falls somewhere between neon and botanical, saturates every primary call-to-action against a field of white. The color is not aspirational; it is literal. The brand sells living plants growing under LED arrays in modular indoor tower systems, and the green that headlines every buy button is the same hue you would see emerging from a pod tray seventy-two hours after planting. Notably, the on-primary text runs dark (#121212) rather than white, preserving legibility across the full saturation range without washing out the primary voltage. The palette tells a four-chapter story: the electric primary for growth and action; a deep forest anchor (#008968) for hover states and secondary moments that need permanence; a harvest gold (#fec535) for promotions and seasonal callouts that carry warmth without alarm; and a cool teal (#00aba9) that surfaces in tertiary UI, consistent with browser-config assets and a secondary digital presence layer. The gray family is minimal — #dedede serves hairlines and form borders, and near-black (#121212) handles all body text with no intermediate display gray. Typography was not extractable from the live site, consistent with a Shopify theme loading font tokens via JavaScript; the scales here use a clean geometric system sans-serif as proxy, matching the restrained, utilitarian weight the page reads at — display headlines are compact rather than editorial, and buttons use weight 600 at modest letter-spacing. The rounding language leans friendly without tipping into playful: `{rounded.md}` at 12px governs product cards and inputs, while `{rounded.full}` handles grow-stage badges and the progress rings of plant-tracker UI — the organic loop of a seedling indicator. Section spacing breathes generously at `{spacing.section}` 64px, letting hero photography of lush herbs and lettuces carry the persuasion load. A subtle green-tinted surface token (`{colors.surface-soft}`) warms subscription callout panels, keeping the secondary layout layer from reading as neutral gray. Rise Gardens runs on Shopify with a product catalog structured around the garden-as-subscription model, so the component library prioritizes grow-kit cards, plant-stage progress trackers, and recurring-order callouts alongside standard e-commerce anatomy.
 
@@ -393,6 +397,13 @@ components:
 - Footer: single-column accordion links on mobile; 4-column grid at desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

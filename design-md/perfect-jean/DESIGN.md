@@ -4,6 +4,10 @@ name: "The Perfect Jean"
 source_url: "https://theperfectjean.nyc"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Blinding electric yellow (#ffff00) is the first thing a visitor encounters at theperfectjean.nyc — a full-width promotional strip that makes no apologies for its urgency against the composed, denim-blue system beneath it. The structural palette is anchored to #1a6fa7, a medium-value blue that reads like the wash of a well-worn five-pocket, running through primary CTAs, nav link hovers, and interactive states, while a secondary teal (#108474) marks category labels, trust badges, and filter chips with a quieter, more editorial register. Canvas steps back to #f9f9f9 rather than optical white, giving product photography a faint warmth; cards float on this surface without hard borders, relying on color contrast and implied elevation instead. Type makes an unexpected move — display headlines reach for Baskerville, a classical book serif, in a space where most stretch-denim competitors stay strictly geometric sans. The choice communicates longevity and craft: The Perfect Jean is positioned not as a fast-fashion impulse but something worn for years. Body and UI copy falls to Helvetica/Arial, a workhorse stack that keeps mobile readability crisp. Button labels carry weight 600 with a touch of letter-spacing, giving CTAs legibility on small screens without resorting to all-caps aggression. Comfort cues appear as {rounded.full} pill badges in {colors.surface-subtle} with muted uppercase text — "All-day stretch," "Move freely" — placed near product imagery to reinforce the brand's core claim before the visitor reaches the description block. Sale pricing uses #da2e3a, deployed sparingly so it keeps alarm value. Star ratings from the Judgeme widget bring golden #fbcd0a fills against the light card surface, anchoring social proof directly adjacent to the add-to-cart zone. The teal secondary (#0f918b) reappears in trust icons — free shipping, returns, sustainability pledges — giving functional badges a distinct visual register, separated from the blue CTA hierarchy so neither competes for click priority.
 
@@ -351,6 +355,13 @@ components:
 - Size guide link folds into an inline text-button beneath the size selector row on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

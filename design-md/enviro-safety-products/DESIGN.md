@@ -4,6 +4,10 @@ name: "Enviro Safety Products"
 source_url: "https://www.envirosafetyproducts.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Safety orange—#ff6128—doesn't moonlight as a brand color here; it is the raw signal color of hard-hat zones and high-visibility vests, worn without irony across every primary CTA, site header stripe, and promotional ribbon. Enviro Safety Products runs Barlow as its workhorse typeface: condensed, utilitarian, and legible at small sizes, which suits a catalogue where SKU labels, compliance certifications, and bulk-pricing tiers compete for vertical space on a dense product grid. A deep teal (#108474) anchors secondary actions, category navigation markers, and informational callouts, creating a two-signal system with the orange — #ff6128 means buy or act, #108474 means navigate or learn. The background hierarchy is warmer than most industrial ecommerce: #f7f4f2 off-white sits beneath cards, #f9fafb near-white serves as page canvas, while #262626 near-black handles primary ink — readable against both tones without needing heavy text shadows or outlines. Alert logic borrows from OSHA's own color grammar: a cluster of greens (#00aa00, #00a500, #008a00) signals in-stock status and order-success states, while #ea0202 flags out-of-stock and validation errors; procurement buyers already know this system and the brand doesn't have to teach it. Corner rounding stays at `{rounded.xs}`–`{rounded.sm}` on buttons and inputs — 4 to 8px — preserving a functional register that avoids the soft pill shapes of consumer DTC. Category tiles use dark navy (#121f36) as background fields so product photography and icon sets emerge with snap, separate from the primary orange system. Poppins enters as a counterweight to Barlow's density: reserved for trust-block headlines and longer-form reassurance copy where the brand needs to speak credibility rather than catalogue. The teal-light surfaces (#e6f7f4 and #edf5f5) back informational banners and feature callouts, maintaining legibility without pulling the eye away from primary conversion paths.
 
@@ -429,6 +433,13 @@ components:
 - Footer columns: 4-up → 2-up → 1-up stacked on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

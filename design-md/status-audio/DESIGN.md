@@ -4,6 +4,10 @@ name: "Status Audio"
 source_url: "https://status.co"
 captured_at: "2026-09-28T09:22:39.735493+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Status Audio's storefront CSS exposes a navy-and-neutral system anchored by the custom
   property --Status-Blue (#202E3B), which drives all body copy and is treated here as the
@@ -179,6 +183,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be at least 44px in the primary interactive axis, matching the observed `clamp(25px, …, 55px)` height range on the checkout button. Navigation is expected to collapse into a drawer or overlay below the tablet breakpoint; this was not observed and is a UX convention assumption.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

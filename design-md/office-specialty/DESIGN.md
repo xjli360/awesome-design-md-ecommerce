@@ -4,6 +4,10 @@ name: "Office Specialty"
 source_url: "https://www.officespecialty.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The GSA contract number embedded in the page title — "GSA Small Business" — announces Office Specialty's primary customer before a single product loads: this is specification-grade furniture for federal workspace buildouts and modular filing systems, sold through government procurement channels, and #116dff, an institutional cornflower blue, carries that procurement authority into every CTA, link, and active navigation state. It is the blue of government form headers and agency contracting portals, chosen for compliance and recognition rather than brand distinction. The type stack never ventures beyond Arial and Helvetica — system fonts selected for compatibility with locked-down IT environments in federal agencies and corporate facilities departments rather than for aesthetic ambition; near-black #080808 grounds all spec copy and data tables with maximum density, the visual weight of a technical product catalog built to be read, not admired.
 
@@ -338,6 +342,13 @@ components:
 - Two-badge header cluster (GSA + USA MADE) compresses to icon-only at narrowest mobile widths with full text restored at ≥ 375px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

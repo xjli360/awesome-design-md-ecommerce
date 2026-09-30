@@ -4,6 +4,10 @@ name: "TAB"
 source_url: "https://tab.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every color in TAB's palette earns its position by function — the institutional blue (#1863dc) marks every navigable action while alert red (#dc001b) carries decades of physical filing urgency into the UI, and everything else recedes into a graded sequence of near-whites and neutrals that let the catalog breathe. Deep navy (#293c5b) layers across nav bars and section anchors; near-black (#212121) handles primary reading text; medium gray (#858585) labels secondary metadata; and three stepped surface tones — #f4f4f4, #ededed, #ebebeb — establish visual depth without introducing warmth. Red (#dc001b) appears at two deliberate moments: on primary call-to-action buttons where urgency is appropriate to a purchasing workflow, and at alert and error states — a direct inheritance from the physical filing system vocabulary where the red tab means "act on this." The site returns `inherit` for all font stacks, which in a B2B enterprise context reads as intentional rather than incomplete: system fonts render predictably across managed Windows workstations, legacy enterprise browsers, and corporate endpoint configurations, accepting Segoe UI on Windows and Helvetica on Mac without complaint rather than imposing a branded typeface that may not be licensed for deployment environments. Corner radii are nearly absent — `{rounded.xs}` at 4px appears on buttons and inputs while the majority of containers are squared to match the visual grammar of a filing system, where the right angle governs folder edges, drawer labels, and row dividers; only pill badges at `{rounded.full}` use curves, and they signal interactivity rather than brand warmth. Spacing is generous in the data zone and compressed in navigation: product listings and form sections use `{spacing.base}` to `{spacing.lg}` internal padding while nav links stack tightly at `{spacing.sm}` gaps. The product card reads as a data row first — SKU, category, and spec labels competing equally with product imagery — and a visual object second. The overall system is calibrated for procurement professionals navigating hundreds of SKUs across multiple sessions, not for impulse conversion.
 
@@ -365,6 +369,13 @@ components:
 - Footer: 4-column layout → 2 columns at tablet → single stacked column at mobile with 40px section separators
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

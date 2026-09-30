@@ -4,6 +4,10 @@ name: "Lention"
 source_url: "https://www.lention.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A workspace-ergonomics brand that lives in the tension between industrial utility and consumer approachability, anchored on a near-black ink (#222222) and a signature orange (#fd4014) that fires across every primary CTA, badge, and category highlight. The brand uses a restrained palette of warm grays (#f7f7f7, #696969, #878787) and crisp whites (#fff) to create a clean, almost clinical backdrop for product photography, while the orange acts as a single voltage — never competing, always directing. Typography runs Poppins at moderate weights (400-600) with generous line heights, avoiding the heavy 700+ that characterizes pure tech hardware brands; the system trusts product imagery and whitespace over typographic muscle. Navigation is a fixed top bar with a centered logo and dropdown menus, while product cards use soft corners ({rounded.sm}) and hairline borders to frame items without visual clutter. The brand's secondary accent set — a cool blue (#0048ff), a muted teal (#56cfe1), and a safety green (#19bf24) — appears in badges, shipping indicators, and trust signals, suggesting a multi-category marketplace (cables, stands, chargers, monitors) rather than a single-product play. The overall feel is "premium but not precious": a workspace brand that wants you to buy confidently without the Apple-store reverence.
 
@@ -397,6 +401,13 @@ components:
 - Multi-column category grids collapse to single-column carousels on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

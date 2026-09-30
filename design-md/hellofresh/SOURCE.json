@@ -14,32 +14,8 @@
     }
   ],
   "colors": {
-    "#232323": {
-      "count": 67,
-      "sources": [
-        "https://www.hellofresh.com:443/"
-      ]
-    },
     "#ffffff": {
       "count": 19,
-      "sources": [
-        "https://www.hellofresh.com:443/"
-      ]
-    },
-    "#353535": {
-      "count": 14,
-      "sources": [
-        "https://www.hellofresh.com:443/"
-      ]
-    },
-    "#4b4b4b": {
-      "count": 14,
-      "sources": [
-        "https://www.hellofresh.com:443/"
-      ]
-    },
-    "#faf8f3": {
-      "count": 12,
       "sources": [
         "https://www.hellofresh.com:443/"
       ]
@@ -50,26 +26,8 @@
         "https://www.hellofresh.com:443/"
       ]
     },
-    "#ffffff00": {
-      "count": 8,
-      "sources": [
-        "https://www.hellofresh.com:443/"
-      ]
-    },
-    "#656565": {
-      "count": 6,
-      "sources": [
-        "https://www.hellofresh.com:443/"
-      ]
-    },
-    "#adadad": {
-      "count": 4,
-      "sources": [
-        "https://www.hellofresh.com:443/"
-      ]
-    },
-    "#e0e0e0": {
-      "count": 4,
+    "#4b4b4b": {
+      "count": 14,
       "sources": [
         "https://www.hellofresh.com:443/"
       ]
@@ -92,14 +50,20 @@
         "https://www.hellofresh.com:443/"
       ]
     },
-    "#e3e3e3": {
-      "count": 2,
+    "#00000026": {
+      "count": 1,
       "sources": [
         "https://www.hellofresh.com:443/"
       ]
     },
-    "#d2d2d2": {
-      "count": 2,
+    "#00000000": {
+      "count": 1,
+      "sources": [
+        "https://www.hellofresh.com:443/"
+      ]
+    },
+    "#656565": {
+      "count": 6,
       "sources": [
         "https://www.hellofresh.com:443/"
       ]
@@ -110,32 +74,8 @@
         "https://www.hellofresh.com:443/"
       ]
     },
-    "#067a46": {
-      "count": 2,
-      "sources": [
-        "https://www.hellofresh.com:443/"
-      ]
-    },
-    "#c1c1c1": {
-      "count": 2,
-      "sources": [
-        "https://www.hellofresh.com:443/"
-      ]
-    },
-    "#00000026": {
-      "count": 1,
-      "sources": [
-        "https://www.hellofresh.com:443/"
-      ]
-    },
-    "#615c50": {
-      "count": 1,
-      "sources": [
-        "https://www.hellofresh.com:443/"
-      ]
-    },
-    "#4a463d": {
-      "count": 1,
+    "#faf8f3": {
+      "count": 12,
       "sources": [
         "https://www.hellofresh.com:443/"
       ]
@@ -152,6 +92,12 @@
         "https://www.hellofresh.com:443/"
       ]
     },
+    "#e0e0e0": {
+      "count": 4,
+      "sources": [
+        "https://www.hellofresh.com:443/"
+      ]
+    },
     "#009645": {
       "count": 1,
       "sources": [
@@ -159,12 +105,6 @@
       ]
     },
     "#ffcf70": {
-      "count": 1,
-      "sources": [
-        "https://www.hellofresh.com:443/"
-      ]
-    },
-    "#476b2d": {
       "count": 1,
       "sources": [
         "https://www.hellofresh.com:443/"
@@ -182,12 +122,6 @@
         "https://www.hellofresh.com:443/"
       ]
     },
-    "#343434": {
-      "count": 1,
-      "sources": [
-        "https://www.hellofresh.com:443/"
-      ]
-    },
     "#96dc16": {
       "count": 1,
       "sources": [
@@ -196,18 +130,6 @@
     }
   },
   "font_families": {
-    "Arial": [
-      "https://www.hellofresh.com:443/"
-    ],
-    "Geneva": [
-      "https://www.hellofresh.com:443/"
-    ],
-    "Helvetica": [
-      "https://www.hellofresh.com:443/"
-    ],
-    "Verdana": [
-      "https://www.hellofresh.com:443/"
-    ],
     "agrandir-tight-black": [
       "https://www.hellofresh.com:443/"
     ],
@@ -217,7 +139,19 @@
     "roboto": [
       "https://www.hellofresh.com:443/"
     ],
+    "Verdana": [
+      "https://www.hellofresh.com:443/"
+    ],
+    "Geneva": [
+      "https://www.hellofresh.com:443/"
+    ],
     "sans-serif": [
+      "https://www.hellofresh.com:443/"
+    ],
+    "Helvetica": [
+      "https://www.hellofresh.com:443/"
+    ],
+    "Arial": [
       "https://www.hellofresh.com:443/"
     ]
   },
@@ -234,10 +168,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "HelloFresh® Meal Kits | Free Breakfast for Life + 10 Free Meals",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-300",
   "tokens": {
     "colors.primary": {
+      "value": "#009645",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -245,6 +180,7 @@
       ]
     },
     "colors.ink": {
+      "value": "#242424",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -252,6 +188,7 @@
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -259,6 +196,7 @@
       ]
     },
     "colors.body": {
+      "value": "#4b4b4b",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -266,6 +204,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#656565",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -273,6 +212,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#e0e0e0",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -280,6 +220,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#faf8f3",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -287,6 +228,7 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#f7f7f7",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -294,6 +236,7 @@
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -301,6 +244,7 @@
       ]
     },
     "colors.accent-forest": {
+      "value": "#02451d",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -308,6 +252,7 @@
       ]
     },
     "colors.accent-gold": {
+      "value": "#ffcf70",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -315,6 +260,7 @@
       ]
     },
     "colors.accent-lime": {
+      "value": "#96dc16",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -322,6 +268,7 @@
       ]
     },
     "colors.accent-maroon": {
+      "value": "#732429",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -329,6 +276,7 @@
       ]
     },
     "colors.accent-olive": {
+      "value": "#7d7561",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -336,6 +284,7 @@
       ]
     },
     "colors.surface-warm": {
+      "value": "#e0d9cb",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -343,6 +292,7 @@
       ]
     },
     "colors.surface-warm-alt": {
+      "value": "#efe9de",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -350,6 +300,7 @@
       ]
     },
     "colors.border-warm": {
+      "value": "#d3cab7",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -357,6 +308,7 @@
       ]
     },
     "colors.overlay-scrim": {
+      "value": "#00000026",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -364,107 +316,461 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "agrandir-tight-black, Verdana, Geneva, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "agrandir-tight-black, Verdana, Geneva, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "agrandir-tight-bold, Verdana, Geneva, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 600,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "agrandir-tight-bold, Verdana, Geneva, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "agrandir-tight-bold, Verdana, Geneva, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.3px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.plan-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.border-warm}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "titleTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-gold}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "typography": "{typography.body-sm}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": "html,\n        body",
+        "property": "background",
+        "declaration": "#FFFFFF",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      },
+      "#242424": {
+        "selector": "html,\n        body",
+        "property": "color",
+        "declaration": "#242424",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      },
+      "#4b4b4b": {
+        "selector": ".jiTzNt:active",
+        "property": "color",
+        "declaration": "#4B4B4B",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      },
+      "#e0d9cb": {
+        "selector": ".iuINpB:hover",
+        "property": "background-color",
+        "declaration": "#E0D9CB",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      },
+      "#d3cab7": {
+        "selector": ".iuINpB:active",
+        "property": "background-color",
+        "declaration": "#D3CAB7",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      },
+      "#efe9de": {
+        "selector": ".itbzzW",
+        "property": "background-color",
+        "declaration": "#EFE9DE",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      },
+      "#00000026": {
+        "selector": ".itbzzW",
+        "property": "box-shadow",
+        "declaration": "0 0.1875rem 0.5rem 0.25rem #00000026",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      },
+      "#00000000": {
+        "selector": ".jhnHZ",
+        "property": "background-color",
+        "declaration": "transparent",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      },
+      "#656565": {
+        "selector": ".eGUeSE input:focus::-webkit-input-placeholder",
+        "property": "color",
+        "declaration": "#656565",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      },
+      "#7d7561": {
+        "selector": ".enuvfe",
+        "property": "border-color",
+        "declaration": "#7D7561",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      },
+      "#faf8f3": {
+        "selector": ".enuvfe",
+        "property": "background-color",
+        "declaration": "#FAF8F3",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      },
+      "#000000": {
+        "selector": ".cFROwy",
+        "property": "border-color",
+        "declaration": "#000000",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      },
+      "#f7f7f7": {
+        "selector": ".gPexvL:hover",
+        "property": "background-color",
+        "declaration": "#f7f7f7",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      },
+      "#e0e0e0": {
+        "selector": ".dBLWVt",
+        "property": "border-top-color",
+        "declaration": "#E0E0E0",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      },
+      "#009645": {
+        "selector": ".nVsOk",
+        "property": "background-color",
+        "declaration": "#009645",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      },
+      "#ffcf70": {
+        "selector": ".ivZqdh",
+        "property": "background-color",
+        "declaration": "#ffcf70",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      },
+      "#02451d": {
+        "selector": ".jqMmCb",
+        "property": "background-color",
+        "declaration": "#02451D",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      },
+      "#732429": {
+        "selector": ".gRHmAM",
+        "property": "background-color",
+        "declaration": "#732429",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      },
+      "#96dc16": {
+        "selector": ".gjaeeY",
+        "property": "background-color",
+        "declaration": "#96dc16",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      }
+    },
+    "font_families": {
+      "agrandir-tight-black": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"agrandir-tight-black\"",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      },
+      "agrandir-tight-bold": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"agrandir-tight-bold\"",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      },
+      "roboto": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"roboto\"",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      },
+      "Verdana": {
+        "selector": "html,\n        body",
+        "property": "font-family",
+        "declaration": "agrandir-tight-bold, Verdana, Geneva, sans-serif",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      },
+      "Geneva": {
+        "selector": "html,\n        body",
+        "property": "font-family",
+        "declaration": "agrandir-tight-bold, Verdana, Geneva, sans-serif",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      },
+      "sans-serif": {
+        "selector": "html,\n        body",
+        "property": "font-family",
+        "declaration": "agrandir-tight-bold, Verdana, Geneva, sans-serif",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      },
+      "Helvetica": {
+        "selector": ".enuvfe",
+        "property": "font-family",
+        "declaration": "roboto,\"Helvetica\",\"Arial\",sans-serif",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      },
+      "Arial": {
+        "selector": ".enuvfe",
+        "property": "font-family",
+        "declaration": "roboto,\"Helvetica\",\"Arial\",sans-serif",
+        "url": "https://www.hellofresh.com:443/",
+        "snapshot": "homepage.html",
+        "sha256": "a6a989e3314cc39bcb4e1cf3daa5c6bf80b6617c3832cd24978970bcbc13364a"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

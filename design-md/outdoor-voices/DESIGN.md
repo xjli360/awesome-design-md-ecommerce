@@ -4,6 +4,10 @@ name: "Outdoor Voices"
 source_url: "https://outdoorvoices.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   OV Gothic — a custom wide-set grotesque with slightly squared terminals — announces itself at every category landing page, choosing legibility over refinement; it is an activewear typeface for people who want to be read from across a park. The electric cobalt (#000f9f) drives every primary CTA and anchors the brand's energetic register, sitting alongside a secondary teal (#0e7a82) that marks collection wayfinding and editorial eyebrow labels — two blues inhabiting the same system without collision because they occupy distinct functional layers rather than competing for the same attention. A warm amber (#f59e0b, #fbbf24) surfaces as a tertiary accent on sale callouts and campaign highlights, the visual equivalent of a yellow highlighter stroke over recreational enthusiasm.
 
@@ -369,6 +373,13 @@ components:
 - Horizontal filter badge rows use CSS scroll-snap with partially visible trailing pill indicating scrollability
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 - No meta theme-color extracted; dark-mode system theming behavior is inferred from the dark surface color values, not confirmed

@@ -22,42 +22,14 @@
     }
   ],
   "colors": {
-    "#f5f4f0": {
-      "count": 22,
-      "sources": [
-        "https://secrid.com/en-us/",
-        "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
-      ]
-    },
-    "#ffffff": {
-      "count": 13,
-      "sources": [
-        "https://secrid.com/en-us/",
-        "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
-      ]
-    },
     "#2e2e2b": {
       "count": 11,
-      "sources": [
-        "https://secrid.com/en-us/",
-        "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
-      ]
-    },
-    "#686868": {
-      "count": 8,
       "sources": [
         "https://secrid.com/en-us/"
       ]
     },
-    "#5c5648": {
-      "count": 3,
-      "sources": [
-        "https://secrid.com/en-us/",
-        "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
-      ]
-    },
-    "#8d897f": {
-      "count": 2,
+    "#f5f4f0": {
+      "count": 22,
       "sources": [
         "https://secrid.com/en-us/"
       ]
@@ -68,14 +40,44 @@
         "https://secrid.com/en-us/"
       ]
     },
+    "#686868": {
+      "count": 8,
+      "sources": [
+        "https://secrid.com/en-us/"
+      ]
+    },
+    "#8d897f": {
+      "count": 2,
+      "sources": [
+        "https://secrid.com/en-us/"
+      ]
+    },
     "#d6ceba": {
       "count": 1,
       "sources": [
         "https://secrid.com/en-us/"
       ]
     },
+    "#00000000": {
+      "count": 1,
+      "sources": [
+        "https://secrid.com/en-us/"
+      ]
+    },
+    "#ffffff": {
+      "count": 13,
+      "sources": [
+        "https://secrid.com/en-us/"
+      ]
+    },
     "#888888": {
       "count": 1,
+      "sources": [
+        "https://secrid.com/en-us/"
+      ]
+    },
+    "#5c5648": {
+      "count": 3,
       "sources": [
         "https://secrid.com/en-us/"
       ]
@@ -100,21 +102,17 @@
     }
   },
   "font_families": {
-    "TYPE_CAPITOLIUM": [
-      "https://secrid.com/en-us/",
-      "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
-    ],
-    "TYPE_CAPITOLIUM Fallback": [
-      "https://secrid.com/en-us/",
-      "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
-    ],
     "TYPE_DINPRO_COND": [
-      "https://secrid.com/en-us/",
-      "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+      "https://secrid.com/en-us/"
     ],
     "TYPE_DINPRO_COND Fallback": [
-      "https://secrid.com/en-us/",
-      "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+      "https://secrid.com/en-us/"
+    ],
+    "TYPE_CAPITOLIUM": [
+      "https://secrid.com/en-us/"
+    ],
+    "TYPE_CAPITOLIUM Fallback": [
+      "https://secrid.com/en-us/"
     ],
     "TYPE_IMPACT": [
       "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
@@ -126,9 +124,6 @@
       "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
     ],
     "TYPE_VERDANA Fallback": [
-      "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
-    ],
-    "monospace": [
       "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
     ]
   },
@@ -175,10 +170,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Secrid - Dutch wallet makers since 1995",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-300",
   "tokens": {
     "colors.primary": {
+      "value": "#c05746",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -186,30 +182,31 @@
       ]
     },
     "colors.ink": {
+      "value": "#2e2e2b",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://secrid.com/en-us/",
-        "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+        "https://secrid.com/en-us/"
       ]
     },
     "colors.canvas": {
+      "value": "#f5f4f0",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://secrid.com/en-us/",
-        "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+        "https://secrid.com/en-us/"
       ]
     },
     "colors.body": {
+      "value": "#2e2e2b",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://secrid.com/en-us/",
-        "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+        "https://secrid.com/en-us/"
       ]
     },
     "colors.muted": {
+      "value": "#686868",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -217,6 +214,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#d6ceba",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -224,6 +222,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#d6ceba",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -231,30 +230,31 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://secrid.com/en-us/",
-        "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+        "https://secrid.com/en-us/"
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://secrid.com/en-us/",
-        "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+        "https://secrid.com/en-us/"
       ]
     },
     "colors.accent-warm": {
+      "value": "#5c5648",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://secrid.com/en-us/",
-        "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+        "https://secrid.com/en-us/"
       ]
     },
     "colors.neutral-warm": {
+      "value": "#8d897f",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -262,6 +262,7 @@
       ]
     },
     "colors.ink-strong": {
+      "value": "#32312a",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -269,6 +270,7 @@
       ]
     },
     "colors.muted-alt": {
+      "value": "#888888",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -276,6 +278,7 @@
       ]
     },
     "colors.focus": {
+      "value": "#007aff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -283,6 +286,7 @@
       ]
     },
     "colors.black": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -290,110 +294,425 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "TYPE_CAPITOLIUM, TYPE_CAPITOLIUM Fallback, serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "TYPE_CAPITOLIUM, TYPE_CAPITOLIUM Fallback, serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "-0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "TYPE_DINPRO_COND, TYPE_DINPRO_COND Fallback, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "TYPE_VERDANA, TYPE_VERDANA Fallback, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "TYPE_VERDANA, TYPE_VERDANA Fallback, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "TYPE_VERDANA, TYPE_VERDANA Fallback, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.3px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "TYPE_IMPACT, TYPE_IMPACT Fallback, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.title-md}",
+        "height": "72px",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink-strong}",
+        "titleTypography": "{typography.display-xl}",
+        "subTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.accent-warm}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.cardprotector-spec-panel": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.lg}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#2e2e2b": {
+        "selector": ".bzjbGo::after",
+        "property": "background-color",
+        "declaration": "#2E2E2B",
+        "url": "https://secrid.com/en-us/",
+        "snapshot": "homepage.html",
+        "sha256": "9857fba89e4509aa9a0cdac0d16474ab52feef7e351488cd5ba1966aa6bb5e2e"
+      },
+      "#f5f4f0": {
+        "selector": ".jcLFTn",
+        "property": "color",
+        "declaration": "#F5F4F0",
+        "url": "https://secrid.com/en-us/",
+        "snapshot": "homepage.html",
+        "sha256": "9857fba89e4509aa9a0cdac0d16474ab52feef7e351488cd5ba1966aa6bb5e2e"
+      },
+      "#32312a": {
+        "selector": ".jcLFTn",
+        "property": "background-color",
+        "declaration": "#32312A",
+        "url": "https://secrid.com/en-us/",
+        "snapshot": "homepage.html",
+        "sha256": "9857fba89e4509aa9a0cdac0d16474ab52feef7e351488cd5ba1966aa6bb5e2e"
+      },
+      "#686868": {
+        "selector": ".fnhrkW",
+        "property": "background-color",
+        "declaration": "#686868",
+        "url": "https://secrid.com/en-us/",
+        "snapshot": "homepage.html",
+        "sha256": "9857fba89e4509aa9a0cdac0d16474ab52feef7e351488cd5ba1966aa6bb5e2e"
+      },
+      "#8d897f": {
+        "selector": ".hCJOht",
+        "property": "background-color",
+        "declaration": "#8D897F",
+        "url": "https://secrid.com/en-us/",
+        "snapshot": "homepage.html",
+        "sha256": "9857fba89e4509aa9a0cdac0d16474ab52feef7e351488cd5ba1966aa6bb5e2e"
+      },
+      "#d6ceba": {
+        "selector": ".hvdHvi",
+        "property": "background-color",
+        "declaration": "#D6CEBA",
+        "url": "https://secrid.com/en-us/",
+        "snapshot": "homepage.html",
+        "sha256": "9857fba89e4509aa9a0cdac0d16474ab52feef7e351488cd5ba1966aa6bb5e2e"
+      },
+      "#00000000": {
+        "selector": ".lHVTI",
+        "property": "background",
+        "declaration": "linear-gradient( 201deg,rgba(0,0,0,0) 61.53%,rgba(0,0,0,0.3) 90.5% )",
+        "url": "https://secrid.com/en-us/",
+        "snapshot": "homepage.html",
+        "sha256": "9857fba89e4509aa9a0cdac0d16474ab52feef7e351488cd5ba1966aa6bb5e2e"
+      },
+      "#ffffff": {
+        "selector": ".kuTPtu",
+        "property": "color",
+        "declaration": "#FFFFFF",
+        "url": "https://secrid.com/en-us/",
+        "snapshot": "homepage.html",
+        "sha256": "9857fba89e4509aa9a0cdac0d16474ab52feef7e351488cd5ba1966aa6bb5e2e"
+      },
+      "#888888": {
+        "selector": ".fyhTqk",
+        "property": "border-left",
+        "declaration": "1px solid #888888",
+        "url": "https://secrid.com/en-us/",
+        "snapshot": "homepage.html",
+        "sha256": "9857fba89e4509aa9a0cdac0d16474ab52feef7e351488cd5ba1966aa6bb5e2e"
+      },
+      "#5c5648": {
+        "selector": ".kVSrgC",
+        "property": "background-color",
+        "declaration": "#5C5648",
+        "url": "https://secrid.com/en-us/",
+        "snapshot": "homepage.html",
+        "sha256": "9857fba89e4509aa9a0cdac0d16474ab52feef7e351488cd5ba1966aa6bb5e2e"
+      },
+      "#c05746": {
+        "selector": ":root",
+        "property": "--highlight-color",
+        "declaration": "#c05746",
+        "url": "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3509723c4ff0b73cb16caf3d5666079a5281a8f117c45149e6d65599efe6ecfb"
+      },
+      "#007aff": {
+        "selector": ":root",
+        "property": "--swiper-theme-color",
+        "declaration": "#007aff",
+        "url": "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3509723c4ff0b73cb16caf3d5666079a5281a8f117c45149e6d65599efe6ecfb"
+      },
+      "#000000": {
+        "selector": ".swiper-lazy-preloader-black",
+        "property": "--swiper-preloader-color",
+        "declaration": "#000",
+        "url": "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3509723c4ff0b73cb16caf3d5666079a5281a8f117c45149e6d65599efe6ecfb"
+      }
+    },
+    "font_families": {
+      "TYPE_DINPRO_COND": {
+        "selector": ".jeGaKg",
+        "property": "font-family",
+        "declaration": "\"TYPE_DINPRO_COND\",\"TYPE_DINPRO_COND Fallback\"",
+        "url": "https://secrid.com/en-us/",
+        "snapshot": "homepage.html",
+        "sha256": "9857fba89e4509aa9a0cdac0d16474ab52feef7e351488cd5ba1966aa6bb5e2e"
+      },
+      "TYPE_DINPRO_COND Fallback": {
+        "selector": ".jeGaKg",
+        "property": "font-family",
+        "declaration": "\"TYPE_DINPRO_COND\",\"TYPE_DINPRO_COND Fallback\"",
+        "url": "https://secrid.com/en-us/",
+        "snapshot": "homepage.html",
+        "sha256": "9857fba89e4509aa9a0cdac0d16474ab52feef7e351488cd5ba1966aa6bb5e2e"
+      },
+      "TYPE_CAPITOLIUM": {
+        "selector": ".gNCklz",
+        "property": "font-family",
+        "declaration": "\"TYPE_CAPITOLIUM\",\"TYPE_CAPITOLIUM Fallback\"",
+        "url": "https://secrid.com/en-us/",
+        "snapshot": "homepage.html",
+        "sha256": "9857fba89e4509aa9a0cdac0d16474ab52feef7e351488cd5ba1966aa6bb5e2e"
+      },
+      "TYPE_CAPITOLIUM Fallback": {
+        "selector": ".gNCklz",
+        "property": "font-family",
+        "declaration": "\"TYPE_CAPITOLIUM\",\"TYPE_CAPITOLIUM Fallback\"",
+        "url": "https://secrid.com/en-us/",
+        "snapshot": "homepage.html",
+        "sha256": "9857fba89e4509aa9a0cdac0d16474ab52feef7e351488cd5ba1966aa6bb5e2e"
+      },
+      "TYPE_IMPACT": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "TYPE_IMPACT",
+        "url": "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3509723c4ff0b73cb16caf3d5666079a5281a8f117c45149e6d65599efe6ecfb"
+      },
+      "TYPE_IMPACT Fallback": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "TYPE_IMPACT Fallback",
+        "url": "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3509723c4ff0b73cb16caf3d5666079a5281a8f117c45149e6d65599efe6ecfb"
+      },
+      "TYPE_VERDANA": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "TYPE_VERDANA",
+        "url": "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3509723c4ff0b73cb16caf3d5666079a5281a8f117c45149e6d65599efe6ecfb"
+      },
+      "TYPE_VERDANA Fallback": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "TYPE_VERDANA Fallback",
+        "url": "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3509723c4ff0b73cb16caf3d5666079a5281a8f117c45149e6d65599efe6ecfb"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

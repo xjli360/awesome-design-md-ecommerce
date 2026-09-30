@@ -4,6 +4,10 @@ name: "Grainger"
 source_url: "https://www.grainger.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Grainger product pages show four distinct identifier strings simultaneously — Grainger item number, manufacturer part number, catalog number, and UPC — each in 12px Arial at #6b6b6b, because the buyer arriving may need any one of them to reconcile a line item in a procurement system. This information architecture, additive rather than editorial, defines every design decision. Live extraction returned five grays: #474747 for primary text, #6b6b6b for secondary labels, #a7a9ac for muted and disabled states, #e4e5e6 for dividers and borders, and #fafafa as the global off-white canvas — nothing else; anti-bot filtering stripped the stylesheet carrying Grainger's widely-documented red primary (#cc0000), which surfaces at CTAs, the search bar's 2px border accent, and the logo mark. Type is Arial throughout: 700 weight at 28px for page titles, 700 at 14px for product names in grid rows, 400 at 14px for attribute text — a single-font discipline that is legible on any industrial monitor without web-font latency. Buttons and inputs carry near-zero rounding ({rounded.xs}), maintaining a rectangular vocabulary that reads as functional and exact. The one typographic departure is the price block: 22px bold at {colors.ink} anchors the unit price, with a 13px {colors.body} unit qualifier beside it — enough contrast to scan across a multi-SKU comparison without introducing a second typeface. Navigation runs three simultaneous access layers: a 60px global header with a persistent red-bordered search input, a 40px mega-nav category bar spanning roughly 30 product divisions, and a 220px left-rail parametric facet panel within sub-categories. Stock status labels introduce the system's only additions beyond red and gray: #2e7d32 green for in-stock availability and {colors.primary} red repurposed for out-of-stock states. Spacing throughout favors the tight end of the scale — {spacing.xs} between card rows, {spacing.sm} inside cards — compressing maximum SKU density per viewport height without making scrolling the primary navigation tool.
 
@@ -381,6 +385,13 @@ components:
 - Breadcrumb: middle segments truncated with ellipsis at <400px viewport
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

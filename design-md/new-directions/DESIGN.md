@@ -4,6 +4,10 @@ name: "New Directions"
 source_url: "https://www.ndbooks.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A small press that builds its digital presence on a foundation of deep, quiet grays — #111827 for the heaviest ink, #374151 for body text — against a stark white canvas (#ffffff). The palette is almost entirely achromatic, with the single exception of a pale, watery blue (#5bbad5) that appears in select links and accents, and a more saturated blue (#2d89ef) for interactive elements. This restraint is the brand's signature: the site trusts typography and generous whitespace over decorative color. Raleway, a geometric sans-serif with a subtle humanist warmth, carries the full typographic load at modest weights (400 for body, 600–700 for display). The design avoids hard corners in interactive elements — buttons use {rounded.sm} (8px), while search fields and badges use {rounded.full} (9999px) — but the overall grid and card structure is rectilinear, creating a tension between soft interaction points and a rigid editorial grid. The result is a site that feels like a well-designed book: quiet, confident, and entirely focused on the text.
 
@@ -383,6 +387,13 @@ components:
 - Hero section reduces padding from 80px to 40px on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Rastelli's"
 source_url: "https://rastellis.com"
 captured_at: "2026-09-28T09:29:11.046463+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Rastelli's presents as a heritage butcher/e-commerce brand ("America's Personal
   Butcher," 50 years in business), built on a WordPress/Divi (et_pb_) stack with
@@ -170,6 +174,13 @@ Proposed breakpoints (not measured from live site):
 Touch targets should be at least 44×44px for buttons and nav items; the observed `.et_pb_button` padding (`.3em 1em`) is likely too small on its own for mobile touch and should be supplemented at small breakpoints. Nav collapse to a hamburger/off-canvas menu is standard for this theme stack but was not directly observed. This table is a recommendation only, not measured site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

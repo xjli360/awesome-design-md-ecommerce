@@ -4,6 +4,10 @@ name: "Bullard"
 source_url: "https://www.bullard.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The yellow hard hat — Bullard's factory-floor constant since 1898 — acts as the single organizing principle for everything downstream in the interface. Accent amber (#F5A800) carries every primary CTA, navigation hover state, and category edge marker just as the helmet carries the visual weight on a job site; no competing hue takes primary action weight, and secondary actions simply reverse to white with an ink outline. Ubuntu runs the entire UI text stack — a humanist sans with enough x-height to survive field tablets in daylight — while Berthold anchors display headings in an industrial authority that the lighter body copy earns by contrast. Together they produce a typographic ladder that descends cleanly from full-bleed hero callouts through product specification sheets without a redundant step.
 
@@ -423,6 +427,14 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

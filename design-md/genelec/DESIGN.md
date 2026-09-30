@@ -4,6 +4,10 @@ name: "Genelec"
 source_url: "https://www.genelec.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A studio-monitor manufacturer whose design language is built on a near-black canvas (#111111) that makes every product photograph and spec diagram feel like it's floating in a calibrated listening room. The brand's primary accent, a cool cyan (#5bbad5), appears only in small, precise doses — active-state toggles, selected filter chips, and the illuminated power ring on the 8000-series monitors — never as a background or a headline color. This restraint is the core design move: the interface trusts high-contrast typography in Helvetica Neue LT Pro (set at 400 weight for body, 700 for display) and generous negative space over decorative elements. The secondary palette includes a warm orange (#da532c) used exclusively for warning indicators and peak-level alerts, and a deep navy (#0e141b) that serves as the surface for product detail cards and spec tables. Rounded corners are minimal — the search bar and primary CTAs use {rounded.sm} (8px), while product cards and modals use {rounded.md} (12px) — a deliberate rejection of the pill-shaped friendliness common in consumer tech. The overall mood is that of a precision instrument interface: monochromatic, information-dense, with color reserved entirely for signaling function rather than brand personality.
 
@@ -433,6 +437,13 @@ components:
 - Hero section: full-width image with text overlay on desktop, stacked layout (image above text) on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

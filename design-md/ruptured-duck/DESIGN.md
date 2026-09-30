@@ -4,6 +4,10 @@ name: "The Ruptured Duck"
 source_url: "https://www.therupturedduck.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The name is hardware before it is branding — the brass honorable-discharge lapel pin every returning WWII GI wore on his civilian coat, nicknamed the "Ruptured Duck" by the men who earned it. That same literalism runs through every design decision on the site. The primary color is #566f54, olive drab straight from the Army field-gear palette, carried all the way through to the meta theme-color — not an approximation of military green but the actual shade. Flag primaries appear untinted: #ff0000 and #0000ff show up as raw period colors, the way they appear on service ribbons and unit patches, without the softening or desaturation a consumer lifestyle brand would apply. The canvas is white, the ink is #121212 — deep enough to feel archival — and charcoal (#444444) carries body text, separating it clearly from both the near-black headlines and the light hairline (#dedede) grid. No custom typeface was captured in extraction, which means the site likely falls back to a Shopify system stack; given the subject matter a serif display treatment in the Georgia register is specified here while flagged as unconfirmed in Known Gaps. Body type is system sans at 15px, the workhorse scale for dense catalog copy: condition grades, period codes, provenance notes, item numbers. Buttons are uppercase and letter-spaced, echoing the stenciled labeling on period equipment crates; they sit on {rounded.xs} corners — four pixels only, sharp enough to read as administrative rather than friendly. The product photograph is the primary artifact — a militaria listing lives or dies on the close-up of a maker's mark or a legible condition shot — so the UI acts as a neutral mount. Cards carry a single-pixel hairline, no drop shadow, no color fill. A SOLD badge in pure #ff0000 stamps over unavailable items with the bluntness of a rubber stamp on a requisition form. The footer grounds the page in near-black (#121212) with a three-pixel olive-primary top rule, the one moment the brand color holds structural weight rather than interactive weight.
 
@@ -304,6 +308,13 @@ components:
 - Filter/sort controls: inline toolbar on desktop → collapsible drawer triggered by "Filter" button on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

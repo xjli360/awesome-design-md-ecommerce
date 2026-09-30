@@ -4,6 +4,10 @@ name: "UPPAbaby"
 source_url: "https://uppababy.com"
 captured_at: "2026-09-28T04:52:28.112334+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is grounded in CSS captured from the UPPAbaby homepage, a strollers-and-car-seats
   storefront. The observed palette is dominated by a near-black ink (#0f0c0a) paired with an off-white
@@ -167,6 +171,11 @@ This is a recommended breakpoint structure, not measured site behavior:
 Touch targets should be at least 44×44px for nav icons, cart, and buttons. Primary/secondary buttons should retain the pill shape and hover-invert treatment across breakpoints. Mobile nav collapse and drawer/mini-cart behavior are proposed conventions, not confirmed from the supplied CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

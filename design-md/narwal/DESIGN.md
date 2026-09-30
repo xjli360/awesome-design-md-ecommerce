@@ -4,6 +4,10 @@ name: "Narwal"
 source_url: "https://www.narwal.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The overhead shot — robot exactly at frame center, floor stretching edge-to-edge, no human in frame, no lifestyle set-dressing — is Narwal's single most distinctive design decision. The machine is the protagonist; the floor is the proof. That confidence in hardware specificity carries into the color system: a saturated teal near #0CBECE operates not as warmth or approachability but as instrumentation — the color of LIDAR returns, progress arcs in companion-app UI, and the radial coverage maps that animate across hero sections on deep navy (#0D1729) backgrounds. Against near-black ink (#111827) and a surface hierarchy that moves from hero-canvas through surface-soft to surface-card, this teal does all the chromatic work; the rest of the palette is cool gray and white, giving the system an economy unusual in consumer hardware. Type runs a compact geometric sans-serif tight at display sizes — letterSpacing near −0.5px on headlines at weight 700 — then relaxes to 400 weight at comfortable line heights for body copy without ever softening into editorial warmth. The station — the self-cleaning, self-emptying dock that anchors every product — appears in a recurring cutaway diagram treatment: line-art on dark backgrounds, glowing teal callouts rendered in caption-scale type, an aesthetic that borrows from engineering documentation rather than consumer lifestyle catalogs. Rounding is controlled: product cards sit at {rounded.md}, primary CTAs at {rounded.sm}, and pill badges at {rounded.full} — the geometry never reaches the softness of a wellness brand. Section spacing is generous at {spacing.section}, with a predictable mobile collapse that preserves the overhead product anchor while stacking spec content into accordions. The result communicates premium consumer hardware that would rather show a floor map than a family scene.
 
@@ -293,6 +297,13 @@ components:
 - Spec table converts from two-column side-by-side layout to full-width accordion at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

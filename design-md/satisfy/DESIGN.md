@@ -4,6 +4,10 @@ name: "Satisfy"
 source_url: "https://satisfyrunning.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A monochrome running brand that finds its voltage in the gap between raw concrete and warm stone — the palette runs from #121212 ink through #5c5951 stone to #baafa4 sand, all held by a #f8f9f9 canvas that reads as slightly warm off-white rather than clinical white. The brand’s signature move is the use of ABC Simon Mono as its primary display face — a monospaced grotesk that gives product names, size labels, and navigation the authority of a factory spec sheet or a military-issue tag. This is not the breathless aspirational language of performance sportswear; it is the deadpan precision of a garment that knows exactly what it is. Body copy runs in ABC Walter Neue, a clean geometric sans with slightly compressed proportions, while Assistant appears as a utilitarian fallback for checkout and utility text. The site uses hard corners everywhere — {rounded.none} on cards, buttons, inputs — and the only curve in the system is the {rounded.full} pill used on size-selector chips and the cart quantity badge, a deliberate tension between the brutalist grid and the softness of a single worn-in cotton tee. Product photography is high-contrast, often underexposed, with models shot against raw studio backdrops or outdoor grit; the brand trusts texture and shadow over color. The checkout flow introduces a secondary accent in #fefff2, a pale bone-white that sits between canvas and sand, used for order-summary backgrounds and confirmation panels. There is no hero carousel, no lifestyle video — the homepage leads with a static grid of product thumbnails and a single line of monospaced type, as if the store were a rack in a concrete room.
 
@@ -417,6 +421,13 @@ components:
 - Product images switch from 4:5 to 1:1 aspect ratio on mobile for better thumb visibility
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

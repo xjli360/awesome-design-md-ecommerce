@@ -4,6 +4,10 @@ name: "dbrand"
 source_url: "https://www.dbrand.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A matte-black canvas (#000000) and a single electric-yellow accent (#ffbb00) form the entire visual vocabulary of dbrand — a brand that sells precision-cut device skins with the confidence of a hardware company. The black is not a background; it is the product. Every skin, every phone silhouette, every unboxing shot sits on or against absolute black, making the yellow read as a signal flare: the “Add to Cart” button, the “Shop Now” link, the accent on the navigation bar. There is no gradient, no soft shadow, no rounded card — the brand uses hard corners (`{rounded.none}`) on product tiles and sharp 4px radii (`{rounded.xs}`) on buttons, mirroring the precision-cut vinyl it sells. Typography runs a bold sans-serif at heavy weights (700–900) with tight tracking, matching the industrial, no-nonsense tone of the copy: “Don’t be a hero. Be a dbrand.” The site avoids photography of people; instead, it shows macro shots of textured skins (carbon fiber, titanium, dragon skin) against the black canvas, with the yellow used sparingly for CTAs and the cart badge. This is a brand that sells a thin layer of adhesive vinyl, but it presents itself with the visual weight of a premium electronics manufacturer — all because of the black-and-yellow binary.
 
@@ -317,6 +321,13 @@ components:
 - Skin selector: horizontal swatch row wraps to 4-per-row grid at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

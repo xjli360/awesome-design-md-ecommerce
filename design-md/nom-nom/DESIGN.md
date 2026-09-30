@@ -4,6 +4,10 @@ name: "Nom Nom"
 source_url: "https://nomnomnow.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The homepage opens on dog food photographed like restaurant mise en place — raw chicken thighs, bright carrots, leafy greens arranged with the same care a farm-to-table kitchen gives its seasonal board. Against that visual density, the palette extracted from nomnomnow.com collapses into two tones: a deep warm charcoal (#3d3935) and a neutral border gray (#dcdcdc), with everything else yielding to the food. That charcoal anchors the entire system — it is the ink, the primary CTA ground, and the footer fill — reading as "serious nutrition" rather than "playful pet brand," deliberately distancing Nom Nom from the primary-color brights that crowd the pet aisle shelf. The interface architecture is subscription-first in a way that defers commerce: a breed-and-health-goals quiz precedes any pricing, building a nutritional case before the brand makes its financial ask. This sequencing is as much design strategy as UX — product cards arrive after credibility is established, so the card itself can stay visually spare, leaning on ingredient lists and veterinary claims rather than visual noise. Rounded corners land in the moderate register — {rounded.sm} for buttons and inputs, {rounded.md} for cards — avoiding the pill shapes of pure-lifestyle brands and the hard rectangles of clinical nutrition sites, occupying a zone that reads as clean and trustworthy. Spacing is editorial and open; hero sections and ingredient-story rows deploy full {spacing.section} gaps that let photography breathe without the compressed urgency of a conversion-rate-optimized landing page. Typography almost certainly runs a geometric sans at restrained weights — display copy stays confident without going bold-heavy, because the credibility signal here comes from ingredients and third-party nutrition claims, not typographic volume.
 
@@ -311,6 +315,13 @@ components:
 - Nutrition stat grid: 4-col → 2-col at 744px; hero section padding scales from `{spacing.section}` to `{spacing.xl}` on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

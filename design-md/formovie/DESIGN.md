@@ -4,6 +4,10 @@ name: "Formovie"
 source_url: "https://formovie.com"
 captured_at: "2026-09-28T09:22:40.434171+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is built from Formovie's Shopify theme CSS variables and a
   Judge.me review-widget palette, not from live rendered screenshots. The
@@ -166,6 +170,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be at minimum 44×44px for buttons and nav items (proposed, per common accessibility guidance, not site-verified). Navigation is assumed to collapse into a mobile menu below the tablet breakpoint; no actual collapse behavior, animation, or breakpoint values were present in the supplied CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

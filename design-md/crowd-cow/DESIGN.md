@@ -4,6 +4,10 @@ name: "Crowd Cow"
 source_url: "https://crowdcow.com"
 captured_at: "2026-09-28T05:01:58.839740+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Crowd Cow's supplied CSS evidence points to a warm, editorial palette built on deep neutrals and a
   butcher-shop burgundy. The near-black #131313 and soft off-white #f4f3ef/#efece8 tones form the
@@ -159,6 +163,13 @@ components:
 Proposed breakpoints (not measured from live layout): mobile ≤640px (single-column product grids, stacked nav collapsing behind a menu icon, `--container-inline-padding-mobile: 20px` per observed token), tablet 641–1024px (2–3 column grids, `--container-inline-padding-desktop: 40px` engaging near the upper end), desktop ≥1025px (full multi-column grids, persistent nav). Touch targets should target a minimum 44px hit area for buttons and nav items; primary CTA buttons should collapse to full-width on mobile. This section is a recommendation based on the two observed padding tokens, not an observed responsive implementation.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Static CSS extraction did not expose actual `font-family` values behind `--font-family-display` / `--font-family-body`; the Archivo Narrow/Noto Sans pairing is inferred from the supplied font list and typographic character (condensed bold headers vs. regular body), not confirmed.

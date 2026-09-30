@@ -4,6 +4,10 @@ name: "Garmin"
 source_url: "https://www.garmin.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Oswald, the condensed geometric sans that feels engineered rather than set, anchors every headline across garmin.com — a deliberate compression that reads as athlete-brief rather than marketing-sprawl. The palette runs on industrial restraint: #d8d8d8 hairlines, #f2f2f2 surface panels, and #727272 body gray that keeps spec copy legible without competing with product photography. Two colors break the monotone — #0e58ed, a high-voltage electric blue that fires on every primary CTA and interactive state, and #ff9b00, an amber-orange reserved for performance metrics, active-route callouts, and GPS-state highlights. Neither is timid; both feel pulled from the device face rather than assembled by a brand committee.
 
@@ -319,6 +323,13 @@ components:
 - Footer four-column link grid collapses to single-column accordion sections on mobile; headings become tappable expanders
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

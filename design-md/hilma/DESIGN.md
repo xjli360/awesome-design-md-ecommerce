@@ -4,6 +4,10 @@ name: "Hilma"
 source_url: "https://hilma.co"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A clean, science-forward wellness brand that uses a restrained palette of #121212 ink on a white canvas, with #007aff as its single accent — a crisp, clinical blue that reads as trustworthy rather than playful, more lab coat than apothecary. The site’s typography is minimal, with a single font-family declaration found (swiper-icons, likely a UI icon font), suggesting the brand relies on system fonts or a single loaded typeface for body and display — a pragmatic choice that keeps load times fast and the focus on product photography and ingredient callouts. The #dedede hairline appears frequently as a subtle separator, creating a clean grid that feels pharmaceutical in its precision. Hilma’s design language avoids the warm, earthy tones common in natural remedy brands; instead, it leans into a modern, almost clinical minimalism — white space is generous, product shots are large and well-lit, and the blue CTA buttons (`{rounded.sm}`) are the only visual punctuation. The overall mood is one of clarity and evidence: this is a brand that wants you to trust the science, not the vibe.
 
@@ -243,6 +247,13 @@ components:
 - Footer links collapse into a single column, stacked vertically.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

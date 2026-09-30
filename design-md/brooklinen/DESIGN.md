@@ -4,6 +4,10 @@ name: "Brooklinen"
 source_url: "https://www.brooklinen.com"
 captured_at: "2026-09-28T04:10:31.359678+00:00"
 evidence_status: "historical_partial_css_evidence"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A confident, tactile bedding brand that wraps its premium-casual voice in a deep navy anchor — `#121f36` — and a warm off-white canvas of `#f4f8fe`. The palette reads like a well-edited linen closet: charcoal ink (`#272727`) for body copy, soft steel (`#b1b7c3`) for muted accents, and a restrained use of `#ea0202` for sale badges and urgent CTAs that snap attention without breaking the calm. The brand's signature move is the generous use of `{rounded.full}` pill shapes on buttons and search bars, paired with `{rounded.sm}` (8px) on product cards and `{rounded.md}` (12px) on modals — every corner is softened, never sharp. Typography leans on a single clean sans-serif stack at modest weights (400–600), with display sizes rarely exceeding 28px; the brand trusts product photography, swatch circles, and the crisp `#eaeaea` hairline to carry hierarchy. The result is a system that feels both heirloom and modern — like a hotel lobby translated into direct-to-consumer e‑commerce, where `#d4edda` success badges and `#f8d7da` error banners are the only moments of high chroma.
 
@@ -380,6 +384,14 @@ components:
 - Product image galleries switch from horizontal thumbnails to vertical swipeable dots on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

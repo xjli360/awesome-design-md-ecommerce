@@ -4,6 +4,10 @@ name: "Tony's Chocolonely"
 source_url: "https://tonyschocolonely.com"
 captured_at: "2026-09-28T09:26:16.024014+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is built from the site's own CSS custom-property palette,
   which names each hue after a chocolate ingredient (tonys-red, caramel-orange,
@@ -153,6 +157,13 @@ components:
 Touch targets should be at least 44px per side, consistent with the `--swiper-navigation-size: 44px` value observed in the CSS. Navigation collapse, drawer transitions, and exact grid column counts are recommendations only; no responsive or interaction behavior was directly observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS custom properties and a text excerpt only; no rendered layout, computed styles, hover/focus states, or mobile breakpoints were observed. Role assignments for primary/secondary colors, neutrals, and surface tones are inferred from token naming order and general contrast conventions, not confirmed usage in context. Typography sizes beyond the button rule are proposed, not measured. The "American Typewriter" and "Chocolate letter" font entries are taken from the raw font-family evidence, but their actual application scope, web-font delivery, and licensing were not verified. Spacing, radius, and component padding values beyond the `.apply-button` rule are conventional proposals layered onto the brand's observed color and button tokens.

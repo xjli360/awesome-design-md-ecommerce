@@ -4,6 +4,10 @@ name: "Goliath Games"
 source_url: "https://www.goliathgames.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Compressed military lettering and a board-game color riot coexist under one roof — Goliath runs exclusively on D-DIN, an industrial sans-serif that originated in German engineering manuals and arrived at game-night headlines via its legibility at distance. D-DIN Condensed handles the loudest display work, stacking uppercase titles at 48–64px in a way that fills the viewport the same way box art fills a retail shelf. The deep navy ground (#0d1e63) anchors the header, footer, and hero zones in a single gravitational field, giving every product grid a dark sky to erupt against. Red (#e11b22) drives every primary CTA, sale callout, and active-state indicator — one signal color doing all the commercial lifting. Below it, electric yellow (#ffdd00), arcade green (#75c32c), citrus orange (#ff6900), and pale pink (#f78da7) rotate through category badges and product chips, functioning as a visual taxonomy where different age groups and game types carry different accent hues without requiring additional iconography. A pale mint-cream surface (#f2fbe4, {colors.surface-soft}) appears behind category landing grids, dropping the chroma just enough for comfortable browsing without abandoning the brand's saturated ground. Geometry leans utilitarian — cards and inputs carry {rounded.sm} at 8px, just enough softness to read as contemporary without dissolving the industrial frame that D-DIN's letterforms set up. Primary buttons go harder at {rounded.xs} (4px), a nearly rectangular shape that communicates action over invitation. Product metadata — age ratings in navy-filled chips, player counts in pale-surface pills at {rounded.full} — arrives in D-DIN Condensed at badge-label weight, tiny specs that carry real decision-making information without pulling the eye from product photography. What holds the visual system together across a catalog spanning toddler games and adult party titles is that #0d1e63 navy, which operates the way a game box's dark background operates: every other color reads more decisively against it than it would on white.
 
@@ -387,6 +391,13 @@ components:
 - Product card badge stack collapses to a maximum of two overlapping chips on mobile with a "+N" overflow indicator if more exist
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

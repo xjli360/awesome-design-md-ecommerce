@@ -4,6 +4,10 @@ name: "Mizuki"
 source_url: "https://www.mizuki.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Pearl and gold meet in a grammar of restraint — every editorial decision on mizuki.com serves the luminosity of the stone rather than the brand identity itself. The founder's Japanese heritage inflects the aesthetic as negative space and proportion rather than motif: long vertical product silhouettes, sparse copy set at generous line-height, and a canvas that shifts from pure white to a faintly warm ivory (#F8F6F2) to keep the pearls from floating against a clinical background. Primary calls-to-action are rendered in near-black (#1C1A17) rather than a conventional jewel color, because the jewelry itself supplies all the color the page needs. Gold appears as a material signal rather than a brand accent — thin 1px hairlines, delicate icon strokes at 1.5px weight, and price figures rendered in a warm #B89660 that references the 14k and 18k alloys in the product catalog. The jade category introduces a muted sage (#5B7A6E) as a secondary orientation token, distinct from the pearl palette but equally desaturated so neither line dominates the other. Type runs in a high-contrast serif at display sizes — Cormorant Garamond or equivalent optical-size serif — shifting to a narrow geometric sans (Helvetica Neue or system fallback) for utility text at caption and badge scale. Rounded values stay minimal: cards use a near-square `{rounded.xs}` 4px corner, buttons sit at `{rounded.none}` to `{rounded.xs}` — softness is reserved for search pills and filter chips at `{rounded.full}`. Spacing is spacious by DTC standards: section gaps at 96–120px on desktop push each product cluster into its own breathing zone. The overall visual register is that of a museum vitrine — controlled illumination, nothing extraneous, every object presented as if behind glass.
 
@@ -409,6 +413,13 @@ components:
 - Editorial callout drops out of the product grid on mobile (full-width block, reduced padding)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

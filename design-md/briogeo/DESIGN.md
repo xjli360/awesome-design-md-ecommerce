@@ -4,6 +4,10 @@ name: "Briogeo"
 source_url: "https://briogeohair.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A clean, ingredient-forward haircare brand that lives at the intersection of natural wellness and clinical efficacy, Briogeo wraps its product story in a warm, approachable palette anchored by a vibrant coral-pink primary (#e61a4f) that pulses across CTAs, badges, and accent elements. The brand’s canvas is a soft off-white (#f8f8f8) rather than pure white, lending a tactile, almost paper-like warmth that distinguishes it from sterile beauty conventions. Secondary accents drift through a curated botanical spectrum — sage green (#14a34a), teal (#00a19b), lavender (#552e90), and blush (#eb80a8) — each tied to specific product families or ingredient stories (rose, charcoal, biotin, scalp care). Typography pairs a modern, slightly condensed sans-serif (Haffer SemiBold) for headlines with a warm serif (Tiempos) for body copy, creating a tension that feels both editorial and approachable. Buttons and cards use soft rounding (`{rounded.sm}` ~8px), while search bars and badges lean into pill shapes (`{rounded.full}`), reinforcing the brand’s friendly, non-clinical posture. The overall mood is clean but not cold — generous whitespace, muted hairlines (#dfdfdf), and a restrained use of the coral primary keep the focus on product photography and ingredient storytelling.
 
@@ -618,6 +622,14 @@ components:
 - Search bar collapses to a magnifying glass icon that expands on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

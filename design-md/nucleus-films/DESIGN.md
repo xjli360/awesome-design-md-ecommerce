@@ -4,6 +4,10 @@ name: "Nucleus Films"
 source_url: "https://www.nucleusfilms.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A monochrome film marketplace built on a single extracted hex — #313131, a deep charcoal that reads as the color of exposed film stock before processing, and which serves as the sole structural anchor across the entire interface. The brand strips away all decorative color, trusting instead the raw contrast of white text on this near-black ground to create a cinema-screen tension. Typography relies on the system font stack — -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif — avoiding any custom typeface investment, which positions the brand as a utility-first platform rather than a premium streaming service. Buttons are hard-cornered rectangles (`{rounded.none}`) with 48px heights and generous 16px horizontal padding, a deliberate anti-pill choice that signals seriousness and editorial neutrality. The top navigation runs a full-bleed `{colors.ink}` bar with white nav links, and the search bar mirrors this inversion — white background, charcoal text, no rounding. Product cards use a white canvas with `{rounded.sm}` corners and a single `{colors.hairline}` border, letting poster art and metadata do all the emotional work. The overall effect is that of a film festival program translated into a database: severe, legible, and utterly dependent on the content it hosts for any warmth.
 
@@ -321,6 +325,13 @@ components:
 - Search bar moves from the nav row (desktop) to a full-width element below the nav (mobile)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

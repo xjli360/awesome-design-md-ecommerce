@@ -4,6 +4,10 @@ name: "TeraFlex"
 source_url: "https://teraflex.com"
 captured_at: "2026-09-28T09:26:10.363430+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from static CSS and markup evidence for teraflex.com, an off-road/4x4 parts retailer for Jeep, Bronco, and truck platforms. The observed palette centers on a strong red (#da2128, also seen as #ed1c24/#db2027 variants) used for headings, form submit buttons, and active-state icons, set against a black-and-white utility base (#000000 header bars, #ffffff canvas, #1e1e1e body text). Grays (#f7f7f7, #f4f4f4, #cccccc, #616161, #777777) appear repeatedly as panel fills, borders, and secondary nav backgrounds. A blue (#0370c4) appears in the supplied palette and is assigned here, as an inferred role, to informational/link accents since no direct link-color declaration was captured. Typography is confirmed as "Barlow" for body copy and "Barlow Condensed" for headings, with "Anton" layered on h1/h2 for a bold, condensed display treatment consistent with an industrial off-road brand. The proposed system leans into a rugged, high-contrast, red/black/white identity with generous use of uppercase, bold weights, and squared-off (low-radius) buttons, reflecting the trail-hardware tone of the source content. Font sizes beyond the observed 14px base are proposed, not measured.
 
@@ -148,6 +152,13 @@ Recommended, not measured:
 Touch targets should be ≥44px for nav toggles and CTA buttons. Mobile menu is confirmed to exist as a full-height overlay (`min-height:100vh`) triggered by a toggle icon; exact open/close animation and breakpoint thresholds are not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Color palette is restricted to the supplied observed hex list; any role not directly tied to a captured selector (e.g., accent-blue, surface-dark as footer) is labeled inferred.

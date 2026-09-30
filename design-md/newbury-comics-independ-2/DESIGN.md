@@ -4,6 +4,10 @@ name: "Newbury Comics"
 source_url: "https://www.newburycomics.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A black-and-white grid with a single electric jolt of red — #121212 ink on #eeeeee canvas, punctuated by the brand's signature crimson accent that appears in the logo, the "Add to Cart" button, and the sale badges that dot every product grid. The site reads like a punk zine translated into e-commerce: dense product tiles with sharp 1px hairlines (#dedede), all-caps category headers in a condensed sans, and a sticky top bar that never lets you forget you're in a record store that sells Funko Pops, band tees, and vinyl reissues alongside each other. The hero section on the homepage is a full-bleed black-and-white photo with the brand's "Wicked Good Time" tagline overlaid in white type — no gradient, no softness, just contrast. Product cards use a clean white surface (#ffffff) with the product image filling the full width, price in bold 16px body, and a quick-add button that appears on hover. The search bar is a simple white rectangle with a magnifying glass icon, no pill shapes, no rounded corners beyond {rounded.sm} — this is a brand that values directness over friendliness. Navigation is a two-tier system: a thin utility bar with "Sign In / Cart / Store Locator" in {colors.muted} 12px type, and below it the main nav with department links in all-caps 14px bold. The overall feel is Boston basement show meets mall chain — utilitarian, loud in its product density, but with a consistent black-red-white tricolor discipline that holds the chaos together.
 
@@ -387,6 +391,13 @@ components:
 - Breadcrumbs truncate on mobile — only show current page and "Home" link
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

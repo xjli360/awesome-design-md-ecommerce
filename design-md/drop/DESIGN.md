@@ -4,6 +4,10 @@ name: "Drop"
 source_url: "https://drop.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A community-driven marketplace for mechanical keyboards and enthusiast gear, Drop uses a dark, high-contrast canvas (#0f0f0f) as its primary backdrop — an unusual choice for a DTC brand that signals seriousness and technical depth rather than retail warmth. The brand's signature voltage is a vibrant cyan (#00bcd4) that appears on primary CTAs, active navigation states, and product badges, cutting through the dark surface like a soldering iron tip. Product photography — close-ups of keycap texture, switch internals, and PCB traces — does the heavy lifting of conveying quality, while typography runs a clean sans-serif stack at modest weights (400–600) to keep the focus on the gear. Cards use sharp corners (`{rounded.none}`) for a precision-tool feel, while dropdowns and modals soften to `{rounded.sm}`. The color palette is deliberately restrained: ink (#1a1a1a) for text on light surfaces, body (#333333) for secondary copy, and a single accent green (#4caf50) for stock-available indicators. This is a brand that trusts its community's expertise — the design recedes to let the products and user reviews command attention.
 
@@ -605,6 +609,13 @@ components:
 - Tab bars may scroll horizontally on mobile if there are many tabs.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Earthway"
 source_url: "https://earthway.com"
 captured_at: "2026-09-28T09:37:06.847858+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Earthway's storefront CSS shows a utilitarian, trade-durable palette built around a single saturated brand red (#a6192e, with a near-identical #ac1a2e used in an inline sticky-header background variable — treated here as a hover/pressed variant since both values are functionally interchangeable). Neutral structure comes from near-black text tones (#121212, #1c1c1c, #232323), a light gray surface (#f6f6f6), a soft hairline gray (#dedede), and a mid gray (#9ca3af) for muted/secondary text. Several bright hues (#eb001b, #f79e1b, #ff5f00, #0071ce, #142fbd, #1532cb, #1990c6, #136f99, #5b6881) match common third-party payment-network mark colors rather than brand tokens; they are excluded from the core palette and noted in Known Gaps. Typography is set in "Host Grotesk" with system sans/mono fallbacks, using a defined heading scale (h0–h6) and body sizes (xs–lg) that scales up at wider breakpoints per the supplied root variables.
   The interpretation leans into a rugged, equipment-catalog aesthetic: bold uppercase red accents for sale/badge text (as seen in a collection-tab rule), high-contrast red CTAs on white/near-black surfaces, and a dense, grid-forward product layout implied by the product-list column variables. Spacing, radius and exact font weights are proposed and labeled inferred where not directly measured.
@@ -147,6 +151,12 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets should be a minimum 44px tall for buttons and nav items; the mega-menu should collapse into an accordion on mobile. These recommendations are not derived from measured interaction testing.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Evidence is static CSS/text extraction only; no live rendering, computed layout, or interaction states (hover, focus, active, disabled) were observed.

@@ -4,6 +4,10 @@ name: "Monrovia"
 source_url: "https://www.monrovia.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Terracotta pots lined up on a nursery bench at dawn — that unhurried, sun-warmed patience is the rhythm Monrovia's digital presence runs on. The extracted palette begins at #313131, a carbon-rich ink that grounds typography the way dark loam anchors root systems, but the true brand voltage lives in a deep nursery green (#2b6b3e) — the color of healthy, well-established foliage that Monrovia has used across packaging, tags, and signage for decades. This green carries primary CTAs, category navigation highlights, and the signature plant-tag badge that echoes the physical hang-tags gardeners recognize in store aisles. Typography leans on the system sans-serif stack at medium weights; there is no display typeface competing with lush plant photography for attention. Headlines land at 600 weight and generous 36–42px sizes, giving cultivar names room to breathe beside hero images of specimen plants. Cards use `{rounded.sm}` corners — enough softness to feel organic without mimicking the pill shapes of lifestyle apps — while badges and status indicators push to `{rounded.full}` for compact information density. Spacing is generous throughout: product grids breathe with `{spacing.lg}` gutters, hero sections claim `{spacing.section}` or more of vertical room, and the overall canvas stays white (#ffffff) to let color photography dominate. A warm stone surface tone (#f5f3f0) appears behind alternating content bands, evoking the neutral backdrop of a greenhouse wall. The information hierarchy is plant-first: cultivar name, then sun/water/zone iconography, then descriptive prose — a pattern that mirrors how experienced gardeners evaluate specimens in person.
 
@@ -391,6 +395,13 @@ components:
 - Hero banner text overlay switches from gradient-over-image to solid background block below image on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

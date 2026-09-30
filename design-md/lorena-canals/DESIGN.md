@@ -4,6 +4,10 @@ name: "Lorena Canals"
 source_url: "https://lorenacanals.com"
 captured_at: "2026-09-28T09:22:18.166979+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Lorena Canals presents itself as a slow-textile, sustainability-led home and
   nursery brand, and the extracted evidence supports a warm, artisanal
@@ -173,6 +177,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be a minimum of 44×44px for cart/add-to-bag icons and swatch selectors. The multi-level "Rugs by Room" / "Kids" mega-menu should collapse into a single-level accordion below tablet width. None of this is confirmed from captured DOM/media-query evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

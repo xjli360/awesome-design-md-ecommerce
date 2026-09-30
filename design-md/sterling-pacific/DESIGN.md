@@ -4,6 +4,10 @@ name: "Sterling Pacific"
 source_url: "https://sterlingpacific.com"
 captured_at: "2026-09-29T04:18:15.450627+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Sterling Pacific's evidence reflects a restrained, engineering-led aesthetic consistent with a premium hard-shell luggage manufacturer. The observed palette is dominated by near-neutral darks (#212121, #303030) against white canvas, with light greys (#f7f7f7, #f6f6f6, #f1f1f1) used for cards and secondary surfaces, and a muted mid-grey (#616161) for de-emphasized text such as struck-through prices. A small green (#24b263) appears tied to discount/price-success states, and a purple (#7367f0) appears on a third-party "free gifts" widget button; both are treated here as secondary accents rather than core brand color, since their functional scope in the source CSS is narrow. Two custom font families are declared — BioSans (Bold/ExtraBold/Regular) and Montserrat — with BioSans inferred as the display/heading face given its weight variants, and Montserrat inferred as a supporting body/UI face; this pairing assignment is a reasonable but unverified interpretation. The resulting system favors dark-on-white headers, minimal rounding, and generous whitespace to echo the brand's language of aluminum, rivets, and Italian leather — precision materials rendered in a quiet, confident interface rather than a decorative one.
 
@@ -151,6 +155,13 @@ Recommended, not measured:
 Touch targets for buttons and nav links should be at least 44px tall. The observed "Open menu"/"Close sidebar" text strongly suggests an off-canvas mobile menu pattern, but its transition, width, and trigger styling were not present in the supplied CSS and are therefore not specified here.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

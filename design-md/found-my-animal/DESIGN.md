@@ -4,6 +4,10 @@ name: "Found My Animal"
 source_url: "https://foundmyanimal.com"
 captured_at: "2026-09-28T09:03:56.589830+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Found My Animal presents as a warm, editorial pet-lifestyle storefront layered onto a
   Shopify theme (evidenced by app.css scaffolding, side-panel and chat-widget variables).
@@ -167,6 +171,13 @@ A CSS custom-property fragment in the source (`small=0em&medium=48em&large=66.75
 Touch targets are recommended at a minimum 44×44px for buttons and swatches; the side-panel tab buttons observed in CSS (`height:50px`) support a comparable minimum. Mobile nav collapse, mega-menu behavior, and cart drawer interactions are not observed and should be validated against the live site before implementation.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered layout, hover/focus states, or mobile viewport behavior was observed. Color roles are inferred from CSS custom-property names (e.g., `--color-accent` equaling `--color-body`) and promotional banner context, not from confirmed brand guidelines. Font usage is contradictory in the source: "Archivo Narrow" is asserted as both heading and body font in one rule block, a system font stack is the theme's underlying default, and 'Brandon Grotesque'/'Brandon Grotesque Black' appear in a separate !important override of uncertain scope — availability and licensing of Brandon Grotesque were not verified and it may be a paid/proprietary font. All pixel sizes in `typography`, all `rounded` and `spacing` scale values, and component padding/border details are proposed design conventions, not measurements. Payment-icon colors present in the raw palette (blues, reds, teals tied to card networks) were deliberately excluded from brand color roles.

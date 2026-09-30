@@ -4,6 +4,10 @@ name: "Vaja Cases"
 source_url: "https://www.vajacases.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Argentine leather craftsmanship meets a digital storefront that lets the material speak — the site runs on a near-monochrome scaffold of #222222, #363636, and #151515, punctuated by a single warm accent: #ee7d53, a burnt-orange that appears on add-to-cart buttons, sale badges, and the hover state of product thumbnails. The palette is deliberately restrained; the extracted color list is dominated by grays (#5f5f5f, #8b8b8b, #b3b3b3, #dbdbdb, #f4f4f4) because the brand trusts its product photography — close-ups of stitched leather, patina, and grain — to supply all the warmth and texture. Typography runs Avenir Next and Helvetica Neue at modest weights (400–600), never competing with the imagery. Buttons use {rounded.sm} corners (8px) rather than pills, a subtle nod to the precision of leather cutting. The nav bar is a thin, fixed strip at 48px height — barely there — and the product grid uses generous {spacing.xl} gutters so each case floats in its own white space. The checkout flow inherits Shopify's default blue (#00adef) and red (#e50122) for payment widgets, a visual break that the brand accepts rather than overrides. The overall effect is a gallery for objects, not a marketplace — quiet, deliberate, and anchored in the tactility of the material.
 
@@ -304,6 +308,13 @@ components:
 - Secondary navigation (breadcrumbs, filters) collapses into a "Filter" button on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

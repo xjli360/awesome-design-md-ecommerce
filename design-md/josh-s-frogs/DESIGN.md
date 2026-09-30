@@ -4,6 +4,10 @@ name: "Josh's Frogs"
 source_url: "https://joshsfrogs.com"
 captured_at: "2026-09-29T04:02:16.754755+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Josh's Frogs presents as a high-volume specialty e-commerce site for captive-bred
   amphibians, reptiles, arachnids, and their live-animal supply chain (feeders,
@@ -172,6 +176,13 @@ This is a proposed breakpoint scheme, not measured from live site behavior:
 Touch targets should be at least 44x44px for cart/account/search icons. Category and pet-type navigation (Shop By Pet, Shop By Category) should collapse into an accordion or drawer below `md`. None of this is confirmed from captured layout CSS; it is a standard responsive recommendation for a catalog-heavy storefront.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

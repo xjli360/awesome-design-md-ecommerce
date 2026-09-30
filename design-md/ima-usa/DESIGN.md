@@ -4,6 +4,10 @@ name: "IMA-USA"
 source_url: "https://www.ima-usa.com"
 captured_at: "2026-09-28T04:13:36.909337+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   International Military Antiques presents itself as a utilitarian, catalog-driven commerce site rather than a heavily styled brand experience. The observed CSS is dominated by neutral grayscale values (#ffffff, #f8f8f8, #fafafa, #e0e0e0, #767676) used for backgrounds, cards, and borders, with body copy set in a near-black #231f20 and menu/heading text in pure #000000. The single recurring accent is a brick-red #bf2e1a, applied to cart CTAs and surcharge warnings, which this spec treats as the primary action color. A secondary navy (#212c64/#243a80) appears only on a PayPal checkout button and is treated as an inferred, low-frequency secondary/link color rather than a core brand hue. Small traces of gold (#c89c00) and green (#10bb07) exist in the palette but have no confirmed role in the supplied rules; they are mapped here to accent and success states as reasonable, clearly-labeled inferences. Typography is exclusively Roboto with sans-serif fallback, spanning 400–900 weights; no display or serif face is evidenced. The interpretation below proposes a restrained, document-like layout system (sharp-to-moderate corners, tight letter-spacing on buttons, uppercase CTAs) consistent with the observed uppercase/bold cart button and outlined "continue shopping" pattern, without asserting any unverified page layout.
 
@@ -152,6 +156,13 @@ This is a recommended breakpoint structure, not measured site behavior; no media
 Touch targets should meet a minimum 44px hit area for cart/menu icons; the `.close-menu` icon (28px glyph) likely needs padding to reach this, which is a proposed adjustment. Menu collapse below tablet is expected to reuse the existing `.pm-open` slide-in drawer class family observed in the CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

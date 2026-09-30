@@ -4,6 +4,10 @@ name: "Durston Gear"
 source_url: "https://durstongear.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep-teal (#108474) spine runs through a site that sells ultralight backpacking tents and cookware to people who count every gram — the brand’s primary voltage appears in the header background, the add-to-cart button, and the footer, while a secondary teal (#579787) softens secondary buttons and informational banners. The canvas is a clean, near-white (#f9fafb) that shifts to a slightly warmer off-white (#f9f9f9) on product cards, giving the grid a subtle layered feel without introducing hard contrast. Accent yellow (#fbcd0a) appears sparingly — on sale badges and small callout tags — like a single reflective patch on an otherwise muted pack. Typography runs Nunito Sans for body and headings, set at modest weights (400–600) with generous line heights; the brand trusts product photography and spec tables over decorative type. Borders are thin and soft: hairline (#dedede) on cards, a slightly lighter hairline-soft (#e9e9e9) on input fields, and a muted gray (#7b7b7b) for secondary text that avoids the harshness of pure black. The overall mood is technical but not cold — the teal brings an outdoor, water-source freshness, and the rounded corners (8px on buttons, 12px on cards) keep the interface approachable for a gear audience that might be reading specs on a phone at a trailhead.
 
@@ -433,6 +437,13 @@ components:
 - Breadcrumbs truncate to show only "Home > Current Page" on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

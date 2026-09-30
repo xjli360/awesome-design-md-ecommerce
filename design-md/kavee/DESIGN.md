@@ -4,6 +4,10 @@ name: "Kavee"
 source_url: "https://kavee.com"
 captured_at: "2026-09-28T04:19:21.527068+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Kavee's evidence points to a warm, editorial palette built around a deep
   forest green (#1a4b3d) used as the sticky header and primary action color,
@@ -157,6 +161,12 @@ This is a recommended structure, not measured site behavior:
 Touch targets for buttons and nav items should be at least 44px tall (proposed). Mobile navigation is assumed to collapse into a slide-out or dropdown menu; no such interaction was observed in the supplied static CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS custom properties, color extraction, and font-family declarations only — no rendered page, computed layout, or JavaScript-driven interaction was observed. Semantic role assignments (e.g., which grays are "muted" vs "hairline," which pastels map to product swatches) are inferred from typical e-commerce/pet-retail patterns and color proximity, not confirmed from markup. Numeric type sizes below `h6` (body, caption, button) and all spacing/rounded scale values are proposed conventions, not sourced from the site's actual `--spacing-N` or radius tokens, whose pixel values were not present in the supplied evidence. Hover, focus, active, and error states are proposed and unverified. Mobile menu behavior, carousel interaction, and swatch-selector functionality were not observed. Font availability and licensing for "Instrument Serif" and "Manrope" (e.g., self-hosted vs. Google Fonts, weight range) were not verified; system/monospace fallbacks in the supplied list (Arial, Calibri, Consolas, Helvetica, Menlo, Monaco, etc.) appear to be default OS/browser fallback stacks rather than intentional brand typefaces.

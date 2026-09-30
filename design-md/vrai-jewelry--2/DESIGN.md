@@ -4,6 +4,10 @@ name: "Vrai"
 source_url: "https://vrai.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The first thing that registers at vrai.com is the deliberate evacuation of color — not as neglect but as argument. Every surface runs on a near-monochrome system where #241f20, a warm charcoal carrying a barely perceptible amber undertone, serves as the single brand ink pressed against an off-white #f7f7f7 canvas that the meta theme-color tag confirms as the site's base temperature. No accent hue punctuates the grid, no gradient bridges the transitions — the diamonds are the chromatic event, and the surrounding UI steps entirely aside to let them be. Button labels, navigation links, price displays, and heading hierarchies all resolve to that same near-black or its close relative #3c3c3b, with #9ca3af absorbing secondary and placeholder roles: a palette of exactly three luminance levels. The engagement ring configurator — the brand's signature interaction — embeds this restraint inside a precision tool, letting customers sequence cut, setting, and metal through clean-edged selector tiles with no decorative distraction. Because the site loads typography via JavaScript (no font-family stacks were capturable at extraction time), the type system here is reconstructed from visual context: thin-weight serifs for display headings signal the editorial fine jewelry register, while a geometric sans handles UI labels and body copy with near-zero default letter-spacing and tracked uppercase for functional text. Corners lean toward minimal radius — `{rounded.none}` and `{rounded.xs}` rather than the pill-shaped softness of lifestyle brands — which reads as architectural rather than cold. Spacing is generous and even: `{spacing.xl}` gutters between product cards, `{spacing.section}` breathing room above hero text. The net effect is a site that performs the logic of a light-filled showroom — white walls, one object at a time — rather than a conventional e-commerce grid.
 
@@ -324,6 +328,13 @@ components:
 - PDP sticky CTA bar appears at mobile only, anchored to viewport bottom above safe-area inset
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

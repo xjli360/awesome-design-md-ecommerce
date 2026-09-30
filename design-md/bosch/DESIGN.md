@@ -4,6 +4,10 @@ name: "Bosch"
 source_url: "https://www.bosch-home.com/us"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The Bosch logotype sits inside a perfect crimson circle — #EA0016, a red sharp enough to read as a warning signal against a white-on-white product page — and that geometry sets the tone for everything downstream. Engineering precision runs through the layout: columns align to a hard grid, product specs render in tabular rows with fine hairlines, and surface hierarchy moves in three steps (white card → soft gray section → near-black footer) with almost no decorative variation between. Bosch Sans, the brand's proprietary typeface confirmed loading on the live site, carries text at modest weight; body copy sits at 400/16px with open leading that lets specification-dense pages breathe. No display weight exceeds 700, and letter-spacing stays near zero — the type reads as mechanical clarity rather than editorial warmth. CTAs inherit the same #EA0016 as the logomark, maintaining button-to-brand continuity across every page; hover darkens to #C90012 without morphing the shape. Corner rounding is minimal throughout: cards clip at 4px, the primary button at 4px, filter chips at `{rounded.full}` — the pill exists only for taxonomy chips, never for CTAs or cards. Navigation is wide and clean: a 72px top bar holds the Bosch crimson-circle mark on the left, category mega-menu triggers in the center, and icon buttons (search, wishlist, cart, account) on the right, separated from page content by a single 1px `{colors.hairline}` stroke. Product cards lead with large white-background cutout photography at a 4:3 ratio flush to the card edge, then a tight metadata stack — series badge, title, star rating in red (not gold), price, and a full-width red CTA — below. The spec table is a first-class UI element rather than an afterthought: two-column, alternating `{colors.surface-soft}` rows, cell padding at 12×16px, and label/value weight contrast doing the hierarchy work. The overall effect is a site that reads more like a precision instrument catalog than a lifestyle shop: confident, systematic, and cold in the best engineering sense.
 
@@ -372,6 +376,14 @@ components:
 - Promo banners: side-by-side text+CTA (desktop) → stacked (mobile), CTA full width
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

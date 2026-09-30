@@ -4,6 +4,10 @@ name: "SKT Ceramics"
 source_url: "https://www.sktceramics.com"
 captured_at: "2026-09-29T04:17:47.925592+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation reads SKT Ceramics' evidence as a quiet, gallery-like Shopify storefront built for a handmade porcelain and illustration studio. The measured palette centers on a near-black ink (#121212) over white and off-white surfaces (#ffffff, #f5f5f5, #fcfcfc), with a muted sage-green (#8fc2b0) appearing as the theme's --color-button token and treated here as the primary accent, echoing glaze and botanical illustration tones without asserting a brand-verified meaning. Hairlines and card surfaces draw from the neutral grays present (#dfdfdf, #e6e6e6, #cccccc). Typography is inferred from two evident stacks: a custom heading token, GTStandard-M, driving h1–h5 per the CSS, and a classic serif fallback chain (Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif) that governs body copy, consistent with the theme's --font-body-family variable resolving to a system serif on this install. Base body type is set at 1.5rem with 0.06rem letter-spacing, confirmed in base.css. Buttons, cards, and badges follow Shopify Dawn-style CSS custom-property patterns (--buttons-radius-outset, --border-radius) whose resolved pixel values are not exposed in the supplied evidence, so radius and spacing scales below are proposed, not measured. All component states beyond static declarations (hover, focus, mobile collapse) are proposed conventions suited to an artisan pottery e-commerce context.
 
@@ -119,6 +123,13 @@ components:
 Proposed breakpoints (not measured): mobile ≤599px, tablet 600–989px, desktop ≥990px, matching common Shopify Dawn-theme conventions implied by the CSS variable structure. At mobile widths, the nav-bar is expected to collapse into a drawer/hamburger menu, product-card grids reduce to 1–2 columns, and hero padding tightens toward {spacing.xl}. Touch targets for button-primary/secondary and glaze-color-swatch should maintain a minimum 44px tappable area per common accessibility guidance. This section is a recommendation based on typical Shopify theme behavior, not an observation of the live site's responsive layout.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no live rendering, computed layout, or interaction testing was performed. Semantic role assignments (e.g., treating --color-button as "primary," --color-foreground as "ink") are inferred from variable naming conventions, not confirmed brand guidance. Numeric values for rounded and spacing scales are proposed defaults, since the actual --buttons-radius-outset, --product-card-corner-radius, and spacing custom properties resolve to values not present in the supplied CSS. Typography sizes beyond the confirmed 1.5rem body base are estimated. Mobile/responsive and hover/focus interaction behavior were not observed. The custom heading font "GTStandard-M" is used verbatim from evidence but its licensing, availability, and correct display name are unverified; generic fallbacks are included per instructions.

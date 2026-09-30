@@ -4,6 +4,10 @@ name: "Fenty Beauty"
 source_url: "https://www.fentybeauty.com"
 captured_at: "2026-09-28T04:10:05.521425+00:00"
 evidence_status: "historical_partial_css_evidence"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Fenty Beauty by Rihanna is a radical, inclusive force in makeup — a brand that rewrote the industry’s color palette by launching with 40 foundation shades and never looking back. The visual system mirrors that ethos: a crisp, almost editorial white canvas (`#ffffff`) is punctuated by a confident, unapologetic red (`#bd0100`) that serves as the brand’s primary voltage, appearing on CTAs, badges, and hero accents. This red is balanced by a sophisticated, cool-toned neutral palette — warm taupe (`#ebdad3`), dusty rose (`#e0beb1`), soft lilac (`#d8cbda`), and deep plum (`#6c4e71`) — that echo the brand’s skin-tone-first philosophy and its Killawatt highlighter family. The typography is anchored by the proprietary **Brown** typeface, a rounded, humanist sans-serif that feels both approachable and fashion-forward, paired with the more delicate **Loud** for display moments. Buttons and cards use soft, pill-like radii (`{rounded.sm}` at 8px for CTAs, `{rounded.lg}` at 20px for product cards), avoiding harsh corners to maintain a tactile, skin-friendly feel. The overall mood is one of confident, joyful glamour — not minimal, not maximal, but precisely *Fenty*: a system where a `{colors.primary}` red button sits next to a `{colors.muted}` (#a8a8a8) secondary link, and where the `{colors.canvas}` (#ffffff) background lets the product photography and the model’s skin do the real talking. The brand’s Shopify platform is evident in the modular, product-card-heavy layout, with `{colors.hairline}` (#d8d8d8) dividers and `{colors.surface-soft}` (#f7f4f3) section backgrounds creating a clean, shoppable grid.
 
@@ -402,6 +406,13 @@ components:
 - Product image galleries switch from a thumbnail strip to a swipeable carousel on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

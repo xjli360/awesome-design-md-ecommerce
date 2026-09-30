@@ -4,6 +4,10 @@ name: "Simple Mills"
 source_url: "https://simplemills.com"
 captured_at: "2026-09-28T10:07:08.995783+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The observed CSS surfaces a warm, food-forward palette anchored by a deep
   maroon-brown (#663333, written as the CSS shorthand #633) used for headline
@@ -164,6 +168,13 @@ This is a recommended breakpoint approach, not measured site behavior:
 Touch targets should be at least 44px in height for `button-primary`/`button-secondary` on mobile, exceeding the 34px line-height observed in desktop button CSS. Nav collapse and any sticky-header behavior are proposed, not confirmed by evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

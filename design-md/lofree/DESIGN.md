@@ -4,6 +4,10 @@ name: "Lofree"
 source_url: "https://www.lofree.co"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A teal #108474 pulse runs through every Lofree surface — the brand's signature voltage that turns mechanical keyboards into desk jewelry rather than utility tools. The site reads like a design studio portfolio: generous white canvas (#ffffff), product photography that floats against soft #edf5f5 backdrops, and a single gold accent (#ffd700) reserved for limited-edition badges and "NEW" flags. Typography splits between Lato for clean product specs and Lora for editorial storytelling — a serif/sans-serif dialogue that signals "we take design seriously but not ourselves." Buttons carry {rounded.sm} corners, while product cards use {rounded.md} to soften the hard geometry of keyboard grids. The nav bar stays transparent until scroll, then snaps to a white surface with a subtle {colors.hairline} bottom border — a quiet acknowledgment of hierarchy without shouting. Every product page leads with a hero image that bleeds edge-to-edge, the keyboard angled just so to catch light on keycaps, the brand name set in a condensed sans at 48px. This is a brand that sells objects of desire, not peripherals.
 
@@ -405,6 +409,13 @@ components:
 - Accordion content is collapsed by default on all breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

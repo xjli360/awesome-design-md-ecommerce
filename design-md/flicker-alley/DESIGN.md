@@ -4,6 +4,10 @@ name: "Flicker Alley"
 source_url: "https://www.flickeralley.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, archival canvas of #121212 — near-black, not pure black — that frames film history as a physical object to be held, studied, and admired. The brand’s primary voltage is #334fb4, a restrained indigo-blue that appears in navigation accents, product badges, and the occasional editorial underline; it never screams, it signals authority. Body text runs #dedede on the dark canvas, a warm silver rather than clinical white, while #f3f3f3 lifts headlines and price tags into legibility. The secondary surface #242833 sits between the deep background and the card foreground, creating a three-dimensional hierarchy without relying on hard shadows — think of a film archive’s storage boxes stacked in climate-controlled rows. Lato, set at moderate weights and generous line heights, carries the typographic load with a quiet professionalism that matches the brand’s mission: bringing film history to new audiences. Buttons are pill-shaped at {rounded.full}, but product cards and modals use {rounded.sm} — a deliberate restraint that keeps the interface from feeling toy-like. The search bar, a critical entry point for a catalog of obscure and restored titles, sits as a prominent {rounded.full} field on the dark canvas, inviting discovery. Every design decision — from the near-black backdrop to the indigo accent — treats the screen as a projection surface, not a storefront.
 
@@ -387,6 +391,13 @@ components:
 - Cart drawer overlays full screen on mobile, slides in from right on desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

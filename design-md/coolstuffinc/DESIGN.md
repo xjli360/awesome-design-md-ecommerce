@@ -4,6 +4,10 @@ name: "CoolStuffInc"
 source_url: "https://www.coolstuffinc.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A trading card marketplace that wears its inventory density like a badge of honor, CoolStuffInc runs on a deep teal primary (#008cba) that feels more like a vintage game-store awning than a standard e-commerce blue. The palette is built for information hierarchy at scale: #222222 ink on #ffffff canvas for product titles, #555555 body for prices and condition notes, and a constellation of accent colors — #990000 for sold-out badges, #f1da36 for star-rating highlights, #43ac6a for in-stock indicators, #f04124 for clearance flags — that turn the page into a trading-floor ticker. Navigation bars sit in #00303f, a near-black teal that grounds the header without competing with product imagery. The typography stack is a pragmatic mix of AppleGothic for system-level headers, Arial for body copy, and Century Gothic for display moments, all set against a canvas of #ebebeb and #eeeeee that softens the high-density grid. Buttons use {rounded.sm} corners — functional, not decorative — and the primary CTA (#008cba on #ffffff) carries the same weight as a "Buy Now" on a sealed booster box. The search bar, a full-width field with a #008cba border, is the most prominent interactive element, reflecting a site built for collectors who know exactly what they want. Badges are sharp: #990000 for "Sold Out", #43ac6a for "In Stock", #cf2a0e for "Clearance", each with {rounded.xs} and white text. The footer collapses into a dense stack of #014459 links on #00303f, a final dark anchor that signals the end of the browsing session. This is not a brand that whispers; it's a brand that tags, prices, and ships.
 
@@ -371,6 +375,13 @@ components:
 - Category strip: On mobile, becomes horizontally scrollable with snap points
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

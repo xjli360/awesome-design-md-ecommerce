@@ -4,6 +4,10 @@ name: "Leen Heyne"
 source_url: "https://www.leenheyne.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every photograph on leenheyne.com dissolves into a warm ivory field — the background is not white but the particular off-white of aged paper and polished bone, a deliberate contrast against the cool platinum and rose gold of the rings themselves. Leen Heyne is a Dutch atelier producing bespoke engagement rings and fine jewelry; the visual identity leans hard into the editorial quietness of Scandinavian luxury rather than the baroque density typical of traditional jewelers. Display type is set in a high-contrast hairline serif — the kind that narrows to near-invisibility on thin strokes — at large point sizes and generous tracking, producing headlines that feel more like captions in a contemporary art catalogue than product names. The primary accent is a warm antique gold, used almost nowhere except CTA buttons, hover underlines, and the faint ruled hairlines that separate content zones; the site depends on restraint, trusting the photography to carry visual weight. Rounded corners are virtually absent — rings, product cards, and input fields are rendered with minimal or zero radius, echoing the precision geometry of the jewelry itself. Navigation is minimal: a wordmark left, three or four links right, and nothing else — no mega-menus, no promotional banners. Product detail pages expand into full-bleed imagery stacked vertically, with specification type in a small-caps sans-serif beneath. The customization flow, which is the brand's commercial core, opens as an inline configurator rather than a separate page, keeping the editorial calm intact. The overall chromatic register is warm neutrals — ivory, champagne, warm gray, near-black — with the single gold `{colors.primary}` note providing all necessary contrast against the `{colors.canvas}` field. Spacing is generous to the point of ceremony: section gaps of 80–96px, product grids with wide gutters, and text blocks that never run wider than roughly 60 characters. This is a site that moves slowly and expects visitors to stay.
 
@@ -388,6 +392,13 @@ components:
 - Hero display headline scales from `{typography.display-xl}` (56px) to `{typography.display-md}` (32px) at mobile breakpoint
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

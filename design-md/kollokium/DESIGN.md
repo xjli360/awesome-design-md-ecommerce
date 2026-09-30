@@ -4,6 +4,10 @@ name: "Kollokium"
 source_url: "https://www.kollokium.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Pale aquamarine (#aadddd) is the first surprise — a muted, chapter-ring teal appearing as the brand's primary voltage in a category that almost universally reaches for gold, black, or carbon. Kollokium frames itself not as a watch company but as a watch projects operation, a micro-brand disposition that treats each reference as a finite, documented experiment rather than a catalog line. The deep near-black palette (#121212 as the primary ink surface, #230d0d adding a faint burgundy undertone to the darkest elements) keeps the stage deliberately dim, so that the aquamarine and the occasional #ff8900 orange accent read as genuine dial-color references rather than decorative UI choices. A secondary band of steel blues (#7396a2, #5487a0) reinforces the nautical and industrial undertone — these are colors borrowed from the objects, not from a mood board. The surface system is minimal: #fefefe and #f5f5f5 whites keep product photography isolated, while #f3f3f3 and #dedede grays mark structural separations without competing with the dial imagery. The rust accent (#a24e4e) completes a palette that reads like a cross-section of an actual watch case — anodized aluminum, blued steel, ceramic bezel, aged lume. No custom font stack was recoverable from the live site, pointing to JS-loaded or variable-font delivery; the system defaults here use a geometric sans that is consistent with independent watch brand practice: compact, legible, carrying small numbers and spec strings well. Components use `{rounded.sm}` geometry throughout — nothing pill-shaped, nothing with a hard zero radius. The overall spatial register is spare: generous white-field photography padded with wide margins, short nav labels, and CTA buttons sized for confident one-tap interaction on mobile. The orange (#ff8900) appears as a single-point accent reserved for active state highlights and edition markers, never as a fill, making it the brand's most attention-focused signal.
 
@@ -339,6 +343,13 @@ components:
 - Hero copy: `display-xl` only at 1128px+; steps down to `display-md` at tablet, `display-sm` at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

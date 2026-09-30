@@ -4,6 +4,10 @@ name: "Rancilio"
 source_url: "https://www.ranciliogroup.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every surface on the Rancilio site earns its existence through restraint — a near-black (#252525) drawn so close to true black it registers as industrial rather than simply dark, held against a neutral #f5f5f5 canvas that keeps product photography isolated from ambient noise. The brand doesn't reach for a signature accent color; the machines themselves — the Silvia's brushed stainless boiler cap, the professional Class's commercial group head geometry — are the visual event, and the interface steps aside to let them perform. Type runs exclusively on system stacks (Arial, Helvetica Neue, -apple-system) at controlled weights, giving pages the register of a precision spec sheet: measured, unornamented, exact. Rancilio, founded in Milan in 1927, treats the product shot the way a data sheet treats a circuit schematic — multiple angles, component callouts, cutaway renders, no lifestyle fog. Buttons sit at low-radius corners ({rounded.xs} to {rounded.sm}), matching the machines' squared-off stainless housings rather than the pill forms prevalent in consumer software. The mid-gray band (#bfbfbf, #949494, #d9d9d9) handles all subordinate work — navigation hairlines, ghost states, helper text, section dividers — so nothing in that register competes with the product. Where other espresso brands lead with café-mood photography, Rancilio foregrounds machine anatomy and heritage timeline entries that function as engineering credentials rather than nostalgia. Spacing is generous at the section level (64px between content blocks) but tight inside component groups, echoing the close-tolerance assembly philosophy the brand has maintained for nearly a century. The result reads as a European trade catalog cross-bred with a product configurator, where material specifications and professional pedigree carry the persuasive weight.
 
@@ -328,6 +332,13 @@ components:
 - Footer columns: 4-col → 2-col at tablet → 1-col accordion on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

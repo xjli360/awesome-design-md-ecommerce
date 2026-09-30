@@ -4,6 +4,10 @@ name: "Monica Vinader"
 source_url: "https://monicavinader.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Monica Vinader places its personalization engine so close to the add-to-cart button that the two nearly overlap — engraving initials or a date is not a product option but the primary design act the site invites. The interface around that act is intentionally stripped back: a white (#ffffff) canvas, #313131 charcoal as the sole confirmed text register, and a warm stone-toned hairline dividing sections without fracturing the calm. Product photography floats on pure white with zero props or lifestyle staging, because the pieces — gold vermeil, sterling silver, faceted gemstones — supply all the warmth the frame needs. Navigation is high and lean, a single bar with category labels at light weight and the Monica Vinader wordmark anchoring the center. Material selectors (Gold Vermeil, Sterling Silver, Rose Gold Vermeil) operate as the de facto color swatches; there is no UI palette beyond the metal finishes and stone tones the jewelry delivers. Corner rounding runs from `{rounded.none}` on product cards to a restrained `{rounded.sm}` on chips, keeping the geometry measured and grown-up rather than approachable-friendly. The typographic register favors clean sans-serif at modest weights for body and navigation, reserving a lighter serif treatment for editorial display moments, trusting whitespace over typographic muscle. A micro-system unique to the brand — engraving preview tile, character counter, letter-style selector — appears inside the personalization panel and requires no analogue elsewhere in the design system. Gift messaging, luxury packaging callouts, and a quality-promise icon strip above the `{colors.primary}` dark footer reinforce a brand whose retail energy sits precisely between premium high street and entry fine jewelry, charging neither prestige-level prices nor casualizing the experience.
 
@@ -333,6 +337,13 @@ components:
 - Footer reflows from 4-column grid to stacked single column with accordion navigation sections on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

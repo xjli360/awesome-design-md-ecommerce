@@ -4,6 +4,10 @@ name: "X-Chair"
 source_url: "https://www.xchair.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Exo2 at display weight has the visual signature of a cockpit instrument label — geometric, open-apertured, with a slightly aeronautical condensed texture that places X-Chair in the "performance tool" category rather than lifestyle furniture. The brand's palette is built almost entirely from eight interlocking grays (#e2e2e2, #e0e0e0, #dedede, #d9d9d9, #c7c7c7, #c4c4c4, #bfc0c0, #939393) that create a tiered surface system — each layer a half-stop darker than the last, giving product photography maximum breathing room without reaching for decorative color. Into this grayscale architecture, a single chromatic force — #ea212e — governs every primary CTA, sale badge, and urgency callout with deliberate precision. The dark navy #2d3142 and slate-steel #4f5d75 appear in technical trust blocks: ergonomic specification tables, warranty terms, certification seals — copy that must read as engineered rather than sold. Component rounding is restrained: button corners sit at `{rounded.xs}`, card containers at `{rounded.sm}`, never approaching the soft pill shapes of lifestyle brands. The sage note in #ced7cf surfaces in specific product colorway contexts — a quiet departure that signals the chair exists beyond its signature black-and-gray world. Baskerville provides editorial counterpoint in testimonial headlines and long-form copy blocks, a serif intrusion that creates brief warmth inside an otherwise systematic sans-serif architecture. Navigation runs Exo2-SemiBold with wide tracking at 13–14px, echoing the precision of technical instrument manuals. The overall effect is a brand that earns credibility through typographic and chromatic restraint, letting the single red voltage land with maximum force when it finally appears on screen.
 
@@ -400,6 +404,13 @@ components:
 - Footer multi-column grid → stacked accordion with collapsed section headings at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

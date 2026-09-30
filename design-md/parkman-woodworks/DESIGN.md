@@ -4,6 +4,10 @@ name: "Parkman Woodworks"
 source_url: "https://parkmanwoodworks.com"
 captured_at: "2026-09-28T10:09:22.789218+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Parkman Woodworks' visible CSS is a spare, workshop-honest system exposed
   as Shopify theme custom properties, not a decorative wood-tone palette.
@@ -169,6 +173,13 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets should be at least 44px for cart, search, and menu icons; carousel controls (`.flickity-button`, radius:50%) should maintain a minimum 32–40px hit area. Mobile filter/collection navigation is expected to collapse into an accordion or drawer, consistent with the deep category taxonomy (Shop Furniture > Shop By Type / Shop by Room) visible in the text evidence, though no mobile layout was directly observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS custom properties, a theme stylesheet, and page text only — no rendered layout, responsive states, hover/focus transitions, or JavaScript-driven interactions (cart drawer, quick-view modal, mega-menu) were directly observed. The heading font "Hannik" appears as a literal CSS custom-property value; it is treated as a custom/unverified font with unknown licensing, and Poppins (declared then overridden in the same `:root` block) is included only for transparency, not use. All typographic sizes beyond the two CSS-declared values (17px body, 35px header) are proposed for scale completeness. Color-to-role mapping for non-button surfaces (cards, footer, search) is inferred from token naming rather than confirmed visual placement. Several palette entries in the source evidence (e.g., #0071ce, #eb001b, #f79e1b, #ff5f00) resemble third-party payment-brand colors (Visa/Mastercard) rather than site branding and were intentionally excluded from role assignment. Spacing and rounded scales beyond radius:0/50% are proposed conventions, not extracted values.

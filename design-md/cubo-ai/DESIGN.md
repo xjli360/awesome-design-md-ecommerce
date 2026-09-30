@@ -4,6 +4,10 @@ name: "Cubo Ai"
 source_url: "https://getcubo.com"
 captured_at: "2026-09-28T09:58:38.065660+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   CuboAi's storefront (getcubo.com / us.getcubo.com) presents a Shopify-based baby-monitor product site organized around AI safety and sleep features. The CSS custom properties expose a clear brand palette: a teal primary (#24ceb9) with tonal steps (#5be3d3, #b7f1ea, #dcebe9, #e9f4f3), a coral secondary (#ff8784) used for cart badges, a sky blue accent (#4cc3e5) tied to "Health" features, and an amber warning color (#ffb516) tied to "Memories" and a floating action button. Feature-toggle buttons (Safety/Sleep/Health/Memories) map directly to these four hues, an observed and unusually explicit color-to-content mapping worth preserving. Typography relies on 'museo-sans-rounded' for headings with Corbel Bold/sans-serif fallback, and a plain sans-serif/Corbel stack for body copy — no evidence of licensed webfont hosting was found, so fallback behavior should be assumed. Neutral text tones (#6d6d6d nav/body, #9a9a9a muted, #121212 ink) and light surface tones (#e9f4f3, #f4f5f6) are inferred as a soft, clinical-but-friendly UI supporting the "peace of mind" positioning. Rounded pill shapes (50px/50% radii) recur in real buttons and controls, informing an interpretation favoring soft, rounded, approachable components over sharp corners.
 
@@ -151,6 +155,12 @@ This is a recommended, non-measured breakpoint scheme; no responsive CSS or mobi
 Touch targets should be at least 44px for buttons and the floating action button (already 48px per evidence). Nav collapse and swiper-control behavior on small screens are proposed, not confirmed from static CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS custom properties, isolated selector/declaration snippets, and page text — not a rendered or interactively tested site. Component structures (product-card, hero, footer, text-input, search) beyond nav-bar, feature-tab, and floating-action-button are proposed compositions, not directly observed markup/CSS. Font availability for 'museo-sans-rounded' and Corbel variants (licensing, hosting, actual render fallback) was not verified; generic sans-serif fallback should be assumed in implementation. Type sizes, weights, and letter-spacing in the typography scale are proposed conventions, not measured computed styles, aside from the font-family stacks themselves. No hover, focus, error, or disabled states were observed beyond the swiper-button and Shopify checkout-button hover rules; all other interaction states are proposed. Mobile/responsive layout, breakpoints, and touch behavior were not present in evidence and are recommendations only.

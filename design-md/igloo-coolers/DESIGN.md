@@ -4,6 +4,10 @@ name: "Igloo Coolers"
 source_url: "https://www.igloocoolers.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A brand born in 1947 that treats coolers as durable sculpture, the palette runs on a near-monochrome axis of #dedede, #e0e0e0, and #121212 — three values that describe a lifetime of use: the pale silver of a well-worn lid, the warm gray of a cooler body that has sat in sun for decades, and the deep near-black of the brand wordmark and structural details. Permanent Marker Pro, a hand-lettered display face with deliberate ink-splash irregularity, sits atop every hero headline and product badge, injecting a permanent-marker informality that contrasts with the otherwise restrained sans-serif body set in Arial. The brand trusts its own history as the primary design move — the founding year appears in the page title, on product pages, and as a persistent visual anchor. Product photography is the dominant color source, with coolers photographed in outdoor settings that introduce blues, greens, and earth tones against the neutral canvas. CTAs use the full #121212 ink as background with white text, a high-contrast binary that reads as industrial and no-nonsense. Cards and surfaces use {rounded.sm} corners — soft enough to feel intentional, tight enough to avoid any "friendly appliance" association. The overall mood is utilitarian with a collector's pride: these are objects meant to be kept, not replaced.
 
@@ -538,6 +542,13 @@ components:
 - Search bar collapses to icon-only trigger on mobile, expanding to full-width overlay on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

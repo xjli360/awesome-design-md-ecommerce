@@ -4,6 +4,10 @@ name: "MakerBot"
 source_url: "https://www.makerbot.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Warm drafting-paper cream (#f6f3ef) pressed against electric near-ultraviolet (#100aed) — that pairing is MakerBot's most revealing design decision: a hardware manufacturer whose entire identity pivots on an education mission chose the palette of a student's sketchbook rather than a server room. The canvas holds cream across three elevations — primary surface at #f6f3ef, card backgrounds softening to #ede8df, and dividers warming further to #dad0c0 — so the interface reads like layered stock rather than the cold whites typical of precision machinery. Only the primary CTA fires in that startling electric blue, applied with discipline to interactive targets. The secondary signal system is unusually rich: red (#ff0021, #e51b00) handles urgency and error states, green (#028d05, #007d04, #00c84e) maps success and printer availability, and yellow (#ffd204) flags caution without alarm. This four-color semantic system is uncommon in consumer hardware and reflects MakerBot's classroom context, where printer lifecycle events — job queued, print complete, filament low, maintenance required — need to be legible at a glance from across a lab.
 
@@ -436,6 +440,13 @@ components:
 - Footer: four-column → two-column → single accordion-collapsed on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

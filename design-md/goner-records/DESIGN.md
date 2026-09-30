@@ -4,6 +4,10 @@ name: "Goner Records"
 source_url: "https://goner-records.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A Memphis institution that wears its red like a bloodstain on a white t-shirt — #d1171c is the meta-theme-color and the brand's primary voltage, a stop-sign red that appears on the site's header, cart badge, and checkout buttons, while #eb001b and #f00036 pulse as accent variations across sale tags and limited-edition banners. The palette is a chaotic archive of payment-gateway blues (#006fcf, #3086c8, #003087) and Klarna pinks (#ff5f00, #f79e1b) that the Shopify backend drags in, but the brand's own voice lives in the near-black #231f20 for body text and the pure #111111 for headlines, with #dedede as the sole gray for dividers and muted backgrounds. No custom font declarations were extracted — the site likely falls back to system sans-serif stacks (Helvetica, Arial), a deliberate punk austerity that prioritizes album art and raw product photography over typographic polish. Product cards use sharp right angles ({rounded.none}) for vinyl sleeves and cassette cases, while the cart and checkout flow introduce soft pills ({rounded.full}) for quantity selectors and add-to-cart buttons, a pragmatic concession to e-commerce usability. The header is a minimal black bar with white text, the red logo mark, and a search icon — no mega-menu, no category strip, just the records and the noise.
 
@@ -314,6 +318,13 @@ components:
 - The search bar moves from the header to a full-screen overlay on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

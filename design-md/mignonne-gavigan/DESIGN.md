@@ -4,6 +4,10 @@ name: "Mignonne Gavigan"
 source_url: "https://www.mignonnegavigan.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Handwoven threads meet a palette that pulls no punches — the brand's signature marigold gold (#ffc863) shows up where other jewelry brands would settle for tasteful beige, landing as the primary CTA color, the hover glow, and the ambient warmth that ties the artisan credential to the checkout flow. The canvas oscillates between near-whites — #f1f1f1 and #f3f3f3 — surfaces that read less like background and more like the clearing a jeweler makes before laying out a collection. Against this field, #121212 grounds all typography with enough density to make serif display lines land cleanly, and a secondary jolt of electric yellow (#ffff00) fires on sale badges and flash moments, giving the two-tone energy system a vibrancy that matches the brand's handmade, maximalist product sensibility.
 
@@ -335,6 +339,13 @@ components:
 - Footer: multi-column grid → single stacked column with accordion toggles per section heading
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

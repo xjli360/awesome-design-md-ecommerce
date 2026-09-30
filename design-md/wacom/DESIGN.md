@@ -4,6 +4,10 @@ name: "Wacom"
 source_url: "https://www.wacom.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Wacom deploys a near-black charcoal ground — #2b333f and #223344 — so that the instruments themselves occupy the light: tablets, styluses, and the images produced on them carry the visual energy the UI deliberately withholds. Into that controlled dark surfaces one voltage: #ffdb00, a fluorescent-adjacent yellow that functions like a felt-marker highlight stroke, marking every primary CTA and active state with unmissable contrast against the dark ground. The choice is precise — not brand-generic blue, not a warm coral, but the specific yellow of a highlighter that references the tools Wacom sells without illustrating them.
 
@@ -463,6 +467,13 @@ components:
 - Footer grid collapses from 4 columns to 2 at tablet and 1 at mobile; link groups become accordions with yellow chevron indicators
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

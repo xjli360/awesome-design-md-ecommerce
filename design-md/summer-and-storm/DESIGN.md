@@ -4,6 +4,10 @@ name: "Summer and Storm"
 source_url: "https://summerandstorm.com"
 captured_at: "2026-09-29T04:12:42.541081+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Summer and Storm presents as a minimal, editorial baby/kids/womenswear brand, and the
   observed CSS supports a restrained, near-monochrome system. Body copy and headings both
@@ -91,7 +95,7 @@ components:
     padding: "{spacing.sm} {spacing.base}"
     note: "proposed; no dedicated input CSS observed"
   nav-bar:
-    backgroundColor: "transparent-over-hero (observed on template-index)"
+    backgroundColor: "transparent"
     textColor: "{colors.on-primary}"
     hoverColor: "{colors.hover-tint}"
     typography: "{typography.body-sm}"
@@ -174,6 +178,13 @@ Recommended (not measured) breakpoints:
 Touch targets should be ≥44px, matching the observed `.mobile-menu_bottom .checkout-btn button` height of 43px. Nav collapses to a drawer/mobile menu pattern, consistent with observed `.drawer__close` and `.mobile-menu_bottom` selectors. This table is a design recommendation only; no live responsive behavior was inspected.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS and page-text extraction only; no rendered layout, real breakpoints, or interaction states (focus rings, transitions, animations) were observed beyond the explicit hover/active/disabled rules listed. Many color-role assignments (canvas vs. surface-soft vs. hairline) are inferred from a flat gray palette without confirmed usage context. Typography sizes beyond the base 13px body rule are proposed, not measured. The custom font "HelveticaNowText" availability, licensing, and fallback behavior were not verified — only its declared use with a `serif` fallback is confirmed. Saturated palette colors (red, indigo, green) are assumed to be product-swatch variants rather than theme accents, but this mapping is inferential. Mobile menu, search, and product-card structures are proposed patterns fitted to category convention, not extracted from supplied component CSS.

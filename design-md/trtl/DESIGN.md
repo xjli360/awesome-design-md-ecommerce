@@ -4,6 +4,10 @@ name: "Trtl"
 source_url: "https://trtltravel.com/"
 captured_at: "2026-09-29T04:11:18.887114+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from Trtl's live storefront at trtltravel.com, a Shopify-hosted DTC site selling travel pillows, sleep masks, and travel accessories. The supplied palette is dominated by neutral grounding tones — near-black inks (#000000, #1a1a1a, #161616), warm off-whites (#ffffff, #fdfdfd, #f7f7f7), and mid-greys (#707070, #87888a, #dddddd) — with a deep navy (#243b61) reading as the strongest candidate for a primary brand color given its saturation relative to the surrounding neutrals. Warm accent tones (#fad951 yellow, #d6b473 gold) likely carry promotional "% OFF" badges and birthday-campaign styling seen in the page copy, while #dd2222 is inferred as a sale/urgency accent. A darker navy (#16233a) is proposed as a footer/deep-surface tone, consistent with the multi-navy family present in the palette.
   Font evidence includes a long list of families (Inter, Work Sans, Satoshi, IBM Plex Sans/Mono, Plus Jakarta Sans, Lora, PT Sans, Roboto Condensed, IntroExtraBold), typical of a Shopify theme plus third-party review/app scripts. This spec treats Inter as the probable UI/body workhorse and IntroExtraBold as a probable bold display face for hero headlines, both clearly labeled as inferred choices rather than confirmed live observations. Layout, spacing, and rounded values below are proposed conventions for a travel-comfort e-commerce brand, not measured from rendered pages.
@@ -146,6 +150,13 @@ This is a recommended breakpoint scheme, not measured from live responsive behav
 Touch targets should be at least 44px tall for buttons and nav items on mobile. Category navigation (PILLOWS, ACCESSORIES, TRAVEL WEAR, BUNDLES, CLEARANCE, COLLECTIONS, EXPLORE) is proposed to collapse into a slide-out drawer below tablet width. None of this reflects confirmed live breakpoints or interaction states.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Static CSS/text extraction only; no rendered layout, hover states, animations, or actual mobile behavior were observed.

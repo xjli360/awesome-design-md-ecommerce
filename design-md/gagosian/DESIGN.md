@@ -4,6 +4,10 @@ name: "Gagosian"
 source_url: "https://gagosian.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   GagosianHeadline — the gallery's proprietary display serif — carries a stroke contrast so acute it reads simultaneously as a declaration about power and restraint. Where most institutional websites default to neutral grotesques across every surface, Gagosian commissions type that could hang adjacent to a Koons or a Serra without embarrassment. The palette enforces that same discipline: #111111 is the primary ground for every headline, navigation rail, and CTA, while the surrounding color field is constructed from seventeen graduated grays and near-whites — #b2b2b2 down to #fafafa — functioning as invisible infrastructure so no interface chrome competes with seven-figure reproductions. Two outlier colors do specific editorial work: #574a32, a warm tobacco brown, surfaces in archival and print-adjacent contexts where the gallery's long institutional history needs to breathe against pure digital white; #39549d, a deep slate blue, handles linked states and secondary interactive layers without borrowing from the generic hyperlink blue (#2563eb) that appears in raw body copy. GTAmerica handles all body and UI work at weights 400–600 — its geometric neutrality a deliberate foil to the headline's drama. Spacing is monumental: section rhythm begins at 64px and exhibition grids breathe at 48px column gutters, because Gagosian's physical architecture (Britannia Street, Grosvenor Hill, West 24th Street) is defined by vast negative space, and the digital system evokes that register. Rounded corners are effectively absent — `{rounded.none}` or at most `{rounded.xs}` on form fields — because a softened corner reads as a commercial concession on a brand that prices work in the millions. Modal overlays use a near-black #161a1c scrim at high opacity rather than the blue-tinted darks common to consumer platforms. The gallery publishes Gagosian Quarterly, a print-quality editorial product, and the digital design imports that DNA directly: wide text measures, small-caps artist-credit lines in `{typography.caption-sc}`, and a footer built like a magazine masthead rather than a link directory.
 
@@ -380,6 +384,13 @@ components:
 - Footer masthead: 4-column link grid → 2-column → single stacked column on mobile, with the 3px top rule preserved at all widths
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

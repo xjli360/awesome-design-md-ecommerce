@@ -4,6 +4,10 @@ name: "Castle Ink"
 source_url: "https://www.castleink.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep seawater teal (#108474) anchors the Castle Ink storefront — an unusual choice for a printer-supply brand that typically defaults to corporate blue or warehouse gray, and a color that reads with specialist authority across a high-SKU cartridge catalog. The accent is #fbcd0a, a brass-coin yellow pressed into primary CTAs, promotional badges, and sale callouts, creating a two-tone signal system immediately legible in dense product grids. Ambient surface tones cool into #c1e6e6 (soft mint wash) and #edf5f5 (barely-there teal ground), giving rows of cartridge thumbnails room to breathe without abandoning hue coherence; the meta theme-color #557b97, a muted slate-blue, bridges the deeper teal and the neutral page grid in browser chrome and nav hover states. Nunito Sans carries the entire type stack — a geometric sans with rounded stroke terminals that keeps part-number listings and compatibility tables legible without the coldness of Arial or Helvetica — and display headings run at weight 700 while UI copy settles at 400–600, letting color carry hierarchy rather than typographic mass. Buttons sit on {rounded.sm} radii (8px) rather than full pills — the transaction is direct and functional, not a lifestyle gesture. Product cards use #dedede hairline borders over drop shadows, keeping the grid clean while thumbnail imagery carries visual weight. Pricing signals run three deep through an amber-gold progression — #fbcd0a for the sale price, #d2920f for savings callout text, #a36710 for original-price strike-through — communicating discount depth without red-alarm urgency. Free U.S. shipping, foregrounded in the page title itself, surfaces as a persistent teal promo bar that plants the core value proposition before the first scroll. A lavender accent (#a89cc8) appears selectively in trust-badge and feature-highlight contexts, adding a third hue that keeps the palette from reading as purely transactional.
 
@@ -353,6 +357,13 @@ components:
 - Product grid: 4-col desktop → 3-col at 1128px breakpoint → 2-col tablet → 1-col mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "SD Bullion"
 source_url: "https://sdbullion.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Live spot prices scroll in Consolas across a near-black (#222222) ticker band positioned directly above the deep navy (#003665) masthead — announcing immediately that this platform operates on market time, not retail time. The design tension between data-density and precious-metal imagery is the central organizing logic: monospace numerals at 13px carry live gold and silver rates while Roboto Slab headlines anchor campaign copy, serving a buyer who might be simultaneously a chart-watcher and a collector. The gold spectrum — from oxidized #c1a91e through market-floor #e0b20d to vault-gleam #e6cc3d — appears at precisely the moments of commercial intent: buy-now CTAs, price-drop badges, and spot-price highlight borders. Red (#dc1d2c) functions as urgency-only signal, reserved for countdown timers on limited-mintage releases and flash sale callouts, never for navigation or informational labeling. Interactive blues (#4172d5, #2563eb) handle account links and secondary actions, holding the gold palette reserved for metal-specific moments so neither channel bleeds into the other. Cards sit on an #f7f7f7 canvas with #ffffff surfaces and #d7d7d7 hairlines — a neutral temperature matched to product photography of silver rounds and gold bars, where a warmer page background would compete with the metal. Corner radii stay minimal throughout: `{rounded.xs}` on inputs and product cards, `{rounded.none}` on deal badges and category callouts. This flatness signals a commodity marketplace where trust is built from price transparency and data clarity. Open Sans handles body copy and catalog navigation at 14–16px with generous line-height, sustaining readability across dense listing pages and comparison tables. The footer deepens to the same primary navy as the masthead, bookending the page in institutional weight with gold link text completing the two-tone brand circuit.
 
@@ -398,6 +402,13 @@ components:
 - Footer columns: 4-column grid on desktop, 2-column on tablet, single-column stacked on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

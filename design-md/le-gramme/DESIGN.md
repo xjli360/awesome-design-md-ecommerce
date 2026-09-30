@@ -4,6 +4,10 @@ name: "Le Gramme"
 source_url: "https://www.legramme.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Electric #f5f500 yellow — pure voltage against an otherwise near-monochromatic grayscale field — is the sole color that breaks the Le Gramme system. The collection is organized by gram measurement: 1g, 2g, 3g cord bracelets, 5g cable rings, 7g and 9g chains — each weight is a product variant rather than a size, and the digital storefront encodes the same precision logic. Where other fine jewelry brands build atmosphere through warm gold tones and serif romanticism, Le Gramme operates on a technical register: the custom 'legramme' typeface carries headings with grotesque geometry, weight numerals render in monospace to reinforce the metrology theme, and GT-America-LG-Regular handles body copy with the clean neutrality of a product specification sheet. The near-white canvas (#fafafa) gives material photography — polished and brushed silver against spare natural backdrops — room to breathe without the clinical bite of pure white. Near-black (#111111) dominates primary actions and navigation; yellow (#f5f500) surfaces for sale indicators and active-state highlights, functioning more like a warning lamp than a decorative element. Hairlines land at #dedede — the most-extracted mid-gray — while surface cards sit at #f7f7f7, barely-perceptible elevation shifts in a system that treats contrast as a finite, metered resource. Corners are flat or essentially so: {rounded.none} for cards and imagery, {rounded.xs} at most for interactive chips, mirroring the precise geometry of the physical pieces' brushed facets and clean chamfers. Product detail pages build structured grids where weight variants stack as monospace-labelled selection chips, each one a specification entry rather than a stylistic gesture. The footer repeats this restraint — dense, small-text columns on a near-black (#121212) surface, referencing French industrial precision without nostalgia.
 
@@ -317,6 +321,13 @@ components:
 - Footer columns: single stack on mobile → 2-col on tablet → 4-col on desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

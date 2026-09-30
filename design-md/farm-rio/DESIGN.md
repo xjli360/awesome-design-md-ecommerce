@@ -4,6 +4,10 @@ name: "Farm Rio"
 source_url: "https://farmrio.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Coral-red (#f94f44) is the combustion point of the entire FARM Rio storefront — every Add to Cart button, every sale badge, every hover state ignites in this single saturated hue against a white canvas (#ffffff), creating a visual shorthand for the brand's Brazilian exuberance before a single print photograph loads. The warm family splits into two extracted tones: #f94f44 for primary actions and the softer #fe6f66 for hover fills and secondary accents, both saturated enough to read as one unified brand signature across any scroll position. A second accent, the deep ocean blue (#016aa3), surfaces in links and informational callouts — a cooler counterpoint that holds its own against the warm palette without competing for CTA dominance. The type system runs entirely on Montserrat, a geometric sans used with deliberate weight contrast: display headings at 700 anchor section titles with authority, while nav and body text holds at 400–500 so the photography — densely printed, maximally chromatic — remains the primary visual event. Buttons are flat rectangles ({rounded.xs}) rather than the pill shapes common in premium minimalist fashion; the flatness lets the coral fill carry the brand signal rather than the form. Product cards are square-cornered ({rounded.none}) frames with no elevation, relying on a hairline border (#dedede) on hover to communicate interactivity — the tropical print image is the decoration, not the container. A near-black (#121212) anchors product names and price labels; body and nav copy steps to #3a3a3a, fractionally warmer to avoid clashing against the chromatic palette. Light gray surfaces (#f5f5f5) isolate filter panels and collection headers, keeping the site architecture legible without adding visual noise to a brand built on pattern density. Vertical rhythm uses {spacing.section} between content zones, giving each print scene room to breathe before the next one fires.
 
@@ -366,6 +370,13 @@ components:
 - Collection header padding: {spacing.xxl} → {spacing.xl} → {spacing.lg} across desktop → tablet → mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Watermark Designs"
 source_url: "https://watermark-designs.com"
 captured_at: "2026-09-28T04:49:57.610439+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The observed palette centers on a muted charcoal body tone (#58575a) against
   white canvas, with a desaturated teal-green (#0e977d) and a steel blue
@@ -167,6 +171,10 @@ components:
 These breakpoint values are taken from a CSS custom property string (`small=0em&medium=40em&large=64em&xlarge=75em&xxlarge=90em`) found in the source, but their actual application to layout, grid columns, and component collapse was not observed and is proposed here as standard Foundation-style breakpoint usage. Touch targets for buttons should be no smaller than 44px in height; the off-canvas menu variables (`--mm-ocd-width`, `--mm-spn-item-height:50px`) suggest a slide-out mobile navigation drawer is implemented, though its visual styling was not captured in the supplied CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

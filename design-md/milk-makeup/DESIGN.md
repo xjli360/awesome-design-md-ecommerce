@@ -4,6 +4,10 @@ name: "Milk Makeup"
 source_url: "https://www.milkmakeup.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Milk Makeup is a clean, vegan, and cruelty-free cosmetics brand that lives in the tension between industrial grit and soft, dewy glow. The brand's visual language is anchored on a near-black ink (`#121212`) against a raw, almost utilitarian canvas (`#dedede`), a palette that evokes concrete, steel, and the backstage of a fashion show. This is not a brand of pastels and soft pinks; its signature voltage comes from a piercing, almost electric blue (`#1990c6`) that acts as the primary CTA and accent color, a deliberate jolt against the monochrome backdrop. A deeper, more grounded navy (`#136f99`) provides active and hover states, adding depth without losing the edge. Typography is set in a clean, geometric sans-serif stack led by Calibre, with generous tracking and a mix of bold, all-caps display weights for headlines and a lighter, airier weight for body copy. The system relies on hard, unrounded corners (`{rounded.none}`) for buttons and cards, reinforcing the brand's no-fuss, "just roll it on" ethos, while pill-shaped applicator tips and product caps introduce the only organic curves (`{rounded.full}`). The overall mood is confident, minimalist, and slightly rebellious — a makeup brand that feels more like a streetwear label than a beauty counter.
 
@@ -404,6 +408,13 @@ components:
 - Accordion components are used on mobile to collapse sections like product details, shipping information, and FAQ content.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

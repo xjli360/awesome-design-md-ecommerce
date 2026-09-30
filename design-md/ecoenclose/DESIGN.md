@@ -4,6 +4,10 @@ name: "EcoEnclose"
 source_url: "https://www.ecoenclose.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   EcoEnclose pairs two typefaces that rarely share a page: Merriweather serif for editorial headers where certification metrics and environmental statistics carry moral weight, and Poppins for the transactional layer — SKUs, fill weights, unit minimums. The color system pulls from a narrow band of the spectrum anchored by #002b2f, a teal so deep it reads as near-black until placed against #f3f8f3, a section background carrying just enough green that no surface here is ever truly neutral. Sage runs in two registers: #83b785 handles interactive accents and secondary CTAs while #466c50 deepens into hover and confirmed states, both distinct enough from the primary that borders are rarely necessary. Cards sit on #ffffff but section washes use #e5f1ea, keeping the material story present even on checkout pages. Button geometry is unusually restrained — 4px radii rather than the pill shapes common to consumer DTC, a choice that reads as honest about the industrial context of corrugated mailers and recycled poly bags. Sustainability credentials — FSC marks, recycled-content percentages, carbon-neutral badges — receive the same typographic treatment as primary navigation, signaling that compliance is a product category, not a footnote. A faint salmon (#f19066) surfaces only in promotional call-outs, isolated from the green narrative, while #003eff appears as a hyperlink fallback in body copy — both colors feel like interruptions, which is exactly the point. Spacing inside components is generous; spacing between sections tighter, creating a page cadence closer to a B2B catalog read with purpose than a consumer shop browsed for pleasure.
 
@@ -428,6 +432,13 @@ components:
 - Footer columns: stack vertically on mobile with each heading acting as an accordion toggle
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

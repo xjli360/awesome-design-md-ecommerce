@@ -4,6 +4,10 @@ name: "Glossier"
 source_url: "https://www.glossier.com"
 captured_at: "2026-09-28T04:09:52.674350+00:00"
 evidence_status: "historical_partial_css_evidence"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A brand that lives in the gap between #dedede and #121212 — a pale, almost-warm gray and a near-black that together create a system of extreme restraint. Glossier’s canvas is not white but a soft, foggy gray that reads as a studio backdrop, making every product the hero. The near-black ink (#121212) appears sparingly: in body copy, in the single bold headline on a product page, in the thin stroke of a line drawing. There are no gradients, no drop shadows, no decorative flourishes — the visual language is flat, clean, and deliberately unpolished in a way that suggests a friend’s bathroom shelf rather than a department store counter. Buttons are pill-shaped (`{rounded.full}`), product cards are softly rounded (`{rounded.md}`), and the entire experience breathes through generous whitespace (`{spacing.section}`). The brand’s voice is direct, personal, and slightly irreverent — copy often runs in sentence case with a lowercase brand name, and the typography favors a single, clean sans-serif that never competes with the product photography. The result is a digital storefront that feels more like a personal recommendation than a retail transaction.
 
@@ -361,6 +365,13 @@ components:
 - Product description sections collapse from visible to accordion on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

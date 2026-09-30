@@ -4,6 +4,10 @@ name: "Perelel"
 source_url: "https://perelelhealth.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A warm, doctor-informed vitamin brand that wraps reproductive health in a palette anchored on #c07859 — a sun-baked terracotta that reads as both clinical authority and maternal warmth, never clinical white. The brand pairs this with #f8f7f5 (a barely-there ivory canvas), #374151 (charcoal ink for body copy), and #676986 (a muted slate for secondary text), creating a system that feels like a calm, well-lit consultation room rather than a supplement aisle. Typography leans on Ogg Text for editorial display — a serif with soft, rounded terminals that carries the brand’s “stages of you” narrative — and Inter for UI, giving the checkout and subscription flows a clean, trustworthy rhythm. Buttons and cards use {rounded.sm} (8px) corners, a subtle softening that avoids the clinical sharpness of straight 90° edges. The subscription quiz, a signature brand moment, surfaces as a stepped modal with progress dots, each stage framed by {colors.f2e9da} (a warm almond) backgrounds and {colors.primary} accent highlights. Product cards stack a hero image, a short-form title in Ogg Text, a one-line benefit caption, and a pill-shaped “Add” CTA — the terracotta button sits on {colors.canvas} with {colors.on-primary} white text, never competing with the photography. The footer runs a dense three-column layout with legal links in {colors.muted} and a newsletter signup that mirrors the quiz’s soft, stepped interaction. There is no hard edge anywhere — even the hairline (#cdcac2) is a warm gray, not a cold silver. The brand’s visual system trusts that a woman navigating fertility, pregnancy, or postpartum doesn’t need aggressive urgency; she needs clarity, warmth, and the quiet confidence of a doctor who’s also a friend.
 
@@ -366,6 +370,13 @@ components:
 - Hero: side-by-side text + image → stacked text above image on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

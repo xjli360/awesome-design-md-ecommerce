@@ -4,6 +4,10 @@ name: "Oreck"
 source_url: "https://www.oreck.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The #2585a4 teal Oreck uses as its primary does not decorate — it certifies. The hue sits in the register of water-filtration system labels and HEPA certification marks, and on a vacuum brand homepage it does exactly the work it looks like it should do: signals that the machine on the other side of the transaction will remove what you cannot see. Montserrat carries every word at weights that default heavy — 600 and 700 feel structural here, not emphatic — giving the brand an assertive, unambiguous cadence suited to a company whose legacy is built on engineering one lighter machine than everyone else. Behind the teal the palette is almost entirely achromatic: `{colors.surface-soft}` (#f3f5f6) and `{colors.surface-card}` (#f3f3f3) alternate as page canvas and card surface, with `{colors.hairline}` (#dedede) and `{colors.hairline-soft}` (#d9d9d9) handling dividers at sub-pixel-feeling weights. Ink descends through four near-blacks — #121212, #231f20, #242833, #4f4c4d — differentiating headline from body from subtext from muted label without pulling any warm or cool tint into the neutral register. A second blue, `{colors.secondary}` (#334fb4), surfaces only in sale badges and promotional chips: brighter, more saturated, unapologetically referential to discount-blue conventions. It is kept completely separate from the primary so that price urgency and product trust never share a color. Buttons use `{rounded.sm}` rather than pill shapes — the interface is functional, not playful. Product images render with `object-fit: contain` against white image zones, respecting the product silhouette the way a catalog would. Spacing between page sections is generous, while card interiors are tight, echoing the physical proposition of the product: engineered density inside, open air around it.
 
@@ -343,6 +347,13 @@ components:
 - Promotion strip: full copy on desktop; truncates to single-line marquee or hides least-priority message on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

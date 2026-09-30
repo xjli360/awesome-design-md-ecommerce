@@ -4,6 +4,10 @@ name: "Rachio"
 source_url: "https://www.rachio.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Electric sky-water blue (#21a8ff) placed directly against a near-black teal void (#00202c) — that single pairing carries the brand's core argument before a word is read: smart irrigation is data, not gardening. Rachio's primary typeface is Figtree, a geometric sans with softened terminals that reads simultaneously as approachable consumer product and credible hardware interface; at weight 700 it anchors display headlines without going severe, and at 400 it handles long-form feature copy without fatigue. The palette is unusually broad for a consumer hardware brand — thirty extracted colors moving from the electric primary through two greens (#45c371 garden-fresh, #2b5232 deep-forest), a full register of earth tones (#dfad72 amber, #c76928 rust, #d1bbb0 warm sand), and several blue-grays (#334d5a, #b4c3c9, #6e94b1) that shift with surface depth. Rather than fight this breadth the system organizes it as biomes: water-blue (#21a8ff) governs all interactive states, greens carry lawn-health and savings metrics, earth tones ground outdoor photography and seasonal context badges.
 
@@ -363,6 +367,13 @@ components:
 - Zone chip rows: horizontal scroll container on mobile rather than wrapping to multi-row
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

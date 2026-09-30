@@ -54,49 +54,26 @@
     }
   ],
   "colors": {
-    "#000000": {
-      "count": 151,
-      "sources": [
-        "https://www.yellowbirdfoods.com/",
-        "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/component-predictive-search.css?v=8440518078193834901702908362",
-        "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/mobile.css?v=4533729034964884791731506380"
-      ]
-    },
     "#ffe845": {
       "count": 56,
       "sources": [
-        "https://www.yellowbirdfoods.com/",
-        "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/component-predictive-search.css?v=8440518078193834901702908362",
-        "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/component-login.css?v=51914037624076942481702908368",
-        "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/mobile.css?v=4533729034964884791731506380"
+        "https://www.yellowbirdfoods.com/"
+      ]
+    },
+    "#000000": {
+      "count": 151,
+      "sources": [
+        "https://www.yellowbirdfoods.com/"
       ]
     },
     "#ffffff": {
       "count": 21,
       "sources": [
-        "https://www.yellowbirdfoods.com/",
-        "https://www.yellowbirdfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/mobile.css?v=4533729034964884791731506380"
+        "https://www.yellowbirdfoods.com/"
       ]
     },
     "#00000000": {
       "count": 10,
-      "sources": [
-        "https://www.yellowbirdfoods.com/",
-        "https://www.yellowbirdfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
-    "#fbfaf2": {
-      "count": 8,
-      "sources": [
-        "https://www.yellowbirdfoods.com/",
-        "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/component-predictive-search.css?v=8440518078193834901702908362",
-        "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/component-login.css?v=51914037624076942481702908368",
-        "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/mobile.css?v=4533729034964884791731506380"
-      ]
-    },
-    "#10312b": {
-      "count": 4,
       "sources": [
         "https://www.yellowbirdfoods.com/"
       ]
@@ -104,8 +81,13 @@
     "#00000066": {
       "count": 4,
       "sources": [
-        "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/component-login.css?v=51914037624076942481702908368",
-        "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/mobile.css?v=4533729034964884791731506380"
+        "https://www.yellowbirdfoods.com/"
+      ]
+    },
+    "#fbfaf2": {
+      "count": 8,
+      "sources": [
+        "https://www.yellowbirdfoods.com/"
       ]
     },
     "#272d45": {
@@ -120,32 +102,20 @@
         "https://www.yellowbirdfoods.com/"
       ]
     },
-    "#ffefe1": {
-      "count": 2,
-      "sources": [
-        "https://www.yellowbirdfoods.com/"
-      ]
-    },
-    "#dedede": {
-      "count": 2,
-      "sources": [
-        "https://www.yellowbirdfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
     "#f4f4f6": {
       "count": 1,
       "sources": [
         "https://www.yellowbirdfoods.com/"
       ]
     },
-    "#d6d6d6": {
-      "count": 1,
+    "#10312b": {
+      "count": 4,
       "sources": [
         "https://www.yellowbirdfoods.com/"
       ]
     },
-    "#ececec": {
-      "count": 1,
+    "#ffefe1": {
+      "count": 2,
       "sources": [
         "https://www.yellowbirdfoods.com/"
       ]
@@ -168,8 +138,8 @@
         "https://www.yellowbirdfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
       ]
     },
-    "#121212": {
-      "count": 1,
+    "#dedede": {
+      "count": 2,
       "sources": [
         "https://www.yellowbirdfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
       ]
@@ -177,27 +147,12 @@
   },
   "font_families": {
     "ABC Monument Grotesk": [
-      "https://www.yellowbirdfoods.com/",
-      "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/component-login.css?v=51914037624076942481702908368",
-      "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/mobile.css?v=4533729034964884791731506380"
-    ],
-    "Gooper": [
-      "https://www.yellowbirdfoods.com/",
-      "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/mobile.css?v=4533729034964884791731506380"
-    ],
-    "Pitch Sans": [
-      "https://www.yellowbirdfoods.com/",
-      "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/component-predictive-search.css?v=8440518078193834901702908362",
-      "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/component-login.css?v=51914037624076942481702908368",
-      "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/mobile.css?v=4533729034964884791731506380"
-    ],
-    "Pitch Sans!important": [
-      "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/mobile.css?v=4533729034964884791731506380"
-    ],
-    "oke-widget-icons": [
       "https://www.yellowbirdfoods.com/"
     ],
-    "oke-widget-icons!important": [
+    "Gooper": [
+      "https://www.yellowbirdfoods.com/"
+    ],
+    "Pitch Sans": [
       "https://www.yellowbirdfoods.com/"
     ]
   },
@@ -359,48 +314,43 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Yellowbird® | This World's Tastiest Hot Sauce",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-300",
   "tokens": {
     "colors.primary": {
+      "value": "#ffe845",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.yellowbirdfoods.com/",
-        "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/component-predictive-search.css?v=8440518078193834901702908362",
-        "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/component-login.css?v=51914037624076942481702908368",
-        "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/mobile.css?v=4533729034964884791731506380"
+        "https://www.yellowbirdfoods.com/"
       ]
     },
     "colors.ink": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.yellowbirdfoods.com/",
-        "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/component-predictive-search.css?v=8440518078193834901702908362",
-        "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/mobile.css?v=4533729034964884791731506380"
+        "https://www.yellowbirdfoods.com/"
       ]
     },
     "colors.canvas": {
+      "value": "#fbfaf2",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.yellowbirdfoods.com/",
-        "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/component-predictive-search.css?v=8440518078193834901702908362",
-        "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/component-login.css?v=51914037624076942481702908368",
-        "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/mobile.css?v=4533729034964884791731506380"
+        "https://www.yellowbirdfoods.com/"
       ]
     },
     "colors.body": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.yellowbirdfoods.com/",
-        "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/component-predictive-search.css?v=8440518078193834901702908362",
-        "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/mobile.css?v=4533729034964884791731506380"
+        "https://www.yellowbirdfoods.com/"
       ]
     },
     "colors.muted": {
+      "value": "#676986",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -408,6 +358,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#dedede",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -415,6 +366,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#f4f4f6",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -422,24 +374,23 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.yellowbirdfoods.com/",
-        "https://www.yellowbirdfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/mobile.css?v=4533729034964884791731506380"
+        "https://www.yellowbirdfoods.com/"
       ]
     },
     "colors.on-primary": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.yellowbirdfoods.com/",
-        "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/component-predictive-search.css?v=8440518078193834901702908362",
-        "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/mobile.css?v=4533729034964884791731506380"
+        "https://www.yellowbirdfoods.com/"
       ]
     },
     "colors.accent-warm": {
+      "value": "#ff4713",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -447,6 +398,7 @@
       ]
     },
     "colors.accent-deep": {
+      "value": "#10312b",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -454,6 +406,7 @@
       ]
     },
     "colors.accent-blue": {
+      "value": "#1990c6",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -461,6 +414,7 @@
       ]
     },
     "colors.accent-blue-dark": {
+      "value": "#136f99",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -468,6 +422,7 @@
       ]
     },
     "colors.surface-peach": {
+      "value": "#ffefe1",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -475,6 +430,7 @@
       ]
     },
     "colors.ink-secondary": {
+      "value": "#272d45",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -482,126 +438,416 @@
       ]
     },
     "colors.overlay": {
+      "value": "#00000066",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/component-login.css?v=51914037624076942481702908368",
-        "https://www.yellowbirdfoods.com/cdn/shop/t/64/assets/mobile.css?v=4533729034964884791731506380"
+        "https://www.yellowbirdfoods.com/"
       ]
     },
     "colors.transparent": {
+      "value": "#00000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.yellowbirdfoods.com/",
-        "https://www.yellowbirdfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+        "https://www.yellowbirdfoods.com/"
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "Gooper, serif",
+        "fontSize": "86px",
+        "fontWeight": 400,
+        "lineHeight": 0.9,
+        "letterSpacing": "-2.58px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "Gooper, serif",
+        "fontSize": "48px",
+        "fontWeight": 400,
+        "lineHeight": 1.05,
+        "letterSpacing": "-1px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "ABC Monument Grotesk, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "-0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "ABC Monument Grotesk, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": 400,
+        "lineHeight": 1.3,
+        "letterSpacing": "-0.19px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "ABC Monument Grotesk, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Pitch Sans, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 700,
+        "lineHeight": 1.3,
+        "letterSpacing": "0.02em"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "Pitch Sans, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 700,
+        "lineHeight": 1.0,
+        "letterSpacing": "0em"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.lg}",
+        "border": "3px solid {colors.ink}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.transparent}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}",
+        "border": "2px solid {colors.ink}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "height": "70px",
+        "hairline": "{colors.hairline}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.accent-deep}",
+        "textColor": "{colors.surface-card}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-warm}",
+        "textColor": "{colors.surface-card}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
       "status": "inferred"
     },
     "components.heat-level-indicator": {
+      "value": {
+        "backgroundColor": "{colors.surface-peach}",
+        "activeColor": "{colors.accent-warm}",
+        "inactiveColor": "{colors.hairline}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#ffe845": {
+        "selector": "body",
+        "property": "background-color",
+        "declaration": "#ffe845",
+        "url": "https://www.yellowbirdfoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8df90746eff63cc8822211d5fcfc8c6b39b6a614b8f5b90b24c2fac2b804838f"
+      },
+      "#000000": {
+        "selector": "body",
+        "property": "color",
+        "declaration": "#000",
+        "url": "https://www.yellowbirdfoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8df90746eff63cc8822211d5fcfc8c6b39b6a614b8f5b90b24c2fac2b804838f"
+      },
+      "#ffffff": {
+        "selector": "button.button-icon,button.shopify-payment-button__button.button-icon,.button.button-icon",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://www.yellowbirdfoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8df90746eff63cc8822211d5fcfc8c6b39b6a614b8f5b90b24c2fac2b804838f"
+      },
+      "#00000000": {
+        "selector": "button.loading>*:not(.loading-overlay__spinner),button.shopify-payment-button__button.loading>*:not(.loading-overlay__spinner),.button.loading>*:not(.loading-overlay__spinner)",
+        "property": "color",
+        "declaration": "rgba(0,0,0,0)",
+        "url": "https://www.yellowbirdfoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8df90746eff63cc8822211d5fcfc8c6b39b6a614b8f5b90b24c2fac2b804838f"
+      },
+      "#00000066": {
+        "selector": "body.desktop-menu-open:after",
+        "property": "background",
+        "declaration": "rgba(0,0,0,.4)",
+        "url": "https://www.yellowbirdfoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8df90746eff63cc8822211d5fcfc8c6b39b6a614b8f5b90b24c2fac2b804838f"
+      },
+      "#fbfaf2": {
+        "selector": ".shopify-section .header mega-menu .header-menu-content .wrapper .header-menu-products .header-menu-product a",
+        "property": "background-color",
+        "declaration": "#fbfaf2",
+        "url": "https://www.yellowbirdfoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8df90746eff63cc8822211d5fcfc8c6b39b6a614b8f5b90b24c2fac2b804838f"
+      },
+      "#272d45": {
+        "selector": ".okeReviews[data-oke-container] .oke-modal,.okeReviews[data-oke-container] .oke-modal p,div.okeReviews .oke-modal,div.okeReviews .oke-modal p",
+        "property": "color",
+        "declaration": "#272d45",
+        "url": "https://www.yellowbirdfoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8df90746eff63cc8822211d5fcfc8c6b39b6a614b8f5b90b24c2fac2b804838f"
+      },
+      "#676986": {
+        "selector": ".okeReviews[data-oke-container] .oke-modal .oke-helpful,.okeReviews[data-oke-container] .oke-modal .oke-helpful-vote-button,.okeReviews[data-oke-container] .oke-modal .oke-reviewContent-date,div.okeReviews .oke-modal .oke-helpful,div.okeReviews .oke-modal .oke-helpful-vote-button,div.okeReviews .oke",
+        "property": "color",
+        "declaration": "#676986",
+        "url": "https://www.yellowbirdfoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8df90746eff63cc8822211d5fcfc8c6b39b6a614b8f5b90b24c2fac2b804838f"
+      },
+      "#f4f4f6": {
+        "selector": ".okeReviews[data-oke-container] .oke-tag,div.okeReviews .oke-tag",
+        "property": "background-color",
+        "declaration": "#f4f4f6",
+        "url": "https://www.yellowbirdfoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8df90746eff63cc8822211d5fcfc8c6b39b6a614b8f5b90b24c2fac2b804838f"
+      },
+      "#10312b": {
+        "selector": ".okeReviews.oke-w .oke-w-filterOption-label,.okeReviews.oke-w .oke-w-filterOption-label-star:before,.okeReviews.oke-w .oke-w-filterOption-label-star:empty:before,.okeReviews.oke-w .oke-qw-answer,.okeReviews.oke-w .oke-helpful,.okeReviews.oke-w .oke-qw-answer-main-date,.okeReviews.oke-w .oke-qw-quest",
+        "property": "color",
+        "declaration": "#10312b",
+        "url": "https://www.yellowbirdfoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8df90746eff63cc8822211d5fcfc8c6b39b6a614b8f5b90b24c2fac2b804838f"
+      },
+      "#ffefe1": {
+        "selector": ".okeReviews .oke-mediaGallery-review",
+        "property": "color",
+        "declaration": "#ffefe1",
+        "url": "https://www.yellowbirdfoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8df90746eff63cc8822211d5fcfc8c6b39b6a614b8f5b90b24c2fac2b804838f"
+      },
+      "#ff4713": {
+        "selector": ".okeReviews.oke-w .oke-button:not(.oke-is-loading):not(.oke-is-active):hover",
+        "property": "background-color",
+        "declaration": "#ff4713",
+        "url": "https://www.yellowbirdfoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8df90746eff63cc8822211d5fcfc8c6b39b6a614b8f5b90b24c2fac2b804838f"
+      },
+      "#1990c6": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#1990c6",
+        "url": "https://www.yellowbirdfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#136f99": {
+        "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+        "property": "background-color",
+        "declaration": "#136f99",
+        "url": "https://www.yellowbirdfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://www.yellowbirdfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      }
+    },
+    "font_families": {
+      "ABC Monument Grotesk": {
+        "selector": ":root",
+        "property": "--oke-text-fontfamily",
+        "declaration": "ABC Monument Grotesk",
+        "url": "https://www.yellowbirdfoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8df90746eff63cc8822211d5fcfc8c6b39b6a614b8f5b90b24c2fac2b804838f"
+      },
+      "Gooper": {
+        "selector": "h1,.h1",
+        "property": "font-family",
+        "declaration": "\"Gooper\"",
+        "url": "https://www.yellowbirdfoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8df90746eff63cc8822211d5fcfc8c6b39b6a614b8f5b90b24c2fac2b804838f"
+      },
+      "Pitch Sans": {
+        "selector": "h5,.h5",
+        "property": "font-family",
+        "declaration": "\"Pitch Sans\"",
+        "url": "https://www.yellowbirdfoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8df90746eff63cc8822211d5fcfc8c6b39b6a614b8f5b90b24c2fac2b804838f"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

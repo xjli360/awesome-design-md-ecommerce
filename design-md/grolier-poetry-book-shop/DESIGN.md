@@ -4,6 +4,10 @@ name: "Grolier Poetry Book Shop"
 source_url: "https://www.grolierpoetrybookshop.org"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A narrow storefront on Plympton Street in Cambridge, its digital presence carries the same quiet, ink-heavy conviction as the shelves inside. The palette is anchored on #222222 — a near-black that reads as serious, literary, and unapologetically dense — against a #fafafa canvas that never feels sterile, more like aged paper catching afternoon light. The extracted hex list is cluttered with social-platform blues (#3b5998 Facebook, #55acee Twitter, #1ab7ea Instagram) and checkout-widget greens (#7dbb00, #84bd00) that are not the brand; the true accent is #cc2127, a restrained crimson used sparingly — perhaps for a "New Arrivals" badge or a single underscored link — that carries the same weight as a red pencil mark on a manuscript. Typography runs Arial and Helvetica Neue at modest sizes, no display-weight heroics, no variable font; the site trusts the poetry itself to provide the voltage. Buttons are rectangular with {rounded.none} or at most {rounded.xs}, corners kept sharp to match the intellectual precision of the inventory. The top nav is a thin band of {colors.ink} text on {colors.canvas}, no logo fanfare, no search-bar pill — just a list of pages (Home, About, Events, Shop, Contact) that reads like a table of contents. The footer is dense with small links and social icons, each rendered in its platform's native color, which creates a strange visual noise against the otherwise monochrome restraint — a known gap the brand likely tolerates for discoverability. The overall effect is that of a hand-set typewriter page: minimal, deliberate, and entirely unconcerned with conversion optimization.
 
@@ -334,6 +338,13 @@ components:
 - Hero section reduces top/bottom padding from 64px to 32px on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

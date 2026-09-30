@@ -4,6 +4,10 @@ name: "Burrow"
 source_url: "https://burrow.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Burrow is a furniture brand built on the conviction that good design should be both beautiful and functional, and that assembly should never require a tool. The brand's visual language is anchored in a warm, earthy palette that feels grounded yet refined — the primary voltage is a distinctive terracotta (#e46950) that appears on key CTAs, badges, and accent details, while the canvas is a soft, almost creamy off-white (#f7eee3) that avoids the sterility of pure white. Deep charcoal tones (#383633, #474543, #514f4d) provide the structural ink for body text and navigation, creating a strong contrast that feels substantial without being harsh. The system is punctuated by muted olive greens (#a9b199, #49574a) and dusty blues (#3a4b66, #3d4b64) that appear in product photography backgrounds and secondary accents, lending a natural, organic quality that echoes the brand's focus on modular, adaptable furniture. Typography relies on Suisse Intl, a clean geometric sans-serif that carries the brand's modern, unpretentious voice — it's used at moderate weights (400–600) with generous line-height, letting the furniture photography and generous whitespace do the heavy lifting. Rounded corners are soft but not pillowy: buttons use `{rounded.sm}` (8px), cards use `{rounded.md}` (12px), and the signature modular sofa components themselves feel approachable with `{rounded.lg}` (20px) on hero sections. The overall mood is one of quiet confidence — a brand that trusts its product to speak through clean lines, warm neutrals, and a palette that feels like a well-loved living room rather than a showroom.
 
@@ -407,6 +411,14 @@ components:
 - Product configuration options (swatches, quantity) stack vertically on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

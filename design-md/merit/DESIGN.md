@@ -4,6 +4,10 @@ name: "Merit"
 source_url: "https://www.meritbeauty.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A study in quiet confidence, Merit’s design system is the digital embodiment of “skin-first, makeup-second” — a warm, tactile minimalism that feels like a deep breath in a cluttered world. The palette is anchored by a creamy off-white canvas (`#f9f8f5`) that reads as unbleached linen rather than sterile white, paired with a soft putty (`#f2f0ec`) and a range of warm grays (`#c8c8c8`, `#959593`, `#a9a9a9`) that never tip into cold industrial gray. The brand’s signature voltage comes from a restrained burnt-orange accent (`#dc4a12`) used sparingly on primary CTAs and select highlights, while a deep slate (`#1e1e1e`) and near-black (`#121212`) provide grounding for body text. A surprising flash of cobalt (`#0057ff`) appears in select links and interactive elements, adding a subtle, unexpected energy. Typography is where Merit truly differentiates: the elegant, slightly condensed serif of Instrument Serif for display headings, paired with the utilitarian clarity of Akzidenz-Grotesk for body and UI. This mix of refined editorial serif and workhorse sans-serif creates a system that feels both aspirational and approachable. Rounded corners are generous but not cartoonish — `{rounded.md}` (12px) on cards and `{rounded.full}` on pill buttons — while `{rounded.sm}` (8px) on inputs keeps the interface feeling polished. Spacing is generous, with `{spacing.section}` (64px) creating breathing room between major content blocks, and `{spacing.lg}` (24px) providing comfortable internal padding. The overall effect is one of effortless sophistication: a brand that trusts its products, its photography, and its customer enough to get out of the way.
 
@@ -344,6 +348,13 @@ components:
 - Search bar collapses from inline to icon-triggered overlay on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

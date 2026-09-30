@@ -4,6 +4,10 @@ name: "Holden"
 source_url: "https://www.hiholden.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   An olive-gold patina — #868159 — anchors Holden's palette in a tone that reads less like jewelry marketing and more like the warm oxidation of a well-worn keepsake. Against a cream-ivory canvas (#f9f8f1), the effect is intimate rather than aspirational: this is not the cold platinum showroom of legacy bridal, but something closer to a letter-writing room. Louize, a contemporary serif with humanist optical corrections, carries all display weight — headlines feel read rather than advertised. Petit Formal Script appears in editorial moments to sign off with something personal, while TO Record brings structured geometric contrast to UI contexts like navigation and captions. The supporting palette carries a dusty slate-blue (#676986) that keeps the warmth from tipping into sentimentality, and a warm amber (#f4ba7d) that evokes late-afternoon light rather than precious metal. Rounded corners are minimal — sharp-edged interactive elements only, with ring photography given generous, hard-cropped frames. The system trusts negative space and ivory over decoration: no gradients, no sparkle motifs, just restrained surfaces that let close, warm-lit product photography carry the emotional load. CTAs appear in olive-gold primary, inverted in cream ({colors.on-primary}), reinforcing the brand's material world. Navigation is quiet and horizontal, with generous spacing and zero drop-shadows. The lab-grown diamond positioning is handled through confident typography — no asterisks, no hedging — suggesting the brand has already moved past the need to justify the choice. Hairlines in #e5e5e5 divide content at the lightest possible boundary, while muted-warm #b0a38b provides warmth-on-warmth depth for nested surfaces and metadata rows.
 
@@ -381,6 +385,13 @@ components:
 - PDP detail panel: sticky right column on desktop → full-width below image on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Humanscale (Arms)"
 source_url: "https://www.humanscale.com/products/monitor-arms"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Forty distinct grays — from near-black #2f2d2d to barely-off-white #f5f5f5 — build the visual platform for every monitor arm listing, then a single chartreuse (#abbd26) cuts through like a calibration mark on an engineering drawing: CTA buttons, hover rails, active filter states, nothing else. This restraint is structural; Humanscale's design language descends from industrial ergonomics rather than consumer marketing, and the product pages reflect that — every visual choice earns its place against payload specs and range-of-motion data. Archer, a bracketed slab serif, carries display headlines and product names, lending mass to an otherwise austere grid; it pairs against NeueMontreal and Rand for body copy and UI labels, creating a slab-over-geometric hierarchy that reads simultaneously as technical documentation and premium editorial. The secondary palette plays two distinct roles: sky blue (#51b5e0, #6cc1e5) handles configurator states and informational affordances, while deep teal (#3c5956) anchors environmental photography crops and section dividers — both are navigational signals, never decorative. A muted sage (#9aab8b) functions as a tertiary neutral in comparison grids, softening dense data rows without competing with the chartreuse primary. Corners are tight throughout — product cards and filter chips sit at {rounded.xs} to {rounded.sm}, echoing machined-component precision rather than consumer softness. Payload ratings, cable routing specs, and reach dimensions live in condensed-type data tables set in Conv_UniversLTStd-BoldCn, repurposing the visual grammar of engineering documentation as product marketing. Trust is earned through specification completeness, not lifestyle imagery; the chartreuse CTA is the only moment the brand raises its voice.
 
@@ -383,6 +387,13 @@ components:
 - Footer 4-column layout converts to tap-to-expand accordion sections on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

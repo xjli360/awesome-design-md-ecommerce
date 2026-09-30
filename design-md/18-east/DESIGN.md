@@ -4,6 +4,10 @@ name: "18 East"
 source_url: "https://18east.co"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, saturated red #d02e2e cuts through a near-black #0b0b0b canvas like a climbing rope against a night sky — this is the brand's primary voltage, a signal of durability and intent rather than fashion. The palette is deliberately compressed: ink #1a1a1a and body #3e3e3e sit close to the extremes, while muted #808080 and muted-soft #b3b3b3 provide just enough breathing room for product photography to dominate. A warm off-white #f1efe8 surfaces as the secondary canvas, softening the high-contrast black/red binary into something that reads as lived-in rather than sterile. The accent palette is sparse but purposeful — a sage green #56ad6a for sold-out or low-stock indicators, a pale peach #fff7f2 for sale badges, and a muted marigold #ecbd5e for seasonal callouts. There are no pill-shaped buttons, no soft rounded cards, no friendly search orbs; instead, the interface uses sharp {rounded.none} corners on primary actions and only the slightest {rounded.xs} on input fields, reinforcing a no-nonsense outdoor ethos. Typography is absent from extracted CSS, but the system likely favors a condensed or utilitarian sans-serif at modest weights — the brand trusts material quality and editorial photography over typographic flourish. Navigation is a single-tier horizontal bar with dropdowns, product cards use full-bleed imagery with minimal overlays, and the footer is a dense information grid. The site runs on Shopify, so checkout components inherit platform defaults, but the storefront itself feels like a gear closet: dark, efficient, and built to be navigated by people who know what they're looking for.
 
@@ -393,6 +397,14 @@ components:
 - Secondary navigation (breadcrumbs, filters) collapses to dropdown or toggle on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

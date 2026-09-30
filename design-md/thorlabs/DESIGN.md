@@ -4,6 +4,10 @@ name: "Thorlabs"
 source_url: "https://www.thorlabs.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The search bar on Thorlabs' homepage functions as the de facto hero — a wide, high-contrast input that dominates the masthead, reflecting a site built for engineers who already know the part number and need only a fast path to the datasheet. The font pairing is the sharpest design signal the extraction yielded: Manrope, a geometric sans-serif with tight apertures and crisp numeric figures, serves the UI and catalog layer, while Ysabeau — an unusual semi-formal roman with classical stroke contrast — steps in for display contexts, lending a grain of editorial authority to what is otherwise a precision catalog. Japanese and Simplified Chinese Noto stacks signal a serious international engineering audience rather than consumer localization. The layout vocabulary is dense-grid catalog rather than editorial magazine: product tiles lead with part numbers in an uppercase tracked weight, spec tables sit flush against hairline rules, and category navigation runs deep — photonics, optomechanics, spectroscopy, microscopy, quantum optics each forking into dozens of sub-paths. Because no hex palette was extractable from live extraction (the site hydrates tokens via JavaScript), color tokens below derive from widely-observed brand knowledge: a deep-navy header that reads close to charcoal, an amber-orange primary action color consistent with Thorlabs' visible identity across marketing and product pages, and a bright white catalog canvas. Rounded values skew minimal — `{rounded.xs}` appears throughout because nearly-square cards and rectangular buttons fit a brand whose audience trusts measurement precision over friendly radius. Spacing compresses in listing grids, where information density is a feature rather than a concession, and expands on product-detail pages where spec tables and dimensional drawings demand room to breathe.
 
@@ -383,6 +387,13 @@ components:
 - Category tile grids reflow from 4-column (desktop) → 3-column (tablet) → 2-column (mobile)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

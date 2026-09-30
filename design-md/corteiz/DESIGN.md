@@ -4,6 +4,10 @@ name: "Corteiz"
 source_url: "https://crtz.xyz"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The password gate that once guarded crtz.xyz — gone since 2023 but still the most cited design decision in British streetwear — established the entire visual contract before a single product was shown: access is earned, not browsed. That logic persists in the current system. #ffd500 detonates against a #121212 near-black field with a contrast ratio that reads as an alarm signal rather than a brand color; it appears on the announcement bar, countdown numerals, and active size tiles — never on backgrounds, never decoratively. Courier New carries every line of text site-wide, a typeface chosen for what it is not: it has no fashion precedent, no luxury association, no geometric warmth. It prints receipts and error logs. At 56px uppercase it reads like a placard; at 12px it reads like a terminal. The Alcatraz crest — a prison island, rendered white on black — anchors the brand mark, and the design system exists primarily to frame scarcity rather than promote availability. Hairlines at #323232 divide a grid that often has little to divide: sold-out badges outnumber add-to-cart buttons during the minutes following a drop. The palette occupies a narrow band from #121212 to #dedede, five tones in a near-monochrome range with a single voltage color that never gets a second use. No rounded corners of consequence — buttons, cards, inputs, and tiles all sit at `{rounded.none}`, the geometry matching the brand's refusal to soften. Navigation is stripped to logo, cart, and hamburger; the assumption is that visitors arrive via direct link during a drop, not via organic browse. Mobile is the primary surface. Every layout decision — the full-bleed hero, the full-screen cart overlay, the 48px touch targets on size tiles — is optimized for a 90-second checkout window under load.
 
@@ -310,6 +314,13 @@ components:
 - Hero: scales from 100svh with fixed headline position to content-height on tablet
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

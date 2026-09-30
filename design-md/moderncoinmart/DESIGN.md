@@ -4,6 +4,10 @@ name: "ModernCoinMart"
 source_url: "https://www.moderncoinmart.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The single confirmed color from ModernCoinMart's live site is #116600 — a deep forest green that sits closer to oxidized copper patina than to mint-fresh currency ink, darker and more organic than institutional money-green. That one anchor does considerable work in a trust-dense vertical where coin grading certificates, precious-metal spot prices, and authentication seals must project expertise over aspiration. Product cards rely on high-resolution coin photography against neutral backgrounds, letting the metallic surfaces — gold, silver, platinum, bronze — supply the warmth and luster; the interface stays restrained, with the forest green reserving itself for primary CTAs, category headers, and nav signifiers. Navigation is encyclopedic by necessity: coins are organized by metal type, denomination, mint year, grade, and country of origin, demanding a multi-tier dropdown structure with deep filter faceting. A spot-price ticker for gold and silver runs near the top of the experience — a live data ribbon that marks the site as a serious trading destination rather than a hobbyist storefront. Grade badges (PCGS, NGC, MS70, PR70) overlay product imagery, carrying more trust weight than any decorative element could. Typography likely runs a serif stack for display and a clean sans-serif for UI chrome — a split common in numismatics to signal tradition and expert curation — though no font families were confirmed during extraction. The green primary at full saturation communicates transactional urgency while muted surfaces keep precious-metal photography front and center: the coins are the hero, not the chrome.
 
@@ -321,6 +325,13 @@ components:
 - Product detail layout (image column + purchase sidebar) stacks vertically below 768px, with the purchase sidebar dropping below the image carousel
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

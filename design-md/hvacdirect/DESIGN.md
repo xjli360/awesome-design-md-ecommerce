@@ -4,6 +4,10 @@ name: "HVACDirect"
 source_url: "https://www.hvacdirect.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Contractor catalogs rarely bother with softness — and HVACDirect's single extractable brand anchor, a flat charcoal (#313131), confirms that the interface is engineered for specification, not aspiration. The brand cuts distributor margins by selling HVAC equipment directly to contractors and homeowners, and the design follows the same operating logic: no lifestyle photography of wind and comfort, no editorial warmth — just part numbers, efficiency ratings, and a purchase path that should be navigable from a phone with dirty gloves on. The #313131 charcoal functions as both the dominant surface tone and the typographic ink, signaling the same industrial seriousness found in supply-house print catalogs, where black-on-white legibility outranks brand personality at every scale.
 
@@ -450,6 +454,13 @@ components:
 - Footer navigation columns → 2-column stacked grid on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Smittybilt"
 source_url: "https://smittybilt.com"
 captured_at: "2026-09-29T04:09:01.869063+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Smittybilt's site evidence centers on an off-road, trail-tested identity expressed through a high-contrast black/yellow accent system. A CSS custom property, --tap-color-primary: #ffdc00 with an explicit black opposite (#000), is the clearest brand signal in the supplied evidence and anchors this interpretation's primary color. Surrounding UI relies on a disciplined gray scale (--gray-gray-900 through --gray-1, from #333333 to #ffffff) for text and surfaces, plus an observed dark button fill (#32373c) used across WordPress/WooCommerce block buttons. A deep navy (#002736) appears in the palette and is inferred here as a dark section/footer surface, consistent with a rugged automotive-accessory brand, though its actual usage location is not confirmed. Typography draws only from observed font-family declarations: Montserrat for display/headline weight, Open Sans for body copy, IBM Plex Sans Condensed for compact button/nav labeling, and Space Mono proposed for SKU/spec captions given the technical, parts-catalog nature of the content. Font Awesome icon families are excluded from text typography. Layout, spacing, and component visuals below are proposed conventions for an auto-accessory catalog site and are explicitly not claimed as observed screen measurements.
 
@@ -149,6 +153,13 @@ Recommended, not measured breakpoints:
 Touch targets should be at least 44px in the compact range; primary/secondary buttons and the fitment selector should expand padding accordingly. Nav collapse to an off-canvas or accordion menu below 768px is a proposed pattern, not an observed behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This interpretation is derived from static CSS custom properties, class declarations, and page text only; no rendered screenshots, computed layout, or interaction states (hover/focus/active beyond the two hover rules shown) were observed. Semantic role assignment for colors such as surface-dark (#002736), accent-dark-button (#32373c), link (#007cba), and alert (#d9312b) is inferred from typical usage patterns, not confirmed placement on the live site. Typography sizes beyond what appears in `--wp--preset--font-size` (16px, 42px) are proposed, not measured. Mobile/responsive behavior, breakpoint values, and the vehicle-fitment widget's full interaction flow were not directly observed and are proposed conventions. Licensing and hosting availability of all listed fonts (e.g., Montserrat, IBM Plex Sans Condensed, Space Mono) were not verified in this exercise.

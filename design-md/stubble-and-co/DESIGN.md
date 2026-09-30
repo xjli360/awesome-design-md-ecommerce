@@ -4,6 +4,10 @@ name: "Stubble & Co"
 source_url: "https://stubbleandco.com"
 captured_at: "2026-09-28T05:04:02.933245+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Stubble & Co's storefront CSS shows a stark black-and-white base (#000000 ink on #ffffff canvas) punctuated by a single warm accent, #FF4800, used for the theme accent color, sale/discount badges, and low-stock flags. Two typefaces are declared: "Stubble Sans" for body copy (400 weight, 12px/150%) and "Stubble Mono" for small uppercase UI labels such as filter/option buttons (10px/140%, pill-shaped border). Neutral grays (#818181, #f5f5f5, #f3f3f3, #d7dadd, #c9c9c9) are inferred here as muted text, soft surfaces, card backgrounds, and hairlines, since the source CSS does not label their semantic roles explicitly. A large secondary swatch set (#213037, #e41843, #eaff36, #ffd800, #6f785d, #dbcbb9, #cd1719) appears tied to product color-variant swatches (bag colorways like Midnight Blue, Garnet Red, Volt, Sand) rather than core UI chrome; they are retained here as accent/utility tokens for swatch and badge components only. Buttons follow an observed black/white inversion pattern on hover (.button--style-black, .button--style-accent) which this spec generalizes into primary/secondary button states. Rounded corners, spacing scale, and most component sizing are proposed conventions layered onto the observed tokens, not measured page geometry.
 
@@ -142,6 +146,13 @@ components:
 Recommended, not measured: mobile <480px (single-column product grid, collapsed hamburger nav, cart/search as full-screen drawers); tablet 480–1024px (2-column product grid, horizontal color-swatch scroller as suggested by "Scroll to previous/next" UI text); desktop >1024px (multi-column grid, persistent top nav). Touch targets for buttons and swatches should be at least 44px regardless of the smaller visual swatch/button sizing implied by the 10px caption typography. This breakpoint table is a proposal for implementation guidance only; no responsive CSS or viewport behavior was included in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This spec is derived from a static CSS/text snapshot only; no live rendering, computed layout, or DOM structure was observed. Font availability and licensing for "Stubble Sans" and "Stubble Mono" (custom/proprietary names) were not verified and may require confirmation with Stubble & Co before implementation. Several palette colors (e.g. navy #213037, sale #e41843, volt #eaff36, swatch yellows/reds) appear only implicitly via product-swatch listings in page text, not explicit CSS role declarations, so their assignment to "colorway" versus potential UI use is inferred. Component padding, radii, breakpoints, hover/focus states beyond the few explicitly observed (.button--style-black, .button--style-accent, .button--style-white variants), and all spacing-scale values are proposed conventions, not measurements from the live site. Mobile menu, cart drawer, and search panel interactions mentioned in page text ("Toggle cart drawer," "Toggle search panel") were not accompanied by layout or interaction CSS, so their visual behavior is unconfirmed.

@@ -4,6 +4,10 @@ name: "Doen"
 source_url: "https://shopdoen.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The circumflex over the O in DÔEN is the brand's first typographic signal — an insistence on marking a familiar thing with something the eye doesn't expect, a precision that runs through every surface choice thereafter. The canvas is #f6f2e6, a warm parchment that reads as aged paper rather than a neutral web default, setting the entire shop inside a world that feels analog and archival rather than digital-first. Against it, primary text and CTA color is #333230, a near-black with enough brown warmth to read as ink on real paper rather than a CSS color chip. Snell Roundhand script carries the brand's most intimate voice — campaign headline accents, seasonal collection introductions — and never drops into UI chrome; it remains strictly an editorial register. Founders Caslon Roman and Italic form the editorial spine, sizing down to 14px for product captions and opening to 28–48px for seasonal display. Carta Nueva handles the largest display scale and the wordmark itself. Masqualero and Romaine appear as secondary display variants in lookbook contexts. Helvetica Neue and Inter absorb all utility UI — the brand maintains a sharp wall between editorial type and system type, never letting the two registers bleed. Color language is restrained and warm throughout: three surface temperatures layer the depth — parchment (#f6f2e6) as canvas, deeper warm taupe (#e6dccd) as card surface and hover register, and warm mid-gray (#8c897d) as the muted text value, all with the same earthy temperature rather than cooling toward neutral gray. An amber (#f59e0b) provides the single saturation note, appearing in editorial accent and footer link hover states. A blue (#334fb4) serves anchor link treatment in a controlled context. Radii are near-zero throughout: `{rounded.xs}` at most on form inputs, `{rounded.none}` on imagery and buttons — the aesthetic is flat-plane and print-adjacent. Product cards are portrait-dominant, photography-first, with Caslon captions below rather than overlaid. Navigation is a lean single bar: centered wordmark flanked by tracked uppercase categoricals. Mobile renders as a single-column editorial scroll — no carousel pagination, no mega-menu, just a vertical publication rhythm carried through to the smallest screen.
 
@@ -321,6 +325,13 @@ components:
 - The nav wordmark drops from 20px to 16px on mobile to accommodate icon targets on either side
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

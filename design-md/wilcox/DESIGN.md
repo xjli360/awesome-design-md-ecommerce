@@ -4,6 +4,10 @@ name: "Wilcox"
 source_url: "https://wilcoxallpro.com"
 captured_at: "2026-09-28T10:34:24.237679+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Wilcox All-Pro is a USA-made heavy-duty gardening-tool brand built on a "lifetime guarantee"
   and no-nonsense durability positioning ("Sharpest Tool in the Shed! Since 1966"). The observed
@@ -160,6 +164,13 @@ components:
 Proposed breakpoints (not measured from the live site): mobile ≤ 599px, tablet 600–959px, desktop ≥ 960px. Navigation should collapse into a toggled menu below tablet width, consistent with the "Toggle navigation" label seen in the page text, though actual collapse behavior and menu animation were not observed. Touch targets on buttons and nav items should maintain a minimum 44×44px hit area. Product-card grids are recommended to reflow from a multi-column desktop layout to a single or two-column mobile layout; exact column counts were not supplied and are a design recommendation only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This interpretation is derived from static CSS/text extraction only; no rendered screenshots, computed layout, or DOM structure were available. The `#7676b3` primary role is inferred solely from a single `.header` background rule and may not represent the full brand identity. Font families beyond the confirmed `"Helvetica Neue", Helvetica, Arial, sans-serif` body/heading stack (e.g., Lato, Montserrat, Open Sans, Playfair Display SC) appear in the site's loaded assets but have no selector evidence tying them to specific roles, so they were excluded from typed tokens. All font sizes beyond the confirmed 16px body value are proposed, not measured. Hover, focus, active, and disabled interaction states, as well as mobile menu behavior, are proposed conventions and were not observed. Licensing and availability of any non-system font referenced in the site's asset list were not verified and should be confirmed before production use.

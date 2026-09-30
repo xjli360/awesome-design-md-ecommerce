@@ -4,6 +4,10 @@ name: "Aer"
 source_url: "https://www.aersf.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A dark, disciplined travel-gear brand that builds its entire visual system around a black canvas (`#000000` meta theme-color) and a single red accent (`#d20000`) used with surgical restraint — not as a logo color but as a low-voltage indicator for stock warnings, sale badges, and the rare destructive action. The palette is overwhelmingly achromatic: `#404040`, `#575757`, `#707070`, `#959595`, and `#d9d9d9` form a precise gray scale that lets product photography — backpacks against urban concrete, travel organizers in flat-lay — carry all the warmth. Surfaces are flat and matte; there are no gradients, no shadows, no glossy reflections. Typography runs Helvetica Now Display at moderate weights (`400`–`700`) with tight tracking (`0px`–`0.5px`) and generous line heights (`1.4`–`1.6`), producing a clean, technical readout that mirrors the brand's engineering-forward product copy. Buttons are sharp-cornered rectangles (`{rounded.none}`) or subtle pills (`{rounded.sm}`) — never the friendly `{rounded.full}` of consumer lifestyle brands. The nav bar is fixed, black (`#212121`), and dense: a left-aligned logo, a center search field with a `#1199ff` accent orb, and right-aligned utility icons. Product cards use `{rounded.sm}` with a white (`#fafafa`) surface and `#eaeaea` hairline border, mimicking the clean edges of a tech accessory. The footer collapses into a single column of `#959595` links on a `#f2f2f2` canvas. Every design decision reads as intentional reduction — the brand trusts its product to speak, not its interface.
 
@@ -320,6 +324,14 @@ components:
 - Category filters (if present) collapse to a dropdown select.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

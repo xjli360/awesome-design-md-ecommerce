@@ -4,6 +4,10 @@ name: "JETech"
 source_url: "https://www.jetechins.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Filtering by device generation is the first gesture JETech asks of its visitors — category pages reorganize around phone model rather than product type, treating hardware compatibility as the governing navigational logic. This makes the storefront's aesthetic intentionally utilitarian: no hero lifestyle photography, no ambient mood direction, just white-canvas grids holding flat-lay shots of polycarbonate slabs and tempered glass panels photographed edge-on so the 0.33mm thickness reads as engineered precision. The estimated primary blue (approximately #0066CC, unconfirmed by live extraction — see Known Gaps) carries CTAs, selected filter states, and active navigation indicators with a cool, mid-register technology tone that signals dependability over excitement; against the white canvas it reads almost institutional, closer to a hardware configurator than a fashion accessory shop. Product cards do significant information work: star ratings with parenthetical review counts, compatibility strings such as "for iPhone 15 Pro Max," sale badges in high-contrast red (#CC0000), and stacked color-variant chips all coexist within a card roughly 240px wide. This density mirrors marketplace logic — maximum signal per centimeter of screen — rather than editorial restraint. No custom webfonts were detected during extraction, pointing to a system-font-stack strategy that keeps catalogue load times fast across hundreds of SKUs. Badges shoulder editorial hierarchy: SALE, NEW, and BEST SELLER appear in tight-tracked uppercase at 11px, adding emphasis without requiring additional image assets. Corners throughout are softly rounded at approximately 4px — cards, buttons, filter chips, and search fields all share this low-key radius that keeps the grid from reading sterile while still conveying a no-nonsense engineering sensibility. A dark footer anchored at near-black (#1A1A1A) with gray-toned links provides visual terminus, while a thin primary-blue top bar carries promotional messaging in reversed white type — a structural frame that brackets the browsing experience without demanding attention.
 
@@ -367,6 +371,13 @@ components:
 - Footer four-column grid collapses to two columns on tablet, and to a full-width accordion (one section per trigger) on mobile, with sections closed by default except Customer Service
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

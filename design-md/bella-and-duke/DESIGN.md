@@ -4,6 +4,10 @@ name: "Bella & Duke"
 source_url: "https://bellaandduke.com"
 captured_at: "2026-09-28T09:52:59.082708+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Bella & Duke's public CSS evidence centers on a deep teal (#003a3a, also seen as
   #003b3b) used for the WordPress admin/sidebar chrome, paired with a bright yellow
@@ -161,6 +165,14 @@ components:
 Touch targets should be a minimum of 44px, satisfied by the observed 50px button height. Nav collapse thresholds, grid column counts, and exact stacking behavior are recommendations only, not measured from a live render.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

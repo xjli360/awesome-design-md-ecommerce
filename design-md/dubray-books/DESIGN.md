@@ -4,6 +4,10 @@ name: "Dubray Books"
 source_url: "https://www.dubraybooks.ie"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep navy canvas (#00205b) anchors Dubray Books — not as a background but as the brand's primary voltage, appearing on the top navigation bar, footer blocks, and the site's meta-theme-color strip, lending a studious, grounded presence that sets it apart from the pastel-and-white conventions of most independent bookstores. Against this dark ink, a seafoam accent (#70c8b5) surfaces on hover states, sale badges, and secondary decorative elements, while a sharp coral (#ef7b3d) and a vivid orange (#fb681c) provide energetic call-to-action pulses for "Add to Basket" buttons and promotional banners. The typography runs Poppins at moderate weights — display headlines sit at 500–600 weight rather than heavy 700+, letting the book cover photography and generous whitespace carry the visual load rather than typographic muscle. Search bars adopt a softly rounded rectangle (`{rounded.sm}`), while product cards use a gentle `{rounded.md}` that reads as approachable without sacrificing the brand's serious literary tone. The checkout flow introduces a bright blue (#00bbff) accent for progress indicators, and a muted gray (#9ca3af) handles secondary metadata like author names and publication dates. The overall system feels like a well-stocked library — orderly, warm, and confident in its navy-and-seafoam identity, with orange serving as the friendly bookseller who points you to the right shelf.
 
@@ -631,6 +635,13 @@ components:
 - Search bar: On mobile, expands to full width below the top nav when activated
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

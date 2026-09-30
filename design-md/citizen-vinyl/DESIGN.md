@@ -4,6 +4,10 @@ name: "Citizen Vinyl"
 source_url: "https://www.citizenvinyl.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A working record-pressing plant in Asheville, North Carolina, Citizen Vinyl’s digital presence is a clean, industrial-tinged storefront that lets the craft of vinyl manufacturing speak for itself. The site runs on Roboto across all weights — a utilitarian sans-serif that reads as no-nonsense and workmanlike, echoing the machinery and precision of the pressing floor. Without a single extracted brand color to anchor the palette (the live site returned no distinctive hexes beyond framework defaults), the design system defaults to a monochrome canvas of pure white `#ffffff` and near-black `#222222`, with warm gray `#6a6a6a` for body text and a softer `#929292` for muted labels. The absence of a signature brand color is itself a statement: Citizen Vinyl is not a lifestyle brand selling nostalgia, but a service provider selling quality, turnaround time, and audio fidelity. Buttons are squared off at `{rounded.sm}` (8px), cards at `{rounded.md}` (12px), and the hero section uses generous `{spacing.section}` (64px) vertical padding to create breathing room around product shots of raw vinyl and finished jackets. The nav bar is a thin, 64px strip with a logo lockup on the left and text links in `{typography.nav-link}` — no hamburger, no search bar, no cart icon cluttering the header. The overall feel is that of a precision workshop’s website: functional, trustworthy, and designed to get out of the way of the product.
 
@@ -332,6 +336,13 @@ components:
 - Form layouts: Multi-column form fields collapse to single column on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

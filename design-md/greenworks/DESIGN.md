@@ -4,6 +4,10 @@ name: "Greenworks"
 source_url: "https://www.greenworkstools.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Where most power tool manufacturers reach for safety-orange or battleship gray, Greenworks doubles down on the one color its products are designed to improve — lawn green. The brand's primary, a vivid lime-weighted green, sits in direct contrast against the near-black charcoal (#313131) that structures every handle, housing, and headline. The effect is less "outdoor equipment catalog" and more "consumer electronics launch page": a two-note palette that positions battery power as an upgrade rather than a tradeoff. The charcoal (#313131) appears in the extracted data as the only confirmed color, anchoring navigation backgrounds, text, and footer fills — every headline and label resolves against it with high contrast and zero softness.
 
@@ -365,6 +369,13 @@ components:
 - Footer columns collapse to single-column accordion at < 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

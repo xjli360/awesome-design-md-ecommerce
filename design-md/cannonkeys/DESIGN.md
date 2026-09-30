@@ -4,6 +4,10 @@ name: "CannonKeys"
 source_url: "https://cannonkeys.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Fifty flag-palette swatches in the extracted color set are keyboard legend graphics — every group buy ships with home-nation key labels, so the brand's true voltage only surfaces when those country colors are stripped away. What remains: #d80027 crimson on every decisive CTA, #108474 deep teal pulling focus on selected states and hover surfaces, and #ddc7ab warm parchment keeping product grids from reading as purely technical. The site runs Nunito Sans as its workhorse — a rounded sans-serif that softens the hobby's spec-heavy vocabulary without feeling casual — with Baskerville held in reserve for the rare editorial headline, lending an almost cataloguey gravitas to limited-run board announcements.
 
@@ -409,6 +413,13 @@ Full-width dark ({colors.surface-dark}) block with column layout for nav links, 
 - GB status badge remains pinned to card corner at all breakpoints — never hidden
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

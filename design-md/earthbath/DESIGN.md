@@ -4,6 +4,10 @@ name: "Earthbath"
 source_url: "https://earthbath.com"
 captured_at: "2026-09-28T09:54:13.052959+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Earthbath's storefront CSS exposes a compact palette built around a saturated blue (#0076c7 / #0176c7, used as header text color and the loading-bar accent) paired with a warm orange (#ff8920) that likely functions as a secondary call-to-action or promotional accent, though its exact usage was not visually confirmed. Neutral values run from pure white (#ffffff) canvas through light grays (#eeeeee, #e2e2e2, #dedede) for surfaces and hairlines, down to near-black (#000000, #121212) for ink. Several near-black alpha values (#0000001a, #00000012, #00000026, #00000033) suggest layered shadow/overlay treatments typical of a Shopify Dawn-derived theme. Typography is dual-track: a custom display face ("Oz Handicraft" / "OzHandicraft BT") appears in the font stack and is inferred to drive headings and hero copy for a friendly, handcrafted brand voice, while Arial/Helvetica carry body and UI text for legibility. Heading scale is explicitly defined via CSS custom properties across at least two breakpoints (58–72px H1/display down to 18–20px H6), giving a confident, generous editorial rhythm. Button and form-field heights are fixed at 52px (44px for small buttons), implying a comfortable, touch-friendly control size. All semantic role assignments (primary vs. accent, surface tiers) are inferred from usage context, not confirmed brand guidelines.
 
@@ -134,6 +138,12 @@ This is a proposed breakpoint recommendation, not measured site behavior. CSS va
 Touch targets should meet a 44–52px minimum height, matching the observed `--button-height` (52px) and `--button-small-height` (44px) tokens. Sticky header behavior is confirmed via `--enable-sticky-header: 1`; sticky announcement bar is disabled per `--enable-sticky-announcement-bar: 0`.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This interpretation is derived solely from static CSS custom properties, selector declarations, and page text supplied as evidence; no rendered layout, interaction states (hover/focus/active), or mobile behavior were directly observed. The role of orange (#ff8920) as an accent versus a rarely-used utility color is inferred from its presence in the palette alongside a dominant blue, not confirmed by component-level CSS. The `--header-border-color` value (rgb 217,234,247) was excluded because it has no corresponding hex entry in the supplied observed palette. Font family "Oz Handicraft"/"OzHandicraft BT" is treated as a licensed or self-hosted custom display font whose availability, licensing, and exact glyph coverage were not verified. Heading and section spacing values were taken directly from `:root` custom properties across cascading breakpoint blocks, but the precise pixel-to-breakpoint mapping was not confirmed from a live viewport test. Component patterns without direct CSS evidence (product-card, badge, filter-chip, hero padding) are labeled proposed and should be validated against real rendered pages before implementation.

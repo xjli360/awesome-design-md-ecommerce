@@ -4,6 +4,10 @@ name: "Zelos"
 source_url: "https://www.zeloswatches.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The dense cluster of orange variants — #f48120 through #f89f20 — saturating sale callouts and accent elements on zeloswatches.com is less a marketing choice than a dial reference: Zelos builds tool watches with orange-tipped hands and lume indices, and the site palette reads as continuous with the product. Against the near-black substrate that dominates the primary canvas (#1c1b1b, #121212), electric blue (#006fcf) claims every primary CTA and navigation interaction — sharp enough to read at a glance, like a watch's lume-filled bezel markings snapping into focus in the dark. The Jost geometric sans-serif carries all headings with weight that lands between utilitarian and bold, closer to watch-catalog typography than editorial fashion, while Karla handles body copy and specification text with a slightly warmer humanist finish that keeps long technical descriptions legible without stiffness.
 
@@ -435,6 +439,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

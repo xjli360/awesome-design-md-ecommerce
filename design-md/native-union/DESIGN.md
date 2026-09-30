@@ -4,6 +4,10 @@ name: "Native Union"
 source_url: "https://www.native-union.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A charcoal-and-sulfur brand identity built on the tension between #6f6f6f — a warm, mid-tone gray that reads as stone, concrete, or raw aluminum — and #ffff00, a pure signal-yellow that arrives like a safety vest on a minimalist electronics accessory. The brand sells phone cables, wireless chargers, and carrying cases, but the design language borrows from industrial hardware and heritage luggage: woven nylon braids, leather wraps, and anodized-metal finishes. Typography splits between Playfair Display for editorial headings (a serif that suggests a luxury-goods catalog) and Montserrat for interface labels (a geometric sans-serif that keeps the UI from feeling precious). Buttons are pill-shaped (`{rounded.full}`) but rendered in the charcoal gray rather than the yellow, making the yellow a rare accent — used only for select highlights, badges, and the occasional CTA. The product grid favors generous whitespace and single-column hero shots, letting the texture of the materials (braided cable, matte silicone, woven fabric) carry the visual weight. There is no gradient, no drop shadow, no decorative illustration — the brand trusts material photography and a strict two-color palette to signal quality. The result is a digital storefront that feels more like a precision-tool catalog than a phone-accessory shop: restrained, tactile without being "tactile" in the marketing sense, and utterly dependent on the contrast between warm gray and cold yellow.
 
@@ -293,6 +297,13 @@ components:
 - Search bar remains visible at all breakpoints (does not collapse into an icon).
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

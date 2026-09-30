@@ -4,6 +4,10 @@ name: "Mansur Gavriel"
 source_url: "https://mansurgavriel.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Violet at #a45cec sits at the center of gravity — an unusual commitment for a brand that otherwise communicates through restraint, near-white surfaces (#fefefe), and the quiet authority of Supreme-LL set at low weights. The design operates as a tension between that single saturated decision and the rectilinear austerity surrounding it: sharp corners on every interactive element, no border radii on buttons or inputs, generous whitespace between modules that reads more like a printed lookbook than a commerce page. A warm off-white surface (#e6e6dc) backs editorial sections, stepping just far enough from pure white to register as a material choice. The palette carries additional voltage in a saturated red (#e44434) and deep navy (#000f9f), appearing as accent signals in badge and campaign contexts — color-blocking logic that mirrors the brand's product line, where bold hue meets architectural proportion. Gray runs in five increments from #888888 through #646464 to #121212, each step carrying a different editorial function: body text, muted labels, ink — never a colored highlight.
 
@@ -328,6 +332,13 @@ components:
 - Announcement bar persists at full width on all breakpoints; text truncates with ellipsis if copy exceeds single line
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

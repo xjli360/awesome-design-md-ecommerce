@@ -4,6 +4,10 @@ name: "Katzkin"
 source_url: "https://katzkin.com"
 captured_at: "2026-09-28T09:42:44.102349+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Katzkin's homepage CSS exposes a compact, utilitarian palette dominated by
   near-black warm charcoal ("#332e2b"), white, and mid-grays ("#575757",
@@ -154,6 +158,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets on primary buttons should stay at or above the observed 48px min-height used on `.post-review-cta-button`. Navigation is recommended to collapse to a hamburger/off-canvas pattern below `md`, though this collapse behavior was not observed in the supplied CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

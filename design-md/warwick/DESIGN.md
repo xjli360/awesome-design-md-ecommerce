@@ -4,6 +4,10 @@ name: "Warwick"
 source_url: "https://www.warwick.de/en/Warwick.html"
 captured_at: "2026-09-29T04:11:45.141343+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Warwick's markup exposes a dark, utilitarian visual system: html/body is set
   to pure black (#000000) with white (#ffffff) text at a compact 11px base
@@ -164,6 +168,13 @@ This is a recommended breakpoint scheme, not a measured behavior of the live sit
 Touch targets should be at least 44×44px for buttons and nav items (proposed, not observed). Navigation collapse behavior, menu animation, and any legacy fixed-width breakpoints implied by the `four_col_design`/`five_col_design` class names were not confirmed in a live rendered layout.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

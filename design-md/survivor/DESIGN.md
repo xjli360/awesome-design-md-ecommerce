@@ -4,6 +4,10 @@ name: "Survivor"
 source_url: "https://www.survivorcase.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every Survivor product detail page opens not with a lifestyle image but with a grid of certification marks — MIL-STD-810G, tested drop heights, IP ratings — treating engineering documentation as the primary visual event on the screen. The brand's palette runs on a white canvas with a near-black header bar (#0f0f0f), and the single chromatic decision that carries all urgency is a burnt-orange primary (#e85d1a) — the exact register of industrial safety marking, not the polished coral of consumer electronics. This orange appears on the Add to Cart button, the protection-tier active state, the hover ring on compatibility chips, and nowhere else; there is no secondary accent diluting its signal authority.
 
@@ -346,6 +350,13 @@ components:
 - Certification badge strip in hero wraps to two rows on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

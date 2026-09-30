@@ -4,6 +4,10 @@ name: "Christopher Ward"
 source_url: "https://www.christopherward.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Three founders who had never manufactured a watch launched Christopher Ward in 2004 on a single provocation: if the movement comes from the same Biel workshops, why should the price triple once a famous name is stamped on the dial? That founding logic is still legible in the visual language. #00a1e0 — a clean instrument-panel blue, closer to aviation HUD tones than to sapphire-counter jewellery blue — occupies every primary CTA, the wordmark, and the first colour field in every hero. It reads precise and direct rather than opulent; the palette never reaches for gold or cream. BrownPro carries the entire type system: BrownPro-Bold at 40–48px for collection headers and the marquee tagline "Premium watches within the reach of everyone", BrownPro-Regular for product copy and spec labels, BrownPro-Light for fine-print disclaimers and strap-option sub-labels. The palette has unusual tonal depth for a single-hue brand — a graduated stack from #a6e6ef (soft sky chips and icon fills) through #71cedb and #13d2ec (mid-teal hover states) to the primary #00a1e0, then descending to #007cad and #005474 for pressed and deep-active states. This optical depth substitutes for a second hue. Dark fields — footer, movement-spec panels, editorial campaign banners — use #1d2124, which lets dial photography float without a conventional white lightbox treatment. Product cards sit on #f9f9f9 with {rounded.sm} corners and a 1px #cdcdcd hairline; hover lifts the surface to {colors.surface-card} with a box-shadow rather than a colour-swap. Filter chips scroll horizontally at mobile and collapse to a sticky left rail on desktop. Movement-spec tables use BrownPro-Light at caption size alongside Consolas monospacing, evoking a precision instrument datasheet. The crown-shaped favicon echoes the literal mechanical crown used to wind and set a watch — one of the few brand marks in accessories that is simultaneously metaphorical and technically accurate.
 
@@ -421,6 +425,13 @@ components:
 - **Footer**: Five columns at desktop → two-column grid at tablet → single-column accordion (collapsed sections) at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Art of Tea"
 source_url: "https://artoftea.com"
 captured_at: "2026-09-28T05:00:25.491270+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Art of Tea's storefront CSS shows a warm, editorial palette built on near-black
   ink (#231f20), soft warm off-whites (#f8f7f5, #f0eee9, #f4eee7) and a small set
@@ -167,6 +171,8 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be at least 44px tall for buttons and nav items; the mobile drawer menu (`mobile_drawer_menu` selectors present in CSS) implies a slide-in panel pattern, though its exact animation/interaction is not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS custom properties and page text only; no rendered layout, computed styles, hover/focus states, or JavaScript-driven behavior (cart, search drawer, quiz modal) were observed. Color-to-role mapping (e.g., which tone is truly "primary" versus decorative) is inferred from frequency and typical e-commerce conventions, not confirmed brand guidelines. Rounded-corner tokens beyond `none` are proposed extensions; the only directly observed radius value is 0 (square buttons/inputs). Spacing scale values are proposed multiples consistent with the site's `--spacing` calc pattern but the base unit itself was not numerically confirmed in the supplied evidence. "Artifex Hand CF" appears in the font-family list but no selector tying it to a specific role was supplied, so it is omitted from typography tokens. Font licensing/availability for Cormorant and proxima-nova was not verified. Mobile menu, quiz modal, and cart drawer interactions are referenced in page text but their visual/interaction design is not observed.

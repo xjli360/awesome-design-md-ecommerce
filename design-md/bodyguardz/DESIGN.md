@@ -4,6 +4,10 @@ name: "BodyGuardz"
 source_url: "https://www.bodyguardz.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A protective brand that wraps its products in a palette of muted coastal grays (#859eab, #668796) and a warm, peachy canvas (#fff5ed), creating a visual atmosphere that feels more like a trusted gear shop than a phone-accessory store. The brand's primary voltage comes from the soft sage-steel #859eab — a color that appears nowhere in the generic web palette and signals a deliberate departure from the black-and-neon conventions of the protection category. Typography runs on Jost and Modern Gothic, two faces that bring a clean, slightly architectural modernism to product names and navigation. Buttons use {rounded.sm} corners and sit on the sage primary, while the search bar and product cards adopt {rounded.md} for a friendly but not pillowy feel. The site's Shopify foundation is visible in the checkout-widget colors that pepper the extracted palette (#0062cc, #1e7e34, #d39e00), but the brand's own voice lives in the contrast between #1a1a1a ink on #fff5ed canvas — a warm, approachable reading experience that makes drop-test ratings and military-grade claims feel less clinical. The footer and secondary surfaces use #f2f2f2, keeping the overall weight light and airy, while the meta theme-color of #ffffff ensures the browser chrome disappears into the brand's white frame.
 
@@ -313,6 +317,14 @@ components:
 - Multi-column product grids reduce to single column on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Wind & Weather"
 source_url: "https://www.windandweather.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Coral at #ff6f61 signals warmth before a word is read — Wind & Weather plants that hue on every primary CTA and promo badge against deep midnight navy (#001f39) that anchors the header bar and hero overlays. Jost, a geometric sans-serif with open circular apertures, runs the full range from 48px display headlines down to 11px uppercase badge labels without requiring a second typeface; its modest stroke contrast suits a brand that photographs kinetic objects — spinning copper weathervanes, cast-iron garden stakes, hand-painted wind spinners — and wants typography to recede gracefully. The palette splits along a warm-cool axis: navy for structural weight, coral for action and urgency, and a three-color status tier (#28bb74 green for availability, #ff9736 amber for low-stock alerts, #d74047 red for out-of-stock) that maps directly to garden-season scarcity cues without over-explaining. Cards sit on a 4/3 image ratio rather than the square default, giving wide outdoor photography room to breathe; an 8px radius softens corners without pushing toward the pill forms that lifestyle brands favor. The bleached canvas (#f5f5f5) grid background keeps product photography the primary content surface — no illustrated pattern layer, no texture overlay, just product against sky. Hairline rules at #e5e5e5 divide sections the way a horizon line divides a landscape: present, structural, never decorative. The dark register lives only in the nav and footer: midnight navy grounds both, reversing type to off-white (#f5f5f5) and surfacing coral only for hover states and CTAs, so the brand reads as an outdoor catalog by day and a coastal storefront after scroll. Spacing grows in even increments up to 64px section breaks, keeping the product grid airy on wide screens where wind spinners and wall medallions need room to register as three-dimensional objects rather than thumbnail icons.
 
@@ -418,6 +422,13 @@ components:
 - Footer: 4-column → 2-column → single stacked with accordion disclosure per column
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

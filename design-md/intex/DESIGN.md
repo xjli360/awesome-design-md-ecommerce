@@ -4,6 +4,10 @@ name: "Intex"
 source_url: "https://www.intexcorp.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep violet #221155 grounds every page — not as a background but as the brand's primary ink, used for headlines, navigation text, and the bold wordmark that anchors the header. Against this dark, saturated base, a vivid orange #fe5b0c ignites all primary calls-to-action: "Shop Now" buttons, sale badges, and the floating cart icon. The combination is unexpected for an outdoor inflatables brand — it reads more like a premium athletic label than a pool-equipment company, giving Intex a confident, energetic presence that stands apart from the sea of blue-and-teal competitors. A clean white canvas (#eeeeee as a warm off-white surface) and generous whitespace keep the product photography — above-ground pools glowing with turquoise water, air mattresses in sunlit bedrooms — as the visual hero. Corners are softly rounded ({rounded.md} on cards, {rounded.sm} on buttons), but the search bar and hero sections use full-pill radii ({rounded.full}) that echo the circular shapes of pool rings and inflatable loungers. The typography stack relies on system fonts (Font Awesome for iconography, with no dedicated brand typeface detected), which gives the interface a utilitarian, no-nonsense feel — the design steps back to let the orange-and-violet color story and the product imagery do the selling. Footer sections stack in dense, link-heavy columns with thin hairline separators, and the secondary navigation uses a muted gray (#007aff appears as a link accent, likely from checkout or utility links) that never competes with the primary orange.
 
@@ -344,6 +348,13 @@ components:
 - Hero search bar collapses to an icon-only button that expands a full-width search overlay on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

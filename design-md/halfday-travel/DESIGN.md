@@ -4,6 +4,10 @@ name: "Halfday Travel"
 source_url: "https://halfdaytravel.com"
 captured_at: "2026-09-28T05:04:30.443725+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Halfday's storefront pairs a warm, tailored neutral palette with a single
   deep-forest accent (#013d1c), observed as the header's transparent-state
@@ -144,6 +148,12 @@ components:
 Proposed breakpoints (not measured): mobile ≤480px, tablet 481–1024px, desktop ≥1025px, matching the CSS's evidence of at least two responsive custom-property tiers (smaller `--text-h*`/spacing values at narrow widths, larger at wide widths, plus a header grid-template swap between stacked and inline logo/nav order). Navigation is expected to collapse to a hamburger/off-canvas menu below tablet width; the header's logo dimensions grow from 70×28px to 90×36px at larger breakpoints per observed custom properties. Product-list grids shift from a horizontal carousel (single-column-equivalent, ~74vw item width) on mobile to 2-up (~36vw) at mid-width and a fixed 3-up grid at desktop, per the `--product-list-items-per-row` values. Touch targets for buttons and swatches should target a minimum 44×44px hit area; this is a general accessibility recommendation, not a site-measured behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

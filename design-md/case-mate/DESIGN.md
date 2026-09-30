@@ -4,6 +4,10 @@ name: "Case-Mate"
 source_url: "https://www.case-mate.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A glossy, confident accessories brand that lives in the tension between #0d0d0d ink and a signature #c24d74 rose-mauve — a color that reads neither pink nor beige but something distinctly Case-Mate, appearing on product-detail swatches, add-to-cart buttons, and the brand’s own jelly-tote hero imagery. The palette is overwhelmingly near-white (#f5f5f5, #eeeeee, #f2f2f2) with a secondary accent of #d93f4c (a punchier red-coral) and a deep #9c305d plum for sale badges and limited-edition markers. Typography layers two distinct voices: Scotch Display (a condensed, high-contrast serif) for product names and editorial headlines, and Epilogue (a clean, geometric sans) for body copy and navigation — a pairing that signals both fashion credibility and tech-accessory precision. Buttons use {rounded.full} pill shapes in the rose-mauve primary, while product cards adopt a softer {rounded.md} corner that mirrors the rounded silhouette of the brand’s signature phone cases. The Jelly Tote bag — a translucent, candy-colored accessory — drives the visual language: glossy surfaces, soft reflections, and a sense of playful luxury that avoids both minimalism and maximalism. The site’s Shopify backbone means checkout flows inherit platform defaults, but the brand’s own surfaces — from the {colors.surface-soft} category strips to the {colors.hairline} dividers — maintain a consistent, polished neutrality that lets the product photography and those two accent colors do the emotional work.
 
@@ -388,6 +392,13 @@ components:
 - Product detail accordions are always expanded on desktop (no accordion behavior) but collapse on mobile and tablet.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

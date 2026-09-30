@@ -4,6 +4,10 @@ name: "Vitamix"
 source_url: "https://www.vitamix.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The same deep red anchoring every Vitamix blender base for decades shows up as the sole chromatic voltage in the digital system — no secondary accent, no tertiary highlight, just {colors.primary} carrying every primary CTA, add-to-cart trigger, and promotional label against a near-white canvas. The typographic split reveals how seriously the brand stakes its performance legitimacy: Sentinel, a slightly bracketed oldstyle serif from Hoefler & Co., handles hero-scale display at sizes approaching 56px, lending editorial authority to peak-horsepower claims and cooking-outcome headlines; Gotham Narrow absorbs everything transactional — navigation labels, button copy, specification tables, ingredient callouts — in its condensed, engineered letterforms that pack four data points into the space where three would otherwise sit. When a spec row labels "Container Capacity: 64 oz." in {typography.spec-label} — all-caps Gotham Narrow at 11px with 1px letterSpacing — the density signals professional-kitchen calibration rather than home-appliance convenience. Product cards maintain hard corners ({rounded.xs}) against a {colors.surface-card} white field; no rounded-corner flourishes soften the brand's positioning toward the mass-consumer end of the kitchen category. The compare table is a signature UI moment: full-width, alternating {colors.surface-soft} rows, Gotham Narrow column headers naming blender series, each row resolving a specification that justifies a $200 price step between tiers. Navigation unfolds into a structured mega-menu organized by blender form factor — Full Size, Personal, Immersion — rather than lifestyle marketing language. Spacing leans generous between content sections but tight within spec blocks, leaving product photography of motor-housing geometry and blade assembly room to make the functional argument that copy alone cannot. No pill-shaped controls appear anywhere in the system; every interactive element sits at {rounded.xs} or {rounded.sm}, keeping the visual register closer to laboratory instrument than consumer lifestyle accessory.
 
@@ -370,6 +374,13 @@ components:
 - Series-selector overflows with horizontal scroll (no wrapping) at narrow widths
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

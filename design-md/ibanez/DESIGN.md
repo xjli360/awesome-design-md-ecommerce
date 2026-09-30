@@ -4,6 +4,10 @@ name: "Ibanez"
 source_url: "https://www.ibanez.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Guitar bodies materialized from #0a0a0a void — this is Ibanez's primary visual grammar: instruments photographed on total black, hardware glinting without a visible light source, finish colors radiating as if luminescent against the void. The site operates as a dark-mode-native catalog, with near-black (#0a0a0a and #222222) stacked for canvas and surface-soft, then #303030 cards lifting slightly above the depth floor. Condensed Oswald in all-caps uppercase carries every headline at weights from 400 to 700, while Open Sans handles technical spec paragraphs at 16px/1.6 — the pairing mirrors the contrast between a guitar's raw steel strings and its resonant tonewood. Raleway appears for sub-category labels with tracked-out uppercase at 11–14px, adding an editorial register between the muscular display and the utilitarian body text. The brand also carries a full Japanese font stack (Hiragino, YuGothic, Meiryo, HGS明朝E) anchored to its domestic market, hinting that the English site is one node of a globally parallel system.
 
@@ -400,6 +404,13 @@ components:
 - Hero CTA buttons stack vertically on mobile with {spacing.sm} gap; button-primary leads
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

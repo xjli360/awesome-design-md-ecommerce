@@ -4,6 +4,10 @@ name: "Trotec Laser"
 source_url: "https://www.troteclaser.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The machine sits flush-left in every product hero — a matte-black laser cutter against a pure white field — and the only chromatic relief from that restraint is the brand's signature flat crimson (#E4002B), deployed once per viewport: on the logo mark, on the primary CTA, on a category badge edge. No gradient softens it. No illustration accompanies it. The visual language is unmistakably Central European industrial: specification photography lit from directly above to expose material texture — acrylic, anodized aluminum, Baltic birch — as direct evidence of what the machine produces. Navigation is structured by application type (Engravers, Cutters, Markers, Software) rather than by SKU catalog, which signals a B2B sales motion where the buyer's production workflow defines the discovery path. Rounded corners are nearly absent: cards and input fields sit at `{rounded.xs}` to `{rounded.none}`, a deliberate mechanical precision that reads as instrument-grade rather than consumer-friendly. The "add to cart" paradigm doesn't exist here — the primary conversion action is "Request a Demo" or "Get a Quote," a dark crimson button standing alone at the bottom of a dense spec sheet. Typography runs in a weight-modulated corporate sans-serif stack; display headings step from 48px to 32px with tight letter-spacing, while body text holds at 16px/1.6 to support long technical parameter tables without fatigue. Spacing follows a disciplined 8px grid with generous 80–96px section breaks, giving comparison tables and feature grids room to function as reference documents rather than marketing copy. The footer is architecturally dense — country selectors, product family links, compliance logos, and support routing — because the buyer relationship is long, multi-touch, and global. Trotec's restraint is the message: a brand so confident in its machinery that the interface refuses to compete with it.
 
@@ -462,6 +466,13 @@ components:
 - Demo form fields reorder to name → email → company → phone → message on mobile, submit button goes full-width
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

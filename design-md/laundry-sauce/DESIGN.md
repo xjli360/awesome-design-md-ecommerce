@@ -4,6 +4,10 @@ name: "Laundry Sauce"
 source_url: "https://laundrysauce.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every fragrance in the lineup gets its own color territory — lavender holds deep purple (#805ad5, #322659), eucalyptus claims near-black forest green (#1f3521), citrus warms into burnt sienna (#cc6328), and a bright fresh-clean green (#2ea818) anchors the lightest scent — while the base brand identity runs on a resolute dark charcoal (#303030) that refuses to soften into the white-canvas wellness vocabulary the laundry category typically defaults to. This is a brand that named itself after hot sauce and means it: CondensedBold display type crashes down at compressed widths with a tight 0.95 line-height and uppercase lock, referencing stadium signage and label typography more than bathroom-shelf minimalism. "The Signature" script cuts against that industrial force as a deliberate sparring partner — a fluid handwritten element that surfaces at section breaks and brand moments, reminding you there is a person behind the posture. The warm sand tone (#dfd5c4) is the one color that belongs to no single scent: it recurs on label grounds, section dividers, and the highlight band that carries punchy single-line claims in charcoal CondensedBold, functioning as a parchment-like neutral that unifies the fragrance palette without being owned by any of them. Buttons are full-width on mobile and dark-fielded everywhere — the brand projects conviction rather than invitation. The {rounded.sm} radius on cards and inputs is a studied restraint, just enough to read as premium consumer product without drifting into the soft-rounded vocabulary of skincare. Inter handles all body text and UI chrome with the measured neutrality of a secondary voice, keeping emphasis on the condensed display headlines and the photography. Color itself is the wayfinding system: when a user enters lavender territory, badges, active tab underlines, and swatch borders all pull toward #805ad5, making scent navigation a spatial, chromatic experience rather than a dropdown exercise.
 
@@ -396,6 +400,13 @@ components:
 - Product highlight band headline scales from display-md (36px) to display-sm (24px) on mobile to prevent text wrap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

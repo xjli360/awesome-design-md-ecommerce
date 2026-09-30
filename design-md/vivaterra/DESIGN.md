@@ -4,6 +4,10 @@ name: "VivaTerra"
 source_url: "https://www.vivaterra.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Pressed-clay coral (#ff6f61) holds every primary CTA and hover state — an unusual choice for a garden brand that could have defaulted to green, and the tension is intentional: VivaTerra positions itself closer to design-forward homewares than to gardening supply, using terracotta as sensory shorthand for kiln-fired pots and sun-warmed earth rather than foliage. Jost, a geometric sans-serif with even stroke weights, runs the entire type system; it gives category labels and product names the same unhurried authority without the warmth of a humanist face or the coldness of a grotesque. Display sizes sit at 56px at weight 600, trusting wide lifestyle photography to carry visual energy rather than typographic mass. Olive tones (#899541, #95a054) surface as accent badges and collection markers — a yellowed, late-season lichen green quite different from the saturated emerald (#28bb74) used for in-stock indicators and environmental messaging. The rounding language stays deliberately moderate: {rounded.sm} on buttons and inputs, {rounded.md} on product cards, never the {rounded.full} pill-shape of beauty or fashion brands — handcrafted-adjacent without overdoing the craft signal. A warm blush (#ffe2df) underlies promotional banners and newsletter callouts, providing a softer field than white when overlay copy would otherwise feel clinical. The dark end of the palette extends from near-black #1f1f1f through a long neutral staircase (#2b2b2b, #3e3e3e, #525252, #767676) that allows the interface to stratify collection metadata, pagination, and secondary labels without borrowing blue or green for hierarchy. Deep navy #001f39 anchors the footer and occasional full-bleed dark sections, creating a nighttime-garden depth that contrasts with the warm coral of daytime CTAs. Amber (#ff9736) appears selectively for bestseller badges and urgency signals, completing a warm-earth triad with coral and olive that keeps even promotional moments feeling grounded in the natural world the brand references.
 
@@ -369,6 +373,13 @@ components:
 - Promo-banner text collapses to centered single sentence; marquee scroll if campaign copy exceeds one line
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

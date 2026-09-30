@@ -4,6 +4,10 @@ name: "Crosley Radio"
 source_url: "https://www.crosleyradio.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Alternate Gothic No. 2 D commands every headline register — a condensed American display face borrowed from 1930s newspaper mastheads and diner signage — set against Source Serif Pro's antiquarian warmth in editorial panels. The contrast is the system: acumin-pro-extra-condensed handles secondary display type at near-architectural compression, Muli carries all interface chrome in a clean sans-serif that stays invisible, and minion-pro handles long-form editorial copy with the texture of a catalog printed on uncoated stock. The single confirmed brand anchor is #383637, a warm charcoal that refuses pure black — it carries a faint reddish-brown undertone visible at small sizes and in fine hairline borders. It functions as primary CTA fill, nav text, and product ink simultaneously, trusting a warm-white canvas to yield chromatic priority to the hardware photography. Crosley's product line — the CR series, Cruiser, and Stack-O-Matic turntables — ships in up to twenty colorways ranging from avocado green to burgundy to cream; the digital system treats those product colors as the brand palette rather than competing with its own accent system. Buttons use solid charcoal fill with minimal rounding close to `{rounded.xs}`, echoing the boxy cabinet proportions of the hardware. Product cards run image-heavy at square or 4:3 crops; color-variant selectors appear as small circular swatches beneath each card, foregrounding the interior-decoration dimension of a turntable purchase. Section headings pair alternate-gothic-no-2-d in all-caps with a Source Serif Pro sub-header one scale below — a two-voice editorial register that reads like a well-typeset product magazine from 1962. The overall spacing is generous, with wide section gaps that let product photography breathe rather than compressing listings into a dense grid.
 
@@ -317,6 +321,13 @@ components:
 - Footer: four-column grid → accordion-style expandable sections on mobile; newsletter field remains visible by default
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

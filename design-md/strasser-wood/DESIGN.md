@@ -4,6 +4,10 @@ name: "Strasser Wood"
 source_url: "https://strasserwood.com"
 captured_at: "2026-09-29T04:15:25.233741+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Strasser Wood's public site pairs a serif display face (Libre Baskerville, falling
   back to Georgia) with a light-weight sans body face (Lato, falling back to
@@ -149,6 +153,13 @@ components:
 Recommended breakpoints (not measured from the live site): mobile ≤480px, small tablet 481–768px, tablet 769–1024px, desktop 1025–1440px, wide ≥1441px. The observed hero headline uses a `clamp(40px, 5.5vw, 76px)` fluid scale, suggesting the live site already employs fluid typography at least for the hero; other breakpoint behavior is not observed. Navigation should collapse to a hamburger/off-canvas menu at ≤768px given the number of top-level sections (Vanities & Cabinets, Products, About, Inspiration, Resources). Touch targets for buttons and nav items should be at least 44×44px. Product/collection card grids should reflow from multi-column (desktop) to single or two-column (mobile). This section is a design recommendation only; no actual responsive CSS or breakpoints were present in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

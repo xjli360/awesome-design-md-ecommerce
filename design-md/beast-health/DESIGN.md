@@ -4,6 +4,10 @@ name: "Beast Health"
 source_url: "https://thebeast.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Beast Health's design system is a study in industrial minimalism, where a raw, almost utilitarian palette of deep charcoals (#333333, #121212, #232323) and warm off-whites (#f8f3ec, #f0eee3, #fffdfc) creates a canvas that feels both premium and approachable. The brand's signature voltage is a singular, unapologetic orange (#ff5601, #ff5500) that ignites every primary CTA, badge, and accent—a deliberate jolt against the muted greys (#666666, #999999, #63615e). This isn't a sterile kitchen-tool brand; it's a tactile, performance-driven one. Typography runs DM Sans and Sofia Pro, with display sizes that feel substantial but never overwrought, and body text that prioritizes clarity over flourish. The system leans on generous `{rounded.full}` pill shapes for buttons and inputs, while cards and containers use a softer `{rounded.md}` radius, creating a friendly, human interface. The palette also introduces unexpected cool tones—a slate blue (#809cb3), a deep teal (#364748), and a muted gold (#ffd45d)—that appear in product details, ingredient callouts, and secondary badges, hinting at a brand that's as much about culinary science as it is about raw power. The overall feel is one of confident restraint: every element has a job, every color a purpose, and the whitespace is a deliberate breath between the heavy machinery of the kitchen.
 
@@ -490,6 +494,14 @@ components:
 - Search bar expands to full width on mobile, collapsing the category strip below it
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

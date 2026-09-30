@@ -5,12 +5,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
       - run: pip install -r requirements.txt
       - run: python -m unittest discover -s tests
       - run: python scripts/check_format.py
-      - run: python scripts/check_evidence.py
+      - run: python scripts/check_evidence.py --base-ref "$BASE_REF"
+        env:
+          BASE_REF: ${{ github.event.pull_request.base.sha || github.event.before }}
+      - run: python scripts/check_measurements.py
       - run: python scripts/build_index.py
-      - run: git diff --exit-code -- README.md INDEX.md STATUS.md data/brands.csv data/manifest.json assets/hero.svg
+      - run: git diff --exit-code -- README.md INDEX.md STATUS.md RECOMMENDED.md HISTORICAL.md MEASURED.md data/brands.csv data/manifest.json assets/hero.svg

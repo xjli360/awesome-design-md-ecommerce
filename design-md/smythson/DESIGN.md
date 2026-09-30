@@ -4,6 +4,10 @@ name: "Smythson"
 source_url: "https://www.smythson.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every Smythson notebook arrives lined in Nile Blue — a proprietary dusty-periwinkle that has remained unchanged since Frank Smythson registered it on Bond Street in 1887. This interior reveal structures the entire visual grammar: maximum restraint on the exterior, a single chromatic signature within. The outer surfaces run in a near-black charcoal (#313131) that functions as ink rather than shadow — warm enough to sit beside vegetable-tanned calfskin, precise enough to carry embossed gilding. The palette radiates outward from that anchoring darkness through paper creams and hairline grays before Nile Blue appears as hover state or focus ring, always a disclosure rather than a headline.
 
@@ -412,6 +416,13 @@ components:
 - Nile blue band: horizontal headline+CTA layout → stacked centered layout with full-width CTA button
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

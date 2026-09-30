@@ -4,6 +4,10 @@ name: "Nodus"
 source_url: "https://www.noduswatches.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Purple at the helm of a watch micro-brand's digital identity is a rare sight — most independents reach for navy or anthracite, but Nodus grounds its entire interactive layer in a deep violet (#331177) that reads as technical authority rather than luxury signaling. The near-black palette stacks — #111111 for type anchors, #1e1e1e and #272727 for layered surfaces — creates a cockpit-dark environment where watch photography sits without competing gradients or lifestyle noise. Red breaks the dark field sparingly: #cc3b3b for alerts and hover states, #bd0000 for deeper active presses, #e99292 as a desaturated blush for softer states. The positioning phrase Watch Research and Design embedded in the page title is a deliberate editorial posture — this is not a retailer but a studio in the tradition of small independent makers who publish technical rationale for every decision, from lug-to-lug width to lume application methodology. Typography runs on a system-sans stack (Helvetica Neue → Arial) without brand-custom webfonts, keeping perceived load near-instant and signaling that the work speaks through product photography and specification copy rather than typographic gesture. Component radii stay minimal — corners sit at 0–4px — reinforcing the precision-instrument aesthetic rather than consumer softness. The secondary deep navy (#112244) anchors hero backgrounds and editorial panels, creating a celestial-dark impression that pairs with watch photography shot against gradient backdrops. Spacing is generous at desktop and contracts sensibly on mobile, with product cards inheriting the dark canvas and letting dial photography carry the visual weight. The overall register is enthusiast-first: technically literate, photographically driven, and deliberately spare with decorative treatment.
 
@@ -369,6 +373,13 @@ components:
 - Footer link columns collapse to tap-to-expand accordion groups on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

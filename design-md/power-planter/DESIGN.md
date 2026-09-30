@@ -4,6 +4,10 @@ name: "Power Planter"
 source_url: "https://powerplanter.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   FatFrank headlines land like a shovel striking soil — blocky, geometric letterforms stacked at high weights that announce tools built for weekend warriors, not boutique garden aesthetics. The system's voltage lives in a saturated nursery green (`#008e4f`) that floods primary CTAs, product badges, and the sticky add-to-cart bar, grounding every interaction in the brand promise of getting things planted faster. A secondary green (`#158251`) appears on hover and active states, barely a half-step darker but enough to register as mechanical feedback. Against a white canvas, product photography dominates the viewport while warm cream panels (`#fff1e3`) break long scroll sections with the dusty warmth of dry potting mix. Typography is aggressively simple: FatFrank handles every heading from hero banners down to collection titles, its mono-weight geometry eliminating the need for italic or light variants; body copy falls to system sans-serif at comfortable reading sizes. Corners stay sharp — buttons use `{rounded.xs}` at most, cards sit at `{rounded.sm}`, reinforcing the industrial DNA of a brand selling steel auger bits, not artisanal ceramics. The color system leans on a dark-brown ink (`#412d00`) for certain accent text, evoking turned earth alongside the expected near-black (`#121212`) for body copy. Spacing is generous vertically (`{spacing.section}` between feature blocks) but tighter horizontally on mobile, where product grids collapse to single-column with full-bleed imagery. A persistent blue (`#1199ff`) surfaces only for utility links and trust signals, kept far from the green-dominated conversion path.
 
@@ -351,6 +355,13 @@ components:
 - Footer columns collapse from 4 across to 2×2 grid on tablet, then full-stack on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

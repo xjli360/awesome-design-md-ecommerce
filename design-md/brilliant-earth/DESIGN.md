@@ -4,6 +4,10 @@ name: "Brilliant Earth"
 source_url: "https://brilliantearth.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The brand color is the argument — sage-toned primary CTAs at approximately `#4a7560` sit inside a near-white room, making ethical provenance a visual sensation before a word of copy lands. Where most fine jewelry retail chooses black or gold as its signature hue, Brilliant Earth chose the color of a forest canopy, and that single decision inflects every interactive element: navigation hover states, form focus rings, and "add to cart" pulses all carry this particular green. The sole extracted hex, `#313131` charcoal, grounds the type system — dark enough to read as authoritative without the coldness of pure black — and sits against a warm cream canvas (`{colors.surface-soft}`) that suggests parchment rather than clinical white. Product photography works on these warm fields: a solitaire diamond ring against `{colors.surface-soft}` or `{colors.surface-warm}` reads as specimen photography borrowed from natural-history catalogs rather than retail merchandising. Typography splits register: a refined serif governs display headlines and category banners — weight 300–400, generous tracking, unhurried pacing — while a humanist sans-serif handles all functional text: prices, filter labels, checkout fields. This split carries the brand's dual identity as both editorial authority on gemstones and efficient transactional tool for the high-stakes engagement-ring purchase. The ring builder — Brilliant Earth's signature interactive feature — requires dense filter chips, step indicators, and carousels to coexist with the brand's preference for negative space; the resolved system uses `{rounded.xs}` on filter badges and `{rounded.sm}` on cards, reserving `{rounded.full}` for filter pill controls only. Product cards carry a "Beyond Conflict Free" or "Lab Grown" provenance mark at the same hierarchy level as the price, treating sourcing credentials as specification data rather than footnote.
 
@@ -361,6 +365,14 @@ components:
 - Product filter sidebar becomes a modal bottom sheet triggered by a `button-secondary` "Filter & Sort" button; active filter count shown as a badge
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

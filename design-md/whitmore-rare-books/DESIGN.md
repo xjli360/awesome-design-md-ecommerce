@@ -4,6 +4,10 @@ name: "Whitmore Rare Books"
 source_url: "https://www.whitmorerarebooks.com"
 captured_at: "2026-09-28T04:43:51.813285+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The observed CSS is a customized Bootstrap 3 base layered with a bespoke
   typographic system. Headings (h1–h6) are explicitly set to
@@ -173,6 +177,13 @@ components:
 Touch targets are recommended at a minimum of 44×44px for nav toggle and buttons. The presence of a "Toggle main navigation" string confirms a collapsible mobile nav pattern exists, but its breakpoint, animation, and collapsed styling were not present in the supplied CSS and are therefore recommendations only, not measured behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

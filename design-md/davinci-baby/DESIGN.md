@@ -4,6 +4,10 @@ name: "Davinci Baby"
 source_url: "https://davincibaby.com"
 captured_at: "2026-09-28T09:06:04.367746+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   DaVinci Baby's storefront CSS shows a soft, pastel nursery palette built around a pale cyan canvas (#ddf7fc) and near-white header band (#f1fcfe), paired with a muted navy text color (#2e435a) used for both body copy and header labels. Primary calls-to-action use a yellow-green fill (#ddeb5a) with a large 31.5px radius that renders as a pill, hovering to a light sky blue (#98e8ff); a separate --accent-color token (#ff4b24) exists in the root variables but was not observed applied to a visible button, so it is treated here as a reserved accent for sale/callout use. Secondary buttons and links use plain black/white with sharper 6px corners, suggesting two coexisting button languages (soft pill primary vs. flat outline secondary). Headlines use a display face, "Bigola Display," set in lowercase at a modest 24px, while body and navigation copy use "Goldplay" with a very small 9px header label size, implying a compact, understated type hierarchy rather than bold display marketing type. Supporting swatches (gold, peach, deep blue/teal) likely serve product imagery, swatches, or category tags rather than UI chrome, and are mapped here as inferred decorative/secondary colors pending live verification.
 
@@ -149,6 +153,13 @@ A single root variable (`--screen-break: 768px`) was observed, indicating at lea
 Touch targets should follow a minimum 44×44px tappable area for primary/secondary buttons, even though the observed button padding (8px 23px, 6px 10px) is tighter — this is a proposed accessibility adjustment, not an observed site behavior. Collapse of multi-column product grids to single/double column on mobile is a standard e-commerce recommendation, not confirmed from the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

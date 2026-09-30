@@ -4,6 +4,10 @@ name: "Agendio"
 source_url: "https://agendio.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Agendio opens with a row of chooseable cover colors — teal (#92d9e1), sage (#cadcb0), lavender (#e4c0e9), coral (#ff5f57) — and the premise that configuring a planner should feel like browsing a stationery boutique rather than completing a checkout form. The active CTA color is a warm amber (#ffc20c), crisp against a gray-toned structural shell built from two layered steel grays (#b3bcc0, #a4afb4) and a stack of near-white surfaces (#f7f7f7, #fafafa, #fcfcfc). That layered neutrality ensures the cover swatches carry visual interest rather than the interface chrome — each planner cover acts as its own product photograph. The deep forest green (#088043) operates as a secondary brand accent and success-state color, never competing with the amber primary because they occupy different semantic roles: amber means act, green means confirmed. An electric magenta (#e605ff) sits in the extraction as a catalog cover option, suggesting the range runs from minimal to vivid without apologizing for either end.
 
@@ -406,6 +410,14 @@ components:
 - **Nav drawer** slides in from the right over a `{colors.scrim}` overlay at 40% opacity
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

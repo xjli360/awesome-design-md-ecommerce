@@ -4,6 +4,10 @@ name: "Monos"
 source_url: "https://monos.com"
 captured_at: "2026-09-28T05:02:59.868418+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Monos presents hard-shell luggage and travel goods through a restrained,
   neutral palette anchored by dark greys (#4d4d4d, #1a1a1a) against white and
@@ -163,6 +167,13 @@ Recommended, not measured, breakpoints:
 Touch targets should be ≥44px for buttons and swatches. Mega-menu collapse to accordion on mobile is proposed given the deep category structure implied by the page text, but no responsive CSS or breakpoint values were present in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This spec is derived from a partial CSS extraction dominated by the Okendo third-party reviews widget rather than Monos's core theme stylesheet; core layout, grid, and heading selectors were not directly observed. Font-role assignment (Vollkorn for display, Cabin for body/UI) is inferred from family-name presence and one confirmed Cabin button rule — actual heading font usage is unverified. Several palette colors (`#d02e2e`, `#1e8f4b`, `#ffb829`, `#002e5c`, `#544f3a`) lack confirmed component selectors and are mapped by plausible convention only. All spacing values, the responsive breakpoint table, hover/focus/active states beyond the Okendo button, and mobile navigation behavior are proposed, not measured. Custom font licensing and self-hosting/availability for Cabin and Vollkorn were not verified from the supplied evidence.

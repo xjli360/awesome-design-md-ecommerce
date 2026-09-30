@@ -4,6 +4,10 @@ name: "Bezier Games"
 source_url: "https://beziergames.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A board game publisher whose visual system is built on a near-monochrome palette of #dedede and #121212 — a deliberate, almost architectural reduction that lets the saturated game art on every product card do all the emotional work. The brand's Shopify storefront reads as a gallery: white canvas (#ffffff) with a single hairline-thin gray separator, product imagery floating in generous whitespace, and a single typeface — Ssw Fontello — handling both display and body copy. There are no decorative flourishes, no gradient hero sections, no brand illustrations; the design trusts that a well-photographed game box with its own internal color story is more compelling than any brand-applied pattern. Buttons and inputs use a soft 8px radius ({rounded.sm}) that feels approachable without being playful, and the navigation bar stays fixed at the top with a clean white background and dark ink text — no background color shifts, no mega-menus. The checkout flow inherits Shopify's default styling, which means the brand's true design voice is strongest on the product and collection pages: a centered grid of cards, each with a uniform aspect ratio, a title set in Ssw Fontello at 16px, and a price in the same weight. The #dedede color appears as a subtle background on secondary surfaces and as a border on product cards, while #121212 anchors all body text and primary headings. The result is a system that feels less like a brand identity and more like a neutral frame — the game is the hero, and Bezier Games simply provides the cleanest possible vitrine.
 
@@ -349,6 +353,14 @@ components:
 - Search transitions from an inline input to a full-screen overlay on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

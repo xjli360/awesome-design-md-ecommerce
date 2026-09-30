@@ -4,6 +4,10 @@ name: "Attn: Grace"
 source_url: "https://attngrace.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   #dedc00 is not a color that asks for permission — a hard-edged chartreuse that Attn: Grace deploys as its primary action signal, sitting against warm cream (#fbf5ef) the way a handwritten correction lands on good stationery: direct, personal, slightly irreverent. The choice refuses the muted-lavender register that wellness packaging habitually assigns to aging women, and it is the first design decision that announces this brand was built from the inside by the women it serves. Acre drives the headlines, a typeface carrying editorial authority rather than hospital-legible oversized type, while BentonMod handles body copy and UI labels with a quieter register — finishing sentences that Acre starts.
 
@@ -445,6 +449,14 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

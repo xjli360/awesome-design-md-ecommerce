@@ -4,6 +4,10 @@ name: "Tombow"
 source_url: "https://www.tombowusa.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The color swatch grid — not product photography — is Tombow USA's real hero element. Fifty-six dual-brush pen shades display in their actual ink pigments: hot pink at #ea205c, warm orange at #ee9441, soft lavender at #a89cc8 — all anchored against a deep teal navigation rail at #108474 that doubles as the brand's primary surface. The UI is a deliberately neutral showcase chassis: near-white grays (#f6f6f6, #eeeeee, #dedede) absorb zero visual attention so every photon of saturated color belongs to the product itself. The teal pair (#108474, #04626c) holds all primary surfaces — navigation, CTAs, active filters — in a direct echo of the MONO graphite pencil barrel, where the same hue has lived for decades. MONO eraser yellow (#fbcd0a) operates as accent voltage: sale badges, announcement bars, and promotional CTAs carry it as a two-color shorthand that any Tombow product owner already recognizes from the pencil case in their bag. Light cyan (#c1e6e6) surfaces on hover tints and category chip backgrounds, cooling the palette without introducing a disconnected hue family.
 
@@ -434,6 +438,13 @@ components:
 - `nav-dropdown` mega-menu collapses to full-screen drawer on mobile with back-navigation per category level
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

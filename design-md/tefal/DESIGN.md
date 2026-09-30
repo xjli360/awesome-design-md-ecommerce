@@ -4,6 +4,10 @@ name: "Tefal"
 source_url: "https://www.t-falusa.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The red handle on a non-stick pan — that particular warm, saturated red (#eb322f) that signals heat-readiness on every Thermo-Spot indicator — carries straight through to the digital storefront, where it fires on every primary CTA, sale badge, and "Add to Cart" button against a site otherwise dressed in near-black charcoal (#20282a) and surgical white. The palette splits into two thermal registers. The cool side runs deep: a #20282a navigation frame, #111111 ink, steel-gray hairlines (#bbbbbb, #d1d1d1), and pale canvas surfaces (#f6f6f6, #e8e8e8) that evoke stainless-steel countertops and brushed aluminum housings. The warm side flares selectively — amber (#c07600), orange (#ff9635), and a cream banner ground (#fdf0d5) with dark-amber copy (#6f4400) surface for promotional callouts, giving the merchandising layer its own distinct temperature without bleeding into the brand red. Typography leans on DIN Pro in both medium and bold cuts (dinpromedium, dinprobold), the geometric sans-serif originally drafted for German industrial signage and railway timetables. Its mechanical uprightness reads as engineered precision, not lifestyle editorial. Open Sans fills the body-copy role with system fallbacks, and Sofia Sans appears in the font stack as a secondary display option. Buttons wear uppercase DIN Pro Bold with 0.5px letter-spacing and tight `{rounded.xs}` (4px) corners — sharp enough to feel tool-like, soft enough to remain clickable. Product cards sit at `{rounded.sm}` (8px) with a 1px border that firms up on hover, paired with a light lift shadow. The grid maxes out at 1440px with `{spacing.section}` (64px) vertical rhythm between category swimlanes, collapsing to a single-column stack below 744px where the mega-menu folds into a hamburger drawer. Hover states on the primary red darken dramatically to a deep crimson (#780002) — a shift that reads more like heated metal cooling than a standard lighten/darken ramp. The two Magento-inherited blues (#1979c3, #006bb4) handle link and active-link duty, functional rather than expressive. The overall system is an appliance showroom on screen: high-contrast, photography-forward, functionally dense, with just enough color heat on the red and orange channels to keep the eye moving toward conversion.
 
@@ -497,6 +501,13 @@ components:
 - Breadcrumb trail truncates to show only the parent and current page on screens below 480px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

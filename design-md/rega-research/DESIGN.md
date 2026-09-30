@@ -4,6 +4,10 @@ name: "Rega Research"
 source_url: "https://www.rega.co.uk"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Britain still builds precision analogue hardware in volume, and Rega's site states it without ceremony before the first scroll ends — a near-black canvas (#0a0a0a) carrying studio photography of turntable platters, tonearms, and amplifier fascias, with #cc4b37 — a warm brick-red — held in reserve for the single primary call to action per page and for the flush rectangular award callouts that accumulate across product listings. Nothing on this site rounds; buttons, input fields, and product cards all sit at {rounded.none}, as if softer geometry would imply tolerance in the engineering. Work Sans does the typographic work at weight 600 for display headings and 400 for body prose, spanning a scale from 42px at the largest display level down to 11px uppercase labels tracked at 1px letter-spacing — the brand favours readable hierarchy through product specification tiers rather than decorative step-down gradation. Dark-UI (#1e2023) shoulders the footer and hero backgrounds, creating a second tonal register beneath the main white canvas; between them a warm-grey palette drawn from #d9d8d6 and #f4f4f3 surfaces in specification tables and sidebar containers without disrupting the near-black and white primary contrast axis. Product pages give the technical spec table the same visual priority as the product photograph: a pivot-to-spindle tolerance or bearing housing diameter is treated as a headline feature, not supplemental copy buried below the fold. Award badges — Rega hardware wins industry press recognition at high frequency — appear as flat, solid rectangles in the primary brick-red rather than rosettes or rendered foil, consistent with an engineering organisation that communicates results rather than prestige. The site's navigation is a single flat 64px bar with no animated reveals, no mega-menu, and a pull-right search field: the same principle of mass-removal that defines Rega's physical products governs every page layout.
 
@@ -323,6 +327,13 @@ components:
 - Footer four-column grid collapses to single stacked column below 744px; column headings retain {typography.label} uppercase styling as section dividers
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

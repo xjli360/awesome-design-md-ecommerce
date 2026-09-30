@@ -4,6 +4,10 @@ name: "Bissell"
 source_url: "https://www.bissell.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every primary CTA on bissell.com fires in the same vivid red (#fa1400) — a saturated alert-color pulled from the appliance world's safety vocabulary, placed on a cream canvas (#fcfcec) and deep-navy header bands that give it room to ignite. The site's visual logic is binary: if it asks you to act, it runs red; if it orients you within the catalog, it runs #00174d, a navy dark enough to absorb ambiguity yet retaining enough blue to read as intentional brand identity rather than inherited default. Warm amber (#fab812) surfaces in promotional callouts and limited-time badges — a golden accent that pushes urgency without collapsing into generic sale-yellow. Burnt orange (#e7772f) orbits the promotional register as secondary warmth, appearing in icon fills and hover overlays. Soft periwinkle (#92aedb) moderates the spectrum in filter chips and secondary tag rings, giving the filtering UI a lighter hand than the bold CTA register. Type is delivered entirely via system-ui — no custom web font was captured in extraction, which places the brand's visual differentiation firmly in color and product photography rather than letterform. Display headings run large and weight-heavy against the cream hero sections; body copy sits in near-black (#1a1918) on white cards for maximum contrast on appliance specification tables. Product cards use modest {rounded.sm} corners — no decorative radius, no shadow theater — signaling a brand that prioritizes legibility and conversion over visual flourish. The search bar runs {rounded.full} and sits center-header, wide enough to handle multi-word cleaning queries in one line without truncation. Navigation deploys a mega-menu with category icon glyphs above text labels; the icons carry the wayfinding load so label text can remain compact. In aggregate, the UI expresses a brand that makes useful machines: direct, high-contrast, and oriented entirely around matching a shopper to the right cleaning tool as quickly as possible.
 
@@ -398,6 +402,14 @@ components:
 - Price block retains full three-tier layout (current / original / savings) at all breakpoints — no data hidden
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

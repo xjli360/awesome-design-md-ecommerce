@@ -4,6 +4,10 @@ name: "Princeton Record Exchange"
 source_url: "https://www.prex.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, saturated #1f1f1f ink anchors Princeton Record Exchange, a used-and-new vinyl institution that treats its website like a crate-digging session — dense, rewarding, and punctuated by flashes of signal. The primary voltage is #ffdd00, a marigold yellow that appears on the site's header banner, sale tags, and call-to-action buttons, cutting through the dark canvas with the same urgency as a "New Arrivals" sticker on a store shelf. A secondary accent of #f58220 (burnt orange) and #d94a00 (rust red) handle secondary actions and price highlights, while #ee2200 serves as a pure alert red for sold-out badges and limited-stock warnings. The typography stack defaults to system fonts — `-apple-system`, `Arial`, `Helvetica Neue`, `Segoe UI` — a pragmatic choice that prioritizes load speed and readability over brand typography, reflecting the store's no-frills, music-first ethos. Cards and buttons use `{rounded.sm}` (8px) corners, a subtle softening that keeps the interface approachable without undermining the utilitarian grid. The layout is columnar and text-heavy, with a two-tier navigation bar that stacks categories (Vinyl, CDs, Turntables) above utility links (Cart, Account), all set against a `{colors.canvas}` of #fefefe. Product listings favor density over whitespace: thumbnails sit at 150px square, prices are bolded in `{colors.ink}`, and condition notes (Mint, VG+, etc.) appear in `{colors.muted}` #777777. The footer is a wall of links — shipping policies, genre guides, store hours — all in `{colors.body}` #555555, a quiet acknowledgment that this is a real shop with real inventory, not a lifestyle brand. The overall feel is of a well-organized record bin: everything has its place, nothing is precious, and the yellow tags make sure you don't miss the good stuff.
 
@@ -438,6 +442,13 @@ components:
 - Search bar moves from nav bar to a prominent position below the hero on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

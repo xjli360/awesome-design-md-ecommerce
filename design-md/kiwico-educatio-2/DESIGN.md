@@ -4,6 +4,10 @@ name: "KiwiCo"
 source_url: "https://www.kiwico.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Fourteen extracted palette entries, ten of which are legitimate brand tokens — KiwiCo runs one of the widest hue spreads in DTC education, with orange-red (#d33600) functioning as the dominant CTA voltage while meta theme-color green (#07b261) claims browser-chrome territory before a single pixel of page loads. The subscription catalog is organized into named creature tiers — Panda Crate through Eureka and Doodle — each carrying its own accent, so the color system does wayfinding work that navigation labels alone could not. A second warm orange (#da532c) surfaces in promotional hero zones, warming the canvas without competing with the primary CTA button.
 
@@ -315,6 +319,13 @@ components:
 - Gift-banner: horizontal padding steps from spacing.section (64px) to spacing.xl (32px) to spacing.lg (24px) across breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "BoltsandNuts.com"
 source_url: "https://www.boltsandnuts.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Blood-red at #9f0000 is not decorative — it reads like oxide primer on hot-rolled steel, marking every "Add to Cart" trigger and primary CTA with the authority of a brand whose audience has measured twice. The site name is functional to the point of bluntness, and the design follows suit: Montserrat capitals anchor category headers and price points while Barlow runs body copy and form labels at weights that keep dense part-number grids legible without cramping. The palette is disciplined. Three shades of red (#9f0000, #b13030, #c56666) operate as a tint-and-shade ladder for hierarchy within branded elements, while an unexpected utility blue (#30abd8, #66c1e2, #99d5ec) surfaces in shipping callouts, info badges, and section accents — the kind of blue that appears on industrial signage precisely because it reads as neutral-informational rather than alarming. The majority of the canvas lives in a stepped neutral column: near-black #1a1a1a for ink, graduated grays (#5b5b5b body, #898989 muted, #cfcfcf hairlines) descending to #f5f5f5 surface-soft and implied white canvas. A secondary navy-slate register (#444e72, #747c97, #a3a8b9) appears in supporting UI — account navigation, category chips, blueprint-adjacent accents — without competing with the primary red. Corner radii are minimal: `{rounded.xs}` on inputs and product cards, `{rounded.sm}` on primary buttons, keeping the interface functional and direct. Spacing is generous at the section level (`{spacing.section}` between category rows) but tight at the component level — bulk pricing tables and specification grids favor density over breathing room because professional buyers are scanning part numbers, not browsing editorials.
 
@@ -458,6 +462,14 @@ components:
 - Footer columns stack vertically to single column below tablet; newsletter input moves to top of footer on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

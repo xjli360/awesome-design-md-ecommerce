@@ -4,6 +4,10 @@ name: "Brainfeeder"
 source_url: "https://www.brainfeeder.net"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The shop grid for Flying Lotus's Los Angeles imprint loads like a darkroom under ultraviolet light — album artwork bleeds edge-to-edge against a near-zero-luminance canvas ({colors.canvas} approximated #060608), each release functioning as its own color event rather than a tile in a conventional merchandise grid. Brainfeeder's digital identity mirrors its curatorial one: cosmic, uncompromising, and lit from within. The primary voltage is an electric violet ({colors.primary} approximated #7042f8), a frequency that sits somewhere between deep-space photography and the neural imagery anchoring the label's logo since its 2008 founding by Flying Lotus in the experimental Los Angeles tradition of Leimert Park. Typography runs lean and modern against dark surfaces — sans-serif stacks at modest weights, because the visual muscle in this system comes from artwork and color, not typographic decoration. Display headings materialize above the catalog grid without competing with it; captions and release metadata recede into the surface in muted slate ({colors.muted}), present but unobtrusive. A phosphorescent cyan ({colors.accent-cyan}) punctuates links and hover states, creating the impression of live signal rather than applied style. No hard corners appear in the shop UI; product cards carry a modest {rounded.sm} radius that softens edges without reading as consumer-friendly — a catalog of Thundercat, Lapalux, Tokimonsta, and Flying Lotus himself demands a certain earned strangeness in the container. Navigation is stripped to wordmark at top-left, a minimal link set, and a cart icon at right; the page spends its energy on the catalog grid. Releases receive room: generous {spacing.xl} gutters between cards, full-bleed cover art that saturates without compression, and a title plus artist credit pair below in body-md. The footer collapses to a dark block barely distinguishable from the canvas, housing label info and social links in caption-scale type. Buy buttons use the primary violet on dark, reversing the conventional dark-text-on-light rule — in this color system, the background is the statement and the call to action is a momentary interruption of it. Note: all hex values and font stacks below are approximations derived from brand knowledge; no live extraction data was available.
 
@@ -307,6 +311,14 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

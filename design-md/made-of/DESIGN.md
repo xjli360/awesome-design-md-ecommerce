@@ -4,6 +4,10 @@ name: "Made Of"
 source_url: "https://madeof.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A baby-care brand that builds its visual identity around a deep teal-green (#108474) — not the pastel pink or powder blue the category defaults to, but a confident, botanical anchor that reads as grown-up and trustworthy. The palette draws from the same naturalist instinct: a warm marigold (#ffcf00) for badges and sale flags, a slate navy (#3c506d) for secondary text and footer blocks, and a soft putty (#f4f2f0) that replaces pure white as the background for product cards and section dividers. The brand uses Fira Sans as its primary typeface — a humanist sans with open apertures and a friendly, legible character — paired with the more decorative Gambado Sans Forte for display headlines and logo marks, giving the site a hand-drawn, editorial feel. Buttons are pill-shaped (`{rounded.full}`), product cards are softly rounded (`{rounded.md}`), and the overall layout breathes with generous padding (`{spacing.lg}` to `{spacing.xxl}`) that keeps the experience calm and uncluttered. The navigation bar sits at 80px with a white canvas and the teal logo, and the search bar mirrors the pill shape of the buttons, creating a consistent, friendly interaction language. The result is a brand that feels less like a baby store and more like a modern home-goods or wellness site — deliberate, warm, and visually sophisticated, with a color story that signals safety and quality without resorting to cliché.
 
@@ -302,6 +306,13 @@ components:
 - The footer columns stack vertically on mobile, with each section collapsible via an accordion pattern.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

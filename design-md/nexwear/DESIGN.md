@@ -4,6 +4,10 @@ name: "Nexwear"
 source_url: "https://nexwear.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A calm, capable elder-care brand built on a slate-gray and lavender-adjacent palette — #111827 ink anchors body text while #e8a983 (a warm, dusty terracotta) and #6d93c9 (a muted periwinkle) serve as the two primary brand voltages, one for warmth, one for trust. The extracted palette reveals a system that leans heavily on cool grays (#374151, #4b5563, #6b7280) and soft whites (#f3f4f6, #f5f5f5, #ebebeb), with the occasional jolt of #c7315f (a deep berry) for urgent badges or sale markers. Gilroy, a geometric sans-serif with a humanist touch, runs across the site at moderate weights — display sizes sit at 24–32px in weight 600 rather than heavy 700+, letting the generous whitespace and soft card radii (`{rounded.lg}` ~20px) do the work of creating a feeling of safety and clarity. Navigation is a fixed top bar with a clean white canvas (#ffffff) and a subtle bottom hairline (#e5e7eb), while primary CTAs use the terracotta (#e8a983) on white text, rounded at `{rounded.sm}` (8px). The system avoids sharp corners everywhere except the body grid — even form inputs and search fields use `{rounded.md}` (12px). A secondary accent of #3d3e7c (deep indigo) appears in footer links and secondary buttons, suggesting a dual-brand architecture: one warm (terracotta) for comfort, one cool (indigo) for reliability. The overall feel is that of a well-ordered, unhurried interface — a digital space designed for users who may be older or caring for someone who is, where every interaction is deliberate, every touch target generous.
 
@@ -399,6 +403,13 @@ components:
 - **Search Field**: On mobile, the search field expands to full width and may move below the nav-bar in a dedicated search bar.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

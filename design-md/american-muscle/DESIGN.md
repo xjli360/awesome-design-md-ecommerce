@@ -4,6 +4,10 @@ name: "American Muscle"
 source_url: "https://americanmuscle.com"
 captured_at: "2026-09-28T09:41:56.263244+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   AmericanMuscle.com is a high-density e-commerce catalog for muscle-car and truck performance parts, organized around large mega-navigation, product grids, and fitment-driven badges. The observed CSS exposes a signature cyan-blue (#1891cd) used repeatedly for links, hover states, badge text, and tooltip borders, functioning as the de facto primary/interactive color. Body and price text render in near-black grayscale tokens (#212121, #414042), with a secondary muted gray (#797979) for fitment labels, review counts, and struck-through original prices. Surfaces lean on whites and very light grays (#ffffff, #f9fafa, #f5f5f5, #eceeef) for cards and panels, with hairline dividers in soft blue-gray (#e2e5e7). Status colors are drawn directly from evidence: green (#0cc000) for "saved"/success states, red (#cc0000) for warnings/error borders, and orange (#f5821f) reserved as an inferred accent for promotional callouts. Typography combines "Inter" for prices and numeric UI, "Roboto Flex" for emphasis labels (save-for-later, badges), and system Arial/Helvetica fallbacks elsewhere — all observed families, with sizes above 18px extrapolated for headings since only small UI text sizes (12–18px) were present in evidence. Layout, spacing rhythm, and breakpoints below are proposed conventions for a dense automotive-parts storefront, not measured observations.
 
@@ -133,6 +137,14 @@ Recommended, not measured:
 Touch targets should maintain a minimum 44px hit area for nav and filter controls; mega-menu categories should collapse into accordions below tablet width. This table is a proposed convention for a parts-catalog site, not a measured layout.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

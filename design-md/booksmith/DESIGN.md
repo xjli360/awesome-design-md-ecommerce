@@ -4,6 +4,10 @@ name: "The Booksmith"
 source_url: "https://www.booksmith.com"
 captured_at: "2026-09-29T04:18:48.911892+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The Booksmith's site exposes two CSS custom properties, --color-primary (#df304a, a warm red) and
   --color-secondary (#302a27, a near-black warm brown), which anchor this interpretation as the brand's
@@ -162,6 +166,14 @@ This is a proposed breakpoint scheme, not measured site behavior:
 Touch targets should be at least 44×44px for cart/wishlist/search icons and event RSVP buttons. Nav collapse threshold and exact grid column counts are proposed conventions, not extracted from live layout or breakpoint CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This specification is derived from a static CSS/text snapshot and carries several limitations. Most supplied colors originate from third-party widget stylesheets (Klaro cookie consent, Drupal Gin admin theme, Font Awesome) rather than confirmed page-body brand styling; their mapping to roles like accent-green, link, and highlight is inferred, not brand-verified. The --font-family: var(--font-poppins) declaration implies an intended Poppins typeface, but no @font-face rule, font-loading link, or rendered font stack in font_families confirms Poppins actually loads or is licensed for use; Arial/Helvetica are used here as the only directly observed families, with Poppins treated as unverified. All typography sizes, spacing values, rounded values (aside from the single 4px radius found in Klaro CSS), hero/footer treatments, and responsive breakpoints are proposed conventions for an independent-bookstore layout, not measured from live rendering. No hover, focus, active, error, or disabled interaction states were observed. Mobile navigation collapse behavior, grid column counts, and touch-target sizing are design recommendations only. Actual product imagery, cart/checkout UI, and event RSVP flows were not present in the supplied evidence.

@@ -4,6 +4,10 @@ name: "Military Collectibles Shop"
 source_url: "https://militarycollectorshq.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Special Elite — a typewriter face whose ink-bleed edges evoke field-stamped orders and wartime correspondence — sets the register before a single image loads: this is a shop where provenance matters more than polish. The meta theme color #537353, an olive drab pulled straight from military field manuals and equipment stencils, functions as both primary CTA surface and navigation ground, lending the site an immediate institutional weight that a generic retail palette never could. Yeseva One provides editorial contrast in secondary display roles, its high-contrast serifs reading like a museum acquisition placard rather than a storefront sign. Open Sans carries body copy at comfortable weights, bridging the historical display atmosphere with functional legibility for catalog descriptions, condition notes, and provenance text.
 
@@ -327,6 +331,13 @@ components:
 - Price and condition information stack vertically on mobile product cards; era badge and featured badge retain position over the image
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

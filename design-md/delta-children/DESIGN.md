@@ -4,6 +4,10 @@ name: "Delta Children"
 source_url: "https://deltachildren.com"
 captured_at: "2026-09-28T04:52:38.540511+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Delta Children's storefront runs on a Shopify theme with a compact, utilitarian
   visual system built around Poppins as the primary typeface (falling back to
@@ -104,6 +108,13 @@ components:
 Proposed breakpoints (not measured): mobile ≤599px, tablet 600–1023px, desktop ≥1024px. Below tablet, the multi-level mega-menu (Nursery, Kids' Bedroom, Play & Outdoor, Baby Gear, Mattresses, Bedding, Accessories) is expected to collapse into the "Mobile Nav" accordion pattern referenced in the page text ("Mobile Nav Close Search"). Touch targets for nav items and buttons should be at least 44px tall, consistent with the 40px `.numbered-dots` control already observed. Product grids likely reflow from multi-column desktop to single/double-column mobile; this is a recommendation only, not confirmed layout behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

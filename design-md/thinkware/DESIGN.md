@@ -4,6 +4,10 @@ name: "Thinkware"
 source_url: "https://thinkware.com"
 captured_at: "2026-09-29T04:04:06.967249+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Thinkware's storefront CSS centers on a compact design-token system exposed via
   root custom properties: a white surface (#ffffff), near-black ink (#1a1c1c), a
@@ -164,6 +168,12 @@ components:
 Touch targets should meet the observed `48px` minimum height used on the primary CTA and `36px` on inputs; anything smaller should be enlarged for mobile. Mobile menu collapse, hamburger interaction, and mega-menu panel behavior are **not observed** — this table is a recommendation derived from container/gutter variables, not measured site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

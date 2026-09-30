@@ -4,6 +4,10 @@ name: "Mack Weldon"
 source_url: "https://mackweldon.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   National2Condensed headlines compress Mack Weldon's editorial voice into tight, uppercase stacks — a typographic choice that reads more like a sportswear magazine spread than a product page, and signals the brand's conviction that disciplined hierarchy is more persuasive than hero imagery alone. The primary anchor is #001237, a navy so deep it approaches black, used for every primary button, the global nav bar, and any CTA that demands authority. Warm sand-beige enters at #dfd5c4 and #d1c3b2, surfacing in loyalty-tier backgrounds, editorial callout modules, and seasonal campaign backdrops — a counterweight that prevents the palette from reading as corporate-cold. Forest green #1f3521 handles the Weldon Blue membership program and select performance-certification badges, holding enough chromatic distance from the navy to mark tier status without visual conflict. Interactive actions — link underlines, form focus rings, add-to-cart confirmations — pivot to #0074e0, a crisp mid-blue that lifts clearly off the dark brand palette. Gray steps are unusually fine-grained: #303030 and #2d2d2d carry secondary text and hard dividers; #e0e0e0, #ebebeb, #eaeaea, and #f7f7f7 subdivide the light canvas into drawer surfaces, card tints, and skeleton states. Buttons use `{rounded.none}` or `{rounded.xs}` — there are no soft corners anywhere in the UI, reflecting a precision-over-approachability philosophy that runs through every grid edge. UntitledSans handles all running body copy and UI labels in a clean grotesque register, letting the condensed display stack carry the brand's editorial weight while prose stays legible and unobtrusive. Product cards are deliberately spare: clean aspect-ratio containers, a hover-swap for the alternate colorway, and a compact badge row for technical callouts like "Silver Fabric" or "18-Hour." On desktop, sections open wide with full-bleed imagery and the condensed type at scale; on mobile the grid collapses to single-column while National2Condensed headlines hold brand voice at 32–40px.
 
@@ -378,6 +382,13 @@ components:
 - Hero image drops below text block on mobile; text block takes `{colors.primary}` background fill for legibility
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

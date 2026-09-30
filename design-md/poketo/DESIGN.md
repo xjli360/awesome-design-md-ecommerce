@@ -4,6 +4,10 @@ name: "Poketo"
 source_url: "https://www.poketo.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Two anchoring colors do the full tonal work across the Poketo store: a charged periwinkle (#4d65ff) that reads closer to an inkpad stamp than a digital primary, and a deep bottle green (#084935) that carries the brand's more grounded, editorial register. The page title — "Home | Pattern Brands" — reveals that Poketo lives inside a parent portfolio, yet the color identity is resolutely its own. The periwinkle takes hero backgrounds, CTAs, and announcement bars; the green surfaces in footers and secondary callouts. That two-act chromatic architecture is the organizing principle everything else defers to. Font stacks loaded via JavaScript and were not extractable, so typography defaults conservatively to a system sans-serif; based on widely-documented Poketo brand presentations, expect a geometric grotesque in the Aktiv Grotesk register — confident weight at headings, low-contrast body, tight tracking at display sizes, and a small all-caps label style with expanded spacing for category chips and badges.
 
@@ -318,6 +322,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

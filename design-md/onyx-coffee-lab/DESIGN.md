@@ -4,6 +4,10 @@ name: "Onyx Coffee Lab"
 source_url: "https://onyxcoffeelab.com"
 captured_at: "2026-09-28T10:04:05.062175+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Onyx Coffee Lab's observed CSS points to a warm, editorial coffee-brand system built on a near-black/cream duality. Header tokens explicitly define --header-primary (#000) and --header-secondary (#FCFAF2), which invert on light/dark/scroller header states, so black and a warm cream (#FCFAF2/#FBFAF3) are treated here as the primary ink and canvas pair. Supporting neutrals (#EAE8DF, #EEE9DF, #F0EFE5, #7D7D7A, #CBCBC8, #DEDEDE) suggest a soft, paper-like surface system layered under a black-and-cream frame. A small set of warmer accents — an aged gold (#AF8E38/#AE841F), a clay/terracotta (#D28467), and a peach tint (#F5D8C2) — appear alongside cooler teal-blues (#1990C6/#136F99) and a single red (#B00923); these are inferred as product/badge/CTA accents rather than confirmed brand primaries, since role attribution from static CSS is limited. Typography exposes several named families (Room-205, Bajern, Kapra, Andale) plus Montserrat and generic sans-serif; Montserrat is treated as the workhorse body face, with the others assigned inferred display/title/button roles based on typical editorial hierarchy. Swiper's default #007AFF is excluded from brand color roles as a library default. Layout, spacing, and radii below are proposed conventions grounded in observed nav/button/cart-count metrics, not measured page geometry.
 
@@ -152,6 +156,12 @@ This is a proposed, non-measured breakpoint recommendation:
 Touch targets should be at least 44px, matching the swiper navigation-size convention (`--swiper-navigation-size:44px`). Mobile nav collapse and menu height (`--dynamic-nav-menu-height: 65svh`) suggest a slide-down/overlay pattern, though its visual behavior was not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This interpretation is derived from static CSS/text extraction only; no rendered layout, breakpoints, hover/focus states, or JavaScript-driven interactions (cart drawer, mobile menu, carousels) were observed. Color-to-role mapping (e.g. gold, clay, teal, red accents) is inferred from typical usage patterns, not confirmed component-level CSS. Font role assignments (Room-205, Bajern, Kapra, Andale vs. Montserrat) are inferred from naming/hierarchy conventions, not measured computed styles; availability, licensing, and web-font loading for the four non-Montserrat families were not verified. All typographic sizes/weights beyond the 14px nav link and 12px cart-count text are proposed, not measured. Spacing and radius scales are conventional defaults, not extracted from the supplied CSS. The `#007aff` swiper theme color was excluded as a third-party library default rather than a brand token.

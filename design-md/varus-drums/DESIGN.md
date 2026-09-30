@@ -4,6 +4,10 @@ name: "Varus Drums"
 source_url: "https://www.varusdrums.com"
 captured_at: "2026-09-28T10:10:53.880470+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Varus Drums is a custom drum-building workshop selling handmade snares and
   full kits (Mantovani Custom, Morpheus Wood/Acrylic, Power, Agile series) via
@@ -167,6 +171,13 @@ Recommended, not measured, breakpoints:
 Touch targets should be at least 44×44px for cart/quote buttons and swatch selectors. Multi-level menus (Artist, Drums, Snares sub-items) should collapse to expandable accordions below tablet width. All of the above is a UX recommendation, not an observation of the live responsive implementation.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

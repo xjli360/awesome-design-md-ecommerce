@@ -4,6 +4,10 @@ name: "Hoover"
 source_url: "https://www.hoover.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A sage-green accent (#aaccaa) sitting alongside fire-engine red (#bb0321) is not the palette instinct for a company that has been making cleaning equipment for over a century — yet it is precisely the move that keeps Hoover's digital storefront from reading as purely industrial. The red is unambiguous: it lands on every primary CTA, hero callout, and promotional flag, with its hover state stepping to #bf1a2f — barely a half-degree shift, enough to register as the brand pressing forward. Beneath that single voltage, three grays carry the structural load. #484848 handles body text and secondary labels; #e1e3e4 frames input strokes and card borders; #dedede draws the row separators and background hairlines. Near-black #121212 reserves itself for the heaviest display moments — hero headings and product titles — while the sage (#aaccaa) resurfaces in feature callout fills, promotional chip backgrounds, and illustrated category badges, doing the work of signaling "highlighted" without borrowing the urgency the red already owns.
 
@@ -395,6 +399,13 @@ components:
 - Search bar in the nav collapses to a magnifying-glass icon on mobile, expanding inline on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

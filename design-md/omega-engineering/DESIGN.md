@@ -4,6 +4,10 @@ name: "Omega Engineering"
 source_url: "https://www.omega.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Sixty-plus years of selling thermocouples and data-acquisition hardware to engineers has left a clear visual fingerprint — dense part-number grids, parametric filter columns, and a signature red that reads like a warning indicator on the instruments Omega actually makes. The brand's primary hue sits in the high-energy red zone (estimated #cc0000 family based on widely documented logo usage), wielded with the same confidence that safety-critical hardware demands: it marks every primary CTA, every category header, and the iconic Ω wordmark itself. Everything else steps back to make room for specifications: a near-white canvas ({colors.canvas}), cool mid-gray type ({colors.body}), and a navy structural tone ({colors.navy}) borrowed from ISO technical documentation. There is no decorative radius or soft-pill aesthetic here — buttons are close to square ({rounded.xs}), cards sit on hairline-bordered rectangles, and tables collapse to as many columns as the viewport can hold before the user manually scrolls. Typography is a utilitarian sans — Arial or Helvetica fallback is plausible given the site's anti-bot blocking — with condensed caption variants to squeeze model numbers into narrow cells. The product catalog is the UI; the brand's entire hierarchy exists to get an engineer from product category to PDF datasheet to part-number checkout in the fewest possible clicks. Badge systems carry heavy semantic weight: RoHS compliance markers, ISO-9001 seals, and expedited-shipping flags each have persistent positions on product cards. Spacing is tight by consumer standards — {spacing.sm} internal card padding, {spacing.base} column gutters — reflecting a catalog that must show 40-plus attributes per product without pagination. Color temperature skews cold and neutral outside the primary red, reinforcing the instrument-lab aesthetic rather than aspirational lifestyle.
 
@@ -427,6 +431,13 @@ components:
 - Breadcrumb truncates intermediate nodes with "…" keeping only root and current page on narrow screens
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

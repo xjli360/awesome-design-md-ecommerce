@@ -4,6 +4,10 @@ name: "Momentous"
 source_url: "https://livemomentous.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   That searing blaze-orange #ff5e03 against a field of cool neutrals is the first thing that registers — not the supplement jars, not the athlete endorsements, but a color that vibrates like a heart-rate spike on a wrist monitor. Momentous anchors its entire interaction language on this single high-voltage hue: primary CTAs, Add to Cart buttons, promotional badges, and progress indicators all fire in the same unmistakable orange, while the rest of the interface recedes into a disciplined palette of deep navy ink (#272d45), cool blue-gray body copy (#676986), and stacked neutral surfaces (#f4f4f6, #f7f7f8) that hand the stage to product photography and clinical data tables. The typographic system runs lean — a geometric sans-serif stack at conservative weights, display headings rarely exceeding 600 weight and body text sitting at 400 in the muted #676986 range rather than a hard black, producing a reading experience that feels like a lab report, not a billboard. Spacing is generous: product cards breathe inside wide gutters, ingredient panels unfold without crowding, and section padding approaches {spacing.section} on desktop to let each content block land as its own proposition. A secondary teal accent (#0e7a82) surfaces sparingly for trust signals, clinical-study callouts, and certification marks, providing a cooler scientific counterpoint to the dominant orange without competing for attention. Card radii sit in the {rounded.sm} to {rounded.md} range — modern enough to avoid the clinical sterility of hard corners but restrained enough to sidestep the soft playfulness of a lifestyle wellness brand. Primary buttons take {rounded.full} pill shapes, creating deliberate contrast against the rectangular product grid. Product photography sits large against the #f7f7f8 soft canvas — clinical close-ups of capsules and powder scoops rendered with studio-grade lighting that signals pharmaceutical precision rather than lifestyle aspiration. The subscription toggle, a {rounded.full} pill that flips between one-time and subscribe-and-save pricing, uses the same orange #ff5e03 active state as the primary CTA, reinforcing the buy-flow hierarchy without introducing a new color. The dark navy #272d45 carries headings and navigation with a weight that reads authoritative without tipping into heaviness, while a near-black #121212 anchors the mobile nav overlay and the dense footer. The overall effect is a performance-lab aesthetic — clean enough to trust with your biochemistry, bold enough to feel like action rather than caution.
 
@@ -506,6 +510,13 @@ components:
 - Footer columns collapse into expandable accordion sections on mobile, with section headings as toggle triggers
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

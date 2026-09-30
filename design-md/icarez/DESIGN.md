@@ -4,6 +4,10 @@ name: "iCarez"
 source_url: "https://www.icarez.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Nine-layer lamination tolerances and device-model specificity are the organizing logic of every iCarez product page — the catalog opens with a compatibility selector, not a mood board. That specification-first posture shapes the entire visual system: dense grid layouts keyed to device family, compact uppercase labels for protection class and installation type, and a canvas that stays deliberately neutral so tempered glass and case photography can do the persuasion work. The brand occupies the precise, reliable end of the protective accessories market, and the interface vocabulary reflects it. Color functions as a navigation and confidence signal rather than an emotional prompt: a deep navy (#1f4d8c) anchors primary actions and carries the brand's quality assurance language, while a warm amber (#e8850a) is reserved for the calls-to-action that require urgency — add-to-cart triggers, limited stock alerts, promotional strip banners. The canvas is an uninterrupted white (#ffffff) with a hairline-soft off-white surface (#f5f6f8) used for filter rails, secondary panels, and specification comparison tables. No custom webfont was detected during extraction, so the system defaults to the native OS stack — a choice that reads as pragmatic precision rather than typographic ambition and that loads instantly for the device-specification queries driving most site traffic. Button radii are kept tight at {rounded.xs}, rather than pill-shaped, echoing the sharp-cornered accuracy of the products themselves — a screen protector fit to within 0.1mm of the camera cutout does not need a softened brand voice. The device-selector sits above the fold on every product page, treated as a primary navigation interface equal in hierarchy to the top nav. Trust badges communicate installation simplicity and warranty terms in compact icon-and-caption format, reinforcing the brand promise without editorial sprawl. A dark navy footer panel ({colors.surface-dark}) grounds the layout and carries secondary navigation and certification logos.
 
@@ -374,6 +378,13 @@ components:
 - `promo-strip` text truncates to a single line with a disclosure chevron on mobile if longer than viewport width
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

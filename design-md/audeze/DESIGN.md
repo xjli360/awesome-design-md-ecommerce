@@ -4,6 +4,10 @@ name: "Audeze"
 source_url: "https://audeze.com"
 captured_at: "2026-09-28T04:25:31.730471+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Audeze's storefront CSS shows a neutral, editorial base — white canvas (#ffffff),
   near-black body copy (#161616) and charcoal headings (#333333) — layered with a
@@ -168,6 +172,14 @@ This is a recommended, non-measured breakpoint scheme, since no media queries we
 Touch targets should be a minimum of 44×44px for buttons and nav items; primary navigation is assumed to collapse into a hamburger/menu pattern below tablet width. None of this responsive behavior was directly observed in the static CSS extraction.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from a static CSS/selector snapshot and a color/font list, not a rendered or interactive audit. Specific limitations:

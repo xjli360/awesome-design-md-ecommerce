@@ -4,6 +4,10 @@ name: "Avaline"
 source_url: "https://drinkavaline.com"
 captured_at: "2026-09-29T03:56:23.151591+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Avaline presents as a clean, ingredient-forward organic wine DTC site built
   on a warm, muted palette rather than a typical deep-cellar wine scheme.
@@ -165,6 +169,12 @@ components:
 Touch targets should be at least 44px tall for stepper controls and nav links. This table is a recommendation based on standard DTC ecommerce conventions, not measured breakpoints from the site's CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

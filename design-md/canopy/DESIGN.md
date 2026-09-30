@@ -4,6 +4,10 @@ name: "Canopy"
 source_url: "https://getcanopy.co"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A humidifier and shower-head brand that wraps warm, humid air in a palette anchored on #f1836b — a coral-tinged peach that reads as both the glow of a steam-filled bathroom and the blush of clean skin. The brand pairs this with #272d45, a deep navy-ink that grounds product photography and footer blocks, and #b1e3d6, a minty seafoam that surfaces in badges, progress indicators, and secondary accents. Typography splits between Ginto Nord for headlines — a condensed, squared-off sans with Nordic coldness — and Ogg Roman for body, a serif with soft, calligraphic terminals that whisper editorial warmth. Buttons are pill-shaped (`{rounded.full}`) and saturated, while product cards use `{rounded.lg}` corners that echo the gentle arc of a shower head. The checkout flow leans on `{rounded.sm}` for inputs and `{rounded.md}` for modals, keeping utility crisp while hero imagery stays generous. The overall effect is a bathroom brand that refuses to look clinical — it leans into spa-adjacent textures, soft gradients on `{colors.surface-soft}` (#f4f4f6), and a layout that treats whitespace like steam: expansive, softening, and slightly diffused at the edges.
 
@@ -276,6 +280,13 @@ components:
 - Accordion sections collapse by default on all breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 - Hover and focus states for most components were not reliably extracted from the live site (only active/disabled states for primary button)

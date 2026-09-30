@@ -4,6 +4,10 @@ name: "Material Kitchen"
 source_url: "https://materialkitchen.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, earthy cookware brand that feels like a well-loved cast-iron pan — warm, grounded, and built to last. Material Kitchen’s palette is drawn from the soil and the sea: a primary green of {colors.primary} (#1d423c) that reads as forest shadow, not minty freshness, supported by a secondary green {colors.primary-active} (#1d322d) that deepens into almost-black. The canvas is a soft, buttery off-white {colors.canvas} (#f8f8f5) that avoids clinical brightness, while the body text sits in a dark olive-charcoal {colors.body} (#3c454f) rather than pure black — a choice that softens the reading experience without sacrificing legibility. Accent colors arrive sparingly: a warm brass {colors.accent-gold} (#e3b052) for highlights and badges, a dusty sage {colors.accent-sage} (#9cc1c3) for secondary surfaces, and a terra-cotta {colors.accent-terracotta} (#d58552) that appears in product photography overlays and sale indicators. Typography leans on a refined serif voice: display headlines use Teodor or Garamond at generous sizes, while body copy runs Freight Text Pro and sofia-pro for a clean, editorial feel. Rounded corners are present but restrained — {rounded.sm} (8px) on buttons and {rounded.md} (12px) on cards — never cartoonishly pill-shaped. The overall effect is a brand that trusts materiality: the weight of a knife, the grain of a cutting board, the quiet confidence of a well-designed kitchen tool.
 
@@ -647,6 +651,13 @@ components:
 - Multi-column text sections (e.g., product descriptions) collapse to single column below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

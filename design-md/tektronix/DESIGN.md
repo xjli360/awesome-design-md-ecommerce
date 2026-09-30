@@ -4,6 +4,10 @@ name: "Tektronix"
 source_url: "https://www.tek.com"
 captured_at: "2026-09-28T04:04:24.972772+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The observed evidence shows a technical, engineering-grade palette anchored by a
   deep teal-blue (#035e7c) used as the default button background, paired with a
@@ -182,6 +186,13 @@ conversion, and mobile menu structure are not observed in the supplied evidence
 and are proposed based on common patterns for dense technical sites.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

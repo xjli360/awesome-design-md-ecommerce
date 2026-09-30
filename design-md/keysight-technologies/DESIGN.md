@@ -4,6 +4,10 @@ name: "Keysight Technologies"
 source_url: "https://www.keysight.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Oscilloscope bandwidth at 110 GHz and network analyzer dynamic range at 120 dB set the engineering stakes at Keysight Technologies, and the same demand for zero ambiguity propagates through the brand's visual grammar. A single corporate blue (#0071B8) carries every primary CTA, product-family header, active link state, and search-submit control — it is the only expressive color in a system otherwise built from navy ({colors.surface-dark}), near-white surfaces ({colors.surface-soft}), and neutral grays. Corner radii are minimal throughout: {rounded.xs} on buttons and inputs, {rounded.sm} on cards — the vocabulary of an instrument panel rather than a consumer storefront. Navigation is structured like a test system menu, with deep mega-menus organized by measurement discipline (oscilloscopes, network analyzers, signal generators, software) rather than by marketing category, reflecting a user base that arrives already knowing what measurement problem it needs to solve. Typography runs clean sans-serif at modest weights — 600 for headings, 400 for body — serving engineers who are reading spec values and comparing channel counts rather than responding to editorial voice. A teal accent ({colors.accent-teal}) marks application-domain intersections — 5G, aerospace, semiconductor, automotive — as pill-shaped badges on product cards and solution tiles, giving buyers a categorical filter cue at a glance. Dark navy hero banners ground the heaviest landing pages, transitioning via directional gradient to product photography on the right half. The spec comparison table is a first-class UI component — monospace data cells, sticky first column, {colors.surface-dark} header — designed for engineers evaluating 20-plus parameters side by side. Resource tiles (datasheets, application notes, configuration guides) use a muted {colors.surface-soft} fill with a blue file icon, making the download CTA immediately legible inside dense resource libraries. The system reserves design energy entirely for navigability and information density, with no ornamental elements anywhere in the component vocabulary.
 
@@ -391,6 +395,13 @@ components:
 - Download card grid collapses from 4-column to 2-column at tablet, 1-column at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

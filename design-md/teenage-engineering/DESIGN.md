@@ -4,6 +4,10 @@ name: "Teenage Engineering"
 source_url: "https://teenage.engineering"
 captured_at: "2026-09-28T04:28:06.736596+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Teenage Engineering's public site pairs a near-black ink (#0f0e12) against
   pure white (#ffffff) and a soft off-white (#f5f5f5) surface, producing the
@@ -167,6 +171,13 @@ components:
 This table is a recommendation derived from the presence of fluid, viewport-relative CSS custom properties (`--client-width`-based calc chains) and is **not** a measured breakpoint set — no explicit `@media` rules were included in the supplied evidence. All interactive elements should maintain the observed 48px minimum click area regardless of breakpoint.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

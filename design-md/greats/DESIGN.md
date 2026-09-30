@@ -4,6 +4,10 @@ name: "Greats"
 source_url: "https://greats.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The electric violet (#6849e3) that pulses through Greats' primary actions sits in deliberate tension with the near-black (#141415) it presses against — a pairing that reads more like a downtown gallery than a sneaker boutique. Greats built its reputation on the Royale, a direct-to-consumer white leather Oxford that arrived before the DTC playbook was a cliché, and the digital environment mirrors that origin story: a stark, minimal shell where photography does the selling and the brand's purple surfaces only where it must — CTAs, active size cells, focus rings. Tenor Sans carries the editorial register, pulling double duty as a display face with enough geometric restraint to keep the site from drifting into fashion-magazine territory; Helvetica Neue handles the workday copy, body text, and nav labels, its studied neutrality letting product imagery breathe. The palette runs lean — two near-blacks (#141415, #121212) that behave as canvas-dark and ink depending on context, a pair of near-identical grays (#dedede, #d7d7d7) managing hairlines and surface softs, and the white canvas that any leather-sneaker brand's photography demands. Radius is used sparingly: buttons carry a subtle 4px curve rather than a pill, product cards read closer to square than round, and the overall geometry stays in the rectilinear tradition of NYC streetwear rather than the soft arcs of athleisure. Size selectors — the critical interaction for footwear — render as tight bordered grids where the active state floods the cell with violet and flips the label white, one color doing the work of communicating availability, selection, and brand identity in a single toggle. The checkout drawer closes the loop in the same dark-to-light rhythm: near-black header bar yielding to a white panel, violet CTA anchoring the bottom.
 
@@ -334,6 +338,13 @@ components:
 - Hero text block moves from overlay-on-image to stacked text-above-image on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

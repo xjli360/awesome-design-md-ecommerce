@@ -4,6 +4,10 @@ name: "Pottery Boys"
 source_url: "https://potteryboys.com"
 captured_at: "2026-09-29T04:29:03.714716+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Pottery Boys Clay Studios presents a handmade-goods storefront built on a
   standard e-commerce template (editmysite/Weebly-family CSS), so most visual
@@ -139,6 +143,13 @@ components:
 Recommended breakpoints (proposed, not measured): mobile ≤480px, tablet 481–768px, desktop 769–1200px, wide ≥1201px. Below tablet, the nav-bar should collapse into a hamburger/menu toggle and product-card grids should reduce from multi-column to single or two-column layout. All interactive targets (button-primary, button-secondary, search, nav links) should maintain a minimum 44×44px touch area on mobile. This section is a design recommendation only; no actual responsive/mobile behavior was observed from static CSS extraction.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This specification is derived from static CSS/text extraction only; no rendered layout, computed styles, hover/focus states, or JavaScript-driven behavior were observed. Color-to-role mapping (e.g., treating #8d5024 as "primary" and #dab844 as "accent-gold") is inferred from link/hover selectors and may not reflect actual brand intent. Typography sizes, weights, and letter-spacing values beyond the explicitly observed 1px/0px letter-spacing rules are proposed defaults, not measured. Font availability, licensing, and exact weight files for Lora, Lato, and Proxima Nova were not verified. Breakpoints, touch-target sizing, and mobile collapse behavior are proposed conventions, not observed site behavior. Component states (hover, focus, disabled, active) are proposed and unobserved.

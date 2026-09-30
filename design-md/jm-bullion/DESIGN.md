@@ -4,6 +4,10 @@ name: "JM Bullion"
 source_url: "https://www.jmbullion.com"
 captured_at: "2026-09-28T04:13:21.166643+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   JM Bullion's observed CSS shows a utilitarian e-commerce shell built on Open Sans (with Arial and sans-serif fallbacks) at a compact 15px/18px body rhythm, layered over a white canvas. The confirmed brand blue (#125ea7) and a darker navy (#14253b, seen on the cart icon) anchor the primary/ink roles, while a family of mid-grays (#666666, #858585, #cccccc) supplies body text, muted copy, and hairlines. A cluster of warm gold tones (#edbb56, #deb053, #fadb99) and the cart-border gold (#ffca5e) is inferred as a bullion-appropriate accent family, since gold/silver retail commonly signals its product category through warm metallic color even though no explicit "brand gold" swatch was labeled in the source. A secondary blue (#428bca) appears in carousel-dot active states and is treated as a highlight accent. Red (#c01313, #d0011b) and green (#439439) values are inferred as alert/count and price-movement indicators respectively, consistent with a precious-metals storefront that displays live spot-price deltas. Rounded corners are small and functional (pill badges, 4-6px inputs/buttons) rather than decorative, suggesting a dense, transactional interface prioritizing legibility and trust signals over expressive styling.
 
@@ -157,6 +161,13 @@ This is a proposed responsive structure, not a measured observation of the live 
 Touch targets should be at least 44×44px on mobile regardless of the 35px desktop input height observed. Header collapse, hamburger behavior, and any mobile drawer navigation are proposed conventions only; no mobile DOM or breakpoint values were present in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from a static CSS/color/font extraction only; no rendered page, DOM structure, or JavaScript-driven interaction (carousel timing, cart drawer, sticky-header trigger point) was observed. Semantic role assignments (e.g., which grays are "muted" vs. "hairline," which golds are "accent" vs. purely decorative image assets) are inferred from naming context and typical bullion-retail conventions, not confirmed via visual inspection. All `display-*`, `title-md`, and `body-sm` sizes are proposed extrapolations since only 11px, 15px, and 22px sizes appeared directly in the supplied rules. The `font-family:bold` value found on `.etabs .tab a` appears to be a CSS artifact rather than an intentional typeface and was excluded from the typography tokens. Font Awesome 5 and Skeleticons were identified as icon fonts, not text typefaces, and are not included in the typography scale. Licensing and hosting/self-serving status of Open Sans were not verified. Mobile layout, hover/focus states, and breakpoint pixel values are proposed design recommendations, not measured behavior.

@@ -4,6 +4,10 @@ name: "Speed Queen"
 source_url: "https://www.speedqueen.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep royal blue (#003388) stamped across a nav bar and every primary CTA — the same shade you find on the steel nameplate of a laundromat's workhorse unit, carried intact into the digital storefront without softening or gradient. Speed Queen's interface is built like its machines: rigid geometry, zero decorative radius (`{rounded.none}` on hero containers, `{rounded.xs}` on buttons), and IBM Plex Serif headlines that read like equipment spec sheets rather than lifestyle copy. The serif choice is deliberate defiance in a category saturated with geometric sans-serifs and rounded appliance-catalog friendliness — it signals engineering lineage and mechanical confidence. Body text switches to Roboto at 400 weight for legibility at small sizes, creating a strict two-voice system: authority in headings, clarity in prose. Red (#dc3232) appears sparingly as an alert accent on warranty badges and promotional callouts, while a hotter orange-red (#f04923) marks urgent CTAs like "Find a Dealer" — together they punch through the cool blue-and-white palette without competing for hierarchy. Canvas stays at #f5f5f5 rather than pure white, giving product photography a slightly warm, showroom-floor neutrality. Cards and surface panels barely differentiate (#eeeeee borders, #ffffff fill), forcing the eye toward product imagery and specification tables rather than UI chrome. Spacing is generous at section level (`{spacing.section}` = 64px) but tight within component clusters — product feature grids pack tightly at `{spacing.md}` gaps, mimicking the dense information layout of a technical manual. The overall impression is institutional trust: a site that would rather show you a 25-year lifespan test result than a lifestyle photograph.
 
@@ -364,6 +368,13 @@ components:
 - Footer: 4-column → 2-column (744px) → single accordion column (480px)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

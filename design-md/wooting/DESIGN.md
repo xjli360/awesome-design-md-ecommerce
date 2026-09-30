@@ -4,6 +4,10 @@ name: "Wooting"
 source_url: "https://wooting.io"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A performance-first keyboard brand built on a raw, industrial aesthetic where function dictates form and every pixel serves a purpose. The brand lives in the tension between high-end gaming hardware and minimalist Scandinavian design — a black-on-black palette anchored by `#000000` ink and `#ffffff` canvas, with a single electric accent in `#00ff00` that pulses through keycaps, switch housings, and software UI elements like a heartbeat monitor. Wooting's signature is the analog keyboard — a product that redefines input by measuring keypress depth rather than binary on/off — and the visual system mirrors this philosophy: nothing is decorative, everything is calibrated. Typography runs a monospaced or clean sans-serif at modest weights (400–600), with display sizes rarely exceeding 24px, letting the product photography of exposed circuit boards, aluminum cases, and custom keycap sets carry the emotional weight. Corners are sharp (`{rounded.none}`) on hardware imagery and industrial components, while software surfaces use `{rounded.sm}` for buttons and `{rounded.md}` for cards — a subtle distinction between the physical and digital layers of the experience. The color palette is deliberately restrained: ink (`#000000`), body (`#1a1a1a`), muted (`#666666`), muted-soft (`#999999`), hairline (`#333333`), hairline-soft (`#444444`), canvas (`#ffffff`), surface-soft (`#f5f5f5`), surface-card (`#ffffff`), on-primary (`#000000`), with the primary green (`#00ff00`) used sparingly for CTAs, active states, and performance indicators. This is not a brand that shouts — it whispers in voltage, then delivers a shock.
 
@@ -553,6 +557,13 @@ components:
 - Keyboard configuration tools collapse to single-column layout on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

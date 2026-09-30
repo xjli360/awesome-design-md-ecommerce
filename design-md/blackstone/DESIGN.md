@@ -4,6 +4,10 @@ name: "Blackstone"
 source_url: "https://www.blackstoneproducts.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The first thing that hits you on Blackstone's site is that #f26322 orange — not a caution label, not a sunset gradient, but the exact color of a griddle surface at 400°F when seasoning oil flashes into polymerized carbon. That single hue saturates every primary CTA, every announcement ribbon, every "Add to Cart" moment, punching through a system that otherwise runs almost entirely in industrial grayscale: deep #1c1c1c ink fields, #58595b body copy, and #f5f5f5 surface planes that read like brushed stainless panels on commercial kitchen equipment. Dark-mode hero sections — full-bleed #212121 backgrounds carrying CheddarGothicSans headlines in uppercase white — frame the product as serious cooking hardware that happens to live on a patio, never the other way around.
 
@@ -423,6 +427,14 @@ components:
 - Feature-icon-cards: 3-across → 2-across → single-column stack
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

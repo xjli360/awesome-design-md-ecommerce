@@ -4,6 +4,10 @@ name: "RAMA WORKS"
 source_url: "https://ramaworks.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Clarkson display type pressed against a near-void #111111 canvas gives RAMA WORKS the visual weight of machined aluminum billet — the typographic choice signals that this is an engineering catalog for people who debate gasket-mount flex and switch pre-travel in tenths of millimeters, not a lifestyle accessories shop. The single chromatic departure from the near-monochrome palette is #f0523d, a vivid coral-red that surfaces on primary calls-to-action and select interactive accents; everywhere else the system cycles through graduated charcoals (#131313, #272727, #3e3e3e) with primary text rendered in #f6f6f6 rather than pure white, softening the tonal snap without compromising legibility on dark surfaces. Inconsolata — the monospace stack present in the site's font-family declarations — earns a structural role in spec readouts: switch actuation force, board weight in grams, plate thickness, travel distance. Numbers set in a fixed-pitch face read as measurements rather than marketing copy, and the font choice alone repositions the product as an instrument. Proxima Nova handles navigation labels and body prose with clean geometric neutrality so the photography of anodized aluminum cases and brass weight bars can operate without typographic competition. The design logic is deliberately sparse: product cards float on {rounded.xs} corners over {colors.surface-card} fields, maintaining the flat geometry of CNC machining. Buttons are near-rectangular ({rounded.xs}), resisting the friendly pill forms that consumer-electronics brands favor. The coral {colors.primary} activates group-buy entry points, add-to-cart states, and the few hover cues that break the otherwise static dark surface — appearing rarely enough to read as a functional signal rather than decoration. The total experience mirrors the product: a deliberately constrained material palette, almost zero surface ornamentation, and the confidence to let dark silence carry the brand's authority.
 
@@ -367,6 +371,13 @@ components:
 - Group-buy countdown condenses to two rows (days/hours / minutes/seconds) on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

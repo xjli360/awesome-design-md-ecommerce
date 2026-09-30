@@ -4,6 +4,10 @@ name: "Applied Industrial Technologies"
 source_url: "https://www.applied.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every pixel on applied.com earns its keep by reducing the distance between a part number and a purchase order — the entire layout is a compressed search instrument, not a storefront. The lone confirmed extraction, #313131, is the ink that anchors headers, part numbers, and facet labels in an industrial-weight charcoal that resists the softness consumer brands favor. Because the live site is guarded by bot-mitigation (the page title returned "Just a moment…"), palette recovery was minimal; brand-knowledge fills the gap conservatively. Applied's corporate red — a saturated #c8102e visible in their printed catalogs, trade-show materials, and legacy CSS artifacts — functions as the primary action color, appearing on Add to Cart buttons, promotional callouts, and the search submit trigger. The typographic stack is pure system: Arial leads at every weight, pushed to bold 700 at display sizes rather than using a custom variable font, which produces a blunt, high-legibility hierarchy that engineers scanning a 200-row spec table can parse at a glance. Corner radii sit near zero — `{rounded.xs}` at most on form fields and cards — reinforcing a grid-governed aesthetic where straight edges signal precision over approachability. The dense product grid (twelve-column at Wide breakpoint) accommodates the browsing pattern of a maintenance buyer who already knows they need a 6205-2RS bearing and just wants quantity pricing. Catalog pages lead with a specification table before photography; descriptions are secondary to dimensional data, load ratings, and compatibility flags. Horizontal hairline rules in `{colors.hairline}` divide facet categories in the left rail, and `{colors.surface-soft}` alternates with `{colors.canvas}` in striped spec rows. A narrow announcement bar above the nav carries freight pricing thresholds and will-call locations in `{typography.caption}` on a `{colors.primary}` background — industrial commerce's equivalent of a front-page banner, built for buyers who skip straight to fulfillment logistics.
 
@@ -474,6 +478,14 @@ components:
 - Order form rows stack price and quantity below product name; CTA becomes full-width
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

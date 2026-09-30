@@ -4,6 +4,10 @@ name: "Virtue Drums"
 source_url: "https://www.virtuedrums.com"
 captured_at: "2026-09-28T09:14:55.324444+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Evidence from the VIRTUE Drums storefront (built on an EditMySite/Weebly-family
   platform) exposes a neutral, high-contrast palette dominated by near-black
@@ -135,6 +139,12 @@ components:
 Recommended, not measured: `sm` ≤480px (single-column stack, hamburger nav, full-width buttons), `md` 481–768px (two-column product grid, condensed nav), `lg` 769–1200px (three/four-column grid, full nav bar), `xl` >1200px (max-width container, generous section spacing using {spacing.section}). Touch targets should be at least 44px tall for repair-booking and cart actions; nav collapses to a drawer or accordion below `md`. These breakpoints are proposed defaults for a small e-commerce/service site and are not derived from observed media queries.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 Evidence was limited to static CSS from a shared platform CSS bundle (largely cookie-consent dialog styling) plus a page title and text excerpt; no product grid, hero, or nav markup/CSS was directly captured, so component layouts above are proposed patterns rather than observed structure. Color-to-role mapping (primary, accent, danger, etc.) is inferred from value characteristics, not from confirmed usage in brand-specific selectors. Font sizes, weights, and the full type scale are proposed, not measured, apart from the general use of Inter/Arial/Helvetica/sans-serif as observed font families. No interaction states (hover, focus, active, disabled) or mobile/responsive behavior were observed. Custom font licensing and self-hosting status for Inter were not verified. Spacing and radius scales are conventional proposals, not extracted token values.

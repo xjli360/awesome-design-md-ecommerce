@@ -4,6 +4,10 @@ name: "Snap-on"
 source_url: "https://snapon.com"
 captured_at: "2026-09-28T04:19:42.677573+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Snap-on's public CSS surfaces a utilitarian, high-contrast palette built around a
   single saturated red (#ff0000), declared in :root as --color-brand-primary, paired
@@ -170,6 +174,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be at least 44px for buttons and nav items; the observed button padding (`9px 19px`) is likely desktop-sized and should be enlarged on touch surfaces. Navigation collapse and mobile menu interaction were not observed in the supplied CSS and are proposed only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

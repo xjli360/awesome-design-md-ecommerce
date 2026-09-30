@@ -4,6 +4,10 @@ name: "Akrapovic"
 source_url: "https://akrapovic.com"
 captured_at: "2026-09-28T09:42:07.906674+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Akrapovič's public site presents itself as a technical, racing-derived performance brand rather than a lifestyle retailer. The observed palette is dominated by near-white canvases (#ffffff, #f9f9f9, #f5f5f5) and a family of dark neutrals (#000000, #1a1b24, #2d2d2d, #333333) used for body copy and structural chrome, consistent with a photography-led, product-focused layout. A racing red (#c60c30) with a deeper secondary red (#9b0a26) appears in the extracted palette and is interpreted here as the primary accent, reflecting the brand's motorsport positioning ("racing is in Akrapovič DNA"); this role is inferred rather than confirmed against a live rendered button. Typography is observed as Open Sans for body text via the site's CSS; Saira is present in the extracted font stack and is proposed here for display/heading use given its common association with automotive and motorsport type systems, though its applied role on this site is unverified. Hairlines and card surfaces are drawn from the light gray set (#e5e7eb, #f9fafb, #e0e0e0). The resulting interpretation favors a dark-on-light, high-contrast editorial grid with a restrained red accent reserved for calls to action and key racing/product highlights, avoiding decorative color use.
 
@@ -149,6 +153,11 @@ Recommended, not measured, breakpoint table:
 Touch targets should be at least 44×44px for menu triggers and buttons. Mega-menus and the vehicle-finder are recommended to collapse into accordion patterns below tablet width. This behavior is a design recommendation only; no responsive CSS or mobile rendering was captured in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

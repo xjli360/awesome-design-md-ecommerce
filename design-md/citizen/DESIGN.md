@@ -4,6 +4,10 @@ name: "Citizen"
 source_url: "https://www.citizenwatch.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Five distinct product lines — Eco-Drive, Promaster, Satellite Wave, Calendrier, and Attesa — each carry a separate color chapter on citizenwatch.com, yet all route back to a single deep navy (#253a63) that inhabits the top navigation, primary CTAs, and collection-banner fills simultaneously. The brand's engineering argument is treated as a design asset rather than footnote: Eco-Drive's light-conversion technology earns dedicated iconography and a standalone explainer block on nearly every collection page, sitting in-grid alongside specifications rather than buried in a FAQ accordion. Against that navy anchor, three accent stories emerge from the extracted palette — a brick rust (#a13c2e and its deeper sibling #541f18) for Promaster land collections; a shadowed forest green (#364d3b paired with #1c281f) for dive and field references; and a warm gold-caramel (#c79f70) that lifts dress-watch listings above the sport grid without invoking the jeweler's register. Surface hierarchy descends from a warm near-off-white (#e0ded9, {colors.surface-soft}) through a deeper sand tone (#e8d8c5, {colors.surface-warm}) to the deep navy itself, keeping dial photography always reading forward against a receding ground. Typography resolves entirely to Helvetica Neue at light weights — 300 for display, 400 for body — with uppercase small-caps labels carrying 1–1.5px tracking, a convention borrowed from instrument-panel and spec-sheet labeling rather than retail warmth. Model numbers (e.g. "BM8550-14E") are set in Courier New, the one monospace face in the detected stack, a literal nod to the SKU-dense watchmaker catalog that distinguishes a 40mm dive bezel from its 44mm sibling at a glance. Buttons carry uppercase tracked type and a tight {rounded.xs} corner — no pill shapes, no hard 0px angles — landing at the precise midpoint between technical discipline and consumer approachability. The overall system reads closer to an engineer's portfolio than a jeweler's showcase, which aligns with Citizen's positioning as the brand whose premium justification is function demonstrated before finish admired.
 
@@ -379,6 +383,13 @@ components:
 - Footer columns collapse from 4-up to 2-up at tablet, then single stacked list at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

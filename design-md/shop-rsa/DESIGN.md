@@ -4,6 +4,10 @@ name: "Shop RSA"
 source_url: "https://www.shoprsa.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Signed memorabilia lives at the intersection of athletic achievement and archival permanence, and Shop RSA's interface has absorbed that logic completely — the palette is almost entirely a family of cool neutrals (#fefefe, #f3f3f3, #dedede, #aaaaaa, #888888, #121212) interrupted by exactly one voltage color: #3498db, a clear cerulean that lands on every CTA, cart button, and active filter without competition. The restraint is purposeful. A signed Wayne Gretzky jersey or a Ruth-inscribed baseball already carries its own chromatic weight; an interface competing for attention would undercut the merchandise. In that vacuum the typography does real brand work: the serif stack — Big Caslon, Bodoni MT, Cardo, Georgia — gives product titles and hero copy a museum-placard authority, while Oswald's condensed uppercase runs category labels, filter rails, and navigation with the compressed urgency of a sports scoreboard. The two registers coexist without clashing because they occupy distinct zones: serif for editorial and provenance copy, condensed sans for UI chrome and data. Button geometry favors modest rounding ({rounded.sm}) rather than pill shapes, grounding the store in a collector's-market directness rather than a consumer-softness idiom. Product cards use {rounded.xs} corners and a faint {colors.hairline} border to frame each piece like a display-case window, with photography dominating and price sitting in Oswald bold below the fold of the image. The single-blue-accent strategy means every interactive affordance registers immediately — there is no secondary teal, no accent amber pulling the eye sideways. Section headers in Oswald tight-tracked uppercase echo sports-media information density: box scores, statistics rails, sideline graphics. White space is measured rather than generous, a pragmatic call for a catalogue that can run several hundred authenticated pieces deep, where inventory exposure competes with readability. The overall register is a specialist retailer confident in its category — more certified-dealer than boutique, more archive than lifestyle brand.
 
@@ -425,6 +429,13 @@ components:
 - Footer columns stack vertically on mobile; cerulean top-border remains the visual anchor
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

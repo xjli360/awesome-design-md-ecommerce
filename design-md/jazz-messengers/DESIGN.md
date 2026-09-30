@@ -4,6 +4,10 @@ name: "Jazz Messengers"
 source_url: "https://www.jazzmessengers.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Three bold chords define the palette before a note plays — an emerald #00b87c that presses through the grid like a highlight marker across a club setlist, a sapphire #0067b8 carrying authority without the cold of corporate blue, and a coral #ff6666 landing exactly where heat is needed: a sold-out badge, a price alert, an impulse buy. The system runs on system-level Arial rather than a commissioned typeface, a choice that reads less like budget constraint and more like function-first record-store pragmatism — the same legibility as a handwritten bin card, rendered on a desktop product listing. PingFang SC in the font stack signals a Chinese-market presence, pointing to a store that treats Asia-Pacific listeners as a primary audience rather than an afterthought.
 
@@ -373,6 +377,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

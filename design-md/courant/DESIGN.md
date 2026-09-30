@@ -4,6 +4,10 @@ name: "Courant"
 source_url: "https://www.staycourant.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep brown #50280f anchors a brand that sells wireless charging as an object of desire — not a utilitarian puck but a leather-and-metal heirloom meant to live on a nightstand or desk. The palette runs from that dark espresso through warm caramel #b15019 and a creamy off-white #f5efe7 that reads as unbleached linen rather than sterile paper. A restrained accent of crimson #d0011b appears only where urgency is needed — sale markers, error states — while the cooler slate #676986 and steel #979797 handle secondary text and borders. The typography relies on Priori Sans, a serif with enough personality to carry headlines without shouting, paired with a clean sans-serif for body copy. Buttons and cards use soft {rounded.sm} corners that suggest leather goods rather than glass screens; the overall effect is a store that feels more like a boutique hotel lobby than a tech accessory shop. The brand trusts material texture — leather grain, brushed metal, woven fabric — over gradients or heavy shadows, and the white space is generous enough that each product photograph breathes like a still life. There is no bright blue or neon accent; the brand's voltage comes from the contrast between warm brown and cream, with the occasional jolt of red.
 
@@ -283,6 +287,13 @@ components:
 - Search bar collapses to icon-only on mobile, expands on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

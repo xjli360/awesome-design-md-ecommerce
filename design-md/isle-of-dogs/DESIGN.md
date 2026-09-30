@@ -4,6 +4,10 @@ name: "Isle of Dogs"
 source_url: "https://iodogs.com"
 captured_at: "2026-09-29T03:57:41.664371+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Isle of Dogs presents as a Shopify-based grooming storefront blending a clinical,
   salon-grade palette with a signature teal accent. The observed body copy sits on
@@ -165,6 +169,12 @@ This is a recommendation, not measured site behavior; no breakpoints, media quer
 Touch targets on buttons and nav items should be at least 44px tall per the `--shopify-accelerated-checkout-button-block-size` default observed in the checkout CSS; mega-nav dropdowns should collapse into accordions below `md`.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived solely from static CSS/text extraction and carries the following limitations: no DOM screenshots, computed layout, or responsive breakpoints were captured, so all spacing scale values, the responsive table, and component padding/radii are proposed conventions rather than measured facts. The semantic role of the teal accent family (#00bbb4, #3cfff8, #005552) as "primary brand color" is inferred from repetition, not from an explicit brand style guide. Colors such as #7e57c5 (purple), #ffff00, and additional grays present in the raw palette were not confidently mapped to a role and were omitted rather than guessed. Font weights/sizes for Questrial and Figtree beyond the two explicitly observed rules (h1 ~2.14rem, price 13px) are estimated. Source Sans Pro's use as the body font is inferred from the palette of font families supplied alongside Arial/Helvetica fallbacks; it was not directly tied to a body-text CSS rule in the evidence. No hover, focus, active, or error states were observed for inputs or cards. Custom font licensing/self-hosting (Questrial, Figtree) was not verified beyond their appearance in `@font-face`-adjacent theme CSS references. Mobile navigation collapse, drawer behavior, and touch interactions were not observed and are presented only as proposed guidance.

@@ -4,6 +4,10 @@ name: "Code&Quill"
 source_url: "https://www.codeandquill.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Crimson (#d0021b) strikes with the finality of a correction mark: it lands on the primary add-to-cart button, the sale price tag, and the logo, and almost nowhere else on the page. The restraint is the whole argument. Everything around it is paper and ink — near-black (#121212, #1c1d1d) for body type and product photography, medium charcoal (#444444) for secondary prose, an off-white page field (#f9f9f9) that reads like uncoated notebook stock, and a cool silver hairline (#dedede) drawing grid lines between sections. The dark navy (#112233) surfaces as a secondary brand accent — the color of a terminal at 2 a.m. — appearing in feature callout blocks and ghost CTAs, giving the brand its dual register: analog craft paired against something that reads like command-line blue.
 
@@ -356,6 +360,13 @@ components:
 - Announcement bar: single long message becomes a CSS marquee or truncated single line at mobile widths
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Gymshark"
 source_url: "https://gymshark.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Near-black at #121212 is Gymshark's deliberate ground — a canvas that makes athlete photography glow and the brand-blue (#007db5) arrive like a voltage spike rather than a web color. Montserrat carries every display weight: compressed letter-spacing on hero headlines, all-caps labels on category callouts, oversized numerals on sale countdowns — the type behaves like functional training equipment, no curves where straight lines will do. Roboto steps in for body copy and fine legal text, a utilitarian anchor that keeps Montserrat's assertiveness from tipping into noise. The storefront strips typical DTC warmth entirely — no rounded-corner friendliness, no pastel accent palette, no lifestyle illustration. Product grids sit flat to the grid with near-zero border-radius, and the always-dark UI reads as competitive infrastructure rather than a consumer aesthetic choice. Primary blue (#007db5) surfaces with discipline: add-to-bag buttons, email capture CTAs, loyalty enrollment — never as decoration or hover tint. Community proof is built into the layout architecture: athlete ambassador rows, macro statistics ("14M+ strong"), and social-content embeds are structural content, not social plugs bolted on at the end. The mega-menu carries sport and gender filters deep enough to need department-store navigation logic. Size-guide and fit-finder tools slide in as overlay drawers, preserving product-page context while adding decision support without a full page transition. The `{rounded.none}` posture runs almost everywhere — buttons, inputs, cards — making the rare `{rounded.xs}` treatment on loyalty badges feel like a deliberate softening rather than a default. The overall register is assertive without noise: every typographic decision runs tight tracking and controlled weight, saying performance without writing the word.
 
@@ -375,6 +379,13 @@ components:
 - Size-guide drawer becomes a full-height bottom sheet on mobile instead of a right-side panel
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

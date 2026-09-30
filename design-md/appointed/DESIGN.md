@@ -4,6 +4,10 @@ name: "Appointed"
 source_url: "https://appointed.co"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Trade Gothic LH Extended running letter-spaced and uppercase above Cormorant Garamond italics — that typographic pairing opens every Appointed page and encodes the brand's animating tension: industrial precision placed entirely in the service of intimate, paper-based daily practice. The canvas is a near-warm off-white (#f8f8f8) anchored by near-black ink (#1a1919), with the real palette living in the surface layer — stone (#c4bdb7), driftwood (#dcd7d4), linen (#c8beb6) — pigments that read less as invented brand colors and more as physical swatches lifted from the actual cloth and board covers of the products themselves. Deep navy (#1c274c) appears selectively as the primary action color, carrying enough visual weight to direct the eye without competing with product photography or the warm neutral field. Rounded corners are nearly absent — buttons, inputs, and product cards all sit at {rounded.none}, and the layout breathes through generous {spacing.section} vertical gaps rather than decorative border treatments. That architectural flatness is not a cost-cutting shorthand; it mirrors the physical objects, which are defined by right angles, parallel spines, and precise corner tabs rather than curves. The hero runs full-bleed editorial photography with an Austin News Headline lockup in the lower third, borrowing the visual authority of mid-century American magazine design and making the implicit argument that a daily planner is a cultural object rather than a supply. The site's most distinctive UI component is the inline cover-color swatch row beneath each product name: 24px circles at {rounded.full} rendered in actual product pigments — dark red (#8b0000), hunter green (#006400), amber (#ee9441), stone (#c4bdb7) among them — that turn the breadth of available colorways into browsing pleasure without requiring additional photography per SKU. Navigation holds Trade Gothic LH Extended tracked wide in a slender 64px bar that collapses to a hamburger drawer on mobile, preserving the same caps-and-tracking typographic register throughout every viewport.
 
@@ -321,6 +325,14 @@ components:
 - Cart drawer becomes a full-screen modal (100vw) at viewports below 480px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

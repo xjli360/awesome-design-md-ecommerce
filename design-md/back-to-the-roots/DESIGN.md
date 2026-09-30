@@ -4,6 +4,10 @@ name: "Back to the Roots"
 source_url: "https://backtotheroots.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Three distinct typefaces share the page in a combination that only makes sense once you understand the product — Petrona's old-style serifs carry the authority of a nineteenth-century seed catalog, Cabin's open humanist geometry handles everyday "add to cart" copy, and Anonymous Pro's monospaced counters surface on growing-guide timelines and germination data tables, treating horticultural precision with the same gravity a developer gives a version number. Against this typographic layering the dominant brand color is #00abc8 — a chlorinated-pool teal, bracingly synthetic against earthy browns (#744f28) and deep forest greens (#2a472b). That juxtaposition is the whole brand: the vivid artificial nudging the genuinely organic. Canvas defaults to #eae8e4, a warm parchment rather than clinical white, keeping product photography from feeling overlit and making teal CTAs read as invitation rather than command. The rounded vocabulary holds at a moderate {rounded.md} for cards and inputs — human enough to feel approachable, restrained enough not to cartoonify a brand whose audience spans children doing their first windowsill grow kit and adults managing backyard compost. Category tags and trust indicators go to {rounded.full}; product cards carry a faint hairline at #dadada with no drop-shadow, relying on the warm canvas ground to create visual separation. The footer flips to deep forest #2a472b, giving the page a planted quality rather than fading into white infinity. Amber #ff9900 surfaces only on sale badges and urgency callouts, never competing with the teal primary; coral #ed5a4d handles error states and occasionally punctuates editorial blog headers. Olive #5d8b16 and leaf #77b11e build a secondary green spectrum on certification icons and grow-progress indicators that reads ecological rather than decorative. Spacing runs generously in hero sections to let photographic content breathe; product grids tighten to {spacing.md} gutters on mobile, keeping an organic feel without sacrificing density.
 
@@ -367,6 +371,14 @@ components:
 - Hero image is hidden below 480px when layout is constrained; headline takes full width with increased bottom padding
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

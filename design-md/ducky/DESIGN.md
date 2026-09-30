@@ -4,6 +4,10 @@ name: "Ducky"
 source_url: "https://www.duckychannel.com.tw"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The golden #ecb320 operates as the sole voltage signal across a near-black envelope — every primary CTA, active navigation state, and price callout channels through one amber frequency against chassis backgrounds of #101010 and #111111 that cover roughly 80% of the visible canvas. What makes the palette structurally unusual is that the remaining accent spectrum — #c72d00 crimson, #31862d forest green, #07ccd7 cyan-teal — maps directly onto mechanical switch taxonomy: crimson for linear switches, green for clicky switches, cyan for bump-feedback variants. The brand's most decisive design move is using its own product's specification language as a color-coding system; switch-type indicator badges inherit their hue from the physical switch rather than from an arbitrary brand library.
 
@@ -367,6 +371,13 @@ components:
 - Footer columns collapse to a single stacked list with disclosure chevrons on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

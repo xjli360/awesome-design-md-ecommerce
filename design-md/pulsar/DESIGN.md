@@ -4,6 +4,10 @@ name: "Pulsar"
 source_url: "https://www.pulsar.gg"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A performance-first gaming gear brand that communicates through raw speed and precision, anchored on a near-black canvas of #111111 — the void from which every product emerges. The brand's primary voltage is #b12704, a burnt-orange-red that reads as heat, friction, and competitive intensity, deployed sparingly on CTAs, price highlights, and category badges. This is not a brand that softens its edges: buttons land at {rounded.sm} (8px), product cards at {rounded.md} (12px), and the overall geometry favors sharp, purposeful rectangles over pill-shaped friendliness. The typographic voice runs Open Sans at modest weights — body copy at 400, headings rarely exceeding 700 — letting the product photography and spec sheets carry the persuasive load. A secondary accent of #6371c7 (a muted periwinkle) appears on secondary actions and informational badges, creating a cool counterpoint to the aggressive primary. The palette is otherwise monochromatic: layers of gray from #989898 through #bebebe to #ebebeb build depth across surfaces, cards, and hairline borders, while #212b35 and #202223 provide dark-surface alternatives for dropdowns and footer regions. The brand's Shopify foundation surfaces through checkout-widget blues (#0080ff, #2f6ed6, #3d9ad1) and payment-method badges, but these are infrastructure, not identity. Pulsar speaks in grams, millimeters, and IPS ratings — the design system exists to make those numbers feel fast.
 
@@ -490,6 +494,13 @@ components:
 - Hero section collapses from side-by-side (text + image) to stacked vertical layout on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

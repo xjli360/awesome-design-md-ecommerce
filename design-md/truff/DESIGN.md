@@ -4,6 +4,10 @@ name: "Truff"
 source_url: "https://truff.com"
 captured_at: "2026-09-28T09:46:13.903721+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Truff's storefront runs on a Shopify/Oxygen stack with "Brown" as the sole
   declared brand typeface (sans-serif fallback), paired with system fonts for
@@ -171,6 +175,13 @@ Recommended, not measured from live rendering:
 Touch targets should maintain a minimum 44×44px hit area for buttons and nav icons (proposed, aligned with the observed 3.125rem/50px button height). Mobile nav is assumed to collapse into a hamburger/drawer pattern; this is a common Shopify theme behavior but was not directly observed in the supplied CSS or DOM.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This interpretation is built from static CSS/text extraction only; no rendered layout, computed breakpoints, or interaction states (focus rings, active/pressed styles, form validation, cart drawer behavior) were observed. Font "Brown" is asserted only as declared in `font-family`; its license, weights, and availability were not verified. Several palette entries (e.g., #cab683, #cdaf62, #c6b377, #b58d28, #189cc5, #4a69d4) had no accompanying selector evidence, so their component roles here (accents, links) are inferred by plausibility rather than confirmed usage. Spacing scale, typography sizes beyond h1/btn-text/body, radii beyond the observed `.25rem`, and all "proposed" component states are extrapolated for design-system completeness and should be validated against production markup before implementation.

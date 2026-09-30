@@ -4,6 +4,10 @@ name: "Mondo"
 source_url: "https://mondoshop.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A poster-obsessed, pop-culture shrine where #d63021 — a hot, theatrical red — acts as the brand's curtain-raiser, appearing on every primary button, badge, and accent, while #121212 ink grounds the typography and product shots against a #dedede canvas that reads more like a gallery wall than a retail page. The red is the same voltage as a movie-poster logo, and it never apologizes. Poppins, a geometric sans-serif with a slight humanist warmth, runs at moderate weights — display sits at 24–32px in weight 600 rather than the heavy 700+ that action brands use; the system trusts the art to do the shouting. Product cards use a tight {rounded.sm} corner, while hero sections and modals go to {rounded.lg}, creating a hierarchy of softness that mirrors the difference between a framed print and a gallery opening. The nav bar is a thin, dark strip — #121212 with white text — that feels like a cinema marquee, and the search bar is a {rounded.full} pill in the same red as the primary, making the act of searching feel like an event. There are no hard corners on interactive elements; every CTA, badge, and filter chip uses {rounded.sm} or {rounded.full}, so the interface reads as approachable even when the subject matter is cultish. The footer collapses into a single column of links on mobile, and the product grid shifts from 4 columns to 2 to 1, but the red button and the black nav never change — they are the constants.
 
@@ -309,6 +313,13 @@ components:
 - Hero section reduces padding and font sizes on mobile (display-xl becomes 24px)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

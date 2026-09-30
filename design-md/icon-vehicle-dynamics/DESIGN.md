@@ -4,6 +4,10 @@ name: "ICON Vehicle Dynamics"
 source_url: "https://iconvehicledynamics.com"
 captured_at: "2026-09-28T09:42:20.910476+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   ICON Vehicle Dynamics presents itself as a rugged, precision-engineered performance brand
   for truck and SUV suspension, wheels, and armor. The observed palette is dominated by
@@ -175,6 +179,13 @@ Proposed breakpoints (not measured from live site behavior):
 Touch targets should be at least 44×44px for buttons and dropdown triggers, consistent with the observed `.ymm-block` button padding (`18px 24px`). Primary navigation should collapse into an off-canvas or accordion menu below `md`. This table is a recommendation based on common e-commerce patterns, not a measurement of ICON's actual responsive CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

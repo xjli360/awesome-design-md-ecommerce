@@ -4,6 +4,10 @@ name: "Rugs USA"
 source_url: "https://www.rugsusa.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Rugs USA is a value-driven home decor brand that makes style accessible through an extensive catalog of rugs at every price point. The brand's visual language is anchored on a clean white canvas (`#ffffff`) with a neutral ink (`#404040`) that carries body copy and headings, creating a calm, approachable foundation for product photography. The primary brand voltage is a confident blue (`#0051c3`) that appears in key CTAs, navigation elements, and promotional badges, supported by a secondary blue (`#2f7bbf`) and a lighter accent (`#62a1d8`) that add depth without competing for attention. A warm orange (`#f68b1f`) and its lighter variant (`#f9b169`) serve as energetic accent tones for sale badges and limited-time offers, while a restrained red (`#bd2426`) and its softer counterpart (`#de5052`) are reserved for clearance markers and error states. The palette is grounded by a range of grays — from the softest surface (`#ebebeb`) through mid-tones (`#999999`, `#bfbfbf`) to a deep charcoal (`#272727`) — that create hierarchy through subtle contrast rather than aggressive color blocking. Typography relies on a system font stack (`-apple-system, Arial, BlinkMacSystemFont, Helvetica Neue, Oxygen, Roboto, Segoe UI, Ubuntu`) that feels native and performant, with generous whitespace and soft corners (`{rounded.sm}` on cards, `{rounded.md}` on buttons) that keep the experience friendly and unpretentious. The brand trusts product imagery and clear pricing over decorative flourishes, resulting in a straightforward, shoppable interface that puts the rug — not the chrome — front and center.
 
@@ -481,6 +485,13 @@ components:
 - Newsletter form stacks vertically below 480px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

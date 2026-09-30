@@ -4,6 +4,10 @@ name: "Clean Origin"
 source_url: "https://www.cleanorigin.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   When the chemical composition of a stone is identical whether it grew in the earth over a billion years or in a controlled thermal reactor over a few weeks, the design challenge is not authenticity — it is clarity. Clean Origin builds its visual system on that premise: a white canvas against #313131, a warm charcoal (the single confirmed extraction from a Cloudflare-protected site) that carries navigation, body copy, and primary CTAs without flinching toward the silver-cold blacks that commodity retailers use. The name is literal instruction — no decorative borders, no script-font romanticism, no textured parchment backgrounds reaching for antique significance. Product photography runs large and unframed, letting stone brilliance supply the luxury signal that other brands achieve with heavy gold UI chrome. Type almost certainly splits between a light-weight display serif for headline moments — ring hero pages, editorial features on diamond origin — and a neutral sans-serif for filter panels, cart flows, and comparison tables where precision outweighs atmosphere. The ring customizer is the brand's defining commitment: a multi-step configuration panel where shoppers choose stone shape, carat, cut grade, and metal, all within a layout that must stay calm and informative against the emotional weight of the purchase. Filter chips cycle between `{rounded.full}` pill states when active and hairline-bordered resting states, giving immediate visual confirmation without color noise. A champagne-gold accent — widely used across the fine jewelry category and consistent with Clean Origin's aesthetic positioning — is assumed for price displays, ring metal callouts, and trust-badge icons, though not confirmed by extraction. Section rhythm runs at `{spacing.section}` between major content blocks, and `{colors.surface-soft}` warm-cream panels break the all-white scroll without introducing color. The overall register is confident restraint: every visual decision is an argument that a lab-grown diamond and a mined diamond are not merely equivalent, but that choosing the former is the cleaner, more deliberate act.
 
@@ -341,6 +345,13 @@ components:
 - Hero: side-by-side text and image → image below text with reduced padding at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

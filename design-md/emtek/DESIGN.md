@@ -4,6 +4,10 @@ name: "Emtek"
 source_url: "https://emtek.com"
 captured_at: "2026-09-28T04:20:54.933537+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Emtek's interface evidence points to a hardware brand built on warm,
   material-inspired neutrals rather than a saturated brand color. The
@@ -191,6 +195,13 @@ overlay below `md`, consistent with common patterns for this category,
 but this has not been observed directly.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

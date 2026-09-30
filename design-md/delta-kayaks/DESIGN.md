@@ -4,6 +4,10 @@ name: "Delta Kayaks"
 source_url: "https://www.deltakayaks.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep-navy hull (#143a57) meets a single electric-green accent (#83e20c) — the brand voltage of a company that builds lightweight thermoform kayaks in North America and trusts the product photography to do the selling. The extracted palette is dominated by a cool navy primary, a near-black ink (#222222), and a family of warm grays (#ededed, #ebebeb, #eeeeee) that form a soft, almost tactile canvas — the kind of surface that suggests a boat hull under your fingers. The accent green (#83e20c) appears sparingly: a CTA button, a badge, a link hover — never more than one per viewport. The typography stack runs Roboto and Bebas Neue, the latter used for display-weight headlines that read as condensed, athletic, and purposeful — a font choice that echoes the streamlined shape of a touring kayak. Buttons are pill-shaped (`{rounded.full}`) in the primary navy, with the green reserved for the single strongest action. Product cards use generous whitespace, a soft shadow, and a `{rounded.lg}` corner that mirrors the rounded bow of the boats themselves. The footer is dense and dark (`{colors.ink}`), anchoring the page like a keel. There is no hero video, no parallax — the brand trusts a single hero image of a kayak on flat water, the horizon line clean, the color temperature cool. The extracted hex list is heavy on grays and blues, but the green (#83e20c) is the tell: it is not a social-icon color, not a checkout widget — it is the brand's deliberate accent, used with restraint.
 
@@ -368,6 +372,13 @@ components:
 - Breadcrumbs truncate to "Home > ... > Current Page" on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

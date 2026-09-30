@@ -4,6 +4,10 @@ name: "Recess"
 source_url: "https://takearecess.com/"
 captured_at: "2026-09-29T03:58:24.427849+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Recess's storefront evidence centers on a single dominant hue family: a deep
   navy (#25385b) that recurs across dozens of alpha-blended variants (from
@@ -164,6 +168,13 @@ Recommended (not measured) breakpoint table:
 Touch targets should be a minimum 44×44px for buttons and nav items; the announcement bar and sticky nav collapse behavior on mobile is not observed and should be validated against the live site before implementation.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Colors are extracted from static CSS custom properties and computed styles; exact usage context (which element uses which alpha variant) is partially inferred from naming and repetition, not visual inspection.

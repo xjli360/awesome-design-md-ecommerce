@@ -4,6 +4,10 @@ name: "Ghost Lifestyle"
 source_url: "https://ghostlifestyle.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A dark, high-contrast supplement brand that wraps gym culture in streetwear attitude, anchored on a near-black canvas (#121212) and a single electric-blue accent (#007aff) that fires across every CTA, badge, and interactive element. The brand’s tagline — “BE SEEN BEYOND THE WALLS OF THE GYM” — is not decorative; it’s the design thesis. Ghost runs a condensed, muscular type system built on futura-pt-condensed for display headers and Roboto for body, creating a typographic tension between compressed power and readable utility. The palette is deliberately sparse: a light gray (#dedede) for body text against the dark canvas, with the blue serving as the only color voltage. There are no gradients, no secondary warm tones, no pastels — the brand trusts pure black, pure white, and that single blue to carry all emotional weight. Product cards use hard corners (`{rounded.none}`) and tight padding, while buttons and badges lean into pill shapes (`{rounded.full}`) for a streetwear-meets-performance feel. The Shopify-powered checkout introduces third-party widget colors (Klarna, Afterpay) that sit outside the brand system, creating a visual break between the curated Ghost experience and the transactional layer. Ghost’s design is not friendly — it’s confrontational, gym-floor direct, with every pixel earning its place against the dark.
 
@@ -444,6 +448,13 @@ components:
 - Accordion content is collapsed by default on all breakpoints, expanding on click
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "American Standard"
 source_url: "https://americanstandard-us.com"
 captured_at: "2026-09-29T04:11:42.265340+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   American Standard's storefront pairs a clean, utilitarian Montserrat typeface with a compact,
   high-contrast red-and-charcoal palette. Body copy renders in near-black (#1c1c1e) on white,
@@ -166,6 +170,11 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets should be at least 44×44px for buttons and swatches given the observed 16px/32px button padding. Mega-menu items should collapse into accordions below tablet width. None of this is confirmed by the supplied CSS/HTML; it is a standard e-commerce recommendation.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Hello Bello"
 source_url: "https://hellobello.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A playful, affordable baby-care brand that wraps its deep purple #300064 around a pastel rainbow of accents — #ff6dff bubblegum pink, #00fc87 mint, #fffe64 marigold — and trusts a clean white canvas to keep it from feeling like a cartoon. The primary purple carries every CTA, badge, and navigation bar, while the secondary #7a60ff provides a lighter hover state that still reads as unmistakably Hello Bello. Product photography and illustration share space generously, with soft pill-shaped buttons ({rounded.full}) and card corners ({rounded.lg}) that mirror the gentle curves of baby products themselves. The brand uses Alexandria as its display and body face, a rounded geometric sans-serif that feels approachable without sacrificing legibility at small sizes. The extracted palette reveals a system built on high-contrast purple-on-white for primary actions, muted grays (#e5e7eb, #9ca3af) for secondary borders and disabled states, and a warm lavender #f2edff for soft surfaces. The checkout flow introduces #0056a1 (a Shopify-standard blue) and various payment-widget colors, but the brand's own identity is unmistakably purple-first, with pink and green as joyful accent voltages. The overall mood is "trustworthy whimsy" — the purple says premium, the pastels say baby, and the white space says we're not trying to sell you anything you don't need.
 
@@ -267,6 +271,13 @@ components:
 - Search bar transitions from inline to a full-screen overlay on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

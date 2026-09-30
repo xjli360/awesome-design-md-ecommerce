@@ -4,6 +4,10 @@ name: "Boundary Supply"
 source_url: "https://boundarysupply.com"
 captured_at: "2026-09-29T04:14:00.801091+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Boundary Supply's storefront CSS evidence shows a high-contrast, utilitarian palette built on near-black (#121212, #000000) and white (#ffffff), with a warm amber accent (#fdc656) used consistently as the primary call-to-action color on hero and collection buttons. Supporting neutrals (#f5f5f5, #dedede, #efefef, #acacac, #555555) suggest a light canvas with soft card and hairline surfaces, appropriate for a technical outdoor/EDC gear brand. Typography is declared site-wide as "Univers LT Pro" for both headings and body paragraphs via CSS custom properties, giving a clean, condensed-adjacent industrial voice; "Univers LT Pro Condensed" is also loaded and is inferred here for compact labels/badges, though its applied selector was not captured. Other font families present in the asset list (Assistant, Instrument Sans, Inter, Josefin Sans, Roboto) are not tied to any captured selector and are treated as unused/unverified for primary UI roles.
 
@@ -153,6 +157,14 @@ components:
 Recommended breakpoints (not measured): mobile ≤480px, tablet 481–1024px, desktop ≥1025px. Nav collapses to a hamburger/drawer below 1024px; hero CTAs stack vertically below 480px. Touch targets for buttons should maintain a minimum 44px height, consistent with the observed 16px/32px button padding scaling up on touch devices. This section is a design recommendation, not an observation of live responsive markup or breakpoints.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This specification is derived from static CSS/text extraction only; no live DOM, computed styles, or rendered screenshots were reviewed. Color-role assignments (e.g., which neutral serves as body vs. muted vs. hairline) are inferred from value groupings, not confirmed usage sites. Font-family fallbacks are limited strictly to generic `sans-serif` because no specific fallback typefaces (e.g., Helvetica, Arial) appeared in the supplied font_families evidence. Typography sizes beyond what root variables implied are proposed, not measured. Interaction states beyond the two captured `:hover` button rules (nav dropdowns, form focus, mobile menu) were not observed. Availability, licensing, and web-font-loading status of "Univers LT Pro" / "Univers LT Pro Condensed" were not verified. The modular-config-panel component is a category-appropriate proposal inferred from repeated marketing copy, not from captured UI markup.

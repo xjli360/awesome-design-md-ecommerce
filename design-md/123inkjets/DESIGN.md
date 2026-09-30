@@ -4,6 +4,10 @@ name: "123inkjets"
 source_url: "https://www.123inkjets.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The price point comes first. Every surface on 123inkjets resolves to a value signal — a compatibility guarantee, a bulk-tier callout, or a clearance badge — anchored by an emphatic #ff5501 orange that handles every primary CTA against an otherwise monochromatic infrastructure of neutral grays. The platform is Magento (magento-icons and boilerplate-theme-icons surface in the font stack), and the design defers to Luma-era conventions: a utility top bar for account links and mini-cart count, a search-dominant masthead, and a category-tree sidebar on listing pages. This is a catalog environment designed for a purchasing agent or IT manager who arrives with a model number and expects friction-free navigation to the correct cartridge.
 
@@ -356,6 +360,14 @@ components:
 - Trust badge row switches from horizontal to a 2×2 grid on tablet, single column on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "King & McGaw"
 source_url: "https://www.kingandmcgaw.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Portrait Light Web — a custom display serif licensed exclusively for this brand — sets King & McGaw apart from every mass-market poster retailer the moment the page loads. The typeface carries the weight of a gallery catalogue rather than a shop: letterforms are narrow and light, sized generously at display scale (~48px) but restrained in weight (Light/300), creating the impression of frame labels rather than headlines selling product. The canvas leans warm: off-white tones (#eae9e7, #f5f5f3) stop short of pure clinical white (#ffffff is reserved for card surfaces), so art photographs the way it looks on linen mounting board. Where a single accent color would suffice for most retailers, King & McGaw operates a seven-color category taxonomy — warm apricot (#fdc79e), sage green (#70a345), muted brick (#b64646), dusty slate (#708b9e), soft mint (#addbb3), pale gold (#e2bf24), and tan (#c7b097) — each mapped to an art genre or movement. Tags reading "Photography", "Abstract", "Mid-Century" each carry their own swatch, turning the navigation into a chromatic index of art history.
 
@@ -396,6 +400,13 @@ components:
 - Hero switches from text-left / image-right to stacked image-above / text-below on mobile, with image capped at 56vh
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

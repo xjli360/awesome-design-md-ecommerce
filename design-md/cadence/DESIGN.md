@@ -4,6 +4,10 @@ name: "Cadence"
 source_url: "https://keepyourcadence.com"
 captured_at: "2026-09-28T09:30:28.905590+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Cadence's storefront CSS shows a warm, neutral-first palette (whites and soft
   stone tones such as #f7f5f3, #f0ede9, #ebe5dd, #d0cac3) paired with a single
@@ -160,6 +164,13 @@ components:
 Touch targets should be a minimum 44px hit area on all buttons and drawer controls. This table is a recommendation based on general commerce conventions, not measured site behavior; no media queries were included in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered page, computed styles, or DOM screenshots were available. Semantic color roles (primary, ink, muted, hairline, surface tiers) are inferred from selector names and usage context, not confirmed via a live design system or style guide. The `html,body` dark-on-dark background/color pair is contradictory in the raw CSS and its true rendered effect is unknown. Most typography sizes beyond the two directly observed rules (`.btn` and `.cadfont-h2-header`) are proposed, following the family names found in the CSS but not their exact sizes/weights per level. The custom "Spezia" font family's licensing, availability, and full weight range are not verified — sans-serif fallback is assumed throughout. No hover, focus, active, disabled, or error states were observed for any component; all are proposed. Mobile menu, cart drawer, and carousel interactions referenced in the page text were not visually confirmed. Rounded and spacing scales beyond the single observed `2px`/`.7rem` values are proposed conventions, not extracted measurements.

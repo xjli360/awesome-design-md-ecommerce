@@ -4,6 +4,10 @@ name: "Blue Nile"
 source_url: "https://bluenile.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every product page on Blue Nile reads like a certification document first and a display case second — cut grade, clarity, table percentage, and depth ratio are all surfaced before lifestyle photography appears — which makes the interface's design task clarification through restraint rather than aspiration through ornament. The deep navy primary (#002D62) carries institutional authority without opulence; paired with a warm champagne gold (#C9A055), it positions the brand in the same register as a private banking letterhead rather than a heritage jeweler with centuries of mystique to lean on. Layouts breathe on generous white canvas (#FFFFFF) and a pale warm surface (#F8F7F4) that recalls the muted warmth of a velvet display board. Serif display type sets headlines with understated gravitas while a clean geometric sans-serif handles the dense specification tables and side-by-side comparison tools that are Blue Nile's actual competitive signature. Rounded corners are conspicuously absent on primary CTAs — square-cornered buttons signal a precision instrument, not a consumer-friendly checkout — while `{rounded.xs}` appears modestly on form inputs and `{rounded.sm}` on informational chips. The diamond search and filter panel, built around shape, carat range, cut grade, color, clarity, and certification lab, dominates UX hierarchy: this site is fundamentally a research engine that also fulfills orders. Trust signals — GIA certification marks, 30-day return indicators, and lifetime warranty callouts — cluster near every price point and repeat through the checkout flow, because the entire brand proposition rests on overcoming the legitimate skepticism of purchasing a significant stone from a screen. Gold (`{colors.gold-accent}`) is used as icon stroke and divider line, never as a solid fill, keeping the luxury register restrained rather than decorative.
 
@@ -358,6 +362,14 @@ components:
 - Footer four-column grid becomes a single-column accordion on mobile with section headings as tap targets
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

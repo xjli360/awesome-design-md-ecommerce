@@ -4,6 +4,10 @@ name: "Arpin Philately"
 source_url: "https://www.arpinphilately.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The #ff6600 orange assigned as the site's meta theme-color sits on Arpin Philately's catalogue like a price sticker on a penny black — the single proprietary decision on a canvas otherwise assembled entirely from Bootstrap 3's utility palette. Every other color on the page is a known quantity: #337ab7 link-blue, #777777 body mist, #eeeeee row dividers. The orange appears only where commerce must interrupt archival browsing — the Add to Cart button, the search submit, the brand name in the dark navbar — and nowhere else. That restraint is not minimalism; it is the discipline of a catalogue database that respects the collector's attention.
 
@@ -399,6 +403,14 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Walkee Paws"
 source_url: "https://walkeepaws.com"
 captured_at: "2026-09-28T09:53:46.485987+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Walkee Paws presents a clean, high-contrast e-commerce interface built on Shopify's standard theme conventions. The observed palette centers on near-black ink (#202020) against a pure white canvas (#ffffff), with a saturated cyan-blue (#0db7e8, alongside close variants #00a9ca and #00b1e6) as the dominant brand accent, likely used for links, icons, and interactive highlights given its repeated appearance. A coral-red (#ff7163) and a muted navy (#3e5c9a) also recur and are inferred as secondary accents for promotional badges or alternate CTAs, while status-like colors (#108043 green, #f5a623 amber, #de3618 red) are inferred as form/feedback states common to Shopify checkout components. Typography pairs Nunito (weight 800) for headings and titles with Nunito Sans (weight 400) for body copy and form controls; a single observed instance of "jost" at 900-weight drives a specific calculator-modal button, which we generalize cautiously into a bold, uppercase-leaning button style. Layout patterns (hero, product card, breed-fit finder) are inferred from page text mentioning breed selectors, sizing tools, and boot-leggings product categories, not from measured DOM structure. Rounded corners default to a soft, moderate scale consistent with the one observed 10px checkout-button radius. All roles below are semantic inferences from the supplied CSS/text evidence.
 
@@ -153,6 +157,13 @@ This is a recommended breakpoint structure, not measured site behavior:
 Touch targets for buttons and nav items should maintain a minimum 44px height (aligned with the observed `--shopify-accelerated-checkout-button-block-size: 44px` token). Mobile navigation is expected to collapse into a drawer given the long link list in the evidence, though this collapse behavior is proposed, not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

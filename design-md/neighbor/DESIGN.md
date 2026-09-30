@@ -4,6 +4,10 @@ name: "Neighbor"
 source_url: "https://www.neighbor.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The outdoor furniture category tends toward either suburban-catalog beige or overly industrial brutalism — Neighbor splits the difference with a near-charcoal text system built on #313131, a dark that reads warmer than pure black on natural-light photography of concrete, teak, and woven fiber. The brand stakes its visual argument on product photography doing the heavy lifting: furniture shot in real outdoor living spaces, never isolated on white, so the UI's job is to recede. Type runs in the system stack — -apple-system, BlinkMacSystemFont, 'Helvetica Neue' — which is not a budget compromise but a deliberate choice that keeps load fast and lets photography lead rather than a branded typeface. Rounded corners sit at a restrained `{rounded.sm}` to `{rounded.md}` register — nothing too pill-shaped, nothing too sharp — matching the brand's positioning between boutique and accessible. The canvas is a warm near-white rather than pure #ffffff, softening the contrast against outdoor photography that skews toward bright natural light. Primary actions use a dark button (inheriting from the #313131 brand ink) with white text, giving CTAs authority without introducing a distracting accent hue that would compete with the lifestyle imagery. Navigation is minimal — the brand name sits at far left, a spare text link set at mid-weight, and a cart icon at right — trusting the product grid to carry the page rather than category mega-menus. An important caveat: the live site was protected by Cloudflare at extraction time ("Just a moment..."), so the full palette, custom type scale, and actual hex values beyond #313131 could not be reliably pulled. The tokens below represent a best-inference reconstruction from the single extracted color plus widely-known brand positioning; treat them as a starting scaffold and validate against the live design system before shipping.
 
@@ -375,6 +379,13 @@ components:
 - Hero text block: full-viewport on mobile with reduced type scale; left-constrained on tablet and above
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

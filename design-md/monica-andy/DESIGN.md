@@ -4,6 +4,10 @@ name: "Monica + Andy"
 source_url: "https://monicaandandy.com"
 captured_at: "2026-09-28T09:20:51.849974+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The evidence shows a warm, muted neutral system anchored by ash (#414042) and near-black
   ink (#292425), set against snow-white and soft slate/oat backgrounds. A wide accent set of
@@ -173,6 +177,10 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should meet a 44px minimum; the observed 42px button height is close but should be padded on touch devices. Mega-menu collapse into an accordion/drawer pattern below 1024px is proposed given the taxonomy depth in the evidence, not confirmed by any responsive CSS supplied.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is built from static CSS custom properties, isolated selector rules, and page text only; no rendered layout, computed styles, or interaction states (hover/open menu/cart drawer) were observed. Corner radius values are not evidenced anywhere in the supplied CSS and are therefore fully proposed defaults. Display typography (new-spirit, ivybodoni, cofo-raffine, rafaella) is listed in the font-family evidence but its selector bindings, weights, and actual usage context are unknown — role assignment to headings is inferred, not confirmed. Letter-spacing on caption/button tokens is estimated from a single `.02em` rule applied at 16px and may not generalize. Mobile menu structure, breakpoint values, and grid column counts are proposed conventions, not measured. Font licensing/availability for Akkurat LL Web/Sub and any display serif is not verified; fallback to system sans-serif/serif is assumed. Color-to-role mapping (e.g., which pastel maps to which product category) is inferred from typical nursery-retail conventions, not from confirmed component-level CSS.

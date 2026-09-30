@@ -4,6 +4,10 @@ name: "Levoit"
 source_url: "https://levoit.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The four-step teal progression — #02454f, #005e6e, #006689, #00c1bc — is Levoit's visual grammar for filtered air: a depth chart that moves from ocean-bottom dark to bright surface shimmer without leaving the same hue family, the brand's way of rendering invisible air quality as color. Against this cool spectrum sits #f9d861, a single warm-yellow voltage used on sale badges and promotional moments — its rarity is its function, a directional pop in a grid of teal-dominant product cards. The warm beige at #dacebf surfaces only on lifestyle feature rows, where product photography needs a domestic ground tone rather than the clinical white that dominates the rest of the canvas.
 
@@ -399,6 +403,13 @@ components:
 - Feature badge chips on product cards wrap to two rows on mobile rather than truncating
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

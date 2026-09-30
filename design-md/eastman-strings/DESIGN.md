@@ -4,6 +4,10 @@ name: "Eastman Strings"
 source_url: "https://www.eastmanstrings.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, warm brown at #251f17 anchors the Eastman Strings identity — not a black, not a charcoal, but a near-ebony earth tone that reads as the color of aged rosin, varnished fingerboards, and the shadow inside a violin case. Against this sits a muted sage-gray #7f9299 (the meta theme-color, pulled from the live site) that appears in secondary text, decorative borders, and the brand’s quiet secondary palette — a color that evokes the patina of old brass tuning pegs and the soft light of a practice room. The canvas is a warm off-white #fbfaf8, not a cold digital white, and it’s paired with a pale stone #d4d0ca for card surfaces and muted backgrounds. A single accent of amber #a26300 — the color of aged shellac and maple neck wood — appears sparingly in hover states and decorative underlines. The typography stack is unexpectedly technical: monospace fonts (Consolas, Courier, Roboto Mono) dominate the extracted declarations, suggesting a brand that treats instrument specifications, serial numbers, and build details as primary content. Headlines likely sit in a serif or a heavier sans, but the body and data layer lean into the precision of monospaced type — a design choice that reads as workshop documentation rather than lifestyle copy. Corners are soft but not pill-like: `{rounded.md}` on cards, `{rounded.sm}` on buttons, with the only `{rounded.full}` reserved for badge indicators and instrument-family icons. The overall mood is that of a luthier’s notebook — warm, precise, material-focused, with a color palette drawn from wood, metal, and shellac rather than from digital convention.
 
@@ -445,6 +449,13 @@ components:
 - **Wide (> 1440px):** No collapse. Content is centered within a 1440px max-width container. Additional whitespace appears on the sides.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Wiha"
 source_url: "https://wihatools.com"
 captured_at: "2026-09-28T09:18:28.779318+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Wiha's storefront evidence shows a utilitarian, high-contrast palette built around near-black text (#282828) on a white (#ffffff) canvas, with a saturated red (#d20024) used consistently across sale and promotional badges and a mid-tone blue (#0e72b5) reserved for "new tool" and "web exclusive" callouts. A mustard yellow (#fabb00) marks Pro-Picks promotions and a deep navy (#1e316a) flags stock-up sales, giving the badge system a clear semantic hierarchy that this interpretation preserves and extends into primary/secondary action colors. Body-copy grays (#333333, #444444, #666666, #5d6971) and light neutrals (#f4f6f8, #f9f9f9, #ebeded, #dddddd) suggest a restrained, catalog-dense UI built for professional tool shopping rather than lifestyle imagery. No proprietary webfont was detected in the supplied evidence; the CSS references system sans-serif stacks (Helvetica Neue, Helvetica, Arial) and monospace stacks (Consolas, Menlo, Courier New), which this spec adopts directly rather than inventing a brand typeface. The heading scale (58/42/38/32/22/16px) and body sizes (22/20/18px) come from the site's own CSS custom properties. Component treatments below (badges, product cards, spec tables) are inferred from label class names and are proposed interaction/layout patterns for a professional tool e-commerce experience, not verified visual or interactive observations.
 
@@ -163,6 +167,13 @@ This is a recommendation, not measured site behavior, since no breakpoint-specif
 Touch targets should be at least 44–46px tall, aligning with the observed `--button-height: 46px`. Mega-menu collapse into an accordion drawer on mobile is proposed, not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

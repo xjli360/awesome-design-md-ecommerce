@@ -4,6 +4,10 @@ name: "Earth Breeze"
 source_url: "https://earthbreeze.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The first signal that Earth Breeze isn't a conventional detergent brand is its canvas: #fffef9, not clinical white but a warm, faintly creamy ground that suggests afternoon light through unbleached linen. Against that surface, two pastel tones share equal billing as co-accent hues — powder blue (#aec9e3) and rose blush (#e0a6bc) — a pairing more likely on a botanical-print candle than a cleaning-product shelf, and the central design argument that household essentials can feel like a wellness purchase. Deep navy (#113988) anchors every primary CTA and trust-building surface, the one hard-contrast element in an otherwise unhurried palette; a brighter sky tone (#74d1f6) flickers through illustrations and lifestyle imagery, while dusty mauve (#d6c1c8) wraps certification badges and secondary labels. BRSonoma, a contemporary geometric-humanist sans-serif, carries all type at weights that read as confident without urgency — display heads sit at 500–600, not the heavy 700+ common in discount-driven e-commerce, and body copy runs at 400 in generous 1.55–1.6 line-heights that make eco-certification copy feel readable rather than obligatory. Earth Breeze's core product — flat laundry sheets shipped in a slim paperboard sleeve — shapes the UI rhythm: layouts are unhurried, cards use soft rounding ({rounded.md}), and whitespace is treated as breathing room rather than waste. Certification claims — plastic-free, B Corp, carbon-neutral — appear throughout the page in cloud-blue or petal-toned chips ({colors.cloud}, {colors.petal}), with all-caps 11px labels at wide tracking, signaling credentials without overwhelming the purchase moment. Scent and variant selectors use a pill format ({rounded.full}) in surface-soft, shifting to navy fill on selection. Subscription-first positioning surfaces toggle components near the add-to-cart module, reflecting a revenue model that prizes repeat commitment over one-time volume.
 
@@ -340,6 +344,13 @@ components:
 - Impact counter stats reflow from four-across to two-by-two grid at tablet and single column at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

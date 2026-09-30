@@ -4,6 +4,10 @@ name: "Troubadour Goods"
 source_url: "https://troubadourgoods.com"
 captured_at: "2026-09-29T04:10:34.440086+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Troubadour presents itself as a restrained, design-forward carry brand: matte
   neutrals, one warm gold accent, and a mix of a humanist sans (Inter) for
@@ -161,6 +165,11 @@ Recommended, not measured — no breakpoint or viewport CSS was present in the s
 Touch targets should be at least 44×44px for buttons and nav items; the mono uppercase button label style should retain adequate horizontal padding (`{spacing.lg}`) at small sizes to preserve tap area. Mobile nav is expected to collapse into a drawer or overlay using `{colors.overlay}`, though this interaction was not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

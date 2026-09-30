@@ -4,6 +4,10 @@ name: "Ideal of Sweden"
 source_url: "https://www.idealofsweden.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A phone-case brand that uses a near-monochrome scaffold of #202020 and #111111 to frame a riot of product color — #8d1919, #ffc0ca, #e5bac1, #910048, #ed2939, #ac7d78, #ea9686, #ffff00, #bc002d, #00247d, #dd0300, #fae042, #c60c30, #ffce00, #ffc400, #c60b1e, #164194, #ffec00, #002395, #38485d, #9daf3f, #df2507 — a palette that reads less like a brand system and more like a global flag collection exploded across silicone and polycarbonate. The canvas is #f9f9f9, a warm near-white that softens the high-contrast product photography, while #e9e9e9 provides hairline separators and card borders. The brand's own typographic voice runs on Aspekta and owners — the latter appearing in three distinct cuts (owners, owners-wide, owners-xwide) with `!important` declarations that suggest a hard-won battle for brand typography against Shopify's default stack. Buttons use {rounded.sm} corners, while product imagery and hero sections lean into {rounded.lg} to {rounded.xl} radii that echo the curved edges of the cases themselves. The site reads as a gallery first, store second: generous whitespace, a persistent top nav with a centered logo, and product cards that let the case color do all the emotional work.
 
@@ -403,6 +407,13 @@ components:
 - Search bar transitions from inline nav element to full-width below the nav on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Bob's Watches"
 source_url: "https://www.bobswatches.com"
 captured_at: "2026-09-28T04:14:15.320588+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Bob's Watches' available CSS surfaces a utilitarian Bootstrap-based system
   layered with a small set of brand-specific tokens. The clearest observed
@@ -166,6 +170,14 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be at least 44px, matching the observed `.closeSearchButton` dimensions (44px × 44px). Primary and secondary buttons should maintain a minimum 44px height on touch devices. Nav collapse into a hamburger/menu pattern below `md` is a proposed convention, not observed in the supplied markup.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

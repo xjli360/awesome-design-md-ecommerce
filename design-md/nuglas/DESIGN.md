@@ -4,6 +4,10 @@ name: "NuGlas"
 source_url: "https://www.nuglas.com.au"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every product NuGlas sells begins with optical clarity — 9H hardness tempered glass engineered to vanish onto a phone display — and the brand's digital identity follows that same zero-distraction logic: white canvas, soft neutral surfaces, and a single tech-blue primary that fires on CTAs without competing with device photography. The harder design challenge in screen protectors is SKU specificity: shoppers arrive knowing their exact phone model and need rapid confirmation of compatibility before committing. The layout architecture centers on this need — device filter strips appear persistently across category pages as make-model-generation lookups, a first-class interaction rather than a buried sidebar facet. Product cards carry dense functional metadata beneath clean hero shots: hardness rating badges, anti-fingerprint claims, edge-coverage indicators, and package counts rendered as small `{rounded.xs}` chips in `{colors.surface-badge}` sitting on a `{colors.surface-card}` background. Rounding is consistent but professional, landing at `{rounded.sm}` for cards and `{rounded.md}` for form inputs — approachable without softness that would undermine the technical positioning. Button language is direct and transactional: "Add to Cart", "Find My Device", "Shop iPhone 16 Cases". Trust signals — installation kit inclusion, lifetime replacement guarantees, and retail packaging callouts — cluster in the add-to-cart zone beneath price, reinforcing purchase confidence at the moment of highest intent. Type weights are modest; this brand does not rely on heavy display headlines, because the product name and device-model confirmation carry more conversion weight than editorial ambition. The footer likely carries compatibility tables and a model lookup tool, serving the shopper who arrives from a deep-linked device page. The palette, typeface stack, and exact spacing tokens could not be reliably extracted from the live site (JS-loaded tokens, possible headless build); all values below are category-informed estimates. Treat this file as a calibration-required scaffold pending access to live brand assets.
 
@@ -387,6 +391,13 @@ components:
 - Product card badge row truncates beyond three badges with a "+N more" overflow chip at mobile widths
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

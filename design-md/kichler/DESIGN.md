@@ -4,6 +4,10 @@ name: "Kichler"
 source_url: "https://www.kichler.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Warm brass against a field of near-white grays — Kichler's signature gold (#c9a861) doesn't merely accent the interface; it mirrors the physical finishes on their outdoor wall lanterns, pendant housings, and landscape spotlights. The extraction surface confirms what the product catalog implies: every canvas is a neutral stage (#f6f6f6, #f2f2f2) designed to make photographed fixtures read as they would on a job-site sample board. Color enters the system in two temperature registers. On the cool axis, a steel-blue mist (#96aeb7) and a faint sky wash (#eff9ff) carry informational callouts and collection-family headers; on the warm axis, the gold (#c9a861) drives active states, badge accents, and footer border-top strokes that tie the page closed. A high-saturation utility blue (#34a0e4) handles links and secondary CTAs — kept distinct from the gold so neither color cannibalizes the other. Flat dark near-black (#2d2d2d) grounds headings and the utility nav bar, echoing the matte-black and olde-bronze finishes in the product line.
 
@@ -380,6 +384,13 @@ components:
 - Hero CTA pair (primary + secondary) stacks vertically on mobile, full-width buttons
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

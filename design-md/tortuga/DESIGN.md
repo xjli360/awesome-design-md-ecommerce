@@ -4,6 +4,10 @@ name: "Tortuga"
 source_url: "https://tortugabackpacks.com"
 captured_at: "2026-09-28T10:07:51.398112+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Tortuga's evidence shows a restrained, editorial travel-gear palette anchored by a deep forest green (#01462b), confirmed as the brand's primary color through the Judge.me review-widget variables (--jdgm-primary-color, --jdgm-star-color, --jdgm-write-review-bg-color), all pointing to the same hex. Near-black (#1d2226) and true black (#000000) supply ink and high-contrast UI states, while a wide bank of near-white grays (#fcfcfc, #f7f7f7, #f8f7f6, #f4f4f4) suggests layered card and section surfaces rather than a single flat background. Hairline grays (#dddddd, #cccccc, #d9d9d9) imply subtle borders typical of a minimal e-commerce theme. A small set of warm/earth accents — brown (#79341b), gold (#e1c16e), red (#b32428), teal (#108474), and a high-visibility lime (#cdff00) — appear positioned for badges, sale flags, and "New" tags; their exact usage is inferred, not confirmed in layout. Typography draws on "Owners" (a licensed display family) for headings and "Nunito Sans" for body/UI text, with Arial/Helvetica/sans-serif as fallbacks; JudgemeIcons/JudgemeStar are third-party icon fonts, not brand type. Border-radius evidence (--jdgm-border-radius: 0) points to a squared, low-ornament aesthetic. This interpretation proposes a functional, trust-forward outdoor/travel UI built around that green, generous whitespace, and clear product/quiz-driven navigation.
 
@@ -155,6 +159,13 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets should be at least 44×44px for buttons and quiz CTAs (proposed, not verified). Navigation collapse behavior, menu animation, and mobile card stacking were not observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

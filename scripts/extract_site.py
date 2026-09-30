@@ -10,6 +10,7 @@ from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import urljoin, urlsplit
 from design_system import ROOT, atomic_write, normalize_url
+from css_values import declarations, color_literals, font_families
 
 UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/131.0 Safari/537.36'
 COLOR = re.compile(r'#([0-9a-fA-F]{8}|[0-9a-fA-F]{6}|[0-9a-fA-F]{4}|[0-9a-fA-F]{3})\b')
@@ -123,26 +124,18 @@ def capture(site, root=ROOT, page_override=None, style_overrides=None):
                 save(response,f'import-{len(seen)}.css');sources.append((css_url,response['body'][:1500000]))
     color_counts=Counter(); colors=defaultdict(list); fonts=defaultdict(list)
     for source,blob in sources:
-        blob=re.sub(r'/\*.*?\*/','',blob,flags=re.S)
-        for m in COLOR.finditer(blob):
-            value=norm_hex(m[0]);color_counts[value]+=1
-            if source not in colors[value]:colors[value].append(source)
-        for m in re.finditer(r'rgba?\(\s*(\d+)\s*[, ]\s*(\d+)\s*[, ]\s*(\d+)(?:\s*[,/]\s*([\d.]+))?\s*\)',blob,re.I):
-            rgb=[int(m[i]) for i in (1,2,3)]
-            if max(rgb)>255 or m[4] not in (None,'1','1.0'):continue
-            value='#'+''.join(f'{x:02x}' for x in rgb);color_counts[value]+=1
-            if source not in colors[value]:colors[value].append(source)
-        for match in FONT.finditer(blob):
-            stack=re.sub(r'\s*!important\s*$','',match[1].strip(),flags=re.I)
-            if 'var(' in stack:continue
-            for family in stack.split(','):
-                family=family.strip().strip('"\'').strip()
-                if family and len(family)<80 and family.lower() not in ('inherit','initial','unset','revert') and '$' not in family:
-                    if source not in fonts[family]:fonts[family].append(source)
-        for match in re.finditer(r'([^{}]{1,200})\{([^{}]{1,2000})\}',blob):
-            selector,decl=match.groups()
-            if re.search(r'body|button|h1|:root|\.btn|header|product',selector,re.I) and re.search(r'color\s*:|font-family\s*:|--[\w-]+\s*:',decl):
-                evidence['css_rules'].append(dict(source=source,selector=selector.strip()[:160],declarations=decl.strip()[:700]))
+        parts=parser.styles if source==page['final_url'] and blob=='\n'.join(parser.styles) else [blob]
+        for part in parts:
+            for selector,prop,value in declarations(part,inline='{' not in part):
+                if prop.startswith('--') and 'font' not in prop or any(x in prop for x in ('color','background','border','shadow','outline','fill','stroke')):
+                    for literal,color in color_literals(value):
+                        color_counts[color]+=1
+                        if source not in colors[color]:colors[color].append(source)
+                if prop=='font-family' or prop.startswith('--') and 'font' in prop and 'family' in prop:
+                    for family in font_families(value):
+                        if source not in fonts[family]:fonts[family].append(source)
+                if len(evidence['css_rules'])<30 and re.search(r'body|button|h1|:root|\.btn|header|product',selector,re.I) and ('color' in prop or 'font' in prop or prop.startswith('--')):
+                    evidence['css_rules'].append(dict(source=source,selector=selector[:160],declarations=(prop+': '+value)[:700]))
     # Retain every observed literal for validation, while the prompt selects a
     # bounded palette. Less frequent values may still appear in supplied rules.
     evidence['colors']={k:dict(count=color_counts[k],sources=colors[k]) for k,_ in color_counts.most_common()}

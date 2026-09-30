@@ -4,6 +4,10 @@ name: "Todd Merrill Studio"
 source_url: "https://toddmerrillstudio.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Electric violet (#720eec) lands in a palette that otherwise reads as gallery restraint — warm grays ascending from #eeeeee through #e4e4e4 to near-black #222222, surfaces tinted to barely-there lavender at #e9e6ed and the near-white #fcfbfe — and the contrast is not accidental. Todd Merrill Studio occupies the precise overlap between antique dealing and contemporary collecting: museum-quality mid-century American furniture, rare decorative arts, and new work from living designers, all presented in the flat, unembellished language of an institutional catalog. The digital environment inherits that register. Open Sans carries all text from display to caption, generally at weights that lean light rather than assertive — a 300-weight headline beneath a full-bleed object photograph trusts the photograph; the type is there to identify, not to persuade. Myriad Pro appears at display scale for exhibition titles and section headers, another sans-serif but with slightly more warmth in its proportions, a nod to the print catalogs the gallery has produced for decades. Letter-spacing opens wide on uppercase labels (0.08em on captions, 0.1em on section headers) so the institutional-signage convention reads through even at small sizes. The violet surfaces selectively on primary calls-to-action, focus rings on form fields, and the thin active underline in the nav. Nowhere does it appear as decoration or fill. Its supporting tints — lavender #e9e6ed used for category badges, faint #fcfbfe for metadata areas — carry the violet hue at a remove so the palette reads coordinated rather than accidental. A secondary crimson at #b81c23 flags condition notes and sold indicators, the same signal color museum conservators use for caution labels, immediately understood without explanation. All radii default to zero: contemporary art galleries do not round their corners. Frames are rectangular, pedestals are square, grid lines are strict. Buttons, inputs, dropdowns, and cards sit at `{rounded.none}` throughout. Spacing is generous and consistent; object images breathe inside wide margins, inquiry forms are set in low-contrast neutral panels so they do not compete with the merchandise. The overall architecture is a very precise neutral field interrupted at exactly one point by a decision in violet.
 
@@ -346,6 +350,13 @@ components:
 - Footer: 5 columns → 2 columns at tablet → single stacked column at mobile; column headings become disclosure toggles on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

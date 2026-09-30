@@ -4,6 +4,10 @@ name: "Kreafunk"
 source_url: "https://www.kreafunk.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Dusty rose (#c88282) as a meta theme-color is an uncommon bet for an audio brand — most competitors default to matte black or electric blue. Kreafunk leans into it, letting this warm, muted pink anchor primary CTAs, active navigation underlines, and promotional overlays while a shock of neon lime (#a3f234) punctuates sale badges, hover states, and seasonal campaign accents. The tension between those two tones — blush domesticity and rave-poster green — mirrors the product line itself: lifestyle speakers and earbuds that look like ceramic objets d'art until you notice the Bluetooth pairing LED. Body text in Barlow at 400-weight (#444444 over #f7f7f7 canvas) keeps the reading voice neutral and geometric, stepping aside so product photography — always shot on tonal backdrops that rhyme with the device colorway — does the editorial work. Display headlines climb to Barlow 700 with tight negative tracking, never exceeding 48px even on wide viewports; the brand prefers understated scale, letting generous whitespace (`{spacing.section}` = 64px between content blocks) create breathing room instead of typographic volume. Card corners sit at `{rounded.md}` (12px), soft enough to echo the pebble-smooth silhouettes of the hardware but not so round as to feel juvenile. The navigation bar is minimal: a wordmark left, utility icons right, and a translucent mega-menu that drops product categories as image tiles rather than text lists — the user shops visually, not taxonomically. Near-black ink (#121212) appears only in the sticky header and footer, framing the pastel interior the way a charcoal picture rail frames a gallery wall. Hairlines (#dedede) are used sparingly — between cart line-items and inside filter drawers — because the layout relies on spatial separation over ruled dividers. Overall, the system reads as a Scandinavian living-room edit: warm surfaces, disciplined type, and two deliberate jolts of color that prevent the whole thing from feeling beige.
 
@@ -503,6 +507,13 @@ components:
 - Announcement bar: single line at all widths; text truncates with ellipsis on narrow screens; auto-rotation pauses on touch
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

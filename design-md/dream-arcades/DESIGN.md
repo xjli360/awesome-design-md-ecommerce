@@ -4,6 +4,10 @@ name: "Dream Arcades"
 source_url: "https://dreamarcades.com"
 captured_at: "2026-09-29T04:03:41.707137+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Dream Arcades' stylesheet defines a dark, premium "luxury" theme built on CSS custom
   properties: a near-black canvas (#0a0a0a), white primary text (#ffffff), a muted
@@ -167,6 +171,13 @@ Proposed breakpoints (not measured from live site):
 Touch targets should be at least 44px, matching the generous `.btn` padding (1rem 2.5rem) already observed. Carousel prev/next controls ("< >") should have comparable tap targets on mobile. All figures are recommendations only; no responsive CSS or breakpoints were present in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

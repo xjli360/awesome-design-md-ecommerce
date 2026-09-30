@@ -4,6 +4,10 @@ name: "MOO"
 source_url: "https://www.moo.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The country-selector landing page immediately reveals something peculiar about MOO's design philosophy — even a purely functional routing screen gets the full brand treatment: rounded type, open whitespace, and a single `#00ac73` teal-green that pulses against a near-paper-white `#ecefed` canvas. That green, warmer than clinical mint and more saturated than sage, is MOO's chromatic signature: it appears wherever the interface needs to invite action, from primary CTAs to hover states, carrying the brand's argument that print-on-demand can feel joyful rather than transactional.
 
@@ -324,6 +328,13 @@ components:
 - Print preview panel: full-width at mobile, constrained to 50% of content column at desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

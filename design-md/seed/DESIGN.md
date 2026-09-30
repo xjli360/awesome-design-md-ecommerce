@@ -4,6 +4,10 @@ name: "Seed"
 source_url: "https://seed.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A single hex — #313131 — governs the entire Seed experience, a dark, almost-black ink that reads as deliberate restraint rather than accident. The brand sells live bacteria for the gut, but the interface never reaches for the probiotic pastels or earthy greens that wellness competitors default to; instead it lays a monochrome foundation where science photography — petri dishes, capsules, microscope imagery — provides the only color. The site loads behind a Cloudflare challenge page ("Just a moment..."), which means the extracted palette is thin, but what remains is a system built on high-contrast typography against white canvas, with no rounded corners softer than {rounded.sm} and no decorative gradients. Seed’s voice is clinical but warm: body copy runs at 16px in system-ui stacks, captions at 13px, and the primary action — typically "Add to Cart" or "Learn More" — sits inside a #313131 pill with white text, a button that feels more like a seal than a call to action. The brand trusts its product shots and ingredient diagrams to carry emotional weight; the UI stays out of the way, using hairline-thin borders ({colors.hairline}) and generous vertical spacing ({spacing.section}) to create a reading rhythm closer to a scientific journal than a DTC storefront. There is no secondary accent color — no teal, no amber, no rose — which makes the rare appearance of a product image or clinical illustration feel like a deliberate reveal. The typography stack is pure system default: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, with Apple Color Emoji and Noto Color Emoji appended for symbol support. This is a brand that refuses to perform friendliness; it performs authority instead.
 
@@ -425,6 +429,13 @@ components:
 - Hero sections reduce headline size and stack CTA buttons vertically at < 744px.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

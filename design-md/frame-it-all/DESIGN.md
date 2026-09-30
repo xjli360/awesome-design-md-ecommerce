@@ -4,6 +4,10 @@ name: "Frame It All"
 source_url: "https://frameitall.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Two lime-greens so close in hue they're nearly twins — #8fc746 and #8dc744 — sit at the top of Frame It All's extracted palette, yet neither is the true brand anchor. That role belongs to #024520, a near-black forest green that covers the header, primary CTAs, and logo lockup. The arrangement reads like a canopy: deep shade at the structure, then a band of bright mid-leaf for interactive states, then warm cedar brown (#4f3b2a) grounding the whole system in the material of the actual product. The palette earns credibility by mirroring what customers are building with.
 
@@ -315,6 +319,13 @@ components:
 - Footer four-column layout collapses to stacked accordion sections with expand/collapse per group
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

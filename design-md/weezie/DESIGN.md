@@ -4,6 +4,10 @@ name: "Weezie"
 source_url: "https://weezietowels.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Weezie is a bath-and-lifestyle brand that wraps the ritual of toweling in quiet luxury and personal expression. The palette is anchored by a deep navy ink (`#14334c`) that reads as both nautical and residential — it appears on primary buttons, navigation bars, and monogrammed embroidery, giving every interaction a sense of weight and permanence. Against this, the canvas is a warm off-white (`#f3f3f3`) rather than a sterile pure white, softened further by surface cards in `#dedede` and muted hairlines in `#333333`. Accents arrive as restrained punches: a coral `#ff8f77` for sale badges and highlight tags, a crisp `#334fb4` for secondary CTAs, and a pale sky `#a7cfe9` that surfaces in illustrations and seasonal palettes. The typography system is deliberately eclectic — Apercu (in regular, bold, light, and medium weights) carries body and UI copy with a clean, slightly condensed European feel, while display headlines and monogram lockups use the serifed warmth of Clearface or the hand-drawn charm of Birdie and Blue Vinyl. Rounded corners are generous but not cartoonish: buttons use `{rounded.sm}` (8px), product cards use `{rounded.md}` (12px), and the signature search bar uses `{rounded.full}` (pill shape). The brand trusts negative space, low-contrast text hierarchies, and the tactile promise of thick cotton over aggressive marketing noise — every component feels like it belongs in a calm, well-edited bathroom.
 
@@ -372,6 +376,13 @@ components:
 - Product filters collapse to a bottom sheet on mobile, with a "Filter" button trigger
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

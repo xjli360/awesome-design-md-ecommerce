@@ -4,6 +4,10 @@ name: "Wonder Workshop"
 source_url: "https://www.makewonder.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Dash and Dot — the round, expressive robots at the center of this brand — are both the product and the visual grammar. The five colors children use to program their robot's LED lights recur as systematic UI tokens throughout the site: coral `#fa5252` drives every primary action, electric green `#4bce61` signals completion and go-states, warm orange `#f26a21` marks creative prompts, cyan `#00acd7` carries informational surfaces, and purple `#8c5aca` flags advanced curriculum pathways. This five-color vocabulary means the retail experience and the play experience share the same perceptual language — a child who has learned to read green as "go" on the robot encounters the same green on the site's success states. Deep navy `#122246` anchors the palette as ink and hero background, giving weight to what could otherwise read as purely juvenile. Against it, the coral `#fa5252` primary CTA achieves maximum contrast, a deliberate accessibility choice for primary-grade visual acuity ranges.
 
@@ -381,6 +385,13 @@ components:
 - Curriculum cards remain single-column across all breakpoints (content density is intentional)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Potensic"
 source_url: "https://potensic.com"
 captured_at: "2026-09-28T04:25:50.506824+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The evidence reflects a Bootstrap-derived utility framework layered under a
   consumer-drone storefront, so the palette is broader than a single brand
@@ -170,6 +174,13 @@ This is a proposed breakpoint recommendation, not a measured observation of the 
 Touch targets should be at least 44×44px for buttons and nav items on small screens. Collapse the navigation into a drawer or accordion below `md`, and stack spec-table columns into label/value pairs below `sm`. None of this reflects confirmed media queries from the supplied CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 The supplied evidence is a static CSS/color extraction from a Bootstrap-based utility layer, not a rendered capture of Potensic's actual marketing pages — no hero, product-grid, or footer markup was directly observed. Semantic role assignments (primary accent, surface layering, hairline vs. divider) are inferred from class-name conventions (`.btn-primary`, `.btn-light`, etc.) rather than confirmed brand usage. All typography sizes, weights, letter-spacing, and line-heights beyond the base `body` rule (`font-size:1rem; line-height:1.5; color:#212529`) are proposed defaults. No custom or licensed display font was found in the evidence; only the system-font stack is confirmed, and its licensing is inherently system-level (no verification needed). Responsive breakpoints, mobile navigation behavior, hover/focus/active states, and any interaction patterns are proposed and not measured from live site behavior.

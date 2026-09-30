@@ -4,6 +4,10 @@ name: "Davies Office"
 source_url: "https://www.daviesoffice.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The 30-color extracted palette reads almost entirely as Bootstrap 3's semantic alert system — success greens (#3c763d, #dff0d8), warning ambers (#8a6d3b, #fcf8e3), danger reds (#a94442, #f2dede), info teals (#31708f, #d9edf7) — deployed not as decoration but as live product-status and availability signals across a dense B2B catalog. The brand's own voltage arrives in two blues that step outside Bootstrap's defaults: a deep corporate #0072cf sits as the true primary action color, while #00b4e0 lifts it as a lighter, more dynamic accent used in feature callouts and search interactions. Between these blues runs a charcoal-to-gray text system (#36373a ink, #777777 secondary, #9d9d9d hint) that keeps product data legible across dense specification tables. Open Sans carries all the work — weights 400 through 700 across sizes that prioritize scan-ability over display drama. The interface trusts function over personality: near-square-cornered cards, subdued borders (#eeeeee, #e5e5e5), and flat surfaces that step back behind product photography. The sustainability mandate from the page title surfaces in green badge states and category callouts rather than in decorative illustration. Components favor grid density over whitespace generosity — a horizontal nav with dropdown category mega-menus, filterable product grids with specification-heavy cards, and Bootstrap-inherited form controls built for quote requests and procurement workflows. The overall effect is a catalog-first workspace designed for office managers and facilities buyers who need confidence and specificity, not an emotional brand journey.
 
@@ -409,6 +413,13 @@ components:
 - Category tiles reflow from a 4- or 6-up grid to a 2-up grid on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

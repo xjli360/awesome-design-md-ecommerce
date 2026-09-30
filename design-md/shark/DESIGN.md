@@ -4,6 +4,10 @@ name: "Shark"
 source_url: "https://www.sharkclean.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep forest green (#33785d) and lavender (#cbc3e3) should not coexist in a vacuum brand's palette — yet together they index precisely on what SharkNinja is attempting: pulling household cleaning out of the hardware aisle and into a lifestyle register that sits somewhere between premium wellness and high-street tech. The near-white canvas (#f6f6f6) is the primary visual surface; sage (#bedccb) coats feature callout strips and bestseller badge chips; lavender (#cbc3e3) marks seasonal promotions and campaign modules; the forest green (#33785d) owns every primary action — add to cart, shop now, apply filter — creating a three-accent color grammar that doubles as implicit information architecture. No custom font stack was recoverable from the live site, pointing to a JS-loaded or self-hosted typeface; system sans-serif fills the typography tokens here until confirmed. The rounded corner register is moderate — 8px on buttons, 12px on cards, full-radius on filter and category pills — sitting between the hard utility of power-tool brands and the pillowy softness of beauty DTC. A 36px promotional strip in primary green runs above the 64px main header, keeping free-shipping thresholds and limited-time pricing permanently visible without interrupting navigation. Trust signals occupy their own between-section gray strip: "50 million sold," media endorsements, and efficiency award marks render at caption scale, readable without demanding attention. Product cards surface rating aggregates immediately and expose compare-mode via ghost buttons alongside primary CTAs — a layout suited to considered, multi-product purchases at $200–$600 appliance price points. The mega-nav organizes an unusually broad product taxonomy — vacuums, robots, hair tools, kitchen appliances, beauty devices — into product-family tabs, reflecting SharkNinja's parent-company breadth while keeping the Shark brand focused on cleaning authority.
 
@@ -400,6 +404,13 @@ components:
 - Trust bar logos reflow to a 2-row centered grid at mobile widths
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

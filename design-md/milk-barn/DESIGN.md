@@ -4,6 +4,10 @@ name: "Milk-Barn"
 source_url: "https://milkbarnkids.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Milk-Barn stakes its entire color bet on one hue: a cornflower-periwinkle (#334fb4) that reads closer to the blue in a child's first crayon set than to any corporate palette. It lands on every primary button, every navigational anchor, and every active state — a single color shouldering the expressive work that other baby brands distribute across multiple pastels. The remainder of the palette is almost entirely negative space: four near-whites (#efefef, #e0e0e0, #f6f6f6, #f7f7f7) so tonally close they read as a single luminous field rather than distinct tones, leaving product photography — printed swaddles, snap-front rompers, hand-embroidered onesies — to carry all visual weight.
 
@@ -360,6 +364,13 @@ components:
 - Announcement bar reduces font size from 13px to 12px below 375px and hides any secondary promotional line
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

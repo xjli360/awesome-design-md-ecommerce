@@ -4,6 +4,10 @@ name: "Fossil"
 source_url: "https://www.fossil.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The single charcoal extracted from fossil.com's live page — #313131 — does more load-bearing work than most brands ask of a solo neutral: it fills primary buttons, navigation rails, hero overlays, footer blocks, and dominant body text without variation. That monochromatic discipline is a deliberate posture. Fossil occupies the calibrated middle of the American watch market, positioned above fashion-forward impulse purchases yet well below luxury-threshold decisions, and the visual system reflects measured confidence rather than spectacle. White canvas (#ffffff) dominates product display, giving dial finishing, strap texture, and case geometry the full frame — the photography argues the value proposition so the interface doesn't have to. Type runs entirely on system stacks (no custom typeface was detected during extraction, likely due to Cloudflare bot-protection blocking JS-loaded tokens); the -apple-system / BlinkMacSystemFont / Roboto hierarchy keeps weights and metrics consistent across Windows, macOS, Android, and iOS without font-load overhead. Sizing leans generous: display headings at 48px with light 300-weight tracking, body at 16px with 1.6 line-height, keeping product descriptions readable alongside dense specification tables. An inferred gold-tan accent (#b8976a — see Known Gaps) echoes the warm metallics common in Fossil watch photography, though this was not confirmed in extraction. CTA hierarchy is sharp: one filled-charcoal primary action per viewport, with outline or ghost secondaries for paths like Save and Compare. Rounded corners sit at a modest {rounded.sm} on buttons and cards — just enough softness to avoid severity without drifting into the pill shapes common in athleisure and tech. The promo banner above the nav carries sale messaging in an inverted charcoal strip at 36px, a fixture across Fossil seasonal campaigns. Sharp-cornered badge chips in the same charcoal and a conventional retail red mark NEW and SALE states directly on product imagery with no decorative flourish. The register throughout is that of a clean American catalog: merchandise-forward, building purchase confidence through clarity.
 
@@ -357,6 +361,13 @@ components:
 - Footer collapses from 4-col to 2-col at tablet, 1-col stacked accordion at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

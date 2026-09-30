@@ -4,6 +4,10 @@ name: "Skagen"
 source_url: "https://www.skagen.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Skagen compresses its entire visual argument into a single contrast decision — charcoal #313131 pressed against an unbroken white field, every gram of interface chrome removed so the watch face fills the frame unopposed. The edit is thorough: no accent colors, no decorative gradients, no shadow lifting a card above its ground — the UI surface is negative space that makes product photography the only event on screen. Display type runs at weight 300 on hero headings, genuinely lightweight rather than marketing-lightweight, so the letterforms don't compete with the product; captions and labels retreat further still, tracking wider to hold legibility at low weights across a monochromatic field. The brand's only chromatic voltage comes from photography — warm brass cases against pale wrists, mesh bracelets catching studio light — which makes the interface deliberately recessive, never competing with the object it presents. Buttons use full charcoal fill rather than a distinctive brand color, making every CTA read as a stamped decision rather than a glowing affordance. Corners are sharp to near-sharp ({rounded.none} to {rounded.xs}), reinforcing the same formal vocabulary as the watch case edges themselves — no soft rounding anywhere, just the clean geometry of a manufactured object. Navigation is a single horizontal bar with no visual weight: white ground, fine hairline bottom rule, text-only links — it collapses into a hamburger at mobile without ceremony. Product cards show a square-cropped image, watch name in tracked uppercase, price in regular weight, with no border or shadow; the white canvas is the container. Spacing is generous and even: content bands breathe at {spacing.section}, card siblings at {spacing.xl}, so the catalog reads like a curated lookbook. The entire system is a study in suppression — trust the object, disappear the wrapper.
 
@@ -365,6 +369,13 @@ components:
 - Split-hero stacks image-above-copy at tablet and below, with copy block padding reduced to {spacing.lg}
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

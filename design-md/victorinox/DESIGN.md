@@ -4,6 +4,10 @@ name: "Victorinox"
 source_url: "https://victorinox.com"
 captured_at: "2026-09-28T04:34:39.541172+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is built from static CSS extraction of victorinox.com's Next.js bundles, not live rendering. Font families surface only as compiled local-font identifiers (__primary_de0095 and __secondary_ff92be plus their _Fallback variants), so the actual typeface names, weights available, and licensing are unverified; sizes, weights, and line-heights below are proposed unless a rule explicitly set them. The color evidence includes a strong red (#b10034) used near button/hover variable names, a near-black ink (#000000), warm neutral grays (#959499, #707070, #343434, #292929), light surfaces (#ffffff, #f2f2f2, #f0f0f0), hairline grays (#dadada, #aeaeae), and a large ramp of pink/magenta and gray tint steps likely reserved for imagery, promotional badges, or swatch UI rather than core brand chrome. A blue (#2299dd) and amber (#ffc107) appear but are treated as inferred utility/status colors given no confirming selector context. The design system below assumes a restrained, editorial luggage retailer aesthetic: dark ink text on white/light-gray surfaces, the red reserved for primary actions and brand accents, generous whitespace, and squared-to-soft rounded corners consistent with the near-zero border-radius reset observed on form controls.
 
@@ -131,6 +135,13 @@ The following breakpoints are a recommendation only; no responsive/mobile layout
 Touch targets should be at least 44×44px for buttons and nav items (proposed). Navigation is assumed to collapse into a hamburger/drawer pattern below tablet width; this has not been verified against actual markup or breakpoints in the site's CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived solely from static CSS/JS bundle extraction; no rendered page, DOM, or JavaScript-driven interaction was observed. Font family tokens (__primary_de0095, __secondary_ff92be) are Next.js compiled local-font identifiers — the underlying typeface design, weight availability, and licensing terms are unverified and must be confirmed against actual @font-face declarations before production use. Semantic color roles (primary action, footer background, badge/status colors) are inferred from typical retail-site conventions and variable-name context (e.g., `--color-primary`, `--color-white`) rather than confirmed visual screenshots. All typographic sizes, weights, and line-heights beyond generic resets are proposed placeholders, not measured values. Hover/active states for buttons are partially evidenced (white-fill/primary-text swap) but full interaction states, focus rings, and transitions are not observed. Mobile/responsive layout, breakpoint values, and navigation collapse behavior are entirely proposed and require validation against live rendering and design review.

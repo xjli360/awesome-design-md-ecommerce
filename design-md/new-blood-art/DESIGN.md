@@ -4,6 +4,10 @@ name: "New Blood Art"
 source_url: "https://newbloodart.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Didot 06 — the optical-size letterpress revival drawn for fine-print display — opens every artist page at New Blood Art as if the screen were a gallery proof sheet: high contrast, unhurried, insisting on the serif's ink traps even at 48px. Around it the rest of the site runs a strict two-temperature system. Near-black (#272727) ink on white canvas handles the everyday layer — prices, dimensions, edition counts — while a warm sandy accent (#dbac86), the color of raw linen or a manila envelope light-struck through a window, marks every moment of collector intent: add-to-basket buttons, featured-artist pull-quotes, price-on-request labels. Nothing else in the palette is warm. Light-gray hairlines (#dde0e3) divide filter panels from browse grids; a pale-gray surface (#f3f4f6) lifts artwork cards off the page without competing with the pigment on them. Gotham Narrow compresses the utilitarian layer — medium tags, size filters, edition type labels — into tight widths that surrender maximum horizontal space to the artwork itself. A deep gallery green (#194321), borrowed from institution wall-paint rather than any digital convention, surfaces on sold confirmations and sustainability signals, lending those states the weight of physical consequence rather than a traffic-light readout. Corners are held close to straight — {rounded.sm} on cards, {rounded.xs} on badges and inputs — because the artworks supply all the organic irregularity the page needs. The browse experience is built around a persistent left filter rail (price range, medium, size, orientation, subject), reflecting an assumption that collectors arrive with a wall in mind rather than a vague desire to scroll. Artwork cards hover to reveal a frosted quick-view overlay with a sandy "Add to Cart" CTA at {rounded.xs}, keeping aggression low. The overall register is that of a well-designed contemporary-art fair catalogue: serif authority for the names, compressed geometric sans for the data, and one warm temperature accent that says — without urgency — that you can own this.
 
@@ -408,6 +412,13 @@ components:
 - Curator notes and newsletter section span full width at all breakpoints; internal padding scales with breakpoint
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

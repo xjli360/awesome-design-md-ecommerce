@@ -4,6 +4,10 @@ name: "Daphine"
 source_url: "https://www.daphine.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every chain and signet ring in the Daphine collection is photographed against bare skin — a deliberate choice that anchors the entire visual system to body warmth rather than studio white. The brand's palette consequence is inevitable: canvas reads as near-white ivory ({colors.canvas} #FEFDF8), gold CTAs draw from actual 18k warmth (#B8935A) rather than the saturated amber that cheaper jewelry brands use to telegraph luxury. Type is set in a refined serif — Cormorant Garamond or a close equivalent — at lightweight grades that let the letterforms breathe; display headings arrive at 14–16px letter-spacing to produce the elongated rhythm of a French maison logotype, not a fast-fashion banner. Buttons are nearly square-cornered ({rounded.xs} at 3px), a choice that reads as precision rather than severity against the warmth of the gold palette. Product cards carry no shadow and no border — they sit on the surface ({colors.surface-soft}) separated only by generous white margins, trusting the jewelry photography to hold attention without chrome. Navigation is a single horizontal line of widely-spaced uppercase labels in the smallest caption grade: the brand communicates hierarchy through spatial pause, not size escalation. A persistent cart icon and a discreet hamburger for mobile are the only structural chrome. The editorial layer — lookbook sections and founder-voice copy — runs flush to the viewport edge on desktop, with a centered text column capped at 560px to maintain the intimacy of a printed editorial. Gold foil details, monogram packaging, and the brand's recurring motif of an open signet oval all point toward an identity rooted in heirloom gesture: something owned for decades, not a season.
 
@@ -354,6 +358,13 @@ components:
 - Footer four-column grid stacks to two columns at tablet, single column at mobile with accordion-collapsed link sections
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

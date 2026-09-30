@@ -4,6 +4,10 @@ name: "Bernd Goeckler"
 source_url: "https://www.bgoecklerantiques.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep forest green (#116600) pressed against warm parchment (#e8e6de) is the visual argument Bernd Goeckler Antiques makes before a single object is shown — an unusual chromatic pairing that reads less like a retail color system and more like the interior of a well-appointed cabinet: hunting-lodge green meeting aged linen. The blush rose (#eeaacc) surfaces as a tertiary accent, the kind of dusty pink one finds in French Empire porcelain or faded chinoiserie wallpaper, never loud, always contextually exact. The canvas tone (#fafafa) is barely-white — warm enough to keep the antiquarian mood without going cream — while the ground neutrals stack from near-black (#222222) through charcoal (#343434) and mid-gray (#5c5c5c) to soft (#9e9e9e), a graduated ink wash rather than a hard contrast stack. Typography is the more telling signal: classicobold and classicoregular coexist with Josefin Sans and neutraface-light, a deliberate layering of geometric sans and serif-adjacent display cuts that suggests a house with distinct zones — specimen labels in one register, auction-house headers in another. Button and form elements use Josefin Sans at tracked uppercase, carrying an Art Deco drafting-room formality. Barlow handles longform descriptions at comfortable reading weight. Rounded corners throughout lean toward the hard end — `{rounded.xs}` and `{rounded.sm}` dominate; there are no pill shapes here, only the squared precision of a frame-maker's edge. Spacing is generous: individual object pages breathe at `{spacing.section}` vertical rhythm, letting photography (presumably studio-lit on neutral ground) do the persuasion. The overall grammar is low-volume, high-specificity — the digital equivalent of a quietly lit gallery on the upper east side where objects speak without labels and prices are disclosed on inquiry.
 
@@ -386,6 +390,14 @@ components:
 - Footer navigation collapses to four labelled accordion groups on mobile to prevent wall-of-links presentation
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

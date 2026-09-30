@@ -4,6 +4,10 @@ name: "Postery"
 source_url: "https://www.postery.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   TTRamillas — a high-contrast editorial serif almost never seen outside print catalogs — appears at the product-card level, not only in the hero, which tells you that Postery treats every purchase as an encounter with typography as much as image. Against near-white (#f7f7f8) and cloud-white (#f3f4f6) canvas surfaces, the midnight-navy primary (#00112c) reads less like a call-to-action color and more like the ink of a limited-edition print run: concentrated, deliberate, and used sparingly. Navigation runs in Moderat, a geometric sans set at 14px with zero letter-spacing inflation — legible without asserting itself over the poster images that command the grid. Filters and product selectors use {rounded.none} chips with a hairline border (#dbdee2) that flip to solid #00112c on activation, a binary toggle free of visual ceremony; that same principle extends to primary buttons, which carry no border-radius and rely on the color's weight alone. The editorial logic reaches the footer, which inverts fully to midnight navy, turning what is usually a typographic afterthought into the visual anchor of the page. Product cards sit in a strict 2:3 portrait ratio mirroring standard poster proportions, so the grid functions as a wall of hung art rather than a retail shelf. Sale callouts reach for #e22d2d; in-stock confirmation draws on #3f6b47 forest green; star ratings appear in #f5a623 amber — three punctuation marks in an otherwise controlled palette. The color field holds its restraint so the posters, photographed flat against white, do all the chromatic work. Frame and size selectors are inline controls rather than modal drawers, keeping configuration compact and non-disruptive. The entire system behaves like a gallery catalog that happens to support adding items to a cart.
 
@@ -381,6 +385,13 @@ components:
 - Hero image moves above text on mobile; image aspect ratio shifts from 3:2 landscape crop to square
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

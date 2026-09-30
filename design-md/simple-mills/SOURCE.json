@@ -54,13 +54,6 @@
     }
   ],
   "colors": {
-    "#663333": {
-      "count": 7,
-      "sources": [
-        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
-        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=global&v=1-30-24"
-      ]
-    },
     "#ffd14100": {
       "count": 2,
       "sources": [
@@ -76,12 +69,23 @@
     "#ffffff": {
       "count": 2,
       "sources": [
-        "https://simplemills.com/",
-        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+        "https://simplemills.com/"
+      ]
+    },
+    "#f7ce3f": {
+      "count": 1,
+      "sources": [
+        "https://simplemills.com/"
       ]
     },
     "#ffd141": {
       "count": 2,
+      "sources": [
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+      ]
+    },
+    "#86412b": {
+      "count": 1,
       "sources": [
         "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
       ]
@@ -98,6 +102,18 @@
         "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
       ]
     },
+    "#663333": {
+      "count": 7,
+      "sources": [
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+      ]
+    },
+    "#83412c": {
+      "count": 1,
+      "sources": [
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+      ]
+    },
     "#333333": {
       "count": 2,
       "sources": [
@@ -109,70 +125,22 @@
       "sources": [
         "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
       ]
-    },
-    "#502c1e": {
-      "count": 1,
-      "sources": [
-        "https://simplemills.com/"
-      ]
-    },
-    "#f7ce3f": {
-      "count": 1,
-      "sources": [
-        "https://simplemills.com/"
-      ]
-    },
-    "#86412b": {
-      "count": 1,
-      "sources": [
-        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
-      ]
-    },
-    "#83412c": {
-      "count": 1,
-      "sources": [
-        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
-      ]
     }
   },
   "font_families": {
-    "Archer A": [
-      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
-      "https://simplemills.com/App_Themes/SimpleMillsMaster/Fonts/763040/AADEE983B3308D2E0.css"
-    ],
-    "Archer B": [
-      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
-      "https://simplemills.com/App_Themes/SimpleMillsMaster/Fonts/763040/AADEE983B3308D2E0.css"
-    ],
     "Braisetto-Bold": [
-      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
-      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=MyFontsWebfontsKit.css"
-    ],
-    "CooperMdBTWXX-Medium": [
-      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
-      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=global&v=1-30-24",
-      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=MyFontsWebfontsKit.css"
-    ],
-    "Gotham A": [
-      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
-      "https://simplemills.com/App_Themes/SimpleMillsMaster/Fonts/763040/AADEE983B3308D2E0.css"
-    ],
-    "Gotham B": [
-      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
-      "https://simplemills.com/App_Themes/SimpleMillsMaster/Fonts/763040/AADEE983B3308D2E0.css"
-    ],
-    "TTNormsPro-Medium": [
-      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=MyFontsWebfontsKit.css"
-    ],
-    "TTNormsPro-Regular": [
-      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
-      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=global&v=1-30-24",
-      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=MyFontsWebfontsKit.css"
-    ],
-    "gotham a": [
       "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
     ],
-    "gotham b": [
+    "Gotham A": [
+      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+    ],
+    "Gotham B": [
+      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+    ],
+    "CooperMdBTWXX-Medium": [
+      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+    ],
+    "TTNormsPro-Regular": [
       "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
     ]
   },
@@ -219,18 +187,19 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Simple Mills - Home",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-300",
   "tokens": {
     "colors.primary": {
+      "value": "#663333",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
-        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=global&v=1-30-24"
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
       ]
     },
     "colors.ink": {
+      "value": "#333333",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -238,14 +207,15 @@
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://simplemills.com/",
-        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+        "https://simplemills.com/"
       ]
     },
     "colors.body": {
+      "value": "#333333",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -253,6 +223,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#86412a",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -260,6 +231,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#86412b",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -267,6 +239,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#f2d058",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -274,22 +247,23 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://simplemills.com/",
-        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+        "https://simplemills.com/"
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://simplemills.com/",
-        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+        "https://simplemills.com/"
       ]
     },
     "colors.accent": {
+      "value": "#f6ce3c",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -297,6 +271,7 @@
       ]
     },
     "colors.accent-alt": {
+      "value": "#f7ce3f",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -304,6 +279,7 @@
       ]
     },
     "colors.accent-dark": {
+      "value": "#83412c",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -311,6 +287,7 @@
       ]
     },
     "colors.highlight": {
+      "value": "#ffd141",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -318,6 +295,7 @@
       ]
     },
     "colors.ink-strong": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -325,6 +303,7 @@
       ]
     },
     "colors.overlay-transparent": {
+      "value": "#ffd14100",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -332,110 +311,392 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "Braisetto-Bold, serif",
+        "fontSize": "75pt",
+        "fontWeight": 400,
+        "lineHeight": "77px",
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "Braisetto-Bold, serif",
+        "fontSize": "36px",
+        "fontWeight": 400,
+        "lineHeight": 1.15,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "CooperMdBTWXX-Medium, serif",
+        "fontSize": "28px",
+        "fontWeight": 500,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "TTNormsPro-Regular, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "TTNormsPro-Regular, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Gotham A, Gotham B, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 500,
+        "lineHeight": "23px",
+        "letterSpacing": "0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "Gotham A, Gotham B, sans-serif",
+        "fontSize": "13pt",
+        "fontWeight": 500,
+        "lineHeight": "34px",
+        "letterSpacing": "0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "borderBottom": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "headlineColor": "{colors.accent}",
+        "headlineAccentColor": "{colors.primary}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.recipe-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "titleTypography": "{typography.title-md}",
+        "captionTypography": "{typography.caption}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.highlight}",
+        "textColor": "{colors.ink-strong}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.xs} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#ffd14100": {
+        "selector": ".u-userLauncherColor:not([disabled])",
+        "property": "background-color",
+        "declaration": "#ffd14100",
+        "url": "https://simplemills.com/",
+        "snapshot": "homepage.html",
+        "sha256": "0fd52e7e1eac5504cc933f78a3ec0a8779d5cfa9192bf1d97a77365c26083486"
+      },
+      "#f2d058": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#F2D058",
+        "url": "https://simplemills.com/",
+        "snapshot": "homepage.html",
+        "sha256": "0fd52e7e1eac5504cc933f78a3ec0a8779d5cfa9192bf1d97a77365c26083486"
+      },
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://simplemills.com/",
+        "snapshot": "homepage.html",
+        "sha256": "0fd52e7e1eac5504cc933f78a3ec0a8779d5cfa9192bf1d97a77365c26083486"
+      },
+      "#f7ce3f": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#f7ce3f",
+        "url": "https://simplemills.com/",
+        "snapshot": "homepage.html",
+        "sha256": "0fd52e7e1eac5504cc933f78a3ec0a8779d5cfa9192bf1d97a77365c26083486"
+      },
+      "#ffd141": {
+        "selector": ".banner_shownow_btn",
+        "property": "background-color",
+        "declaration": "#ffd141",
+        "url": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9da67a190bbe5d094da62335c75d40e2941e6320fd4c22419510917a9f0008eb"
+      },
+      "#86412b": {
+        "selector": ".banner_shownow_btn",
+        "property": "color",
+        "declaration": "#86412b",
+        "url": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9da67a190bbe5d094da62335c75d40e2941e6320fd4c22419510917a9f0008eb"
+      },
+      "#000000": {
+        "selector": ".Slider_section .text_slider",
+        "property": "color",
+        "declaration": "#000",
+        "url": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9da67a190bbe5d094da62335c75d40e2941e6320fd4c22419510917a9f0008eb"
+      },
+      "#f6ce3c": {
+        "selector": ".Slider_section h1",
+        "property": "color",
+        "declaration": "#f6ce3c",
+        "url": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9da67a190bbe5d094da62335c75d40e2941e6320fd4c22419510917a9f0008eb"
+      },
+      "#663333": {
+        "selector": ".Slider_section h1 span",
+        "property": "color",
+        "declaration": "#633",
+        "url": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9da67a190bbe5d094da62335c75d40e2941e6320fd4c22419510917a9f0008eb"
+      },
+      "#83412c": {
+        "selector": ".btn.callactoin:hover,.leave_comment button.btn.btn-default:hover",
+        "property": "background-color",
+        "declaration": "#83412c",
+        "url": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9da67a190bbe5d094da62335c75d40e2941e6320fd4c22419510917a9f0008eb"
+      },
+      "#333333": {
+        "selector": ".Slider_btn_call",
+        "property": "background-color",
+        "declaration": "#333",
+        "url": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9da67a190bbe5d094da62335c75d40e2941e6320fd4c22419510917a9f0008eb"
+      },
+      "#86412a": {
+        "selector": ".home_slider h3",
+        "property": "color",
+        "declaration": "#86412a",
+        "url": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9da67a190bbe5d094da62335c75d40e2941e6320fd4c22419510917a9f0008eb"
+      }
+    },
+    "font_families": {
+      "Braisetto-Bold": {
+        "selector": ".Slider_section h1",
+        "property": "font-family",
+        "declaration": "Braisetto-Bold",
+        "url": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9da67a190bbe5d094da62335c75d40e2941e6320fd4c22419510917a9f0008eb"
+      },
+      "Gotham A": {
+        "selector": ".Slider_section h1 span.tredmark",
+        "property": "font-family",
+        "declaration": "\"Gotham A\",\"Gotham B\"",
+        "url": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9da67a190bbe5d094da62335c75d40e2941e6320fd4c22419510917a9f0008eb"
+      },
+      "Gotham B": {
+        "selector": ".Slider_section h1 span.tredmark",
+        "property": "font-family",
+        "declaration": "\"Gotham A\",\"Gotham B\"",
+        "url": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9da67a190bbe5d094da62335c75d40e2941e6320fd4c22419510917a9f0008eb"
+      },
+      "CooperMdBTWXX-Medium": {
+        "selector": ".text_main_home_50 h3",
+        "property": "font-family",
+        "declaration": "\"CooperMdBTWXX-Medium\"",
+        "url": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9da67a190bbe5d094da62335c75d40e2941e6320fd4c22419510917a9f0008eb"
+      },
+      "TTNormsPro-Regular": {
+        "selector": ".text_main_home_50 p",
+        "property": "font-family",
+        "declaration": "\"TTNormsPro-Regular\"",
+        "url": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9da67a190bbe5d094da62335c75d40e2941e6320fd4c22419510917a9f0008eb"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

@@ -4,6 +4,10 @@ name: "Fangamer"
 source_url: "https://www.fangamer.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep navy canvas (#052f47) sets the stage for a riot of saturated accent colors — cherry red (#f32b27), electric pink (#d1007a), lime green (#70d800), and cyan (#81cce3) — that signal Fangamer's indie-game-merch identity with the visual energy of a convention hall floor. The site runs Montserrat Variable across all text, a geometric sans-serif that balances readability with a slightly playful, approachable character. Buttons and interactive elements lean into the brand's game-adjacent personality: primary CTAs use the signature red (#f32b27) with white text and {rounded.sm} corners, while secondary actions adopt the deep navy (#052f47) for a more grounded, trustworthy feel. Product cards float on white (#ffffff) canvases with subtle {rounded.md} corners and thin hairline borders (#dedede), letting the vibrant product photography — often featuring plush toys, enamel pins, and retro-style shirts — do the heavy lifting. The top navigation bar sits at 64px tall, using the navy background with white text, and collapses to a hamburger menu on mobile. Search is a full-width bar with {rounded.full} ends and a magnifying-glass icon in the brand red. The footer repeats the navy field with a grid of links in muted gray (#5897bf) and social icons in the brand's accent palette. Badges for "NEW", "SALE", or "EXCLUSIVE" appear as small pills in either red or lime green, using {rounded.full} and uppercase Montserrat at 10px. The overall mood is that of a lovingly curated indie game store — maximalist in color, minimalist in layout, with every accent color feeling earned by the merchandise it frames.
 
@@ -359,6 +363,13 @@ components:
 - Category filter strip becomes horizontally scrollable on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

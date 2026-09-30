@@ -4,6 +4,10 @@ name: "Flaus"
 source_url: "https://getflaus.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The flosser sitting on the bathroom counter is the entire argument — Flaus built a personal care brand around a single object designed to be too beautiful to put away. That object-first logic runs through every layer of the visual system: a mint-and-white palette that reads more like skincare than oral care, rounded edges that echo the product's soft-grip silhouette, and a typographic voice that speaks in declarative sentences rather than clinical benefit lists. The primary brand color, a vivid seafoam mint estimated at approximately #5BC8A4 (see Known Gaps), is deployed as a true signal color — it appears on primary CTAs, product accent bands, and hover states, never as wallpaper. White (#FFFFFF) does most of the spatial work, giving product photography the same clean void a cosmetics brand would use for a hero serum shot. Secondary surfaces step only slightly off white to a ghosted mint wash (#F4FAF8), keeping the overall register light and airy without flattening into sterile. Body text sits in near-black (#1A1A1A), and muted copy drops to a medium gray (#767676) — both neutral enough to never compete with the mint. Typography defaults to a geometric sans-serif in the humanist tradition: display sizes run large and confident at weight 600–700, while body copy relaxes to weight 400 at a comfortable 16–17px. Button labels carry a subtle uppercase tracking at small sizes to feel branded rather than default-browser. The `{rounded.xl}` radius on primary buttons and `{rounded.full}` pill shapes on badges and tags reinforce the same soft-edged product aesthetic — nothing in the UI has a hard, utilitarian corner. `{spacing.section}` gaps between homepage modules give the layout room to breathe in a way that justifies a premium price point without requiring a single line of copy to say "premium." The overall register is a DTC oral care brand that grew up wanting to be a beauty brand, and largely succeeded.
 
@@ -368,6 +372,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

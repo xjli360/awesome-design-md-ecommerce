@@ -4,6 +4,10 @@ name: "Tractive"
 source_url: "https://tractive.com"
 captured_at: "2026-09-28T09:54:17.823087+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is grounded in the Tractive marketing site's extracted CSS: a Poppins sans-serif
   typeface set at a medium (500) body weight, a deep navy-black ink (#121623) for text, a clean white
@@ -157,6 +161,13 @@ components:
 Recommended breakpoints (not measured, inferred from the site's `--breakpoint-*` custom properties): `sm` 640px, `md` 768px, `lg` 1024px, `xl` 1280px. Below `md`, the nav-bar should collapse into a hamburger/menu-drawer pattern and the tracker-configurator should stack selector and price vertically. Touch targets for buttons and icon-buttons should maintain a minimum 44×44px hit area regardless of the visually smaller `1.5rem` icon-button box observed in CSS. Section vertical padding should scale down using the smaller `--margin-section`/`--wide-section-padding` values (1.25rem–2.5rem) captured at narrower breakpoints, expanding to the larger set (3.5rem/5rem) at `lg`+. This section is a recommendation only; no actual responsive/mobile layout was observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS custom properties, a limited rule sample, and page text, not a rendered or interactive audit. The split between `ink` (headings) and `body` (paragraph) colors is an inferred semantic distinction; both may resolve to the same `#121623` in production. Which of the many extracted hues (green, purple, tan, lime) map to specific UI roles (ratings, promo banners, category tags) versus incidental photography/background colors is uncertained and treated as accent-only. Rounded corner values other than the confirmed pill (`9999px`) button radius are proposed, not observed. All spacing tokens beyond the captured gutter/margin-section rem values are conventional approximations. No hover, focus, active, error, or mobile-menu states were observed beyond the two documented button/link hover rules. Font availability, licensing, and whether Poppins is self-hosted or a Google Fonts embed were not verified. No component screenshots or DOM structure were available to confirm actual card, nav, or footer markup.

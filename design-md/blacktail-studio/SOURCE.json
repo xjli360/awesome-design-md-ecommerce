@@ -38,13 +38,6 @@
     }
   ],
   "colors": {
-    "#000000": {
-      "count": 28,
-      "sources": [
-        "https://www.blacktailstudio.com/",
-        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css"
-      ]
-    },
     "#b72e00": {
       "count": 14,
       "sources": [
@@ -54,12 +47,11 @@
     "#ffffff": {
       "count": 7,
       "sources": [
-        "https://www.blacktailstudio.com/",
-        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css"
+        "https://www.blacktailstudio.com/"
       ]
     },
-    "#f6774c": {
-      "count": 6,
+    "#000000": {
+      "count": 28,
       "sources": [
         "https://www.blacktailstudio.com/"
       ]
@@ -68,12 +60,6 @@
       "count": 5,
       "sources": [
         "https://www.blacktailstudio.com/"
-      ]
-    },
-    "#333333": {
-      "count": 2,
-      "sources": [
-        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css"
       ]
     },
     "#f15723": {
@@ -88,8 +74,20 @@
         "https://www.blacktailstudio.com/"
       ]
     },
+    "#f6774c": {
+      "count": 6,
+      "sources": [
+        "https://www.blacktailstudio.com/"
+      ]
+    },
     "#222222": {
       "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css"
+      ]
+    },
+    "#333333": {
+      "count": 2,
       "sources": [
         "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css"
       ]
@@ -128,10 +126,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Custom Woodworking, Tutorials, Epoxy Resin Workshops - Blacktail Studio",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-300",
   "tokens": {
     "colors.primary": {
+      "value": "#b72e00",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -139,22 +138,23 @@
       ]
     },
     "colors.ink": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.blacktailstudio.com/",
-        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css"
+        "https://www.blacktailstudio.com/"
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.blacktailstudio.com/",
-        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css"
+        "https://www.blacktailstudio.com/"
       ]
     },
     "colors.body": {
+      "value": "#333333",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -162,6 +162,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#333333",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -169,6 +170,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#e7ebee",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -176,6 +178,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#e7ebee",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -183,22 +186,23 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.blacktailstudio.com/",
-        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css"
+        "https://www.blacktailstudio.com/"
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.blacktailstudio.com/",
-        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css"
+        "https://www.blacktailstudio.com/"
       ]
     },
     "colors.accent-orange": {
+      "value": "#f15723",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -206,6 +210,7 @@
       ]
     },
     "colors.accent-warm": {
+      "value": "#f6774c",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -213,6 +218,7 @@
       ]
     },
     "colors.accent-coral": {
+      "value": "#e04b4b",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -220,6 +226,7 @@
       ]
     },
     "colors.surface-dark": {
+      "value": "#222222",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -227,110 +234,334 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "EB Garamond, serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "EB Garamond, serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "EB Garamond, serif",
+        "fontSize": "22px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "EB Garamond, serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "EB Garamond, serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "EB Garamond, serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "EB Garamond, serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1,
+        "letterSpacing": "0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "border": "1px solid {colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderBottom": "1px solid {colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "typography": "{typography.body-sm}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-dark}",
+        "textColor": "{colors.canvas}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.surface-dark}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.workshop-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "borderTop": "3px solid {colors.primary}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}",
+        "typography": "{typography.title-md}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#b72e00": {
+        "selector": "#block-yui_3_17_2_1_1786054943723_115090\na:hover",
+        "property": "background-color",
+        "declaration": "#b72e00",
+        "url": "https://www.blacktailstudio.com/",
+        "snapshot": "homepage.html",
+        "sha256": "02b8db9a869bcdc304af3308b9ef1a396179148e3cf11e3b66fcb7d40bdd37e8"
+      },
+      "#ffffff": {
+        "selector": "#block-yui_3_17_2_1_1709006341547_47895 h1",
+        "property": "color",
+        "declaration": "#FFFFFF",
+        "url": "https://www.blacktailstudio.com/",
+        "snapshot": "homepage.html",
+        "sha256": "02b8db9a869bcdc304af3308b9ef1a396179148e3cf11e3b66fcb7d40bdd37e8"
+      },
+      "#000000": {
+        "selector": "#block-yui_3_17_2_1_1708999824110_191442,#block-yui_3_17_2_1_1708999824110_188229,#block-yui_3_17_2_1_1708999824110_163118,#block-d7d8263701b736c8028c,#block-yui_3_17_2_1_1653440452993_58366,#block-yui_3_17_2_1_1653358600493_205011, #block-yui_3_17_2_1_1653358600493_345622,#block-yui_3_17_2_1_165335",
+        "property": "background-color",
+        "declaration": "#000000",
+        "url": "https://www.blacktailstudio.com/",
+        "snapshot": "homepage.html",
+        "sha256": "02b8db9a869bcdc304af3308b9ef1a396179148e3cf11e3b66fcb7d40bdd37e8"
+      },
+      "#e04b4b": {
+        "selector": "#block-yui_3_17_2_1_1672527261197_25144 a:hover",
+        "property": "background-color",
+        "declaration": "#e04b4b",
+        "url": "https://www.blacktailstudio.com/",
+        "snapshot": "homepage.html",
+        "sha256": "02b8db9a869bcdc304af3308b9ef1a396179148e3cf11e3b66fcb7d40bdd37e8"
+      },
+      "#f15723": {
+        "selector": "#block-yui_3_17_2_1_1710857600945_86670 a, #block-yui_3_17_2_1_1786054943723_115090 a, #block-yui_3_17_2_1_1708999824110_9669 a, #block-yui_3_17_2_1_1701215228385_22008 a, #block-yui_3_17_2_1_1708999824110_21326 a, #block-yui_3_17_2_1_1708999824110_24283 a, #block-yui_3_17_2_1_1708999824110_20574 a,",
+        "property": "background-color",
+        "declaration": "#f15723",
+        "url": "https://www.blacktailstudio.com/",
+        "snapshot": "homepage.html",
+        "sha256": "02b8db9a869bcdc304af3308b9ef1a396179148e3cf11e3b66fcb7d40bdd37e8"
+      },
+      "#e7ebee": {
+        "selector": "#block-yui_3_17_2_1_1653358600493_1864,#block-yui_3_17_2_1_1653358600493_3333,#block-yui_3_17_2_1_1653358600493_9880,#block-yui_3_17_2_1_1653358600493_7741,#block-yui_3_17_2_1_1653358600493_10705,#block-yui_3_17_2_1_1653358600493_8880",
+        "property": "background-color",
+        "declaration": "#e7ebee",
+        "url": "https://www.blacktailstudio.com/",
+        "snapshot": "homepage.html",
+        "sha256": "02b8db9a869bcdc304af3308b9ef1a396179148e3cf11e3b66fcb7d40bdd37e8"
+      },
+      "#f6774c": {
+        "selector": "#block-yui_3_17_2_1_1701215228385_22008 a:hover",
+        "property": "background-color",
+        "declaration": "#f6774c",
+        "url": "https://www.blacktailstudio.com/",
+        "snapshot": "homepage.html",
+        "sha256": "02b8db9a869bcdc304af3308b9ef1a396179148e3cf11e3b66fcb7d40bdd37e8"
+      },
+      "#222222": {
+        "selector": ".sqs-block[data-definition-name=\"website.components.summary\"] .summary-product-status .product-mark",
+        "property": "background",
+        "declaration": "#222",
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "04074d2ca704a6f1dab02ef607a2a23548cdc1be12c242d03d09c9a133383e87"
+      },
+      "#333333": {
+        "selector": ".sqs-block[data-definition-name=\"website.components.summary\"] .summary-thumbnail-event-date-month",
+        "property": "color",
+        "declaration": "#333",
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "04074d2ca704a6f1dab02ef607a2a23548cdc1be12c242d03d09c9a133383e87"
+      }
+    },
+    "font_families": {
+      "EB Garamond": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"EB Garamond\"",
+        "url": "https://www.blacktailstudio.com/",
+        "snapshot": "homepage.html",
+        "sha256": "02b8db9a869bcdc304af3308b9ef1a396179148e3cf11e3b66fcb7d40bdd37e8"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

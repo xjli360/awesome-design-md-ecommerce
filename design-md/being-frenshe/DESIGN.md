@@ -4,6 +4,10 @@ name: "Being Frenshe"
 source_url: "https://www.beingfrenshe.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A bath-and-body brand that wraps itself in a deep, almost-black ink (#121212) and a single electric blue accent (#146ff8) that feels more like a charged promise than a corporate logo. The palette is deliberately sparse — near-black, warm gray (#dedede), soft canvas (#f3f3f3), and two darker anchors (#242833, #334fb4) — leaving the products themselves to supply all the color. Assistant, set at a clean 16px with generous line-height, carries the entire typographic system without a second face; the brand trusts weight and size alone to create hierarchy. Buttons are pill-shaped (`{rounded.full}`) in that signature blue, sitting on a white or near-white canvas that reads as a clean bathroom shelf. The nav bar stays transparent until scroll, then snaps to white with a thin hairline — a small but deliberate reveal that signals the brand knows when to step back. Product photography is the real palette: amber bottles, sage-green caps, rose-gold pumps. The design system is a frame, not a filter.
 
@@ -274,6 +278,14 @@ components:
 - Search bar shrinks from full-width to icon-only on mobile, expanding on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Eero"
 source_url: "https://eero.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Eero’s interface is a study in controlled contrast — a deep near-black ink (#0e0f0f) against a cool white canvas (#f7f7f7), punctuated by a single electric-blue anchor (#2668ff) that appears only where action is required. The brand trusts its hardware to do the talking; the UI stays out of the way, using generous negative space and a restrained type palette built on Centra No2 — a geometric sans-serif with a slight humanist warmth that keeps the experience from feeling cold or technical. Buttons are softly rounded (`{rounded.sm}` ~8px), never pill-shaped, and the primary CTA carries that blue voltage without gradient or shadow — flat, confident, direct. Error states and promotional accents introduce a coral-red (#e80a2a) and a muted sage-green (#00b086), but these are sparingly deployed, like indicator lights on a router. The navigation bar is a thin, transparent strip with minimal chrome — no heavy drop shadows, no sticky gradients — just a clean line of type and a subtle hairline (#e0e0e0) separating it from the hero. Product cards use a soft surface (#ffffff) with a rounded corner (`{rounded.md}` ~12px) and a thin border (#d8d8d8), creating a floating-card system that feels modular and expandable. The overall mood is one of quiet competence: the interface doesn’t perform, it facilitates. Every pixel is in service of the message that your network is stable, secure, and simple.
 
@@ -457,6 +461,13 @@ components:
 - Search bar: On mobile, the search bar may collapse to an icon that expands on tap.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

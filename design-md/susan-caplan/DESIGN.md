@@ -4,6 +4,10 @@ name: "Susan Caplan"
 source_url: "https://www.susancaplan.co.uk"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Archive-catalog gray — a tonal stack running from #f5f5f5 through #dfdfdf to #bbbbbb — wraps every Susan Caplan product page like acid-free tissue, a deliberate restraint that cedes all visual authority to signed vintage pieces by Chanel, Dior, and Miriam Haskell. Against this studied pallor, lacquer-bright #ff2626 lands with the force of a price sticker in a Portobello Road stall: it activates every primary CTA, every SALE flag, every Add to Bag moment. Warm #f49a13 amber plays second voltage for discount markers and promotional banners, giving sale events a jeweller's warmth rather than a supermarket blare. Gill Sans — the quintessentially British humanist face that has lettered Underground signs and Penguin paperback spines for nearly a century — carries display headings and collection titles; Cabin handles subheadings and button labels; Lato provides the utilitarian workhorse at body scale. The system runs hard corners throughout — {rounded.none} on primary buttons, product cards, and input fields — a formal archival posture that deliberately distances the site from the rounded-edge warmth of fast-fashion contemporaries. Navigation is disciplined: a single-row bar in {colors.canvas} with uppercase-tracked category links and no mega-menu theatrics, trusting that collectors know what they are looking for. Photography sits on near-white ({colors.surface-soft}) fields without lifestyle staging; each brooch, clip earring, and parure is treated as a collectible object to be examined rather than an accessory to be coveted. An announcement bar in {colors.ink} anchors every page with shipping thresholds, its white-on-near-black the only high-contrast moment the layout permits outside of CTA buttons. The dark footer mirrors that inversion — ink ground, muted link labels — completing a site that reads as auction-house catalogue rather than high-street scroll.
 
@@ -356,6 +360,13 @@ components:
 - Filter row: sidebar or inline row on desktop → horizontally scrollable chip strip on mobile, with a floating "Filter" button to open a drawer
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

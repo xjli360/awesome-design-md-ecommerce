@@ -4,6 +4,10 @@ name: "Farer"
 source_url: "https://www.farer.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The deep navy at #021a30 — closer to an ink-soaked sea chart than a corporate blue — anchors every primary surface and CTA on Farer's site, creating a presence that reads as resolved rather than merely restrained. The brand formats its tagline as a technical equation: "British Design x Swiss Made," using a multiplication operator rather than a conjunction, signaling a methodology rather than a marketing pairing. FoundersGrotesk carries all typographic work across the site, its geometric skeleton and open counterforms providing clean-room legibility that steps out of the way of dial photography. Color on the UI side runs deliberately cold and narrow — near-whites at #f4f4f4, #f3f3f3, and #f1f1f1, off-grays at #dedede and #dfdfdf, a muted blue-gray at #374757 for secondary interface surfaces — a neutral viewing chamber that refuses to compete with the coral, teal, and bicolor dials it frames. Corners are consistently sharp; the design vocabulary trusts the rectangle the way a case maker trusts a straight edge, and no decorative radius softens CTAs or product cards into approachability. Product imagery takes full priority within card bounds, with series names and reference codes rendered in uppercase tracking labels below rather than layered over the image. Navigation renders in {colors.ink} on {colors.canvas}, with {colors.primary} reserved for active states and CTA surfaces, so the single color capable of weight always signals actionability. Specification tables on product pages use {typography.label-upper} keys in {colors.muted} against {typography.body-md} values in {colors.ink}, adopting the register of a technical data sheet rather than marketing copy. The swatch selector is where Farer's suppressed color finally surfaces in the UI — coral, slate, olive, cream dial swatches set in {rounded.full} circles against an otherwise monochrome interface. Vertical section rhythm is expansive; pages carry product-dense grids but minimal prose, letting the object itself make the argument.
 
@@ -312,6 +316,13 @@ components:
 - Footer columns stack vertically on mobile; column headings in `{typography.label-upper}` act as accordion triggers to expand and collapse link lists
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

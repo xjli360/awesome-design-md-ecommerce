@@ -4,6 +4,10 @@ name: "RapidX"
 source_url: "https://www.rapidx.io"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Electric yellow (#f5e900) hits the eye before the product does — a voltage flash across a pitch-dark canvas (#121212) that turns every hero banner into a caution stripe for the fast lane. RapidX builds its entire visual identity on that tension between a near-black ground and a single screaming accent, a palette borrowed from motorsport liveries and pit-lane signage rather than the safe navy-and-white playbook most accessory brands default to. Red (#d40000) enters only as urgency: sale callouts, low-stock warnings, and destructive-action states — never competing with the yellow for brand ownership. Body copy sits on a white (#ffffff) surface in product grids, but the brand's emotional center lives in dark-mode hero sections where `{colors.primary}` glows against `{colors.ink}`. Buttons are pill-shaped (`{rounded.full}`) with high-contrast yellow fills on dark backgrounds, creating thumb-sized beacons on mobile. Product cards use a subtle `{rounded.sm}` radius and sit on `{colors.surface-card}` with thin `{colors.hairline}` borders — understated containers that let device photography dominate. Typography leans on a geometric sans-serif stack at relatively heavy weights for headings (700–800) and medium (500) for interface labels, producing a technical-catalog density without decorative serifs or humanist curves. Spacing is tight within cards (`{spacing.md}`) but generous between sections (`{spacing.section}`), creating a rhythm that mimics scrolling through spec sheets punctuated by full-bleed lifestyle shots. The overall impression is speed-obsessed utility: fast chargers, fast reads, zero ornament that doesn't earn its pixels.
 
@@ -341,6 +345,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Keychron"
 source_url: "https://www.keychron.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A mechanical keyboard brand that uses a distinctive teal-green (#108474) as its primary voltage — an unusual choice for a tech-hardware company that signals precision without the cold blue of gaming peripherals or the black of enterprise IT. The site runs on a warm off-white canvas (#f9f9f9) with generous use of soft grays (#eeeeee, #e5e5e5, #dadada) for card backgrounds and section dividers, creating a calm, workshop-like atmosphere. A marigold accent (#fade20) appears sparingly — on sale badges, highlight tags, and the occasional CTA — adding a pop of energy that reads as "deal alert" rather than brand identity. The typography stack is DM Sans at display sizes (clean, geometric, approachable) with Montserrat and Roboto as fallbacks, set at moderate weights (400-600) that let the product photography of aluminum cases and RGB keycaps do the heavy lifting. Product cards use soft corners ({rounded.md} ~12px) with thin hairline borders (#e1e1e1), while buttons and badges are more rounded ({rounded.lg} ~20px) to feel tactile and inviting. The nav bar is a fixed white strip with a subtle bottom hairline, and the search bar sits as a pill-shaped input with a green accent border. The overall mood is "enthusiast workshop" — clean enough for productivity, warm enough for hobbyists, with the green acting as a constant visual anchor across category pages, product detail, and cart.
 
@@ -386,6 +390,13 @@ components:
 - Image galleries collapse from thumbnail strip to swipeable dots on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Genesee Scientific"
 source_url: "https://www.geneseesci.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The lime jolt of #78be20 sits where most lab-supply brands would reach for a cautious navy or a clinical white — Genesee Scientific deploys it on primary CTAs, stock-available badges, and callout highlights as a signal that science can move with urgency and still look sharp doing it. Against a deep aqua-teal (#016e9f) and a near-black carrying barely perceptible violet undertones (#110011), the palette reads less like a hospital anteroom and more like a researcher who color-codes every tube rack in the cabinet. The canvas is white, but the brand never settles into the default sterility of competitor catalogs; the lime accent creates hard visual hierarchy wherever it lands, routing attention to transactional moments without needing large type or aggressive layout.
 
@@ -417,6 +421,13 @@ components:
 - Nav-top-bar is hidden on mobile; account and cart icons are promoted into the main nav bar at the same 64px height
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Monte Design"
 source_url: "https://montedesign.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A nursery and home furniture brand that builds its visual identity around three grays — `#dedede`, `#747474`, and `#121212` — creating a restrained, architectural atmosphere that lets the furniture's natural wood tones and soft curves take center stage. The brand uses Chap, a refined serif typeface with elegant bracketed serifs and moderate contrast, as its sole declared font family, giving product names and category headers a quiet editorial dignity. The palette is deliberately minimal: a warm light gray (`#dedede`) serves as the primary canvas and secondary surface, the mid-tone (`#747474`) handles body text and muted elements, and near-black (`#121212`) anchors headlines and primary ink. There are no bright accent colors — no nursery pastels, no brand red — which is an unusual and confident choice for a children's furniture brand. The design system trusts materiality and photography over color: the grain of solid wood, the drape of upholstery, the softness of rounded corners on crib rails and dresser edges. Buttons and interactive elements use the same gray palette, with `{rounded.sm}` corners that echo the furniture's gentle geometry. The overall effect is that of a design studio's lookbook — quiet, premium, and completely uninterested in the typical nursery-brand playbook of pastel gradients and whimsical icons.
 
@@ -449,6 +453,13 @@ components:
 - Section padding reduces by 40% on mobile (80px → 48px → 32px)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

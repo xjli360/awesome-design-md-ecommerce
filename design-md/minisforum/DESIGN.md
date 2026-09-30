@@ -4,6 +4,10 @@ name: "Minisforum"
 source_url: "https://store.minisforum.com"
 captured_at: "2026-09-29T04:08:42.703834+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Minisforum's storefront evidence shows a cool, technical e-commerce palette built on near-black text (#000000, #1a1a1a, #1d1d1f) over white and off-white canvases (#ffffff, #fafafa, #f5f5f5), with a saturated blue (#133ee3) driving the review-widget accent, links, and likely primary actions. Secondary reds (#d7002a, #ff4d4f) mark discount tags and "save" pricing, while a muted gray family (#333333, #6e6e73, #999999, #cccccc) carries body copy, captions, and disabled states. Thin hairlines (#e6e6e6, #e7e9ed) separate cards and panels typical of a dense specs-driven catalog (Mini PCs, Workstations, NAS, Motherboards).
 
@@ -169,6 +173,12 @@ Recommended, not measured:
 Touch targets should be at least 44px; the 80px header height observed suggests generous top-nav spacing already accommodates this. Mobile nav collapse and drawer behavior are proposed, not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Wolf"
 source_url: "https://www.subzero-wolf.com/wolf"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep violet anchors the digital presence of a brand known for open flame — #5b5378 washes across hero overlays and navigation states, an unexpected chromatic signature for a company that builds professional-grade ranges. The palette layers a family of purple-blacks (#494260, #2d293c, #524b6c) behind a single searing red (#af272e) reserved for CTAs and the iconic W medallion, creating a hierarchy where color itself performs the role of temperature: cool, controlled surfaces against a single hot point of ignition. Typography loads Museo Sans across ExtraLight through Medium weights, leaning heavily on the lighter cuts for display and headline text — a deliberate restraint that lets product photography (brushed stainless, cast-iron grates, dual-stacked burners) carry the visual mass. Body text in #4c4d4f at 16px holds neutral ground on a near-white #f7f7f7 canvas, while a teal accent (#00393b) occasionally surfaces in category navigation and specification callouts. Cards and product tiles sit on #ffffff surfaces with `{rounded.xs}` corners — barely perceptible softening that echoes the machined precision of Wolf's hardware bezels rather than friendly consumer roundness. Spacing runs generous at `{spacing.section}` between content blocks, giving each appliance hero room to breathe as if it were a gallery installation. The grid maxes at 1440px with comfortable 48px gutters, reinforcing the brand's position: these are instruments, not gadgets, and the interface frames them accordingly. A secondary lime-green (#c4d600) appears in sustainability and efficiency badges, while a warm amber (#da9735) marks promotional callouts — both used sparingly enough to feel editorial rather than decorative.
 
@@ -454,6 +458,13 @@ components:
 - Footer columns collapse into expandable accordion sections with `{typography.nav-category}` headers
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

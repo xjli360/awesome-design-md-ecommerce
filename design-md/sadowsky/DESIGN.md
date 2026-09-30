@@ -4,6 +4,10 @@ name: "Sadowsky"
 source_url: "https://www.sadowsky.com"
 captured_at: "2026-09-28T09:33:02.642454+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Sadowsky.com is a WordPress-built catalog site for Roger Sadowsky's NYC
   custom bass and guitar shop. The supplied palette is large but mostly
@@ -160,6 +164,13 @@ Recommended, not measured, breakpoints:
 Touch targets for buttons and nav items should be at least 44x44px. Given the deep menu hierarchy (Basses > NYC Custom > model variants, etc.), mobile navigation should collapse into an accordion or drill-down pattern rather than flyout submenus. This section is a UX recommendation only; no actual responsive CSS or breakpoints were present in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This interpretation is built from static CSS/text extraction only; no rendered layout, computed styles, hover/focus/active states, or real breakpoints were observed. The bulk of the supplied color palette (WordPress default block-editor swatches, social-brand hexes such as Facebook/Twitter/LinkedIn blues, and page-builder plugin preset variables like `postx_preset_*`) could not be confirmed as intentional Sadowsky brand colors and were largely excluded from the token set in favor of the few hexes tied to actual theme CSS rules (#313131 body text, #32373c buttons, #eeeeee/#ffffff neutrals). Font usage is only confirmed for Lato in body copy; other listed families (Alfa Slab One, Philosopher, arsenalregular, cuprumregular, Font Awesome sets) appear in the evidence but their applied role (headings, icons, or unused theme defaults) is unverified. All sizing, spacing, radius, and component-state values beyond the button radius/fill and body font metrics are proposed conventions, not measurements. Licensing/availability of any non-system font referenced has not been verified.

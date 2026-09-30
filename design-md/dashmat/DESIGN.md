@@ -4,6 +4,10 @@ name: "DashMat"
 source_url: "https://dashmat.com"
 captured_at: "2026-09-29T04:21:56.926545+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is built from CSS and content captured on Covercraft's own storefront category page (covercraft.com/c/dash-covers), which is the current parent-company presentation of the DashMat product line rather than an independent dashmat.com reconstruction. The evidence shows a utilitarian auto-parts commerce UI: Montserrat for product names and dialog headings, with Open Sans/Arial-family fallbacks implied for body copy. The palette is dominated by neutral grays and near-black text (#222222, #212529) on white, with a small set of blues (#0070f2, #167ac6, #1f7bc0) that most plausibly serve as link, primary-action, and info accents, and a red family (#c7000b, #db0002, #ff0000) plausibly reserved for alerts, sale badges, or destructive actions. Green (#38871f) and amber (#ffc107) appear as likely status/success and warning tones. All role assignments (primary vs. accent vs. status) are inferred from typical e-commerce conventions, not confirmed from DashMat-specific brand guidelines. Layout structure (grid columns, breakpoints, hover/focus states) is not observed in the supplied CSS and is proposed here as reasonable defaults for a fitment-driven vehicle-accessory catalog.
 
@@ -152,6 +156,13 @@ This table is a recommendation only; no live breakpoint or resize behavior was o
 Touch targets should be at least 44×44px for buttons and filter chips. Filter/category navigation is proposed to collapse into an accordion or drawer below tablet width. None of this collapse or touch behavior was measured on the live site.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

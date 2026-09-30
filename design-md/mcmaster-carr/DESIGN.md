@@ -4,6 +4,10 @@ name: "McMaster-Carr"
 source_url: "https://www.mcmaster.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   McMaster-Carr's forest-green nav bar (#336633) is one of the most recognizable surfaces in B2B e-commerce — unchanged in character for decades while the rest of the industrial web cycled through skeuomorphism, flat design, and dark mode in succession. The homepage presents no hero image, no promotional carousel, no lifestyle photography: a search bar, a category grid, and a green header. This compression is intentional. The user is an engineer with a part number, a purchasing agent with a deadline, or a maintenance tech with a broken machine — none of them came to browse. The design's job is to disappear. Palette authority is split between the primary forest green (#336633) and an industrial-link blue (#4499dd), with dark blue (#006699) anchoring hover and active link states. Safety-yellow (#fed700) is reserved for stock alerts and availability callouts; the three yellow shades from pale (#ffffb5) to saturated (#feec00) function as a caution-tape system — when yellow appears on McMaster's interface, something time-sensitive is being communicated. Alternating table rows oscillate between white canvas and #efefef with hairlines at #d6d6d6, building the visual rhythm that lets a buyer scan 200 product variants in seconds. Typography reaches for the engineering drawing board: DINNextLTPro-Medium carries navigation and UI chrome — DIN being the typeface literally designed for German industrial signage and engineering documentation — while FuturaLTPro-BoldCond handles condensed display headings with geometric authority, and HelveticaNeueeTextPro-Roman runs body and table text at 12–13px, tighter than consumer web norms because screen real estate serves data, not breathing room. Corner radii are nearly zero throughout — `{rounded.xs}` at 2px or flat `{rounded.none}` everywhere — and button heights at 32px and input heights at 26px reflect monitor-first design for warehouse offices and engineering workstations, not thumb-scroll ergonomics. The entire system encodes one proposition: get the right part into the right hands with zero friction, and everything else is overhead.
 
@@ -380,6 +384,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

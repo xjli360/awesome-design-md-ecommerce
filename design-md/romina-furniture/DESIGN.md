@@ -4,6 +4,10 @@ name: "Romina Furniture"
 source_url: "https://rominafurniture.com"
 captured_at: "2026-09-29T03:53:18.396904+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Romina Furniture's public site presents an heirloom-nursery-furniture brand: solid hardwood cribs and dressers made in Europe, positioned around safety certifications (Greenguard Gold, CPSC) and long-term durability. The captured palette is dominated by near-black and warm neutral text tones (#1a1a1a, #222222, #3a3a3a) against white and off-white surfaces (#ffffff, #f7f7f7, #eef1ee, #f4f7f5), which this spec treats as ink, body, canvas, and soft/card surface roles. A deep forest green family (#285649, #234b40, #104a3b, #2b7c66) recurs across the token set, including alpha-blended variants, and is interpreted here as the primary brand accent — fitting the brand's organic, Greenguard-certified positioning — though its literal on-page usage (buttons vs. text vs. background) is not confirmed by static extraction. A muted red (#d02e2e) and a blue (#2693cf) are reserved for alert/sale and link states respectively, both inferred. Typography is drawn from the observed font stack: Poppins for display/heading weight and Archivo for running text, both present in the site's font-family declarations; Avenir Next and Helvetica Neue are treated as system fallbacks. Heading sizes (72/60/48px) and a fluid `--font-*` scale are taken directly from `:root` custom properties; all other sizes are proposed extrapolations for a coherent scale.
 
@@ -144,6 +148,12 @@ This is a recommended breakpoint scheme, not measured site behavior — the evid
 Touch targets should be a minimum of 44×44px for swatches and nav items; the header mega-menu is expected to collapse into an accordion/drawer pattern on mobile, based on the "Expand menu / Hide menu" text pairs seen in the page copy, though the interaction mechanics themselves were not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered layout, computed styles, hover/focus states, or JavaScript-driven interactions were observed. Semantic color-role assignments (primary, accent, link, alert) are inferred from token frequency and naming context, not confirmed usage on live elements. Font sizes for body-md, body-sm, caption, and button-md are proposed approximations built from the `--font-*` scale variables rather than directly bound declarations. Letter-spacing values for display tokens are computed conversions from `em` to `px` and are approximate. Mobile menu behavior, cart-drawer interaction, finish-swatch UI, and carousel (Flickity) behavior are referenced in the markup/CSS but not visually verified. Availability and licensing of Poppins and Archivo for production use were not verified from this evidence.

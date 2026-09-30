@@ -4,6 +4,10 @@ name: "Bull Moose"
 source_url: "https://www.bullmoose.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A record store’s website that feels like a record store — not a sterile e‑commerce shell — Bull Moose uses a near‑white canvas (#eeeeee) as its primary surface, letting the album art, movie posters, and product photography supply all the color. The brand’s sole extracted hex is this soft off‑white, which reads as a deliberate, paper‑like ground rather than a cold digital white. The typography is where the personality lives: the display face is kanedagothic‑extrabold, a heavy, slightly condensed gothic that echoes vintage punk flyers and indie‑label logos, while body copy defaults to system sans‑serifs. Buttons and interactive elements use a generous {rounded.sm} (8px) radius — not pill‑shaped, not sharp — a middle ground that feels approachable without being cute. The top navigation is a simple horizontal strip, and the search bar sits prominently, often with a {rounded.full} pill shape, inviting browsing over hunting. There are no hero carousels or full‑bleed imagery; instead, the layout is a dense, browsable grid of product cards, each with a thumbnail, title, artist, and price — the visual language of a physical bin dive translated into a responsive column system. The brand trusts its inventory to do the talking: the design steps back, provides clear hierarchy through weight and spacing, and gets out of the way. It’s a utility‑first, personality‑through‑type system that prioritizes discoverability over polish.
 
@@ -360,6 +364,14 @@ components:
 - The search bar moves from the header to a dedicated, full-width row below the navigation on mobile and tablet.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Casper"
 source_url: "https://casper.com"
 captured_at: "2026-09-28T04:10:40.945444+00:00"
 evidence_status: "historical_partial_css_evidence"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A sleep-first brand that wraps its promise of better rest in a palette of deep, trustworthy blues and warm, accent-driven energy. The primary blue `#1e306e` reads like a midnight sky — confident, calm, and premium — while `#4e63df` adds a brighter, more electric secondary voltage for interactive moments. Accents of `#8533fc` (a vivid purple) and `#ffce33` (a warm, buttery yellow) punctuate the interface like bedside lamps or sunrise glints, preventing the navy-heavy system from feeling cold or corporate. The canvas is pure white `#ffffff`, with soft surfaces in `#dedede` and `#d5dae3` that keep the experience airy and approachable. Typography leans on Calibre for clean, modern body and button text, while the NewKansas family — in Medium, Regular, SemiBold, and Thin weights — brings a refined, editorial serif voice to display headlines and product titles. The system uses generous `{rounded.sm}` (8px) and `{rounded.md}` (12px) corners on cards and inputs, with `{rounded.full}` reserved for pill-shaped CTAs and search bars, echoing the soft, rounded geometry of a mattress edge. The overall mood is serene but not sleepy — a digital bedroom that feels both luxurious and accessible, where every `{colors.primary}` button and `{colors.ink}` text block is designed to guide you toward a purchase without urgency.
 
@@ -323,6 +327,13 @@ components:
 - Search bar moves from inline in nav (desktop) to a full-width element below the nav (mobile)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "The Bio Dude"
 source_url: "https://thebiodude.com"
 captured_at: "2026-09-28T10:13:20.724829+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The Bio Dude's storefront runs on a stock Shopify/Bootstrap-derived CSS bundle (apps.css), so most of the 60 supplied hex values are generic UI-state colors (Bootstrap's default success/info/warning/danger greens, blues, oranges and reds used for alerts and buttons) rather than confirmed brand marks. Within that set, a small cluster reads as brand-specific: a deep forest green (#017749) and a saturated leaf green (#4bd20f) align with the "bioactive/living habitat" positioning, while a warm orange (#f17a06) and an alert red (#ff1c32) suit promotional callouts like the "Spend $75" shipping banner and clearance tags. The confirmed body typography is a sans-serif stack (Helvetica Neue, Helvetica, Arial) at 14px/1.43 with #333 ink on a white canvas — this is the only text styling actually declared in the supplied CSS; all heading sizes, display scale, and component sizing below are proposed and inferred to fit a plant/terrarium-forward pet-supply catalog. Serif families (Georgia, Baskerville, Times) appear only as fallback stacks and are not treated as an intentional display face. Rounded corners of 16px are the one observed radius (chat widget); other radii are proposed for consistency.
 
@@ -152,6 +156,14 @@ Recommended, not measured, breakpoint table:
 Touch targets should be a minimum of 44×44px for nav items, quick-view buttons, and cart controls. The large category mega-menu implied by the navigation text should collapse to an accordion or drawer pattern below the tablet breakpoint. This table is a design recommendation only; no live responsive CSS or JS breakpoints were captured in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from a static, partial CSS/text extraction and does not reflect a rendered or interactive view of the site. The majority of supplied hex values originate from a generic Bootstrap-style vendor stylesheet (apps.css) and represent UI alert/button states rather than confirmed brand colors; the green/orange/red brand mapping above is an inferred interpretation, not a verified brand palette. Only the body font stack (Helvetica Neue/Helvetica/Arial) and 14px base size are confirmed by the supplied CSS; all heading sizes, the display scale, letter-spacing, and font-weights are proposed. The 16px radius is the sole observed corner value (chat widget); all other radii are proposed. No hover, focus, active, or error states, no mobile/responsive layout, and no actual product-card, hero, or nav markup were observed—these are inferred from page text and generic e-commerce convention. No custom or licensed font usage is confirmed, and no typeface licensing was verified.

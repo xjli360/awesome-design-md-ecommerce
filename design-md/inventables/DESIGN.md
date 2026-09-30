@@ -4,6 +4,10 @@ name: "Inventables"
 source_url: "https://www.inventables.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The amber voltage of #fea609 punches through near-black surfaces the way a laser trace glows across raw acrylic — and that contrast is the entire visual argument Inventables makes. Four near-identical dark backgrounds (#272929, #1a1d1d, #1d1d1d, #121212) serve distinct depth roles across the interface: the deepest pools anchor the global nav and footer, midrange darks carry product spec panels and feature callouts, and the amber family (#ffa400, #fea245, #ffb762) provides three tonal stops that handle hover states, pricing accents, and bundle badge highlights without introducing a second hue. Nothing here is accidental — the brand sells precision machines to people who think in thousandths of an inch, and the color system reflects that discipline.
 
@@ -355,6 +359,13 @@ components:
 - Hero text prose width caps at 600px on wide viewports; dark background extends full-bleed
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

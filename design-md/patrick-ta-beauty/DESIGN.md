@@ -4,6 +4,10 @@ name: "Patrick Ta Beauty"
 source_url: "https://patrickta.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Patrick Ta Beauty is a professional makeup brand that lives at the intersection of editorial glamour and everyday wearability, built on a canvas of soft, muted neutrals and punctuated by a signature sage green (#aaccaa) that feels both fresh and grounded. The brand's visual language is deliberately restrained — a palette of warm grays (#3a3a3a, #333333, #242424) and cool silvers (#e1e3e4, #c7c7c7, #cccccc, #dedede, #efefef) creates a sophisticated backdrop that lets product textures and the human face take center stage. A crisp accent blue (#1990c6) and its deeper active state (#136f99) provide the only real color voltage, used sparingly for interactive elements and wayfinding. The typography is clean and unassuming — Arial and Helvetica in standard weights — never competing with the photography, while generous whitespace and soft corners ({rounded.sm} for buttons, {rounded.md} for cards) keep the experience approachable. This is a brand that trusts its product shots and video content to do the heavy lifting, using the design system as a quiet, elegant frame rather than a loud voice.
 
@@ -430,6 +434,13 @@ components:
 - Search transitions from inline input to full-screen overlay on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

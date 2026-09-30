@@ -4,6 +4,10 @@ name: "Jacquie Aiche"
 source_url: "https://www.jacquieaiche.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every primary CTA glows in #ee9441 — an amber pulled directly from the hand-set citrines and warm yellow gold at the core of the Jacquie Aiche vocabulary. The color is not an arbitrary brand mark: it reads as molten metal before casting, an honest extraction from the jewelry photography that fills the canvas. Arizona, a bracketed serif with archival authority, carries editorial display heads; Diatype, a compact geometric sans-serif, runs body copy and UI chrome. The pairing produces a site that reads like a studio lookbook rather than a shopping interface — visual weight belongs to the imagery, not the chrome.
 
@@ -343,6 +347,13 @@ components:
 - Hero sub-copy hides on mobile viewports narrower than 375px to preserve headline impact
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Neural DSP"
 source_url: "https://www.neuraldsp.com"
 captured_at: "2026-09-28T04:42:17.291860+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Neural DSP's storefront presents a dark, studio-like surface built almost entirely from near-black tones (#121212, #101010, #0a0a0a, #161616, #1a1a1a, #1e1e1e) layered to separate hero, card, and section depth, with white and light-gray text (#ffffff, #dddddd) carrying body copy. The observed palette also contains a distinct set of saturated accents — green (#45f862), yellow (#ffd236), red (#ff2727/#f00a05), orange (#ff7000), and two blues (#3500f1, #1a3af8) plus an explicit swiper-theme blue (#007aff) tied to carousel controls in the stylesheet. These saturated hues most plausibly serve as status/badge accents (e.g. "bestseller," "compatible," "desktop only" tags visible in the page copy) rather than a single brand color; this mapping is inferred, not confirmed. This interpretation elects the green as the primary interactive accent for buttons and highlights, since it reads as the most CTA-appropriate hue against the dark canvas, while treating the swiper blue as a secondary/interactive-control accent. Typography is IBM Plex Sans (with monospace as a technical/spec fallback); all sizes below are proposed, as no computed type scale was captured. Layout, spacing, and component states are inferred design proposals appropriate to a plugin/hardware storefront, not measured observations.
 
@@ -152,6 +156,13 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets should be at least 44×44px for buttons and nav items; badges and inline tags can remain smaller since they are non-interactive. Primary/secondary buttons should stack full-width below tablet width.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

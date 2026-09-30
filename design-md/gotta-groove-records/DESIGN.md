@@ -4,6 +4,10 @@ name: "Gotta Groove Records"
 source_url: "https://www.gottagrooverecords.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A vinyl pressing plant that communicates its craft through a teal anchor (#52b7bd) — the single brand voltage that appears on every primary CTA, navigation highlight, and product badge — set against a near-white canvas (#fefefe) and deep ink (#0a0a0a) for high-contrast readability. The site uses Lexend and Montserrat for display and body text, with a modest weight range (400–700) that prioritizes legibility over typographic muscle; the brand lets product photography and process descriptions carry the emotional weight. A warm accent palette emerges from the extracted colors: a cautionary orange (#fd7021) for limited-edition or pre-order badges, a deep navy (#0c4d78) for footer backgrounds and secondary surfaces, and a muted gold (#c7b894) for vintage or audiophile-quality callouts. Buttons use soft rounded corners (`{rounded.sm}`) while the search bar and hero CTA adopt pill shapes (`{rounded.full}`), creating a friendly, approachable feel for a technical service. The color list is unusually long — 30+ extracted hexes — suggesting a site that uses many functional UI states (form validation, stock indicators, social icons) rather than a tightly curated brand palette. The most distinctive accent, #52b7bd, is the teal that defines the brand's identity across every page section.
 
@@ -430,6 +434,13 @@ components:
 - Search bar moves from header to a full-width overlay on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

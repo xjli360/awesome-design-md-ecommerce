@@ -4,6 +4,10 @@ name: "2 Hounds Design"
 source_url: "https://2houndsdesign.com"
 captured_at: "2026-09-29T03:54:45.695331+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   2 Hounds Design sells premium American-made dog collars, leashes, and harnesses,
   and its storefront CSS reflects a straightforward e-commerce theme layered with a
@@ -159,6 +163,14 @@ Recommended, not measured breakpoints:
 Touch targets should be a minimum 44px hit area for cart/menu icons; mobile menu collapse behavior is proposed given the "Open Mobile Menu" label found in page text, but exact interaction/animation was not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS extraction and a single page-text excerpt; no rendered layout, responsive behavior, or interaction states (hover, focus, active transitions beyond the Okendo tokens) were directly observed. Semantic color roles (e.g., which gray serves as card vs. hairline) are inferred from usage context in Okendo tokens and general theme conventions, not confirmed per-component CSS. Typography sizes beyond the base `1rem` body value are proposed estimates scaled for a retail storefront; Brandon Grotesque's licensing and self-hosted availability were not verified. Spacing and rounded-corner scales beyond the single observed `4px` Okendo radius are proposed conventions. Mobile menu, cart drawer, and product-page layouts were not present in the supplied evidence and are therefore absent from concrete claims.

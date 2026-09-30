@@ -4,6 +4,10 @@ name: "Grimey's New & Pre-Loved Music"
 source_url: "https://www.grimeys.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, ink-black (#112233) canvas sets the stage for a record store that feels more like a late-night listening session than a retail transaction. The brand's primary voltage is a weathered crimson (#bd0000) that appears on the "New Arrivals" badge, the shopping-cart icon, and the footer's newsletter call-to-action — a single accent that reads like a vintage record-label logo rather than a generic ecommerce button. The site's typography runs Alice, a serif face with the warmth of a handwritten setlist, at 16–20px for body copy, while navigation links sit in Arial at 14px with a muted gray (#aaaaaa) that recedes into the dark background. Product cards float on a near-white surface (#fafafa) with a soft shadow, their corners gently rounded ({rounded.md}), mimicking the feel of flipping through a crate of LPs. The footer is a dense block of deep navy (#112244) with links in a faded rose (#e99292), a quiet nod to the store's East Nashville location and its reputation for curated, pre-loved vinyl. The overall mood is intimate and unpolished — no hero sliders, no auto-playing video, just a grid of album covers, a search bar with a subtle red border, and the promise of "New & Pre-Loved" in every interaction.
 
@@ -253,6 +257,13 @@ components:
 - Category tags wrap to multiple rows on smaller screens
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

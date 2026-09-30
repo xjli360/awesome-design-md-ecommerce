@@ -4,6 +4,10 @@ name: "Pearl Paradise"
 source_url: "https://www.pearlparadise.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Pearl Paradise's in-house grading nomenclature — AAA, AA+, AA — surfaces in product titles and filter panels before the price does, signaling a gemological retailer operating at category-expert depth rather than lifestyle aspiration. The confirmed palette anchor is near-charcoal #313131, deployed on headings and body copy against a white-to-ivory canvas that functions as a photography neutral, not a styled surface; the pearls themselves, lit to reveal overtone and nacre depth, carry all the visual weight. Navigation organizes by pearl species first — Akoya, South Sea, Tahitian, Freshwater — with an Education hub given equal billing alongside shopping, reflecting an audience that arrives knowing what it wants and needs sorting tools over discovery imagery. Typography at display scale leans classical serif, fitting for a brand that publishes harvest reports and grading methodology alongside product listings; system sans-serif handles UI chrome at body sizes to keep page weight manageable across a catalog running to thousands of SKUs. Cards are information-dense by design: pearl type, grade badge, strand length, and price stack vertically inside a {rounded.sm}-cornered container with no decorative furniture, and photography is lit on white to show luster without interference. On the PDP, the Education tab with side-by-side overtone photography and harvest provenance establishes an editorial authority layer absent from volume jewelry competitors. The {rounded.xs}-to-{rounded.sm} range throughout — no pill shapes, no heavy radii — reads as precise and gemologically honest, a restraint that extends to the pearl photography itself. Palette tokens beyond the confirmed charcoal are extrapolated from pearl-category conventions and should be verified against a live site capture.
 
@@ -296,6 +300,13 @@ components:
 - Footer: four columns collapse to single-column accordions on mobile; each section header is a full-width tap target
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

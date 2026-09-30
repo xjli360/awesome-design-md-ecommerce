@@ -4,6 +4,10 @@ name: "Nuuna"
 source_url: "https://www.nuuna.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Nuuna's notebooks are essentially printed art editions — covers rotate through photography collections, geometric collaborations, and artist partnerships, turning the product grid into something closer to a seasonal gallery than a stationery catalog. The single extracted digital signal, #313131, tells you everything about the interface intention: not pure black but a warm, ink-pulled charcoal that reads as a printing decision rather than a default value; against a white canvas it achieves the contrast of freshly pressed matter without the cold aggression of #000000, and every primary CTA, nav label, and product heading runs at this weight. The dot-grid interior — Nuuna's signature feature — translates into component design through measured spacing and grid-aligned layouts; corners stay close to square throughout, with product cards using at most {rounded.sm} (4px), signaling that the brand's investment lies in the cover photograph rather than the softness of the frame around it. Typography runs on clean system stacks since no custom typeface survived extraction; the scale is deliberately restrained, display sizes capping around 32–40px rather than reaching for hero declarations, because product photography and not headline copy is meant to stop the scroll. Add-to-cart labels and navigation run at weight 500–600 rather than 700+, keeping the voice close to an exhibition caption rather than retail broadcast. High-contrast reversals read as {colors.on-primary} on {colors.primary} — a single charcoal block covering every emphasis state without requiring a secondary accent hue. The overall effect is a site that behaves more like a printed catalog: measured, image-forward, and editorially paced through every breakpoint.
 
@@ -297,6 +301,13 @@ components:
 - Footer: four columns → two columns at 744px → single stacked column at < 480px; newsletter input full-width at all mobile sizes
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

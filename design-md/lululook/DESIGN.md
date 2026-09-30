@@ -4,6 +4,10 @@ name: "Lululook"
 source_url: "https://www.lululook.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Near-black buttons on a snow-white canvas — Lululook's interface strips away every decorative impulse until all that remains is the product floating in space, much like the aluminum accessories it sells. The primary interaction color (#1c1c1c) is barely distinguishable from pure black, lending every CTA and nav element the weight of machined metal rather than ink on paper. Body text lives at #121212, a half-step lighter that only reveals itself when placed beside a primary button on a bright `{colors.canvas}` white field. Borders and dividers never exceed #dedede — thin hairlines that section content without competing with product photography. Card surfaces pull from #efefef, creating just enough lift against the white ground to define bounding boxes on product grids without resorting to drop shadows. Typography pairs Nunito Sans for display and heading hierarchy with Lato for body and UI text, both geometric sans-serifs whose open apertures echo the rounded aluminum bezels Lululook machines into its iPad stands and MagSafe mounts. Corner radii stay conservative — `{rounded.sm}` on buttons, `{rounded.md}` on cards — never reaching the pill shapes of lifestyle brands; the geometry communicates precision tooling. Spacing is generous at section level (`{spacing.section}` between feature blocks) but tightens inside product cards where spec lists demand density. The overall impression is a system designed to disappear: no gradient, no color accent, no textured background — just typographic hierarchy and whitespace serving as a frame for high-resolution product renders shot on neutral gray seamless paper.
 
@@ -391,6 +395,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

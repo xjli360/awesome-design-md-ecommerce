@@ -4,6 +4,10 @@ name: "Katziela"
 source_url: "https://katziela.com"
 captured_at: "2026-09-28T09:54:59.764151+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Katziela sells airline-compliant pet carriers, beds, and travel accessories through a Shopify storefront. The only clearly brand-specific accent in the evidence is a teal (#108474), reused across the Judge.me review widget (star color, primary button, reviewer name) — this is treated as the primary brand color. A warm orange (#f7a627) appears on a secondary slideshow button and is proposed as a supporting call-to-action accent, with a matching yellow (#fbcd0a) as a lighter highlight. Neutrals span from near-black (#1c1c1c, #000000) for text/ink to a family of light grays (#eeeeee, #f2f2f2, #dddddd) for surfaces and hairlines; these role assignments are inferred from typical Shopify theme conventions since layout was not directly observed. Typography uses Jost (a geometric sans, assigned to headings/buttons) and Nunito Sans (assigned to body copy), both confirmed in the font-family evidence; the root `--text-*` custom properties (12–20px) are observed and mapped directly to body/caption/title scale steps. Rounded and spacing scales mostly follow conventional defaults, with two observed anchors: `0px` radius (Judge.me widget) and `16px` radius (Shopify chat widget). Payment-network and social-icon colors in the palette were excluded as non-brand.
 
@@ -137,6 +141,13 @@ components:
 Proposed breakpoints (not measured from live site): mobile ≤480px, tablet 481–768px, desktop 769–1200px, wide ≥1201px. Nav collapses to a hamburger/menu icon below tablet width, consistent with the "Open navigation menu" control referenced in the page text. Product grids are assumed to move from a 1-column mobile layout to 2–4 columns at tablet/desktop widths. Touch targets should be at least 44×44px for cart, search, and account icons. This section is a recommendation based on common e-commerce patterns, not a confirmed observation of Katziela's responsive implementation.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no live rendering, computed layout, or interaction testing was performed. Color-to-role mapping (e.g., which grays serve as card vs. section backgrounds) is inferred from naming conventions and typical Shopify theme structure, not confirmed via visual inspection. Font sizes for display-xl/display-md and letter-spacing values are proposed defaults, since only the 12–20px text scale and one 16px button size were directly observed. Hover, focus, error, and mobile-menu states are proposed patterns, not verified interactions. Availability and licensing of the Jost and Nunito Sans font files were not verified. Payment-network and social-media brand colors present in the raw palette were intentionally excluded from role assignment as non-brand elements.

@@ -4,6 +4,10 @@ name: "Light in the Attic"
 source_url: "https://www.lightintheattic.net"
 captured_at: "2026-09-28T09:15:42.531924+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Light in the Attic's storefront runs on a Shopify theme with a neutral, editorial base: body text and headings resolve to a near-black ink (#231f20) on an off-white canvas (#fafafa), with white (#ffffff) reserved for cards and elevated surfaces. A saturated yellow (#ffd50d, with a near-duplicate #fbd10d) appears repeatedly in the palette and is treated here as the brand accent — inferred as the primary interactive/highlight color given its distinctiveness against an otherwise grayscale system of #eeeeee, #dddddd, #e5e5e5, and #999999 tones used for muted text, hairlines, and soft surfaces.
 
@@ -148,6 +152,13 @@ components:
 This table is a recommendation for implementation, not a measurement of the live site's actual breakpoints, grid counts, or collapse thresholds, none of which were present in the supplied CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

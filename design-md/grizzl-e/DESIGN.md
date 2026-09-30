@@ -4,6 +4,10 @@ name: "Grizzl-E"
 source_url: "https://grizzl-e.com"
 captured_at: "2026-09-28T09:10:08.966444+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Grizzl-E's evidence points to a clean, utilitarian e-commerce interface built on Inter and system-ui fallbacks, styled with Tailwind-derived utility classes (text-body-s, text-h1, etc.) rather than a bespoke type scale. The observed palette centers on a near-black ink (#18181b) over white and off-white canvases (#ffffff, #fafafa, #f4f4f5), with zinc-toned grays (#27272a, #52525b, #71717a, #a1a1aa) for secondary text and borders. A saturated blue (#2563eb / #0267ff family) reads as the primary interactive/brand accent given its repetition alongside lighter blue tints (#eff6ff, #dbeafe, #ced8f7) used for soft surfaces and badges. A rose/crimson family (#be123c, #e11d48, #f43f5e) and an emerald family (#10b981, #22c55e) also recur, inferred as status or promotional accents (e.g., sale, in-stock) rather than primary brand color, since no single hue is confirmed as "the" brand color from the excerpt alone. The interpretation proposes a rugged-but-modern industrial commerce aesthetic: dense product grids, weather/durability badges, and app-control callouts, matching the "Made in Canada," all-weather charger positioning. Typography sizes below are proposed extrapolations from the small observed scale (11–24px) into a fuller display range; no custom or licensed webfont beyond system/Inter stacks is confirmed.
 
@@ -148,6 +152,13 @@ components:
 Proposed breakpoints (not measured): mobile ≤ 640px, tablet 641–1024px, desktop ≥ 1025px. Nav collapses to a hamburger/menu button below tablet width, given the fixed 60px nav-height token suggests a persistent compact bar across breakpoints. Product grids are recommended to shift from a single column (mobile) to 2–3 columns (tablet) to 4 columns (desktop). Touch targets for buttons and badges should maintain a minimum 44px hit area even where visual padding is smaller (e.g., the 11–13px body/caption scale). This section is a recommendation based on common patterns for the observed utility-class system, not an observed mobile layout.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

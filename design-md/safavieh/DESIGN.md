@@ -4,6 +4,10 @@ name: "Safavieh"
 source_url: "https://safavieh.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Safavieh's most telling design decision is its primary: deep regal indigo (#221155), a color that most home-furnishings competitors relegate to a footer accent while defaulting to beige or slate for their main CTAs. Against a near-white canvas of #fcfcfc and #f9f9f9, that indigo reads almost Ottoman — a chromatic echo of the Persian rug heritage the brand has cultivated since 1914, made visible in every button, announcement strip, and footer block. The companion voltage is #fdd314, a warm marigold gold that stops just short of brash; it fires on sale badges, accent CTAs, promotional banners, and footer link hovers, creating a jewel-tone duality that feels deliberate rather than accidental. Secondary deep blue (#003399) surfaces in selected navigation and link states, extending the cool-register palette without diluting the indigo anchor.
 
@@ -392,6 +396,13 @@ components:
 - Footer compresses from 4-column to 2-column at tablet, single accordion-expanded column on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

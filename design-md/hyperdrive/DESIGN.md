@@ -4,6 +4,10 @@ name: "HyperDrive"
 source_url: "https://www.hypershop.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A dark, industrial palette anchored on #171717 — near-black with a trace of warmth — that makes every product shot of brushed aluminum and USB-C ports feel like a precision instrument under studio light. The brand lives in the gap between consumer electronics and pro gear: the canvas is #121212, the body text is #dedede (a pale silver rather than pure white), and the only color relief comes from the product itself — no accent hue competes with the anodized metal of the docks and hubs. Typography runs a custom family split across myFontBold, myFontMedium, myFontLight, and myFontRegular, with Inter as the fallback; headings sit at 24–32px in bold weight, body at 15–16px in regular, and the overall density is tight, technical, and information-rich. The site uses Shopify as its commerce layer, so checkout buttons inherit the platform's default blue-green (#008060) — a pragmatic concession that breaks the dark theme momentarily. Navigation is a fixed top bar at 60px with the HyperDrive wordmark in myFontMedium, category links in myFontRegular at 14px, and a cart icon with a badge count. Product cards use a soft 8px radius (`{rounded.sm}`), a 1px hairline in #2a2a2a, and hover states that lift the card with a subtle shadow — the only moment the interface acknowledges interactivity beyond the cursor. The overall effect is a store that feels like a component catalog for a hardware startup: functional, monochrome, and utterly deferential to the aluminum objects it sells.
 
@@ -353,6 +357,13 @@ components:
 - Product descriptions collapse to 3 lines with a "Show more" toggle
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Festool"
 source_url: "https://festoolusa.com"
 captured_at: "2026-09-28T04:48:36.730104+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Festool USA's evidence set shows a utilitarian, high-contrast industrial palette
   built around a saturated safety green (#46b82e, hover #3d9f28) used for primary
@@ -163,6 +167,13 @@ Breakpoints below are drawn directly from observed media-query fragments (em-bas
 Touch targets are proposed at a minimum 44px height for buttons and nav items; the deeply nested category menu (Tools > Cordless products > ... ) should collapse to an accordion on mobile — this interaction is not observed and is a UX recommendation only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

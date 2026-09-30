@@ -4,6 +4,10 @@ name: "Vanessa Fernandez"
 source_url: "https://www.vanessafernandez.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   When a jeweler defaults to compressed-indigo (#016087) instead of champagne or rose gold for their primary brand signal, every product photograph must carry the warmth the palette withholds — and that trade-off is the organizing logic this color range implies. The darker flanking tone (#043959, near-navy) and mid-range sibling (#135e96) bracket the primary into a monochromatic cool spectrum unusual in the engagement ring category, where competitors conventionally echo the warm metal tones of their products. Light neutrals — the near-white field (#f3f5f6), card surface (#f1f1f1), and hairline gray (#dadada) — deliver the negative space that high-resolution stone photography requires: a near-colorless field where prong geometry and facet lines carry all visual weight. A note on extraction confidence: the site returned a WordPress error page rather than the live brand at time of scraping, so the entire palette may reflect WordPress admin defaults rather than brand intent; all color attributions should be verified against the live site, and the Known Gaps section details what could not be reliably extracted. Typography detection yielded only operating-system system stacks — no custom web fonts were registered in the DOM — suggesting the brand typeface loads via a JavaScript font kit that bypassed static extraction. For a fine jewelry engagement brand, display type conventionally runs in an old-style serif or geometric sans at low weight (300–400) and generous letter-spacing, kept at modest scale to read as editorial rather than declarative. Body copy at #444444 rather than full black softens overall read without sacrificing contrast. Component structure follows the precision model expected of a high-consideration purchase: slim hairline-bordered inputs, sparse centered-wordmark navigation, product cards dominated by a single ring image, and a detail page organized around a stone-and-metal configurator that terminates in a consultation booking rather than a cart. Corner radii hold at `{rounded.xs}` to `{rounded.sm}` throughout — no pill shapes, no orbs.
 
@@ -312,6 +316,13 @@ components:
 - Image gallery thumbnails convert to swipe carousel with dot-position indicators on mobile; no thumbnail strip
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Black Lapel"
 source_url: "https://blacklapel.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Olive (#6c7055) shows up where most menswear labels default to charcoal or navy — on the primary call-to-action, the active ring around a fabric swatch, the step indicator inside the suit configurator. It is a counterintuitive choice that reads correctly in context: the muted sage of a worsted wool window-pane weave rather than a corporate ink. Dark espresso (#372922) grounds the type, a warmer alternative to pure black that flatters the photography of finished garments against soft studio backgrounds. A secondary slate-blue (#676986) handles informational chips and secondary UI states, while a warm cream surface (#f5f0e9) lifts product cards off the main near-white canvas (#f7f7f8). Display copy runs in Wicked — a condensed, high-contrast face that belongs in a flagship tailor's fascia rather than a homepage carousel — while Asap handles sub-headings and navigation labels and Lato carries running prose, a three-level typographic hierarchy that keeps the configurator interface readable without competing with the editorial weight above. The rounded system is nearly flat throughout: inputs and cards sit at 4px or none, buttons at 4px, and there are no pill shapes anywhere in the primary UI — a discipline that mirrors the precision-made, constructed nature of the garment itself. The suit-builder flow — stepping customers through fabric, lining, lapel style, and button choice — is the functional center of the experience, and its step-indicator, swatch-grid, and option-chip components drive more design decisions than any homepage hero. Bright teal (#00eab6) appears as a narrow accent for progress pulses and notification dots, vivid against the otherwise restrained earthy palette. An espresso footer (#372922) closes every page with the same warm darkness that opens the body type — the palette wraps around itself.
 
@@ -399,6 +403,14 @@ components:
 - Hero split layout stacks image above text at mobile, with image capped at 280px height to keep the CTA above the fold
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Campania International"
 source_url: "https://www.campaniainternational.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep hunter green (#015845) anchors every interaction on a site that sells cast-stone vessels weighing upward of 200 pounds — the color reads as aged patina, wet moss, the underside of a terracotta saucer left in shade all summer. Against a near-white canvas (#fbfbfb) the green carries primary CTAs, navigation highlights, and collection-header bands without competing with the heavily textured product photography that does the real selling. Typography inherits the system stack — no branded webfont load detected — which keeps page weight low for a catalog that leans on large hero imagery of urns photographed in situ among boxwood hedges and limestone walls. The type strategy favors medium-weight sans-serif at generous sizes for product names (`{typography.display-md}`) and lighter body copy (`{typography.body-md}`) that stays out of the way. Corner radii are conservative: product cards use a subtle `{rounded.xs}` or `{rounded.sm}`, buttons sit at `{rounded.xs}`, and nothing approaches pill territory — the geometry mirrors the squared, architectural silhouettes of the planters themselves. Spacing is generous vertically (`{spacing.section}` between collection rows) but tighter horizontally within grids, letting each planter card breathe against the pale background. A secondary warm stone tone (#d4c5a9) surfaces in badges and accent borders, nodding to the natural limestone and terra-cotta finishes the brand is known for. The overall impression is a catalog for landscape architects and serious gardeners: restrained, material-forward, and trusting the product to hold attention without typographic or chromatic noise.
 
@@ -443,6 +447,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

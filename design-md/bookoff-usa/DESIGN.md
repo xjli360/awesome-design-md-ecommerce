@@ -4,6 +4,10 @@ name: "BookOff USA"
 source_url: "https://www.bookoffusa.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep-blue #003388 storefront that reads more like a collector’s guild than a discount media bin — that single saturated navy carries the header, footer, and primary CTAs, giving the whole site a uniform, almost archival seriousness. The palette is surprisingly broad for a resale shop: alongside that anchor blue sit a warm amber #ff9900 (used for sale badges and price drops), a crisp lime #02e49b (likely a checkout-widget remnant but visually present), and a magenta #e94c89 that appears in promotional banners. The typography stack is a pragmatic sans-serif mix — Open Sans, Roboto, and system fonts — set at conventional weights with no display-size hero type; the brand lets product imagery and price tags do the talking. Cards use moderate rounding at {rounded.sm} to {rounded.md}, and the search bar sits as a full-width field rather than a pill, suggesting utility over exploration. The overall impression is of a no-nonsense marketplace where the blue #003388 acts as a consistent visual handshake across every page, while accent colors like #ff9900 and #dc3232 (a red for sold-out or clearance markers) provide the only moments of urgency. The site’s design language is functional first — generous whitespace around product grids, a sticky top bar with category dropdowns, and a footer dense with legal and policy links — but the consistent use of that deep blue across chrome elements gives it a cohesion that many secondary-market retailers lack.
 
@@ -364,6 +368,14 @@ components:
 - Hero banner reduces height and may hide secondary text on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

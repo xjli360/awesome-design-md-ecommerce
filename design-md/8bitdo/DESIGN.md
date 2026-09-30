@@ -4,6 +4,10 @@ name: "8BitDo"
 source_url: "https://www.8bitdo.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A retro-gaming hardware brand that treats its products as miniature sculptures — each controller a distinct object with its own silhouette, colorway, and mechanical personality. The site runs on a stark black-and-white grid with no gradient, no shadow, and no decorative flourish; every pixel earns its place through product photography that isolates each controller against pure white canvas (#ffffff). The brand's signature move is the exploded-view product shot — a controller disassembled into its component layers (shell, buttons, D-pad, circuit board) floating in space, revealing the engineering inside the nostalgia. Typography is monospaced and utilitarian, evoking 8-bit terminal screens and early-game UI, set in a single weight across all headings and body copy. Buttons are hard-cornered rectangles (`{rounded.none}`) with no border-radius anywhere except the subtle pill shape of the search bar (`{rounded.full}`). The color palette is deliberately constrained: black (#000000) for ink, white (#ffffff) for canvas, and a single accent — the deep red (#e60012) that appears on the iconic 8BitDo logo and the "A" button of every controller — used sparingly for CTAs, price highlights, and active states. Product cards use a two-column grid on desktop, each card a simple image-plus-label with no hover effects, trusting the product's own visual presence over interaction gimmicks. The footer is a dense text wall of support links and region selectors, monochrome except for the red logo. This is a brand that says: we make objects, not interfaces — the site is just the catalog.
 
@@ -352,6 +356,14 @@ components:
 - Search bar moves from the nav bar to a full-width overlay on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

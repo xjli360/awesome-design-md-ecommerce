@@ -4,6 +4,10 @@ name: "Bullfrog Spas"
 source_url: "https://www.bullfrogspas.com"
 captured_at: "2026-09-28T04:41:16.047470+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation draws from Bullfrog Spas' WordPress/Elementor storefront, where the observed
   palette centers on a saturated blue (#406de1, #579af6, #4386e2) used for links, active-language
@@ -164,6 +168,14 @@ The following breakpoint table is a **recommendation only**; no responsive CSS o
 Touch targets should be at least 44×44px for primary buttons and nav items (proposed, not measured). The mega-menu should collapse into an accordion or drawer pattern below tablet width; language switcher and utility links likely relocate into a secondary mobile menu. None of this collapse behavior was directly observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

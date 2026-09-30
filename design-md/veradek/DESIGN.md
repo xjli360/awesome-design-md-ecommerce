@@ -4,6 +4,10 @@ name: "Veradek"
 source_url: "https://www.veradek.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep forest green (#00371f) anchors every navigation bar, primary button, and hero overlay on Veradek's site — a color so saturated it reads almost black until sunlight hits a screen outdoors, which is precisely where the brand's planters live. The secondary palette layers three botanical greens: a bright leaf (#a9c772) for badges and seasonal callouts, a softer sage (#b6cf91) for hover states and accent fills, and a muted eucalyptus (#809b8f) that quietly colors divider lines and icon containers. Typography pairs Domaine — a high-contrast serif used sparingly at display scale for campaign headlines — with Euclid Circular B as the workhorse geometric sans across body, navigation, and buttons; Montserrat appears only in uppercase micro-labels and product-spec tables. Cards sit on a pure white surface with `{rounded.sm}` corners and a single `{colors.hairline}` border, never a drop shadow, letting oversized product photography (planters shot on patios, terraces, urban rooftops) serve as the sole visual texture. Spacing is generous: `{spacing.section}` between content blocks, `{spacing.xl}` gutters on desktop grids, producing the open-air feel of a landscape catalog rather than a cramped e-commerce shelf. The dark charcoal ink (#22201e) replaces pure black for long-form descriptions, keeping contrast high without harshness against the near-white canvas (#f5f5f5). A warm peach (#fddab5) surfaces only in promotional banners and sale badges, providing temperature contrast against the dominant cool-green system. Button radii stay tight at `{rounded.xs}` — square enough to feel architectural, echoing the geometric silhouettes of Veradek's rectangular and cube-shaped planters.
 
@@ -410,6 +414,13 @@ components:
 - Product image galleries switch from thumbnail strip to swipeable carousel below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

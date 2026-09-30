@@ -4,6 +4,10 @@ name: "RTIC Outdoors"
 source_url: "https://rticoutdoors.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A brand built on the tension between extreme durability and approachable value, where the primary voltage is a burnt-orange #ef8114 — the color of a well-used camp stove or a desert sunset — that punches through a landscape of cool grays (#f5f6f6, #c6c4ba, #555555) and near-blacks (#1f1f1f, #222222). The palette reads as industrial but not cold: the warm accent appears on CTAs, price tags, and badge elements, while the body grid stays in a neutral zone of #f2f2f2 canvases and #ededed surfaces. Typography runs Brut Grotesque at display sizes — a geometric sans with squared-off terminals that echoes the hard corners of a rotomolded cooler — paired with Francisco for body copy. Buttons use {rounded.sm} corners, while product cards and modals take {rounded.md} to soften the industrial edge just enough for e-commerce comfort. The brand's secondary accent palette is unusually broad for outdoor gear: a safety-orange #db6300, a deep red #bb3a1e, a muted olive #737a4e, and a surprising maroon #471c36 that appears in footer and sub-brand treatments. This is not a minimalist system — it's a working brand with multiple voices, from the loud "SALE" badge in #ef8114 to the quiet #79776f of secondary metadata.
 
@@ -432,6 +436,13 @@ components:
 - Hero banner text overlay reduces font size and padding on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

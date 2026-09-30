@@ -4,6 +4,10 @@ name: "The Criterion Collection"
 source_url: "https://www.criterion.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, scholarly reverence for cinema rendered in near-monochrome austerity — #313131 is the single extracted color, a charcoal that reads as archival ink on the white canvas of the site. The Criterion Collection does not sell movies; it sells the definitive edition, and the design language mirrors that: a stark, almost library-like grid of film posters against white, with typography that defaults to system-ui stacks, trusting the raw power of the cover art and the weight of the filmography over decorative type. There are no rounded corners on the primary grid — film posters sit flush in a hard {rounded.none} grid, a deliberate choice that evokes a gallery wall or a shelf of laserdiscs. The search bar, however, uses a soft {rounded.sm} to create a single point of entry, a subtle invitation into the collection. Navigation is a thin, persistent black bar — the only persistent dark element — that anchors the experience, while the product pages lean into generous whitespace, with a single column of information and a large, centered poster. The brand's voice is authoritative but not cold; it uses the language of curation ("Director-Approved," "Special Edition Features") as its primary UI copy, and the design defers entirely to the film stills and poster art as the emotional payload. The extracted palette is sparse — a single charcoal — which is honest to the site's minimalism; the brand trusts black, white, and the color of the films themselves.
 
@@ -439,6 +443,13 @@ components:
 - Product detail hero stacks vertically on mobile: poster first, then title/director, then description, then specs, then add-to-cart.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

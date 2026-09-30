@@ -4,6 +4,10 @@ name: "Keyway"
 source_url: "https://www.keywaydesigns.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A forest-and-resin palette anchored on a deep, saturated evergreen (#108474) that reads as grown wood rather than corporate green — the brand’s primary voltage, appearing on every add-to-cart button, navigation highlight, and footer accent. The supporting sage (#717d49) and warm marigold (#ffba00) badges and sale tags introduce a craft-shop warmth that keeps the system from feeling cold or industrial. The canvas is a near-white (#f9fafb) with soft card surfaces (#ffffff) and hairline borders in #dedede, creating a clean, workshop-table atmosphere where the product photography — wood grain, resin swirls, live-edge shapes — does the heavy atmospheric lifting. Typography runs a two-family system: Jost for display and button labels (a geometric sans with humanist quirks in the uppercase R and K), and Nunito Sans for body copy, giving the interface a friendly, slightly handmade rhythm that matches the woodworking positioning. Buttons are softly squared at {rounded.sm}, product cards carry a gentle {rounded.md} shadow, and the marquee hero section uses a full-bleed image with a dark scrim overlay (#222222 at 60%) and white text, a confident move that lets the material texture dominate. The brand’s Shopify checkout layer introduces a secondary palette of social blues (#3b5998, #1da1f2) and payment-widget accents, but the core system stays firmly in the woodshop: green, sage, marigold, and warm charcoal.
 
@@ -408,6 +412,13 @@ components:
 - Multi-column product grids collapse to single column on mobile, two columns on tablet.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

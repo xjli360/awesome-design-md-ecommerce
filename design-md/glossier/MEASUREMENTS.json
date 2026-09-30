@@ -1,0 +1,1301 @@
+{
+  "schema_version": 1,
+  "source_url": "https://www.glossier.com/",
+  "method": "browser-computed-components",
+  "viewports": [
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "#glossier",
+          "label": "Skip To Main\n\nFree standard shipping on orders $40+\n\nGLOSSIE",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1000
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "18.4px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#header",
+          "label": "GLOSSIER\nYOU LOOK GOOD.\nSKINCARE\nMAKEUP\nBALMS\nBODY\nFRAGRANCE",
+          "box": {
+            "x": 0,
+            "y": 31.984375,
+            "width": 1440,
+            "height": 40
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "32px",
+            "font-weight": "500",
+            "line-height": "35px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "31.9844px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "navigation",
+          "selector": "#footer > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1)",
+          "label": "HOW CAN WE HELP?\nContact\nTrack my package\nReturns & exchange",
+          "box": {
+            "x": 32,
+            "y": 4272.375,
+            "width": 1376,
+            "height": 308.40625
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "12px",
+            "font-weight": "400",
+            "line-height": "15.6px",
+            "letter-spacing": "0.03px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "section-heading",
+          "selector": "#section-template--27842285273333__main > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1)",
+          "label": "you smell rich.",
+          "box": {
+            "x": 32,
+            "y": 151.984375,
+            "width": 352,
+            "height": 28
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "20px",
+            "font-weight": "400",
+            "line-height": "28px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "body-copy",
+          "selector": "#section-template--27842285273333__main > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1)",
+          "label": "Elevate the season with Glossier You Doux. Our soft, woody s",
+          "box": {
+            "x": 32,
+            "y": 187.984375,
+            "width": 352,
+            "height": 39.1875
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "19.6px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#section-template--27842285273333__main > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(1)",
+          "label": "Shop now",
+          "box": {
+            "x": 32,
+            "y": 243.171875,
+            "width": 94.265625,
+            "height": 40
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(232, 232, 232)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "16.1px",
+            "letter-spacing": "0.02625px",
+            "padding-top": "8px",
+            "padding-right": "16px",
+            "padding-bottom": "8px",
+            "padding-left": "16px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#section-template--27842285273333__4ceb49c9-363a-4e57-8e84-47bc0ac4d49e > div:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "Shop now",
+          "box": {
+            "x": 1329.734375,
+            "y": 1950.890625,
+            "width": 94.265625,
+            "height": 40.40625
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "16.1px",
+            "letter-spacing": "0.02625px",
+            "padding-top": "8px",
+            "padding-right": "16px",
+            "padding-bottom": "8px",
+            "padding-left": "16px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "product-card",
+          "selector": "#section-template--27842285273333__4ceb49c9-363a-4e57-8e84-47bc0ac4d49e > ul:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > li:nth-of-type(1) > article:nth-of-type(1)",
+          "label": "BEST SELLER\nBoy Brow\n\nGrooming pomade\n\n$22\n\nAdd to bag",
+          "box": {
+            "x": 16,
+            "y": 2007.296875,
+            "width": 340,
+            "height": 585.765625
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "19.6px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "#footer",
+          "label": "At Glossier, we make products inspired by real life, embraci",
+          "box": {
+            "x": 0,
+            "y": 4162,
+            "width": 1440,
+            "height": 557.765625
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(250, 242, 244)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "18.4px",
+            "letter-spacing": "normal",
+            "padding-top": "16px",
+            "padding-right": "16px",
+            "padding-bottom": "16px",
+            "padding-left": "16px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://www.glossier.com/cdn/shop/t/1467/assets/search-icon.svg?v=17597307012293460771790628227",
+          "alt": "Search",
+          "width": 16,
+          "height": 16
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-hero-desktop.png?auto=compress,format&cs=srgb&w={width}",
+          "alt": "",
+          "width": 3840,
+          "height": 2134
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-hero-tablet.png?auto=compress,format&cs=srgb&w={width}",
+          "alt": "",
+          "width": 2048,
+          "height": 2932
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-hero-mobile.png?auto=compress,format&cs=srgb&w={width}",
+          "alt": "",
+          "width": 1668,
+          "height": 3024
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-vis-category-01_7921b287-0a30-4111-a071-3e6f3d9a4b1b.png?auto=compress,format&cs=srgb&w=360",
+          "alt": "",
+          "width": 269,
+          "height": 341
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-vis-category-02_d409862d-166f-4ded-9bc4-75736827108c.png?auto=compress,format&cs=srgb&w=360",
+          "alt": "",
+          "width": 269,
+          "height": 341
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-vis-category-03_f49f38da-b985-46d2-89d2-f84021831101.png?auto=compress,format&cs=srgb&w=360",
+          "alt": "",
+          "width": 269,
+          "height": 341
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-vis-category-04_a047f45a-4913-40e9-ab30-ac4562d96f59.png?auto=compress,format&cs=srgb&w=360",
+          "alt": "",
+          "width": 269,
+          "height": 341
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-vis-category-05_63394e90-113d-49d1-9bc8-51a7c912b6f7.png?auto=compress,format&cs=srgb&w=360",
+          "alt": "",
+          "width": 269,
+          "height": 341
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-ccmodule-01.png?auto=compress,format&cs=srgb&w=720",
+          "alt": "",
+          "width": 696,
+          "height": 539
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-ccmodule-02.png?auto=compress,format&cs=srgb&w=720",
+          "alt": "",
+          "width": 696,
+          "height": 539
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/Glossier-NYBalm-TopPick-Sticker-LP.svg?auto=compress,format&cs=srgb&w=80",
+          "alt": "",
+          "width": 70,
+          "height": 70
+        }
+      ],
+      "document_width": 1440,
+      "viewport": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 1000
+      },
+      "states": {
+        "initial": "observed",
+        "hover": {
+          "selector": "#section-template--27842285273333__main > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(232, 232, 232)",
+            "borderColor": "rgb(0, 0, 0)",
+            "outline": "rgb(0, 0, 0) none 3px"
+          }
+        },
+        "focus": {
+          "selector": "#section-template--27842285273333__main > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(232, 232, 232)",
+            "borderColor": "rgb(0, 0, 0)",
+            "outline": "rgb(0, 95, 204) auto 1px"
+          }
+        },
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-desktop.png",
+        "sha256": "3fc1b4c90456e60eb2cd011d4fa6a2f89a5e5b93ac47cdbf0295c67ffaa2919c",
+        "public_path": "evidence/viewport-desktop.png"
+      }
+    },
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "#glossier",
+          "label": "Skip To Main\n\nFree standard shipping on orders $40+\n\nGLOSSIE",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 1024
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "18.4px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#header",
+          "label": "GLOSSIER\nYOU LOOK GOOD.\nMENU\nBAG (0)\nTOGGLE BAG",
+          "box": {
+            "x": 0,
+            "y": 31.921875,
+            "width": 768,
+            "height": 40
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "31.8755px",
+            "font-weight": "500",
+            "line-height": "35px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "31.9372px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "navigation",
+          "selector": "#footer > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1)",
+          "label": "HOW CAN WE HELP?\nContact\nTrack my package\nReturns & exchange",
+          "box": {
+            "x": 31.96875,
+            "y": 6496.78125,
+            "width": 704.0625,
+            "height": 340.40625
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "12px",
+            "font-weight": "400",
+            "line-height": "15.6px",
+            "letter-spacing": "0.03px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "section-heading",
+          "selector": "#section-template--27842285273333__main > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1)",
+          "label": "you smell rich.",
+          "box": {
+            "x": 24,
+            "y": 121.0625,
+            "width": 360,
+            "height": 25.203125
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "19.9848px",
+            "font-weight": "400",
+            "line-height": "25.2px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "body-copy",
+          "selector": "#section-template--27842285273333__main > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1)",
+          "label": "Elevate the season with Glossier You Doux. Our soft, woody s",
+          "box": {
+            "x": 24,
+            "y": 154.265625,
+            "width": 360,
+            "height": 39.1875
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "19.6px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#section-template--27842285273333__main > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(1)",
+          "label": "Shop now",
+          "box": {
+            "x": 24,
+            "y": 209.453125,
+            "width": 86.265625,
+            "height": 44
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(232, 232, 232)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "16.1px",
+            "letter-spacing": "0.02625px",
+            "padding-top": "6px",
+            "padding-right": "12px",
+            "padding-bottom": "8px",
+            "padding-left": "12px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#section-template--27842285273333__4ceb49c9-363a-4e57-8e84-47bc0ac4d49e > div:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "Shop now",
+          "box": {
+            "x": 390,
+            "y": 1986.4375,
+            "width": 362.03125,
+            "height": 44
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "16.1px",
+            "letter-spacing": "0.02625px",
+            "padding-top": "6px",
+            "padding-right": "12px",
+            "padding-bottom": "8px",
+            "padding-left": "12px",
+            "margin-top": "0px",
+            "margin-bottom": "8px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "product-card",
+          "selector": "#section-template--27842285273333__4ceb49c9-363a-4e57-8e84-47bc0ac4d49e > ul:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > li:nth-of-type(1) > article:nth-of-type(1)",
+          "label": "BEST SELLER\nBoy Brow\n\nGrooming pomade\n\n$22\n\nDark Brown\n\nAdd ",
+          "box": {
+            "x": 12,
+            "y": 2054.4375,
+            "width": 331.34375,
+            "height": 585.765625
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "19.6px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "#footer",
+          "label": "At Glossier, we make products inspired by real life, embraci",
+          "box": {
+            "x": 0,
+            "y": 6366.8125,
+            "width": 768,
+            "height": 726.03125
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(250, 242, 244)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "18.4px",
+            "letter-spacing": "normal",
+            "padding-top": "16px",
+            "padding-right": "16px",
+            "padding-bottom": "16px",
+            "padding-left": "16px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://www.glossier.com/cdn/shop/t/1467/assets/search-icon.svg?v=17597307012293460771790628227",
+          "alt": "Search",
+          "width": 16,
+          "height": 16
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-hero-desktop.png?auto=compress,format&cs=srgb&w={width}",
+          "alt": "",
+          "width": 3840,
+          "height": 2134
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-hero-tablet.png?auto=compress,format&cs=srgb&w={width}",
+          "alt": "",
+          "width": 2048,
+          "height": 2932
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-hero-mobile.png?auto=compress,format&cs=srgb&w={width}",
+          "alt": "",
+          "width": 1668,
+          "height": 3024
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-vis-category-01_7921b287-0a30-4111-a071-3e6f3d9a4b1b.png?auto=compress,format&cs=srgb&w=360",
+          "alt": "",
+          "width": 269,
+          "height": 341
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-vis-category-02_d409862d-166f-4ded-9bc4-75736827108c.png?auto=compress,format&cs=srgb&w=360",
+          "alt": "",
+          "width": 269,
+          "height": 341
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-vis-category-03_f49f38da-b985-46d2-89d2-f84021831101.png?auto=compress,format&cs=srgb&w=360",
+          "alt": "",
+          "width": 269,
+          "height": 341
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-vis-category-04_a047f45a-4913-40e9-ab30-ac4562d96f59.png?auto=compress,format&cs=srgb&w=360",
+          "alt": "",
+          "width": 269,
+          "height": 341
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-vis-category-05_63394e90-113d-49d1-9bc8-51a7c912b6f7.png?auto=compress,format&cs=srgb&w=360",
+          "alt": "",
+          "width": 269,
+          "height": 341
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-ccmodule-01.png?auto=compress,format&cs=srgb&w=720",
+          "alt": "",
+          "width": 696,
+          "height": 539
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-ccmodule-02.png?auto=compress,format&cs=srgb&w=720",
+          "alt": "",
+          "width": 696,
+          "height": 539
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/Glossier-NYBalm-TopPick-Sticker-LP.svg?auto=compress,format&cs=srgb&w=80",
+          "alt": "",
+          "width": 70,
+          "height": 70
+        }
+      ],
+      "document_width": 768,
+      "viewport": {
+        "name": "tablet",
+        "width": 768,
+        "height": 1024
+      },
+      "states": {
+        "initial": "observed",
+        "hover": {
+          "selector": "#section-template--27842285273333__main > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(232, 232, 232)",
+            "borderColor": "rgb(0, 0, 0)",
+            "outline": "rgb(0, 0, 0) none 3px"
+          }
+        },
+        "focus": {
+          "selector": "#section-template--27842285273333__main > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(232, 232, 232)",
+            "borderColor": "rgb(0, 0, 0)",
+            "outline": "rgb(0, 95, 204) auto 1px"
+          }
+        },
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-tablet.png",
+        "sha256": "e3d04a8323fac7c3b0f5a1dca040545f23e4354eed50c11ff229dc038bc9b2a2",
+        "public_path": "evidence/viewport-tablet.png"
+      }
+    },
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "#glossier",
+          "label": "Skip To Main\n\nFree standard shipping on orders $40+\n\nGLOSSIE",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 844
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "18.4px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#header",
+          "label": "GLOSSIER\nYOU LOOK GOOD.\nMENU\nBAG (0)\nTOGGLE BAG",
+          "box": {
+            "x": 0,
+            "y": 23.796875,
+            "width": 390,
+            "height": 40
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "28px",
+            "font-weight": "500",
+            "line-height": "35px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "23.7969px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "navigation",
+          "selector": "#footer > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(2)",
+          "label": "HOW CAN WE HELP?\nABOUT GLOSSIER\nFIND YOUR STORE\nSOCIAL",
+          "box": {
+            "x": 27.9375,
+            "y": 4308.984375,
+            "width": 334.125,
+            "height": 229.625
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "12px",
+            "font-weight": "400",
+            "line-height": "15.6px",
+            "letter-spacing": "0.03px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "section-heading",
+          "selector": "#section-template--27842285273333__main > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1)",
+          "label": "you smell rich.",
+          "box": {
+            "x": 24,
+            "y": 107.59375,
+            "width": 342,
+            "height": 25.203125
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "18px",
+            "font-weight": "400",
+            "line-height": "25.2px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "body-copy",
+          "selector": "#section-template--27842285273333__main > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1)",
+          "label": "Elevate the season with Glossier You Doux. Our soft, woody s",
+          "box": {
+            "x": 24,
+            "y": 140.796875,
+            "width": 342,
+            "height": 39.1875
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "19.6px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#section-template--27842285273333__main > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(1)",
+          "label": "Shop now",
+          "box": {
+            "x": 24,
+            "y": 195.984375,
+            "width": 86.265625,
+            "height": 44
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(232, 232, 232)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "16.1px",
+            "letter-spacing": "0.02625px",
+            "padding-top": "6px",
+            "padding-right": "12px",
+            "padding-bottom": "8px",
+            "padding-left": "12px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#section-template--27842285273333__4ceb49c9-363a-4e57-8e84-47bc0ac4d49e > div:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "Shop now",
+          "box": {
+            "x": 201,
+            "y": 1684.90625,
+            "width": 177,
+            "height": 44
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "16.1px",
+            "letter-spacing": "0.02625px",
+            "padding-top": "6px",
+            "padding-right": "12px",
+            "padding-bottom": "8px",
+            "padding-left": "12px",
+            "margin-top": "0px",
+            "margin-bottom": "8px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "product-card",
+          "selector": "#section-template--27842285273333__4ceb49c9-363a-4e57-8e84-47bc0ac4d49e > ul:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > li:nth-of-type(1) > article:nth-of-type(1)",
+          "label": "BEST SELLER\nBoy Brow\n\nGrooming pomade\n\n$22\n\nDark Brown\n\nAdd ",
+          "box": {
+            "x": 12,
+            "y": 1752.90625,
+            "width": 229.546875,
+            "height": 592.796875
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "19.6px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "#footer",
+          "label": "At Glossier, we make products inspired by real life, embraci",
+          "box": {
+            "x": 0,
+            "y": 4129.078125,
+            "width": 390,
+            "height": 649.234375
+          },
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "background-color": "rgb(250, 242, 244)",
+            "font-family": "Apercu, \"Gill Sans\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "18.4px",
+            "letter-spacing": "normal",
+            "padding-top": "15.944px",
+            "padding-right": "15.944px",
+            "padding-bottom": "15.944px",
+            "padding-left": "15.944px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(0, 0, 0)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://www.glossier.com/cdn/shop/t/1467/assets/search-icon.svg?v=17597307012293460771790628227",
+          "alt": "Search",
+          "width": 16,
+          "height": 16
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-hero-desktop.png?auto=compress,format&cs=srgb&w={width}",
+          "alt": "",
+          "width": 3840,
+          "height": 2134
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-hero-tablet.png?auto=compress,format&cs=srgb&w={width}",
+          "alt": "",
+          "width": 2048,
+          "height": 2932
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-hero-mobile.png?auto=compress,format&cs=srgb&w={width}",
+          "alt": "",
+          "width": 1668,
+          "height": 3024
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-vis-category-01_7921b287-0a30-4111-a071-3e6f3d9a4b1b.png?auto=compress,format&cs=srgb&w=360",
+          "alt": "",
+          "width": 269,
+          "height": 341
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-vis-category-01_7921b287-0a30-4111-a071-3e6f3d9a4b1b.png?auto=compress,format&cs=srgb&w=360",
+          "alt": "",
+          "width": 288,
+          "height": 365
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-vis-category-02_d409862d-166f-4ded-9bc4-75736827108c.png?auto=compress,format&cs=srgb&w=360",
+          "alt": "",
+          "width": 269,
+          "height": 341
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-vis-category-02_d409862d-166f-4ded-9bc4-75736827108c.png?auto=compress,format&cs=srgb&w=360",
+          "alt": "",
+          "width": 288,
+          "height": 365
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-vis-category-03_f49f38da-b985-46d2-89d2-f84021831101.png?auto=compress,format&cs=srgb&w=360",
+          "alt": "",
+          "width": 269,
+          "height": 341
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-vis-category-03_f49f38da-b985-46d2-89d2-f84021831101.png?auto=compress,format&cs=srgb&w=360",
+          "alt": "",
+          "width": 288,
+          "height": 365
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-vis-category-04_a047f45a-4913-40e9-ab30-ac4562d96f59.png?auto=compress,format&cs=srgb&w=360",
+          "alt": "",
+          "width": 269,
+          "height": 341
+        },
+        {
+          "url": "https://glossier-prod.imgix.net/files/glossier-doux-mini-moment-homepage-vis-category-04_a047f45a-4913-40e9-ab30-ac4562d96f59.png?auto=compress,format&cs=srgb&w=360",
+          "alt": "",
+          "width": 288,
+          "height": 365
+        }
+      ],
+      "document_width": 390,
+      "viewport": {
+        "name": "mobile",
+        "width": 390,
+        "height": 844
+      },
+      "states": {
+        "initial": "observed",
+        "hover": {
+          "selector": "#section-template--27842285273333__main > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(232, 232, 232)",
+            "borderColor": "rgb(0, 0, 0)",
+            "outline": "rgb(0, 0, 0) none 3px"
+          }
+        },
+        "focus": {
+          "selector": "#section-template--27842285273333__main > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(232, 232, 232)",
+            "borderColor": "rgb(0, 0, 0)",
+            "outline": "rgb(0, 95, 204) auto 1px"
+          }
+        },
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-mobile.png",
+        "sha256": "6e928e9dd79cbc146f8436476be4102d340f6fe836c7049c4c6d743d4e5b8960",
+        "public_path": "evidence/viewport-mobile.png"
+      }
+    }
+  ],
+  "visual_validation": {
+    "status": "not_performed",
+    "reason": "No implementation generated from DESIGN.md has been compared with the reference."
+  },
+  "brand_review": {
+    "decision": "matched_brand",
+    "reviewed_on": "2026-09-30",
+    "title": "Glossier",
+    "final_url": "https://www.glossier.com/",
+    "capture_id": "01b017b767ab4485a3180de8bbe32db3",
+    "expected_brand": "Glossier"
+  },
+  "requested_url": "https://www.glossier.com",
+  "captured_at": "2026-09-30T09:01:04.157109+00:00",
+  "capture_id": "01b017b767ab4485a3180de8bbe32db3",
+  "landing_page_sha256": "3a836690f403ecd8e7fc6d0f8ea59da8fc9a43415bbcae666cd28fc14204f1fc"
+}

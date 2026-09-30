@@ -4,6 +4,10 @@ name: "PowerXL"
 source_url: "https://www.powerxlproducts.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep navy (#002873) dominates every header bar, hero banner, and call-to-action on a site that sells sizzle as much as it sells countertop hardware. PowerXL's digital presence channels the energy of a live cooking demo — oversized product photography bleeds edge-to-edge, price callouts land in bold white-on-navy lockups, and "Add to Cart" buttons punch through the layout like the satisfying click of an air-fryer lid. Typography runs on Rubik, a geometric sans-serif whose slightly rounded terminals soften what would otherwise be a purely industrial palette of navy, near-black (#121212), and cool gray (#dedede). Display headlines land at weight 700 in the 36–48px range, large enough to compete with product imagery for attention, while body copy drops to weight 400 at 16px — functional, readable, never precious. Corner radii stay tight: product cards and input fields sit at `{rounded.sm}` (8px), buttons at `{rounded.xs}` (4px), giving the interface a confident, squared-off posture that mirrors the boxy silhouettes of the appliances themselves. Spacing is generous vertically — hero sections breathe with `{spacing.section}` or more — but the grid packs product cards shoulder-to-shoulder on desktop, three or four across, reinforcing the "wall of options" merchandising strategy common to infomercial-heritage brands. A single accent orange (#f26522) fires on sale badges and urgency messaging, providing the only warm interruption in an otherwise cool-toned system. The overall effect is a high-contrast, high-energy retail environment where navy establishes authority, white space gives the eye a rest between product pitches, and every interactive element is sized for confident thumb taps on mobile — because most of this traffic arrives via social ads on a phone screen.
 
@@ -399,6 +403,13 @@ components:
 - Comparison tables scroll horizontally with a sticky first column for product names
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

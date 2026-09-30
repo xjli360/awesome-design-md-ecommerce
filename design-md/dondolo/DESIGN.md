@@ -4,6 +4,10 @@ name: "Dondolo"
 source_url: "https://dondolo.com"
 captured_at: "2026-09-29T04:21:43.666631+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Dondolo presents handcrafted, hand-smocked childrenswear and womenswear through a
   gentle, heritage-inflected palette. The dominant accent is a dusty rose (#db918a),
@@ -165,6 +169,13 @@ Recommended (not measured) breakpoints:
 Touch targets should be at least 44px for nav, cart, and wishlist icons. Mega-menu categories (Girls/Boys/Women/Accessories) should collapse into accordions below tablet width. None of this is observed site behavior — it is a proposed responsive strategy based on the mega-menu content structure implied by the page text.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered layout, breakpoints, hover/focus states beyond the explicit link-button rules, or JavaScript-driven interactions (flickity carousel, wishlist, cross-sell quickview) were observed in motion. Semantic color roles (ink, canvas, surface-soft/card, hairline, badge/sale) are inferred from a flat palette list and reused where plausible; several neutrals (#eeeeee, #f5f5f5, #f9f9f9, #dddddd, #e7e7e7) are visually similar and their exact component assignment is uncertain. Typography sizes outside the two confirmed values (24px, 30px) are proposed. Fonts such as Baskerville, Branch, Petit Formal Script, Poppins, Montserrat, and canada-type-gibson appear in the raw font list but have no confirmed selector binding in the supplied CSS and are excluded from typography tokens. Custom/licensed font availability (monarcha, eldwin-script, adorn-icons) is not verified for production use. Mobile menu, cart drawer, and checkout flows were not observed.

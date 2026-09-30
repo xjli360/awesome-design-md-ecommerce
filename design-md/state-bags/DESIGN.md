@@ -4,6 +4,10 @@ name: "State Bags"
 source_url: "https://statebags.com"
 captured_at: "2026-09-28T09:48:36.989860+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   STATE Bags' storefront evidence surfaces a broad Shopify color palette used
   across product-swatch and promotional CSS rather than a documented brand
@@ -139,6 +143,12 @@ components:
 Recommended, not measured: mobile <640px collapses nav-bar into a hamburger/off-canvas menu, single-column product-card grid, and stacked hero text over image. Tablet 640–1024px moves to a 2-column product grid with nav links visible but condensed. Desktop >1024px uses the full multi-column grid and horizontal nav implied by `--header-logo-width` and `--header-links-margin-horizontal` tokens. Touch targets for button-primary/secondary and color-swatch-selector should maintain a minimum 44px hit area regardless of visual padding. All breakpoint values are proposed conventions, not extracted from responsive CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is built from static CSS/text extraction only; no rendered layout, computed styles, or interaction states (hover, focus, active, disabled) were observed. The single captured font-family, "JudgemeStar," is almost certainly a Judge.me review-widget icon font rather than a brand text typeface, so all typography entries fall back to system sans-serif for practical rendering while retaining the observed name for traceability — real brand fonts (headings, body) were not present in the supplied evidence and must be verified against the live site or theme files. Font licensing/availability for any eventual real typeface is unverified. Numeric type scale, spacing scale, and rounding tokens are proposed design conventions, not measured values. Color-role assignments (primary, muted, hairline, surfaces) are inferred from a large undifferentiated palette dominated by per-SKU swatch colors; several palette entries (e.g., #833ab4, #fd1d1d, #fcb045 — an Instagram-gradient-like set) were excluded as likely third-party social icon colors rather than brand colors. Component definitions (nav-bar, product-card, footer, search, hero) beyond the one directly observed `.btn` rule are proposed patterns suited to a bags/backpack storefront and should be validated against actual rendered pages before implementation.

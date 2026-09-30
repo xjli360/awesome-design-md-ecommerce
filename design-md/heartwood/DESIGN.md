@@ -4,6 +4,10 @@ name: "Heartwood"
 source_url: "https://www.heartwood.ca"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   "Heartwood Manufacturing Ltd." keeps the full corporate suffix in its page title — a deliberate signal that this is a maker, not a merchant. The name itself borrows from dendrology: heartwood is the load-bearing core of a mature tree, denser and darker than the sapwood that surrounds it, and that material logic runs through the brand's implied design language. Deep walnut tones anchor the primary palette, graduating toward a warm charcoal ink (#1C1410) rather than the cold near-black that most B2B filing brands default to. The canvas is an off-warm white (#FAF7F4) that reads like uncoated paper stock rather than a clinical screen-white — a quiet nod to the physical world of filing and document storage. Buttons sit in a rounded-corner system ({rounded.sm} at 8px) that stops short of pill-softness: purposeful, not precious. Product cards lean on a warm surface ({colors.surface-card}) with a subtle hairline border ({colors.hairline}), letting form photography — storage units in natural wood veneer and powder-coated steel — carry most of the visual weight. Typography defaults to a sturdy humanist serif stack for display headings, communicating longevity and craft, with a clean sans-serif for body copy where scan-ability is paramount. An accent forest green ({colors.accent-forest}, #3B5E45) appears on secondary actions and callout badges, recalling the Canadian Pacific Northwest context implicit in the .ca domain. Spacing is generous — the brand is not optimizing for conversion density but for the kind of institutional credibility that sells to office managers and procurement teams over a multi-touch evaluation cycle. **Important caveat:** no hex colors or font stacks were extractable from the live site; all specific values below are inferred from brand name, category, and Canadian office-manufacturing context. Treat as provisional pending a live-site audit.
 
@@ -379,6 +383,13 @@ components:
 
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Proven Winners"
 source_url: "https://www.provenwinners.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Leaf-green hexagons, hand-lettered script headlines, and a warm cream canvas — the first impression reads more like an heirloom seed catalog than a digital storefront. The signature sage (#679650) anchors navigation, CTAs, and category badges with a color pulled straight from a healthy hosta leaf, while a darker forest register (#4e7639, #497136) provides depth on hover states and footer regions. What makes the system unusual is its unapologetic embrace of color variety: hot-pink bloom accents (#d62c7f), a punchy orange (#ff6804) for sale callouts, and a sun-gold (#f6b308) for award stamps coexist without collision because the neutral layer — warm stone grays (#5a5953, #77756f) over a barely-tinted canvas (#f7f5f2) — absorbs the saturation. Typography pairs ITC Franklin Gothic Book for structured UI text (nav, buttons, product specs) with ThirstyScriptRough for hero lockups and seasonal campaign headers, producing a contrast between editorial polish and dirt-under-the-fingernails charm. Raleway fills the middle register for body copy and secondary headings at weight 400–600, keeping reading passages open and airy. Cards use `{rounded.sm}` corners — enough softness to echo a leaf edge without going fully pill-shaped — while image containers often sit at `{rounded.none}` to let garden photography bleed. Spacing is generous: section gaps of `{spacing.section}` or larger give photo grids room to breathe, and product cards float in `{spacing.lg}` gutters so dense catalogs of annuals, perennials, and shrubs never feel cramped. The palette's lightest greens (#e3f2d7, #e2efd5) serve as surface tints behind growing-zone selectors and plant-finder filters, reinforcing the botanical identity at every interaction layer.
 
@@ -444,6 +448,13 @@ components:
 - Hero display text scales from 48px → 36px → 28px across breakpoints; script font remains but reduces letter-spacing proportionally
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

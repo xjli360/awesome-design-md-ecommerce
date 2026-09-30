@@ -4,6 +4,10 @@ name: "KatKin"
 source_url: "https://katkin.com"
 captured_at: "2026-09-28T09:35:22.668689+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   KatKin's observed CSS exposes a compact, high-contrast palette built around near-black ink (#231F20), a saturated yellow-green brand accent (#D5E709), and warm off-white surfaces (#EEEFE4, #FFFFFF). Supporting hues (orange, green, blue, pink) appear as small tokenized accents (--color-orange, --color-green, --color-blue, --color-pink) likely used for iconography or category tagging rather than primary UI chrome. Two custom font families are declared, "GreedBold" and "Scto" (Bold/Regular), paired with system sans-serif fallbacks; these read as a bold display face for headlines and a neutral grotesk for body copy, consistent with a direct-to-consumer, editorial-leaning pet-food brand.
 
@@ -155,6 +159,11 @@ This is a recommendation, not measured site behavior — no live breakpoint or r
 Touch targets should be at least 44×44px for buttons and nav items. Primary/secondary buttons should retain `{spacing.md} {spacing.lg}` padding across breakpoints to preserve tap area. Mobile navigation collapse pattern (drawer vs. dropdown) is not observed and left to implementation discretion.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

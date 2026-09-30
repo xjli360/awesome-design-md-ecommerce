@@ -4,6 +4,10 @@ name: "Juniper Print Shop"
 source_url: "https://juniperprintshop.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Ratio Modern SC's small-caps letterforms on a parchment ground (#ede8db) announce the intention before a single product image loads — Juniper Print Shop is designing for the wall before it designs for the screen. That cream canvas does not try to disappear into a neutral void the way a white e-commerce template does; it already reads like uncoated stock, the same warm field a rolled poster ships inside. Near-black (#121212) headline ink lands at maximum contrast against it while still sitting warmer than a pure digital zero, so the hierarchy feels printed rather than coded. An indigo blue (#334fb4) — not generic corporate cobalt but something specific and slightly dusty, closer to a mid-century university press cover — carries every primary action: add-to-cart CTAs, active filter states, and link states. Next to parchment it reads as a printing ink choice rather than a UI affordance, and that compression of physical and digital vocabulary is the whole effect. Sage (#596a62) holds secondary labels, hover states, and muted utility copy, grounding the system in something botanical — an apt counterweight given the brand name.
 
@@ -338,6 +342,13 @@ components:
 - Cart drawer becomes full-width bottom sheet on mobile rather than 420px side panel
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

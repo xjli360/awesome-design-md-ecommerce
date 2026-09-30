@@ -4,6 +4,10 @@ name: "Shimoda"
 source_url: "https://shimodadesigns.com"
 captured_at: "2026-09-28T04:36:27.905941+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Evidence points to a restrained, high-contrast neutral system built around
   a near-black call-to-action color (#191d1d) against a white canvas (#ffffff),
@@ -162,6 +166,13 @@ The supplied evidence contains literal media-query breakpoint fragments (551px, 
 Touch targets should be at least 44×44px (proposed, not measured). Below `sm`, primary navigation and filter panels are recommended to collapse into an off-canvas or accordion pattern. This table is a recommendation for implementation planning, not a measurement of Shimoda's live responsive behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

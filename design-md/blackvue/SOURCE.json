@@ -57,38 +57,11 @@
     "#ffffff": {
       "count": 36,
       "sources": [
-        "https://blackvue.com/",
-        "https://blackvue.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://blackvue.com/cdn/shop/t/35/assets/swiper-bundle.min.css?v=67104566617031410831785730243",
-        "https://blackvue.com/cdn/shop/t/35/assets/base.css?v=1097159763519110441785730244",
-        "https://blackvue.com/cdn/shop/t/35/assets/component-predictive-search.css?v=11795849514625305961785730243"
-      ]
-    },
-    "#000000": {
-      "count": 16,
-      "sources": [
-        "https://blackvue.com/",
-        "https://blackvue.com/cdn/shop/t/35/assets/swiper-bundle.min.css?v=67104566617031410831785730243",
-        "https://blackvue.com/cdn/shop/t/35/assets/base.css?v=1097159763519110441785730244",
-        "https://blackvue.com/cdn/shop/t/35/assets/component-localization-form.css?v=169763939130922636951785730245"
+        "https://blackvue.com/"
       ]
     },
     "#1f1f1f": {
       "count": 5,
-      "sources": [
-        "https://blackvue.com/",
-        "https://blackvue.com/cdn/shop/t/35/assets/base.css?v=1097159763519110441785730244"
-      ]
-    },
-    "#2691d0": {
-      "count": 4,
-      "sources": [
-        "https://blackvue.com/",
-        "https://blackvue.com/cdn/shop/t/35/assets/base.css?v=1097159763519110441785730244"
-      ]
-    },
-    "#141414": {
-      "count": 4,
       "sources": [
         "https://blackvue.com/"
       ]
@@ -99,22 +72,22 @@
         "https://blackvue.com/"
       ]
     },
-    "#f0f0f0": {
-      "count": 2,
+    "#2691d0": {
+      "count": 4,
       "sources": [
         "https://blackvue.com/"
       ]
     },
-    "#00000000": {
-      "count": 2,
+    "#000000": {
+      "count": 16,
       "sources": [
-        "https://blackvue.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+        "https://blackvue.com/"
       ]
     },
-    "#dedede": {
-      "count": 2,
+    "#141414": {
+      "count": 4,
       "sources": [
-        "https://blackvue.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+        "https://blackvue.com/"
       ]
     },
     "#f8f8fa": {
@@ -133,66 +106,6 @@
       "count": 1,
       "sources": [
         "https://blackvue.com/"
-      ]
-    },
-    "#0071ce": {
-      "count": 1,
-      "sources": [
-        "https://blackvue.com/"
-      ]
-    },
-    "#1c1c1c": {
-      "count": 1,
-      "sources": [
-        "https://blackvue.com/"
-      ]
-    },
-    "#232323": {
-      "count": 1,
-      "sources": [
-        "https://blackvue.com/"
-      ]
-    },
-    "#eb001b": {
-      "count": 1,
-      "sources": [
-        "https://blackvue.com/"
-      ]
-    },
-    "#f79e1b": {
-      "count": 1,
-      "sources": [
-        "https://blackvue.com/"
-      ]
-    },
-    "#ff5f00": {
-      "count": 1,
-      "sources": [
-        "https://blackvue.com/"
-      ]
-    },
-    "#142fbd": {
-      "count": 1,
-      "sources": [
-        "https://blackvue.com/"
-      ]
-    },
-    "#1532cb": {
-      "count": 1,
-      "sources": [
-        "https://blackvue.com/"
-      ]
-    },
-    "#1990c6": {
-      "count": 1,
-      "sources": [
-        "https://blackvue.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
-    "#136f99": {
-      "count": 1,
-      "sources": [
-        "https://blackvue.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
       ]
     },
     "#121212": {
@@ -225,25 +138,7 @@
         "https://blackvue.com/cdn/shop/t/35/assets/base.css?v=1097159763519110441785730244"
       ]
     },
-    "#ffffff66": {
-      "count": 1,
-      "sources": [
-        "https://blackvue.com/cdn/shop/t/35/assets/base.css?v=1097159763519110441785730244"
-      ]
-    },
     "#ffffff80": {
-      "count": 1,
-      "sources": [
-        "https://blackvue.com/cdn/shop/t/35/assets/base.css?v=1097159763519110441785730244"
-      ]
-    },
-    "#00000013": {
-      "count": 1,
-      "sources": [
-        "https://blackvue.com/cdn/shop/t/35/assets/base.css?v=1097159763519110441785730244"
-      ]
-    },
-    "#f1f1f1": {
       "count": 1,
       "sources": [
         "https://blackvue.com/cdn/shop/t/35/assets/base.css?v=1097159763519110441785730244"
@@ -253,9 +148,6 @@
   "font_families": {
     "Open Sans": [
       "https://blackvue.com/"
-    ],
-    "swiper-icons": [
-      "https://blackvue.com/cdn/shop/t/35/assets/swiper-bundle.min.css?v=67104566617031410831785730243"
     ]
   },
   "css_rules": [
@@ -416,18 +308,19 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "BlackVue Official | Premium Dash Cams | Cloud-Connected Security",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "remaining-20260929",
   "tokens": {
     "colors.primary": {
+      "value": "#2691d0",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://blackvue.com/",
-        "https://blackvue.com/cdn/shop/t/35/assets/base.css?v=1097159763519110441785730244"
+        "https://blackvue.com/"
       ]
     },
     "colors.ink": {
+      "value": "#141414",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -435,25 +328,23 @@
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://blackvue.com/",
-        "https://blackvue.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://blackvue.com/cdn/shop/t/35/assets/swiper-bundle.min.css?v=67104566617031410831785730243",
-        "https://blackvue.com/cdn/shop/t/35/assets/base.css?v=1097159763519110441785730244",
-        "https://blackvue.com/cdn/shop/t/35/assets/component-predictive-search.css?v=11795849514625305961785730243"
+        "https://blackvue.com/"
       ]
     },
     "colors.body": {
+      "value": "#1f1f1f",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://blackvue.com/",
-        "https://blackvue.com/cdn/shop/t/35/assets/base.css?v=1097159763519110441785730244"
+        "https://blackvue.com/"
       ]
     },
     "colors.muted": {
+      "value": "#c8c8c8",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -461,6 +352,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#e0e0e0",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -468,6 +360,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#f5f5f5",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -475,6 +368,7 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#f8f8fa",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -482,17 +376,15 @@
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://blackvue.com/",
-        "https://blackvue.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://blackvue.com/cdn/shop/t/35/assets/swiper-bundle.min.css?v=67104566617031410831785730243",
-        "https://blackvue.com/cdn/shop/t/35/assets/base.css?v=1097159763519110441785730244",
-        "https://blackvue.com/cdn/shop/t/35/assets/component-predictive-search.css?v=11795849514625305961785730243"
+        "https://blackvue.com/"
       ]
     },
     "colors.surface-inverse": {
+      "value": "#121212",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -500,6 +392,7 @@
       ]
     },
     "colors.border-strong": {
+      "value": "#bfbfbf",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -507,6 +400,7 @@
       ]
     },
     "colors.danger": {
+      "value": "#eb5757",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -514,6 +408,7 @@
       ]
     },
     "colors.focus": {
+      "value": "#007aff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -521,6 +416,7 @@
       ]
     },
     "colors.overlay-light": {
+      "value": "#ffffff80",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -528,6 +424,7 @@
       ]
     },
     "colors.shadow-soft": {
+      "value": "#0000000d",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -535,110 +432,384 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "-0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1,
+        "letterSpacing": "0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.sm} {spacing.lg}",
+        "border": "1px solid {colors.hairline}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "border": "1px solid {colors.hairline}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "height": "60px",
+        "hairline": "{colors.hairline}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "priceTypography": "{typography.title-md}",
+        "labelTypography": "{typography.caption}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-inverse}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-inverse}",
+        "textColor": "{colors.overlay-light}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.danger}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "border": "1px solid {colors.hairline}"
+      },
       "status": "inferred"
     },
     "components.fleet-tracking-panel": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "accentColor": "{colors.primary}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.lg}",
+        "padding": "{spacing.lg}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ":root,\n\t\t[data-scheme=light] .color-background-1",
+        "property": "--gradient-background",
+        "declaration": "#ffffff",
+        "url": "https://blackvue.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d0fd317f36d3c2e797bc660d9db637a6bb8c1337c8c9830024edc8acf4c02349"
+      },
+      "#1f1f1f": {
+        "selector": "[data-scheme=light] .color-background-2",
+        "property": "--gradient-background",
+        "declaration": "#1f1f1f",
+        "url": "https://blackvue.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d0fd317f36d3c2e797bc660d9db637a6bb8c1337c8c9830024edc8acf4c02349"
+      },
+      "#f5f5f5": {
+        "selector": "[data-scheme=light] .color-scheme-24a38913-8274-4891-8709-645d3da567e0",
+        "property": "--gradient-background",
+        "declaration": "#F5F5F5",
+        "url": "https://blackvue.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d0fd317f36d3c2e797bc660d9db637a6bb8c1337c8c9830024edc8acf4c02349"
+      },
+      "#2691d0": {
+        "selector": ".header-link-btn",
+        "property": "background-color",
+        "declaration": "#2691D0",
+        "url": "https://blackvue.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d0fd317f36d3c2e797bc660d9db637a6bb8c1337c8c9830024edc8acf4c02349"
+      },
+      "#000000": {
+        "selector": "body.body-template-index .shopify-section-header.slide-dark-header:not(.fixed) .header",
+        "property": "color",
+        "declaration": "#000000",
+        "url": "https://blackvue.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d0fd317f36d3c2e797bc660d9db637a6bb8c1337c8c9830024edc8acf4c02349"
+      },
+      "#141414": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "#141414",
+        "url": "https://blackvue.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d0fd317f36d3c2e797bc660d9db637a6bb8c1337c8c9830024edc8acf4c02349"
+      },
+      "#f8f8fa": {
+        "selector": ".section-template--23022323105881__image_cards_row_ynGHFz .image-cards-row__card",
+        "property": "background-color",
+        "declaration": "#f8f8fa",
+        "url": "https://blackvue.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d0fd317f36d3c2e797bc660d9db637a6bb8c1337c8c9830024edc8acf4c02349"
+      },
+      "#e0e0e0": {
+        "selector": "#shopify-section-template--23022323105881__external_blog_post_CbzGLQ .ext-blog-shimmer",
+        "property": "background",
+        "declaration": "linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%)",
+        "url": "https://blackvue.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d0fd317f36d3c2e797bc660d9db637a6bb8c1337c8c9830024edc8acf4c02349"
+      },
+      "#c8c8c8": {
+        "selector": ".section-sections--23022321205337__footer_blackvue_pVkip9",
+        "property": "--footer-bv-link",
+        "declaration": "#c8c8c8",
+        "url": "https://blackvue.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d0fd317f36d3c2e797bc660d9db637a6bb8c1337c8c9830024edc8acf4c02349"
+      },
+      "#121212": {
+        "selector": ".shopify-payment-button__button .path",
+        "property": "stroke",
+        "declaration": "#121212",
+        "url": "https://blackvue.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#007aff": {
+        "selector": ":root",
+        "property": "--swiper-theme-color",
+        "declaration": "#007aff",
+        "url": "https://blackvue.com/cdn/shop/t/35/assets/swiper-bundle.min.css?v=67104566617031410831785730243",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "1ab0d4aeda3096f95d18099fcc2839d0e2dd462bb8a421a3e83515b95947fd66"
+      },
+      "#0000000d": {
+        "selector": ".swiper-btn:not(.swiper-button-disabled):hover",
+        "property": "box-shadow",
+        "declaration": "0 4rem 6rem #0000000d",
+        "url": "https://blackvue.com/cdn/shop/t/35/assets/base.css?v=1097159763519110441785730244",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "3e52e9e7cb48ebe45500ceae06755523e590ad219b30e31229a6e9375171212d"
+      },
+      "#eb5757": {
+        "selector": ".field input[type=text][required]+label:after,.field input[type=email][required]+label:after,.field input[type=tel][required]+label:after,.field input[type=password][required]+label:after,.field .field__input[required]+label:after",
+        "property": "color",
+        "declaration": "#eb5757",
+        "url": "https://blackvue.com/cdn/shop/t/35/assets/base.css?v=1097159763519110441785730244",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "3e52e9e7cb48ebe45500ceae06755523e590ad219b30e31229a6e9375171212d"
+      },
+      "#bfbfbf": {
+        "selector": ".field input[type=checkbox]+label:hover b",
+        "property": "border-color",
+        "declaration": "#bfbfbf",
+        "url": "https://blackvue.com/cdn/shop/t/35/assets/base.css?v=1097159763519110441785730244",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "3e52e9e7cb48ebe45500ceae06755523e590ad219b30e31229a6e9375171212d"
+      },
+      "#ffffff80": {
+        "selector": ".field--dark input[type=text]+label,.field--dark input[type=email]+label,.field--dark input[type=tel]+label,.field--dark input[type=password]+label,.field--dark input[type=search]+label",
+        "property": "color",
+        "declaration": "#ffffff80",
+        "url": "https://blackvue.com/cdn/shop/t/35/assets/base.css?v=1097159763519110441785730244",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "3e52e9e7cb48ebe45500ceae06755523e590ad219b30e31229a6e9375171212d"
+      }
+    },
+    "font_families": {
+      "Open Sans": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Open Sans\"",
+        "url": "https://blackvue.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d0fd317f36d3c2e797bc660d9db637a6bb8c1337c8c9830024edc8acf4c02349"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

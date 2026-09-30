@@ -4,6 +4,10 @@ name: "Brightland"
 source_url: "https://brightland.co"
 captured_at: "2026-09-28T05:00:41.954127+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Brightland's public site surfaces a warm, editorial pantry-brand aesthetic built on a cream-and-ink foundation with a small set of saturated accent hues. Observed CSS shows a near-black button background (#0a0200) used consistently in the review-widget button tokens, alongside a neutral text-helper gray (#676986) and a soft cream surface (#f5f3ec) that likely serves as section backgrounds given the brand's "California harvest" positioning. A cluster of saturated accents — terracotta (#e9522e), marigold (#f68e00), cobalt (#0061a0), and plum (#a61f67) — appear in the palette and are inferred here as seasonal or badge accents (e.g. "Best Seller," "Almost Gone," sale pricing) rather than primary UI color, since no selector evidence ties them to core buttons or links.
 
@@ -142,6 +146,14 @@ components:
 Recommended breakpoints (not measured from the live site): mobile ≤480px, tablet 481–768px, desktop 769–1200px, wide ≥1201px. The `:root` variables show a smaller type/spacing scale (e.g. h0: 3.5rem) shifting to a larger scale (h0: 4.5rem) at wider viewports, confirming *some* fluid scaling exists, though exact breakpoint widths were not captured. Nav is expected to collapse into a hamburger/drawer below tablet width; product grids likely reduce from multi-column to 1–2 columns on mobile. Touch targets for buttons and the subscription-selector should maintain a minimum 44×44px hit area. This section is a design recommendation, not an observed layout.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered layout, JavaScript-driven interactions, or actual breakpoint pixel values were observed. Color-to-role mapping (e.g. which hex is "primary" vs. seasonal accent) is inferred from limited selector context, primarily the third-party review widget's variable names, and may not reflect the brand's actual core UI palette. Font availability, weights, and licensing for Fraunces, CircularXXWeb, Advercase, Tilda, Fairplex-Medium, and Sailing were not verified — some may be seasonal/limited-use assets rather than core UI fonts. Spacing and rounded-corner values follow common design-token conventions and are proposed, not measured, except where a specific pixel value (e.g. 1000px border-radius) appeared directly in evidence. No hover, focus, error, or mobile-menu states were observed; all interaction states listed above are proposed.

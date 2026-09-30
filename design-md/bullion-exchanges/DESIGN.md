@@ -4,6 +4,10 @@ name: "Bullion Exchanges"
 source_url: "https://bullionexchanges.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Real-time spot prices run at the top of every Bullion Exchanges page before the hero image loads — a design decision that privileges financial transparency over visual presentation, treating gold and silver fixes as load-bearing UI elements rather than decorative tickers. The single confirmed brand color is a dense charcoal (#313131), deployed across the primary navigation, CTA buttons, and body ink with a conviction that precious metals buyers respond to institutional gravity. No custom typeface was extracted; the entire site runs on system-native stacks (SF Pro on Apple devices, Segoe UI on Windows, Roboto on Android), which gives product pages a Bloomberg-terminal directness — weights, purities, and per-ounce premiums read at the same density as brokerage software. Product photography shoots coins and bars against white backgrounds, letting proof finishes, mint strikes, and die details carry the selling weight. Trust architecture is dense: secure payment icons, authorized dealer seals, and BBB ratings cluster near checkout — a visual insurance policy for transactions that routinely exceed $1,000. Components are built square and conservative, with {rounded.xs} at most on inputs and cards, signaling the kind of operations that press physical currency rather than novelty. The charcoal-nav-on-white-canvas inversion — dark header, light browsing surface, dark footer — frames every page like a ledger: serious at the edges, open in the middle. An anti-bot layer blocked full palette extraction, so the color system below is constructed from the confirmed #313131 anchor; gold-tone accent colors common across the bullion dealer category remain unverified inference documented in Known Gaps.
 
@@ -415,6 +419,14 @@ components:
 - Product comparison tool (if present) collapses to a floating "Compare (N)" chip on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

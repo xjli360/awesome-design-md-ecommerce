@@ -4,6 +4,10 @@ name: "Veikk"
 source_url: "https://www.veikk.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Near-black at #171717 framing electric lime (#cdf564) CTAs reads like a drawing tablet's pressure canvas lit in a darkened studio — the site mirrors the working conditions of the artists who use the hardware. Veikk runs this inversion deliberately: while most consumer hardware brands scaffold in white and blue, the primary chrome lives on #171717 and #121212, making the lime and the structural teal (#108474) accelerate with the same intensity as highlight strokes on a top digital layer. The structural brand color is #108474, a deep teal that anchors product headers, feature callout borders, and secondary CTA fills. Electric lime (#cdf564, with a near-twin at #ccff66) surfaces specifically on the highest-priority actions — "Add to Cart," "Buy Now," sale banners, and active filter states — functioning as a voltage spike that the dark field amplifies rather than diffuses. A golden yellow (#fbcd0a) pulls discount and urgency badges; a soft lavender (#a89cc8) appears on accessory lines and mid-tier product markers, broadening the palette without muddying the dominant teal-lime pairing. Mint washes (#c5f7f0, #c1e6e6) tint backgrounds behind compatibility callouts and bundle promotions, signaling a softer product tier within the same range. Nunito Sans supplies warmth to an otherwise cold-hardware aesthetic: its curved apertures and generous x-height hold up across both the dark hero canvas and the light product-listing grids (#f9f9f9). Inter steps in for dense specification tables and filtering interfaces where tighter metrics matter more than personality. Rounding follows a two-tier logic: product cards and form inputs land at {rounded.sm} to {rounded.md}, while category filter pills and quick-add badges snap to {rounded.full} — the round pill registers as browseable while the near-square card registers as purchasable. On large viewports a full-bleed rendered pen display dominates the hero's dark field; mobile compresses this to a stacked composition where the lime CTA button expands edge-to-edge as the sole focus element, every decorative surface receding into the #171717 field behind it.
 
@@ -356,6 +360,13 @@ components:
 - Footer compresses to single-column accordion on mobile; each column header is a tap-to-expand trigger
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Brown Jordan"
 source_url: "https://www.brownjordan.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Pool-water teal against weathered stone. Brown Jordan's digital palette draws from the same material vocabulary as its furniture — cast aluminum, woven resin, aged teak — translating each into a warm gray that sits somewhere between #414040 and #cececa on an off-white canvas (#f7f7f4) that refuses pure white the way natural linen refuses bleach. The single chromatic break is #7bc7c7, a coastal teal that appears on primary CTAs, collection markers, and active navigation states, bright enough to register as intentional against the neutral field but never loud. A secondary voltage in red-orange (#f33d00) fires sparingly on sale indicators and urgency badges, warming the cool teal without competing for hierarchy. Typography pairs ABC Arizona Flare — a contemporary serif with open apertures and subtle ink traps — against Neue Haas Unica Pro for body copy and UI chrome. The serif runs large and light (display at 44–56px, weight 300–400) with negative letter-spacing that reads like engraved catalog titling, not digital-first marketing. Montserrat handles navigation and button labels in all-caps with generous tracking, lending architectural precision to the functional layer. Corner radii stay tight: {rounded.xs} on buttons, {rounded.sm} on cards, no pill shapes anywhere — edges mirror the extruded aluminum profiles that define Brown Jordan's physical design language. Spacing runs wide and unhurried. Hero banners occupy 85vh minimum with {spacing.section} gaps between folds, product grids breathe inside generous gutters, and the 72px navigation bar holds the logo and a sparse set of category links without crowding. Material swatches ({rounded.full} circles with a 2px border) replace standard variant dropdowns, foregrounding the fabric-and-finish decision that drives a high-end outdoor purchase. The footer inverts into #414040 ink, carrying legal links and trade-program callouts in {typography.body-sm} against the dark ground. The overall rhythm is editorial — long scroll, full-bleed photography, minimal copy per viewport — designed for someone furnishing an outdoor room, not adding items to a cart on impulse.
 
@@ -367,6 +371,14 @@ components:
 - Search overlay: full-screen takeover on mobile (no rounded corners, no shadow), centered panel on desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

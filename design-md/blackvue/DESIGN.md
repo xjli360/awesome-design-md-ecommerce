@@ -4,6 +4,10 @@ name: "BlackVue"
 source_url: "https://blackvue.com"
 captured_at: "2026-09-29T03:59:15.201562+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   BlackVue's storefront (Shopify-based) uses a clinical, tech-forward palette:
   a near-black text ink (#141414) on white canvas, with a single mid-blue
@@ -165,6 +169,14 @@ components:
 Touch targets should be a minimum 44px height for buttons and nav items on mobile, though this is a UX-standard recommendation, not a measured site value. Header collapse behavior (transparent → solid white on scroll) is confirmed in CSS via `.fixed` class toggling but its scroll-trigger threshold and mobile menu animation were not present in the supplied evidence. This table is a design recommendation, not measured site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Gathre"
 source_url: "https://gathre.com"
 captured_at: "2026-09-28T04:54:52.152334+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Gathre's storefront evidence shows a restrained, neutral palette anchored by near-black text (#262626) on white (#ffffff), with a warm taupe/gold accent (#a7845b) used for the favorite-button active state — inferred here as the brand accent for interactive highlights. Borders and dividers use a light gray (#e2e2e2), and soft surface fills (#f4f4f4, #f8f8f9) appear repeatedly behind product imagery and subdued UI states. A secondary warm neutral (#d5c1aa) appears in a hover-state background and is reused as a soft accent surface. The Shopify theme root variable sets border-radius to 0px, suggesting a largely square, minimal-ornament UI; a 3px radius appears only on a third-party password-page button and is not treated as brand-representative.
 
@@ -156,6 +160,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be at least 44px in height for buttons and swatch selectors (proposed, not verified). Navigation collapse into a hamburger/drawer pattern below tablet width is a standard assumption, not an observed interaction.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

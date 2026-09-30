@@ -4,6 +4,10 @@ name: "Dusty Groove"
 source_url: "https://www.dustygroove.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, vinyl-first marketplace where a single dark gray `#313131` anchors the entire interface — not as a background but as the primary color for buttons, links, and key interactive elements, giving the site the weight and permanence of a record shelf. The typography stack defaults to system fonts (`-apple-system`, `Segoe UI`, `Roboto`, `Helvetica Neue`, `sans-serif`), a pragmatic choice that lets the product photography — album covers in all their original art — carry the visual personality. Product listings stack in dense, text-heavy grids with minimal whitespace, prioritizing information density over editorial breathing room. Search is the dominant navigation pattern, with a full-width bar at the top that accepts artist, label, or catalog queries. The checkout flow introduces a secondary accent in `#007bff` (a standard blue) for actionable links and form elements, creating a subtle but clear distinction between browsing mode and transaction mode. Cards use `{rounded.sm}` corners, just enough to soften the edge without competing with the album art's own geometry. The overall mood is utilitarian and knowledgeable — a record store that trusts its inventory and its customers' patience over visual seduction.
 
@@ -386,6 +390,13 @@ components:
 - Sidebar (if present) moves below main content on tablet and mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Warn Industries"
 source_url: "https://warn.com"
 captured_at: "2026-09-28T10:01:25.077612+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Warn.com presents a rugged, automotive-utility aesthetic built around a
   saturated red accent (#c22735) against a light gray canvas (#eeeeee) and
@@ -147,6 +151,13 @@ components:
 Proposed breakpoints (not measured from live site): mobile ≤599px, tablet 600–989px, desktop ≥990px, following common Shopify Dawn-theme conventions implied by the CDN asset paths. Recommend a minimum 44px touch target for buttons and nav items, collapsing the inline nav menu into a drawer below 990px (consistent with the presence of a `header-drawer` selector in the evidence), and stacking the vehicle-fit widget's panel/result blocks vertically on narrow viewports. This section is a recommendation only; no responsive/mobile layout was directly observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This interpretation is derived from static CSS custom properties and isolated selector rules, not a rendered DOM or visual screenshot, so real layout, spacing rhythm, and component composition are not confirmed. The `--font-body-family` variable's actual value was not resolved from the supplied evidence; font-to-role mapping (Agency FB Bold, Teko, Rajdhani, Roboto Condensed) is inferred from the font list order and general automotive-brand convention, not from direct selector-to-font CSS. The `body { font-size: 1.5rem }` value is used for body-md but may be a theme-level base variable rather than final rendered copy size. Several near-duplicate reds (#bb2733, #b52532, #dd2739, etc.) are treated as shade/hover variants without confirmed state bindings. Border-radius values beyond the observed 0px buttons are proposed defaults. Hover, focus, active, and error/success interaction states are proposed, not verified through interaction testing. Mobile/responsive layout behavior was not observed and is a recommendation only. Custom font availability, self-hosting, and licensing (particularly for Agency FB Bold) were not verified.

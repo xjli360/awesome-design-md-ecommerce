@@ -4,6 +4,10 @@ name: "Cuddle + Kind"
 source_url: "https://cuddleandkind.com"
 captured_at: "2026-09-28T04:25:11.772111+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Cuddle + Kind presents as a warm, quietly minimal nursery-goods storefront built on a Shopify theme with CSS custom properties driving a near-monochrome base: a soft off-white canvas (#fcfbfc) paired with a slate-gray foreground (#54585a) used consistently for body text, links, and default buttons. Deeper charcoal (#303030) and pure black (#000000) appear in nested cart/upsell widgets for higher-contrast titles and buttons, suggesting a secondary "dark" button treatment. A dusty rose (#cf6d82) is explicitly reserved for sale pricing, while a teal (#1cadc0) and a green (#24b263) surface as functional accents in promotional widgets (add-to-cart CTA, discount price). A cluster of pale, nursery-appropriate tints (blush #feebe7, seafoam #eaf5f3, lavender #e7dbe3, mint #cdfee1) likely originates from product color-swatch options for the hand-knit dolls rather than core UI, and is treated here as an optional accent set. Typography combines Lora (serif, for display/heading warmth), Montserrat (sans, for body and UI text per the root font-body-family), and Moontime (a script face) inferred for a logo or decorative flourish. Layout specifics, hover states, and responsive breakpoints are not observed and are proposed below as reasonable defaults for a soft, artisanal e-commerce brand.
 
@@ -143,6 +147,13 @@ This is a proposed structure, not measured site behavior.
 Touch targets for buttons and swatches should be at minimum 44×44px. Nav collapse and drawer/menu interaction patterns are inferred conventions for Shopify-based storefronts and have not been observed directly.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS custom properties, hardcoded widget colors, and a font list; no rendered page, DOM structure, or interaction states were observed. The mapping of `--color-background-contrast` (rgb 197,178,197) could not be resolved to an exact palette hex and was omitted rather than approximated. Font role assignments (Lora for display, Montserrat for body, Moontime for script accents) are inferred from naming/style conventions, not confirmed CSS usage on specific elements. All pixel sizes in typography, spacing, and rounding scales are proposed defaults, not measured values, except where explicitly noted as observed (e.g., root font-size and letter-spacing declarations). Hover, focus, active, and error states for all components are proposed and unverified. Mobile menu, cart drawer, and checkout flow layouts were not observed. Availability and licensing of the Moontime typeface for production use has not been verified.

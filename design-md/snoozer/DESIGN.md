@@ -4,6 +4,10 @@ name: "Snoozer"
 source_url: "https://snoozerpetproducts.com"
 captured_at: "2026-09-28T10:11:56.068043+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Snoozer's site CSS shows a warm, craft-shop palette built around a dark umber
   ink (#3d2e2b) used for both body copy and the Bitter-serif H1, paired with a
@@ -172,6 +176,13 @@ This is a proposed breakpoint scheme, not measured site behavior:
 Touch targets should be a minimum 44×44px for buttons and nav links, consistent with the pill-shaped button-secondary geometry. The multi-level navigation implied by the evidence (Dog Cave Beds > Cozy Cave® subcategories) suggests an accordion or mega-menu collapse pattern on mobile, but no such interaction was directly observed and is proposed only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

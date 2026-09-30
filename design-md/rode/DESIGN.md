@@ -4,6 +4,10 @@ name: "Rode"
 source_url: "https://www.rode.com"
 captured_at: "2026-09-28T09:34:18.216500+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   RØDE's storefront CSS exposes a neutral, near-monochrome interface built on white canvases (#ffffff) and near-black ink (#14181a, used as --text-default), with a graduated grey system (#5b5e5f, #9c9c9c, #dddddd, #e7e7e8, #f2f2f2, #f9f9f9) handling secondary text, borders and soft surfaces. A saturated indigo (#3e34d3), present with 20% and 10% alpha variants, is the strongest signal of an interactive/primary accent — Tailwind-style alpha suffixes typically mark a token reused for hover states, focus rings or highlighted UI, so it is mapped here as primary (inferred). Button CSS references --action-primary and --action-on-primary as CSS variables without resolved hex values; on-primary is inferred as white given the button-dark inversion pattern (dark background, black text on light). A cluster of saturated hues (#e84751, #fc63a3, #6ab5ed, #7fd649, #eb9341, #59ae31) appears tied to "neon" gradient text classes and hotspot markers, suggesting product-highlight or color-swatch accents rather than core UI color — kept as secondary accents. Typography is inferred primarily from the explicit "Inter" font-family entry with system-ui/Arial/Helvetica fallbacks; only the body-md size (16px/24px/400) is directly observed in CSS, all other sizes are proposed.
 
@@ -153,6 +157,13 @@ This is a proposed breakpoint scheme, not measured site behavior:
 Touch targets should be at least 44×44px for buttons and swatch selectors; the nav-bar is expected to collapse into a mobile drawer below `md`, and product-card grids to reflow to single column below `sm`. None of this was directly observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This interpretation is built from a static CSS/text extraction and carries several limitations. CSS custom properties such as `--action-primary`, `--action-on-primary`, `--h2`, `--h6`, and `--Weight-SemiBold` were referenced in selectors but never resolved to concrete values in the supplied evidence, so their color/size mappings (primary, on-primary, title sizing) are inferred rather than confirmed. No component screenshots, computed styles, or DOM layout were available, so hero, nav-bar, footer, search and text-input structures are proposed patterns based on page copy and adjacent CSS, not observed markup. All typography sizes except body-md (16px/24px/400, directly observed on `body`) are proposed estimates. Font licensing and self-hosting status for Inter/Roboto were not verified — only their presence in the font-family stack is confirmed. Mobile/responsive behavior, hover/focus states beyond the button rules shown, and interaction patterns (e.g. accordion, hotspot behavior) are inferred from partial selector names only.

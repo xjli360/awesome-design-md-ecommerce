@@ -4,6 +4,10 @@ name: "Womier"
 source_url: "https://womierkeyboard.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A keyboard brand that speaks through its materials — the extracted palette reveals a teal-green anchor at #108474, a color that appears nowhere in the social-icon or checkout-widget noise, and that carries the entire visual identity across buttons, badges, and accent lines. The site runs on a near-white canvas (#fafafa, #f9f9f9, #f9fafb) with a secondary teal at #c1e6e6 and a tertiary mint at #c5f7f0, creating a cool, aqueous atmosphere that contrasts with the warm yellow (#fbcd0a) used sparingly for sale badges and price highlights. The typography stack is Nunito Sans — a rounded, approachable sans-serif — set at modest weights (400–700) with generous line heights that make dense product grids feel airy. Buttons use the primary teal at {rounded.sm} with white text, while secondary actions drop to a soft #eeeeee background with #555555 ink. Product cards float on white with a #dedede hairline, and the footer collapses into a dense column of #555555 links on #f2f2f2. The brand's design moves are functional: the search bar is a pill-shaped field at {rounded.full}, category tabs are underlined on active state, and the cart badge appears as a #108474 circle with white numeral. There is no hero video or full-bleed imagery — the site trusts product photography against clean, spaced grids, with the teal acting as the single voltage that says "click here."
 
@@ -367,6 +371,13 @@ components:
 - Search bar: On mobile, the search bar expands to full width below the nav. On desktop, it sits inline in the nav at a fixed width.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "The Frankie Shop"
 source_url: "https://thefrankieshop.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   ZukaBeta — the brand's own condensed display typeface, named and proprietary — does the work that color refuses to do: The Frankie Shop's entire extracted palette is four shades of near-black and gray (#1a1a1a, #121212, #a0a0a0, #dedede) against a white (#ffffff) canvas, with no accent hue anywhere on the site. This is not minimalism as a trend position; it is a sustained editorial commitment that mirrors the brand's garment logic — architectural tailoring, clean structured shoulders, pieces designed to hold shape on the body the way a good typeface holds shape on a page. The result is a storefront that reads more like a fashion magazine grid than a Shopify template: generous whitespace absorbs product photography, ZukaBeta carries all headline weight, and the gray hairline (#dedede) is the only decorative element permitted. Buttons resolve to solid #1a1a1a fills with white reversal, or thin outlines that borrow the same ink — there is no softness in the CTA design, no pill radius, no gradient. Inputs and form fields use an underline-only discipline, sitting close to invisible until focus activates a 1px #121212 stroke. Navigation is sparse: a wordmark lockup in ZukaBeta flanked by functional text links at caption weight, the entire header anchored to a thin #dedede bottom border. Product cards strip everything except the image, a plain product name, and a price — no star ratings, no urgency badges, no quick-add overlays competing with the photography. The monospace fallback in the font stack signals an engineering-adjacent precision: this is a brand that chose a typeface with the same intention a developer might pick a terminal font. The absence of color in the design system is itself the brand color.
 
@@ -336,6 +340,13 @@ Full-width #1a1a1a footer with white caption-weight links organized in four colu
 - Hero editorial text moves below image on narrow mobile rather than overlaying where legibility would suffer
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

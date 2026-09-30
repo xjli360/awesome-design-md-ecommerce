@@ -4,6 +4,10 @@ name: "MonsGeek"
 source_url: "https://www.monsgeek.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A mechanical-keyboard brand that builds its visual identity around a deep, confident blue (#006799) — not the playful pastels or industrial grays typical of the hobby, but a saturated primary that reads as both premium and approachable. The brand tagline "Make Cool Gears Accessible" is reflected in a design system that balances enthusiast-grade detail with clean, uncluttered interfaces. Type runs on Poppins across three weights (Regular, Medium, Bold), with display sizes that lean into the geometric, slightly technical feel of the font — uppercase badges and tight letter-spacing on buttons echo the precision of keyboard switches. The palette extends into a controlled range of greens (#1e3828, #0f1f18) and accent tones (#82c0c7, #9de1bc) that suggest PCB colors and keycap gradients without overwhelming the primary blue. Cards and containers use soft rounding ({rounded.sm} to {rounded.md}), while CTAs and badges adopt pill shapes ({rounded.full}) that contrast with the otherwise rectilinear product photography. The system relies on a warm off-white canvas (#eeeeee) rather than pure white, giving the storefront a slightly softer, more editorial feel than the stark black-and-white of many tech brands. Navigation stays minimal — a single top bar with dropdowns, no mega-menus — letting the product grid do the heavy lifting. The extracted palette includes a wide range of generic web colors (multiple grays, blues, and bright accents like #f78da7 and #ff6900), suggesting either a WordPress-based backend or third-party widget integrations; the true brand voice lives in the consistent use of #006799 across primary actions, headers, and key links.
 
@@ -352,6 +356,13 @@ components:
 - Search bar becomes a full-screen overlay on mobile with larger input field.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

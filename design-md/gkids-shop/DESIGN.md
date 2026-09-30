@@ -4,6 +4,10 @@ name: "Gkids Shop"
 source_url: "https://store.gkids.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A storefront for animated film that trusts its product imagery to do the heavy lifting, wrapping every DVD, Blu-ray, and collectible in a restrained gray-scale system anchored on #3a3a3a — the ink color that appears on every price, every product title, and every navigation label. The palette is almost monastic: #191919 for the deepest text, #4d4d4d and #555555 for secondary information, #777777 for muted labels and footnotes, all set against a #dedede hairline that separates rows and cards with a softness that avoids the harshness of pure black-on-white. The single departure from gray is #c1c9d1, a cool steel-blue that appears in badge backgrounds and subtle UI accents — it reads as the color of a winter sky or an ink wash, not as a brand color in the traditional sense. Typography runs Avenir Next at modest weights (400 for body, 600 for titles), with display sizes staying under 24px even on hero sections; the brand trusts the film stills and poster art to provide visual drama, not oversized type. Buttons are compact rectangles at `{rounded.sm}` with 12px vertical padding, never pill-shaped, never oversized — they sit quietly beside the product, inviting rather than demanding. The overall feel is that of a small, curated cinema lobby: clean, slightly cool, letting the movies speak.
 
@@ -318,6 +322,13 @@ components:
 - Collection headers reduce from `{typography.display-md}` (20px) to `{typography.title-lg}` (18px) on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

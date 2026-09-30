@@ -4,6 +4,10 @@ name: "Art of Board"
 source_url: "https://artofboard.com"
 captured_at: "2026-09-29T03:54:16.075618+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Art of Board presents itself through a minimal, editorial Squarespace foundation: a near-black ink (#111111) on white canvas (#ffffff), with body copy carried in a softer charcoal (#3e3e3e) and secondary/meta text in mid-grey (#999999–#a9a9a9). The observed palette is dominated by neutrals and greys (#f6f6f6, #f7f7f7, #e7e7e7, #dddddd), consistent with a photography- and texture-led site where recycled skateboard imagery and material tiles are expected to supply the color, not the chrome. A single warm red-orange (#f0523d) appears in interactive/hover states (cookie-consent controls) and is treated here, by inference, as the brand accent for primary actions and focus states, since no other consistent accent recurs across the supplied evidence. Typography draws on roc-grotesk and Clarkson as the site's distinctive display faces, paired with Helvetica Neue/Arial as the system body fallback stack — fitting a design-and-licensing agency voice that is confident, condensed, and unfussy. Layout, spacing, and rounding values below are proposed conventions for a content-forward agency/catalog hybrid (statement hero, material/texture tiles, licensing contact), not measurements taken from a live DOM.
 
@@ -147,6 +151,12 @@ This is a recommended breakpoint structure, not measured site behavior:
 Touch targets should meet a 44px minimum height for buttons and nav items. The confirmed "Open Menu / Close Menu" text pair indicates an off-canvas or full-screen mobile menu pattern; its visual treatment (overlay color, animation) was not present in the supplied CSS and is therefore not specified here.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - This interpretation is built entirely from static CSS/text extraction; no live DOM, computed styles, or rendered layout were observed.

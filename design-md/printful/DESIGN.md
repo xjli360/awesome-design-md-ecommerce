@@ -4,6 +4,10 @@ name: "Printful"
 source_url: "https://www.printful.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The most revealing thing about Printful's palette is that its cobalt — `#003399`, a blue with almost no green contamination that reads closer to a university crest or heraldic seal than any typical SaaS product blue — shares the same design system with a cluster of fabric-sample warm neutrals: blush `#f4e3d9`, sand `#e6bda1`, muted khaki `#d0cdac`. That thermal opposition is the core brand signal. Printful is an industrial fulfillment platform that presents in the visual register of a design studio, and the palette is where the two identities negotiate. The single extracted font stack — ProximaNova-Extrabld — tells the same story from the typographic side: display headings run at extra-bold weight not as a gesture toward editorial refinement but as a frank declaration of production capability. Print fulfillment companies sell confidence in execution, and 800-weight type does the same work a bold guarantee seal does on a shipping label. The near-black navy `#03253d` serves as the ink anchor, keeping the entire system in the blue family even at its darkest end rather than slipping into neutral black. A deep teal `#003d3d` appears as a secondary surface and CTA color — pulling green into the cool temperature range for the first time, giving the system a second axis of authority distinct from the cobalt. Rounded corners are applied with restraint: buttons sit at a small 6px radius, cards at 12–16px, full-pill reserved only for search inputs and filter chips. Hero architecture is conversion-direct — high-contrast headline, single primary CTA in cobalt, a secondary outline button for alternative paths — because the product is invisible until it is printed. The design system must carry photography trust signals (lifestyle mockups of apparel, mugs, posters in use) and deliver a frictionless store-connection flow in the same breath. Surface colors do structural work: blush `#f4e3d9` containers provide warm contrast for transparent product PNG mockups; blue-mist `#c3d7e0` frames social proof stats; sand `#e6bda1` gives full-width editorial banners a material warmth that plain white cannot.
 
@@ -451,6 +455,13 @@ components:
 - Footer: 4-col grid → 2-col at tablet → accordion at mobile; legal row always visible without expansion
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

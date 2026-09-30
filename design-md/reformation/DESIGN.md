@@ -4,6 +4,10 @@ name: "Reformation"
 source_url: "https://thereformation.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every product page displays a RefScale counter—liters of water saved, pounds of CO2 avoided, pounds of waste reduced—before the size selector even appears. That data-first honesty is echoed in the design: a warm cream canvas (#eeece4) that reads like unbleached paper, type set in an editorial serif rather than a punchy grotesque, and deep navy (#0a1a69) standing in for the flat black that most fashion brands reach for. The site runs no decorative flourishes crowding the product imagery; generous negative space and restrained type do the entire job of positioning. Product cards float on the cream ground with zero border and zero shadow—context comes entirely from typography hierarchy and image placement, not UI chrome. Navigation is compressed to a single horizontal rule: brand name centered, category links flanking, account utilities at the right margin, all in a compact all-caps sans that defers to the photography below. The palette extracted from the live site is dominated by payment-processor injection—PayPal UI blues cluster around #003087 and #009cde—alongside the brand's own cream, a mid-gray body tone (#575757), and a high-energy red (#f50100) reserved exclusively for sale pricing and promotional callouts. Rounded corners skew sharp: cards and inputs sit at {rounded.xs} or {rounded.none} rather than the pill shapes common in softer DTC categories. Even the add-to-cart button is a full-width bar that stays flush against the product details panel, extending edge-to-edge on mobile. The overall effect is a fashion magazine printed in one ink with great photography—deliberate, flat, and legible at a glance.
 
@@ -372,6 +376,13 @@ components:
 - RefScale widget stacks its three metric columns vertically on viewports under 480px, maintaining equal visual weight for all three data points
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

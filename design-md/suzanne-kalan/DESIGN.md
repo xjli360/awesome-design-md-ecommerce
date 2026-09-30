@@ -4,6 +4,10 @@ name: "Suzanne Kalan"
 source_url: "https://www.suzannekalan.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Sage green — not gold, not ivory, not the expected cold white of a diamond case — is where Suzanne Kalan plants her chromatic flag: #aaccaa, a mint that reads as living and botanical rather than metallic. This choice alone marks the departure. Against a warm cream canvas (#ebe5dc), the sage carries a kind of garden vitality, suggesting these pieces belong in daylight, worn rather than stored behind glass. Deep aubergine navy (#1b1e2f) takes the weight of all primary text and headlines — not flat black but something with hue, something that shifts under light — while terracotta coral (#d77e6a) punctuates in select moments, the color of a stone's interior warmth or late afternoon sun catching a facet edge.
 
@@ -296,6 +300,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

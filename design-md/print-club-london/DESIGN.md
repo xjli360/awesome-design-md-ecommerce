@@ -4,6 +4,10 @@ name: "Print Club London"
 source_url: "https://printclublondon.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Royal blue #003388 stakes a gallery-quality claim on every page — not the corporate navy that financial services defaults to, but the dense, ink-saturated hue of a Dalston screen-printing studio that treats its own identity mark with the same precision it brings to a hand-pulled artist edition. The serif font stack leads all editorial moments: print titles, artist credits, and section headers inherit a serif at display scale, then the page steps down to system UI for body copy and navigation — a typographic split that maps onto the site's dual nature as both a commerce destination and an art-world publication. The extracted color set is unusually chromatic for a gallery-adjacent brand: amber #fbb102, scarlet #ab2e31, grass-green #00a901, and hot pink #e94c89 appear alongside the primary blue, signalling that each print drop and editorial campaign temporarily colonises the accent system rather than locking down to a fixed two-colour brand. Product imagery is presented edge-to-edge with minimal border radius — flat frames that foreground the art — while muted grays from #4f4f4f through #949494 carry supporting text so the canvas never competes with what's on it. Surface tones shift from exhibition white (#ffffff) to a soft warm lift (#f4f4f4) that differentiates card zones without introducing shadow depth. Calls to action sit on the royal blue reversed in white, legible and direct: the shop's equivalent of a gallery price label — no softness, no rounded friendliness, just the fact of availability. The nav uses low-contrast hairline separators (#f0f0f0) and quiet uppercase labelling, letting limited-edition scarcity messaging and hero artwork do the work of urgency.
 
@@ -325,6 +329,13 @@ components:
 - Footer multi-column link grid stacks to single column on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

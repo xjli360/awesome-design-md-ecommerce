@@ -4,6 +4,10 @@ name: "Emeril Lagasse"
 source_url: "https://www.emerileveryday.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   That unmistakable red — #c02826 — hits the page like a cast-iron sear mark, the same intensity Emeril brings to a stovetop. The Emeril Everyday digital storefront runs on a near-black scaffold (#171717 ink, #121212 for deep surfaces) that lets product photography of air fryers, pressure cookers, and blenders float against clean white canvas. Montserrat carries headlines at bold 700 weights with tight tracking, delivering punch without pretension — this is a kitchen brand that sells confidence, not aspiration. Inter handles body copy and UI labels at 400/500 weights, keeping readability high across spec-dense product comparison grids and recipe cards.
 
@@ -395,6 +399,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

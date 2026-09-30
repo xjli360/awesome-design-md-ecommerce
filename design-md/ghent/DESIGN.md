@@ -4,6 +4,10 @@ name: "Ghent"
 source_url: "https://www.ghent.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Boards at scale — Ghent's catalog is organized around products measured in feet rather than inches: eighteen-foot markerboard walls, floor-to-ceiling tackboards, mobile partitions that reconfigure a floor plan overnight. The primary action color `#37c2dd` is a cyan-forward teal that breaks cleanly from the navy-dominant blues saturating the commercial-office supply category; it carries enough chroma to anchor navigation and primary CTAs while reading warmly against the near-white canvases (`#f6f6f6`, `#f5f5f5`) that structure most catalog pages. A quieter sibling, `#aacccc` dusty sage, handles secondary fills, hover states, and footer link treatments, giving the two-tonal teal system a low-contrast coherence that never competes with product photography. Display headings use `mr-eaves-xl-modern`, a humanist sans with subtle calligraphic undertones that introduce brand character without breaking the authoritative register required for commercial procurement pages; interface body and UI copy run in `proxima-nova` at 14–16px, and `proxima-nova-condensed` appears wherever horizontal density matters — SKU codes, dimension fields, specification tables. The dark charcoal `#4b4f54` carries navigation backgrounds and heavy content anchors, stepping down from near-black `#090909` reserved for display ink; a graduated gray family (`#555555`, `#777777`, `#9d9d9d`) fills muted body copy, disabled states, and hairlines. Corner geometry stays conservative — `{rounded.sm}` on cards and inputs, `{rounded.xs}` on badges — because buyers evaluating NoteVision glass finishes and mounting bracket load ratings expect an interface that signals precision. The Bootstrap 3 framework underneath contributes utility alert colors (success `#5cb85c`, danger `#d9534f`, warning `#f0ad4e`, info `#5bc0de`) that are infrastructural rather than brand-expressive; the real brand signal lives in the teal pairing, the condensed type handling specification density, and the wide, low-density grid layouts that let product dimensions and finish options read at a glance.
 
@@ -381,6 +385,13 @@ components:
 - Filter sidebar transitions from persistent left rail (desktop) to horizontal chip strip (tablet) to full-screen modal sheet (mobile)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

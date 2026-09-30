@@ -4,6 +4,10 @@ name: "Bird + Stone"
 source_url: "https://www.birdandstone.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every piece at Bird + Stone ships with a cause printed on the tag — a wildlife fund, a girls' education program, a clean-water initiative — converting the act of buying a gold-fill ring into a legible commitment. That friction between lightness (the bird) and permanence (the stone) shapes the visual language: a warm ivory canvas (#fdfaf7) holds near-black ink (#1a1714) in tension with a single warm-gold primary (#c9a87c) that reads less like a brand color and more like the metal itself photographed under soft north light. Display type leans on a high-contrast serif — thin-stroked, slightly condensed — with the cadence of an independent jeweler's letterhead rather than a volume e-commerce template. Body copy and navigation drop to a restrained geometric sans at small weights, with letter-spacing pushed open enough to feel deliberate without tipping into fashion-brand affectation. Buttons stay close to `{rounded.sm}` rather than pushing to pill shapes; only the material-tag chip reaches `{rounded.full}`, marking metal type or stone names as a soft descriptor rather than a CTA. Product cards surface a cause-tag badge in a muted sage (#4a7c59) beneath the price — a small ribbon that reinforces why you're buying rather than just what. Navigation is minimal: four or five links, no mega-menu, a persistent cart drawer sliding from the right without a page reload. Section padding runs wide at `{spacing.section}`, giving each piece the room on a grid that a volume jeweler would fill with another SKU. Hairlines and surfaces lean toward taupe and cream rather than neutral grays, so the warm gold metal sits in a visual environment that flatters rather than competes. The overall register is intimate and purposeful — a brand that treats each purchase as a small act of advocacy, and designs accordingly.
 
@@ -326,6 +330,14 @@ components:
 - Cart drawer becomes a full-screen overlay below 480px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

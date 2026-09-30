@@ -4,6 +4,10 @@ name: "Still Life Ceramics"
 source_url: "https://stilllifeceramics.com"
 captured_at: "2026-09-28T09:50:29.441511+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Still Life Ceramics is an LA-based storefront for handmade pottery, functional art,
   and community classes, built on a Shopify theme exposing CSS custom properties for
@@ -167,6 +171,13 @@ Recommended breakpoints (not measured from live site):
 Touch targets should meet a minimum 44px height, aligning with the theme's `--height-button: 44px` token. Navigation is expected to collapse into a slide-out or overlay menu below tablet width (the theme defines `--z-index-flyouts` and `--z-index-header` tokens consistent with an off-canvas pattern), though this interaction was not directly observed. All breakpoint values and collapse behavior are proposed recommendations, not confirmed measurements.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

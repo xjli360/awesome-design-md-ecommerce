@@ -4,6 +4,10 @@ name: "Jellycat"
 source_url: "https://www.jellycat.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A single dark charcoal hex #313131 anchors Jellycat's entire digital presence — not as a background but as the typographic ink for product names, descriptions, and navigation, creating a deliberate contrast against the soft, almost powdery white canvas that surrounds each plush creature. The brand's visual language is one of careful restraint: product photography does the emotional work while the interface steps back into a minimal grid of generous whitespace and rounded corners that never exceed {rounded.md}. There are no bright accent colors competing with the toys; instead, the system relies on a muted gray scale (#6a6a6a for secondary text, #dddddd for hairline borders) to maintain hierarchy without introducing visual noise. Buttons appear as simple outlined rectangles with {rounded.sm} corners, their typography set in the system's default sans-serif stack at a modest 14px — the brand trusts the plush itself, not the button, to drive conversion. Product cards use a clean white surface with a subtle shadow, the creature's name set in a weight 600 title that sits just above a muted price. The overall effect is that of a gallery: each Jellycat animal is an artwork on a white wall, the interface a discreet label beside it.
 
@@ -289,6 +293,13 @@ components:
 - Breadcrumbs truncate with ellipsis on mobile, showing only current page and parent
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

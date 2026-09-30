@@ -4,6 +4,10 @@ name: "Hamilton Book"
 source_url: "https://www.hamiltonbook.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A discount retailer of books, DVDs, and CDs that wears its frugality like a badge of honor, anchored on a warm beige canvas (#f7f4ee) and a deep forest-green primary (#0f6730) that reads more like a used-bookstore sign than a tech brand. The palette is deliberately unpolished — muted olive (#a8a18a), brick red (#963231), and a single marigold accent (#fdce5c) for price tags and sale badges — creating a visual language that feels like a clearance table rather than a curated boutique. Navigation is utilitarian: a dense top bar with category dropdowns, a prominent search field with a green submit button, and product cards that stack three across with minimal whitespace. The typography stack defaults to system fonts (Arial, Helvetica, Georgia) with no custom typeface investment, reinforcing the no-frills ethos. Product cards show price in bold green (#0f6730) against the beige background, with original prices slashed in brick red (#963231) — the only two colors that carry semantic weight across the entire interface. Rounded corners are sparingly applied (`{rounded.sm}` on buttons, `{rounded.none}` on cards), keeping the feel functional rather than friendly. The overall impression is of a well-organized warehouse: everything is findable, nothing is precious.
 
@@ -406,6 +410,13 @@ components:
 - Breadcrumb navigation truncates on mobile, showing only the current page and "Home"
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

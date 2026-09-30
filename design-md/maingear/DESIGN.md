@@ -4,6 +4,10 @@ name: "Maingear"
 source_url: "https://www.maingearpc.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A void-black viewport forces a single spectral slash of red — #e5222a — to carry every interactive decision on the page, and that constraint defines everything downstream. Pre-built gaming towers and custom-configured rigs are photographed against negative space so complete that the chassis geometry reads like industrial sculpture rather than retail merchandise. Display type runs wide, condensed, and heavy — suggesting the typographic tradition of motorsport and aerospace spec sheets rather than the rounded, approachable geometry of consumer electronics — and model names like "VYBE", "RUSH", and "ELEMENT" appear at display-xl scale functioning closer to part numbers than marketing headlines. Hard corners ({rounded.none}) appear everywhere structural: build-config tables, spec cells, hero staging, form fields. Only logistics badges — "IN STOCK", "SHIPS TODAY" — earn a modest {rounded.xs} to signal their secondary, informational status.
 
@@ -352,6 +356,13 @@ components:
 - Category tab strip becomes horizontally scrollable with soft fade mask at < 744px — no wrapping or line break
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Fairmont Designs"
 source_url: "https://fairmontdesigns.com"
 captured_at: "2026-09-29T04:21:38.801965+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Fairmont Designs Hospitality presents itself through a restrained, editorial palette built on near-black ink (#1c1c1c), a warm off-white "tan" surface (#f1f0e9), and a crisp white canvas, all directly observed in the theme's root CSS variables (--dark, --tan, --line). Primary interactive elements — buttons and file-download links — use a dark charcoal-slate background (#32373c) with white text, evidenced by the wp-element-button and .wp-block-button__link rules; this is treated as the site's primary action color rather than an unverified accent hue, since the CSS-declared --primary green was not present in the confirmed observed palette. Body copy is set in "source-sans-pro" with a sans-serif fallback, while headings use the licensed display face "Wulkan Display" and its italic cut for emphasis, both confirmed in the theme's font-loading stylesheet. Hairlines and dividers reuse the observed #dddddd line color; secondary surfaces draw from #eeeeee and #f9fafb for card and panel backgrounds, and #313131 stands in for deep, dark utility-class sections (has-very-dark-gray-background-color). The rounded scale mirrors the observed fully-pill button radius (9999px) down to smaller proposed increments for cards and inputs. Because the source is a hospitality-contract furnishings site organized around projects, portfolio, and a product program rather than a retail catalog, component patterns favor a project/portfolio card alongside a generic product-card, with semantic color-to-role mapping explicitly labeled as inferred wherever the CSS only supplied a raw hex value without stated purpose.
 
@@ -145,6 +149,13 @@ Recommended, not measured breakpoints:
 Touch targets should be at least 44×44px for buttons and nav items. Navigation collapse behavior, hover/focus states, and animation timing (a `--easeOut` cubic-bezier was observed but its application was not) are proposed conventions, not confirmed interactions.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

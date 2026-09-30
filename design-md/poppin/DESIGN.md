@@ -4,6 +4,10 @@ name: "Poppin"
 source_url: "https://www.poppin.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every product page at Poppin doubles as a color theory exercise — the same stapler, monitor stand, or pencil cup appears in a dozen variants arranged in a tight chromatic grid, making hue the primary purchase variable before form enters the picture. The brand's conviction is that office equipment carries mood, and the interface is built accordingly: a white canvas (#ffffff) anchored by a single confirmed charcoal (#313131) that handles all UI chrome, body text, and — crucially — primary CTA buttons, a neutrality strategy that keeps attention on product colors rather than interface chrome. No custom typeface was detectable; typography runs on the system sans-serif stack at modest weights, letting the color grid carry expressive load that other brands offload to branded letterforms. Interactive elements wear modest {rounded.xs}–{rounded.sm} corner radii — approachable enough for consumer purchases, composed enough for the significant B2B and contract furniture business the brand also serves. The product grid is the true design signature: items march in uniform columns with consistent thumbnail aspect ratios and inline color swatches sitting below each card image, collapsing complex variant selection into a single scannable row. Navigation spans flat top-level categories — desk accessories, seating, storage, whiteboards — optimized for B2B buyers who know which department they're furnishing, not consumers in need of guided discovery flows. Footer architecture doubles as a corporate gateway: wholesale inquiry links, corporate account CTAs, and bulk pricing references sit alongside standard nav links, foregrounding contract business as equal in weight to direct consumer sales. The absence of urgency mechanics — no countdown timers, no scarcity warnings, no sale-badge noise — reinforces a design-first positioning where color availability and product coherence are the competitive differentiators, not promotional pressure.
 
@@ -402,6 +406,13 @@ components:
 - Footer columns stack to single-column accordion at < 744px; corporate column surfaces first in the stacked order, reflecting its commercial priority
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

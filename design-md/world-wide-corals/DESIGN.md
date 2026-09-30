@@ -4,6 +4,10 @@ name: "World Wide Corals"
 source_url: "https://worldwidecorals.com"
 captured_at: "2026-09-28T04:47:23.493452+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   World Wide Corals presents as a saltwater-aquarium superstore front, and the
   supplied CSS confirms a deep-navy-to-royal-blue gradient (`#000f69` to
@@ -171,6 +175,10 @@ Recommended, not measured, breakpoint table:
 Touch targets should be at least 44px for cart/add-to-cart controls given the large catalog of individually priced livestock items. Navigation collapse behavior (hamburger vs. inline mega-menu) is inferred from the presence of a `--header-inline-navigation` custom property, but exact breakpoint thresholds were not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

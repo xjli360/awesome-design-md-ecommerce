@@ -4,6 +4,10 @@ name: "Chase Bliss"
 source_url: "https://www.chasebliss.com/"
 captured_at: "2026-09-29T04:11:59.244291+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Chase Bliss is a Squarespace-built storefront for a boutique guitar-pedal
   maker (PEDALS, CHOMPI, UTILITY, MERCH), and the supplied CSS evidence comes
@@ -169,6 +173,13 @@ Recommended, not measured from live site:
 Touch targets should be at least 44×44px for buttons and nav links. Popup/lightbox close controls and outline buttons should retain the observed hover/transition timing (170ms ease-in-out) as a general interaction convention across breakpoints. None of this responsive behavior was directly observed; it is a standard proposal for a Squarespace-based commerce layout.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

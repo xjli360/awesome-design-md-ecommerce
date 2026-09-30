@@ -4,6 +4,10 @@ name: "Halios"
 source_url: "https://www.haliosbrand.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every Halios watch ships without a retail partner between maker and buyer — Jason Lim's Vancouver studio closes the loop at checkout, which means the site itself must carry the full freight of brand trust. The UI answers that pressure through subtraction: a deep navy estimated at #12203a anchors hero sections the way a matte dial anchors a finished case, while an off-white canvas (#f7f5f2) provides the reading surface for product descriptions written with the economy of a spec sheet. No accent color competes for attention; `{rounded.none}` rules every interactive element — buttons, inputs, cards — because sharp corners signal that this object is not trying to be friendly, it is trying to be precise. Typography runs at light weights (300–400) in a clean geometric sans, sized modestly: headlines at 48px in the display tier feel unhurried rather than monumental. Product names appear in uppercase with tracked spacing (`{typography.model-name}`, 1px letter-spacing) above price figures at weight 300, an arrangement that reads like a catalogue entry rather than a retail pitch. The collection grid is strictly two-column with generous gutters, uniform card proportions, and no hover-overlay commerce tricks — clicking is the only affordance offered. Waitlist states, which appear frequently given the brand's limited-run production model, are rendered as muted off-white blocks that keep the page layout intact while communicating scarcity without urgency theater. The footer repeats the navy from the hero, closing the page as a visual bracket. Navigation holds fewer than five items; the absence of a search field suggests a catalog small enough to browse in two scrolls. Release windows and drop dates occasionally appear as a slim announcement bar above the nav — the only moment the brand allows itself to break the silence. Every decision reads as deliberate economy: fewer things, without ornament, communicate the quality of the object more reliably than any amount of styling.
 
@@ -298,6 +302,13 @@ components:
 - Announcement bar text truncates with ellipsis below 375px if copy exceeds one line; never wraps to two lines
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Blendtec"
 source_url: "https://www.blendtec.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Industrial red (#d6403d) punches through a near-black canvas (#111111) like a power button glowing on a commercial-grade motor housing — that single chromatic move anchors every CTA, sale badge, and "Add to Cart" moment on Blendtec's Shopify storefront. The site operates in a deliberately narrow tonal corridor: charcoal ink (#323232, #444444) over warm-cool neutrals (#f4f4f4, #e8e8e1), letting full-bleed product photography of brushed-steel jar assemblies and powder-coated bases do the heavy sensory lifting. A surprising pink accent (#ff82af) surfaces in promotional banners and seasonal callouts — a deliberate temperature shift that softens what is otherwise an engineering-forward palette and nods toward the smoothie-bowl, wellness-adjacent audience that buys a $500 blender for daily use rather than spectacle. Typography runs Lato at generous weights: display headings land bold at 600–700 in the 36–48px range with tight negative tracking, communicating precision engineering without the coldness of a condensed industrial face. Body copy at 400-weight and 16px breathes comfortably at 1.6 line-height — readable against both the dark hero sections and the light product-grid canvas. Buttons are confidently squared off with only `{rounded.xs}` softening, reinforcing the machine-tooled aesthetic; product cards take `{rounded.sm}` to separate content zones without looking playful. Spacing is generous throughout — `{spacing.section}` between content blocks, `{spacing.xl}` gutters on desktop grids — giving each blender model room to command attention the way a flagship appliance commands counter space. The navigation bar pins dark (#121212) with white logotype, establishing the "professional kitchen" atmosphere before a single pixel of content scrolls into view.
 
@@ -414,6 +418,14 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

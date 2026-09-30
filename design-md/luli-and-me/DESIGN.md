@@ -4,6 +4,10 @@ name: "Luli & Me"
 source_url: "https://lulime.com"
 captured_at: "2026-09-29T04:35:15.918263+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from the current lulime.com storefront, a WordPress/Elementor
   site presenting Luli & Me's heirloom-quality smocked children's dresses, with purchasing
@@ -155,6 +159,13 @@ components:
 Proposed breakpoints (not measured): mobile ≤600px (single-column product list, stacked hero, nav collapsed to a menu icon), tablet 601–1024px (2-column product grid, inline nav), desktop >1024px (3–4 column grid, content max-width per `--wp--style--global--content-size: 800px` / `--wp--style--global--wide-size: 1200px` tokens observed in the theme root). Touch targets for buttons and the Buy-on-Amazon CTA should maintain a minimum 44px height. This table is a recommendation derived from standard WordPress/Elementor conventions and the observed content-width tokens, not from captured live responsive behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is built from static CSS/text extraction only; no rendered layout, hover state, animation, or actual breakpoint behavior was observed. Header/navigation, form/input, and footer markup were not present in the supplied CSS, so those components are proposed patterns rather than confirmed styles. The large supplied color list includes many default WordPress block-editor palette swatches (e.g., `#fcb900`, `#0693e3`, `#9b51e0`) whose actual on-site usage is unconfirmed; only colors with clear CSS rule attribution (`#5C3A21`, `#2C1810`, `#32373c`, `#ffffff`, `#333333`) are treated as core brand colors, with others offered as possible accents. Font availability, licensing, and self-hosting status for "Playfair Display" and "Source Sans 3" were not verified beyond their appearance in `font-family` declarations. All pixel sizes outside the one observed h1 rule (40px/700/-0.3px) are proposed, not measured.

@@ -4,6 +4,10 @@ name: "Slumber Cloud"
 source_url: "https://www.slumbercloud.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Slumber Cloud is a sleep-focused DTC bedding brand that wraps its promise of cooler, more restful nights in a palette of calm, clinical precision and warm, approachable comfort. The brand's visual identity is anchored on a near-white canvas (#fafafa) and a soft, almost ethereal surface (#fcfaf1), against which a restrained set of accent colors — a deep navy (#191c2f, #1b1d36), a muted crimson (#d72c0d), a cooler red (#e8144b), and a fresh mint (#13a165) — create moments of deliberate contrast. The primary ink (#191919) is a near-black, used for body copy and headlines, while secondary text (#5e5e5e) and muted tones (#9ea2a2, #cbcbcb) keep the hierarchy calm and legible. Typography relies on Roboto, a clean, geometric sans-serif that feels both modern and trustworthy, with display sizes using modest weights (500–600) rather than heavy 700+ — the brand trusts its product photography and generous whitespace over typographic muscle. Signature design moves include softly rounded cards (`{rounded.md}` ~12px) and pill-shaped CTAs (`{rounded.full}`) that read as friendly and human, while the persistent use of a deep navy (#191c2f) for navigation and footer backgrounds grounds the page and creates a sense of stability. The brand's voice is reassuring and scientific — it speaks of "cooling technology" and "temperature regulation" without feeling clinical, using a warm red (#d72c0d) sparingly for urgency (sale badges, limited-time offers) and a soft green (#13a165) for positive signals (in-stock, free shipping). The overall effect is a brand that feels like a well-made bed: clean, inviting, and designed for deep, uninterrupted rest.
 
@@ -426,6 +430,13 @@ components:
 - Multi-column content sections (reviews, features) collapse to single-column stacks
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

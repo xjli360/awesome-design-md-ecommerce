@@ -4,6 +4,10 @@ name: "Ohana Ukuleles"
 source_url: "https://www.ohana-music.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A monochrome stage for instrument craft, where #121212 ink on #dedede canvas reads less as minimalism and more as a deliberate silence — the kind that lets a koa wood grain or a mother-of-pearl rosette speak at full volume. The brand's Shopify storefront uses no decorative color beyond the product itself; every button, badge, and nav bar is rendered in near-black on near-white, with the sole exception of a warm amber accent (#c87a2b) that appears on sale badges and limited-edition callouts, borrowed directly from the honey tone of a well-aged acacia top. Typography runs a single sans-serif stack at modest weights — display headlines sit at 24px weight 600, body text at 15px weight 400 — and the brand trusts high-resolution product photography over typographic hierarchy. Cards use a soft 12px radius (`{rounded.md}`) that echoes the gentle curve of a ukulele body, while the primary CTA button is a flat 48px-high rectangle (`{rounded.sm}`) in #121212 with white text, a quiet invitation rather than a shout. The checkout flow inherits Shopify's default widget colors, but the brand's own canvas remains resolutely neutral, letting the instruments — sopranos, concerts, tenors, and the occasional pineapple-shaped novelty — provide all the warmth.
 
@@ -445,6 +449,13 @@ components:
 - Search bar collapses from inline to full-width overlay on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

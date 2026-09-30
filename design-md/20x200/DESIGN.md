@@ -4,6 +4,10 @@ name: "20x200"
 source_url: "https://20x200.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every edition in the catalog carries two numbers that encode the brand's founding premise — a fixed run, a fixed price — and the site's visual logic mirrors that arithmetic clarity. The canvas floats on warm off-white (#faf9f5 and #f4f2ee) rather than clinical white, immediately placing the work in a context closer to acid-free mat board than to a sterile tech storefront. Against that warm ground, a single voltage of burnt orange (#ed7c35) pulls every primary CTA, price badge, and hover accent — a hue that reads as neither gallery-stiff nor streetwear-loud, landing precisely in the territory of an independent art publisher's colophon stamp. Merriweather serif carries artwork titles and editorial copy, lending the weight of art criticism to descriptions that start at $35; Libre Franklin handles nav, labels, and UI chrome in a workhorse register that never competes with the image.
 
@@ -434,6 +438,14 @@ components:
 - Edition carousel: arrow buttons hidden on touch; swipe gesture with momentum scroll handles navigation
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

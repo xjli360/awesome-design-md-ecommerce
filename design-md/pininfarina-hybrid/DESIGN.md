@@ -4,6 +4,10 @@ name: "Pininfarina Hybrid"
 source_url: "https://www.pininfarina-hybrid.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The cursive "f" that graced Ferrari 275 GTB flanks and Lancia Aurelia coupes reappears here at 42mm scale, anchoring a watch face where Swiss mechanics and Milanese software share the same dial. Pininfarina Hybrid carries the studio's ninety-year coachbuilding vocabulary — surfaces shaped by aerodynamic logic, proportions that reward prolonged study — into connected wearables. The palette, inferred from the brand's documented automotive identity rather than live extraction, runs deep: a near-black carbon canvas (#111111) hosting surfaces that step up in small luminosity increments (#1a1a1a, #222222), with Italian Racing Red (#cc0000) reserved for a single primary CTA voltage and no secondary warmth anywhere on the page. Silver-platinum (#c4c4c4) provides the material analogue for chrome trim, appearing in border tokens, icon fills, and the metallic caption tier that enumerates case specifications. Type inhabits a neutral geometric sans-serif in the Futura or Helvetica Neue lineage: display sizes set at light weights (300–400) so product photography dominates, body copy in near-white (#e0e0e0) at 16px, specification data in muted silver (#9a9a9a) at 13px with wide uppercase tracking that echoes an instrument dashboard. Motion should feel mechanical rather than elastic — no bounce curves, just smooth deceleration that mirrors the feel of a well-oiled crown being wound. Product cards place the watch image over a dark field with a minimal data row below: movement type, case diameter, battery life, separated from price by a 1px hairline at #2a2a2a. Buttons carry zero corner radius throughout, reading as precision-engineered rather than consumer-app. The overall register is controlled and cool-industrial: a design-house credential brought to e-commerce with the restraint one expects from a Pininfarina concept first rendered in clay.
 
@@ -353,6 +357,13 @@ components:
 - Footer compresses from four columns to two at tablet, single column at mobile; column heads remain as visible separators
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

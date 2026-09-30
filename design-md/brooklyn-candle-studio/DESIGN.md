@@ -4,6 +4,10 @@ name: "Brooklyn Candle Studio"
 source_url: "https://brooklyncandlestudio.com"
 captured_at: "2026-09-28T05:06:40.704366+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Brooklyn Candle Studio's storefront evidence points to a warm, editorial luxury-goods aesthetic built on a near-black/white core (#000000, #1c1c1c, #ffffff) paired with soft warm neutrals (#f9f8f4, #efe3dc, #f3e8e4, #e8d6cc) that read as candle-wax cream, kraft, and blush tones. A muted grayscale system (#303030, #767474, #d9d9d9, #e5e5e5) supports body copy, dividers, and disabled states, while #c9a24e (gold) and #c4443b (terracotta) are treated here as inferred accent colors for seasonal badges, ratings, or promotional callouts, since the CSS shows them present but does not confirm their exact UI role. #c70000 appears tied to sale/promo messaging given the "WAREHOUSE SALE" and "on-sale" token names, so it is mapped to a sale/alert role. Typography is anchored by Miller Display (a serif family with Roman, Light, SemiBold, Bold and Italic cuts) for headline moments, contrasted with Helvetica/Helvetica Neue and Montserrat for UI chrome, navigation, and body text — matching the brand's stated positioning as a "luxury" handcrafted candle and home-fragrance line. Root-level tokens (--text-xs through --text-xl, container-gutter, section-vertical-spacing) confirm a compact, mobile-first type scale and generous section spacing, which this document extends into a full interpreted system. All layout proportions, hover/focus states, and breakpoints below are proposed conventions, not measured observations.
 
@@ -146,6 +150,12 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets are recommended at a minimum 44×44px for buttons and nav links. The mobile sidebar menu (`header-sidebar__linklist`) should collapse nested scent/collection menus into accordion panels, consistent with the "back-button" pattern seen in the CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Evidence is limited to static CSS rules and page text; no rendered layout, hover states, animations, or actual breakpoint values were observed.

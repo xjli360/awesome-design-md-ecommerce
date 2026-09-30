@@ -4,6 +4,10 @@ name: "Leder Games"
 source_url: "https://ledergames.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A board-game publisher that builds its visual identity around the deep, almost-black #231f20 — a near-ink that reads as charcoal rather than true black, giving the brand a grounded, slightly warm seriousness. This primary color appears on the site header, footer, and primary buttons, while the accent palette draws from the games themselves: a muted sage #7396a2, a forest green #116633, and a restrained red #ed1b2f that never screams. The site uses a clean white canvas (#ffffff) with soft gray surfaces (#f3f3f3, #f6f6f6) and hairline borders (#dedede, #dbdbdb) to create a calm, editorial backdrop for game art. Typography defaults to Arial and Helvetica Neue — a pragmatic, no-nonsense choice that prioritizes readability over personality, letting the elaborate game illustrations and iconography carry the emotional weight. Buttons are softly rounded ({rounded.sm}) with generous padding, and product cards use subtle shadows on white surfaces ({surface-card: #ffffff}). The overall mood is that of a serious game studio — confident in its craft, unafraid of dark backgrounds, and trusting that the fantastical worlds of Root, Oath, and Arcs need no decorative chrome from the UI.
 
@@ -511,6 +515,13 @@ components:
 - Search bar may collapse to an icon-only button on mobile, expanding to full width on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

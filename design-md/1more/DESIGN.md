@@ -4,6 +4,10 @@ name: "1MORE"
 source_url: "https://usa.1more.com"
 captured_at: "2026-09-28T10:17:27.077165+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   1MORE's storefront CSS exposes a neutral, technical palette built around a near-black
   foreground (#121212), a soft blue-gray canvas (#f0f3f6), and white product-card
@@ -164,6 +168,14 @@ components:
 Touch targets are recommended at a minimum 44×44px for cart, nav, and badge-adjacent controls. Mobile navigation is assumed to collapse into a slide-out or hamburger menu given the multi-level category structure (All Products, Open-Ear, Over-Ear, True Wireless, Wired) implied by the text excerpt. This table is a recommendation based on typical Shopify-theme conventions; no viewport-specific CSS or media queries were included in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

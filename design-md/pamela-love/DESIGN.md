@@ -4,6 +4,10 @@ name: "Pamela Love"
 source_url: "https://www.pamelalove.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Ortica-Light letterforms lean at a near-whisper weight over a canvas of warmed cream (#f8f4f2), announcing that every choice here is deliberate restraint rather than absence of ambition. Pamela Love's jewelry—cast talons, celestial arcs, molten bronze settings—demands a digital container that feels excavated rather than designed: deep espresso-black (#170c0a) grounds the site like scorched earth, while a copper-warm terracotta (#956c56) and a dusty rose-tan (#c89173) echo the oxidized metal and raw gemstone surfaces of the objects themselves. The typographic stack is unusually layered for a jewelry brand—Peskia and Ortica-Light for display, EB Garamond for editorial prose, Pitch Sans for functional UI labels, ag-book-extended for section headers—suggesting a studio that treats each typographic register as a distinct material rather than a single house style. Buttons carry zero border-radius at their core: no pill forms, no friendly rounding, all square-edged authority, a hard corner that mirrors the forged quality of the product. Product cards sit on a neutral warm-gray surface (#d3cfce), photographed on skin or stone rather than white infinity, so the image bleeds to edge without a visible frame. Navigation runs in tight Pitch Sans uppercase tracking, compressed against the left, a quiet grid that never competes with the editorial photography below it. The overall surface temperature is warm without being feminine in any conventional sense—cream and espresso and copper together read closer to a craftsperson's worktable than a jewelry-box lining. Social-share icons (Twitter/Facebook blues, Pinterest red) are isolated from the brand palette entirely; the only voltage that belongs to Pamela Love is the earthen spectrum from #f8f4f2 through #956c56 to #170c0a.
 
@@ -387,6 +391,13 @@ components:
 - Footer: 4-column link grid collapses to 2 columns (tablet) then accordion-expandable single column (mobile)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

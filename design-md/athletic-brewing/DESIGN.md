@@ -4,6 +4,10 @@ name: "Athletic Brewing"
 source_url: "https://athleticbrewing.com"
 captured_at: "2026-09-28T04:33:30.885246+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Athletic Brewing's storefront CSS centers on a deep navy (#003a5d) as the core
   foreground, link, and badge color, paired with warm neutrals (#ffffff canvas,
@@ -189,6 +193,12 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be at least 44×44px for buttons and nav items (proposed, standard accessibility guidance). Navigation is expected to collapse into a drawer or hamburger menu below tablet width; this collapse behavior was not observed in the supplied CSS and is a UX recommendation only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

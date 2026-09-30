@@ -4,6 +4,10 @@ name: "Outer"
 source_url: "https://liveouter.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Outer is an outdoor furniture brand that reimagines the backyard as an extension of the home, not a separate, less comfortable space. The brand's visual language is anchored in a deep, confident navy (`#223843`) that reads as both premium and grounded — it appears on primary navigation, key CTAs, and footer backgrounds, creating a consistent frame of reliability. Against this, a crisp white canvas (`#ffffff`) keeps the product photography and lifestyle imagery breathing, while a soft silver-grey (`#dedede`) appears in hairline borders and subtle dividers, echoing the aluminum and steel frames of the furniture itself. The accent palette introduces a vibrant sky blue (`#1990c6`) and a deeper oceanic teal (`#136f99`) that appear in hover states, secondary badges, and promotional highlights — these blues feel organic to the outdoor setting, not arbitrary brand decoration. A near-black (`#121212`) provides high-contrast body text for readability in bright sunlight, and a system blue (`#007aff`) handles standard link and interactive affordances. Typography runs Barlow, a geometric sans-serif with warm, open apertures that balance modernity with approachability — display sizes sit at moderate weights (500–600) rather than heavy 700+, letting the furniture's silhouette and material texture carry the visual weight. The system uses generous `{rounded.sm}` (8px) on cards and buttons — soft enough to feel friendly, not so pill-shaped that it undermines the clean, architectural lines of the product. Spacing is generous: `{spacing.section}` (64px) separates major content blocks, while `{spacing.lg}` (24px) and `{spacing.xl}` (32px) create comfortable breathing room around product grids and feature panels. The overall effect is a brand that feels like a well-edited outdoor room — intentional, uncluttered, and quietly luxurious, where every design decision serves the goal of making the outdoors feel as livable as indoors.
 
@@ -390,6 +394,13 @@ components:
 - Search bar collapses to icon-only on mobile, expanding to full-width overlay on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Think Tank Photo"
 source_url: "https://thinktankphoto.com"
 captured_at: "2026-09-28T09:31:08.608546+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Think Tank Photo's storefront evidence shows a neutral, utilitarian palette built around near-black text (#121212, #2f2b2b), white/off-white surfaces (#ffffff, #f8f8f8, #fcfcfc), and a single saturated interactive blue (#1990c6, hover #136f99) drawn from the Shopify accelerated-checkout button styles. Skeleton-loading and border grays (#dedede, #e6e6e6, #00000033) round out a restrained, functional UI consistent with a technical gear retailer. Several palette entries (#eb001b, #f79e1b, #ff5f00, #0071ce, #142fbd, #1532cb) are standard payment-network brand marks (Mastercard/Visa-style) rather than site design colors and are excluded from role assignment here.
 
@@ -141,6 +145,13 @@ components:
 Recommended breakpoints (not measured): mobile ≤599px, tablet 600–959px, desktop ≥960px. Touch targets should be a minimum 44px height, matching the `clamp(25px, …, 55px)` range seen in the Shopify accelerated-checkout button CSS. The deep multi-level nav (Rollers/Backpacks/Bags/Modular Belt System/Collections/Support) should collapse into an accordion or drawer below tablet width. This section is a design recommendation only; no live responsive behavior, viewport screenshots, or media-query CSS were supplied.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived entirely from static CSS/text extraction; no rendered screenshots, computed styles, or interaction states (hover, focus, active, error) were observed beyond the few pseudo-class rules present in the evidence (e.g. `.shopify-payment-button__button--unbranded:hover`). Semantic role assignment for colors such as body/muted/ink-secondary is inferred from typical usage patterns, not confirmed CSS selectors for body text. All typography sizes outside the two confirmed values (15px product title, 12px modal header) are proposed. Font availability, licensing, and whether Montserrat/Nunito are self-hosted or third-party embeds were not verified. Mobile navigation, cart drawer, and quick-view modal behavior were not observed and are proposed conventions only. Payment-network palette entries (Mastercard/Visa-style hexes) were excluded from role mapping as they represent third-party marks, not brand design tokens.

@@ -4,6 +4,10 @@ name: "La Colombe"
 source_url: "https://lacolombe.com"
 captured_at: "2026-09-29T04:05:06.063000+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   La Colombe's storefront CSS shows a warm cream canvas (#fef9f4) paired with a deep
   navy ink (#0f223e) used for both running body copy and the primary button fill, per
@@ -166,6 +170,13 @@ Recommended breakpoints (not measured):
 Touch targets should be at least 44px tall for buttons and nav items. The header height custom properties (111px–135px) observed in `:root` suggest the live site adjusts header height across breakpoints/announcement-bar states, but exact collapse behavior, sticky logic, and mobile menu treatment were not observed and are recommendations only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

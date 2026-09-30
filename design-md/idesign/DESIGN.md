@@ -4,6 +4,10 @@ name: "iDesign"
 source_url: "https://idesignlive.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Clear acrylic bins and white wire shelving define iDesign's physical catalog, and that same logic — reveal what's inside, remove the unnecessary — extends to their digital surfaces. The site runs on a bright white canvas with a confident corporate blue (estimated ~#1660D8) anchoring all primary actions, producing a palette that reads closer to a professional storage-systems specifier than a lifestyle home décor brand. Navigation is categorical and functional: drawers, shelving, bath, kitchen — the product taxonomy mirrors the grid you'd actually build in a closet. Type defaults to clean, neutral sans-serif stacks with modest weights, letting product photography carry visual weight rather than display type. Components lean into utility: category tile grids, filter-heavy product listings, and cart-forward CTAs with none of the editorial looseness common in adjacent home brands. Rounded corners are conservative — `{rounded.sm}` on cards and buttons keeps the brand efficient without reading cold. The organization proposition relies on visible density: showing many products at once in tight rows signals depth of assortment, a cue that this is a complete system rather than a curated edit. Badges and category labels carry uppercase weight to help shoppers navigate product type — tension mount, suction, mesh, wire — rather than lifestyle aspiration. On mobile, the grid collapses to a single column with a sticky add-to-cart bar, keeping purchasing friction low for someone already standing in their pantry measuring shelf gaps. Promotional pricing speaks through a sharp `{colors.badge-promo}` orange-red, the one moment of heat against an otherwise cool-neutral field. The brand communicates in the language of the label maker rather than the mood board: every UI element is a container waiting to be filled.
 
@@ -385,6 +389,13 @@ components:
 - Footer four-column link grid collapses to accordion-style stacked columns on mobile; legal row and payment marks remain visible at bottom
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

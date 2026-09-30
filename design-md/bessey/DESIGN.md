@@ -4,6 +4,10 @@ name: "Bessey"
 source_url: "https://besseytools.com"
 captured_at: "2026-09-28T10:13:40.916116+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from BESSEY Tools North America's supplied CSS and page text. The observed palette centers on a strong red (#e3000f, with a close variant #e3000b and hover/darker state #b6000c) paired with near-black ink (#000000, #1f2426) and a white canvas (#ffffff). Bootstrap-derived utility colors (#dc3545, #198754, #ffc107, #6c757d, #f8f9fa, #dee2e6) appear throughout, indicating a Bootstrap-based front end with default state colors (danger, success, warning, muted) layered over a custom brand red. Headings use Roboto with Arial/Helvetica/sans-serif fallbacks per the observed h1–h6 rule; body text is assumed to inherit the same Bootstrap body-font stack, as no distinct body font-family rule was supplied, so Roboto is reused there as an inferred choice. Roboto Slab was observed in the font list but no selector confirming its role was supplied, so it is treated as a possible display accent only, not assigned to a component. Buttons show bold weight, zero border-radius by default, and a light inset/shadow treatment (#ffffff26, #00000013). This design system proposes an industrial, high-contrast, utilitarian language: sharp corners on buttons, red as the sole accent for actions and emphasis, and generous use of neutral grays for structure, reflecting a B2B tools manufacturer site rather than a decorative retail brand.
 
@@ -151,6 +155,14 @@ This is a recommended, unmeasured breakpoint scheme following the Bootstrap vari
 Touch targets on buttons and nav items should be at least 44px tall in mobile contexts; this is a proposed accessibility guidance, not a site-measured value. Collapse behavior for the primary navigation and language switcher (EN/FR) is assumed conventional (hamburger toggle) but was not observed in the supplied CSS or markup.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is built entirely from static CSS variable dumps, a page-text excerpt, and a flat color/font-family list; no rendered layout, computed styles, or DOM structure were observed. Component boundaries (nav-bar, hero, product-card, footer, search) are inferred from page-text content and generic Bootstrap conventions, not from selectors tied to those regions. Font-size, line-height, letter-spacing, and weight values in `typography` beyond the base `body`/heading rules are proposed defaults scaled for an industrial B2B site, not measured from the source. The role of Roboto Slab (present in the font-family list but with no confirming selector) is left unassigned. Hover, focus, active, and disabled states beyond the generic `.btn:hover`/`:focus-visible` variable references are proposed, not verified interactions. Mobile/tablet navigation collapse behavior was not observed. Availability, licensing, and web-font loading configuration for Roboto were not verified from this evidence set.

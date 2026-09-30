@@ -4,6 +4,10 @@ name: "Petros Guitars"
 source_url: "https://www.petrosguitars.com"
 captured_at: "2026-09-29T04:00:30.189750+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Petros Guitars is a Squarespace-built site for a small-batch, family-run
   acoustic-guitar and ukulele workshop founded in 1972. The observed palette
@@ -158,6 +162,13 @@ components:
 Proposed breakpoints (not measured): mobile ≤600px (single-column, stacked nav collapsing to a menu icon), tablet 601–1024px (two-column galleries, condensed nav), desktop ≥1025px (full multi-column layout, expanded nav). Touch targets for buttons and nav items should be at least 44×44px. Navigation is expected to collapse into a hamburger/off-canvas menu below tablet width, consistent with common Squarespace patterns, but this collapse behavior was not directly observed on the source page.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

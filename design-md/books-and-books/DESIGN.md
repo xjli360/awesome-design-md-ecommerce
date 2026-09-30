@@ -4,6 +4,10 @@ name: "Books & Books"
 source_url: "https://www.booksandbooks.com"
 captured_at: "2026-09-29T04:22:07.853349+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Books & Books runs its storefront on a Drupal-based commerce theme (shop.booksandbooks.com) whose
   CSS custom properties expose a two-tone action palette: `--color-primary: #000000` and
@@ -162,6 +166,14 @@ This is a recommended structure, not measured site behavior — no responsive CS
 Touch targets should be at least 44×44px for cart/RSVP/search buttons. Nav collapse threshold and carousel swipe behavior are suggested defaults, not confirmed against live rendering.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

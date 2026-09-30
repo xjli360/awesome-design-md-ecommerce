@@ -4,6 +4,10 @@ name: "Triarchy"
 source_url: "https://triarchy.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Triarchy runs #108474 — a deep, almost medicinal teal — as its lone chromatic anchor in an otherwise near-achromatic field: near-black ink at #121212, warm off-whites at #f9fafb and #fafafa, and a graduated stack of neutral grays (#eeeeee, #dedede, #e9e9e9) that carry every hairline and surface. The teal choice is precise — it straddles ocean and earth without defaulting to the clichéd forest green of generic eco-branding — and pairs with a dark forest olive (#30402d) for editorial panels and product-context moments where sustainability messaging needs more ground. A chrome yellow (#fbcd0a) fires as a rare spike: sale badges, notification dots, the one place urgency is permitted to interrupt the restrained palette.
 
@@ -344,6 +348,13 @@ components:
 - Breadcrumbs truncate to Home > [current page] on mobile, suppressing intermediate category levels
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 - No custom brand typeface confirmed; Baskerville may be used as a web-safe approximation of a licensed editorial serif loaded via Shopify theme assets not captured in static extraction

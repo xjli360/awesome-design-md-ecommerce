@@ -4,6 +4,10 @@ name: "Ultimate Autographs"
 source_url: "https://ultimateautographs.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Gold on black is the language of trophies, championship rings, and sealed-pack foil — Ultimate Autographs builds its entire dark-mode interface from exactly this grammar, pressing #fec000 amber-gold against a #121212 canvas that never wavers into a light-mode variant. Four distinct dark-surface tiers — canvas (#121212), surface-soft (#18181a), surface-card (#2b2b2c), surface-raised (#343436) — give product cards and break-slot panels the dimensional lift of a glass display case without deploying drop shadows or hard borders as structural scaffolding; the depth is entirely chromatic. A second gold register, antique #d4af37, handles hover states and embellishment accents that signal collectibility rather than commodity retail; a brighter electric variant #f4d00e appears in spotlight moments where warmth must not soften into amber. Inter carries all type at compressed tracking — display headlines punch at 800 weight and −0.5px letter-spacing while body copy settles to 400 weight in #b4b4b8, a deliberate contrast that keeps the information hierarchy legible under live-break energy without competing with the gold for visual authority. The box-break model — live group openings of sealed sports-card packs, participants owning team or random slots — shapes the UI well beyond a standard Shopify storefront: countdown timers, LIVE badges, team-slot grids, and Swiper-powered hit carousels all demand real-time visual signals inside a commerce flow. The primary badge vocabulary is {rounded.full} amber-gold on dark surface, sharp enough to read across a streamed broadcast and immediate enough to convert a collector mid-scroll. Buttons take a minimal {rounded.xs} radius rather than pill shapes, signaling precision over approachability — these are serious hobbyists running valuations in their heads, not casual impulse buyers. Product cards float on {colors.surface-card} with gold price text and sport-category pills that fire from neutral surface-raised state to full #fec000 fill on activation, making filter navigation feel as decisive as a scoreboard flip. No gradients or photographic overlays introduce atmospheric noise — the brand's entire mood comes from darkness-level differentiation and the high-contrast gold flash on interaction.
 
@@ -371,6 +375,13 @@ components:
 - Sport-category filter switches from wrapped flex row to horizontal scroll at < 744px to avoid orphaned pills
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Clines Crafted Woodworking"
 source_url: "https://clinescraftedwoodworking.com"
 captured_at: "2026-09-28T10:23:50.922500+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from Shopify (Dawn-theme) CSS custom properties captured on the
   live storefront. The root palette defines `--color-foreground: 18,18,18` (#121212) against a
@@ -155,6 +159,13 @@ components:
 Recommended breakpoints (not measured from live rendering): mobile ≤599px, tablet 600–989px, desktop ≥990px, aligning with common Shopify Dawn-theme conventions implied by the theme's asset paths. Navigation is expected to collapse into a hamburger/drawer pattern below the tablet breakpoint, and the multi-item product grids ("View all," "1 / of 2," "1 / of 6") likely reflow from 3–4 columns on desktop to 1–2 on mobile with horizontal-scroll or stacked carousels. Touch targets for buttons and swatch selectors should maintain a minimum 44×44px hit area. This section is a design recommendation only; no interaction, resize, or mobile-viewport behavior was observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived solely from static CSS custom properties, a text excerpt, and a color/font list — no rendered screenshots, computed layouts, or DOM structure were available. The mapping of `rgb(240,0,0)` to the listed hex `#ff0000` is an approximation, not an exact match found in the supplied palette. Semantic assignment of body/muted/hairline/surface grays (#333333, #666666, #dddddd, #f3f3f3) is inferred from typical usage patterns, not confirmed CSS selectors tying them to those exact roles. Font pairing (Baskerville for headings, Nunito Sans for body) is inferred from the presence of both names in the font-family list, not from resolved `--font-heading-family`/`--font-body-family` values. All pixel sizes in typography tokens beyond the observed `1.5rem` body base are proposed. Component states (hover, focus, disabled, active) and mobile navigation/drawer behavior are proposed, not observed. Custom font licensing/self-hosting and actual availability of Baskerville/Nunito Sans on the live site were not verified.

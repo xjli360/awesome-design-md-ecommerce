@@ -4,6 +4,10 @@ name: "Dingbats*"
 source_url: "https://www.dingbats-notebooks.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The asterisk after "Dingbats" isn't typographic whimsy — it marks the brand as something that demands a footnote, a product that earns its environmental claims through granular material disclosure rather than aspirational copy. The design system builds outward from a forest-floor palette: a deep forest teal (#108474) anchors every primary CTA and interactive state, while the canvas itself runs parchment-warm (#f7f5ef), closer to the first blank page of a new notebook than to clinical digital white. Lime (#adcd62) and golden yellow (#fbcd0a) read as cover-colour echoes — the same naturalistic pigments found in the physical product lineup reappear as accent tokens for badges, promotional strips, and sale signals, grounding the interface in the objects it sells. Dark forest (#1c3930) steps in for high-contrast display text and full-bleed hero and footer backgrounds, where the mid-tone teal would lose structural weight. A muted lavender (#a89cc8) surfaces occasionally as a tertiary accent, likely corresponding to a cover colourway brought into the UI.
 
@@ -358,6 +362,13 @@ components:
 - Cover swatch rows truncate beyond six swatches with a "+N more" text link in caption style
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

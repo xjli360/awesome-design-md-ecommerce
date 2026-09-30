@@ -4,6 +4,10 @@ name: "Dickies"
 source_url: "https://dickies.com"
 captured_at: "2026-09-28T04:52:04.991588+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from Dickies' Shopify-hosted CSS custom properties rather than live visual review. The root theme defines an explicit "brand" border color of #622714, a deep rust-brown, which is treated here as the primary brand color since no other hex is labeled as brand in the evidence. Neutral scaffolding is built from near-black (#111111, #000000) text tones, mid-grays (#848484, #757575, #6d6d6d) for secondary text and borders, and light grays (#f2f2f2, #f9f9f9, #c9c9c9) for surfaces and hairlines — consistent with a utilitarian, high-contrast workwear catalog rather than a decorative retail site. A Shopify-default interactive blue (#1990c6, hover #136f99) appears in accelerated-checkout button CSS and is mapped here as a functional accent for payment/interactive affordances, distinct from the brand primary. Status colors (#d92d20 error, #f79009 warning, #12b76a success) come from what reads as a standard design-token error/warning/success triad. Typography is anchored to the site's own custom properties: IBM Plex Sans for display, heading, subheading, and body; IBM Plex Mono reserved for accent/mono use. Corner radii are nearly square (0–2px), reflecting a squared-off, functional workwear aesthetic; larger radii and spacing values are proposed extrapolations, not observed.
 
@@ -153,6 +157,12 @@ Proposed breakpoints (not measured):
 Touch targets should meet a 44px minimum height, aligning with the observed `--shopify-accelerated-checkout-button-block-size` default of 44px clamped between 25–55px. Mega-menu categories (Men/Women/Scrubs) should collapse to accordions below tablet width. This table is a design recommendation only; no live responsive layout was captured.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Tissot"
 source_url: "https://www.tissotwatches.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   At #00a1e0, Tissot's primary blue runs brighter than almost any other watch brand allows itself — closer to the electric cyan of airline booking software than the navy restraint typical of horology — and this chromatic boldness is the brand's sharpest design declaration: Swiss Made credentials can coexist with accessibility-first, utilitarian interface logic. Three signal colors partition the full interface language: the primary cyan-blue for all CTAs, links, and navigational highlights; #008827 green marking T-Touch Solar and eco-positioned lines; #eb0000 red firing on sale states, clearance badges, and error messaging. This traffic-light vocabulary suits an audience making practical, value-conscious purchase decisions rather than purely aspirational ones. The canvas sits at #f9f9f9 rather than pure white, giving watch photography just enough warmth to lift product isolation without drifting toward a cream that would age the brand. Typography runs entirely on system stacks — Helvetica Neue and Arial on desktop, -apple-system on iOS — a notable absence of custom font investment that shifts the reading environment toward specification-and-price comparison rather than mood-setting. The palette's structural tones carry the mechanical register: #383d41 for primary body text, #1d2124 for headlines, and deep #005474 and #007cad for hover and active states — ranges that read as instrument-grade without claiming fine-jewellery territory. Rounded values stay conservative throughout: {rounded.xs} at 4px on buttons and inputs, expanding to {rounded.full} only on badge pills. This geometric discipline reinforces precision-instrument positioning and separates Tissot clearly from the rounder, friendlier arcs of fashion jewelry and lifestyle accessories operating at similar price points.
 
@@ -416,6 +420,13 @@ components:
 - Hero CTA pair: stacks vertically on mobile with full-width buttons; renders as an inline row on tablet+
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

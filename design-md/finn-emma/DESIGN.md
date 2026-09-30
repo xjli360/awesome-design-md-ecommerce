@@ -4,6 +4,10 @@ name: "Finn + Emma"
 source_url: "https://finnandemma.com"
 captured_at: "2026-09-28T04:53:16.485483+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Finn + Emma is a Shopify-hosted organic baby apparel and toy retailer. The
   observed CSS custom properties define a warm, muted palette: a soft ecru
@@ -168,6 +172,12 @@ This is a recommended breakpoint structure, not measured site behavior:
 Touch targets should be a minimum 44px height (matching the observed `clamp(25px, 44px, 55px)` accelerated-checkout button sizing). Mega-menus (Apparel, Gear + Toys, Gifts) should collapse into accordion sections on mobile; this collapse behavior is proposed and was not observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS variables and text content only; no rendered layout, computed styles, or JavaScript-driven interaction states were observed. The mapping of `--font-heading-family` and `--font-body-family` to specific named fonts (Catchy Mager, TAN - MON CHERI, Poppins, Jost, Nunito, Open Sans, Inter, Helvetica) was not present in the supplied CSS and is inferred by convention; actual role assignment may differ. The `--color-background-contrast` value (rgb 208,190,149) did not correspond to a supplied hex swatch and was therefore omitted from the token set. Corner-radius and shadow values for buttons and product cards reference undefined CSS custom properties, so all `rounded` values are proposed defaults, not extracted measurements. Hover, focus, error, and mobile-drawer interaction states are proposed patterns, not observed behavior. Availability and licensing of the two proprietary display fonts have not been verified.

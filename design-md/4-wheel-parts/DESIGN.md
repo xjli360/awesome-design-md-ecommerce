@@ -4,6 +4,10 @@ name: "4 Wheel Parts"
 source_url: "https://4wheelparts.com"
 captured_at: "2026-09-28T04:59:19.770065+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   4 Wheel Parts' site CSS exposes three declared brand variables: --primary (#F50028, a saturated red), --secondary (#FAE703, a bright safety-yellow), and --tertiary (#0058B3, a mid blue), layered over a large neutral gray-scale system (from #111827 through #f3f4f6) used for text, borders, and surfaces. The confirmed heading font is Barlow (h1 rule: font-family Barlow, sans-serif, 700 weight, 1.75rem), a condensed-leaning grotesque suited to bold automotive/off-road messaging. Roboto and system sans-serif stacks appear in the font list and are treated here as the inferred body font family, since no body-text rule was supplied. Button variables show a clear pattern: primary actions use --primary with white text, "add to cart" actions use --secondary with black text (inverting to black background with white text on hover), and default/secondary buttons use a neutral gray (#6b7280). This palette is interpreted as a utilitarian, high-contrast industrial catalog design: red for primary calls-to-action and urgency (sales, price match), yellow for transactional/commerce actions (cart, pricing), blue as a supporting link/accent tone, and grays for the dense navigation and vehicle-fitment tooling implied by the page text (Year/Make/Model selectors, store locator). All roles beyond the three CSS variables and the h1 rule are inferred, not measured.
 
@@ -170,6 +174,14 @@ This is a recommended breakpoint strategy, not a measured observation of the liv
 Touch targets should be at least 44×44px for cart, quantity, and store-locator controls. Primary/cart buttons should retain full-width sizing on mobile. All breakpoint values and collapse behaviors are proposed defaults, not verified against rendered markup.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is generated from static CSS/text extraction only; no live rendering, computed layout, or DOM interaction was observed. Only three color variables (--primary, --secondary, --tertiary) and one heading rule (h1 font-family/size/weight) are directly confirmed; all other color-role assignments (ink, body, muted, hairline, surfaces) are inferred by matching common gray-scale conventions to the supplied hex list and may not reflect actual usage. Border-radius values were not present in the supplied CSS and are proposed placeholders. Spacing scale beyond the observed `.75rem`/`.375rem` button paddings is proposed. Body font-family (Roboto/Arial) is inferred from the global font-family list, not from a rule explicitly targeting body text. No mobile navigation, modal, or hover interaction was observed beyond the two CSS hover rules cited (button hover and product-image group-hover scale). Font licensing/self-hosting availability for Barlow and Roboto was not verified in this extraction and should be confirmed before implementation.

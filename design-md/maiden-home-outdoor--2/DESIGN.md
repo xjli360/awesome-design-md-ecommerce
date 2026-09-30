@@ -4,6 +4,10 @@ name: "Maiden Home"
 source_url: "https://maidenhome.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep charcoal borders on black (#1c1c1c over #121212) wrap the Maiden Home storefront like the matte frame of an architect's portfolio — the furniture is meant to feel exhibited, not merchandised. A single cerulean accent (#334fb4) punctuates primary call-to-action buttons and hover-state underlines, its saturation calibrated just warm enough to read as confident rather than corporate against the warm off-white canvas (#f5f5f1). Headings set in ABC Whyte at generous sizes but restrained weight (500–600) let letterforms breathe; body copy drops into Maison Neue at 400 weight, a pairing that signals European type-house literacy without veering into fashion-editorial territory. Card corners land at `{rounded.sm}` — 8px, enough softness to feel approachable but far from the pill shapes of consumer marketplaces. Product photography dominates the grid with nearly zero ornamentation: no badges crowd the image, no gradient overlays dim the weave of a Sunbrella sling or the grain of teak. The spacing system is generous — `{spacing.section}` between content blocks, `{spacing.xl}` gutters in the collection grid — giving each piece room the way a showroom gives room. Navigation is minimal: a sticky top bar at 64px with uppercase category links in `{typography.nav-link}` and a dark navy hover state (#242833) that barely shifts from the ink tone, as if the interface is trying to stay out of the way of the material story. Fabric-swatch selectors, configuration drawers, and lead-time indicators are the interaction signatures — the site sells customization confidence more than impulse. Footer columns run on a #121212 ground with #dedede text, closing the page in the same near-black that opened it, a tonal bookend that makes the light canvas between feel like a window onto a sunlit courtyard.
 
@@ -423,6 +427,13 @@ components:
 - Announcement bar text truncates with ellipsis on narrow viewports; a swipe or auto-rotate reveals multiple messages.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

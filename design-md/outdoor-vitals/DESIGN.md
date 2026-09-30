@@ -4,6 +4,10 @@ name: "Outdoor Vitals"
 source_url: "https://outdoorvitals.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep-teal (#108474) pulse runs through Outdoor Vitals like a seam stitch — it is the brand's primary voltage, appearing on every add-to-cart button, sale badge, and navigation highlight against a near-white canvas of #f9fafb. The palette is drawn from the alpine landscape: ink-dark #0f3b56 for headlines, a muted slate #558499 for secondary text, and a full spectrum of grays from #eeeeee through #bababa to #777777 that build hierarchy without shouting. Montserrat carries the weight at 600–700 for headings and buttons, while Nunito Sans handles body copy at 400 — a pairing that reads as athletic and direct, not decorative. Product cards use soft corners at {rounded.md} and generous {spacing.base} padding, with the primary teal reserved for high-signal moments: the floating cart badge, the size-selector highlight, the "Free Shipping" callout. The site trusts photography over illustration — hero sections are full-bleed landscape shots with a teal gradient overlay at 20% opacity, letting the gear sit in its natural environment. There is no hard black anywhere; the darkest tone is #0d3863, a navy-adjacent ink that keeps the brand feeling outdoorsy rather than corporate. Checkout buttons invert to white-on-teal, and the footer collapses into a dense column of #f5f5f5 links — functional, fast, built for the trailhead browser session.
 
@@ -315,6 +319,13 @@ components:
 - Search bar moves from inline nav position to full-width below-nav bar below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

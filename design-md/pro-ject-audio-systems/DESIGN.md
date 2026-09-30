@@ -4,6 +4,10 @@ name: "Pro-Ject Audio Systems"
 source_url: "https://project-audio.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Forty-three years of platter-spin distilled into a single navy voltage — #003388 appears on every call-to-action, structural rule, and product badge across the site, an anchor color so deeply saturated it reads as ink on the white canvas yet registers as unmistakably engineered rather than merely dark. Pro-Ject positions its turntables the way Vienna positions its watchmakers: heritage-forward and technically precise, with product photography shot against controlled neutral backgrounds that let machined aluminum tonearms and matte-lacquer plinths carry the page without lifestyle distraction. Type runs in Lato across all contexts, a geometric humanist that balances engineering credibility with approachability — display headlines set at heavy 700 weight signal catalog authority while specification tables drop to regular 14px, trusting the mechanical product to supply the premium signal. An electric violet (#720eec) surfaces rarely but deliberately as a secondary accent, cutting against the deep navy to mark awards, certifications, and promotional callouts without softening the overall palette toward consumer-lifestyle warmth. Near-black #0a0a0a grounds the hero sections, letting turntable imagery sink into darkness the way a listening room should — intimate, directional, free of distraction. Gray #949494 handles metadata, secondary copy, and breadcrumbs, providing mid-range contrast between the white canvas and near-black ink without any warm or cool cast. The structural vocabulary stays angular throughout: buttons and cards carry no radius or a minimal 2px, reinforcing the machined-component precision of the product line. No pill shapes, no warm curves, no soft containers. The grid is dense with model numbers, specifications, and comparative tables, reflecting a customer base that researches cartridge tracking force, platter mass, and signal-to-noise ratios before adding to cart. Section headings arrive with a 3px solid #003388 underline rule — a detail that echoes engineering diagram tolerance markings — and the footer retreats into near-black #0a0a0a with muted gray links, maintaining the listening-room atmosphere that characterizes the brand's identity end to end.
 
@@ -362,6 +366,13 @@ components:
 - Hero text: `{typography.display-xl}` at desktop scales to `{typography.display-sm}` at mobile; CTA buttons stack vertically below the subline at < 480px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

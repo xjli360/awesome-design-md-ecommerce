@@ -4,6 +4,10 @@ name: "FI Exhaust"
 source_url: "https://www.fi-exhaust.com"
 captured_at: "2026-09-29T04:19:00.993974+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is built from Bootstrap-derived utility classes and one
   custom typeface import found in style.css. The brand voice leans dark and
@@ -178,6 +182,13 @@ Recommended, not measured from live site:
 Touch targets on buttons and filter controls should stay ≥44px tall given the padded `.btn-fi` sizing implied by `.mobile-filter .btn { padding-top: .5rem }`. Carousel prev/next controls are hidden until hover per `#productCarousel:hover`, so touch devices should force-show these controls or replace hover-reveal with swipe gestures — this touch fallback is proposed, not confirmed in the evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

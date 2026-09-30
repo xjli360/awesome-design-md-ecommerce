@@ -4,6 +4,10 @@ name: "Ozzie Collectables"
 source_url: "https://www.ozziecollectables.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Gold as a primary action color is an act of confidence — most e-commerce operators treat #ffd700 as a warning tone, yet Ozzie Collectables stakes its entire CTA system on it, treating chrome-yellow as the store's single voltage rather than a cautionary accent. The decision suits the audience: Funko Pops and trading cards are objects people collect for their visual intensity, and a store that mirrors that energy in gold and deep orange (#ff7d00) signals authenticity before a single product is inspected. On-primary text runs #121212 against the gold field — a reversal of the usual white-on-dark convention that holds contrast cleanly because Cabin, the brand's humanist geometric sans-serif, carries enough stroke weight to remain legible in near-black on chrome-yellow. The cream surface token (#fff8d6) is the quieter half of this palette — it replaces clinical white in announcement bars, filter panels, and checkout sidebars, giving every page the warmth of a collector's display case bathed in late-afternoon light rather than fluorescent overhead. Near-black (#121212) handles all structural anchors and body text, while the light gray (#dedede) draws hairlines and disabled states without the coldness of pure silver. Product cards sit on `{rounded.sm}` corners — subtle enough to read as modern grid items but present enough to soften the inevitable image-heavy density of a pop culture catalog. New-arrival and hot-pick badges use `{rounded.full}` pill shapes in orange (#ff7d00) against near-black, a pairing that reads as energetic without becoming garish. The overall register is a collector's market stall translated into digital: warm, gold-lit, stocked to the edges, and confident that its audience knows exactly what it's here for.
 
@@ -346,6 +350,13 @@ components:
 - Announcement bar: full text on desktop, truncated with marquee scroll on mobile when content exceeds viewport width
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

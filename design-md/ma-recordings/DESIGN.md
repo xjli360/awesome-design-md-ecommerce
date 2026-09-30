@@ -4,6 +4,10 @@ name: "MA Recordings"
 source_url: "https://www.marecordings.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep navy (#006699) anchors a site that sells silence — or rather, the absence of digital noise. MA Recordings, a purist audiophile label, presents its catalog on a near-blank white canvas where the only persistent color is that single blue, used for links, hover states, and the faint underlines that separate album titles from track times. The second extracted blue (#114499) appears in secondary accents — perhaps the shopping-cart icon or the footer dividers — but the design is so spartan that even these two colors feel like abundance. There are no hero images, no carousels, no category-strip animations; each album page is a typographic grid of metadata — artist, title, recording date, microphone type — set in what appears to be a system serif or a neutral sans-serif (no font-family declarations were extractable from the live CSS). The product card is a text block with a small thumbnail, the CTA is a text link in {colors.primary} rather than a pill or button, and the checkout flow likely inherits the same minimalism. This is a site that treats the browser as a liner-note booklet: the brand voltage comes from the recording quality, not the interface. The {rounded.full} tokens that dominate consumer DTC are absent here — corners are sharp, spacing is generous but not decorative, and the only "component" with any visual weight is the album cover thumbnail, which sits at a modest 200px square. MA Recordings does not sell a lifestyle; it sells a listening experience, and the design steps aside to let the music breathe.
 
@@ -250,6 +254,13 @@ components:
 - Product card thumbnail reduces from 200px to 150px on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

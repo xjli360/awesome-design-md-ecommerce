@@ -4,6 +4,10 @@ name: "Knaggs Guitars"
 source_url: "https://www.knaggsguitars.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Amber lacquer tones — #e09900 and its honeyed companion #edb059 — appear against near-black grounds (#121212, #2a2a2a) with the same material logic a carved guitar top brings to a dark-stained body: warm wood illuminating absorbed depth. The company was founded by Joe Knaggs, longtime master builder at PRS, and that lineage of lutherie precision is legible in the digital structure: Archivo Black carries display headlines at full weight, its dense stroke width echoing the deliberate geometry of a chambered archtop, while regular-weight Archivo handles body copy in a cool light-gray (#d0d0d0) that rests comfortably over dark canvas without strain. The amber primary reads less as a brand-kit choice and more as a material reference — the flash of figured maple under stage lighting, or the specific warm glow of a nitro-lacquer finishing room on a humid afternoon. Dark surface layers stack in controlled increments: base canvas at #121212, soft surface at #2a2a2a, card face at #313131 — small steps that give the product grid visible depth without resorting to heavy dividers or drop shadows. Secondary interactive elements land in two calibrated blues (#1863dc, #0056a7) that keep click targets legible on dark ground without pulling warmth from the amber. A slate-purple (#4e4b66) appears in supporting chrome, a tone that is muted but distinctly not neutral, distinguishing the site from purely monochromatic dark-mode guitar retailers. Border radii stay small throughout: inputs and cards hold `{rounded.xs}` to `{rounded.sm}`, lending the UI a machined, precise quality in keeping with the brand's commitment to dimensional accuracy in lutherie. Typographic hierarchy is blunt — Archivo Black at large sizes and tight line-height for headlines, then a sudden drop to regular-weight Archivo for body copy with no intermediate decorative weights cluttering the stack. Section spacing is wide and unhurried, each instrument given enough breathing room to register as a singular object rather than a catalog entry, in explicit contrast to the dense grids of mass-market guitar sites.
 
@@ -355,6 +359,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Minaal"
 source_url: "https://minaal.com"
 captured_at: "2026-09-28T10:22:39.592933+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Minaal's evidence points to a restrained, monochrome-first system built around near-black neutrals (#212121, #1c1b1b, #323230) on white and off-white grounds (#ffffff, #f2f2f2, #fcfbfb), consistent with a minimalist travel-gear positioning ("Carry less, go further"). Header CSS variables confirm a white header background with a dark charcoal text color and layered opacity tints for hover/disabled states, which this spec treats as the primary UI neutrals. A warm terracotta (#b04228) and a muted rust (#9b3a23) appear in the palette and are inferred here as an accent/CTA family distinct from the default near-black button, since Shopify buttons default to #222/#212121. Judge.me review widget variables surface a gold star color (#f0ab00), reused for rating/review UI. Typography evidence shows a serif family, 'Ivar', explicitly forced at weight 500 in at least one rule, inferred as the display/heading face for editorial warmth; 'GT America' and 'Nunito Sans' also appear in font stacks and are inferred as the workhorse sans for body copy, UI labels, and buttons, since base.css otherwise references only generic var(--font--body). Border-radius is largely undeclared or explicitly 0 (Judge.me), so corners are treated as flat-to-subtle by default, with buttons/cards allowed a small radius only where component CSS implies it (e.g., skeleton loaders at .5em).
 
@@ -151,6 +155,13 @@ Recommended breakpoints (not measured from live layout):
 Touch targets should meet a minimum 44px height, applying `{spacing.md}` vertical padding to buttons and nav items. Navigation collapses to a drawer or accordion below the tablet breakpoint given the deep "By Type / By Usage / By Research" mega-menu structure implied in the sitemap text; this collapse behavior is proposed, not observed in rendered markup.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

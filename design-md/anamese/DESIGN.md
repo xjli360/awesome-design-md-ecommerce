@@ -4,6 +4,10 @@ name: "Anamese"
 source_url: "https://www.anamese.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Terracotta warmth rendered in pixels — Anamese opens with a coral accent (#fb8077) that echoes kiln-fired clay against a restrained grayscale field, an unusual chromatic choice for a garden brand that signals handcraft over horticulture. The typographic pairing is equally deliberate: Abel, a condensed geometric sans-serif, handles display and navigation with the vertical economy of a nursery plant tag, while Alegreya — a humanist serif with calligraphic stroke modulation — carries body copy and product descriptions, lending the prose a texture closer to letterpress than screen. This split personality (industrial precision up top, artisanal warmth in the paragraph) mirrors the product line itself: architecturally clean planter silhouettes finished with organic glazes and patinas. The layout breathes through generous section spacing (`{spacing.section}`) and a near-white canvas (#ffffff) that lets product photography — typically a single vessel against a poured-concrete or raw-linen backdrop — dominate the viewport without chromatic competition. Cards sit at `{rounded.sm}` with hairline borders (#e2e2e2), never casting heavy shadows; the containers sell weight and material, so the UI stays paper-thin. Navigation employs `{typography.nav-link}` in Abel at 600 weight, uppercase with restrained letter-spacing, reading like gallery signage. Buttons pull the coral forward at full saturation for primary actions, dropping to a ghost outline for secondary interactions — the brand trusts the single warm hit to carry hierarchy without needing a second accent. On mobile, the condensed display type holds up at narrower widths than a proportional sans would, keeping headlines punchy without multi-line wrapping down to 320px. The overall system reads as a ceramics-studio lookbook transplanted into e-commerce: quiet, materially honest, and anchored by that one unmistakable blush of fired earth.
 
@@ -363,6 +367,14 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

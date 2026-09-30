@@ -4,6 +4,10 @@ name: "Barefoot Books"
 source_url: "https://www.barefootbooks.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A children's bookstore that wears its global, story-first soul on its sleeve through a high-voltage primary of #e53624 — a stop-sign red that reads as warmth and urgency, not danger — and a secondary pulse of #003399, a deep trusty blue that grounds every navigation bar and footer. The palette is deliberately un-muted: #98d108 (lime), #33cccc (teal), #f58229 (orange), and #785ba7 (violet) appear as badge fills, age-category tags, and illustrated-element accents, giving the site the feel of a picture-book spread where every page turn reveals a new color. The canvas is #f9f9f9 rather than pure white, softening the reading experience, while #efefef and #dadada provide hairline and surface-soft tones that keep the layout airy. Typography runs Lora for display and body — a serif with calligraphic warmth that signals "read aloud" rather than "scan quickly" — and Roboto for UI labels and buttons, creating a deliberate tension between storybook elegance and functional clarity. Buttons use {rounded.full} pill shapes, softening the intensity of the red primary, while product cards use {rounded.md} to feel approachable without being childish. The search bar, category filters, and age-group badges all sit on {rounded.full} or {rounded.sm} containers, making every interactive element feel tactile and safe for small hands. The overall mood is generous, slightly handmade, and unafraid of color — a digital space that mirrors the physical bookstore's wooden shelves, woven rugs, and open story-time circle.
 
@@ -375,6 +379,14 @@ components:
 - Age badges on product cards may be hidden on mobile to save space, with age info shown in the product detail view
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Learning Resources"
 source_url: "https://www.learningresources.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A bright, purposeful educational-toy brand that trusts saturated primary color as a learning cue — not as decoration. The site runs on a clean white canvas (#ffffff) with a single high-voltage accent, a warm coral-red that appears on every "Add to Cart" button, age-grade badges, and sale flags. This isn't a muted Montessori palette; it's a confident, slightly retro classroom aesthetic where red means "important action" and a soft sage-green (#8fbc8f) signals "in stock" or "available." Product photography dominates — each toy shot against white, with a consistent 45-degree angle and a subtle drop shadow that gives the objects weight and tangibility. Typography runs a clean sans-serif (likely a system stack or a single-weight web font) at modest sizes — titles at 20-24px, body at 14-16px — letting the product colors do the emotional work. Navigation is a straightforward horizontal bar with dropdowns for categories (STEM, Literacy, Gross Motor, etc.), and the search bar is a simple rectangular input with a magnifying-glass icon, not a pill. The grid is four-column on desktop, collapsing to two on tablet and one on mobile, with product cards that show title, price, a 4-5 star rating row, and a small "Ages 3+" badge in the top-left corner. The brand's voice is direct and teacherly — "Shop by Age," "Best Sellers," "New Arrivals" — with no playful naming or puns. The footer is dense with links (About, Customer Service, Rewards, Blog) and a newsletter signup with a coral-red submit button. The overall feel is less "design-forward toy brand" and more "trusted classroom supplier that happens to sell direct to parents" — functional, clear, and built for quick decision-making.
 
@@ -332,6 +336,13 @@ components:
 - **Breadcrumbs**: On mobile, breadcrumbs collapse to show only the current page and a "Back" link.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

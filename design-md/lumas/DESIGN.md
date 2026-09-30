@@ -4,6 +4,10 @@ name: "Lumas"
 source_url: "https://www.lumas.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Cobalt blue (#003399) arrives uninvited in a room of light grays — Lumas runs every primary call-to-action, navigation active state, and interactive underline through that single loaded frequency while surfaces sit at #f2f2f2 and #f3f3f3, approximating the flat-lit neutrality of a physical gallery wall. The signal is gallery authority: most e-commerce sites reach for warmth to convert; Lumas reaches for institutional cool. Type is set entirely in Archivo, a narrow grotesque that performs across the full weight range the brand demands — Archivo Black for the oversized hero headlines that announce curated collections and seasonal editions, regular weight for dimension and medium labels that need to recede behind the artwork. Corners are held close to zero throughout the interface: product cards, buttons, and filter chips carry no rounding or at most 2px, enforcing the rectilinear logic of a framed print mounted flush against a wall. The palette extends in two directions from the cobalt core: downward into a warm umber (#8b6f47) that surfaces on framing selectors, material swatches, and edition-provenance strips — the color of a wooden frame — and sideward into a violet spectrum (#582c83 deep, #9678d3 medium) reserved for editorial badges, "LUMAS ORIGINAL" provenance labels, and promotional banners that need to register as culturally distinct from the primary blue. This two-axis chromatic logic lets Lumas signal price tier, edition type, and medium category through color alone without cluttering product thumbnails with text overlays. Spacing is generous — the gallery grid breathes at 24–32px column and row gaps, giving each artwork thumbnail room to read as a framed object rather than a catalog tile. Hover states are quiet: a card border lifts from transparent to hairline gray rather than adding shadow, keeping the ambient gallery hush intact. The footer inverts to near-black (#1a1a1a) canvas, a hard cut that signals the transition from commercial browsing to institutional information — shipping, certificates of authenticity, corporate provenance — and reinforces that Lumas is selling art, not just prints.
 
@@ -395,6 +399,13 @@ components:
 - Hero text overlay left-aligns and compresses to bottom-third strip on mobile with a stronger scrim
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

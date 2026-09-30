@@ -4,6 +4,10 @@ name: "Hodinkee Shop"
 source_url: "https://shop.hodinkee.com"
 captured_at: "2026-09-28T04:45:23.197772+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Hodinkee Shop's observed CSS shows a restrained editorial system built around near-black neutrals
   (#1a1b1b, #292a2a, #000000) against white and soft off-white surfaces (#ffffff, #f5f7f7, #eaecec),
@@ -167,6 +171,13 @@ Proposed breakpoints (not measured from live site behavior):
 Touch targets are recommended at a minimum 44×44px for buttons and nav items. Below tablet width, secondary navigation and filter panels are recommended to collapse into an off-canvas drawer. This section is a design recommendation only; no actual responsive or mobile layout was observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

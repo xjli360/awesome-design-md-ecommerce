@@ -4,6 +4,10 @@ name: "Brew"
 source_url: "https://www.brewwatches.com"
 captured_at: "2026-09-28T04:53:12.448075+00:00"
 evidence_status: "historical_partial_css_evidence"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Midnight navy `#00052c` anchors the entire visual system the way lacquer grounds a dial — total absorption, zero warmth, every accent made to read brighter against it. Brew Watch Co. runs Barlow Condensed for all display and heading type, a choice that carries deliberate resonance: the condensed letterforms echo the economy of instrument-panel printing that dial typography borrowed from aviation gauges before condensed type became a branding trend. Display headlines sit tight, tracking pulled in, giving model names the same compressed authority as a reference number stamped on a case back. Instrument Sans handles body and UI copy — a clean, contemporary counterpart that reads efficiently at small sizes without competing with the headline level's compressed drama.
 
@@ -336,6 +340,14 @@ components:
 - Footer transitions from four-column grid to single-column stacked accordion on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

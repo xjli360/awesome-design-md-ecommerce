@@ -4,6 +4,10 @@ name: "Bullymake"
 source_url: "https://bullymake.com"
 captured_at: "2026-09-29T04:01:53.757788+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Bullymake's storefront runs on a Shopify/Bootstrap-derived stylesheet, giving a
   neutral utility layer (grays, form-control states, Bootstrap's default red/green/
@@ -166,6 +170,12 @@ Recommended breakpoints, reused from the Bootstrap custom-property scale found i
 Touch targets for buttons should meet a 44px minimum height, matching the `--shopify-accelerated-checkout-button-block-size` default of 44px seen in the checkout CSS. Mobile nav collapse, carousel swipe behavior, and card stacking order are recommendations only — none of this was confirmed via rendered/mobile capture.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is built from static CSS and text extraction only; no rendered screenshots, computed layout, or JavaScript-driven interaction states were observed. Color-to-role mapping (primary, secondary, muted, hairline) is inferred from usage context (e.g., checkout button colors, Bootstrap utility defaults) rather than confirmed brand guidelines, and some supplied hex values (Bootstrap status colors, Mastercard/Visa brand colors in payment icons) are excluded from role assignment as unrelated to Bullymake's own brand system. Font availability and licensing for `dharma-gothic-p`, `dharma-gothic-e`, and `alternate-gothic` were not verified — these are third-party/custom font names observed in CSS declarations only, with fallback stacks assumed from adjacent Arial/sans-serif references. All typography sizes beyond the confirmed `.btn` font-size (24px/700) are proposed, not measured. Breakpoints reflect Bootstrap defaults present in `:root` variables but actual responsive behavior (collapse points, column counts, touch interactions) was not observed on a live or mobile render. Border-radius values for buttons/cards are approximated against the observed `0.625rem` (10px) `.btn` radius using the nearest fixed scale step, not an exact match.

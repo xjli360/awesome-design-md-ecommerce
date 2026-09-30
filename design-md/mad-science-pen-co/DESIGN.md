@@ -4,6 +4,10 @@ name: "Mad Science Pen Co."
 source_url: "https://madsciencepenco.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every pen in the lineup is tagged with a formula number set in monospace type alongside the nib grade — not a model name, a formula number, as though each instrument emerged from a laboratory process rather than a product roadmap. That precision-theater defines the brand's posture: a niche fountain pen and specialty ink maker that borrows from chemistry-lab aesthetics — beakers, pH-indicator color shifts, UV-reactive hues — to sell craft objects to a community that already measures ink flow in milliliters per minute and debates nib geometry past midnight. With zero hex tokens and no font stacks extracted from the live site (the site likely blocks automated extraction or loads styles client-side), the system below is reconstructed from brand positioning and category conventions; all color and typography values are inferred at alpha confidence only, not confirmed from source.
 
@@ -312,6 +316,13 @@ components:
 - Footer: single column stack on mobile, 2-column at tablet, 4-column at desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

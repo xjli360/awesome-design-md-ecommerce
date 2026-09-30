@@ -4,6 +4,10 @@ name: "BaubleBar"
 source_url: "https://www.baublebar.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   BaubleBar doesn't open with jewelry photography — it opens with drop rhythm. Collections arrive with the urgency of a fashion release: countdown timers, "JUST DROPPED" chips, and limited-run charm sets that signal a brand meant to be checked weekly, not only at gift-giving season. The visual system supports that cadence with a high-contrast near-black (`#0b0b0b`) ink-on-white grid that never competes with product color — charm bracelets in sherbet hues, beaded sets in gradient lavender, and layered chains in plated gold all pop against restrained chrome. The type pairing is the sharpest design decision: Utopia Std — an Adobe optical-size serif with old-style figures and ink-trap construction — handles all editorial display work, sitting in deliberate counterpoint with Mulish, a humanist geometric sans that runs the UI chrome, product labels, and CTA copy. Utopia Std lends the authority of a printed catalog; Mulish keeps the interface fast and legible at 11–13px. Buttons run uppercase with tracked letter-spacing in Mulish at 14px/700 — clipped and directive rather than conversational. The primary CTA is coral `#f94c43`, landing on add-to-cart buttons and sale price reductions. A golden amber `#f6a429` marks personalization entry points and gifting callouts — warm and celebratory without alarm. Teal `#009879` functions as a tertiary accent for confirmations and filter selections. All supporting tones are a deliberate grayscale: `#0b0b0b` for ink, `#6d7175` for secondary copy, `#dedede` for hairlines, `#f1f1f1` for surface fills. Geometry is almost universally square-cornered (`{rounded.none}`) — the editorial grid holds hard — with `{rounded.full}` reserved as a pointed exception for color swatch pickers and social icon circles. Personalization panels ease to `{rounded.sm}`, softened just enough to signal interactivity. `{spacing.section}` padding on hero blocks gives Utopia headlines typographic room to land.
 
@@ -362,6 +366,14 @@ components:
 - Footer columns collapse from four to two on tablet, single-column on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

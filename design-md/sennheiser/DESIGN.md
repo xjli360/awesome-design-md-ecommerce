@@ -4,6 +4,10 @@ name: "Sennheiser"
 source_url: "https://www.sennheiser.com"
 captured_at: "2026-09-29T04:26:43.172502+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from Sennheiser's Next.js CSS bundle, which exposes a compact
   design-token system built on pure black and white with a signature "sennheiser-blue"
@@ -156,6 +160,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets are recommended at a minimum 44×44px for nav and button elements; the observed pill-button padding (`1rem .9rem .9rem`) should scale comfortably to this minimum. Mobile nav collapse and mega-menu-to-accordion behavior are proposed conventions, not observed interactions.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from a static CSS bundle and a text excerpt, not a rendered or interactive session, so hover/focus/active states beyond the explicitly supplied `:hover` rules are proposed. Layout structure (grid columns, card composition, hero sizing, footer column count) is inferred from the page-text outline of homepage modules, not from measured DOM or breakpoint CSS. Many palette entries (e.g. golds, greens, reds beyond error-red) appear in the supplied color list without a confirmed CSS role and are treated as available secondary/status accents rather than assigned primary roles. Font rendering of "SennheiserNeue" and "sennheiserMonoFont" is proprietary and self-hosted per the bundle reference; actual glyph availability, weights, and licensing terms were not verified beyond the family names appearing in `font-family` declarations. All spacing, radius, and typography scale values beyond the observed button padding and header height are proposed defaults for a technical audio product catalog, not extracted measurements.

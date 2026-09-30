@@ -4,6 +4,10 @@ name: "Rhone"
 source_url: "https://rhone.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Rhone leads with darkness — not as a recessive background but as the primary surface voltage. The confirmed charcoal #313131 anchors every main CTA, the header bar, and the footer field, which means the brand's visual hierarchy flows from dark confidence outward to white canvas rather than the reverse pattern most athletic labels use. Where competitors reach for saturated primaries to signal energy, Rhone pulls from editorial menswear restraint: a near-black anchor, clean white type (`{colors.on-primary}`), and product photography doing the heavy lifting for color and movement. The typographic voice is lean and upright — system sans-serif at modest weights, sized for scan-readability in a product-dense grid rather than for expressive display. No custom brand typeface was captured from live extraction (the site was behind anti-bot at scrape time), so typography is rendered in the best-match system stack pending font-face confirmation. Buttons carry no soft rounding; `{rounded.xs}` to `{rounded.sm}` reads as precision-engineered rather than friendly, consistent with the brand's performance positioning. Performance-technology badges — callouts for proprietary fabric systems like GoldFusion and DELTA — appear as tight uppercase chips in charcoal against light surface, a signature component that separates Rhone's PDP from generic athleisure stores. The spacing system breathes in sections: generous padding between content rows gives the catalog an unhurried, elevated rhythm that resists the discount-driven density of mass sportswear. Product cards are clean rectangles with model photography cropped to the chest-up or full-body, a hairline border in `{colors.hairline}` optional on hover. The announcement bar at the crown of the page cycles promotional copy in small uppercase at full-width charcoal, inverting the typical light-bar convention. Mobile collapses the four-column grid to a two-column product shelf, preserves the dark nav, and moves the filter/sort controls into a drawer. The overall register is controlled, masculine, editorial — a brand that treats sweat as craft.
 
@@ -398,6 +402,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

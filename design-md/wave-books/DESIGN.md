@@ -4,6 +4,10 @@ name: "Wave Books"
 source_url: "https://www.wavepoetry.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A poetry publisher whose visual identity is built on the tension between a deep, almost-black ink (#0c0c0c) and a cool, atmospheric slate blue (#7796a8) that reads like a winter sky over a Pacific Northwest harbor. The site uses a near-white canvas (#f3f3f3) rather than pure white, giving the reading surface a soft, paper-like warmth that distinguishes it from the sterile white of commercial publishing. Assistant, a clean geometric sans, carries the body text at modest sizes, while Open Sans Condensed appears in navigation and section headers, its condensed letterforms creating a dense, bookish rhythm. The palette is restrained — grays from #121212 through #767676 to #dedede — with a single unexpected jolt of cobalt (#334fb4) used sparingly for links and accent elements, a color that recalls the blue of a poet's ink cartridge or the spine of a library book. Product cards use generous whitespace and minimal borders, letting the cover art and typography do the work. The checkout flow, powered by Shopify, introduces a separate visual system with payment-widget blues and greens, but the core site maintains its monochrome-plus-cobalt discipline. This is a brand that trusts its content — the poetry — to provide the color, and designs the container to be quiet, serious, and slightly cool.
 
@@ -229,6 +233,13 @@ components:
 - Hero section reduces font size and padding at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

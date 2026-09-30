@@ -4,6 +4,10 @@ name: "Dr. Strange Records"
 source_url: "https://www.drstrange.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep-blue #3984c6 storefront that reads more like a rare-vinyl archive than a retail site — the single accent color, a saturated cobalt, appears on every add-to-cart button, category badge, and navigation highlight, giving the interface the focused energy of a collector's flashlight beam. The brand trusts its inventory photography over decorative imagery; product grids sit on a white canvas with minimal chrome, letting album art and sleeve condition speak. Type leans toward a clean, slightly condensed sans-serif at modest weights — body copy at 15px with generous line-height (1.6) keeps reading comfortable across long discography scrolls, while section headers at 24px weight 600 create clear hierarchy without shouting. Search is the primary navigation gesture, surfaced as a persistent pill-shaped input (`{rounded.full}`) in the top bar, reflecting a catalog-driven experience where customers arrive knowing what they want. Category strips use soft-pill badges (`{rounded.lg}`) in the primary blue against white, with secondary tags in muted gray for format (LP, 7", CD) and condition. The footer is unusually dense — a single-column stack of links, store policies, and social icons that reads like the back of a record sleeve. There is no hero carousel, no lifestyle photography, no promotional noise; the design assumes the visitor is already a convert, here to browse the stacks.
 
@@ -430,6 +434,13 @@ components:
 - Breadcrumb truncates with "..." on mobile, showing only current page and parent
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

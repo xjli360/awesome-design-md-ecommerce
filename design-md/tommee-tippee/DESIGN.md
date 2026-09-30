@@ -4,6 +4,10 @@ name: "Tommee Tippee"
 source_url: "https://tommeetippee.com"
 captured_at: "2026-09-28T09:07:45.702412+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Tommee Tippee's UK storefront runs on a Shopify theme exposing explicit CSS
   custom properties for color and type, giving high confidence in the core
@@ -174,6 +178,13 @@ This is a recommendation, not measured site behavior — no breakpoint or viewpo
 Touch targets should be a minimum 44px in the proposed system; the observed `.drawer__header` height (5.6rem ≈ 56px) supports this for mobile nav. Collapse the mega-menu into the drawer pattern already evidenced in CSS below the tablet breakpoint.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Static CSS extraction provides only variable declarations and isolated component rules; full layout, grid structure, and imagery treatment were not observed.

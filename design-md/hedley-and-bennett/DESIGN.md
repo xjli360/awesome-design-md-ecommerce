@@ -4,6 +4,10 @@ name: "Hedley & Bennett"
 source_url: "https://www.hedleyandbennett.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Hedley & Bennett is a kitchen apparel and tool brand built on a foundation of rugged utility and quiet confidence. The palette is anchored by a deep, almost charcoal ink (#2d2b29) and a warm off-white canvas (#f8f7f7), with accents of a bold, unapologetic red (#e72106) that appears on primary actions and signature details. The supporting cast of muted grays and blues — #959b9e, #676986, #2c383f, #1f3045 — evokes the texture of well-worn denim and seasoned steel, while the sparing use of a vibrant blue (#2563eb) for links and interactive elements adds a modern, digital-native counterpoint. The typography is decisively set in DM Sans, a geometric sans-serif that balances approachability with a no-nonsense clarity, and is occasionally punctuated by the assertive, all-caps presence of FUTURA for headings or badges. Rounded corners are minimal — a soft 4px (`{rounded.xs}`) on buttons and cards — reinforcing a sense of precision and craftsmanship rather than playfulness. The overall mood is that of a workshop: honest materials, considered details, and a color story that feels both timeless and distinctly Californian. The design system prioritizes legibility and hierarchy, using generous spacing (`{spacing.lg}` to `{spacing.section}`) to let product photography and the brand's signature red do the heavy lifting.
 
@@ -313,6 +317,13 @@ components:
 - The hero section's layout shifts from a side-by-side text-and-image arrangement to a stacked vertical layout on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

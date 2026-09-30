@@ -4,6 +4,10 @@ name: "Adele Dejak"
 source_url: "https://adeledejak.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Burnt orange fires without ceremony — #ff6600 appears in a site otherwise built on near-black shadow (#1c1717) and warm cream parchment (#fcfaf7), a palette that performs the same register as hammered brass catching East African afternoon light. The jewelry itself is made by hand in Nairobi, scaled to be seen from across a room: collar pieces that read as architecture, earrings that occupy peripheral vision. The UI inherits this scale instinct — large product photography runs edge-to-edge against the cream canvas, with orange reserved exclusively for primary CTA surfaces and hover states, so it retains maximum charge. A secondary orange, #ff3300, deepens the active state without shifting hue, giving the interaction vocabulary a single-family warmth. The gray palette runs an unusually full eight steps — from #1c1717 through #797979, #aaaaaa, #d6d6d6, to #f2f2f2 — because the products are rich in material texture (bone, brass, resin, ebony), and the UI needs tonal range to describe them without competing. Off-white surfaces (#f8f0e7, #fffcf9) read like aged paper or pale ivory, nodding to the natural materials in the collection. Type is set without a detected custom webfont stack, defaulting to system typefaces, but the spacing and casing choices project conviction: widened letter-spacing on category labels, generous line heights on editorial copy. Buttons sit at sharp rectangular edges (`{rounded.none}`), carrying the same deliberateness as a hand-hammered edge — the brand refuses to soften its decisions or round its corners.
 
@@ -354,6 +358,14 @@ components:
 - `announcement-bar` text truncates to a single short message on mobile if copy exceeds one line
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

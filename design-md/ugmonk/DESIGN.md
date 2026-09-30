@@ -4,6 +4,10 @@ name: "Ugmonk"
 source_url: "https://ugmonk.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Two temperatures define the Ugmonk surface — a warm near-ivory (#fafaf2, #f8f6f1) that reads like uncoated stock under diffuse light, and a dark olive-black (#2d2f24) that anchors both deepest ink and primary CTAs, sitting closer to a forest-floor green than true black when examined at high contrast. GTPressuraMonoLight, the geometric monospace pulled directly from the live font stack, carries display headings and product names; it projects an instrument-quality editorial gravity that Avenir Next — handling body copy and navigation — alone would not achieve. The golden amber pair (#ffd879, #ffd160) arrives with restraint: highlight accents, warm badge washes on product chips, and hover-state emphasis rather than dominant CTA color. Corners on cards and buttons are sharp ({rounded.none}) to minimally soft ({rounded.sm}), deferring entirely to the objects being framed rather than asserting brand softness through geometry. Section cadence is wide — photography bleeds to the grid edge, a single product claims a full-bleed viewport slice, and negative space carries the structural load while the chrome stays minimal. The dark panel variant (#1a1a1a, #121212) surfaces in footer sections and hero inversions, framing warm-toned product photography against a backdrop closer to a gallery wall than a tech storefront. This combination — warm parchment against olive-black with amber as the single accent frequency — maps precisely to the Analog index-card productivity system and walnut desk trays that Ugmonk is built around: objects designed to be placed on a desk and stopped thinking about, in the best sense of the phrase.
 
@@ -376,6 +380,13 @@ components:
 - Section eyebrow labels remain visible at all breakpoints — they are structural, not decorative
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

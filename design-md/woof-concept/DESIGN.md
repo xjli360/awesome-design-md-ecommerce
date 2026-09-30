@@ -4,6 +4,10 @@ name: "Woof Concept"
 source_url: "https://woofconcept.com"
 captured_at: "2026-09-28T09:35:35.833822+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Woof Concept presents itself as a premium, Canadian-made lifestyle pet brand
   selling collars, leashes and harnesses backed by a lifetime warranty. The
@@ -173,6 +177,13 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets for buttons and nav items should maintain a minimum 44×44px hit area; the pill button radius (`{rounded.full}`) should be preserved at all sizes. Header navigation is expected to collapse into a slide-out or accordion menu below the tablet breakpoint, given the depth of the observed category taxonomy (Dogs, Kitchen, Clothing, Collections, Collabs, Accessories, Cats, Company).
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

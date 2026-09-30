@@ -4,6 +4,10 @@ name: "GoldieBlox"
 source_url: "https://goldieblox.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A purple that reads as electric optimism — #d18cff — is the first color your eye catches on GoldieBlox, and it never lets go. That violet appears on the primary CTA, the header stripe, the "Shop" button, and the "Add to Cart" pill, making every purchase action feel like a reward rather than a transaction. The brand pairs this with a warm coral accent (#f3584c) for sale badges and secondary highlights, and a marigold yellow (#ffb71b) that pops against the white canvas (#ffffff) of product cards and the soft lavender surface (#f6e6df) of category blocks. Typography runs SofiaPro at clean, readable sizes — body copy at 16px with generous line-height (1.6) and display headlines at 28–32px in weight 600, never shouting. The overall mood is a workshop that happens to be a store: rounded corners everywhere ({rounded.lg} on cards, {rounded.full} on buttons), a mint accent (#19d3c5) for "New" badges and progress indicators, and a pink (#fb96d8) that shows up in the footer and on the "Girls" navigation tab, reinforcing the brand's core audience without being saccharine. The checkout flow uses Shopify's default gray (#dedede) for dividers and muted text (#726d75) for secondary copy, keeping the focus on the product photography and the bright, confident palette that says "engineering is for everyone."
 
@@ -373,6 +377,13 @@ components:
 - Search bar collapses from inline in nav (desktop) to overlay modal (tablet/mobile)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

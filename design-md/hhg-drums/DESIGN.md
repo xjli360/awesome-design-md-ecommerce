@@ -4,6 +4,10 @@ name: "HHG Drums"
 source_url: "https://www.hhgdrums.com"
 captured_at: "2026-09-28T10:32:51.038849+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   HHG Drums presents a dark, workshop-inspired storefront for Haggerty Hollow
   Guild, a maker of handmade snare drums. The observed Shopify theme runs on
@@ -162,6 +166,12 @@ Recommended, not measured, breakpoints:
 Touch targets should be at least 44×44px for buttons and nav links, consistent with the theme's `clamp(25px, …, 55px)` accelerated-checkout button sizing observed in the payment-wallet CSS. Navigation is assumed to collapse into a drawer/menu below tablet width; this is a convention inference, not a confirmed site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

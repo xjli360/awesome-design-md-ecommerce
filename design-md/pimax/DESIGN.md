@@ -4,6 +4,10 @@ name: "Pimax"
 source_url: "https://pimax.com"
 captured_at: "2026-09-28T04:10:28.660264+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Pimax's marketing site runs on a light paper canvas (#f2f2f2) with near-black
   ink (#1a1a1a) for primary text, paired with a cool sky-blue accent (#6193f6)
@@ -167,6 +171,13 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be at least 40-44px tall for buttons and nav items; the observed `.btn` padding (10px 16px) is close to this and should be increased slightly on touch devices. Collapse patterns (hamburger menu, accordion product menu) are proposed conventions, not confirmed from captured markup.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS and a title/color/font extraction only; no live rendering, DOM structure, or interaction states (hover/focus/active beyond the few rules supplied) were observed. Several semantic role assignments — canvas vs. surface-soft, dark-surface tiers, and hairline color — are inferred from variable naming and usage context rather than confirmed visually. Font sizes for display-xl, display-md, caption, and several component paddings are proposed estimates, not measured values, since only a subset of type rules (h1 weight/line-height/letter-spacing, card titles, body copy) were present in the evidence. Mobile layout, navigation collapse behavior, and any JavaScript-driven interactions are not observed. "Arcline," "Arcline Inline," and "HarmonyOS Sans" are used strictly as named in the supplied font_families list; their licensing, hosting, and actual glyph availability for production use have not been verified.

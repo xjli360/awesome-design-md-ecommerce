@@ -4,6 +4,10 @@ name: "Walrus Audio"
 source_url: "https://www.walrusaudio.com"
 captured_at: "2026-09-28T09:02:55.231231+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is built from Walrus Audio's observed storefront CSS: a
   near-black ink (#06070e) driving headings and the top promo bar, a clean
@@ -145,6 +149,13 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets should be a minimum of 44px in height, particularly for the header search and cart icons. Navigation submenus (observed as extensive category lists) should collapse into accordions on mobile. None of this layout behavior was directly observed; it is inferred from typical responsive patterns for the given markup structure.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS and text extraction only; no rendered layout, hover/focus states, animation, or actual mobile breakpoints were observed. The semantic roles for primary, accent, and badge colors are inferred from usage context (heading/background prominence, promo-chip highlight, cart-count fill) rather than confirmed brand guidelines. Spacing and rounded-corner scales beyond the few directly observed values (e.g., 2px badge radius, 10px cart-count radius) are proposed conventions. Typography sizes for display and title levels are proposed extrapolations from the confirmed base font-size (16px body, 12px promo caption) and observed heading weight/line-height; the acumin-pro-condensed and Inter font families are used per CSS declarations, but licensing and actual availability/hosting were not verified. Component interaction states (hover, active, disabled, error) are proposed patterns, not confirmed from evidence.

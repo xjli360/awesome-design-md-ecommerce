@@ -4,6 +4,10 @@ name: "Libro.fm"
 source_url: "https://libro.fm"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A teal-and-coral bookstore ecosystem where #62b9b6 (a minty seafoam) and #e96c7a (a warm watermelon pink) trade primary duty depending on context — the teal anchors the main navigation and brand lockup, while the coral drives membership CTAs and promotional banners, creating a two-color system that feels like a co-op rather than a corporation. The palette draws heavily from independent bookstore interiors: #f2f2f7 as the soft off-white canvas, #404040 as body text, and #222222 for headlines, with #7f7edb (a lavender accent) appearing on category tags and author badges. Type runs museo-sans-rounded and greycliff-cf — both rounded humanist sans-serifs — giving every headline and button a friendly, approachable curve that matches the {rounded.sm} 8px corners on cards and the {rounded.full} pill-shaped search bar. The design trusts generous whitespace ({spacing.section} 64px between major sections) and a three-column grid for audiobook discovery, with cover art doing the heavy lifting. Membership badges use #62cb91 (a fresh green) for "active member" status, while sale tags lean on #ffe000 (a marigold yellow) pulled from the extracted palette. The footer stacks six columns of bookstore links in {typography.body-sm} at 14px, with a persistent "Support Local" callout in the primary teal. Every interactive element — from the search bar to the "Listen Now" button — uses a 48px touch target, and the sticky bottom-player bar (a signature audiobook pattern) sits at 72px with a translucent white scrim.
 
@@ -435,6 +439,13 @@ components:
 - Player bar reduces metadata display on mobile (hides narrator, shows only title)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Bambo Nature"
 source_url: "https://bambonatureusa.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A Scandinavian baby-care brand that wraps its products in a warm, earthy palette anchored by a deep, confident blue (#006fcf) and a soft, creamy canvas (#fbf9f4), creating a visual language that feels both clinical and comforting. The brand’s voice is gentle but direct, using Maven Pro for clean, readable body text and the hand-drawn Learning Curve script for accent moments that whisper “natural” and “handmade.” The signature orange (#f48120) appears as a deliberate accent — not as a primary CTA voltage but as a warmth signal on badges, sale markers, and secondary highlights, like a sunbeam breaking through a Nordic forest canopy. Product imagery is treated with generous whitespace and soft, pill-shaped cards (`{rounded.full}`), while the navigation stays minimal — a simple white bar with the logo centered and a thin, muted hairline (`{colors.hairline}`) separating it from the hero. The overall feeling is one of quiet trust: the blue says “safe,” the cream says “clean,” and the orange says “alive.” Buttons are softly rounded (`{rounded.sm}`) and use the primary blue for high-confidence actions, while secondary actions use a transparent or outline style. The footer is dense with links, organized in a three-column grid on desktop, collapsing to a single column on mobile, with a soft gray background (`{colors.surface-soft}`) that grounds the page without competing with the hero imagery. The brand’s sustainability messaging is woven into the design through small leaf icons and earthy tones like #6bbbae (a muted sage) and #809687 (a warm olive), used sparingly in badges and category tags. The overall impression is of a brand that doesn’t shout — it leans in, speaks softly, and lets the product do the talking.
 
@@ -359,6 +363,14 @@ components:
 - Category tag strip becomes horizontally scrollable on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

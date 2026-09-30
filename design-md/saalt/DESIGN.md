@@ -4,6 +4,10 @@ name: "Saalt"
 source_url: "https://saalt.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A period-care brand that uses a restrained palette of near-black (#141414) and soft warm white (#fefefe) to signal clinical seriousness, then breaks the tension with a single unexpected accent: a muted lavender-purple (#a45cec) that appears on the homepage hero CTA button, the "Shop" navigation link hover state, and the brand's "Saalt" wordmark in the footer. The extracted hex list reads like a generic Shopify storefront until that #a45cec appears — it's the brand's only deliberate chromatic move, and it lands like a quiet counterpoint to the category's pink-and-pastel conventions. Body text runs Inter at 16px on a #f6f6f6 canvas, with Montserrat reserved for display headlines and the logo lockup. Cards and buttons use soft 8px rounding ({rounded.sm}), while the primary CTA button sits at 48px tall with 14px horizontal padding and a purple fill that shifts to a darker hover state. The checkout flow uses a standard Shopify pill shape ({rounded.full}) for the "Add to Cart" button. The site leans on generous whitespace and a single-column product grid on mobile, with a two-column layout on desktop. The overall mood is calm, direct, and unapologetically functional — the design trusts the product's utility over decorative flourishes.
 
@@ -307,6 +311,13 @@ components:
 - Search bars may collapse to an icon on mobile, expanding to full width on tap.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Sheldon Ceramics"
 source_url: "https://sheldonceramics.com"
 captured_at: "2026-09-29T04:18:44.270913+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Sheldon Ceramics is a Shopify-built storefront for handmade pottery, dinnerware,
   and home decor, organized around named collections (Farmhouse, Silverlake,
@@ -165,6 +169,13 @@ This is a proposed responsive recommendation, not a measured observation of the 
 Touch targets should be at least 44×44px for cart, search, and nav-toggle controls. The mega-menu structure implied by the repeated "Shop / By Type / By Collection" text blocks suggests a slide-in mobile drawer with back navigation, consistent with the "Back" labels present in the page text, but the actual interaction mechanics were not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

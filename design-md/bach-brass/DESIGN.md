@@ -4,6 +4,10 @@ name: "Bach Brass"
 source_url: "https://www.bachbrass.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep navy foundation at #000235 anchors a brand built for the orchestral and marching worlds, where gold accents at #e3d18c and #a5842a signal heritage and precision. The primary blue #003399 carries the weight of every primary CTA and navigation element, while a secondary red #a5212d appears sparingly — on sale badges and alert indicators — like a conductor’s warning tap. The canvas is a warm off-white #f4f4f4 rather than pure white, softening the technical precision of instrument photography and giving the site a workshop feel. Typography defaults to Arial across the system, set at modest weights with generous line heights that prioritize readability over display drama — the instruments themselves are the visual heroes. Cards and buttons use gentle rounding at {rounded.sm} to {rounded.md}, never fully pill-shaped, preserving a sense of crafted industrial design. The footer and secondary surfaces shift to #efefef, creating subtle depth without harsh contrast. A muted teal #0066a5 appears in hover states and secondary links, while the deep ink #171a1c handles body text. The overall system reads as serious but not cold — a brass instrument manufacturer that trusts its product photography and heritage markers over trendy UI flourishes.
 
@@ -387,6 +391,14 @@ components:
 - Accordion panels remain functional at all breakpoints, with no collapse needed
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

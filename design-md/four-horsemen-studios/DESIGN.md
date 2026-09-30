@@ -4,6 +4,10 @@ name: "Four Horsemen Studios"
 source_url: "https://sourcehorsemen.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A dark, mythic collector's marketplace where deep charcoal (#1a1a1a) and bone-white (#f5f5f0) stage action figures as museum artifacts. The brand's primary voltage is a muted crimson (#8b0000) that reads as aged blood or oxidized iron — used sparingly on price tags, sold-out badges, and cart buttons, never as a decorative wash. Product photography dominates the canvas at 1200px wide, with figures shot against black voids that make every armor joint and sculpted fur detail pop like a diorama. Type runs a condensed sans-serif at 14–18px for body copy, with display heads at 32px in a heavier weight that echoes the chiseled lettering on vintage toy packaging. The navigation is a persistent black bar with white text and a single search icon — no mega-menu, no category dropdowns, just "Shop All," "Mythic Legions," "Pre-Orders," and "About." Checkout flows through Shopify's standard widget, but the product grid uses a tight 4-column layout with `{rounded.sm}` (4px) corners on cards and `{rounded.full}` pill badges for "New" and "Pre-Order" tags. The overall feel is that of a specialty boutique for serious collectors — dark, focused, and unapologetically niche.
 
@@ -386,6 +390,13 @@ components:
 - Search bar becomes full-width on mobile, replacing the nav search icon
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

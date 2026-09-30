@@ -4,6 +4,10 @@ name: "Absolut Art"
 source_url: "https://www.absolutart.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every piece in the Absolut Art inventory loads against an unbroken `{colors.canvas}` white, with the artwork occupying a full-width square cell and pricing surfaced only on hover — a product grid that borrows gallery-wall logic rather than retail-shelf logic. The brand's typographic hierarchy runs almost entirely on weight and size contrast: a light serif at generous tracking for editorial display moments, a clean neutral sans-serif for all transactional UI. There is no accent color racing for attention because the collection itself provides all the colour. Near-black `{colors.ink}` at `#1a1a1a` handles every heading, label, and CTA, while `{colors.muted}` carries supporting metadata such as artist nationality and medium. Hairlines at `{colors.hairline}` divide content zones with the subtlety of a paper fold rather than a wall — the whole surface reads as one continuous white room. Primary CTAs keep this logic: flat black rectangles at `{rounded.none}`, no shadow, no gradient, the button shape receding so the artwork beside it advances. The filter and browse experience sits in a collapsible left rail on desktop, where category chips carry `{rounded.full}` pill shape as the sole signal of interactivity against an otherwise-flat UI. Editorial sections — artist spotlights, curated collections — break the browse grid with asymmetric full-bleed image panels that pair a single large photograph with a sparse headline in a light display-serif weight, signalling that Absolut Art is as much a discovery platform as a transaction surface. Spacing is generous throughout: `{spacing.xl}` between cards, `{spacing.section}` between page sections, so each piece is afforded breathing room appropriate to its status as art rather than merchandise.
 
@@ -306,6 +310,14 @@ components:
 - Footer columns stack vertically on mobile with `{spacing.lg}` between each section
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

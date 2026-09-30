@@ -4,6 +4,10 @@ name: "Richmond & Finch"
 source_url: "https://www.richmondfinch.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A phone-case brand that uses a saturated #0051c3 as its primary voltage — a confident, almost electric blue that appears across CTAs, badges, and category headers, while a secondary #bd2426 (a deep crimson) and #9bca3e (a sharp lime green) create a three-color accent system that feels more like a sportswear label than a phone accessory shop. The extracted palette reads as a generic web framework base (#dedede, #ebebeb, #404040, #313131) overlaid with these three distinctive brand accents, suggesting the live site may have been unreachable at extraction time — the DNS failure in the page title confirms this. The typography stack is a standard system-font fallback chain (-apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif), indicating no custom typeface investment; the brand relies on weight contrast and generous whitespace rather than proprietary letterforms. The crimson #bd2426 appears as a secondary CTA color and likely powers sale badges or error states, while the lime #9bca3e suggests in-stock indicators or promotional ribbons. The blue family (#0051c3, #0045a6, #003681, #2f7bbf) forms a gradient scale from primary to hover to deep navy, with #f68b1f and #ee730a adding an orange accent for shipping or urgency badges. The overall system reads as a high-contrast, accessibility-conscious palette built for e-commerce conversion — bright accents against a neutral gray canvas, with {rounded.sm} corners on buttons and {rounded.md} on product cards to keep the interface crisp without feeling playful.
 
@@ -372,6 +376,13 @@ components:
 - Product grid reduces from 4-5 columns to 2 columns on mobile, ensuring each card remains legible
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Cultivate What Matters"
 source_url: "https://cultivatewhatmatters.com"
 captured_at: "2026-09-29T04:03:39.569460+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation reads Cultivate What Matters as a warm, editorial goal-planning brand built on
   a bright magenta-pink identity (#e62e89, reinforced by the Judge.me review-widget variables using
@@ -161,6 +165,13 @@ Recommended, not measured from live rendering:
 Touch targets should be at least 44px tall, matching the observed `--lh-btn-height: 45px`. Announcement-bar and promo-strip content should truncate or scroll on narrow viewports. None of this responsive behavior was directly observed; it is a conventional recommendation only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Evidence was extracted from static CSS/text; no rendered layout, breakpoints, hover/focus states, or JS-driven interactions (cart drawer, mega-menu, bundle-kit widget behavior) were observed.

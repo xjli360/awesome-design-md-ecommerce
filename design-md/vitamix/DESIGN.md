@@ -4,6 +4,10 @@ name: "Vitamix"
 source_url: "https://www.vitamix.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Vitamix speaks in the language of professional-grade power and culinary precision, wrapped in a palette that feels both aspirational and approachable. The brand's visual identity is anchored by a deep, confident ink (#222222) that carries headlines and primary navigation, while body text settles into a slightly softer charcoal (#3f3f3f) for extended reading. The canvas is a clean, bright white (#ffffff) that lets product photography and the signature blend of vibrant ingredient colors take center stage. Muted tones (#6a6a6a) and soft hairlines (#dddddd) create subtle structure without competing with the hero imagery of blenders in action. Typography is a deliberate mix of heritage and modernism: Sentinel, a sturdy slab serif, is used for display headings that evoke the brand's 100-year legacy of engineering excellence, while Gotham Narrow provides a clean, efficient sans-serif for body copy and UI elements. The design system relies on generous whitespace, large product imagery, and a restrained use of color — there is no single brand accent color screaming for attention; instead, the system trusts the natural vibrancy of fresh ingredients and the polished stainless steel of the machines themselves. Buttons and interactive elements use the ink color for primary actions, creating a no-nonsense, utilitarian feel that says "this tool means business." Rounded corners are present but modest — `{rounded.sm}` (8px) on cards and `{rounded.md}` (12px) on buttons — never veering into the overly friendly pill shapes of consumer lifestyle brands. The overall mood is one of quiet confidence: this is a brand for serious home cooks and professionals who value performance over flash.
 
@@ -371,6 +375,13 @@ components:
 - Breadcrumb trails truncate with "..." on mobile, showing only the current page and parent
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

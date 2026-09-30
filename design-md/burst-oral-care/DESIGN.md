@@ -4,6 +4,10 @@ name: "Burst Oral Care"
 source_url: "https://www.burstoralcare.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A vibrant, confident oral-care brand that pulses with energy through a bold purple-and-yellow palette — primary purple #370078 anchors every CTA, badge, and product hero, while a sharp yellow #ffdd00 provides electric contrast on ratings, sale tags, and accent highlights. The brand reads as clinical-but-approachable: a clean white canvas (#ffffff) supports soft gray surfaces (#f4f4f6, #f7f7f8) and muted text (#676986, #9a9db1), while deep ink (#272d45) drives body copy and headings. Typography relies on a neutral sans-serif stack (inherit declarations suggest system fonts or a single weight-variable family), with button text at `{typography.button-md}` and body copy at `{typography.body-md}`. Signature moves include pill-shaped buttons (`{rounded.full}`) for primary actions, softly rounded cards (`{rounded.sm}` ~8px), and a persistent top nav with a bold purple background. The brand trusts product photography and dense informational layouts — star ratings glow yellow, subscription badges pop purple, and every interactive element feels deliberate and tactile. There is no hard edge in the UI; even input fields and search bars carry `{rounded.sm}` or `{rounded.full}` radii, reinforcing a friendly, hygienic feel. The overall mood is energetic yet trustworthy — a dental-pro-backed brand that doesn't whisper.
 
@@ -355,6 +359,14 @@ components:
 - Secondary navigation (category strip) collapses to horizontal scroll on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

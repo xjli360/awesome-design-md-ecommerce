@@ -4,6 +4,10 @@ name: "Tactipup"
 source_url: "https://tactipup.com"
 captured_at: "2026-09-28T10:33:58.656593+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Tactipup's storefront evidence points to a utilitarian, high-contrast retail
   system built on Shopify's Dawn-derived theme conventions. The measured
@@ -169,6 +173,13 @@ The following breakpoints are a **recommendation only**; no responsive CSS or vi
 Touch targets should be a minimum 44px height for buttons and nav links on mobile. Mega-menu navigation is expected to collapse into an accordion-style disclosure below 990px, matching the `.disclosure__toggle` class name observed in CSS, though its collapsed visual behavior itself was not measured.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

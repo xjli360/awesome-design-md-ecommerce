@@ -4,6 +4,10 @@ name: "Wolf Circus"
 source_url: "https://www.wolfcircus.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Gellix — a geometric grotesque with warmth in its terminals — runs the entire Wolf Circus type system at weights that never climb above Bold, leaving the recycled gold vermeil and sterling silver in product photography to deliver all the color the page requires. The ink tone (#121212) reads softer than pure black, giving typography a matte, almost-printed quality; #dedede mirrors polished sterling silver in dividers and placeholder strokes, turning a structural element into a quiet material reference. Buttons hold a near-square profile with letter-spacing nudged open to 0.10em, signaling that the brand operates at an editorial cadence rather than a conversion-anxious one. The entire canvas is white (#ffffff), uninterrupted by brand-color washes or gradient overlays — the site's color arrives exclusively through product: warm yellow golds, cool silver, the occasional oxidized black finish.
 
@@ -323,6 +327,13 @@ components:
 - Footer columns stack vertically on mobile with each heading acting as a disclosure toggle for its link list
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

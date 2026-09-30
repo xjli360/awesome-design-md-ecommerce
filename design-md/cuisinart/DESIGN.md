@@ -4,6 +4,10 @@ name: "Cuisinart"
 source_url: "https://www.cuisinart.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   That unmistakable cyan — #00a1e0, the color of a gas flame's hottest ring — anchors every primary CTA, navigation highlight, and interactive element on cuisinart.com, a hue no other countertop-appliance brand owns. It reads less like a corporate blue and more like the glow of a backlit control panel, a signal that this is a site built to move you toward a purchase decision with industrial efficiency. The typography is pure system-native stack — Helvetica Neue, Roboto, Arial, Noto Sans — rendered at moderate weights that let the product photography do the heavy lifting. Headlines sit at 600–700 weight in the 28–36px range, but the real workhorse is the 16px body text in #444444 on a bright #f9f9f9 canvas, a combination that reads cleanly without the stark contrast of pure black on white. Green accents (#008827, #00853e) appear throughout category badges and eco-messaging callouts, while a persistent #cc0000 red marks sale pricing, clearance tags, and error states — the three-color system (cyan, green, red) maps directly to the informational hierarchy of a kitchen-appliance catalog. Corner radii are modest: `{rounded.sm}` on buttons, `{rounded.md}` on cards, `{rounded.xs}` on badges — nothing pill-shaped, nothing playful, just enough softness to keep the interface from feeling like a spec sheet. The navigation architecture is deep, with a full-width mega-menu system that exposes product categories (Food Prep, Cookware, Coffee & Espresso, Microwaves, Toaster Ovens) in organized columns, each with lifestyle imagery and promotional callouts. A persistent top utility bar in #1a1816 carries account links and customer service, sitting above the main nav like the control strip on a range hood. Spacing follows a disciplined `{spacing.base}` of 16px grid, with `{spacing.section}` at 64px separating major content blocks. Product cards use generous `{spacing.lg}` gutters and present a clean image-over-text layout with star ratings, model numbers, and price prominently stacked. The overall effect is a digital showroom — polished, navigable, and engineered to convert browsers into buyers with the same precision Cuisinart brings to its blade assemblies.
 
@@ -590,6 +594,13 @@ components:
 - Spec table switches to stacked label/value pairs below 744px; footer from 4 to 2 columns at 744px, then stacked at 480px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

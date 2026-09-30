@@ -4,6 +4,10 @@ name: "Hexclad"
 source_url: "https://hexclad.com"
 captured_at: "2026-09-28T04:10:16.214740+00:00"
 evidence_status: "historical_partial_css_evidence"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Hexclad is a cookware brand built on the tension between two worlds — stainless steel performance and non-stick convenience — and its design system mirrors that hybrid philosophy. The palette is anchored in industrial darkness: `#0e0e0e` and `#1a1a1a` form the deep canvas, while `#303030` and `#2b2b2b` provide layered surfaces that feel machined and precise. Against this dark backdrop, a single red voltage — `#d73939` in its primary form, sharpening to `#c70000` on active states and softening to `#ef4444` for hover — acts as the brand's signature accent, appearing on primary CTAs, sale badges, and the iconic hexagonal pattern that gives the brand its name. The system is unapologetically bold: `{rounded.sm}` (8px) corners on buttons and cards keep edges crisp and engineered, while `{rounded.full}` pill shapes on search bars and badges introduce a surprising softness. Typography layers Canela, a refined serif for display moments, alongside din-2014 for technical body copy, creating a dialogue between warmth and precision. The muted palette — `#707070`, `#6b7280`, `#aaaaaa` — handles secondary text and hairlines, while `#dfd5c4` and `#d9d8d6` appear as warm neutral accents on cards and surfaces, preventing the system from feeling cold. The brand's Shopify heritage shows in its component-heavy layout: product cards with `{rounded.md}` (12px) corners, a persistent sticky nav bar at 72px, and a footer that stacks generously at `{spacing.section}` (64px). Hexclad's design language is not about hiding its construction — it's about celebrating the hybrid, the welded, the dual-natured.
 
@@ -525,6 +529,13 @@ components:
 - Search bar collapses to icon-only trigger on mobile, expanding to full-width on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

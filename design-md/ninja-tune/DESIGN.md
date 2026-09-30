@@ -4,6 +4,10 @@ name: "Ninja Tune"
 source_url: "https://www.ninjatune.net"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A black-and-white foundation (#222222 ink on #f5f5f5 surface) that lets the music do the coloring — the extracted palette is dominated by system grays and Bootstrap alert hues (#3c763d green, #8a6d3b gold, #a94442 red), suggesting the site leans heavily on a neutral canvas with occasional utility accents rather than a proprietary brand color. The typography stack is a hybrid of classic web sans-serifs (Helvetica Neue, Arial) and two proprietary faces — franklingothicbold and franklingothicregular — that carry the label's identity in headers and navigation, giving the interface a mid-century editorial weight that contrasts with the lightweight system fonts used for body copy. Buttons and interactive elements default to #337ab7 (a Bootstrap blue), indicating the site may not have fully customized its component library, but the overall impression is one of deliberate restraint: a dark header bar (#222222) with white text, generous whitespace in release grids, and small, tightly-kerned captions that defer to album artwork and track listings. The label's visual identity is carried more by its artists' imagery and the franklingothic typeface than by any single color — the design system is a quiet frame around loud music.
 
@@ -305,6 +309,13 @@ components:
 - Product card meta (artist, format, price) collapses to single line on mobile, hiding format label
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

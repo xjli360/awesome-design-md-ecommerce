@@ -4,6 +4,10 @@ name: "Kaytee"
 source_url: "https://kaytee.com"
 captured_at: "2026-09-28T09:17:55.210397+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Kaytee's supplied CSS evidence combines a legacy Sitecore/jQuery-UI base theme
   with brand-level component overrides, yielding a broad but only partially
@@ -166,6 +170,13 @@ Recommended breakpoints (not measured from live site):
 Touch targets should be at least 44×44px for nav, search, and CTA buttons. Navigation is expected to collapse into a hamburger/menu pattern below tablet width, and the species-finder grid should reflow from multi-column to single-column stacking on mobile. These are proposed conventions only; no responsive CSS or breakpoint values were present in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

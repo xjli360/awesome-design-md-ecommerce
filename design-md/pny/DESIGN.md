@@ -4,6 +4,10 @@ name: "PNY"
 source_url: "https://www.pny.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep navy #222222 and cool steel #656565 industrial palette grounds PNY’s hardware-first identity, with a sharp accent of #079bd5 — a cyan that reads as data-in-motion — used sparingly on category headers and spec-table highlights. The brand’s typography is a two-weight system: Bebas Neue Pro for all display and title roles, a compressed sans-serif with tight letter-spacing that evokes GPU shroud vents and server rack lines, paired with Arial for body copy in a no-nonsense 14px/16px. Every product card uses a 1px #dedede hairline border and {rounded.sm} corners, creating a grid of identical rectangles that feels like a warehouse shelf — functional, scannable, unadorned. The primary CTA is a solid #079bd5 rectangle with white 14px Bebas Neue Pro uppercase text, 48px tall, no shadow, no gradient. Secondary actions drop to a #222222 outline on white. The nav bar is a fixed 48px strip of #222222 with white Bebas Neue Pro navigation links, no dropdown chevrons, no hover underline — just a hard #079bd5 left-border on the active tab. Badges appear in two flavors: a green #76b900 “IN STOCK” and a red #991b1e “SALE”, both set in 11px uppercase Bebas Neue Pro with {rounded.xs} corners. The footer is a dense #222222 slab with white 12px Arial links in three columns, no icons, no newsletter signup — pure utility. PNY does not decorate; it indexes.
 
@@ -374,6 +378,13 @@ components:
 - Spec tables become horizontally scrollable on mobile, with first column frozen
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

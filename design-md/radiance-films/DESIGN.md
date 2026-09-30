@@ -4,6 +4,10 @@ name: "Radiance Films"
 source_url: "https://www.radiancefilms.co.uk"
 captured_at: "2026-09-28T09:52:32.798388+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Radiance Films is a Shopify-powered specialty retailer of collector's-edition
   Blu-ray and UHD releases (classic, cult, and arthouse cinema). The extracted
@@ -168,6 +172,12 @@ This is a recommended breakpoint scheme, not a measured observation of the live 
 Buttons and form inputs should maintain a minimum 44px tap target on touch devices. Navigation collapse (hamburger vs. inline links) is a standard e-commerce pattern assumption, not confirmed from the extracted CSS or markup.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

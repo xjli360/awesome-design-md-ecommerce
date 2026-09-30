@@ -4,6 +4,10 @@ name: "Redbarn Pet Products"
 source_url: "https://redbarn.com"
 captured_at: "2026-09-28T09:16:28.197671+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Redbarn's storefront is built on a Shopify Dawn-derived theme layered with a
   saturated barn-red identity (#ae2227, reinforced by #b2282d, #ad2227 and
@@ -163,6 +167,12 @@ components:
 Proposed breakpoints (not measured from live layout): mobile ≤599px (single-column, stacked nav collapsing to a hamburger/drawer, full-width product cards), tablet 600–989px (2-column product grids, condensed nav), desktop ≥990px (multi-column mega-menu nav, 3–4 column product grids, hero at full section height). Touch targets should be a minimum 44px height, matching the observed Shopify accelerated-checkout button's `clamp(25px, …, 55px)` sizing pattern. Nav mega-menus are assumed to collapse into an accordion on mobile. All breakpoint values, collapse thresholds, and touch-target sizing beyond the checkout-button clamp are recommendations, not observed site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered layout, computed styles, hover/focus states, or JavaScript-driven interactions (cart drawer, quiz flow, mega-menu behavior) were observed. Font-role assignments (which faces apply to headings vs. body vs. buttons) are inferred from filenames and general theme conventions, not confirmed via computed `font-family` on specific elements — Heebo and Libre Franklin's actual usage is unverified. Pixel sizes for all typography tokens beyond the single confirmed `1.5rem` body rule are proposed estimates assuming a 10px root font-size, not directly measured. The muted/gray and hairline color role assignments are best-fit choices among several similar grays/creams in the observed palette (e.g., #dedede, #d6d6d6, #dadada, #efe9e0) and could be swapped without contradicting evidence. Mobile menu structure, search UI, and footer composition were not present in supplied CSS and are marked proposed. Custom font licensing and self-hosting terms for ITCFranklinGothicLTPro and NovecentoSlabDemiBold were not verified and must be confirmed with Redbarn/foundry before reuse.

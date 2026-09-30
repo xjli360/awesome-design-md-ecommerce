@@ -4,6 +4,10 @@ name: "Prusa Research"
 source_url: "https://www.prusa3d.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Orange #fa6831 operates at full saturation across an otherwise controlled dark-and-neutral spectrum — it lands on every primary CTA, every printer-status LED illustration, and every heat-gradient diagram explaining nozzle temperatures on exploded assembly views. The palette runs two distinct registers simultaneously. A light engineering canvas (#f5f6f7 with #e0e0e0 hairlines and #2a2a2a ink) handles product catalog, spec tables, and filament libraries. A near-black production zone (#121212, #2a2a3a) carries immersive hero sections where filament reels and print heads photograph against studio void — the darkness is not decorative; it mimics the enclosed build chamber environment Prusa's printers actually occupy. A second accent voltage, functional green #5ccc3d, operates exclusively in status and availability contexts: live build progress indicators, "In Stock" badges, and online printer health rings. #00c48d provides a teal variant for softer success states, and #00b67a arrives with the Trustpilot review widget — a third-party green that rhymes close enough with Prusa's own success state that no one notices the seam.
 
@@ -403,6 +407,13 @@ components:
 - Product card grid: 4-up (wide) → 3-up (desktop) → 2-up (tablet) → 1-up (mobile)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Lovevery"
 source_url: "https://lovevery.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A child-development brand that uses color as a cognitive signal, where #131c66 (a deep navy) anchors the system not as a background but as a primary action color — an unusual choice for a brand aimed at babies and toddlers, who are typically surrounded by pastels. The navy sits alongside #b85bbf (a warm magenta), #bbdc00 (a chartreuse green), and #ff9955 (a tangerine orange), creating a palette that feels like a carefully curated toy box rather than a nursery. The brand's typography runs BrownPro across headings and body text, a rounded geometric sans-serif that reads as friendly without being childish — it has the weight and structure of a serious educational tool. Product photography is the real hero: crisp, well-lit images of wooden toys and play kits on white backgrounds, with the occasional #f7f3f7 (a blush-tinted off-white) surface to soften the experience. The site uses generous whitespace and {rounded.lg} corners on cards and buttons, creating a calm, unhurried browsing rhythm that mirrors the brand's "stage-based play" philosophy — nothing is rushed, everything has its moment. The checkout flow, powered by Shopify, introduces a secondary blue (#202ea8) for payment actions, but the core brand navy remains the dominant interactive color across the main shopping experience.
 
@@ -382,6 +386,13 @@ components:
 - Product images switch from landscape to square aspect ratio on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

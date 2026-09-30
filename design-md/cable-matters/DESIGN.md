@@ -4,6 +4,10 @@ name: "Cable Matters"
 source_url: "https://www.cablematters.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Safety-vest orange (#f17506) is the load-bearing color of this catalog — not the friendlier tangerine consumer electronics brands favor, but a utility-grade signal hue that Cable Matters fires at every primary CTA, price callout, and promotional accent, set against a warm ecru canvas (#f5f4ef) that immediately separates the site from clinical-white competitors; the ecru choice is the quiet tell that this is a dense product database built for buyers who comparison-shop connector types and bandwidth ratings across hundreds of SKUs rather than browsing for brand experience. Text runs entirely in Arial — no custom typeface, no variable font — which reads as a trust signal in a category where purchase decisions rest on technical compatibility tables and accurate product photography rather than brand narrative.
 
@@ -381,6 +385,13 @@ components:
 - Breadcrumb collapses to show only the immediate parent category plus the current page on mobile, separated by a `muted` chevron
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Hims"
 source_url: "https://forhims.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep forest green on warm cream is the whole argument — #1B4332 against #F5F0E8, held without apology across hero sections, primary CTAs, and the brand wordmark alike. Where most men's health companies default to clinical blue or urgent red, Hims chose the color of old-growth trees and pressed it into every touchpoint that matters: the pill-shaped "Get started" button, the subscription plan border on selection, the progress bar tracking completion inside the intake quiz. The grid is generous and unhurried; a 96px section rhythm at desktop means each condition category — Hair, ED, Skin, Mental Health, Primary Care — gets a full breath before the next. Type runs a clean geometric sans at compact weight 400 for body and a confident 600–700 for display, set large enough that copy reads as a statement rather than a disclaimer. Product photography leans warm: skin tones against cream backgrounds, the occasional dark-green prop, no harsh shadows or stark white studio floors. Condition cards use {rounded.lg} corners and a {colors.surface-soft} fill, softening what could read as a clinical checklist into something closer to a wellness menu. Badges are restrained — no garish sale tags, only subdued {colors.surface-soft} pills in {typography.caption} — because the brand's authority is built on understatement. The quiz and intake flows feel like a conversation: single-question pages, dot-based progress, zero medical-form density. The footer inverts to {colors.surface-dark}, reversing to {colors.on-dark} type, a quiet structural signal that regulatory weight lives at the bottom while approachability governs everything above.
 
@@ -359,6 +363,13 @@ components:
 - Footer four-column link grid collapses to single-column accordion with expand/collapse per section on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

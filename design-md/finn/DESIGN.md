@@ -4,6 +4,10 @@ name: "Finn"
 source_url: "https://petfinn.com/"
 captured_at: "2026-09-29T04:15:20.251180+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Finn's public storefront (petfinn.com) presents a vet-formulated dog supplement line through a playful, trust-forward visual system. The dominant brand color is a deep indigo-navy (#161345), used consistently across large display headlines, review-widget theming (Junip primary/button color), and button text — establishing it as the core identity color. A warm orange (#ff7f00) appears specifically as the star-rating accent, suggesting a secondary highlight role rather than a primary CTA color. Large-scale headline type uses "Athletics-Medium," a distinctive rounded display face rendered at very large sizes (133px observed) for section titles like "The Finn Formula" and "Loved by Pets, Endorsed by Vets" — this is treated as the brand's signature display font. Buttons and UI labels use "Larsseit-Regular"/"Larsseit-Medium," a clean geometric sans. Body copy font is not directly confirmed in the CSS evidence; Montserrat and Helvetica Neue are present in the font stack and are used here as the inferred body typeface, with generic sans-serif fallback. Neutral surfaces (#f9f9f9, #f7f7f7, #ffffff) and soft hairlines (#e2e8f0, #dedede) support a light, airy product-card layout, consistent with the observed 20px-radius product image containers.
 
@@ -150,6 +154,12 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets for buttons should maintain a minimum 44px height; the observed button padding (`13px` block, `20px` inline) approximates but does not guarantee this on all devices. Mobile nav collapse and drawer behavior are proposed, not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Black Diamond"
 source_url: "https://blackdiamondequipment.com"
 captured_at: "2026-09-29T04:18:22.092265+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Black Diamond's storefront evidence shows a utilitarian, mountain-hardware aesthetic built on a near-monochrome base (black #000000/#121212, white #ffffff, and mid-grays #f7f7f7/#dedede/#8c8c8c) punctuated by a single burnt-orange accent (#cd4c1d, with a near-duplicate #cd4c1e/#bd461b appearing in related contexts). This orange drives CTAs such as the featured-blog button and testimonial hover states, darkening to black on hover rather than shifting hue. A secondary utility blue (#1990c6, hover #136f99) appears only on the Shopify-native accelerated checkout button, so it is treated as a platform default rather than a brand color, kept available but not promoted to primary UI. Error/alert reds (#dc2626, #ef4444, #fef2f2) are inferred as form-validation colors from generic class naming.
   Typography is clearly role-split in the CSS: Futura Extra Bold drives buttons, Futura Semi Bold drives heading levels h0–h5, and Neue Haas Unica handles denser UI copy like product titles and form submit labels. Jost and Instrument Sans are present in the font manifest but have no confirmed selector role, so they are treated as inferred secondary/body candidates. The resulting interpretation favors bold, condensed display type, flat rectangular controls, and generous whitespace consistent with a technical outdoor-gear catalog, with rounded corners kept minimal (0–4px) given the observed 0px radius on the checkout button.
@@ -148,6 +152,12 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets for buttons and nav items should maintain a minimum 44×44px hit area; mega-menu flyouts should collapse to accordions below tablet width. None of this was observed in rendered layout — it is a conventional recommendation based on the category list depth evidenced in page text.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered layout, computed styles, or interaction states (hover/focus/active beyond the two hover rules shown) were observed. The mapping of Futura Semi Bold to all heading levels and Futura Extra Bold to all buttons is confirmed by selector; however, root font-size and therefore exact rem-to-px conversions for body copy were not resolvable from the supplied `1.5rem` body rule, so body-md's 16px is a proposed estimate. Jost and Instrument Sans appear in the font manifest with no confirmed selector, so their role in the type system is unverified. The blue accelerated-checkout blue (#1990c6/#136f99) is Shopify-platform styling, not confirmed brand color, and is retained only as a secondary/utility token. Custom font licensing and self-hosting availability (Futura, Neue Haas Unica) were not verified. Mobile menu behavior, cart drawer interaction, and product-page layout for backpacks specifically were not observed in the supplied evidence.

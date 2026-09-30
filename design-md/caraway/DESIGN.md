@@ -4,6 +4,10 @@ name: "Caraway"
 source_url: "https://www.carawayhome.com"
 captured_at: "2026-09-28T04:10:10.856049+00:00"
 evidence_status: "historical_partial_css_evidence"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A warm, design-led ceramic-cookware brand built on the proposition that pots and pans belong on the counter rather than hidden in a cupboard. Caraway anchors its entire visual system to a soft cream canvas (`#f5efe4`) rather than the sterile white most cookware brands default to — the page reads as a sun-warmed kitchen rather than a hardware showroom. Inside that canvas, type runs in a humanist grotesque (a GT America / Söhne-family sans) at modest weights, with display headlines sitting at 36–56px in weight 500 rather than the heavy 700+ that fitness and DTC food brands lean on; Caraway trusts photography of cream-and-marigold pans on linen runners to carry the visual weight, not type muscle. Body copy lands in a deep ink-navy (`#0e1c2c`) that reads softer than pure black on the cream surface, with secondary copy stepping down through `#5a5046` (a warm taupe muted) and hairlines drawn in `#e3d9c8` rather than a cold gray. The six signature product colorways — Cream (`#ece2cf`), Sage (`#a8b59a`), Navy (`#2a3a52`), Perracotta (`#d49a8b`), Marigold (`#e9b461`), and Gray (`#a09a91`) — are not just SKU variants but the brand's entire chromatic identity; each was developed from custom Pantone swatches and surfaces everywhere from the homepage hero swatch carousel to the navigation color-chip selectors to footer decorative bands. Buttons are softly rounded rectangles at `{rounded.sm}` (4px) with a deep navy-ink fill (`#0e1c2c`), 14×28px padding, and a 48px tap height — never pills, never sharp corners. Product cards clip at `{rounded.md}` (12px) and carry a horizontal row of small circular color-chip swatches (`{rounded.full}`) below the photo, allowing shoppers to recolor the hero image inline. The shape language across the whole site is gently rounded — `{rounded.md}` on cards, `{rounded.sm}` on buttons, `{rounded.full}` on color chips and badges — reinforcing the brand's "joyful, refined, organic" voice over the harsh-corner aesthetic of competing cookware. Editorial section breaks lean on full-bleed lifestyle photography of cookware in muted-tone kitchens rather than typographic dividers, and the footer drops to a deep `{colors.surface-dark}` band carrying cream link rows, completing the warm-canvas-into-warm-dusk visual arc.
 
@@ -627,6 +631,13 @@ There are no progressive elevation tiers. Depth comes from tonal cream stepping,
 - Footer 4-column band collapses to a stacked accordion below 744px — each column head becomes a tap-to-expand row.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Burgon & Ball"
 source_url: "https://www.burgonandball.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Sheffield steel against an #abb837 chartreuse — the specific yellow-green of new growth on an overcast northern English morning — anchors every product photograph and primary CTA on burgonandball.com, a deliberate inversion of the beige-and-brown rusticity that garden brands typically reach for. The deep navy #204a80 arrives as structural counterweight: the navigation bar, section anchors, and trust-mark backgrounds hold the composition while the lime-tinged green does the emotional work. Near-black #121212 carries all body copy with genuine ink depth, and a single warm gray #dedede handles hairlines and card strokes, present but thin as folded muslin. Buttons inherit {rounded.sm} geometry — noticeably soft without becoming pill-shaped — consistent with a brand whose products have ash handles and forged Sheffield heads; there is nothing aggressive about the corner radius here. Navigation sits in a #204a80 deep-navy bar that grounds the page immediately, with #abb837 surfacing as hover indicators and active states, creating a chlorophyll-and-indigo rhythm that recurs in product badges and section underlines. The catalogue is organized around use-case — borders, digging, harvesting, planting — so the top-level nav reads like a potting-shed drawer index rather than a retail taxonomy, unhurried and confident. Product cards carry a {rounded.xs} border and a quiet #dedede stroke; photography is wide and tool-forward, letting spade geometry and patinated steel carry the texture. Typography could not be recovered from extraction — the brand loads typefaces through Shopify's JS asset pipeline — but on-screen proportions suggest a condensed display face for hero and category headers paired with a neutral grotesque for product descriptions and pricing. Spacing is generous at section level and tight at component level, echoing the pace of a manufacturer that has been making garden tools since 1730 and has never needed to shout.
 
@@ -352,6 +356,14 @@ components:
 - Footer four-column grid collapses to two columns at tablet and single-column accordions at mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

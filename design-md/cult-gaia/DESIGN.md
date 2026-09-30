@@ -4,6 +4,10 @@ name: "Cult Gaia"
 source_url: "https://cultgaia.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The warm ivory canvas (#fffef8) — not white but the color of bleached linen or dried pampas grass — is the first perceptual decision separating Cult Gaia from fashion peers operating on sterile white grounds. Against it, SURT Ultra Bold Expanded stacks in monumental compressed letterforms atop every editorial section: the typeface functions less as text and more as architectural volume, each headline occupying space the way the brand's signature lattice bags and geometric mules occupy the frame in campaign photography. LoveRegular arrives as editorial caption or secondary accent, its organic curves creating deliberate tension between engineered mass and handmade warmth. The near-black #393939 does all UI heavy lifting — nav links, body copy, and primary CTAs set against the warm ivory at this tone rather than pure black, shaving just enough contrast to feel editorial rather than utilitarian. Crimson (#af1d32) and terracotta (#a94120) surface surgingly: sale badges, reduced-price states, and seasonal accents carry urgency without altering the neutral temperature of the broader palette. Sage (#bac8c3) and warm taupe (#c8c7ba) fill the mid-register as hover tints, alternating editorial row backgrounds, and muted subtitle color. Corners are near-absent throughout — {rounded.none} to {rounded.xs} dominate across buttons, cards, and inputs, reflecting the brand's debt to clean geometry and artisanal construction. Product photography bleeds edge-to-edge on borderless cards, creating a gallery feel rather than a catalogued grid. The announcement strip rides every page in the near-black ground with tightly tracked Inter against {colors.on-dark}, while the main navigation holds as a minimal horizontal bar in {colors.ink} against {colors.canvas}, collapsing to a hamburger at mobile. Category filters and size selectors use flat rectangular chips with hairline outlines at {colors.hairline} that fill to {colors.ink} on selection — restraint maintained through every conversion touchpoint.
 
@@ -353,6 +357,13 @@ components:
 - Category header subtext hides at mobile to reduce vertical stack height
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "12x12 Cardstock Shop"
 source_url: "https://www.12x12cardstock.shop"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Scrolling the shop makes the product immediately legible as the palette itself — candy pink (#ffc0cb), signal red (#ff0000), royal purple (#6a0dad), kraft brown (#964b00), buttercup yellow (#ffff00) — the extracted hex list reads less as a brand color system than as a warehouse inventory of paper reams organized by hue. The interface exists to frame that polychromatic catalog without competing with it. A warm sand tone (#d9bb92) — the color of actual unbleached cardstock — runs through promotional surfaces and hero banners; a lighter parchment field (#f1e5b8) provides the softest content backdrop. The single interactive accent is a clear steel blue (#4195b6, confirmed as meta theme-color), anchoring every CTA, cart action, and filter-active state so the product rainbow can dominate without chrome interference. Outfit handles all UI and body weight — its rounded geometric forms feel modern and approachable without tipping into childish, which suits an adult hobbyist community that takes paper crafting seriously. Tenor Sans steps in for editorial display copy: hero headers and promotional banners benefit from its narrower elegant proportions, lending a stationery-shop refinement that separates the brand from bulk-commodity paper suppliers. Product cards use a gentle {rounded.md} radius on a white {colors.surface-card} ground; color-swatch filter chips take full pills ({rounded.full}) because they replicate the physical experience of flipping through paper chip books. Navigation chrome stays deliberately light — {colors.canvas} headers, {colors.surface-soft} sidebars — so that when a 48-count rainbow grid of paper swatches loads, nothing structural competes. Sale and promo callouts use a warm amber (#e2a764) that reads as inviting heat against the cooler blue primary. The shop's real design language lives in its taxonomy: papers organized by color family, weight, finish, and cut size in deep filter trees, so the UI's primary job is information architecture, not spectacle.
 
@@ -358,6 +362,14 @@ components:
 - Hero CTA button switches from inline to full-width at < 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

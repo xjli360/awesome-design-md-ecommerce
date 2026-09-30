@@ -4,6 +4,10 @@ name: "Barnes Made"
 source_url: "https://barnesmade.com"
 captured_at: "2026-09-28T10:24:14.166846+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Barnes Made's available CSS evidence comes largely from Squarespace's shared
   product-component stylesheet rather than bespoke brand styling, so this
@@ -156,6 +160,14 @@ components:
 Proposed breakpoints (not measured): mobile up to 599px, tablet 600–959px, desktop 960px and above. The observed "Open Menu / Close Menu" text pair implies a collapsible navigation pattern on smaller viewports, but its exact trigger width and animation are not present in the evidence. Recommend touch targets of at least 44×44px for cart, quantity-stepper, and nav-toggle controls, single-column stacking of product-card grids below 600px, and preserving the badge's absolute top-right placement across breakpoints since no responsive override was supplied.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Carbide 3D"
 source_url: "https://www.carbide3d.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep indigo (#3e34d3) as the primary action voltage is an unusual frequency for a CNC hardware company — it reads closer to a developer tool or productivity SaaS than a shop-floor machine catalog, and that dissonance is deliberate. Carbide 3D sells desktop routers and laser cutters to an audience that writes G-code and reads stack traces as fluently as they read grain direction in walnut, and the color system meets them there. Near-black backgrounds at #000309 and #23263b create a dark-mode-first shell where the indigo accent fires with near-LED intensity; #5468ff handles hover and active states with a cooler, brighter push upward on the spectrum. Muted purple-grays at #7777a3 and #807ea3 bridge the chromatic interval between deep dark surfaces and lighter canvas zones — the entire palette is rooted in violet rather than the safety orange or industrial red common to workshop hardware brands. Even the off-white at #f5f5fa carries a ghost of indigo, tinting every rest-state surface with the brand frequency. Typography extracted only as inherit, suggesting a runtime-loaded geometric sans-serif or a system-UI stack throughout. The visual register leans dense and legible — display lines carry weight without theatrical sizing, and machine spec rows demand density-tolerant readability over headline drama. Corner radii stay in the {rounded.xs} to {rounded.md} range, enough to read as contemporary product UI without mimicking the pill-heavy friendliness of lifestyle-consumer brands. Primary CTAs sit at {rounded.sm}, crisp but not aggressive. A persistent dark header at {colors.surface-nav} makes the indigo {colors.primary} button the only warm-spectrum light source in the chrome zone. The site alternates deliberately between dark hero bands at {colors.surface-dark} and white content sections at {colors.canvas}, producing a cadence that separates marketing claims from technical data. Machine listing pages carry dense spec tables in monospace; Carbide Create and Carbide Motion software pages carry workflow diagrams and tutorial callouts. Two distinct audiences — makers who want to start cutting today, and businesses evaluating floor capacity — are served by the same system of surface alternation, indigo action hierarchy, and type scale calibrated for specification density.
 
@@ -405,6 +409,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

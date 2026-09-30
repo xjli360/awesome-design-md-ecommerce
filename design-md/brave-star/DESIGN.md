@@ -4,6 +4,10 @@ name: "Brave Star"
 source_url: "https://bravestarselvedge.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Where most denim brands signal authenticity through distressing and marketing language, Brave Star Selvedge earns it through restraint — a dark, near-inkwell primary of deep raw-denim navy (~`#1e2b3e`) sits against natural, unbleached canvas (`#f8f4ee`), the same two-tone contrast built into every pair of jeans before they are ever washed or worn. The palette refuses ornament: a warm amber gold borrowed from brass hardware and leather patches (`#b5813a`) is the only accent that breaks the monochrome, and a selvedge-line rust (`#8b3a2a`) surfaces only on badge and tag elements — the chromatic equivalent of the red ID stripe on the outseam. Display type runs in a condensed heritage serif, uppercase and widely tracked, evoking workwear stencils and 1940s garment labels more than contemporary e-commerce. Body copy drops to a quiet, readable text weight that never competes with the product photography. Buttons carry sharp `{rounded.none}` corners — zero softening anywhere — because the brand sells fabric that is meant to crease, pucker, and age, not smooth over. Product cards are structured like garment spec sheets: fabric weight and selvedge origin stated as plainly as the price. Navigation is sparse, almost austere, with a wordmark in the same condensed serif as the display scale. The spacing system favors breathing room in section breaks but tightens inside component layouts, echoing the density of a folded bolt of 14-oz denim. There is no illustration, no gradient, no hero animation — only precise photography of raw fabric grain and copper rivets against the brand's two anchoring neutrals.
 
@@ -374,6 +378,14 @@ components:
 - Footer column grid: 4 → 2 → 1 column
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

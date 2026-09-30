@@ -4,6 +4,10 @@ name: "Grove Collaborative"
 source_url: "https://www.grove.co"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Grove Collaborative presents itself as a trusted, earth-conscious home essential marketplace where the brand's voice is warm, approachable, and quietly authoritative. The palette is anchored by a deep, almost charcoal ink (`#303030`) that reads as serious and grounded, paired with a soft, natural canvas (`#f7f7f7`) that feels like unbleached linen. The primary action voltage comes from a rich, botanical green (`#1f3521`) — a color that whispers sustainability rather than shouting it, with an active state that deepens to `#121212` for press moments. Supporting accents include a muted terracotta (`#cc6328`), a playful coral (`#bf339d`), and a fresh minty highlight (`#cdec85`) that appears in badges and promotional tags. The system relies heavily on soft, warm neutrals: `#eeeeee`, `#e0e0e0`, `#f3f3f3`, and `#f1f1f1` create layered surfaces that feel tactile and organic, while the hairline (`#dedede`) and muted-soft (`#aaaaaa`) keep the interface airy. Typography uses ValueSans as the workhorse — a clean, humanist sans-serif that appears in Regular, Medium, and Bold weights — with ValueSerif Bold reserved for editorial moments like hero headlines or ingredient storytelling. Buttons and cards carry soft rounded corners (`{rounded.sm}` at 8px for CTAs, `{rounded.md}` at 12px for cards), avoiding the pill-shaped extremes of hospitality brands in favor of a gentle, approachable geometry. The overall mood is one of considered simplicity: plenty of whitespace, restrained use of color, and a trust in product photography and ingredient lists to do the heavy lifting. Signature design moves include a persistent top nav with a bold green logo lockup, category strips with soft dividers, and a footer that feels like a brand manifesto — dense with links, certifications, and sustainability pledges. The system feels like a well-edited pantry: everything has its place, nothing is loud, and the warmth comes from the materials themselves.
 
@@ -507,6 +511,13 @@ components:
 - Multi-step flows (checkout, onboarding) collapse to single-page vertical layouts on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

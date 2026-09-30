@@ -4,6 +4,10 @@ name: "PRS Guitars"
 source_url: "https://www.prsguitars.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Figured maple grain — quilted, flamed, or simply straight — runs through every visual decision PRS Guitars makes: product photography occupies most of the canvas at large viewport widths, letting wood figure and candy finishes (Aquableux, Faded Whale Blue, Trampas Green) carry the brand's color story rather than UI chrome. The design system lives in dark charcoal space, with #313131 establishing the dominant surface register across nav, footer, and page fills. Against that ground, warm gold (#c9a84c) functions as the single activation signal — appearing on primary CTAs, hover states, and the thin rule that separates guitar series sections. Typography runs almost entirely in system-stack sans-serif at modest weight, trusting the photography to carry visual interest; headlines lean into negative letterSpacing at large sizes for compressed elegance, while spec tables and series labels use uppercase tracking to organize dense product data. PRS operates four product tiers — SE (offshore, entry), S2 (domestic budget), USA Core, and Private Stock (bespoke, 4–6 week build) — and the design differentiates them with badge hierarchy: Private Stock receives charcoal-fill with gold text, a deliberate inversion that signals the tier sits outside ordinary hierarchy. The fretboard bird inlay, rendered in photography across product cards and guitar-detail pages, is the brand's most recognizable recurring visual element — reproduced in abalone, mother-of-pearl, and wood inlay finishes. Finish-swatch carousels replace traditional color pickers: circular swatches (~40px) arranged horizontally beneath a product photo let shoppers preview finish options, each swatch carrying an active ring in {colors.primary} rather than a checkbox. Corner radii throughout are minimal-to-zero ({rounded.none} on most interactive elements), reinforcing the precision-manufacturing associations of a brand whose tolerances are measured in thousandths of an inch. Padding is generous at wide viewports, condensing to a single-column guitar grid at mobile.
 
@@ -324,6 +328,13 @@ components:
 - Footer four-column link grid collapses to a single stacked accordion on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Nordfrim"
 source_url: "https://www.nordfrim.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The lime-to-forest green arc — #b0eb77 brightening into #63af1a at primary weight and deepening to #528f02 on hover — echoes the saturated ink fields of vintage perforated stock, the kind of artificial green that Nordic postal agencies printed on ordinary-rate stamps for decades. Nordfrim wears this palette deliberately: a philatelic retailer whose chromatic identity borrows from the catalog paper it sells rather than from generic e-commerce green-equals-go conventions. Garamond and its italic variant (GaramondPremierProItalic) anchor display headings, a choice that signals the antiquarian register of stamp dealing — condition grades, perforation gauges, and catalog numbers belong to a typographic tradition that sans-serif retail type would undermine. Myriad Pro and Arial handle the functional layer: prices, form labels, navigation items, facet text. The canvas is a pale near-white (#f3f3f3) lightened to pure white in card surfaces, with hairlines drawn from the mid-gray range (#dbdbdb, #cacaca) that feel like the ruled lines of a stock ledger. A secondary blue family (#217dbd, #258bd3, #007ac3) operates in informational contexts — links, selected states, promotional banners — referencing the airmail blue that philatelists associate with international postage. Red (#d71921) appears only for urgency signals: sale badges, out-of-stock warnings, price-reduction indicators, never as a primary brand action. Orange (#f58d3d) surfaces rarely as a tertiary accent on special-lot callouts. Corner radii are conservative throughout — {rounded.xs} on badges and inputs, {rounded.sm} on modal panels — reflecting the rectilinear world of stamp albums and stock books. Whitespace is generous within category grids but the overall layout runs dense at desktop widths, accommodating long facet lists (country, era, topic, condition, catalog number range) that serious collectors use to drill into inventory. The site reads as a working reference tool as much as a storefront, and the visual system supports that double register: Garamond display type for editorial gravitas, a tightly spaced sans-serif grid for data density, and the unmistakable green of a Scandinavian postal service as the single brand voltage that unifies every primary action.
 
@@ -415,6 +419,13 @@ components:
 - Category tile grids shift from 4-wide desktop to 2-wide mobile; tile labels always remain visible (no icon-only collapse)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

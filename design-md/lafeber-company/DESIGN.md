@@ -4,6 +4,10 @@ name: "Lafeber Company"
 source_url: "https://lafeber.com"
 captured_at: "2026-09-29T04:10:10.084558+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Lafeber Company's site evidence points to a WordPress/Elementor-driven storefront built on CSS custom-property theming rather than a bespoke design system. Confirmed rules tie brand blue (#0078c2) to button backgrounds, warm brown (#45220e) to block text and heading color, and white (#ffffff) to button labels and card surfaces — these three form the backbone of the interpretation below. The broader supplied palette includes deep red (#aa001b), forest green (#0f834d), and dark navy tones (#171d2d, #151d2d) that plausibly serve accent, success/eco-badge, and footer-dark roles respectively; these mappings are inferred, not confirmed by a direct CSS rule.
   Typography draws on the observed font stack: Fraunces (a serif with editorial, heritage character) is proposed for display and heading roles to echo the brand's "two generations of veterinarians" farm-heritage story, while Lato serves body copy, matching the theme's 16px base font-size token. Button radii of 25–30px observed in CSS suggest a pill-leaning, friendly interaction style, approximated here against a fixed rounded-token scale. Spacing follows WordPress's 24px block-gap convention as the "lg" step. All layout, hover, and responsive behaviors below are proposed patterns for a small-animal/bird/reptile nutrition retailer, not measured observations.
@@ -146,6 +150,13 @@ components:
 Touch targets for buttons and filter tabs should maintain a minimum ~44px hit area given the pill padding; the mobile nav is expected to collapse behind a toggle, though no such interaction was directly observed. This table is a recommendation for implementation, not a measurement of the live site.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

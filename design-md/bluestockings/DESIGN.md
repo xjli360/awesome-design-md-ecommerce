@@ -4,6 +4,10 @@ name: "Bluestockings"
 source_url: "https://www.bluestockings.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A cooperative bookstore that wears its politics on its sleeve, Bluestockings uses a deep institutional blue #003399 as its primary anchor — the color of a well-worn denim jacket or a vintage union button — against a warm off-white canvas #f4f4f4 that reads more like uncoated book paper than sterile digital white. The brand's typography splits between a proprietary Bluestockings Grotesk for display moments and Poppins across its full weight spectrum (Light through Black Italic) for body and interface text, giving the site a zine-like energy where bold Poppins Black headlines sit alongside light-weight captions without apology. The extracted palette is dominated by utilitarian blues and grays (#0078a8, #3388ff, #777777, #bbbbbb, #c3c3c3) with a single dark ink #222222, suggesting a system built for legibility and low overhead rather than visual flourish — the cooperative ethos made manifest in design. Signature moves include a persistent top nav that likely carries event listings and coalition partners, search treated as a utility rather than a hero feature, and a footer dense with links to mutual aid networks and reading lists. The site trusts its inventory photography and event posters to provide the color, keeping the chrome in a narrow band of blues and neutrals.
 
@@ -316,6 +320,14 @@ components:
 - Category or filter strips (if present) collapse to a horizontal scroll on mobile rather than a dropdown
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

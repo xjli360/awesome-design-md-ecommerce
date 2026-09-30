@@ -4,6 +4,10 @@ name: "Art & Fable Puzzle Company"
 source_url: "https://www.artandfablepuzzles.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Gold foil stamping on a matte-black puzzle box — that tactile promise of gallery-grade reproduction carries directly into the digital storefront, where deep teal (#1e4d4f) frames each artwork thumbnail like a museum wall panel. The canvas reads warm ivory (#faf7f2) rather than clinical white, giving product imagery the soft ambient light of a private viewing room. Display headlines arrive in a refined serif stack reminiscent of exhibition catalogs, set large and light-weighted to defer to the artwork itself; body copy drops to a clean geometric sans at 16px for legibility against those warm backgrounds. Navigation stays spare — a single sticky bar with the logotype left-justified and a minimal icon cluster right — because the art does the selling. Product cards float on `{rounded.sm}` with generous `{spacing.lg}` gutters, each one a self-contained gallery frame showing puzzle image, piece count badge, and artist attribution in `{typography.caption}`. The primary CTA (#c49a3c, a burnished gold drawn from frame-gilding tradition) appears only where purchase intent lives: "Add to Cart," "Shop Now," quick-view overlays. Hover states deepen to #a67f2a, reinforcing the brass-to-patina metaphor. A secondary dark teal (#1e4d4f) anchors the footer, newsletter module, and category navigation links, establishing a two-anchor palette — gold for commerce, teal for wayfinding. Piece-count badges use small pill shapes (`{rounded.full}`) in the surface-soft tone, keeping the visual hierarchy art-first, metadata-second. Spacing is deliberately generous: section gaps run 64–80px, card grids breathe at 24px, and the hero area often surrenders 60%+ of viewport to a single painting detail at full bleed.
 
@@ -361,6 +365,14 @@ components:
 - Artist bio sections on PDP collapse from two-column (portrait + text) to single column with smaller portrait
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

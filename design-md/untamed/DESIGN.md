@@ -4,6 +4,10 @@ name: "Untamed"
 source_url: "https://untamedcatfood.com"
 captured_at: "2026-09-28T09:16:30.758451+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Untamed's evidence shows a cream-and-forest-green brand core (#fcf5e3, #2e4740) paired with a
   playful, high-saturation accent set (#91dae0, #fdafcd, #c292ff, #ffab8c, #e56b5a, #5bcf98, #c772d6,
@@ -176,6 +180,12 @@ Proposed breakpoints (not measured):
 Touch targets should be ≥44px, matching the Shopify accelerated-checkout button's `--shopify-accelerated-checkout-button-block-size` default of 44px (observed variable). Header pill buttons (btn__rounded) already meet this via 12px vertical padding plus line-height. All collapse/stacking behavior and actual breakpoint values are recommendations, not observed site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Static CSS extraction only; no rendered layout, real breakpoints, or interaction states (hover/focus/active) beyond the two explicitly declared hover rules were observed.

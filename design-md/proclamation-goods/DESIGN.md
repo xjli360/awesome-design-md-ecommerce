@@ -4,6 +4,10 @@ name: "Proclamation Goods"
 source_url: "https://proclamationgoods.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Proclamation Goods Co. speaks in the quiet, confident tones of a heritage kitchen workshop, where every surface is a canvas of warm, earthy restraint. The brand's visual identity is anchored by a deep forest green (`#2a4532`) that acts as the primary voltage — appearing on buttons, navigation bars, and key product accents — against a parchment-like canvas (`#f4f2e6`) that feels tactile and aged, like a well-worn recipe card. This is not a sterile white kitchen; it's a space where light plays across matte surfaces, where a muted steel (`#dedede`) and a deep, almost-ink (`#121212`) provide structure without shouting. Two signature blues — a bright cerulean (`#1990c6`) and a deeper teal (`#136f99`) — appear sparingly as editorial accents, perhaps on sale badges or ingredient callouts, adding just enough cool contrast to the warm green-and-cream palette. The typography leans on two distinct voices: `matrix` for display headings, a serif that carries the weight of a hand-stamped label, and `sofia sans` for body text, a clean, approachable sans-serif that keeps product descriptions and navigation feeling modern but never cold. Rounded corners are generous but not pillowy — `{rounded.md}` (12px) on cards and `{rounded.lg}` (20px) on buttons — suggesting a brand that is friendly and tactile without sacrificing the craftsmanship implied by its name. The overall mood is one of curated simplicity: every element feels intentional, from the `{spacing.xxl}` (48px) breathing room around product grids to the soft `{hairline}` (`#dedede`) that separates sections without harshness. Proclamation Goods doesn't shout about quality; it lets the materials — the greens, the creams, the matte metals — do the talking.
 
@@ -349,6 +353,13 @@ components:
 - The search bar reduces in height from 56px to 48px on mobile, and the pill shape remains but with reduced horizontal padding.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

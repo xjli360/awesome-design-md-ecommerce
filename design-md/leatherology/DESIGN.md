@@ -4,6 +4,10 @@ name: "Leatherology"
 source_url: "https://leatherology.com"
 captured_at: "2026-09-28T09:49:45.919362+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Leatherology's storefront markup exposes a restrained neutral system built on Shopify Dawn-style CSS custom properties: a near-black foreground (rgb 18,18,18 / #121212) paired with a pure white background, used consistently for text, buttons, and badge borders. Supporting grays (#333333, #7f7f7f, #cccccc, #f7f7f7) appear across body copy, muted labels, and soft surface fills, while a distinct cool-gray/indigo set (#676986, #272d45, #dbdde4, #e5e5eb, #f4f4f6) comes from the third-party Okendo reviews widget rather than core brand chrome; it is retained here as a secondary system for review UI only. A warm sand tone (#cdc5b5), drawn from the "Natural Canvas" leather-color swatch data, is proposed as an inferred decorative accent evoking the brand's cowhide palette, not a confirmed interface color. A red (#d62027) present in the palette is labeled as an inferred sale/alert color, typical for ecommerce promotions, since no explicit UI role was captured. Typography draws on the observed family stack — FreightDispPro (light/medium) for display serif-leaning headlines, and ProximaNova/Assistant/Open Sans for UI and body sans-serif text — reflecting a quiet-luxury leather-goods aesthetic suited to passport holders and RFID travel accessories. All sizes beyond the single captured body rule (1.5rem) are proposed.
 
@@ -150,6 +154,13 @@ Proposed, not measured from live rendering:
 Touch targets for buttons and nav items should maintain a minimum 44×44px hit area; mega-menu items should collapse into an accordion pattern below tablet width. This table is a recommendation only, not derived from observed responsive CSS or rendered breakpoints.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This specification is derived from static CSS/text extraction only; no rendered layout, computed styles, or interaction states (hover, focus, active, disabled) were directly observed beyond the Okendo review-widget button states, which are third-party and may not reflect core site components. Several colors (e.g., #676986, #272d45, #dbdde4) originate from the Okendo reviews plugin and are mapped separately as `review-accent`/hairline reuse rather than assumed brand chrome. The accent-leather (#cdc5b5) and error-sale (#d62027) roles are inferred assumptions, not confirmed UI usages. Root font-size context (rem base) was not captured, so absolute body/heading pixel sizes are approximate/proposed. Mobile menu, cart drawer, and personalization-tool interaction behavior were not observed. Custom font availability, licensing, and actual weight/style variants for FreightDispPro, AvenirLTStd, and ProximaNova were not verified and should be confirmed against Leatherology's licensed webfont files before implementation.

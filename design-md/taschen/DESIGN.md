@@ -4,6 +4,10 @@ name: "Taschen"
 source_url: "https://www.taschen.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A riot of lime-green #79a70a against a near-white #fefefe canvas — Taschen’s digital storefront reads like a bookshop that swallowed a pop-art gallery. That electric green, pulled from the brand’s iconic logo, serves as the single voltage for primary CTAs, price tags, and category badges, while a secondary palette of deep navy #2e409e, warm ochre #f2be80, and brick #ac1212 surfaces in limited-edition banners and collection headers. The typography stack layers FoundersGroteskCondensed for bold, space-efficient display heads (tight letter-spacing, 700 weight) against Sabon Next LT Pro for body copy — a deliberate clash of condensed grotesque and humanist serif that echoes the publisher’s mix of avant-garde art books and classic monographs. Product covers are treated as full-bleed hero images, with no hard corner except the 8px `{rounded.sm}` on add-to-cart buttons and the 4px `{rounded.xs}` on badge labels. The checkout flow, powered by Shopify, introduces a secondary green #468847 for success states and a muted #dcdee0 for disabled controls. Navigation is a persistent top bar with a condensed logo lockup, dropdown menus for categories (Art, Architecture, Photography, etc.), and a search icon that expands into a full-width input on click. The overall feel is editorial and confident — generous whitespace around book spreads, 48px `{spacing.xxl}` section gaps, and a footer dense with newsletter signup, social links, and a “Books for Optimists Since 1980” tagline in FoundersGroteskCondensed at 14px.
 
@@ -539,6 +543,13 @@ components:
 - The hero banner text overlay reduces font size and padding on mobile to avoid overflow.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Dandelion Chocolate"
 source_url: "https://dandelionchocolate.com"
 captured_at: "2026-09-28T10:20:16.143712+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Dandelion Chocolate's evidence shows a warm, artisanal palette built around a muted
   bronze-brown (#826d40) used as both --color-accent and --color-body, paired with a
@@ -168,6 +172,12 @@ Recommended breakpoints (a proposed table informed by an observed CSS custom-pro
 Touch targets should be at least 44–48px, matching the one directly observed control size (the 48x48px color-swatch radio label). Navigation collapse, sticky header behavior, and mobile menu treatment are proposed conventions, not measured from the live site.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

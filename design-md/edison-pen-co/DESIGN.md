@@ -4,6 +4,10 @@ name: "Edison Pen Co."
 source_url: "https://edisonpen.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Parchment arrives before chrome at Edison Pen Co. The dominant surface is #dcd7ca — an unbleached cream much closer to cotton rag paper than digital white — and it primes every visitor to decelerate before reading a single word: this is a maker's site, not a marketplace. Against that warm field, crimson (#cd2653) appears with the economy of a wax seal: at the single decisive CTA moment — add to cart, confirm selection, initiate custom order — and nowhere else. The rest of the palette reads like a working desk: charcoal (#32373c) for running copy, near-black (#1e1f26) for display headings, and a deep molasses brown (#382110) that suggests dried iron-gall ink pooled in a glass bottle under an incandescent lamp. Muted gray (#6d6d6d) and its lighter sibling (#949494) handle secondary copy and ornamental hairlines without competing with the warm ground.
 
@@ -422,6 +426,13 @@ components:
 - Hero: stacks image above text on mobile; image shifts to 100vw bleed and text sits below in full-width block with standard horizontal padding
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

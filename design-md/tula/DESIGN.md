@@ -4,6 +4,10 @@ name: "Tula"
 source_url: "https://babytula.com"
 captured_at: "2026-09-28T04:54:22.224510+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Baby Tula's storefront CSS exposes a high-contrast, editorial system built on pure black (#000000) and white (#ffffff), with a supporting family of warm off-white and cream neutrals (#f7f7f7, #f2ede5, #f8f1e5, #fffbf4, #fffdf4) that likely stage soft section backgrounds behind product photography of printed carrier fabrics. Border and divider grays (#dbdbdb, #eaeaea, #cccccc) are inferred hairline tones from the CSS custom-property border variables. A small saturated cluster — pink/red (#dd4056), orange (#ee9441), green (#3ed660), and blues (#00bbff, #1990c6, #136f99) — appears in root variables but its product role (sale badges, size/fit indicators, seasonal callouts) is not confirmed by markup, so these are treated as inferred accent and status colors. Typography relies on named custom fonts (Tula Header, Tula Serif, Tula Body Regular, Tula Body Bold) layered over a standard system-font stack fallback; exact weights/sizes are not exposed in the evidence, so the scale below is proposed. The overall interpretation favors a monochrome, gallery-like frame — black text on white/cream — that lets the bold printed-fabric product photography (the brand's stated differentiator) carry the visual energy, with sharp/minimal corner radii matching the observed 0px resource-card token.
 
@@ -130,6 +134,13 @@ The following breakpoints are a **recommendation**, not measured site behavior, 
 Touch targets should be a minimum 44×44px for nav, cart, and swatch controls. Header navigation should collapse into a drawer/menu below tablet width; the region/language selector (seen as a long list in evidence) should become a searchable modal rather than an inline dropdown on small screens.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS custom properties, a text excerpt, and a color/font list — no rendered screenshots, computed layout, or interaction states were observed. Role assignments for saturated palette entries (pink, orange, green, blues, navy) are inferred guesses based on typical ecommerce usage (badges, status, links) and are not confirmed against actual markup usage. All typography sizes, weights, and line-heights are proposed defaults since no explicit `font-size`/`font-weight` values were present in the supplied CSS rules for the named Tula font families. The custom font families ("Tula Header," "Tula Serif," "Tula Body Regular," "Tula Body Bold") are proprietary and their licensing/availability for reuse is unverified; generic sans-serif/serif fallbacks are included per requirements. Component states (hover, focus, disabled, error) are proposed patterns only, not extracted from interaction traces. Mobile menu behavior, cart drawer design, and actual grid column counts were not observed and are marked as recommendations above.

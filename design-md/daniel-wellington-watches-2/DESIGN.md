@@ -4,6 +4,10 @@ name: "Daniel Wellington"
 source_url: "https://danielwellington.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   DWCaslon does the work that most watch brands assign to photography — the custom serif's bracketed strokes and classical proportions carry a century's worth of horological authority even at body-copy scale, before a single product image loads. Against a canvas that oscillates between pure white and near-linen off-whites (#f4f4f4, #f0f0f0, #f5f5f5), the near-black navy #00081c anchors wordmarks and primary CTAs with a depth that a flat black cannot replicate. It is a color that reads as midnight water rather than printer ink, and the entire palette calibrates around its gravity. Mid-tone neutrals (#545454, #1f1f1f) handle supporting text at weights that let DWFutura's geometric sans carry the structural load without strain. The muted warm gold #85714d — aged brass rather than bright gilt — marks price points and seasonal badges, tying the digital surface back to the physical case metal.
 
@@ -439,6 +443,13 @@ Three distinct badge variants share the same zero-radius geometry and 10px all-c
 - Announcement bar: single message visible; multiple messages rotate via CSS animation on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

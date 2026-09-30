@@ -4,6 +4,10 @@ name: "Dash & Albert"
 source_url: "https://annieselke.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Braided wool and hand-loomed cotton have always defined Dash & Albert's physical identity, and the digital palette reflects that same earthy-then-surprising logic — an anchoring range of warm grays and near-blacks (#5a5957, #414141, #272d45) grounds every page before the deep teal primary (#0e7a82) surfaces like a found stone in still water. The serif editorial voice (Lora) carries collection headings and brand story passages while Avenir Next Demi handles commerce mechanics — a deliberate split that reads as artisan-made-available-at-scale rather than mass market. Buttons sit at {rounded.none} with widely-spaced uppercase tracking on their labels, an old-world signage move that prevents the commerce layer from feeling transactional. The terra cotta accent (#c64836) appears only in sale and promotional contexts, never in primary navigation — a warm signal that reads "markdown" without cheapening the page's default register. Forest greens (#1f3b34, #284039) appear in editorial callouts and outdoor-collection category tiles, reinforcing the brand's claim on landscaped interiors. A bright aqua (#00caaa) and a pale mint surface (#b2f9e9) show up in hover states and seasonal tint bands — present enough to carry freshness, sparse enough that they never override the warm neutrality that woven textures already bring. The muted purple-gray (#676986) provides a mid-tone for secondary labels and breadcrumbs, adding perceptual depth to what might otherwise read as a flat two-tone palette. Product cards lean on close-crop photography rather than lifestyle staging, trusting that a good rug surface shot carries its own argument. The overall spacing grammar is generous — section breaks run at {spacing.section} — matching the unhurried pace of someone choosing a rug for a room they care about.
 
@@ -385,6 +389,13 @@ components:
 - Promo-banner single-line on desktop; wraps gracefully on mobile, never truncates with ellipsis — full message always visible
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "AmiAmi"
 source_url: "https://www.amiami.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A dense, information-rich import marketplace where the primary voltage is a cool, trustworthy blue (#2f7bbf) — not a warm brand color but a functional one, used for the search bar, the "Add to Cart" button, and the category navigation strip, signaling reliability rather than emotion. The canvas is a pale gray (#ebebeb) rather than pure white, giving the page a slightly aged, utilitarian feel like a well-thumbed catalog. Red accents (#bd2426) appear on sale badges and price reductions, creating a clear urgency signal against the gray field. The typography stack is system-native (-apple-system, Arial, BlinkMacSystemFont, Helvetica Neue, Oxygen, Roboto, Segoe UI, Ubuntu) — no custom typeface, which reinforces the no-frills, function-over-form ethos of a shop that prioritizes inventory breadth over brand polish. Product cards sit on a white surface (#ffffff) with a soft gray hairline (#dedede), and the footer collapses into a dense grid of links in muted gray (#737373). The overall mood is that of a busy, reliable warehouse — every pixel is justified by utility, not aesthetics.
 
@@ -355,6 +359,14 @@ components:
 - Search bar expands to full width on mobile, pushing other elements below
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Kauer Guitars"
 source_url: "https://www.kauerguitars.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Boutique handcrafting shows up first in the palette — a wall of near-total ink (#040404, #111111, #1e1e1e) that photographs instruments the way a recording studio frames a performer: total blackout except for the subject. Kauer builds short-run electrics out of Sacramento, and the void-dark canvas makes sunburst finishes and carved tops read as if backlit from within. Against that darkness, #f94877 fires as the single brand voltage — a hot signal pink that carries every primary CTA and active UI state, sharp enough to be unmistakable on any dark surface. The deep navies #112233 and #112255 occupy a transitional register between the void-black backgrounds and the muted grays (#aaaaaa) that carry secondary text, giving the layout layered depth without introducing true chroma. Typography relies entirely on the Arial / Helvetica Neue system stack — no licensed display font, no custom wordmark weight. The instruments carry the visual authority; text exists only to name, price, and direct. Headings land in the 28–36px range at weight 700, body copy at 16px/400, and button labels run in tight uppercase with expanded letter-spacing, a nod to the knurled-knob notation of guitar hardware. Two fluorescent accent tones punctuate the dark stage: lime green (#7dbb00, #84bd00) and orange (#ff6600), appearing to mark availability statuses or category chips — sticker-fluorescent energy that boutique gear shops use to tag "IN STOCK" or short-run windows. `{rounded.xs}` corners suit the machined-metal aesthetic; nothing curves like a consumer marketplace. The extracted palette is diluted by social-share widgets contributing Facebook (#3b5998), Twitter (#55acee), Instagram (#e4405f), LinkedIn (#0976b4), and YouTube (#e52d27) blues and reds — none of those are Kauer brand hues. The true brand signal condenses to dark stage, one pink voltage, and two fluorescent accent tones.
 
@@ -329,6 +333,13 @@ components:
 - Footer columns stack vertically on mobile with `{spacing.xl}` gap between each section
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Haworth"
 source_url: "https://store.haworth.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The warm unbleached ground — #f2efde sitting beneath product photography and content blocks — is Haworth's quiet declaration that contract furniture doesn't have to feel like a procurement portal. Against this cream, deep navy (#001d34) and a forest-floor teal (#108474) operate as the two load-bearing poles of the palette: navy for structure, authority, and the footer mass; teal for every primary CTA, active state, and interactive anchor. The rust tertiary (#963928) surfaces sparingly on sale badges and promotional callouts — warm enough to signal urgency without tipping into clearance-rack aggression. The teal family itself is precise and internally coherent: #108474 primary, #0e4840 as the dark active press state, #aadddd as the washed-out disabled tone, and a cooled blue-green #65717b appearing in body borders — the brand keeps teal reserved for action signals and never dilutes it into decoration.
 
@@ -349,6 +353,13 @@ components:
 - Footer columns collapse to accordion-gated sections on mobile, with the Haworth logo and legal row pinned at the bottom
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

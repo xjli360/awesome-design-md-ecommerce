@@ -4,6 +4,10 @@ name: "Kendra Scott"
 source_url: "https://www.kendrascott.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The Color Bar — Kendra Scott's in-store ritual of choosing stones, metals, and settings — maps directly onto the digital surface system: soft lavender (#eddeff), blush peach (#ffe9cb), mint (#b5e5e1), and dusty mauve (#d9c3d2) cycle through section backgrounds the way gemstones swap between bezels. The canvas runs warm cream (#ede8e3) rather than clinical white, which makes the gem-toned pastels read as curated atmosphere rather than promotional noise. Deep plum (#4d3159) carries primary action weight — CTA buttons, the footer ground, active states — a saturated jewel-dark from which white type emerges with precision. The same plum that anchors the footer reverses the entire color system into a terminal jewel-box, lavender links glowing against the field.
 
@@ -403,6 +407,13 @@ components:
 - Gem surface tiles: full-width stacked panels on mobile, multi-column grid on desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

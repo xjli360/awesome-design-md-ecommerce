@@ -4,6 +4,10 @@ name: "Cardstock Warehouse"
 source_url: "https://www.cardstockwarehouse.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Amber ink on periwinkle stock — the dominant CTA color (#ff9f1c) lands against soft lavender category chips (#bbc1e1) and a barely-blue canvas (#f5f9ff) that reads like lightly tinted card stock rather than blank white. Raleway, a geometric sans with Art Nouveau echoes in its letterforms, carries every heading at weight 700, giving the headline type a distinctiveness that neutral system stacks cannot offer. Body and navigation text settles into a cooled slate (#50596c): not warm gray, not cold charcoal, but the color of a soft pencil line on smooth card.
 
@@ -352,6 +356,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

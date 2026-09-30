@@ -4,6 +4,10 @@ name: "Mott & Bow"
 source_url: "https://mottandbow.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A burnt-sienna CTA (#e06039) is the brand's one color defection — everything else stays in a disciplined grayscale running from near-black ink (#121212) through three tiers of mid-gray (#3b3b3b, #585858, #777777) to a bone-white canvas. RetroSignature, a hand-lettered script, sits at the logo mark but nowhere else in the UI, leaving the bulk of type work to ProximaNova across four weights — Regular, SemiBold, Bold — and a secondary voice in AmericaMono for label codes and size callouts, the kind of monospaced specificity that signals precision sizing rather than lifestyle vagueness. Bookish, a serif loaded for editorial moments, handles display headlines on campaign pages; its slightly antiquarian character offsets the otherwise utilitarian stack and nudges the brand toward premium without luxury clichés. The interplay between ProximaNova's geometric neutrality and AmericaMono's typewriter cadence creates a dual register — clean commerce up front, workshop exactness in the details.
 
@@ -402,6 +406,13 @@ components:
 - Filter sidebar: persistent left rail (desktop) → bottom sheet drawer (mobile)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

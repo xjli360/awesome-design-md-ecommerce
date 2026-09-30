@@ -4,6 +4,10 @@ name: "Yakima"
 source_url: "https://yakima.com"
 captured_at: "2026-09-28T04:29:14.092266+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Evidence points to a utilitarian, high-contrast outdoor-gear system built on black, white, and a small set
   of grays, with red used sparingly as an accent. Observed hex values include a strong near-black (#000000)
@@ -164,6 +168,13 @@ The following breakpoint table is a **recommendation only**, not a measured obse
 Touch targets should be a minimum 44×44px for primary buttons and nav toggles. The mobile nav should collapse behind a hamburger control (an open-state class, `js-nav-open`, was observed, confirming a slide/toggle pattern exists, though its exact animation and breakpoint trigger were not captured).
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

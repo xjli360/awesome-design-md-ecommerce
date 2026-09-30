@@ -14,14 +14,8 @@
     }
   ],
   "colors": {
-    "#00000099": {
-      "count": 41,
-      "sources": [
-        "https://www.burtsbeespets.com/"
-      ]
-    },
-    "#00000000": {
-      "count": 32,
+    "#5f6360": {
+      "count": 1,
       "sources": [
         "https://www.burtsbeespets.com/"
       ]
@@ -32,38 +26,8 @@
         "https://www.burtsbeespets.com/"
       ]
     },
-    "#ffffff": {
-      "count": 14,
-      "sources": [
-        "https://www.burtsbeespets.com/"
-      ]
-    },
-    "#db1734": {
-      "count": 12,
-      "sources": [
-        "https://www.burtsbeespets.com/"
-      ]
-    },
-    "#5e514d": {
-      "count": 10,
-      "sources": [
-        "https://www.burtsbeespets.com/"
-      ]
-    },
-    "#116dff": {
-      "count": 5,
-      "sources": [
-        "https://www.burtsbeespets.com/"
-      ]
-    },
-    "#ffd203": {
-      "count": 3,
-      "sources": [
-        "https://www.burtsbeespets.com/"
-      ]
-    },
-    "#5f6360": {
-      "count": 1,
+    "#00000000": {
+      "count": 32,
       "sources": [
         "https://www.burtsbeespets.com/"
       ]
@@ -74,8 +38,38 @@
         "https://www.burtsbeespets.com/"
       ]
     },
+    "#116dff": {
+      "count": 5,
+      "sources": [
+        "https://www.burtsbeespets.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 14,
+      "sources": [
+        "https://www.burtsbeespets.com/"
+      ]
+    },
+    "#5e514d": {
+      "count": 10,
+      "sources": [
+        "https://www.burtsbeespets.com/"
+      ]
+    },
+    "#db1734": {
+      "count": 12,
+      "sources": [
+        "https://www.burtsbeespets.com/"
+      ]
+    },
     "#9e3b1b": {
       "count": 1,
+      "sources": [
+        "https://www.burtsbeespets.com/"
+      ]
+    },
+    "#ffd203": {
+      "count": 3,
       "sources": [
         "https://www.burtsbeespets.com/"
       ]
@@ -106,85 +100,13 @@
     "Helvetica": [
       "https://www.burtsbeespets.com/"
     ],
-    "Helvetica-bold": [
-      "https://www.burtsbeespets.com/"
-    ],
-    "din-next-w01-light": [
-      "https://www.burtsbeespets.com/"
-    ],
-    "futura-lt-w01-book": [
-      "https://www.burtsbeespets.com/"
-    ],
-    "helveticaneuew01-45ligh": [
-      "https://www.burtsbeespets.com/"
-    ],
-    "helveticaneuew01-65medi": [
-      "https://www.burtsbeespets.com/"
-    ],
-    "helveticaneuew02-45ligh": [
-      "https://www.burtsbeespets.com/"
-    ],
-    "helveticaneuew02-65medi": [
-      "https://www.burtsbeespets.com/"
-    ],
-    "helveticaneuew10-45ligh": [
-      "https://www.burtsbeespets.com/"
-    ],
-    "helveticaneuew10-65medi": [
-      "https://www.burtsbeespets.com/"
-    ],
-    "hiragino kaku gothic pro": [
-      "https://www.burtsbeespets.com/"
-    ],
-    "madefor-display-bold": [
-      "https://www.burtsbeespets.com/"
-    ],
-    "madefor-text": [
-      "https://www.burtsbeespets.com/"
-    ],
-    "meiryo": [
-      "https://www.burtsbeespets.com/"
-    ],
-    "orig_decors_regular": [
-      "https://www.burtsbeespets.com/"
-    ],
-    "orig_poppins_regular": [
+    "sans-serif": [
       "https://www.burtsbeespets.com/"
     ],
     "poppins": [
       "https://www.burtsbeespets.com/"
     ],
-    "poppins-extralight": [
-      "https://www.burtsbeespets.com/"
-    ],
     "poppins-semibold": [
-      "https://www.burtsbeespets.com/"
-    ],
-    "sans-serif": [
-      "https://www.burtsbeespets.com/"
-    ],
-    "sans-serif !important": [
-      "https://www.burtsbeespets.com/"
-    ],
-    "serif": [
-      "https://www.burtsbeespets.com/"
-    ],
-    "wf_6acabfe8a2d742f1a9b8db31d": [
-      "https://www.burtsbeespets.com/"
-    ],
-    "wf_d2b74fa2704044fa98373433c": [
-      "https://www.burtsbeespets.com/"
-    ],
-    "wfont_3f090f_d2b74fa2704044fa98373433c883f8ed": [
-      "https://www.burtsbeespets.com/"
-    ],
-    "wfont_dc8334_6acabfe8a2d742f1a9b8db31d0953436": [
-      "https://www.burtsbeespets.com/"
-    ],
-    "ヒラギノ角ゴ pro w3": [
-      "https://www.burtsbeespets.com/"
-    ],
-    "メイリオ": [
       "https://www.burtsbeespets.com/"
     ]
   },
@@ -346,10 +268,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "COLLECTIONS | Burt's Bees for Pets",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-300",
   "tokens": {
     "colors.primary": {
+      "value": "#db1734",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -357,6 +280,7 @@
       ]
     },
     "colors.ink": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -364,6 +288,7 @@
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -371,6 +296,7 @@
       ]
     },
     "colors.body": {
+      "value": "#5e514d",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -378,6 +304,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#757575",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -385,6 +312,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#5f6360",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -392,6 +320,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -399,6 +328,7 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -406,6 +336,7 @@
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -413,6 +344,7 @@
       ]
     },
     "colors.accent-yellow": {
+      "value": "#ffd203",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -420,6 +352,7 @@
       ]
     },
     "colors.accent-pink": {
+      "value": "#ed1566",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -427,6 +360,7 @@
       ]
     },
     "colors.accent-blue": {
+      "value": "#116dff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -434,6 +368,7 @@
       ]
     },
     "colors.accent-blue-soft": {
+      "value": "#5e97ff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -441,6 +376,7 @@
       ]
     },
     "colors.accent-rust": {
+      "value": "#9e3b1b",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -448,13 +384,15 @@
       ]
     },
     "colors.overlay": {
-      "value_status": "observed_in_css",
+      "value": "#00000099",
+      "value_status": "derived_opacity",
       "role_status": "inferred",
       "sources": [
         "https://www.burtsbeespets.com/"
       ]
     },
     "colors.transparent": {
+      "value": "#00000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -462,6 +400,7 @@
       ]
     },
     "colors.deep": {
+      "value": "#080808",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -469,110 +408,409 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "poppins-semibold, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "poppins-semibold, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "poppins, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 500,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Arial, Helvetica, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "poppins-semibold, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "border": "1px solid {colors.primary}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "border": "1px solid {colors.hairline}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.base} {spacing.xl}",
+        "hairline": "{colors.hairline}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "border": "1px solid {colors.hairline}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "titleTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.deep}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xl} {spacing.xl}",
+        "hairline": "{colors.hairline}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-yellow}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "border": "1px solid {colors.hairline}",
+        "padding": "{spacing.xs} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.ingredient-callout": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "accentColor": "{colors.accent-yellow}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#5f6360": {
+        "selector": "body.device-mobile-non-optimized.fullScreenMode",
+        "property": "background-color",
+        "declaration": "#5f6360",
+        "url": "https://www.burtsbeespets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "088b26fa2d1a29bea6bed906fb1e56f39953eefe5392c3e9d716b1b2ed95a7a6"
+      },
+      "#000000": {
+        "selector": ".StylableButton2545352419__link",
+        "property": "color",
+        "declaration": "#000",
+        "url": "https://www.burtsbeespets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "088b26fa2d1a29bea6bed906fb1e56f39953eefe5392c3e9d716b1b2ed95a7a6"
+      },
+      "#00000000": {
+        "selector": ".iL7Pq5",
+        "property": "-webkit-tap-highlight-color",
+        "declaration": "#0000",
+        "url": "https://www.burtsbeespets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "088b26fa2d1a29bea6bed906fb1e56f39953eefe5392c3e9d716b1b2ed95a7a6"
+      },
+      "#080808": {
+        "selector": "ul.font_100,ol.font_100",
+        "property": "color",
+        "declaration": "#080808",
+        "url": "https://www.burtsbeespets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "088b26fa2d1a29bea6bed906fb1e56f39953eefe5392c3e9d716b1b2ed95a7a6"
+      },
+      "#116dff": {
+        "selector": ".BqYkvS",
+        "property": "color",
+        "declaration": "#116dff",
+        "url": "https://www.burtsbeespets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "088b26fa2d1a29bea6bed906fb1e56f39953eefe5392c3e9d716b1b2ed95a7a6"
+      },
+      "#ffffff": {
+        "selector": ".BqYkvS",
+        "property": "background",
+        "declaration": "#fff",
+        "url": "https://www.burtsbeespets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "088b26fa2d1a29bea6bed906fb1e56f39953eefe5392c3e9d716b1b2ed95a7a6"
+      },
+      "#5e514d": {
+        "selector": "#comp-kbgakxea_r_comp-liu6tfrg .comp-kbgakxea_r_comp-liu6tfrg-styleId__root .StylableHorizontalMenu3372578893__menuItem .itemDepth02233374943__label",
+        "property": "color",
+        "declaration": "#5E514D",
+        "url": "https://www.burtsbeespets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "088b26fa2d1a29bea6bed906fb1e56f39953eefe5392c3e9d716b1b2ed95a7a6"
+      },
+      "#db1734": {
+        "selector": "#comp-kbgakxea_r_comp-liu6tfrg .comp-kbgakxea_r_comp-liu6tfrg-styleId__root .StylableHorizontalMenu3372578893__menuItem.itemDepth02233374943--isCurrentPage .itemDepth02233374943__label",
+        "property": "color",
+        "declaration": "#DB1734",
+        "url": "https://www.burtsbeespets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "088b26fa2d1a29bea6bed906fb1e56f39953eefe5392c3e9d716b1b2ed95a7a6"
+      },
+      "#9e3b1b": {
+        "selector": "#comp-kbgakxea_r_comp-liu6tfrg .comp-kbgakxea_r_comp-liu6tfrg-styleId__root .StylableHorizontalMenu3372578893__columnsLayout .submenu815198092__heading .itemDepth12472627565__label",
+        "property": "color",
+        "declaration": "#9E3B1B",
+        "url": "https://www.burtsbeespets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "088b26fa2d1a29bea6bed906fb1e56f39953eefe5392c3e9d716b1b2ed95a7a6"
+      },
+      "#ffd203": {
+        "selector": "#comp-kbgakxea_r_comp-kbgajy18",
+        "property": "--bg-overlay-color",
+        "declaration": "rgb(255, 210, 3)",
+        "url": "https://www.burtsbeespets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "088b26fa2d1a29bea6bed906fb1e56f39953eefe5392c3e9d716b1b2ed95a7a6"
+      },
+      "#5e97ff": {
+        "selector": "#comp-kbgakxea_r_comp-kkmqi5lg",
+        "property": "--stroke",
+        "declaration": "#5E97FF",
+        "url": "https://www.burtsbeespets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "088b26fa2d1a29bea6bed906fb1e56f39953eefe5392c3e9d716b1b2ed95a7a6"
+      },
+      "#757575": {
+        "selector": "#comp-lxal9zt6",
+        "property": "--stroke",
+        "declaration": "#757575",
+        "url": "https://www.burtsbeespets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "088b26fa2d1a29bea6bed906fb1e56f39953eefe5392c3e9d716b1b2ed95a7a6"
+      },
+      "#ed1566": {
+        "selector": "#comp-kd5px9q0_r_comp-kkmqi5tc",
+        "property": "--stroke",
+        "declaration": "#ED1566",
+        "url": "https://www.burtsbeespets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "088b26fa2d1a29bea6bed906fb1e56f39953eefe5392c3e9d716b1b2ed95a7a6"
+      }
+    },
+    "font_families": {
+      "Arial": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Arial,Helvetica,sans-serif",
+        "url": "https://www.burtsbeespets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "088b26fa2d1a29bea6bed906fb1e56f39953eefe5392c3e9d716b1b2ed95a7a6"
+      },
+      "Helvetica": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Arial,Helvetica,sans-serif",
+        "url": "https://www.burtsbeespets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "088b26fa2d1a29bea6bed906fb1e56f39953eefe5392c3e9d716b1b2ed95a7a6"
+      },
+      "sans-serif": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Arial,Helvetica,sans-serif",
+        "url": "https://www.burtsbeespets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "088b26fa2d1a29bea6bed906fb1e56f39953eefe5392c3e9d716b1b2ed95a7a6"
+      },
+      "poppins": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"poppins\"",
+        "url": "https://www.burtsbeespets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "088b26fa2d1a29bea6bed906fb1e56f39953eefe5392c3e9d716b1b2ed95a7a6"
+      },
+      "poppins-semibold": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"poppins-semibold\"",
+        "url": "https://www.burtsbeespets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "088b26fa2d1a29bea6bed906fb1e56f39953eefe5392c3e9d716b1b2ed95a7a6"
+      }
+    }
+  },
+  "derived_colors": {
+    "#00000099": {
+      "base": "#000000",
+      "status": "proposed_opacity",
+      "alpha": 0.6
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

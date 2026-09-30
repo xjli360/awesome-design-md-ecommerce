@@ -4,6 +4,10 @@ name: "Hum Nutrition"
 source_url: "https://www.humnutrition.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A pink voltage — `#ee4b9b` — runs through every primary CTA, badge, and accent on an otherwise white `#fefefe` canvas, giving the brand the energy of a wellness startup that refuses to be beige. The palette pulls from the extracted site: a hot-magenta `#e10098` for hover states, a softer `#f8c1d9` for backgrounds, and a punchy lemon `#fecf0a` for limited-edition or sale moments. Typography relies on Montserrat at moderate weights — display sits at 24–32px in weight 500/600, never heavy, letting the pink do the shouting. Product cards use `{rounded.sm}` corners, while CTAs go full pill (`{rounded.full}`) at 48px height, creating a friendly, approachable rhythm. The nav bar stays minimal: white background, pink logo wordmark, and a cart icon that turns `#ee4b9b` on hover. The brand trusts clean product photography and generous whitespace over decorative flourishes — the pink is the ornament. A secondary palette of warm grays (`#545454`, `#757575`, `#9ca3af`) handles body text and muted labels, while `#010202` ink provides near-black contrast for headlines. The overall feel is confident, clinical but warm — like a dermatologist’s office that stocks neon lipstick.
 
@@ -453,6 +457,13 @@ components:
 - Product card badges may hide on mobile to save space
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

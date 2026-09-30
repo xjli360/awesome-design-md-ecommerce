@@ -4,6 +4,10 @@ name: "Sprüth Magers"
 source_url: "https://spruethmagers.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   #ff1900 — a red so saturated it tips from gallery signage into emergency transmission — is the single chromatic decision Sprüth Magers makes with conviction; everything else concedes to a white ground and NeueHaasGroteskText Pro rendered at a restraint that most digital interfaces would misread as underdesign. The typeface choice is the tell: not a custom logotype face, not a geometric display sans, but Linotype's systematic revival of the Haas Grotesk drawings that preceded Helvetica — Swiss-institutional correctness that places the gallery in the lineage of Basel and Zurich design offices rather than art-fair booth graphics. Navigation accumulates artist names in tight roman at 12–13px; the sheer volume of names is the flex, not the type scale. Headings rarely exceed 20px. Hierarchy operates through weight differential and column positioning rather than size jumps — a modernist confidence that the roster (Barbara Kruger, Rosemarie Trockel, Andreas Gursky, Ed Ruscha) requires no amplification.
 
@@ -311,6 +315,13 @@ components:
 - Footer columns (Berlin / London / Los Angeles) stack to one-per-row on mobile; address text truncates to city and country line only
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -38,19 +38,34 @@
     }
   ],
   "colors": {
+    "#debc8b": {
+      "count": 11,
+      "sources": [
+        "https://www.microjig.com/"
+      ]
+    },
     "#ffffff": {
       "count": 120,
       "sources": [
-        "https://www.microjig.com/",
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+        "https://www.microjig.com/"
       ]
     },
-    "#dddddd": {
-      "count": 38,
+    "#00635b": {
+      "count": 31,
       "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+        "https://www.microjig.com/"
+      ]
+    },
+    "#111111": {
+      "count": 25,
+      "sources": [
+        "https://www.microjig.com/"
+      ]
+    },
+    "#009677": {
+      "count": 11,
+      "sources": [
+        "https://www.microjig.com/"
       ]
     },
     "#00000000": {
@@ -59,78 +74,8 @@
         "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
       ]
     },
-    "#00635b": {
-      "count": 31,
-      "sources": [
-        "https://www.microjig.com/",
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
-      ]
-    },
-    "#111111": {
-      "count": 25,
-      "sources": [
-        "https://www.microjig.com/",
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
-      ]
-    },
-    "#fafafa": {
-      "count": 22,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#999999": {
-      "count": 21,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
-      ]
-    },
-    "#3898ec": {
-      "count": 20,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#debc8b": {
-      "count": 11,
-      "sources": [
-        "https://www.microjig.com/",
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
-      ]
-    },
-    "#009677": {
-      "count": 11,
-      "sources": [
-        "https://www.microjig.com/",
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
-      ]
-    },
-    "#e6e6e6": {
-      "count": 11,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#e4e4e4": {
-      "count": 10,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#cc0033": {
-      "count": 9,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
-      ]
-    },
-    "#0000001a": {
-      "count": 8,
+    "#000000": {
+      "count": 5,
       "sources": [
         "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
       ]
@@ -141,260 +86,20 @@
         "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
       ]
     },
-    "#00000080": {
-      "count": 7,
+    "#3898ec": {
+      "count": 20,
       "sources": [
         "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
       ]
     },
-    "#cccccc": {
-      "count": 6,
+    "#dddddd": {
+      "count": 38,
       "sources": [
         "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
       ]
     },
-    "#222222": {
-      "count": 6,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#000000": {
-      "count": 5,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
-      ]
-    },
-    "#75869600": {
-      "count": 5,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#ffffff00": {
-      "count": 5,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#00000066": {
-      "count": 4,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#f7f7f7": {
-      "count": 4,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
-      ]
-    },
-    "#aaaaaa": {
-      "count": 4,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
-      ]
-    },
-    "#676767": {
-      "count": 4,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
-      ]
-    },
-    "#767676": {
-      "count": 4,
-      "sources": [
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
-      ]
-    },
-    "#eeeeee": {
-      "count": 3,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#c8c8c8": {
-      "count": 3,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#0066cc": {
-      "count": 3,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
-      ]
-    },
-    "#32343a": {
-      "count": 3,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#43464d": {
-      "count": 3,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#555555": {
-      "count": 3,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
-      ]
-    },
-    "#777777": {
-      "count": 3,
-      "sources": [
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
-      ]
-    },
-    "#e2e2e2": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#ffdede": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#5d6c7b": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#0082f3": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#dddddd66": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#003e39": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#f8cd49": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#f5f5f5": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#1a1b1f": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#0000004d": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#ffffff80": {
-      "count": 2,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#4c4c4c": {
-      "count": 2,
-      "sources": [
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
-      ]
-    },
-    "#00625b": {
-      "count": 1,
-      "sources": [
-        "https://www.microjig.com/"
-      ]
-    },
-    "#e3c38f": {
-      "count": 1,
-      "sources": [
-        "https://www.microjig.com/"
-      ]
-    },
-    "#ffff00": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#aaadb0": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#f3f3f3": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#ea384c": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#758696": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#33333366": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#22222266": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#ffffff66": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#000000e6": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#2895f7": {
-      "count": 1,
+    "#fafafa": {
+      "count": 22,
       "sources": [
         "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
       ]
@@ -405,8 +110,26 @@
         "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
       ]
     },
-    "#444444": {
-      "count": 1,
+    "#cc0033": {
+      "count": 9,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#0066cc": {
+      "count": 3,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 4,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#003e39": {
+      "count": 2,
       "sources": [
         "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
       ]
@@ -417,199 +140,21 @@
         "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
       ]
     },
-    "#1188ee": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#e3e6eb": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#32343a66": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#ffffffb3": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#f4f4f4": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#11111166": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#00635c80": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#004a4400": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#586f8080": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#586f80cc": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#0066cc00": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#11111199": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#11111100": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#ffffff33": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#00000099": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#000000ab": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#00000033": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#eeeeee00": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#f5f7fa": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#e4ebf3": {
-      "count": 1,
-      "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-      ]
-    },
-    "#696969": {
-      "count": 1,
-      "sources": [
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
-      ]
-    },
-    "#df6a26": {
-      "count": 1,
+    "#767676": {
+      "count": 4,
       "sources": [
         "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
       ]
     }
   },
   "font_families": {
-    "Arial": [
-      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-      "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css",
-      "https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css"
-    ],
-    "Avenir LT Std": [
-      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-    ],
-    "Calibri": [
-      "https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css"
-    ],
-    "Helvetica": [
-      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-      "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css",
-      "https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css"
-    ],
-    "Helvetica Neue": [
-      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-    ],
     "Neue Haas Grotesk Display Pro 65 Md": [
-      "https://www.microjig.com/",
-      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-      "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
-    ],
-    "Neue Haas Grotesk Text Pro 55 Rg": [
-      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-    ],
-    "Rubik": [
-      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-      "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
-    ],
-    "Segoe UI": [
-      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-    ],
-    "Ubuntu": [
-      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-    ],
-    "Verdana": [
-      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-    ],
-    "monospace": [
-      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
-    ],
-    "sans-serif": [
-      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-      "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css",
-      "https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css"
-    ],
-    "sans-serif !important": [
       "https://www.microjig.com/"
     ],
-    "serif": [
-      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+    "sans-serif": [
+      "https://www.microjig.com/"
     ],
-    "webflow-icons": [
-      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-      "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
-    ],
-    "webflow-icons!important": [
+    "Arial": [
       "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
     ]
   },
@@ -771,37 +316,35 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "MICROJIG – Smarter Woodworking Tools",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "remaining-20260929",
   "tokens": {
     "colors.primary": {
+      "value": "#00635b",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.microjig.com/",
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+        "https://www.microjig.com/"
       ]
     },
     "colors.ink": {
+      "value": "#111111",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.microjig.com/",
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+        "https://www.microjig.com/"
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.microjig.com/",
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+        "https://www.microjig.com/"
       ]
     },
     "colors.body": {
+      "value": "#333333",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -809,6 +352,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#767676",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -816,22 +360,23 @@
       ]
     },
     "colors.hairline": {
+      "value": "#dddddd",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
       ]
     },
     "colors.surface-soft": {
+      "value": "#f7f7f7",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
       ]
     },
     "colors.surface-card": {
+      "value": "#fafafa",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -839,15 +384,15 @@
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.microjig.com/",
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+        "https://www.microjig.com/"
       ]
     },
     "colors.accent-gold": {
+      "value": "#ffc72c",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -855,40 +400,39 @@
       ]
     },
     "colors.accent-burlywood": {
+      "value": "#debc8b",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.microjig.com/",
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+        "https://www.microjig.com/"
       ]
     },
     "colors.success-hover": {
+      "value": "#009677",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.microjig.com/",
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+        "https://www.microjig.com/"
       ]
     },
     "colors.alert": {
+      "value": "#cc0033",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
       ]
     },
     "colors.link-blue": {
+      "value": "#0066cc",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
-        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
       ]
     },
     "colors.legacy-blue": {
+      "value": "#3898ec",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -896,6 +440,7 @@
       ]
     },
     "colors.deep-teal": {
+      "value": "#003e39",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -903,6 +448,7 @@
       ]
     },
     "colors.navy": {
+      "value": "#004183",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -910,113 +456,443 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Neue Haas Grotesk Display Pro 65 Md', sans-serif",
+        "fontSize": "44px",
+        "fontWeight": 500,
+        "lineHeight": 1.41,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "'Neue Haas Grotesk Display Pro 65 Md', sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "'Neue Haas Grotesk Display Pro 65 Md', sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "'Neue Haas Grotesk Display Pro 65 Md', sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 500,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.43,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "'Neue Haas Grotesk Display Pro 65 Md', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1.71,
+        "letterSpacing": "1px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.xl}",
+        "hoverBackgroundColor": "{colors.success-hover}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "borderWidth": "2px",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-tertiary-gold": {
+      "value": {
+        "backgroundColor": "{colors.accent-burlywood}",
+        "textColor": "{colors.ink}",
+        "borderWidth": "0px",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "height": "64px",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "shadow": "0 1px 3px {colors.hairline}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "headlineTypography": "{typography.display-xl}",
+        "subheadTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.lg}",
+        "ctaComponent": "button-primary"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.deep-teal}",
+        "textColor": "{colors.on-primary}",
+        "linkColor": "{colors.accent-gold}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.alert}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.spec-compatibility-table": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "headerBackgroundColor": "{colors.surface-card}",
+        "headerTypography": "{typography.body-sm}",
+        "cellTypography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#debc8b": {
+        "selector": "inline-style",
+        "property": "fill",
+        "declaration": "#DEBC8B",
+        "url": "https://www.microjig.com/",
+        "snapshot": "homepage.html",
+        "sha256": "4d0c5aaffe138e1cc66c94696d35fa6ddf3e9e09d2a424711a77ca8845ecf142"
+      },
+      "#ffffff": {
+        "selector": ".nvlogo2",
+        "property": "fill",
+        "declaration": "#fff",
+        "url": "https://www.microjig.com/",
+        "snapshot": "homepage.html",
+        "sha256": "4d0c5aaffe138e1cc66c94696d35fa6ddf3e9e09d2a424711a77ca8845ecf142"
+      },
+      "#00635b": {
+        "selector": ".nvlogo1",
+        "property": "fill",
+        "declaration": "#00635b",
+        "url": "https://www.microjig.com/",
+        "snapshot": "homepage.html",
+        "sha256": "4d0c5aaffe138e1cc66c94696d35fa6ddf3e9e09d2a424711a77ca8845ecf142"
+      },
+      "#111111": {
+        "selector": ".shopify-buy__option-select-wrapper",
+        "property": "color",
+        "declaration": "#111",
+        "url": "https://www.microjig.com/",
+        "snapshot": "homepage.html",
+        "sha256": "4d0c5aaffe138e1cc66c94696d35fa6ddf3e9e09d2a424711a77ca8845ecf142"
+      },
+      "#009677": {
+        "selector": "div#dd-restock-notification-container .da-restock-notification form button:hover",
+        "property": "background-color",
+        "declaration": "#009677",
+        "url": "https://www.microjig.com/",
+        "snapshot": "homepage.html",
+        "sha256": "4d0c5aaffe138e1cc66c94696d35fa6ddf3e9e09d2a424711a77ca8845ecf142"
+      },
+      "#00000000": {
+        "selector": "a",
+        "property": "background-color",
+        "declaration": "#0000",
+        "url": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "d9e129a8fd5b27e30c02acee6e13cde352caaf452d83f8c1e707916f4ddb7324"
+      },
+      "#000000": {
+        "selector": "mark",
+        "property": "color",
+        "declaration": "#000",
+        "url": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "d9e129a8fd5b27e30c02acee6e13cde352caaf452d83f8c1e707916f4ddb7324"
+      },
+      "#333333": {
+        "selector": "body",
+        "property": "color",
+        "declaration": "#333",
+        "url": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "d9e129a8fd5b27e30c02acee6e13cde352caaf452d83f8c1e707916f4ddb7324"
+      },
+      "#3898ec": {
+        "selector": ".w-button",
+        "property": "background-color",
+        "declaration": "#3898ec",
+        "url": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "d9e129a8fd5b27e30c02acee6e13cde352caaf452d83f8c1e707916f4ddb7324"
+      },
+      "#dddddd": {
+        "selector": ".w-form-done",
+        "property": "background-color",
+        "declaration": "#ddd",
+        "url": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "d9e129a8fd5b27e30c02acee6e13cde352caaf452d83f8c1e707916f4ddb7324"
+      },
+      "#fafafa": {
+        "selector": ".w-file-upload-uploading-btn",
+        "property": "background-color",
+        "declaration": "#fafafa",
+        "url": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "d9e129a8fd5b27e30c02acee6e13cde352caaf452d83f8c1e707916f4ddb7324"
+      },
+      "#004183": {
+        "selector": ":root",
+        "property": "--dark-slate-blue",
+        "declaration": "#004183",
+        "url": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "d9e129a8fd5b27e30c02acee6e13cde352caaf452d83f8c1e707916f4ddb7324"
+      },
+      "#cc0033": {
+        "selector": ":root",
+        "property": "--crimson",
+        "declaration": "#c03",
+        "url": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "d9e129a8fd5b27e30c02acee6e13cde352caaf452d83f8c1e707916f4ddb7324"
+      },
+      "#0066cc": {
+        "selector": ":root",
+        "property": "--royal-blue",
+        "declaration": "#06c",
+        "url": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "d9e129a8fd5b27e30c02acee6e13cde352caaf452d83f8c1e707916f4ddb7324"
+      },
+      "#f7f7f7": {
+        "selector": ":root",
+        "property": "--white-smoke",
+        "declaration": "#f7f7f7",
+        "url": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "d9e129a8fd5b27e30c02acee6e13cde352caaf452d83f8c1e707916f4ddb7324"
+      },
+      "#003e39": {
+        "selector": ":root",
+        "property": "--dark-slate-green",
+        "declaration": "#003e39",
+        "url": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "d9e129a8fd5b27e30c02acee6e13cde352caaf452d83f8c1e707916f4ddb7324"
+      },
+      "#ffc72c": {
+        "selector": ":root",
+        "property": "--yellow-gold",
+        "declaration": "#ffc72c",
+        "url": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "d9e129a8fd5b27e30c02acee6e13cde352caaf452d83f8c1e707916f4ddb7324"
+      },
+      "#767676": {
+        "selector": ".shopify-buy__btn--close",
+        "property": "color",
+        "declaration": "#767676",
+        "url": "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "61ebfbebc1eb0afd2deeceea5951222b802538fbeb604e1eebd5d02c5f431832"
+      }
+    },
+    "font_families": {
+      "Neue Haas Grotesk Display Pro 65 Md": {
+        "selector": ".heading-jumbo p",
+        "property": "font-family",
+        "declaration": "\"Neue Haas Grotesk Display Pro 65 Md\",sans-serif",
+        "url": "https://www.microjig.com/",
+        "snapshot": "homepage.html",
+        "sha256": "4d0c5aaffe138e1cc66c94696d35fa6ddf3e9e09d2a424711a77ca8845ecf142"
+      },
+      "sans-serif": {
+        "selector": ".heading-jumbo p",
+        "property": "font-family",
+        "declaration": "\"Neue Haas Grotesk Display Pro 65 Md\",sans-serif",
+        "url": "https://www.microjig.com/",
+        "snapshot": "homepage.html",
+        "sha256": "4d0c5aaffe138e1cc66c94696d35fa6ddf3e9e09d2a424711a77ca8845ecf142"
+      },
+      "Arial": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Arial,sans-serif",
+        "url": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "d9e129a8fd5b27e30c02acee6e13cde352caaf452d83f8c1e707916f4ddb7324"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

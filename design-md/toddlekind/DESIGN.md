@@ -4,6 +4,10 @@ name: "Toddlekind"
 source_url: "https://toddlekind.com"
 captured_at: "2026-09-28T09:59:12.589681+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Toddlekind's storefront evidence points to a warm, muted, "quiet luxury" palette built
   around a deep cocoa-brown (#66402e), used as both primary accent and default text/body
@@ -168,6 +172,13 @@ Breakpoint values below are a proposed convention only; a font-family token stri
 Touch targets for buttons and nav items should maintain a minimum 44px hit area on small/medium tiers. Mega-menu category lists ("Shop by Collection", "Shop by Color") are expected to collapse into an accordion or side-panel drawer below the medium breakpoint. This table is a recommendation derived from a size-token naming convention found in the evidence, not a measurement of actual rendered layout.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

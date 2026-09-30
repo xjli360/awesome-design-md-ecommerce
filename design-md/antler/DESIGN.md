@@ -4,6 +4,10 @@ name: "Antler"
 source_url: "https://antler.co.uk"
 captured_at: "2026-09-29T04:13:34.051377+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Antler's UK storefront presents a neutral, editorial luggage catalogue built around a light canvas, near-black ink text, and a single saturated coral accent reserved for tertiary buttons and brand highlights (--color-antler-coral maps to the observed #ff4713). Body and heading typography both resolve to CSS custom properties (--font-body-family, --font-heading-family); only one concrete family, CircularStd, is present in the supplied evidence, so heading/body differentiation is inferred rather than confirmed as distinct typefaces. The broader palette includes muted heritage tones — forest green, navy, burgundy, and tan — which align with the site's "Shop by Colour" suitcase filters (black, pink, green, blue, white, red) and are treated here as secondary/category accent colors rather than core UI colors, since their exact application (swatch vs. imagery vs. seasonal collection) is not verifiable from static CSS alone. Card and button theming uses CSS variables layered over RGB channel strings (e.g., --color-base-text), so hex-to-role mapping below is a best-effort reconstruction. Surfaces use warm off-white/cream tones (#e8e4da, #ded7c8) suggesting a premium, tactile "British heritage" aesthetic rather than a stark white e-commerce look. All spacing, radius, and most typographic sizes are proposed conventions layered onto the observed variable structure, not measured pixel values.
 
@@ -144,6 +148,14 @@ components:
 Recommended (not measured) breakpoints: mobile ≤599px, tablet 600–989px, desktop ≥990px, matching common Shopify theme conventions implied by the vendor-neutral CSS variable structure. Touch targets should be ≥44px height for primary/secondary buttons and swatches. Mega-menu navigation should collapse into an accordion drawer below tablet width; product grids should reduce from 4 to 2 columns at tablet and 1 column at mobile. This section is a design recommendation, not observed site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

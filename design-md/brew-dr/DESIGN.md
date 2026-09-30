@@ -4,6 +4,10 @@ name: "Brew Dr"
 source_url: "https://brewdrkombucha.com"
 captured_at: "2026-09-29T04:16:02.347482+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Brew Dr. Kombucha's supplied CSS centers on a deep teal identity, with `#006072` (documented as a `--dark-slate-grey` / `--_brew-dr-library---deep-teal` custom property) recurring across buttons and headline treatments, alongside closely related teal variants (`#05414c`, `#013741`, `#036072`, `#016172`, `#006172`). A pale `#fafaf4` "floral white" token and a bright `#1ecad3` "clear-mind" teal round out the brand-specific evidence. Neutral grays (`#333`, `#777`, `#ddd`, `#f5f5f5`) come from generic body-copy and Webflow default styling. Typography is mixed: `Arial, sans-serif` is the base body stack, `gopher` and `Bricolage Grotesque` drive large jumbo headlines (110px observed), and `din-2014` / `din-2014-narrow` power uppercase button and CTA labels. A large set of Bootstrap-pattern alert/button colors (blues, greens, ambers, reds) also appears in the CSS but reads as inherited component-library scaffolding rather than deliberate brand color, so it is excluded from the interpreted palette below.
 
@@ -148,6 +152,14 @@ This is a recommendation, not measured site behavior:
 Touch targets should be at least 44×44px for nav toggles and buttons. The nav should collapse into the `.w-nav-button` pattern already present in the CSS at narrower widths, though the exact collapse breakpoint was not present in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered layout, computed styles, hover/focus states, or actual responsive breakpoints were observed. Semantic role assignments (e.g., which teal serves as "primary" vs. "surface-deep") are inferred from selector names and usage context, not confirmed via live inspection. Spacing scale, shadow values, most typographic sizes below `display-xl`, and letter-spacing values are proposed defaults, not measured. A large set of Bootstrap-style alert/button colors present in the raw palette (blues, greens, ambers, reds) was intentionally excluded as generic framework scaffolding rather than brand color. Custom font availability, licensing, and self-hosting/Typekit status for `gopher`, `din-2014`, `din-2014-narrow`, `Bricolage Grotesque`, and `Handelson One` were not verified. Interaction patterns and mobile layout behavior are not observed and are marked proposed throughout.

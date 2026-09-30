@@ -4,6 +4,10 @@ name: "Stones Throw Records"
 source_url: "https://www.stonesthrow.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A record label and shop where the primary voltage is a burnt orange #ff8900 that reads like a vintage amp pilot light — warm, slightly faded, and unmistakably analog in a digital storefront. That orange carries every add-to-cart button, every badge, every active nav state, while the rest of the system stays in a tight gray spectrum (#212121 ink, #323232 body, #9b9b9b muted, #d8d8d8 hairline) on a #f9f9f9 canvas that feels like uncoated paper stock. The typography runs LL Brown and General Sans Variable — a pairing that splits the difference between a 1970s jazz LP liner note and a modern sans-serif utility — with display heads at 24–28px in weight 600 and body copy at 14–16px in weight 400. Product cards use soft {rounded.sm} corners, but the search bar and primary buttons go full pill ({rounded.full}), creating a tension between the angular album art grid and the friendly, grabable CTAs. The shop runs on Shopify, so checkout flows inherit a secondary palette of #00d084 (green) and #0693e3 (blue) from payment widgets, but the brand's own world stays in orange, gray, and white — a deliberate restraint that lets the album covers do the color work.
 
@@ -278,6 +282,13 @@ components:
 - Search bar may collapse to icon-only on mobile, expanding to full input on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Fractal Design"
 source_url: "https://www.fractal-design.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Two blues do all the precision work here — #027aef anchors every primary CTA and interactive trigger while #1aafff floats as the hover-state and highlight accent, a tonal pair that reads as engineering confidence rather than consumer enthusiasm. The typographic workhorse is Centra No2, a geometric grotesque that sits between Avenir's warmth and Helvetica's rigidity; at weight 700 it drives display headers across near-black (#0a0a0a) canvases, while weight 400 carries specification copy and product descriptions on light surfaces (#f1f1f2). Dark panels dominate product pages — #232323 and #282828 frames around cases and cooling components photograph as intentional context rather than generic catalog staging. Industrial slate (#4f5b5f) appears in secondary chrome, border accents, and icon fills, functioning as a neutral that never reads as off-the-shelf gray. Corners stay sharp to minimal: {rounded.xs} at 4px handles inputs and secondary buttons, {rounded.sm} at 8px handles primary buttons and product cards — no soft radius softens the precision-machined product ethos. The red pair is tightly controlled: #dc3232 for system alerts and #ff5268 for sale urgency badges, both signaling action without competing with the blue primary. Notification and feedback states draw from a structured micro-system of colored wells — #f2dede for errors, #dff0d8 for success, #fcf8e3 for warnings — which appear in cart and account flows, never on marketing pages. Spacing is generous on product display pages: 64px section gaps let hardware photography breathe, but tightens aggressively in specification tables and filter sidebars where 8px and 12px rhythm serves dense technical data. Button labels run uppercase in Centra No2 at 0.5px letter-spacing — a small but deliberate choice that gives CTAs the character of part number labels on a spec sheet rather than marketing copy. The overall register is precise and controlled: dark surfaces punctuated by electric blue, type that earns contrast through weight rather than color, and a grid that serves hardware photography first.
 
@@ -425,6 +429,13 @@ components:
 - Mega-menu: hover-triggered flyout on desktop → accordion within off-canvas drawer on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

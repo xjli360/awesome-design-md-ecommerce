@@ -4,6 +4,10 @@ name: "Miles & Milan"
 source_url: "https://milesandmilan.com"
 captured_at: "2026-09-29T03:55:13.085719+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Miles & Milan's stylesheet is built on a restrained black-and-white foundation typical of a Shopify baby-apparel storefront: pure black (#000000) text and button borders against a white (#ffffff) canvas, with a family of warm mid-grays (#333333, #4e4b4b, #686464) used for secondary text, hover states, and button interactions. The single observed type family is Oswald paired with Helvetica Neue/Arial fallbacks, applied uniformly to both body copy (14px/1.6, regular weight) and headings (uppercase, 1px letter-spacing), giving the brand a clean, slightly editorial, gender-neutral tone appropriate for "Joyfully Made" baby and toddler clothing.
   No brand accent color is explicitly declared in the supplied evidence; #d02e2e and #56ad6a appear in the palette without confirmed semantic roles, so they are mapped here as inferred accent (sale/CTA emphasis) and success (confirmation/availability) colors rather than confirmed brand hues. Hairlines and card surfaces are drawn from the observed light-gray set (#dddddd, #f7f7f7, #fafafa) to suggest soft, low-contrast separation between header, product grid, and footer, consistent with the site's minimal, whitespace-forward layout implied by its copy ("shop by age," "buy together and save"). All roles below are evidence-grounded reuses of the supplied palette; layout, spacing, and componentry are proposed interpretations, not measured observations.
@@ -150,6 +154,13 @@ components:
 Touch targets are recommended at a minimum 44×44px for cart, search, and menu icons. Navigation is proposed to collapse into a slide-out or hamburger menu below tablet width, with the search bar expanding to full-width on focus. This table is a recommendation based on typical Shopify baby-apparel patterns and the theme's transition/z-index hints; it does not reflect measured responsive behavior of the live site.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

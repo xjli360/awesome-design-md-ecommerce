@@ -4,6 +4,10 @@ name: "Misha & Puff"
 source_url: "https://misha-and-puff.com"
 captured_at: "2026-09-29T04:03:41.273105+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Misha & Puff's storefront CSS shows a restrained, editorial system built on Shopify theme variables:
   --color-foreground and --color-button both resolve to rgb(18,18,18) (#121212), --color-background and
@@ -171,6 +175,12 @@ open/close animation, breakpoint trigger, and exact collapse width are not obser
 as reasonable defaults for a Shopify-based storefront.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS custom properties, selector rules, and page text only — no

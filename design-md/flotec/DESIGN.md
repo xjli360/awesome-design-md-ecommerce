@@ -4,6 +4,10 @@ name: "Flotec"
 source_url: "https://www.floteconline.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Flotec's catalog pages arrive on a warm cream ground (#f0e7d8) rather than the cold white or steel gray typical of industrial distributors — a choice that reads less like a spec sheet and more like a reference catalog you'd keep on a workshop shelf. The primary brand signal is a deep burgundy-maroon (#590202), anchoring header elements and primary calls-to-action against that cream field; the pairing is unusually warm for hydraulics and pneumatics, where teal (#0d6a71) and rust-orange (#d64f38) appear as secondary signals marking technical categories and alert states. The sheer variety of extracted palette entries — pink (#d03c8e), violet (#7c6eb0), lime (#51ae32), canary (#ffed00) — reveals an industrial catalog architecture: each product-line or manufacturer is branded with its own category chip color, so the UI must accommodate dozens of swatches within a neutral scaffold without visual noise. Inter drives all UI type at modest weights; monospace stacks (Consolas, Menlo, SFMono-Regular) surface in part-number and specification fields where scannable fixed-width glyphs matter. Button geometry is crisp and utilitarian — `{rounded.xs}` or `{rounded.sm}`, never pill-shaped — since soft consumer curves would undercut the professional-procurement context. Product cards carry a flat, density-forward layout: thumbnail left, part number in mono type, short description, and an add-to-cart or request-quote action, all set on `{colors.surface-card}` with a `{colors.hairline}` border. The teal (#0d6a71) and green (#009879) appear in table-header stripes and availability badges, borrowing the classic industrial-catalog zebra convention. Navigation is category-heavy, reflecting a distributor model where hydraulics, pneumatics, fittings, valves, and seals each carry enough SKUs to justify their own mega-menu column. Overall, Flotec reads as a no-frills procurement tool that chose warmth over coldness — a small but distinguishing tonal decision in an otherwise conventions-bound product vertical.
 
@@ -402,6 +406,13 @@ components:
 - Breadcrumb truncates middle segments with ellipsis, always showing root and current page
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

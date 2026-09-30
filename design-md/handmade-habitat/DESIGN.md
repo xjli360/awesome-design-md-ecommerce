@@ -4,6 +4,10 @@ name: "Handmade Habitat"
 source_url: "https://handmadehabitat.co"
 captured_at: "2026-09-28T04:41:16.045561+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Handmade Habitat's storefront evidence shows a warm, muted palette built from
   a soft blush pink (#edbcb5), a terracotta/rose button and link color
@@ -160,6 +164,12 @@ components:
 Touch targets should be at least 44×44px for buttons and nav links, consistent with the accelerated-checkout button's `clamp(25px, …, 55px)` sizing hint found in evidence. Mobile nav collapse into a drawer/hamburger pattern is standard for this Shopify theme family but was not directly observed in the supplied CSS or markup, so it is a recommendation only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no rendered page, interaction states (hover/focus/active beyond the one evidenced checkout-button hover), or mobile layout were directly observed. Only one font family ("Cormorant") was present in evidence, so body, caption, and button typography all reuse it with an inferred generic serif fallback rather than a confirmed separate body font — actual live typography may differ. All pixel sizes, spacing scale values, radius values, and breakpoints are proposed conventions, not measured from the live site. The teal accent (#1990c6/#136f99) originates from Shopify's portable-wallets CSS and is treated as vendor UI, not confirmed brand color. Custom font licensing/hosting for Cormorant was not verified. Semantic color role mapping (e.g., which hex serves "muted" vs "surface-soft") is inferred from variable names and usage context, not confirmed via visual inspection.

@@ -4,6 +4,10 @@ name: "Kicker"
 source_url: "https://kicker.com"
 captured_at: "2026-09-28T09:44:23.552267+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The KICKER site runs on a Bootstrap 3 foundation, so the observed palette is dominated by
   Bootstrap's stock utility colors (grays #333/#777/#999, contextual state colors like
@@ -44,8 +48,8 @@ colors:
   success-bg: "#dff0d8"
   danger-bg: "#f2dede"
 typography:
-  display-xl: {fontFamily: "Gotham-Black, Helvetica Neue, Arial, sans-serif", fontSize: 48px, fontWeight: 700, lineHeight: 1.1, letterSpacing: -0.5px}
-  display-md: {fontFamily: "Gotham-Black, Helvetica Neue, Arial, sans-serif", fontSize: 32px, fontWeight: 700, lineHeight: 1.15, letterSpacing: -0.25px}
+  display-xl: {fontFamily: "Helvetica Neue, Arial, sans-serif", fontSize: 48px, fontWeight: 700, lineHeight: 1.1, letterSpacing: -0.5px}
+  display-md: {fontFamily: "Helvetica Neue, Arial, sans-serif", fontSize: 32px, fontWeight: 700, lineHeight: 1.15, letterSpacing: -0.25px}
   title-md: {fontFamily: "Helvetica Neue, Helvetica, Arial, sans-serif", fontSize: 20px, fontWeight: 500, lineHeight: 1.2, letterSpacing: 0px}
   body-md: {fontFamily: "Helvetica Neue, Helvetica, Arial, sans-serif", fontSize: 14px, fontWeight: 400, lineHeight: 1.42857143, letterSpacing: 0px}
   body-sm: {fontFamily: "Helvetica Neue, Helvetica, Arial, sans-serif", fontSize: 12px, fontWeight: 400, lineHeight: 1.4, letterSpacing: 0px}
@@ -159,6 +163,10 @@ spec-table is a category-appropriate component directly grounded in the observed
 Recommended, not measured: a compact three-tier breakpoint scale — mobile up to 767px (single-column stacks, collapsed nav-bar behind a toggle), tablet 768–1023px (two-column product grids), and desktop 1024px+ (multi-column grids, expanded nav-bar). Touch targets should be at least 44px in height for buttons and nav items; the nav-bar toggle described in the page text ("Toggle navigation") should collapse into a full-height drawer or accordion below the tablet breakpoint. All figures are proposed defaults, not observed from live rendering.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+- **Evidence correction:** A font found only in a legacy `_font-family` browser hack was removed; the remaining observed fallback family is used.
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS and text extraction only; no live rendering, computed layout, or DOM interaction was observed. Font-role bindings (Gotham-Black, Open Sans, Open Sans Condensed to headings/captions) are inferred from the presence of font-family names in the stylesheet, not confirmed selector usage — actual usage, weights, and web-font licensing/availability are unverified. The designation of #ffde00/#ffd11b as "primary brand" color is an interpretive inference based on their divergence from Bootstrap defaults, not a confirmed brand-guideline source. All component states (hover, focus, active, disabled), responsive breakpoints, and mobile navigation behavior are proposed patterns, not measured from the live site. Spacing and rounded-corner scales are conventional proposals, not extracted from observed CSS custom properties.

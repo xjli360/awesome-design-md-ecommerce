@@ -4,6 +4,10 @@ name: "Minecraft Shop"
 source_url: "https://shop.minecraft.net"
 captured_at: "2026-09-29T04:14:12.276925+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Minecraft Shop presents official game-branded merchandise on a clean, neutral
   Shopify storefront. The observed base palette is restrained: white canvas
@@ -163,6 +167,13 @@ This is a recommendation only; no live responsive behavior was observed.
 Touch targets should be at least 44×44px, applying to `button-primary`/`button-secondary` padding. Mega-menu categories (Apparel, Accessories, Home & Office, Toys & Books, Characters & Mobs, Collections) should collapse into an accordion on mobile. None of this is measured site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 Evidence is static CSS/text extraction only; no rendered layout, breakpoints, hover/focus states, or JS-driven interactions (mega-menu, cart drawer, quick-view modal) were observed. Font availability and licensing for `Minecraft-Seven`, `Minecraft-Ten`, `SegoePro-Bold/Regular`, and `NotoSans-Bold/Regular` are unverified proprietary/custom families; fallbacks assume standard sans-serif. Roles for several palette colors (#ffb439, #d02e2e, #52a535, #86d562, #9bf00b, #299da6, etc.) are inferred rather than confirmed against specific components, since no selectors tying them to badges/alerts were supplied. The `size-chart-trigger` color mapping is an approximation from an RGB value not present in the supplied hex palette. All sizing outside explicitly quoted CSS (13.6px body, 13px button, letter-spacing 0.3em, line-height 1.6/1.42/1) is proposed. Mobile/tablet layouts, grid column counts, and hero proportions are design proposals, not measurements.

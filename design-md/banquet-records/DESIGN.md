@@ -4,6 +4,10 @@ name: "Banquet Records"
 source_url: "https://www.banquetrecords.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A record shop that trusts its blue — not a generic navy or a trendy cobalt, but a specific #61afd5 that reads as both a clear sky and a vintage pressing-label center. This cyan-adjacent primary sits against a #2e475b ink that feels like a well-worn sleeve, giving the whole interface a quiet, knowledgeable confidence. There is no aggressive red or urgent orange here; the brand communicates through a calm, considered palette where the primary blue appears on key CTAs and category headers, while the deep ink handles body copy and navigation. The layout leans on generous whitespace and a clean grid, letting album artwork do the heavy lifting — product cards use soft {rounded.md} corners that echo the gentle curve of a 12-inch cover, and buttons carry a modest {rounded.sm} radius that feels purposeful without being playful. Typography runs a straightforward sans-serif stack at moderate weights, with display sizes staying lean enough to not compete with the vivid sleeve art. The search experience is central — a full-width bar with {rounded.full} ends that invites browsing by artist, label, or format. The overall mood is that of a knowledgeable clerk who lets the records speak first: the interface is a frame, not the picture.
 
@@ -519,6 +523,14 @@ components:
 - Search transitions from inline bar to full-screen overlay on mobile for better keyboard experience
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

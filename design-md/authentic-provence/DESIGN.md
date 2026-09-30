@@ -4,6 +4,10 @@ name: "Authentic Provence"
 source_url: "https://www.authenticprovence.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Chronicle Display's editorial serifs carry the brand's voice before a single product image loads — this is a site that thinks of itself as a magazine for the Provençal garden rather than a catalog. The anchor color is a deep French navy (#003388), pressed against warm parchment (#fafae1) in a combination that reads less as commercial and more as a printed lifestyle book about outdoor living. Sage (#757c71) handles secondary surfaces and hover states — the muted khaki-green that recurs in limestone walls and dried lavender bunches — while harvest gold (#c49800) punctuates seasonal callouts and category badges with the color of Provençal market stalls in August. Body text runs in Gotham at #1a1918, a near-charcoal that softens the contrast just enough to feel like quality offset printing rather than a screen. Barlow Condensed handles utility labels, nav categories, and price displays — its compressed geometry giving a sprawling garden-decor inventory a clean information hierarchy without visual clutter. Antonio appears in hero headlines and large campaign numerals, its tall condensed form suited to garden collection counts and seasonal drops. Corner radii are conservative throughout — `{rounded.sm}` at 8px on cards and inputs, `{rounded.none}` on hero banners and editorial imagery — no softening that might undercut the authority of a design-led brand. Spatial rhythm is generous: `{spacing.section}` at 64px between editorial zones and `{spacing.xl}` between product rows give the grid room to breathe the way an actual Provençal garden does. Two high-contrast pairings recur across banners, product tables, and badge systems — gold-on-navy and cream-on-navy — anchoring the visual language to a palette that looks as natural printed on linen as it does on screen.
 
@@ -389,6 +393,14 @@ components:
 - `footer` columns reorder: newsletter signup first, then Customer Care, then legal row
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

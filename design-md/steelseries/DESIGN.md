@@ -4,6 +4,10 @@ name: "SteelSeries"
 source_url: "https://steelseries.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A gaming-peripheral brand that wraps its high-performance hardware in a deep, almost architectural purple — `#703cd3` — a primary that reads more like a pro-audio or design-tool accent than a typical esports red or neon cyan. The palette is deliberately restrained: `#383838` ink against a white canvas, with `#9a8be5` as a softer secondary purple that appears in hover states, badge fills, and product-card overlays. Typography defaults to the system stack — no custom brand font declared — which gives the interface a clean, utilitarian feel; the brand trusts its product photography and angular industrial design (the hex-patterned mouse shells, the OLED screens on keyboards) to carry the personality. Buttons are sharp-cornered rectangles (`{rounded.sm}`) with a solid purple fill, and the search bar follows the same rectilinear logic — no pill shapes, no soft orbs. The nav bar sits at 64px with a subtle bottom hairline, and product cards use a `{rounded.md}` corner that matches the chamfered edges of the hardware itself. The overall effect is a brand that presents its gear with the seriousness of a pro tool — the purple is the only concession to "gamer" aesthetics, and even that is applied with restraint.
 
@@ -337,6 +341,13 @@ components:
 - Footer columns stack vertically on mobile, with each column as a collapsible accordion.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

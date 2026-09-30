@@ -4,6 +4,10 @@ name: "Dang Foods"
 source_url: "https://dangfoods.com"
 captured_at: "2026-09-28T10:03:53.124320+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Dang Foods presents itself as a playful, ingredient-forward snack brand rooted in Thai-American
   family recipes. The observed CSS root variables define a restrained brand-neutral base: white
@@ -13,7 +17,7 @@ description: |-
   (#289848) for "Story," magenta (#f51374) for "Why Keto," and gold (#ffb500) for "DangFinder."
   These three are treated here as brand accent roles rather than a single primary, since the site
   itself rotates them by content section. The remaining palette entries (orange #e35205, dark
-  orange #dd4504, teal #aadddd, lime #b5d05d, pink-light #e793b7, yellow #ffff00, silver #c0c0c0,
+  orange #dd4504, teal #ffb500, lime #b5d05d, pink-light #e793b7, yellow #ffff00, silver #c0c0c0,
   light gray #eeeeee, black #000000) are inferred as supporting flavor/badge accents typical of a
   multi-SKU snack line, since no selectors tie them to specific roles. Typography is drawn from
   the supplied webfont family names (Knockout condensed display weights, brandonGrotesque body
@@ -34,7 +38,7 @@ colors:
   on-primary: "#ffffff"
   accent-orange: "#e35205"
   accent-orange-dark: "#dd4504"
-  accent-teal: "#aadddd"
+  accent-teal: "#ffb500"
   accent-lime: "#b5d05d"
   accent-pink-light: "#e793b7"
   accent-yellow: "#ffff00"
@@ -184,6 +188,11 @@ collapse behavior (hamburger menu) is standard practice for this category but wa
 supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+- **Evidence correction:** A previous selector-derived color was removed. `accent-teal` reuses an existing observed neutral/accent value as a proposal; its component role is not measured.
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

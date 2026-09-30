@@ -4,6 +4,10 @@ name: "Janod"
 source_url: "https://www.janod.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A French wooden-toy world built on a clean white canvas and a primary red (#bd2426) that reads as both playful and precise — the same red that appears on a classic wooden train's wheels and on the brand's logo mark. The palette is surprisingly broad for a toy brand: a deep navy (#163959) anchors product photography backgrounds and footer sections, while a forest green (#516b1d) and a warm orange (#f68b1f) serve as accent badges for age ranges and collection labels. The extracted colors reveal a system built for contrast and categorization rather than pastel whimsy — the brand uses a muted gray (#404040) for body text, a lighter gray (#ebebeb) for hairline borders, and a near-white canvas (#ffffff) for product cards and page backgrounds. Typography runs on system fonts (Arial, Helvetica Neue, sans-serif) at moderate sizes — display headlines sit at 24px with 700 weight, body text at 14px with 400 weight, and buttons at 14px with 600 weight. The design language favors soft rounded corners (`{rounded.sm}` at 8px) for buttons and cards, with pill-shaped search bars (`{rounded.full}`) and category badges. Product cards feature a white background with a subtle shadow, a red "NEW" badge, and a green "BESTSELLER" badge — the brand uses color as a classification system, not decoration. The overall feel is that of a well-organized toy shop: clean, colorful, and designed for parents who value durability and educational value over flashy packaging.
 
@@ -485,6 +489,13 @@ components:
 - Product detail page moves the image gallery above the product information on mobile, with thumbnails becoming a swipeable dot indicator
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

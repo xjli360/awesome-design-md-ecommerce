@@ -4,6 +4,10 @@ name: "Estwing"
 source_url: "https://estwing.com"
 captured_at: "2026-09-29T04:14:28.168211+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Estwing's public site uses a utilitarian, industrial-blue palette consistent
   with its identity as a 100-year-old American forged-steel tool maker. Two
@@ -158,6 +162,12 @@ Recommended, not measured, breakpoints:
 Touch targets should be at least 44px tall for buttons and nav items. The primary navigation is expected to collapse into a hamburger/off-canvas menu below tablet width, following common WordPress/Elementor conventions implied by the underlying block-editor CSS variables observed (`--wp--style--global--wide-size: 1200px`). This is a recommendation only; no actual responsive layout, breakpoint, or collapse behavior was observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

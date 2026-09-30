@@ -4,6 +4,10 @@ name: "Hiroshi Kato"
 source_url: "https://kato-brand.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Raw selvedge and the slow accumulation of earned character: Hiroshi Kato arrives online anchored by a deep jade teal (#108474) that reads less like a corporate primary and more like a pigment pulled from centuries of Japanese natural dyeing — shibori indigo reduced to its bluer registers, then shifted green by oxidation and time. That teal carries every primary CTA, active nav underline, and announcement bar on a canvas of near-whites (#fafafa, #f9fafb) and layered warm grays (#eeeeee, #f2f2f2, #e9e9e9), the kind of tonal field that lets cloth photography do the selling without competing signals. A secondary earth palette runs beneath: burnt sienna (#b2591f) and amber (#a36710) connect to the iron-rich finishes, vegetable tannins, and oxidized copper hardware that characterize the brand's material vocabulary. Marigold (#fbcd0a) appears as a sharp promotional accent — sale badges, limited-drop callouts — crisp against the muted field without contaminating it. Type pairs Baskerville for display and editorial work — its bracketed serifs carrying the weight of craft-manifesto photography without requiring bold — against Nunito Sans for all UI, navigation, and body copy, a humanist sans that reads warm and direct. Button labels run Nunito Sans all-caps at 700 weight with generous letter-spacing, closer to a woven label than a screen UI convention, reinforcing the garment-world heritage even in interactive states. Corners are deliberately restrained: `{rounded.xs}` at 2px on buttons reads as almost-none, and `{rounded.none}` on product card imagery keeps the textile flush with the grid — there is no softening of the cloth's own edge. The `{spacing.section}` rhythm gives product photography sustained room to breathe, trusting the fabric's texture and colorway over copy density.
 
@@ -353,6 +357,13 @@ components:
 - Announcement bar text may condense or cycle through multiple messages on narrow viewports
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

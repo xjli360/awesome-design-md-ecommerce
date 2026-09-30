@@ -4,6 +4,10 @@ name: "Lanikai"
 source_url: "https://www.lanikaiukuleles.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A brand built around the warm resonance of wood and nylon, Lanikai uses a deep navy anchor (#003a70) as its primary voltage — a color that reads as both nautical and musical, evoking the midnight-blue fretboard of a concert ukulele. The site's canvas is a soft off-white (#fcfbfe) that avoids the sterile glare of pure white, while body text runs in #212121 for comfortable readability at 16px. What distinguishes Lanikai's palette from a generic instrument retailer is the presence of a muted lavender (#e9e6ed) used in secondary backgrounds and a cool gray (#cfc8d8) for subtle dividers — these lilac-tinged neutrals suggest the softness of a padded gig bag interior. The brand's secondary accent, a restrained navy (#293c5b), appears on hover states and footer backgrounds, creating a layered depth that mirrors the instrument's own construction. Typography relies on Montserrat for display headings — a geometric sans-serif with a musical rhythm in its letterforms — and Open Sans for body copy, both set at moderate weights (400–600) that let product photography carry the emotional weight. Buttons use a gentle 8px radius (`{rounded.sm}`) rather than sharp corners, and product cards employ a 12px radius (`{rounded.md}`) that echoes the curve of a ukulele body. The overall feel is unhurried and acoustic — a digital space that breathes like a slow strum.
 
@@ -456,6 +460,13 @@ components:
 - Product images switch from landscape to square crop on mobile to maintain visual consistency
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

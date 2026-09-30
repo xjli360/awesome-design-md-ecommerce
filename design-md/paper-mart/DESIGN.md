@@ -4,6 +4,10 @@ name: "Paper Mart"
 source_url: "https://www.papermart.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Paper Mart runs its primary voltage at `#b71c1c` — a red-900 that sits closer to blood than traffic cone, deployed across every add-to-cart button, promotional callout, and price emphasis on a site carrying tens of thousands of SKUs. That red shares the stage with `#006064`, a Material cyan-900 that functions as a cooler structural anchor for category navigation and department headers. The two together recall industrial safety color conventions more than consumer e-commerce aesthetics, which maps precisely onto Paper Mart's actual buyer: procurement managers, event decorators, and small manufacturers sourcing corrugated mailers, tissue paper, and polymailers by the case. What most distinguishes the font stack is the presence of `barcode-39`, a genuine barcode-compatible letterform extracted from the site's live font registry — it surfaces in order confirmation and label-generation flows, making visible the reality that Paper Mart doesn't merely sell packaging but generates the print artifacts that go on packages. Montserrat carries all interactive chrome at semibold-to-bold weights, with uppercase tracking on buttons and category labels. Merriweather handles editorial content in its sturdy slab-serif cut, adding warmth that prevents the catalog from reading as purely transactional. Rounded corners are held to 4px across every interactive surface — a hard-edged, functional vocabulary with no pill shapes anywhere; pill geometry would feel incongruous against the utilitarian product photography. Accent moments use `#00acc1` and `#4dd0e1` for availability signals and featured-product ribbons, while `#bf360c`, a burnt-orange-red, marks clearance and urgency labels separately from the primary crimson, preventing promotional noise from washing out the brand anchor. A dark slate (`#3d4752`) grounds the top navigation and footer, pushing the red CTAs into sharp relief. The spacing system runs open — 64px section gaps let a high-density SKU grid breathe without the page collapsing into a wall of product tiles.
 
@@ -441,6 +445,13 @@ components:
 - Breadcrumb truncates middle segments with ellipsis on mobile, retaining only root and current page
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

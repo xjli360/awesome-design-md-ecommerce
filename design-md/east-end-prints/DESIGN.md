@@ -4,6 +4,10 @@ name: "East End Prints"
 source_url: "https://www.eastendprints.co.uk"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The cream comes first. Before any artwork loads, the #f0ece6 background makes its case — not white, not neutral gray, but the specific warm off-white of uncoated art paper, a canvas decision that preemptively frames every print as something already framed and hung. East End Prints is a London-founded indie art shop built on the conviction that original work should cost less than a restaurant dinner, and the design system carries that argument without apology: a deep indigo #221155 anchors the primary nav and main CTAs with the weight of a gallery placard, while coral flashes of #e84040 break through on sale callouts and interactive highlights like a felt-tip correction on a proof sheet. Rubik — a geometric sans running 400 through 700 — handles the functional vocabulary: product titles, filter labels, price lines, all rendered with directness that cedes visual authority to the artwork itself. Times New Roman enters selectively for artist attributions and editorial headers, its serif letterforms creating a deliberate high-low friction against Rubik's modernism. The warm orange-reds (#e64a19, #b5340f) work as a heat spectrum for clearance and discount indicators, a separate urgency register that never bleeds into the primary identity palette. Corner radii are minimal throughout — product cards clip at {rounded.xs}, buttons sit flat or near-flat, and nothing aspires to the pill shapes that softer lifestyle brands favor; the hard-edged grid reads as a wall of prints on a gallery rail rather than a curated boutique shelf. Artwork thumbnails pack at {spacing.sm} gutters to maximize the browsing-wall density, with {spacing.section} top-of-section breath to separate the grid from editorial modules. The footer resolves the warm-paper logic by reversing it: #111111 ink on the cream canvas, a final fine-print layer that uses Rubik at caption weight to close every page with the same material feeling it opened with.
 
@@ -427,6 +431,13 @@ components:
 - Hero banner: side-by-side text/image layout → stacked text-above-image on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

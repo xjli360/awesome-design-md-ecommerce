@@ -4,6 +4,10 @@ name: "Daily Harvest"
 source_url: "https://daily-harvest.com"
 captured_at: "2026-09-29T04:10:34.262418+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from Daily Harvest's live Shopify storefront evidence: a
   neutral, warm-leaning palette (near-white canvas #ffffff and #fdf6f3, warm cream
@@ -159,6 +163,11 @@ This is a recommended breakpoint scheme, not measured site behavior:
 Touch targets should be a minimum of 44px, matching the `clamp(25px, …, 55px)` button block-size pattern observed in the accelerated-checkout CSS. Mobile nav collapse, drawer/cart behavior, and swiper carousel touch gestures (swiper-button-prev/next classes are present) are structurally implied by the CSS but their interactive behavior was not observed and should be treated as proposed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is built from static CSS/text extraction only; no live rendering, computed layout, or interaction states (hover, focus, open menu, cart drawer) were observed. Color-to-role mapping (e.g. which exact hex serves as the "true" brand primary) is inferred from palette frequency and thematic fit, not confirmed via a labeled brand style guide — Daily Harvest's actual primary action color could differ from the green chosen here. The `#1990c6`/`#136f99` pair is the only literal button-state pair in evidence and belongs to a generic Shopify payment widget, not necessarily first-party brand styling. Font roles for PlayfairDisplay, Sailec, and GTStandard-M appear in the raw font list but have no associated selector in the supplied CSS, so their usage is unconfirmed and excluded from the typography scale. All spacing and rounding values, and most typography sizes, are proposed conventions rather than measured pixel values. Font licensing/availability for FuturaCondensed and Futura variants was not verified.

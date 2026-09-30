@@ -4,6 +4,10 @@ name: "Edge of Ember"
 source_url: "https://www.edgeofember.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Ember glow belongs to the gold accents — the muted #c9c26b of aged vermeil and the searing #fbcd0a of polished gold-fill campaign ribbons — but the brand's commanding voltage is a deep teal (#108474) that runs every primary CTA, active filter state, and sustainability icon. For a fine jewelry label living on delicate 14k pieces and recycled silver, that choice is a declaration: Edge of Ember leads with ethics before it leads with luxury. The canvas holds near-white (#f9f9f9, #fafafa) with editorial economy; dark charcoal (#252525) handles body copy while warm near-black #282622 — a brown-tinged shadow rather than pure ink — grounds the footer and dark hero overlays. Deep forest greens (#0b331f, #163120) surface in collection banners and section fills, giving the brand a verdant botanical register beneath its clean Shopify scaffold.
 
@@ -423,6 +427,13 @@ components:
 - Collection banners: side-by-side → stacked at mobile with reduced min-height (240px)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Montblanc"
 source_url: "https://www.montblanc.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The eight-pointed Snowcap star pressed into every pen cap since 1913 sets the logic for an entire design system — a palette that refuses to compete with the object it frames. On screen the black deepens to near-true (#000000) against a white canvas (#ffffff), broken only by a champagne-gold accent (#c5a028) that surfaces at the brand mark, clip trim in product close-ups, and the rarest tier of CTA. The rest of the interface earns no color. Body copy settles at a slightly warm #1c1c1c rather than pure black, making product photography the mid-range tonal anchor; nothing decorative lives in this palette — every hue references something you can hold.
 
@@ -345,6 +349,13 @@ components:
 - Mega-menu is replaced by a nested drawer at tablet and below, preserving the full category depth
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

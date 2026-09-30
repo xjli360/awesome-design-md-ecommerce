@@ -4,6 +4,10 @@ name: "Galen Leather"
 source_url: "https://www.galenleather.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Hand-stitching thread color is selectable at checkout — that granular customization signals everything Galen Leather believes about its customer. Founded in İstanbul, the shop's visual identity anchors on a deep Bosphorus teal (#108474), a color that reads simultaneously as craft-workshop signage and contemporary stationery-brand confidence. Against the near-white (#fafafa) canvas, teal carries all primary CTAs, nav accents, and footer backgrounds with no delegation to the secondary palette. Amber (#ffa303) and warm gold (#fbcd0a) surface at the granular layer — sale badges, star fills, price highlights — without ever rising to brand-primary status. A burnt rust (#c4590c) handles clearance urgency, while lavender (#a89cc8) marks new-arrival callouts, giving the palette a slight unexpected softness that prevents the earth-and-craft reading from feeling predictable.
 
@@ -324,6 +328,13 @@ components:
 - Hero split layout stacks vertically below 744px with image above the text block and center-aligned CTA
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

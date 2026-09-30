@@ -4,6 +4,10 @@ name: "Husky Liners"
 source_url: "https://huskyliners.com"
 captured_at: "2026-09-28T04:58:27.212311+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Husky Liners' storefront runs on a Nuxt/Tailwind-based design system exposing
   CSS custom properties for color, type scale, and spacing. The functional
@@ -140,6 +144,13 @@ button-primary is the yellow, extrabold-weighted call-to-action ("Shop Now") use
 Recommended, not measured: mobile <640px (single-column cards, hamburger nav, vehicle-selector collapses to a full-width stacked control), tablet 640–1024px (2-column product grids, condensed mega-menu), desktop >1024px (full mega-menu with make/model columns, multi-column hero and footer). Touch targets should be a minimum of 44px in both dimensions, spacing driven by `{spacing.md}`–`{spacing.lg}`. Navigation collapse and menu behavior are inferred conventions for e-commerce sites of this structure, not confirmed from captured markup.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS variables and a text excerpt only; no rendered layout, computed styles, or interaction states (hover, focus, open menu, cart drawer) were observed. Font files for 'PlatformFont' and 'PlatformBrandFont' are vendor-neutral placeholder names from the CSS build; actual typeface identity, availability, and licensing are unverified. Several palette entries (e.g., #4a4af4, #7f0180, #69cadd, #ba2d0d) appear in the supplied swatches but have no confirmed selector/role, so they were omitted from the semantic token set rather than guessed. The rounded-corner scale is proposed, since the only direct evidence is a `border-radius:0` reset on native form controls. All spacing values beyond the root `.25rem` unit, and all component-level padding/border assignments, are inferred design conventions for an automotive-accessories storefront, not measured from a live page.

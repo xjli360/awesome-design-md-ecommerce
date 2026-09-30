@@ -4,6 +4,10 @@ name: "StringWorks"
 source_url: "https://www.stringworks.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep forest green (#335522) anchors StringWorks — not the expected mahogany or rosin-brown of orchestral tradition, but a cool, botanical hue that reads as precision and growth rather than nostalgia. The brand pairs this primary with a warm gold accent (#a16a00) that catches the eye like a brass tuning peg catching stage light, used sparingly on price highlights and select CTAs. The canvas is a soft off-white (#f8f8f8) rather than pure white, giving the page the feel of aged manuscript paper rather than a sterile catalog. Typography runs Montserrat for display and Lato for body — a clean sans-serif stack that avoids the script or serif flourishes one might expect from a violin shop, signaling instead that StringWorks is a modern instrument maker, not a dusty atelier. Product cards use generous whitespace and a tight 2px hairline (#2c2c2c at reduced opacity) to frame instruments with the clarity of a museum vitrine. The navigation bar sits at 80px with a sticky backdrop, the logo centered, and category links in uppercase Montserrat at 12px — a quiet, confident layout that lets the instruments breathe. Buttons are pill-shaped (`{rounded.full}`) in the forest green with white text, and secondary actions appear as outlined pills with the green as stroke. The overall mood is serious but not severe: the green is alive, the gold is warm, and the off-white canvas keeps the experience from feeling cold. StringWorks trusts its product photography — high-resolution, full-bleed hero shots of violin scrolls and cello bouts — to do the emotional work, while the UI stays out of the way.
 
@@ -349,6 +353,13 @@ components:
 - Product cards in the grid collapse from 3-4 columns to 2 columns on tablet and 1 column on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

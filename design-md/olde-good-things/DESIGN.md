@@ -4,6 +4,10 @@ name: "Olde Good Things"
 source_url: "https://ogtstore.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Salvaged architectural elements don't photograph like new inventory — a run of pressed-tin ceiling or a cast-iron newel post carries the argument once the camera is close enough. Olde Good Things builds its interface around that reality: the canvas is warm plaster white (#f3f2f1), structural type sits in charcoal mortar (#4d4749), and the single voltage color is a struck-brick rust (#904b3c) found in oxidized iron and fired clay. It lands on every call-to-action and active state with the authority of a material fact rather than a brand decision.
 
@@ -374,6 +378,13 @@ components:
 - Footer column grid: 4 columns → 2 columns at 744px → 1 column at < 480px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

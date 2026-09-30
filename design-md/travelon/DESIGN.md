@@ -4,6 +4,10 @@ name: "Travelon"
 source_url: "https://travelonbags.com"
 captured_at: "2026-09-28T09:30:35.467647+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Travelon's storefront evidence points to a utilitarian, security-focused retail system built on a Bootstrap-derived token set. The root `:root` variables expose a muted primary (#696969), a yellow-green secondary/success pairing (#c4d600, #97d700), and standard Bootstrap state colors (info #17a2b8, warning #ffc107, danger #cc0000/#dc3545) alongside a neutral gray scale (#f8f9fa through #343a40) used for surfaces, borders, and body text (#212529 on #ffffff). The `.btn-primary` rule confirms the muted gray #696969 as the primary action color with white text, a deliberately understated choice suited to a practical travel-goods brand rather than a fashion label.
   Typography is inferred with caution: the global stylesheet imports Dosis via Google Fonts but applies the system sans-serif stack (-apple-system, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans) to body text by rule. Montserrat and Roboto appear in the font list without confirmed selector usage, so headline typography here treats Dosis as a plausible display candidate (inferred role, unverified weight availability) while body/UI text follows the confirmed system stack. This interpretation favors clear hierarchy, generous touch targets, and security/trust badges (RFID, anti-theft) as first-class UI elements, reflecting the site's heavy emphasis on protective product features.
@@ -151,6 +155,13 @@ This is a recommendation, not measured site behavior; no responsive CSS rules or
 Touch targets for buttons and nav items should be at least 44×44px (proposed, not observed). Mega-menu category lists should collapse into an accordion or drawer below `md` given the large number of listed subcategories.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS variables, a single global stylesheet excerpt, and page text — no rendered layout, computed styles, or interaction states were observed. Dosis is imported via `@import` but no selector confirms its applied usage; its role as display typography is inferred, not verified, and font weight/style availability from Google Fonts was not checked. Montserrat and Roboto appear only in the supplied font-family list without a matching selector, so their assigned roles (title-md, unused body fallback) are speculative. The `rounded.sm` (4px) token approximates but does not exactly match the observed `.btn` radius of 0.1875rem (3px). Hero, footer, product-card, nav-bar, search, and badge components are structurally proposed from page-text content and generic e-commerce/Bootstrap conventions, not from confirmed layout CSS. No hover, focus, active, or error states were present in the supplied rules beyond `.btn:hover` and table hover/striping, so most interactive states above are proposed. Mobile menu behavior, breakpoint-specific layout shifts, and actual grid structure were not observed and are recommendations only. No licensing or self-hosting confirmation exists for Dosis or Montserrat.

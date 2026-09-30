@@ -4,6 +4,10 @@ name: "Foundrae"
 source_url: "https://foundrae.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Coral fire (#ff7f50) interrupts an otherwise near-monochrome hierarchy — charcoal bodies (#1c1c1c), near-void backfields (#0a0e10), and ash midtones (#808080) — marking the single CTA pulse in a layout otherwise organized around restraint. Foundrae's digital environment is built around the medallion: a disc, a symbol, a weight felt in the hand. The editorial engine runs on essentially four tones — the near-black ground, a medium gray for secondary text, an olive-stone mid (#757562) that reads like aged metal in certain light, and a pale ash (#dedede) used for hairlines so thin they suggest engraved lines rather than dividers.
 
@@ -337,6 +341,13 @@ components:
 - PDP image gallery collapses from a multi-thumbnail sidebar view to a swipeable single-image carousel
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Daisy London"
 source_url: "https://www.daisyjewellery.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Five tones of silver — an #f2f2f2 canvas running through #d6d6d6, #aaaaaa, #818181, to #1f1f1f ink — orbit a single chromatic note: #869791, a chalky blue-sage that reads like oxidized sterling in afternoon light, worn smooth. Where most demi-fine brands reach for cream or blush to signal warmth, Daisy London strips the field to near-monochrome and trusts product photography to carry the entire color story — the daisy of the name is vivid yellow in nature, silver-gray in execution, and that paradox is deliberate: the flower signals everyday ease, the London gray signals restraint. Type architecture runs on two poles: freight-display-pro at large sizes and light weights (300–400) handles the editorial register, its open apertures giving collection names room to breathe; canada-type-gibson or a comparable humanist grotesque handles navigation, labels, and cart UI in fine tracking and controlled leading — the contrast between the serif's organic curves and the grotesque's geometric precision mirrors the brand's blending of botanical charm motifs with clean London minimalism. Interaction chrome stays deliberately quiet throughout: buttons prefer {rounded.sm} corners, inputs sit flush with {colors.hairline} borders, and the rare {rounded.full} pill surfaces only on meaning badges and promotional tags rather than on primary CTAs. Hover states resolve as a measured shift to {colors.primary-active} rather than a color jump or shadow lift — the brand communicates confidence through stillness. Product cards float on {colors.surface-soft} in a tight 4:5 ratio with {spacing.sm} internal breathing room, each charm or ring photographed large enough to show metal texture. The "With Meaning" brand posture surfaces not as marketing copy but as interface logic: every piece carries a semantic label — zodiac, birthstone, sentiment — set in {typography.caption} beneath the product name, treating each SKU as a personally meaningful object rather than a catalogue entry.
 
@@ -311,6 +315,13 @@ components:
 - Footer 4-column layout collapses to single-column stacked accordion on mobile; newsletter sign-up promotes to top of footer stack
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

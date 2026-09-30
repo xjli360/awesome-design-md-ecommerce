@@ -4,6 +4,10 @@ name: "Agmes"
 source_url: "https://agmesnyc.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The palette runs from #121212 to #fafafa without a single chromatic accent — a total commitment that strips the Shopify canvas to a gallery wall so that cast bronze, open-form rings, and hand-formed sculpture carry all the color themselves. AGMES NYC presents its objects the way a museum presents artifacts: generous whitespace, type that recedes rather than competes, and product photography scaled to command the viewport. Raleway at weight 300 with wide letter-spacing echoes the open negative space inside the brand's sculptural forms — headlines breathe at roughly 0.08em tracking, letting each letterform stand as an individual element rather than a compressed block. The monospace stack surfaces in secondary callouts (material provenance, edition notes), borrowing the precision of a workshop specification sheet and setting it quietly against editorial softness. Buttons sit at `{rounded.none}` — zero radius, no softening conceit — matching the rectilinear rigor of the jewelry. Product cards present on near-white (#fafafa) ground separated by hairline borders in #dedede, just enough to register edges without introducing noise. Navigation renders in small-caps Raleway with extended tracking, keeping the header bar architecturally thin and undemanding. The mid-gray spectrum (#555555 to #777777) handles secondary prose and captions, graduating naturally between near-black ink and pale canvas without ever reaching for an additional hue. Price and material labels use the monospace stack at 11px, signaling workshop precision inside an otherwise editorial layout. This monochromatic discipline — never once broken by a warmth or color flourish — reads as confidence rather than limitation. AGMES lets the objects earn all attention while the interface becomes invisible.
 
@@ -306,6 +310,14 @@ components:
 - Newsletter banner row layout (headline + input side-by-side) stacks vertically at < 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

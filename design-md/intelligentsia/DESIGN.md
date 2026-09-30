@@ -4,6 +4,10 @@ name: "Intelligentsia"
 source_url: "https://intelligentsia.com"
 captured_at: "2026-09-29T04:00:30.301967+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Intelligentsia's storefront CSS shows a warm, editorial palette built around a near-black ink (#2e2925) for body copy and default button fills, a saturated red (#d42927) reserved for primary calls-to-action, and soft cream/parchment surfaces (#faf6f2, #fcf4ed) that suggest a paper-like, coffee-bag aesthetic against a plain white canvas. Typography splits cleanly by role: rotunda-variable (with sans-serif fallback) sets running body text, while urw-din (with sans-serif fallback) drives headings and all button labels, giving a condensed, confident display voice against a humanist reading face. Muted taupe tones (#7c6e65, #92867e) and a light hairline gray (#e0e0e0) appear in disabled and secondary-label states, indicating a restrained secondary palette rather than bright accents. Other palette values (yellows, teals, deep reds) appear in the extracted swatch list but have no confirmed selector role in the supplied CSS, so they are treated here only as optional, inferred accent candidates for badges or seasonal callouts. This interpretation extends the two confirmed button treatments (solid ink, solid red) into a fuller system — cards, nav, forms, hero, footer — using only the observed hex values and font stacks, with layout, spacing, and radii proposed rather than measured.
 
@@ -132,6 +136,13 @@ The following breakpoint table is a recommendation only; no responsive CSS or vi
 Touch targets on mobile should be at least 44px tall, matching the padding proposed for `button-primary`/`button-secondary`. Cart and search overlays (referenced in the page text as "Your Cart," "Search coffee, etc…") are assumed to render as full-screen or slide-in panels on small viewports, but this is not confirmed by any supplied layout CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is built from a static CSS/text extraction only; no rendered page, computed layout, or interaction states were observed. Several palette colors (e.g. `#ec4442`, `#cc2027`, `#f9bf3a`, `#1990c6`, `#2e8b57`) appear in the raw swatch list without an attached selector, so any use of them here (such as `accent-warm`) is explicitly inferred, not confirmed. Font availability, licensing, and variable-font axes for `rotunda-variable`, `urw-din`, `alternate-gothic-atf`, and `mixta-pro` were not verified — they are third-party/foundry fonts referenced by class names only. All spacing values, border radii, breakpoints, and component paddings are proposed design defaults, not measurements taken from the live site. Mobile navigation, cart-drawer, and search-overlay interaction patterns are named in the extracted page text but their visual/motion behavior was not observed. No product photography, imagery treatment, or grid measurements were available in the supplied evidence.

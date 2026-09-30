@@ -4,6 +4,10 @@ name: "noblechairs"
 source_url: "https://www.noblechairs.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A German engineering ethos poured into a gaming chair — the brand's visual system is built around a deep, commanding #141414 ink that anchors every product page, while #003399 provides a precise, authoritative accent that appears in logo marks, spec badges, and select navigation elements. The palette is deliberately restrained: a near-black canvas (#141414) against stark white (#ffffff) creates maximum contrast for product photography, with #cbccce and #dfe0e1 serving as subtle surface tones for cards and panels. The extracted #198754 (a muted green) and #cc1420 (a controlled red) appear in status indicators and warranty badges, not as brand colors — they're functional signals within a system that prioritizes clarity over decoration. Montserrat runs throughout at moderate weights (400–600), never exceeding 700, keeping the typography clean and legible against the dark backdrop. Buttons carry {rounded.sm} corners — a precise, industrial radius that mirrors the chair's aluminum base and armrest details. The hero section uses full-bleed product imagery with minimal overlay text, trusting the chair's silhouette and the #141414 field to create drama. The overall feel is that of a premium automotive cockpit translated into a digital storefront: dark, focused, and built around the object itself.
 
@@ -414,6 +418,13 @@ components:
 - Secondary navigation (sub-categories) collapses to a select dropdown below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

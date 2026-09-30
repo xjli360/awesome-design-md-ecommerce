@@ -4,6 +4,10 @@ name: "Burlap & Barrel"
 source_url: "https://burlapandbarrel.com"
 captured_at: "2026-09-28T04:32:13.044446+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Burlap & Barrel positions itself as a premium single-origin spice brand, and the
   extracted evidence supports a warm, editorial identity built on a deep maroon
@@ -160,6 +164,14 @@ components:
 Touch targets should measure at least 44×44px for buttons and nav items; search and form inputs should retain a minimum 40px height. This table and its guidance are recommendations for implementation and are **not** derived from measured responsive behavior of the live site.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is built from static CSS/text extraction only; no rendered screenshots, computed styles, or DOM layout were observed, so actual spacing, grid structure, and breakpoints are proposed, not measured. Several CSS declarations in the source evidence contained empty or templated values (e.g. blank `color:`/`background-color:` on `.dsgn-pck__button`, and an incomplete `border-radius: px;`), meaning real button colors and corner radii could not be confirmed and are treated as inferred design choices. Semantic color-to-role mapping (e.g. which hex is "primary" vs. accent) is inferred from frequency and context, not from labeled design tokens. The "Monthoers" font family group appears in the CSS but its intended usage, rendering, and licensing status are unverified and are excluded from the proposed type scale. "Recoleta DEMO" is explicitly a demo build and its production licensing is unconfirmed. No interaction states (hover/focus/active beyond the one observed slideshow-button hover), mobile menu behavior, or cart/checkout flows were observed. Social-icon brand colors (e.g. Facebook blue, Instagram gradient) present in the raw palette were excluded from design tokens as third-party icon colors rather than brand palette.

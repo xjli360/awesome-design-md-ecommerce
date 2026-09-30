@@ -4,6 +4,10 @@ name: "Society of Wanderers"
 source_url: "https://societyofwanderers.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Society of Wanderers is an Australian-born decor brand that translates the quiet romance of French flax into a tactile, sun-bleached world. The palette is grounded in a soft, almost dusty neutrality — `#585458` (a warm charcoal) and `#e6e5e6` (a near-white stone) form the backbone, while `#eee3cc` (a pale, aged parchment) and `#b08770` (a sun-baked terracotta) introduce the warmth of natural linen. This is a brand that trusts texture over flash; the signature `{colors.primary}` is a muted `#585458`, not a saturated hue, and primary CTAs use `{colors.primary}` against `{colors.on-primary}` (`#ffffff`) for a quiet, confident contrast. Accents of `#4469af` (a faded indigo) and `#c8232c` (a restrained poppy) appear sparingly — on sale badges or social icons — never competing with the organic calm. Typography is anchored by OchreRegular, a hand-drawn serif that feels like ink on laid paper, paired with Poppins for clean, modern contrast. The brand’s design moves are deliberate: generous `{spacing.section}` (64px) between product rows, `{rounded.sm}` (8px) on buttons that feel soft but not pill-like, and `{rounded.md}` (12px) on product cards that echo the gentle drape of linen. There is no hard geometry — every corner is slightly eased, every shadow is diffuse. The result is a digital space that feels like a sunlit room: unhurried, textural, and deeply residential.
 
@@ -443,6 +447,13 @@ components:
 - Accordion sections in product descriptions remain collapsed by default on all sizes
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

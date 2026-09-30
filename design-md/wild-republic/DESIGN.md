@@ -4,6 +4,10 @@ name: "Wild Republic"
 source_url: "https://www.wildrepublic.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A plush-toy ecosystem built on a muted charcoal skeleton (#414145) that lets every animal's personality — the lime beak of a toucan, the orange crest of a cockatiel — pop without competition. The brand's true voltage is a fresh, almost-forest green (#0d944b) that appears on primary buttons, "Add to Cart" calls, and the site's single persistent accent; it reads less like a corporate green and more like the chlorophyll flash of a rainforest canopy. A secondary orange (#f26522) and a warm red (#d23827) handle sale badges and clearance markers, while a deep charcoal (#2d2d2d) and a softer graphite (#4f4f4d) build hierarchy in body text and secondary labels. The canvas is a cool off-white (#f7f7f7) — not pure white — which softens the browsing experience for a catalog of hundreds of plush animals, each photographed on white backgrounds that float against the gray. Rounded corners are restrained: product cards use a gentle {rounded.sm}, buttons use {rounded.md}, and no element goes fully pill-shaped except the search bar, which reads as a friendly invitation. Typography runs system-native (-apple-system, Helvetica Neue, Roboto, sans-serif) at modest weights — no brand-owned typeface, no display-heavy headlines; the animals do the heavy lifting. The nav bar is a charcoal strip (#414145) with white text, a rare dark header in a category that usually favors white navs, and it signals a brand that's confident enough to let its product be the light.
 
@@ -453,6 +457,13 @@ components:
 - The hero banner reduces its headline to 24px and stacks the CTA below the text on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Fy!"
 source_url: "https://www.iamfy.co"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The checkout button is mint — not seafoam or sage, but a saturated screen-glow mint (#00e6aa) that reads from across a room, the clearest signal that Fy! is an art-discovery platform first and a retail shop second. That primary CTA color sits against near-black (#121212) in charged moments and retreats to white everywhere else, creating a binary contrast rather than the layered neutral ramps most poster shops reach for. Playfair Display carries every editorial moment — collection headlines, artist names, feature callouts — at weights that reference broadsheet culture without settling into pastiche. Geist, the clean geometric sans designed for developer tooling, handles the platform layer: nav links, price tags, filter chips, add-to-cart labels. The pairing is purposefully discordant — one typeface traces 18th-century punch-cutting traditions; the other emerged from a 2023 GitHub design system. Between them they articulate Fy!'s core pitch: independent artists, algorithmically surfaced, delivered as product.
   Accent colors behave as semantic signals rather than decoration. Alert red (#eb0004) marks sale states and error messages; amber (#ffb500) marks featured or curated picks, adding warmth only where editorial emphasis demands it. The ambient palette stays cool and nearly monochrome — mid gray (#dedede) for hairlines, light gray (#c8c8c8) for disabled states and image placeholders. Product cards sit on a white surface with only a soft gray border at {rounded.sm}, keeping visual weight on the artwork rather than the container. The global search bar extends pill-shaped to {rounded.full}, signaling discovery mode; primary action buttons use {rounded.md} to feel purposeful without severity. Spacing is generous inside product pages — large image crops, breathing room between the frame selector and the buy button — then tightens to a dense grid on collection pages where three or four columns of prints compete for attention. Geist Mono appears on price displays and format labels, adding a specification-like precision that reinforces the idea that choosing a frame size is a considered decision rather than an impulse.
@@ -361,6 +365,13 @@ components:
 - Hero: Playfair headline drops from {typography.display-xl} (48px) to {typography.display-sm} (24px) on mobile; CTA button goes full-width below 480px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

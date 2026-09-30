@@ -4,6 +4,10 @@ name: "Liberty Drums"
 source_url: "https://www.libertydrums.com"
 captured_at: "2026-09-29T03:54:19.531599+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Liberty Drums presents as a dark-on-white, craft-forward storefront for a UK
   boutique drum manufacturer. The confirmed CSS shows a near-black ink
@@ -168,6 +172,13 @@ Recommended breakpoints (not measured from live site):
 Touch targets should be at least 44×44px for buttons and nav items. The page text includes "Close menu" and "Back to site navigation," suggesting a collapsible/drawer mobile menu pattern exists, but its exact behavior, animation and breakpoint were not observed and are inferred solely from copy content. This section is a recommendation only, not a measured description of site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

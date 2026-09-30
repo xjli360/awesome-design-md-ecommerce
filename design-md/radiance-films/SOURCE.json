@@ -54,19 +54,6 @@
     }
   ],
   "colors": {
-    "#ffffff": {
-      "count": 14,
-      "sources": [
-        "https://www.radiancefilms.co.uk/",
-        "https://www.radiancefilms.co.uk/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
-    "#888888": {
-      "count": 5,
-      "sources": [
-        "https://www.radiancefilms.co.uk/"
-      ]
-    },
     "#fcfcfc": {
       "count": 2,
       "sources": [
@@ -79,13 +66,19 @@
         "https://www.radiancefilms.co.uk/"
       ]
     },
-    "#f5f5f5": {
-      "count": 2,
+    "#ffffff": {
+      "count": 14,
       "sources": [
         "https://www.radiancefilms.co.uk/"
       ]
     },
-    "#cccccc": {
+    "#888888": {
+      "count": 5,
+      "sources": [
+        "https://www.radiancefilms.co.uk/"
+      ]
+    },
+    "#f5f5f5": {
       "count": 2,
       "sources": [
         "https://www.radiancefilms.co.uk/"
@@ -103,141 +96,14 @@
         "https://www.radiancefilms.co.uk/"
       ]
     },
-    "#dc3545": {
-      "count": 2,
-      "sources": [
-        "https://www.radiancefilms.co.uk/"
-      ]
-    },
-    "#dddddd": {
-      "count": 2,
-      "sources": [
-        "https://www.radiancefilms.co.uk/"
-      ]
-    },
-    "#007bff": {
-      "count": 2,
-      "sources": [
-        "https://www.radiancefilms.co.uk/"
-      ]
-    },
-    "#000000": {
-      "count": 2,
-      "sources": [
-        "https://www.radiancefilms.co.uk/",
-        "https://www.radiancefilms.co.uk/cdn/shop/t/3/assets/base.css?v=88290808517547527771665656566"
-      ]
-    },
-    "#00000000": {
-      "count": 2,
-      "sources": [
-        "https://www.radiancefilms.co.uk/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
-    "#dedede": {
-      "count": 2,
-      "sources": [
-        "https://www.radiancefilms.co.uk/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
-    "#ebeced": {
-      "count": 1,
-      "sources": [
-        "https://www.radiancefilms.co.uk/"
-      ]
-    },
-    "#0071ce": {
-      "count": 1,
-      "sources": [
-        "https://www.radiancefilms.co.uk/"
-      ]
-    },
-    "#1c1c1c": {
-      "count": 1,
-      "sources": [
-        "https://www.radiancefilms.co.uk/"
-      ]
-    },
-    "#232323": {
-      "count": 1,
-      "sources": [
-        "https://www.radiancefilms.co.uk/"
-      ]
-    },
-    "#eb001b": {
-      "count": 1,
-      "sources": [
-        "https://www.radiancefilms.co.uk/"
-      ]
-    },
-    "#f79e1b": {
-      "count": 1,
-      "sources": [
-        "https://www.radiancefilms.co.uk/"
-      ]
-    },
-    "#ff5f00": {
-      "count": 1,
-      "sources": [
-        "https://www.radiancefilms.co.uk/"
-      ]
-    },
-    "#142fbd": {
-      "count": 1,
-      "sources": [
-        "https://www.radiancefilms.co.uk/"
-      ]
-    },
-    "#1532cb": {
-      "count": 1,
-      "sources": [
-        "https://www.radiancefilms.co.uk/"
-      ]
-    },
-    "#fefefe": {
-      "count": 1,
-      "sources": [
-        "https://www.radiancefilms.co.uk/"
-      ]
-    },
-    "#5cb75c": {
-      "count": 1,
-      "sources": [
-        "https://www.radiancefilms.co.uk/"
-      ]
-    },
-    "#333333": {
-      "count": 1,
-      "sources": [
-        "https://www.radiancefilms.co.uk/"
-      ]
-    },
     "#666666": {
       "count": 1,
       "sources": [
         "https://www.radiancefilms.co.uk/"
       ]
     },
-    "#e0e0e0": {
-      "count": 1,
-      "sources": [
-        "https://www.radiancefilms.co.uk/"
-      ]
-    },
-    "#707070": {
-      "count": 1,
-      "sources": [
-        "https://www.radiancefilms.co.uk/"
-      ]
-    },
-    "#68b562": {
-      "count": 1,
-      "sources": [
-        "https://www.radiancefilms.co.uk/"
-      ]
-    },
-    "#00800017": {
-      "count": 1,
+    "#dddddd": {
+      "count": 2,
       "sources": [
         "https://www.radiancefilms.co.uk/"
       ]
@@ -259,19 +125,22 @@
       "sources": [
         "https://www.radiancefilms.co.uk/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
       ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.radiancefilms.co.uk/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
     }
   },
   "font_families": {
-    "Josefin Sans": [
-      "https://www.radiancefilms.co.uk/"
-    ],
     "Roboto": [
       "https://www.radiancefilms.co.uk/"
     ],
-    "object-fit: contain": [
-      "https://www.radiancefilms.co.uk/cdn/shop/t/3/assets/component-predictive-search.css?v=83512081251802922551665656564"
-    ],
     "sans-serif": [
+      "https://www.radiancefilms.co.uk/"
+    ],
+    "Josefin Sans": [
       "https://www.radiancefilms.co.uk/"
     ]
   },
@@ -433,10 +302,11 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Radiance Films :: Classic, Cult and Arthouse films",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-300",
   "tokens": {
     "colors.primary": {
+      "value": "#1990c6",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -444,6 +314,7 @@
       ]
     },
     "colors.primary-hover": {
+      "value": "#136f99",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -451,6 +322,7 @@
       ]
     },
     "colors.ink": {
+      "value": "#01090e",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -458,14 +330,15 @@
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.radiancefilms.co.uk/",
-        "https://www.radiancefilms.co.uk/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+        "https://www.radiancefilms.co.uk/"
       ]
     },
     "colors.body": {
+      "value": "#212b36",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -473,6 +346,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#666666",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -480,6 +354,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#dddddd",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -487,6 +362,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#f5f5f5",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -494,6 +370,7 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#fcfcfc",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -501,14 +378,15 @@
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://www.radiancefilms.co.uk/",
-        "https://www.radiancefilms.co.uk/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+        "https://www.radiancefilms.co.uk/"
       ]
     },
     "colors.border-soft": {
+      "value": "#e4e4e4",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -516,6 +394,7 @@
       ]
     },
     "colors.skeleton": {
+      "value": "#dedede",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -523,6 +402,7 @@
       ]
     },
     "colors.ink-deep": {
+      "value": "#121212",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -530,6 +410,7 @@
       ]
     },
     "colors.muted-strong": {
+      "value": "#888888",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -537,110 +418,386 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Josefin Sans', sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "'Josefin Sans', sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "'Josefin Sans', sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 500,
+        "lineHeight": 1.25,
+        "letterSpacing": "0.02rem"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "'Roboto', sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0.06rem"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Roboto', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0.04rem"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "'Roboto', sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.06rem"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "'Roboto', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 500,
+        "lineHeight": 1,
+        "letterSpacing": "0.06rem"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "borderColor": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.border-soft}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.md}",
+        "titleTypography": "{typography.body-sm}",
+        "priceTypography": "{typography.body-md}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink-deep}",
+        "textColor": "{colors.muted-strong}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.edition-tag": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#fcfcfc": {
+        "selector": ":root",
+        "property": "--payment-terms-background-color",
+        "declaration": "#fcfcfc",
+        "url": "https://www.radiancefilms.co.uk/",
+        "snapshot": "homepage.html",
+        "sha256": "abf1e58ce2f5778d631b832f02a9dd9da527e93932b77778621bfc66c13a5ca5"
+      },
+      "#01090e": {
+        "selector": ":root",
+        "property": "--gradient-base-accent-1",
+        "declaration": "#01090e",
+        "url": "https://www.radiancefilms.co.uk/",
+        "snapshot": "homepage.html",
+        "sha256": "abf1e58ce2f5778d631b832f02a9dd9da527e93932b77778621bfc66c13a5ca5"
+      },
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "fill",
+        "declaration": "white",
+        "url": "https://www.radiancefilms.co.uk/",
+        "snapshot": "homepage.html",
+        "sha256": "abf1e58ce2f5778d631b832f02a9dd9da527e93932b77778621bfc66c13a5ca5"
+      },
+      "#888888": {
+        "selector": ".preorder-badge.ribbon span::before",
+        "property": "border-left",
+        "declaration": "3px solid #888888",
+        "url": "https://www.radiancefilms.co.uk/",
+        "snapshot": "homepage.html",
+        "sha256": "abf1e58ce2f5778d631b832f02a9dd9da527e93932b77778621bfc66c13a5ca5"
+      },
+      "#f5f5f5": {
+        "selector": "progress::-webkit-progress-bar",
+        "property": "background-color",
+        "declaration": "#f5f5f5",
+        "url": "https://www.radiancefilms.co.uk/",
+        "snapshot": "homepage.html",
+        "sha256": "abf1e58ce2f5778d631b832f02a9dd9da527e93932b77778621bfc66c13a5ca5"
+      },
+      "#e4e4e4": {
+        "selector": "#notify-stock-back-modal .email-form",
+        "property": "border-top",
+        "declaration": "1px solid #e4e4e4",
+        "url": "https://www.radiancefilms.co.uk/",
+        "snapshot": "homepage.html",
+        "sha256": "abf1e58ce2f5778d631b832f02a9dd9da527e93932b77778621bfc66c13a5ca5"
+      },
+      "#212b36": {
+        "selector": "#notify-stock-back-modal .email-form input:focus",
+        "property": "border-color",
+        "declaration": "#212b36",
+        "url": "https://www.radiancefilms.co.uk/",
+        "snapshot": "homepage.html",
+        "sha256": "abf1e58ce2f5778d631b832f02a9dd9da527e93932b77778621bfc66c13a5ca5"
+      },
+      "#666666": {
+        "selector": ".c-widget .sd_payment_type [type=\"radio\"]:checked+label, \n.c-widget .sd_payment_type [type=\"radio\"]:not(:checked)+label",
+        "property": "color",
+        "declaration": "#666",
+        "url": "https://www.radiancefilms.co.uk/",
+        "snapshot": "homepage.html",
+        "sha256": "abf1e58ce2f5778d631b832f02a9dd9da527e93932b77778621bfc66c13a5ca5"
+      },
+      "#dddddd": {
+        "selector": ".c-widget .sd_payment_type [type=\"radio\"]:checked+label:before, \n.c-widget .sd_payment_type [type=\"radio\"]:not(:checked)+label:before",
+        "property": "border",
+        "declaration": "1px solid #ddd",
+        "url": "https://www.radiancefilms.co.uk/",
+        "snapshot": "homepage.html",
+        "sha256": "abf1e58ce2f5778d631b832f02a9dd9da527e93932b77778621bfc66c13a5ca5"
+      },
+      "#1990c6": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#1990c6",
+        "url": "https://www.radiancefilms.co.uk/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#136f99": {
+        "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+        "property": "background-color",
+        "declaration": "#136f99",
+        "url": "https://www.radiancefilms.co.uk/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#121212": {
+        "selector": ".shopify-payment-button__button .path",
+        "property": "stroke",
+        "declaration": "#121212",
+        "url": "https://www.radiancefilms.co.uk/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://www.radiancefilms.co.uk/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      }
+    },
+    "font_families": {
+      "Roboto": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Roboto",
+        "url": "https://www.radiancefilms.co.uk/",
+        "snapshot": "homepage.html",
+        "sha256": "abf1e58ce2f5778d631b832f02a9dd9da527e93932b77778621bfc66c13a5ca5"
+      },
+      "sans-serif": {
+        "selector": ":root",
+        "property": "--font-body-family",
+        "declaration": "Roboto, sans-serif",
+        "url": "https://www.radiancefilms.co.uk/",
+        "snapshot": "homepage.html",
+        "sha256": "abf1e58ce2f5778d631b832f02a9dd9da527e93932b77778621bfc66c13a5ca5"
+      },
+      "Josefin Sans": {
+        "selector": "#notify-stock-back-modal .bg-black,\n.ordersfy-modal",
+        "property": "font-family",
+        "declaration": "\"Josefin Sans\", sans-serif",
+        "url": "https://www.radiancefilms.co.uk/",
+        "snapshot": "homepage.html",
+        "sha256": "abf1e58ce2f5778d631b832f02a9dd9da527e93932b77778621bfc66c13a5ca5"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

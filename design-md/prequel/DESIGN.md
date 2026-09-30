@@ -4,6 +4,10 @@ name: "Prequel"
 source_url: "https://prequelskin.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Prequel is a modern dermatologist-developed skincare brand that feels like a clean, clinical consultation translated into a warm, approachable digital experience. The brand's visual identity is anchored on a deep teal `#00303c` — a color that reads as both medical authority and spa-like calm — which appears across the primary navigation, key CTAs, and the site's `theme-color` meta tag. This is balanced against a soft, almost powdery blue `#d1e2ef` that surfaces in backgrounds and secondary elements, evoking the clean, sterile feel of a dermatologist's office without being cold. The canvas is a bright `#f2f2f2` that shifts to a near-white `#fefefe` for product cards and content areas, creating a layered, airy hierarchy. A subtle but distinctive accent palette emerges in the form of a pale butter `#fffee1` used for highlights and special offers, and a muted sage `#4d6e77` that provides a secondary text and icon color. The brand's typography relies on a mix of `din-2014` for clean, geometric headlines that convey precision and `montserrat` for body text, lending a modern, slightly European sensibility. Signature design moves include generous use of `{rounded.full}` for pill-shaped buttons and search bars, soft `{rounded.md}` for product cards, and a consistent `{spacing.lg}` padding rhythm that gives the interface room to breathe. The overall feel is one of informed, gentle authority — a brand that trusts its clinical credentials but communicates through soft corners, muted tones, and a restrained, almost editorial layout. Error states use a warm red `#721c24` on a `#f8d7da` background, while success and informational cues lean into the primary teal and a brighter `#00aad5`, ensuring that feedback is clear but never jarring. The brand's voice is educational and reassuring, with a visual system that supports long-form ingredient storytelling and before-and-after photography without ever feeling cluttered or promotional.
 
@@ -355,6 +359,13 @@ components:
 - Hero sections reduce their vertical padding on mobile to avoid excessive scrolling.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

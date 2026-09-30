@@ -4,6 +4,10 @@ name: "Mondo"
 source_url: "https://mondoshop.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A collector's fever dream rendered in a red-and-blue voltage that feels like a movie poster come to life. The primary red `#d63021` — a stop-sign, blood-drop, candy-apple red — is the brand's nervous system, appearing on every add-to-cart button, every badge, every sale flag. It's paired with a deep, almost cobalt blue `#0073ce` that reads as the cool counterpoint: think midnight sky behind a neon sign. The canvas is a clean `#ffffff` with hairline strokes in `#dedede` and `#dadada` that carve out product cards and grid sections with surgical precision. Type runs Poppins at modest weights — 400 for body, 600 for titles — giving the whole system a geometric, slightly retro-futuristic feel that matches the action-figure and poster art. There is no softness here: corners are either razor-sharp (`{rounded.none}`) or fully pill-shaped (`{rounded.full}`), with nothing in between. The `#121212` ink anchors text and icons, while `#4d4d4d` muted handles secondary copy. The brand trusts its product photography — high-contrast, saturated, often against black or gradient backdrops — to do the heavy lifting, letting the UI stay out of the way. Buttons are chunky and confident, with 48px heights and 16px horizontal padding that invite the click. The nav bar is a simple white strip with the Mondo logotype centered, flanked by dropdown menus and a cart icon — no search bar visible until you click the magnifying glass. This is a system built for the scroll-and-scan behavior of collectors hunting for limited drops: fast, visual, and unapologetically loud.
 
@@ -517,6 +521,13 @@ components:
 - Search overlay transitions from a compact panel on desktop to a full-screen modal on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

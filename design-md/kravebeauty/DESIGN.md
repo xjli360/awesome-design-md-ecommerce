@@ -4,6 +4,10 @@ name: "KraveBeauty"
 source_url: "https://kravebeauty.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   KraveBeauty is a skincare brand that lives in the tension between gentle efficacy and radical transparency, a philosophy they call #PressReset. The palette is anchored by a soft, almost herbal green `#aaccaa` that feels like a breath of fresh air, used as a primary accent against a clean, off-white canvas of `#f4f4f6`. This is not a brand that shouts; its energy comes from unexpected, playful jolts of neon—a lime green `#c1d22f` and a highlighter-yellow `#eaf586`—that appear in badges, icons, and interactive elements, suggesting a youthful, optimistic spirit. The typography leans on the clean, geometric lines of `Inter` and `Karla`, creating a readable, approachable interface that feels more like a trusted friend's advice than a clinical directive. Deep, muted navies like `#272d45` and `#2c3e50` provide grounding for headers and footers, while a spectrum of purples—from the soft `#c8c2ff` to the electric `#6c5cff` and deep `#1300c2`—adds a layer of digital-native, almost playful sophistication to buttons and links. The overall mood is that of a well-lit, minimalist studio: clean, honest, and quietly confident, with pops of color that reward exploration. Rounded corners are generous but not pillowy, with `{rounded.md}` at 12px for cards and `{rounded.sm}` at 8px for buttons, creating a tactile, friendly feel without sacrificing the brand's clean, editorial edge.
 
@@ -313,6 +317,13 @@ components:
 - Product image galleries collapse from a row of thumbnails to a single swipeable carousel on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

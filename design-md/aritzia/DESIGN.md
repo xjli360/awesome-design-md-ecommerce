@@ -4,6 +4,10 @@ name: "Aritzia"
 source_url: "https://aritzia.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Aritzia's digital storefront operates as a precision instrument for restraint — the extracted palette collapses to a single non-white signal, #313131, a near-charcoal positioned not at ink-black nor at neutral gray but in the measured gap between them, a zone where structural chrome and product copy absorb into full-bleed photography without competing for hierarchy. No badge burst, no promotional sticker, no color accent interrupts the product grid; instead the brand generates desire through white space and sequential exposure to its house of distinct labels — Wilfred, TNA, Sunday Best, Contoyou, Denim Forum — each surfaced through shared navigation architecture but given its own editorial register. Uppercase compressed tracking on category links and sub-brand identifiers creates a consistent voice across the header, one that reads as fashion-magazine masthead rather than retail navigation. Product cards present the garment alone at large scale, with sub-brand attribution in a small uppercase label below the image and price flush to the left — no star ratings, no review counts, no urgency timer polluting the editorial plane. Buttons are either fully dark or bare outlines, never rounded to pill shape; the brand's geometry skews toward the architectural, with sharp or nearly-sharp corners (`{rounded.none}`) on all interactive surfaces, maintaining tension between minimal-luxury apparel and functional e-commerce utility. The checkout and product-detail flows inherit this flatness, with form inputs carrying hairline `{colors.hairline}` borders and no fill tint, so the white canvas dominates every state. Typography — likely a curated expanded geometric sans-serif — uses modest weight contrasts, with display copy set at weight 400–500, preferring scale and letter-spacing over bold declarations. Responsive behavior preserves editorial hierarchy down to mobile with two-column product grids and a full-viewport drawer that exposes the house-brand taxonomy without truncation.
 
@@ -381,6 +385,14 @@ components:
 - Footer columns reflow to 2-column grid on tablet, single column on mobile with accordions for each section
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

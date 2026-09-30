@@ -4,6 +4,10 @@ name: "First Lite"
 source_url: "https://www.firstlite.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A backcountry performance system built on a near-black canvas (#141414) and a single, unmistakable voltage of burnt orange (#ff6319) that fires every primary CTA, add-to-cart button, and category badge. The palette is deliberately narrow — deep charcoal (#1a1a1a) and true black (#121212) for body text and structural elements, a cool mid-gray (#888888) for secondary information, and a warm off-white (#f9fafb) for surface cards that reads as snow light rather than sterile white. Heron Sans Condensed carries the brand's voice across every weight from Light to Bold Italic, its compressed letterforms evoking the tight, efficient packing of a hunting pack; Archivo Narrow appears as a secondary sans for dense product specs and filter labels. The system uses generous rounded corners at {rounded.lg} (20px) on product cards and {rounded.full} on the persistent search orb, but keeps navigation and text inputs at {rounded.sm} (8px) — a distinction that reads as "approachable but not soft." The signature design move is the "thermal" badge: a small, pill-shaped label in the brand orange with white text that sits on the top-left corner of product photography, mimicking the heat-signature patches on high-end merino base layers. Every product page uses a full-bleed hero image with a dark gradient scrim (#141414 at 60%) and the product name set in Heron Sans Cond Bold at 28px, creating a silhouette effect that prioritizes the garment's form over fabric detail. The checkout flow strips all chrome — no top nav, no footer — leaving only the orange CTA against the charcoal canvas, a moment of pure conversion focus.
 
@@ -403,6 +407,13 @@ components:
 - Accordion sections (product details, shipping info) are collapsed by default on mobile, expanded on desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Ganni"
 source_url: "https://ganni.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Three navy depths — #28356a, #22284f, #15195a — stack in GANNI's extracted palette like progressive denim washes, a deliberate chromatic build that anchors every call-to-action and navigation element against a warm, sand-toned field. A taupe (#cac3bd) leads the extraction in visual weight, materializing at borders, divider lines, and skeletal states — not a background throwaway but the brand's ambient temperature, the digital equivalent of undyed heavy linen that recurs across runway set design and product photography props. The Danish label's Shopify storefront operates as a gallery container: near-white surfaces (#f3f3f3, #f0f0f0) and near-black type (#111111, #231f20) stand back so that seasonal imagery — neon tulip prints, cobalt vinyl minis, sequin-heavy knits — carries all visual brightness without the interface competing.
 
@@ -338,6 +342,13 @@ components:
 - Footer columns collapse to a single-column accordion list on mobile; country selector moves to a standalone row above legal copy
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

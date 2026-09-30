@@ -4,6 +4,10 @@ name: "MK Professional"
 source_url: "https://mkprofessional.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A sophisticated, professional-grade haircare brand that speaks to stylists and discerning consumers through a palette of warm neutrals and deliberate accents. The system rests on a canvas of {colors.canvas} (#faf9f7), a soft off-white that feels warmer and more tactile than pure white, paired with a secondary surface of {colors.surface-soft} (#e9e9e9) that creates gentle depth without harsh contrast. The brand's primary voltage comes from {colors.primary} (#d77e6a), a dusty terracotta-rose that appears in key CTAs and accent elements, supported by {colors.primary-active} (#e2a192) for hover states — a lighter, more airy version that keeps interactions feeling soft rather than aggressive. Typography relies on Lato and Outfit, two clean geometric sans-serifs that balance professionalism with approachability; Lato carries body copy at {typography.body-md.fontSize} with generous {typography.body-md.lineHeight} leading, while Outfit handles display sizes with a slightly more modern, condensed feel. The system uses {rounded.sm} (8px) for buttons and inputs, {rounded.md} (12px) for cards, and {rounded.full} for pill-shaped search bars and badges, creating a friendly but not overly playful interface. A secondary blue accent of {colors.accent-blue} (#1990c6) appears in links and informational badges, providing a cool counterpoint to the warm primary palette. The overall mood is elevated yet approachable — think salon reception area rather than clinical lab — with generous whitespace, soft hairlines of {colors.hairline} (#dedede), and a muted text hierarchy that uses {colors.ink} (#121212) for headlines, {colors.body} (#53575a) for body copy, and {colors.muted} (#9b9b9b) for secondary information. The brand's Shopify foundation means components are built for e-commerce conversion: prominent product cards with clear pricing, sticky navigation with search, and trust signals like ratings and badges rendered in the system's warm accent palette.
 
@@ -421,6 +425,13 @@ components:
 - Accordion panels remain collapsed by default on mobile for space efficiency
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -1,0 +1,1406 @@
+{
+  "schema_version": 1,
+  "source_url": "https://parachutehome.com/",
+  "method": "browser-computed-components",
+  "viewports": [
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "Skip To Content\nBest Sellers\nNew\nBedding\nPillows & Duvets\nMa",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 7386.015625
+          },
+          "styles": {
+            "color": "rgb(59, 59, 59)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "\"Suisse Intl\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "28.8px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(59, 59, 59)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#shopify-section-sections--14230581346565__cv_header_eccgjE > header:nth-of-type(1)",
+          "label": "Best Sellers\nNew\nBedding\nPillows & Duvets\nMattress\nBath & Ro",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 57
+          },
+          "styles": {
+            "color": "rgb(59, 59, 59)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"Suisse Intl\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "28.8px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(59, 59, 59)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "navigation",
+          "selector": "#shopify-section-sections--14230581346565__cv_header_eccgjE > header:nth-of-type(1) > cv-header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1)",
+          "label": "Main navigation",
+          "box": {
+            "x": 428.5625,
+            "y": 13.59375,
+            "width": 616.875,
+            "height": 28.796875
+          },
+          "styles": {
+            "color": "rgb(59, 59, 59)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"Suisse Intl\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "28.8px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(59, 59, 59)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "heading",
+          "selector": "#shopify-section-template--14230585147653__cv_generic_section_qDTkp6 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "label": "Naturally, Evergreen",
+          "box": {
+            "x": 48,
+            "y": 625.015625,
+            "width": 565.765625,
+            "height": 70.390625
+          },
+          "styles": {
+            "color": "rgb(248, 248, 248)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Petrona, Georgia, serif",
+            "font-size": "64px",
+            "font-weight": "400",
+            "line-height": "70.4px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(248, 248, 248)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "section-heading",
+          "selector": "#shopify-section-template--14230585147653__cv_generic_section_rMJ7QY > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "label": "Best Sellers",
+          "box": {
+            "x": 48,
+            "y": 885,
+            "width": 1344,
+            "height": 35.1875
+          },
+          "styles": {
+            "color": "rgb(59, 59, 59)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Petrona, Georgia, serif",
+            "font-size": "32px",
+            "font-weight": "400",
+            "line-height": "35.2px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(59, 59, 59)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "body-copy",
+          "selector": "#shopify-section-template--14230585147653__index_testimonial_reviews_new_KEaDD4 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+          "label": "“I've been using them for nearly a decade, and I'm never loo",
+          "box": {
+            "x": 1017,
+            "y": 5585.4921875,
+            "width": 300,
+            "height": 207.96875
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Petrona, Georgia, serif",
+            "font-size": "40px",
+            "font-weight": "400",
+            "line-height": "41.6px",
+            "letter-spacing": "-0.4px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(255, 255, 255)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--14230585147653__cv_generic_section_qDTkp6 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "SHOP EVERGREEN",
+          "box": {
+            "x": 48,
+            "y": 749,
+            "width": 173.71875,
+            "height": 40
+          },
+          "styles": {
+            "color": "rgb(248, 248, 248)",
+            "background-color": "rgba(248, 248, 248, 0.1)",
+            "font-family": "\"Suisse Intl\", sans-serif",
+            "font-size": "12px",
+            "font-weight": "500",
+            "line-height": "21.6px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "32px",
+            "padding-bottom": "0px",
+            "padding-left": "32px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "2px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(248, 248, 248)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#cv-panel-0 > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "SHOP ALL BESTSELLERS",
+          "box": {
+            "x": 599.515625,
+            "y": 1558.265625,
+            "width": 240.953125,
+            "height": 48
+          },
+          "styles": {
+            "color": "rgb(59, 59, 59)",
+            "background-color": "rgba(255, 255, 255, 0.1)",
+            "font-family": "\"Suisse Intl\", sans-serif",
+            "font-size": "12px",
+            "font-weight": "500",
+            "line-height": "21.6px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "48px",
+            "padding-bottom": "0px",
+            "padding-left": "48px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "2px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(59, 59, 59)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "product-card",
+          "selector": "#cv-panel-0 > div:nth-of-type(1) > cv-product-carousel:nth-of-type(1) > cv-carousel:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > div:nth-of-type(1)",
+          "label": "Organic Cotton Mosaic Towels",
+          "box": {
+            "x": 48,
+            "y": 1066.78125,
+            "width": 336,
+            "height": 411.484375
+          },
+          "styles": {
+            "color": "rgb(59, 59, 59)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"Suisse Intl\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "28.8px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(59, 59, 59)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "#shopify-section-sections--14230581313797__footer > footer:nth-of-type(1)",
+          "label": "Visit a Store\nWe’d love to have you over.\nFIND MY STORE\n\nSHO",
+          "box": {
+            "x": 0,
+            "y": 6808.28125,
+            "width": 1440,
+            "height": 577.734375
+          },
+          "styles": {
+            "color": "rgb(59, 59, 59)",
+            "background-color": "rgb(248, 248, 248)",
+            "font-family": "\"Suisse Intl\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "28.8px",
+            "letter-spacing": "normal",
+            "padding-top": "80px",
+            "padding-right": "0px",
+            "padding-bottom": "40px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "1px",
+            "border-top-color": "color(srgb 0.231373 0.231373 0.231373 / 0.25)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/Header-Logo-Latest-New.svg?v=1740384494&width=300",
+          "alt": "Parachute Home",
+          "width": 1272,
+          "height": 105
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/Header-Logo-Latest-New.svg?v=1740384494&width=300",
+          "alt": "Parachute Home",
+          "width": 1272,
+          "height": 105
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/Sept_W4_Evergreen_Desktop.jpg?v=1790027947&width=1920",
+          "alt": "",
+          "width": 1920,
+          "height": 1067
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/organic-cotton-mosaic-towels-multi_01_a83c1d39-8a35-48e0-999d-71d2c0089337.jpg?v=1762838953&width=720",
+          "alt": "Organic Cotton Mosaic Towels (Multi)",
+          "width": 267,
+          "height": 333
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/organic-cotton-mosaic-towels-multi_02_fbb253b4-76ab-4f26-989e-1d560830a762.jpg?v=1762838953&width=720",
+          "alt": "",
+          "width": 267,
+          "height": 333
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/down-alternative-duvet_01_2ae52af0-5234-4bae-97c3-cdcc8747f3b0.jpg?v=1763062674&width=720",
+          "alt": "Down Duvet Insert",
+          "width": 267,
+          "height": 333
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/down-duvet_02_ebd2d77f-4e0d-418d-ae90-b2ef7b4bd8e2.jpg?v=1763062674&width=720",
+          "alt": "",
+          "width": 267,
+          "height": 333
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/percale-duvet-cover-white_01_b110fa82-20c0-4cb0-8bea-cafc0a8a65f6.jpg?v=1762839062&width=720",
+          "alt": "Percale Duvet Cover (White)",
+          "width": 267,
+          "height": 333
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/percale-duvet-cover-white_02_0f21c655-feb6-4fd8-9b4f-cbed3bd3ba26.jpg?v=1762839062&width=720",
+          "alt": "",
+          "width": 267,
+          "height": 333
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/organic-cotton-puff-comforter-bone_01_d01d7069-2bd3-4529-b5ee-d31098abcda5.jpg?v=1762839054&width=720",
+          "alt": "Organic Cotton Puff Comforter (Bone)",
+          "width": 267,
+          "height": 333
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/organic-cotton-puff_bone_percale_white_lifestyle_1274.jpg?v=1787094693&width=720",
+          "alt": "",
+          "width": 267,
+          "height": 333
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/organic-cloud-cotton-quilt_sky_main_1798.jpg?v=1782335958&width=720",
+          "alt": "Organic Cloud Cotton Quilt (Sky)",
+          "width": 267,
+          "height": 333
+        }
+      ],
+      "document_width": 1440,
+      "viewport": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 1000
+      },
+      "states": {
+        "initial": "observed",
+        "hover": {
+          "selector": "#shopify-section-template--14230585147653__cv_generic_section_qDTkp6 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(248, 248, 248)",
+            "backgroundColor": "color(srgb 0.752941 0.752941 0.752941 / 0.3)",
+            "borderColor": "rgb(248, 248, 248)",
+            "outline": "rgb(248, 248, 248) none 3px"
+          }
+        },
+        "focus": {
+          "selector": "#shopify-section-template--14230585147653__cv_generic_section_qDTkp6 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(248, 248, 248)",
+            "backgroundColor": "color(srgb 0.752941 0.752941 0.752941 / 0.3)",
+            "borderColor": "rgb(248, 248, 248)",
+            "outline": "rgb(248, 248, 248) solid 2px"
+          }
+        },
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-desktop.png",
+        "sha256": "7039bec9721e4833b760f9886e81887467d82215a48d30cc2a877f3c557f7825",
+        "public_path": "evidence/viewport-desktop.png"
+      }
+    },
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "Skip To Content\nBest Sellers\nNew\nBedding\nPillows + Duvets\nMa",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 6566.96875
+          },
+          "styles": {
+            "color": "rgb(59, 59, 59)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "\"Suisse Intl\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "28.8px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(59, 59, 59)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#shopify-section-sections--14230581346565__cv_header_eccgjE > header:nth-of-type(1)",
+          "label": "Best Sellers\nNew\nBedding\nPillows + Duvets\nMattress\nBath + Ro",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 111
+          },
+          "styles": {
+            "color": "rgb(59, 59, 59)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"Suisse Intl\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "28.8px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(59, 59, 59)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "navigation",
+          "selector": "#shopify-section-sections--14230581346565__cv_header_eccgjE > header:nth-of-type(1) > cv-header:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1)",
+          "label": "Quick links",
+          "box": {
+            "x": 0,
+            "y": 56,
+            "width": 768,
+            "height": 54
+          },
+          "styles": {
+            "color": "rgb(59, 59, 59)",
+            "background-color": "rgb(248, 248, 248)",
+            "font-family": "\"Suisse Intl\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "28.8px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "1px",
+            "border-top-color": "color(srgb 0.231373 0.231373 0.231373 / 0.25)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "heading",
+          "selector": "#shopify-section-template--14230585147653__cv_generic_section_qDTkp6 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "label": "Naturally, Evergreen",
+          "box": {
+            "x": 48,
+            "y": 714.21875,
+            "width": 282.890625,
+            "height": 35.1875
+          },
+          "styles": {
+            "color": "rgb(248, 248, 248)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Petrona, Georgia, serif",
+            "font-size": "32px",
+            "font-weight": "400",
+            "line-height": "35.2px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(248, 248, 248)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "section-heading",
+          "selector": "#shopify-section-template--14230585147653__cv_generic_section_rMJ7QY > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "label": "Best Sellers",
+          "box": {
+            "x": 48,
+            "y": 939,
+            "width": 672,
+            "height": 26.390625
+          },
+          "styles": {
+            "color": "rgb(59, 59, 59)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Petrona, Georgia, serif",
+            "font-size": "24px",
+            "font-weight": "400",
+            "line-height": "26.4px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(59, 59, 59)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "body-copy",
+          "selector": "#shopify-section-template--14230585147653__index_testimonial_reviews_new_KEaDD4 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+          "label": "“I've been using them for nearly a decade, and I'm never loo",
+          "box": {
+            "x": 536.4140625,
+            "y": 5087.859375,
+            "width": 191.578125,
+            "height": 124.765625
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Petrona, Georgia, serif",
+            "font-size": "24px",
+            "font-weight": "400",
+            "line-height": "24.96px",
+            "letter-spacing": "-0.4px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(255, 255, 255)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--14230585147653__cv_generic_section_qDTkp6 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "SHOP EVERGREEN",
+          "box": {
+            "x": 48,
+            "y": 803,
+            "width": 173.71875,
+            "height": 40
+          },
+          "styles": {
+            "color": "rgb(248, 248, 248)",
+            "background-color": "rgba(248, 248, 248, 0.1)",
+            "font-family": "\"Suisse Intl\", sans-serif",
+            "font-size": "12px",
+            "font-weight": "500",
+            "line-height": "21.6px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "32px",
+            "padding-bottom": "0px",
+            "padding-left": "32px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "2px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(248, 248, 248)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#cv-panel-0 > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "SHOP ALL BESTSELLERS",
+          "box": {
+            "x": 263.515625,
+            "y": 1603.46875,
+            "width": 240.953125,
+            "height": 48
+          },
+          "styles": {
+            "color": "rgb(59, 59, 59)",
+            "background-color": "rgba(255, 255, 255, 0.1)",
+            "font-family": "\"Suisse Intl\", sans-serif",
+            "font-size": "12px",
+            "font-weight": "500",
+            "line-height": "21.6px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "48px",
+            "padding-bottom": "0px",
+            "padding-left": "48px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "2px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(59, 59, 59)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "product-card",
+          "selector": "#cv-panel-0 > div:nth-of-type(1) > cv-product-carousel:nth-of-type(1) > cv-carousel:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > div:nth-of-type(1)",
+          "label": "Organic Cotton Mosaic Towels",
+          "box": {
+            "x": 48,
+            "y": 1111.984375,
+            "width": 336,
+            "height": 411.484375
+          },
+          "styles": {
+            "color": "rgb(59, 59, 59)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"Suisse Intl\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "28.8px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(59, 59, 59)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "#shopify-section-sections--14230581313797__footer > footer:nth-of-type(1)",
+          "label": "Visit a Store\nWe’d love to have you over.\nFIND MY STORE\n\nSHO",
+          "box": {
+            "x": 0,
+            "y": 6002.484375,
+            "width": 768,
+            "height": 564.484375
+          },
+          "styles": {
+            "color": "rgb(59, 59, 59)",
+            "background-color": "rgb(248, 248, 248)",
+            "font-family": "\"Suisse Intl\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "28.8px",
+            "letter-spacing": "normal",
+            "padding-top": "60px",
+            "padding-right": "0px",
+            "padding-bottom": "40px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "1px",
+            "border-top-color": "color(srgb 0.231373 0.231373 0.231373 / 0.25)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/Header-Logo-Latest-New.svg?v=1740384494&width=300",
+          "alt": "Parachute Home",
+          "width": 678,
+          "height": 56
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/Header-Logo-Latest-New.svg?v=1740384494&width=300",
+          "alt": "Parachute Home",
+          "width": 678,
+          "height": 56
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/Sept_W4_Evergreen_Desktop.jpg?v=1790027947&width=1920",
+          "alt": "",
+          "width": 1920,
+          "height": 1067
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/organic-cotton-mosaic-towels-multi_01_a83c1d39-8a35-48e0-999d-71d2c0089337.jpg?v=1762838953&width=720",
+          "alt": "Organic Cotton Mosaic Towels (Multi)",
+          "width": 216,
+          "height": 270
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/organic-cotton-mosaic-towels-multi_02_fbb253b4-76ab-4f26-989e-1d560830a762.jpg?v=1762838953&width=720",
+          "alt": "",
+          "width": 216,
+          "height": 270
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/down-alternative-duvet_01_2ae52af0-5234-4bae-97c3-cdcc8747f3b0.jpg?v=1763062674&width=720",
+          "alt": "Down Duvet Insert",
+          "width": 216,
+          "height": 270
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/down-duvet_02_ebd2d77f-4e0d-418d-ae90-b2ef7b4bd8e2.jpg?v=1763062674&width=720",
+          "alt": "",
+          "width": 216,
+          "height": 270
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/percale-duvet-cover-white_01_b110fa82-20c0-4cb0-8bea-cafc0a8a65f6.jpg?v=1762839062&width=720",
+          "alt": "Percale Duvet Cover (White)",
+          "width": 216,
+          "height": 270
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/percale-duvet-cover-white_02_0f21c655-feb6-4fd8-9b4f-cbed3bd3ba26.jpg?v=1762839062&width=720",
+          "alt": "",
+          "width": 216,
+          "height": 270
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/organic-cotton-puff-comforter-bone_01_d01d7069-2bd3-4529-b5ee-d31098abcda5.jpg?v=1762839054&width=720",
+          "alt": "Organic Cotton Puff Comforter (Bone)",
+          "width": 216,
+          "height": 270
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/organic-cotton-puff_bone_percale_white_lifestyle_1274.jpg?v=1787094693&width=720",
+          "alt": "",
+          "width": 216,
+          "height": 270
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/organic-cloud-cotton-quilt_sky_main_1798.jpg?v=1782335958&width=720",
+          "alt": "Organic Cloud Cotton Quilt (Sky)",
+          "width": 216,
+          "height": 270
+        }
+      ],
+      "document_width": 768,
+      "viewport": {
+        "name": "tablet",
+        "width": 768,
+        "height": 1024
+      },
+      "states": {
+        "initial": "observed",
+        "hover": {
+          "selector": "#shopify-section-template--14230585147653__cv_generic_section_qDTkp6 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(248, 248, 248)",
+            "backgroundColor": "color(srgb 0.752941 0.752941 0.752941 / 0.3)",
+            "borderColor": "rgb(248, 248, 248)",
+            "outline": "rgb(248, 248, 248) none 3px"
+          }
+        },
+        "focus": {
+          "selector": "#shopify-section-template--14230585147653__cv_generic_section_qDTkp6 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(248, 248, 248)",
+            "backgroundColor": "color(srgb 0.752941 0.752941 0.752941 / 0.3)",
+            "borderColor": "rgb(248, 248, 248)",
+            "outline": "rgb(248, 248, 248) solid 2px"
+          }
+        },
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-tablet.png",
+        "sha256": "3e6e860223c4a27cf4e848303859e06ff9fd375d97b9a5acabc69ecf58a4a695",
+        "public_path": "evidence/viewport-tablet.png"
+      }
+    },
+    {
+      "samples": [
+        {
+          "role": "body",
+          "selector": "html:nth-of-type(1) > body:nth-of-type(1)",
+          "label": "Quick Shop\n\nSkip To Content\nBest Sellers\nNew\nBedding\nPillows",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 6068.75
+          },
+          "styles": {
+            "color": "rgb(59, 59, 59)",
+            "background-color": "rgb(255, 255, 255)",
+            "font-family": "\"Suisse Intl\", sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "27px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(59, 59, 59)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "header",
+          "selector": "#shopify-section-sections--14230581346565__cv_header_eccgjE > header:nth-of-type(1)",
+          "label": "Best Sellers\nNew\nBedding\nPillows + Duvets\nMattress\nBath + Ro",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 111
+          },
+          "styles": {
+            "color": "rgb(59, 59, 59)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"Suisse Intl\", sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "27px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(59, 59, 59)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "navigation",
+          "selector": "#shopify-section-sections--14230581346565__cv_header_eccgjE > header:nth-of-type(1) > cv-header:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1)",
+          "label": "Quick links",
+          "box": {
+            "x": 0,
+            "y": 56,
+            "width": 390,
+            "height": 54
+          },
+          "styles": {
+            "color": "rgb(59, 59, 59)",
+            "background-color": "rgb(248, 248, 248)",
+            "font-family": "\"Suisse Intl\", sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "27px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "1px",
+            "border-top-color": "color(srgb 0.231373 0.231373 0.231373 / 0.25)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "heading",
+          "selector": "#shopify-section-template--14230585147653__cv_generic_section_qDTkp6 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "label": "Naturally, Evergreen",
+          "box": {
+            "x": 48,
+            "y": 462.625,
+            "width": 282.890625,
+            "height": 35.1875
+          },
+          "styles": {
+            "color": "rgb(248, 248, 248)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Petrona, Georgia, serif",
+            "font-size": "32px",
+            "font-weight": "400",
+            "line-height": "35.2px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(248, 248, 248)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "section-heading",
+          "selector": "#shopify-section-template--14230585147653__cv_generic_section_rMJ7QY > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "label": "Best Sellers",
+          "box": {
+            "x": 16,
+            "y": 709,
+            "width": 358,
+            "height": 26.390625
+          },
+          "styles": {
+            "color": "rgb(59, 59, 59)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Petrona, Georgia, serif",
+            "font-size": "24px",
+            "font-weight": "400",
+            "line-height": "26.4px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(59, 59, 59)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "body-copy",
+          "selector": "#shopify-section-template--14230585147653__index_testimonial_reviews_new_KEaDD4 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+          "label": "“I've been using them for nearly a decade, and I'm never loo",
+          "box": {
+            "x": 45,
+            "y": 4324.4765625,
+            "width": 300,
+            "height": 133.125
+          },
+          "styles": {
+            "color": "rgb(255, 255, 255)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "Petrona, Georgia, serif",
+            "font-size": "32px",
+            "font-weight": "300",
+            "line-height": "33.28px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(255, 255, 255)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#shopify-section-template--14230585147653__cv_generic_section_qDTkp6 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "SHOP EVERGREEN",
+          "box": {
+            "x": 48,
+            "y": 573,
+            "width": 173.71875,
+            "height": 40
+          },
+          "styles": {
+            "color": "rgb(248, 248, 248)",
+            "background-color": "rgba(248, 248, 248, 0.1)",
+            "font-family": "\"Suisse Intl\", sans-serif",
+            "font-size": "12px",
+            "font-weight": "500",
+            "line-height": "21.6px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "32px",
+            "padding-bottom": "0px",
+            "padding-left": "32px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "2px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(248, 248, 248)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": false
+        },
+        {
+          "role": "candidate-cta",
+          "selector": "#cv-panel-0 > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "label": "SHOP ALL BESTSELLERS",
+          "box": {
+            "x": 90.515625,
+            "y": 1224.609375,
+            "width": 208.953125,
+            "height": 48
+          },
+          "styles": {
+            "color": "rgb(59, 59, 59)",
+            "background-color": "rgba(255, 255, 255, 0.1)",
+            "font-family": "\"Suisse Intl\", sans-serif",
+            "font-size": "12px",
+            "font-weight": "500",
+            "line-height": "21.6px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "32px",
+            "padding-bottom": "0px",
+            "padding-left": "32px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "2px",
+            "border-top-width": "1px",
+            "border-top-color": "rgb(59, 59, 59)",
+            "display": "flex",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "product-card",
+          "selector": "#cv-panel-0 > div:nth-of-type(1) > cv-product-carousel:nth-of-type(1) > cv-carousel:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > div:nth-of-type(1)",
+          "label": "Organic Cotton Mosaic Towels",
+          "box": {
+            "x": 16,
+            "y": 863.578125,
+            "width": 195,
+            "height": 281.03125
+          },
+          "styles": {
+            "color": "rgb(59, 59, 59)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "font-family": "\"Suisse Intl\", sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "27px",
+            "letter-spacing": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "0px",
+            "border-top-color": "rgb(59, 59, 59)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        },
+        {
+          "role": "footer",
+          "selector": "#shopify-section-sections--14230581313797__footer > footer:nth-of-type(1)",
+          "label": "Visit a Store\nWe’d love to have you over.\nFIND MY STORE\n\nSHO",
+          "box": {
+            "x": 0,
+            "y": 5319.890625,
+            "width": 390,
+            "height": 748.859375
+          },
+          "styles": {
+            "color": "rgb(59, 59, 59)",
+            "background-color": "rgb(248, 248, 248)",
+            "font-family": "\"Suisse Intl\", sans-serif",
+            "font-size": "15px",
+            "font-weight": "400",
+            "line-height": "27px",
+            "letter-spacing": "normal",
+            "padding-top": "32px",
+            "padding-right": "0px",
+            "padding-bottom": "32px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-bottom": "0px",
+            "border-radius": "0px",
+            "border-top-width": "1px",
+            "border-top-color": "color(srgb 0.231373 0.231373 0.231373 / 0.25)",
+            "display": "block",
+            "gap": "normal",
+            "row-gap": "normal",
+            "column-gap": "normal",
+            "max-width": "none"
+          },
+          "occluded": true
+        }
+      ],
+      "assets": [
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/Header-Logo-Latest-New.svg?v=1740384494&width=300",
+          "alt": "Parachute Home",
+          "width": 344,
+          "height": 28
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/Header-Logo-Latest-New.svg?v=1740384494&width=300",
+          "alt": "Parachute Home",
+          "width": 344,
+          "height": 28
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/organic-cotton-mosaic-towels-multi_01_a83c1d39-8a35-48e0-999d-71d2c0089337.jpg?v=1762838953&width=720",
+          "alt": "Organic Cotton Mosaic Towels (Multi)",
+          "width": 177,
+          "height": 221
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/organic-cotton-mosaic-towels-multi_02_fbb253b4-76ab-4f26-989e-1d560830a762.jpg?v=1762838953&width=720",
+          "alt": "",
+          "width": 177,
+          "height": 221
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/down-alternative-duvet_01_2ae52af0-5234-4bae-97c3-cdcc8747f3b0.jpg?v=1763062674&width=720",
+          "alt": "Down Duvet Insert",
+          "width": 177,
+          "height": 221
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/down-duvet_02_ebd2d77f-4e0d-418d-ae90-b2ef7b4bd8e2.jpg?v=1763062674&width=720",
+          "alt": "",
+          "width": 177,
+          "height": 221
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/percale-duvet-cover-white_01_b110fa82-20c0-4cb0-8bea-cafc0a8a65f6.jpg?v=1762839062&width=720",
+          "alt": "Percale Duvet Cover (White)",
+          "width": 177,
+          "height": 221
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/percale-duvet-cover-white_02_0f21c655-feb6-4fd8-9b4f-cbed3bd3ba26.jpg?v=1762839062&width=720",
+          "alt": "",
+          "width": 177,
+          "height": 221
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/organic-cotton-puff-comforter-bone_01_d01d7069-2bd3-4529-b5ee-d31098abcda5.jpg?v=1762839054&width=720",
+          "alt": "Organic Cotton Puff Comforter (Bone)",
+          "width": 177,
+          "height": 221
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/organic-cotton-puff_bone_percale_white_lifestyle_1274.jpg?v=1787094693&width=720",
+          "alt": "",
+          "width": 177,
+          "height": 221
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/organic-cloud-cotton-quilt_sky_main_1798.jpg?v=1782335958&width=720",
+          "alt": "Organic Cloud Cotton Quilt (Sky)",
+          "width": 177,
+          "height": 221
+        },
+        {
+          "url": "https://parachutehome.com/cdn/shop/files/linen_dusk-stripe_dove_cloud-linen-gauze-throw_ink_lifestyle_2158.jpg?v=1782335967&width=720",
+          "alt": "",
+          "width": 177,
+          "height": 221
+        }
+      ],
+      "document_width": 390,
+      "viewport": {
+        "name": "mobile",
+        "width": 390,
+        "height": 844
+      },
+      "states": {
+        "initial": "observed",
+        "hover": {
+          "selector": "#shopify-section-template--14230585147653__cv_generic_section_qDTkp6 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(248, 248, 248)",
+            "backgroundColor": "color(srgb 0.752941 0.752941 0.752941 / 0.3)",
+            "borderColor": "rgb(248, 248, 248)",
+            "outline": "rgb(248, 248, 248) none 3px"
+          }
+        },
+        "focus": {
+          "selector": "#shopify-section-template--14230585147653__cv_generic_section_qDTkp6 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "styles": {
+            "color": "rgb(248, 248, 248)",
+            "backgroundColor": "color(srgb 0.752941 0.752941 0.752941 / 0.3)",
+            "borderColor": "rgb(248, 248, 248)",
+            "outline": "rgb(248, 248, 248) solid 2px"
+          }
+        },
+        "menu_open": "not_measured"
+      },
+      "screenshot": {
+        "snapshot": "viewport-mobile.png",
+        "sha256": "12103ea86d9861fcbff17cf1fb3e74fb929749c0b6757455a15addc12ce16f40",
+        "public_path": "evidence/viewport-mobile.png"
+      }
+    }
+  ],
+  "visual_validation": {
+    "status": "not_performed",
+    "reason": "No implementation generated from DESIGN.md has been compared with the reference."
+  },
+  "brand_review": {
+    "decision": "matched_brand",
+    "reviewed_on": "2026-09-30",
+    "title": "Parachute – Home happens here. Bedding, bath linens, decor and more. – Parachute Home",
+    "final_url": "https://parachutehome.com/",
+    "capture_id": "aad8978350b14e4fb62f68187a5f3f75",
+    "expected_brand": "Parachute"
+  },
+  "requested_url": "https://www.parachutehome.com",
+  "captured_at": "2026-09-30T09:03:42.554016+00:00",
+  "capture_id": "aad8978350b14e4fb62f68187a5f3f75",
+  "landing_page_sha256": "225af047bc01de7a1708fbdc3cdd60b345bd79e003211191636fc877b5b4771d"
+}

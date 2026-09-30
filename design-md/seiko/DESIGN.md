@@ -4,6 +4,10 @@ name: "Seiko"
 source_url: "https://www.seikowatches.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Seiko's digital palette graduates through a tight family of navies — #193c72, #14315d, #102648 — that reference blued-steel movement components more than conventional brand color theory; the depth shifts by section, with category headers sitting deepest and product backgrounds lifting to mid-tone, so the entire page reads as a single atmospheric gradient rather than a primary/accent contrast. Against this navy field, Jost — a geometric humanist sans with precisely machined letterforms — carries all display text at weights that shift from 300 for decorative subtitles up to 700 for series names, standing in for the engraved lettering on a watch dial. The lone warm color in the palette is a heritage gold at #a89579, reserved exclusively for prestige and limited-edition callout badges rather than distributed across the general UI — the watchmaker's discipline of keeping certain complications for the top tier. Seiko red (#b30b00) runs deeper and more serious than consumer-brand coral, appearing only in promotional ribbons and limited-availability alerts, never diluted for hover states. The lighter blues (#4c83d8, #3849a2, #3e5c9a) act as interactive midground: links, breadcrumbs, and selected-state indicators all live in this band, giving the palette a coherent spectral story from near-black navy through cobalt to near-white surface. Product cards give each watch photograph unobstructed breathing room on a white surface-card against the soft #e8ecf1 viewport. Corner radii are minimal throughout — {rounded.sm} on cards, {rounded.xs} on inputs — preserving a mechanical precision that rejects the pill-and-blob softness common to lifestyle brands. Navigation is structured across two tiers: a slim utility bar for region and language selectors sits above a taller product-series bar organized by collection names (Prospex, Presage, Astron, Coutura, Lukia) rather than generic product types. The footer runs full #193c72 with reversed text, echoing Seiko's historical catalog covers and grounding the page in the same deep navy the brand has used on press materials since the 1960s.
 
@@ -421,6 +425,13 @@ components:
 - Footer collapses four columns to single accordion-accordion-accordion-accordion on mobile with {colors.hairline} dividers
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

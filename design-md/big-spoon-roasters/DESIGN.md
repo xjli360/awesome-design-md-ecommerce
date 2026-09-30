@@ -4,6 +4,10 @@ name: "Big Spoon Roasters"
 source_url: "https://bigspoonroasters.com"
 captured_at: "2026-09-28T05:01:51.009207+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Big Spoon Roasters is a Hillsborough, NC maker of handcrafted nut butters, snack bars, and a dog-safe "Wag Butter" line, sold through a Shopify storefront with a clean, ingredient-forward aesthetic. The measured CSS custom properties show a near-neutral system: near-black text and primary actions (#222222), a white canvas (#ffffff), and light gray surfaces (#f0f0f0, #eeeeee, #ededed) used for section backgrounds, borders, and secondary buttons. A muted slate tone (#676986) appears in the third-party review widget for secondary metadata text. A warm tan (#a38a66) is present in the broader palette and is inferred here as a roasted-nut accent for labels or swatches rather than a confirmed brand color, since its role was not explicitly declared. Typography is split between a heading family (interpreted as GothaSemNarMed, observed in the codebase) and DM Sans for body copy, with gotham-bold explicitly used for button labels in the reviews widget. This interpretation favors generous whitespace, jar-like rounded product cards, and restrained sans-serif type to reflect a small-batch, kitchen-crafted food brand rather than a loud e-commerce template. All sizes not explicitly present in the supplied CSS are proposed and marked accordingly.
 
@@ -131,6 +135,14 @@ Recommended, not measured:
 Touch targets should be at least 44px tall (matching the observed 44px height on `.oke-button`). Mobile nav collapse, sticky-header behavior, and cart-drawer interactions are proposed patterns only; no interaction states were captured from the static evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

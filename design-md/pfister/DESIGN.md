@@ -4,6 +4,10 @@ name: "Pfister"
 source_url: "https://pfisterfaucets.com"
 captured_at: "2026-09-29T04:14:58.715010+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Pfister's public site presents a clean, utilitarian home-improvement retail interface built on a light neutral canvas (#ffffff, #f4f5f5, #fcfbfb) with dark charcoal body copy (#3d3d3c) and near-black icon accents (#222222). The only strongly brand-distinct hue observed in live component CSS is a warm red (#e24747) used for a modal-close glyph; this is treated here as the proposed primary accent for calls-to-action, since no other UI-applied brand color was captured. A secondary cluster of muted teal-gray tones (#0f8c98, #487d95, #8caeb7) and a cream/gold pairing (#f6e3c1, #ecc800) appear in the raw palette and are inferred to support collection imagery, seasonal promotions, or category badges rather than core chrome. A long tail of saturated reds, greens, blues, and oranges in the extracted palette matches standard Bootstrap alert/button defaults (#5cb85c, #337ab7, #d9534f, #f0ad4e, etc.) and is treated as inherited framework scaffolding, not confirmed brand identity — included for completeness but deprioritized in role assignment. Typography is anchored on Helvetica Neue/Helvetica/Arial with headings inheriting the same stack at weight 500; observed custom family names (Lato, Pfont, claire_hand-light/bold/regular) suggest a decorative script accent font family, whose actual application, weighting, and licensing are unverified. Layout, spacing, and radii below are proposed conventions consistent with a carousel-and-card e-commerce structure, not measured breakpoints.
 
@@ -149,6 +153,13 @@ components:
 Minimum touch targets are recommended at 44×44px for nav buttons and form controls. This table is a design recommendation only; no live responsive behavior, JavaScript breakpoints, or mobile menu interaction was observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

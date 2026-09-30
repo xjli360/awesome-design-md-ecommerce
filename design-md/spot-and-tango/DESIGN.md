@@ -4,6 +4,10 @@ name: "Spot & Tango"
 source_url: "https://spotandtango.com"
 captured_at: "2026-09-28T10:11:26.731744+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Spot & Tango's visual system, as extracted from the storefront's CSS, centers on a
   clean white canvas (#ffffff) paired with near-black ink (#171717) for body copy,
@@ -168,6 +172,13 @@ Recommended (not measured) breakpoint table:
 Touch targets should be minimum 44×44px for CTA buttons and nav items. Collapse patterns (hamburger menu, accordion FAQ) are standard proposals for this content type, not confirmed from the supplied CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

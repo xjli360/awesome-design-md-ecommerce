@@ -4,6 +4,10 @@ name: "Mezco Toyz"
 source_url: "https://www.mezcotoyz.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A collector-grade action-figure brand that wraps its product in a dark, theatrical e-commerce experience — #404040 and #272727 form the dominant canvas, while #bd2426 (a dried-blood red) and #62a1d8 (a cold steel blue) serve as the two primary brand voltages. The site reads like a comic-book variant cover: dense, high-contrast, and unapologetically maximalist. Product cards use `{rounded.sm}` corners and heavy `{colors.hairline}` borders (#dedede) to frame figures against stark white or deep charcoal backgrounds, with price tags and "PRE-ORDER" badges in that signature red. Typography runs system-native (-apple-system, Arial, Helvetica Neue) at modest weights — there is no custom brand typeface, which gives the UI a functional, marketplace feel rather than a glossy toy-brand sheen. Navigation is a dense horizontal strip of category links (Marvel, DC, Horror, Star Wars, etc.) in `{colors.ink}` (#404040) on white, with a sticky top bar that collapses on scroll. The checkout and account flows lean heavily into `{colors.primary}` (#bd2426) for CTAs, while secondary actions use `{colors.muted}` (#737373) outlines. The overall mood is serious and archival — this is a brand for adult collectors who want to see every sculpted detail, not for children browsing in-brights.
 
@@ -336,6 +340,13 @@ A multi-column layout with `{colors.canvas}` background and `{colors.hairline}` 
 - Secondary navigation (sort/filter) collapses to a dropdown at < 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

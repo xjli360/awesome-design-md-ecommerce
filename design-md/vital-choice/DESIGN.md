@@ -4,6 +4,10 @@ name: "Vital Choice"
 source_url: "https://vitalchoice.com"
 captured_at: "2026-09-28T05:02:52.735956+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Vital Choice is a wild-caught seafood and specialty food e-commerce site built on
   Material-UI (MUI) components, evidenced by MuiButton, MuiTypography, and related
@@ -165,6 +169,13 @@ Recommended (not measured) breakpoints:
 Touch targets should be a minimum 44×44px for cart/search icons on mobile. Category mega-menu (Bestsellers, Wild Salmon, etc.) should collapse to an accordion under 960px. This table is a design recommendation only; no live responsive behavior was observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

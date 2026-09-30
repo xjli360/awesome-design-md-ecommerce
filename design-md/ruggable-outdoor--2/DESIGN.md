@@ -4,6 +4,10 @@ name: "Ruggable"
 source_url: "https://ruggable.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Linen parchment (#f6f4ef) spreads across Ruggable's digital surface before a single product loads — the background itself is a material reference, warm enough to suggest woven goods without naming them. The custom aprisRuggable typeface carries all display and headline weight, its letterforms landing somewhere between a geometric serif and a print-foundry workhorse; Manrope handles navigation, body, and UI chrome with a clean geometric warmth that never competes with the product photography. Neither font family appears in typical Shopify templates — both are deliberate brand choices.
   The palette runs in two registers. The first is earthy-dark: a near-charcoal (#282521) anchors every primary CTA and the wordmark, warm enough to avoid the coldness of true black while reading as premium rather than harsh. The second is accent: sage (#657567), rust (#934b32), marigold (#f5ce4e), and mint (#9fe3ba) rotate as collection or seasonal framing — not permanent brand primaries but chromatic signals that let photography set the mood. Error and alert states reach for a saturated red (#f02828 / #b30000), the only moment of high chroma unconnected to product color.
@@ -358,6 +362,13 @@ components:
 - Product grid: 4 columns → 3 → 2 → 1 column as viewport narrows through breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

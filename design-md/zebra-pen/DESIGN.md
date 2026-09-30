@@ -4,6 +4,10 @@ name: "Zebra Pen"
 source_url: "https://www.zebrapen.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The pen barrel itself is the color system — Zebra's product lines span highlighters in seventeen shades, gel inks across forty, and marker tips from .3mm to brush, so the UI architecture on zebrapen.com is engineered to display color as inventory rather than decoration. A thin strip of product ink color runs flush across the top edge of every card, rendered with {rounded.none} at the top corners and {rounded.sm} at the bottom, isolating each hue against a neutral card field without competing with the product photo. The brand's primary voltage is #ed1846, a red pulled slightly toward magenta that stamps the header wordmark accent, sale badges, and mobile browser chrome via meta theme-color before any content loads. It reads more energetic than red-orange and less corporate than pure red — appropriate for writing instruments positioned between office commodity and creative tool.
 
@@ -413,6 +417,13 @@ components:
 - Hero image moves below the text block on mobile rather than side-by-side
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

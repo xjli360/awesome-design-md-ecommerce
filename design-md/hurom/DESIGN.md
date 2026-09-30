@@ -4,6 +4,10 @@ name: "Hurom"
 source_url: "https://www.hurom.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Fresh-pressed celery juice in a tall glass — that saturated chlorophyll green (#78c500) anchors every primary CTA, add-to-cart button, and trust badge across hurom.com, an unmistakable signal that this brand sells the ritual of slow extraction, not just the appliance. The type system pairs geometric sans-serifs — azo-sans-web for body and UI, korolev-condensed for impact headlines — creating a clinical-yet-approachable hierarchy that borrows more from wellness editorial than consumer electronics. Product photography dominates: full-bleed hero images of juicers mid-pour against white or near-white canvases let the machinery and its produce speak without competing color noise. Cards sit at `{rounded.sm}` with barely-there shadows; buttons land at `{rounded.xs}` with firm 48px heights, favoring a squared posture over pill shapes — the message is precision engineering, not playful lifestyle. A secondary warm accent (#da532c) surfaces on sale tags, limited-edition callouts, and urgency indicators, while a deeper forest (#497900) serves as the hover and active state for primary interactions, grounding the brighter green without introducing a new hue. Spacing is generous — product grids breathe with `{spacing.xl}` gutters and `{spacing.section}` vertical rhythm between modules — reinforcing the "slow" philosophy that extends from the juicing mechanism to the shopping experience itself. Navigation is minimal: a slim sticky header with the wordmark set in azote (a display face reserved exclusively for logo lockups) collapses to a hamburger on mobile, never competing with the hero zone below. The palette stays intentionally tight — white canvas, ink-dark text, one green, one warm accent — so that lifestyle imagery of fruits, vegetables, and juice colors provides the visual variety the interface deliberately withholds.
 
@@ -470,6 +474,13 @@ components:
 - Footer columns collapse into expandable accordion sections on mobile, with headings as toggle triggers
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

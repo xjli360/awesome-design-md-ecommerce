@@ -4,6 +4,10 @@ name: "Jackpot Records"
 source_url: "https://jackpotrecords.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A record store that feels like a basement archive lit by a single warm bulb, Jackpot Records uses a near-black canvas of `#303030` — not white — as its primary container, a deliberate inversion of the typical retail site. The palette is stripped to three values: the deep ink of `#303030` for headers and backgrounds, a silver-gray `#a9a9a9` for body copy and secondary text, and a soft off-white `#f1f1f1` for cards and surface highlights. There is no brand color in the traditional sense — no accent hue, no signature red or blue — which makes the site feel like a utilitarian catalog, a digital shelf where the product photography (album covers, movie posters) supplies all the color. Typography runs Arial and Helvetica Neue at modest weights, with display sizes rarely exceeding 24px; the site trusts its dense grid of vinyl spines and Blu-ray cases to do the visual work. Buttons are pill-shaped (`{rounded.full}`) but rendered in `#303030` on `#f1f1f1`, a quiet reversal of the usual light-on-dark CTA. The overall mood is that of a secondhand shop’s inventory sheet: functional, slightly worn, and entirely focused on the object.
 
@@ -314,6 +318,13 @@ components:
 - Sidebar filters (if present) collapse into a bottom sheet or modal on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

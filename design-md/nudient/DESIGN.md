@@ -4,6 +4,10 @@ name: "Nudient"
 source_url: "https://www.nudient.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A monochrome canvas of #f8f8f8 and #232323 where phone cases become architectural objects rather than accessories — the brand treats its product photography with the same deadpan precision as a Scandinavian furniture catalog, letting matte black polycarbonate and microfiber lining speak through negative space. The extracted palette is overwhelmingly achromatic: #232323 anchors the system as the ink for every headline and primary CTA, while #f8f8f8 provides a warm, almost paper-like canvas that softens what could be a cold minimalism. The single chromatic voltage comes from #0e2cc7, a saturated royal blue that appears on sale badges, delivery-promise highlights, and the occasional accent link — it’s used so sparingly that when it appears it feels like a deliberate interruption. Futura PT runs across the system in two weights (book and medium), a geometric sans that echoes the brand’s mid-century modern sensibility; there are no rounded corners on the product itself, but the UI uses {rounded.sm} for buttons and {rounded.md} for cards, creating a subtle distinction between the hard-edged product and the soft interface that frames it. The checkout flow introduces #31862d (a muted green for “in stock” indicators) and #dd4242 (error states), but these feel inherited from Shopify’s defaults rather than brand decisions. The overall effect is a storefront that trusts its product photography to carry the emotional weight — the UI is deliberately recessive, a gallery wall painted #f8f8f8 where the phone cases are the art.
 
@@ -381,6 +385,13 @@ components:
 - Product image galleries switch from row to single-image swipe on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

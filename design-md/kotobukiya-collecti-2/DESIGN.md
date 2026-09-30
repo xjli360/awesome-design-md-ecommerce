@@ -4,6 +4,10 @@ name: "Kotobukiya"
 source_url: "https://www.kotobukiya.co.jp"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A portal for plastic-model and figure enthusiasts, Kotobukiya’s digital presence is anchored on a vivid primary green (#009944) that reads as both a brand signature and a nod to the company’s name (Kotobukiya meaning “longevity” or “congratulations,” often associated with celebration and nature). The green appears on every primary CTA, navigation bar, and category accent, set against a predominantly white canvas (#ffffff) with a soft secondary surface (#f7f7f7) for card backgrounds and content sections. The extracted color palette reveals a surprising breadth — alongside the core green, there are accent tones for product categories: a warm orange (#f77a00), a cool blue (#0577c8), a soft pink (#f26faa), a deep red (#e92121), and a marigold (#eac33d). These are not decorative; they map to specific product lines (M.S.G weapon sets, Frame Arms, Megami Device, etc.), creating a color-coded taxonomy that helps collectors navigate a vast catalog. Typography relies on a stack of Japanese system fonts — FOT-筑紫A丸ゴシック (a rounded gothic) in multiple weights (Std D, M, B, E) alongside Hiragino Kaku Gothic Pro and Meiryo — giving the interface a friendly, approachable feel that contrasts with the precision-engineered subject matter. The rounded gothic’s soft terminals mirror the gentle corner radii used throughout: cards at `{rounded.sm}` (8px), buttons at `{rounded.sm}`, and the search bar at `{rounded.full}`. Borders are thin and light (`{colors.hairline}` #d0d0d0, `{colors.hairline-soft}` #e6e6e6), keeping the layout clean and uncluttered despite the density of product information. The overall effect is a structured, information-rich portal that uses color as a wayfinding system and typographic softness to make a complex hobby feel accessible.
 
@@ -408,6 +412,13 @@ components:
 - **Breadcrumbs**: On mobile, breadcrumbs may truncate to show only the current page and one parent level, with a "Back" button as the primary navigation.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

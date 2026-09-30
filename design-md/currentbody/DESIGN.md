@@ -4,6 +4,10 @@ name: "CurrentBody"
 source_url: "https://www.currentbody.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A clinical-warm aesthetic built on a foundation of #f4f4f6 canvas and #00bbff — a vivid cyan that functions as the brand's singular voltage, appearing on primary CTAs, shipping badges, and category icons. The palette is dominated by a tight range of cool grays (#e5e5e5, #9ca3af, #d1d5db) that create a clean, medical-adjacent precision, punctuated by #be3a43 (a muted crimson used for sale badges and error states) and #83cc1c (a sharp lime green for "in stock" indicators and sustainability callouts). Typography runs ABCDiatype at moderate weights — display headlines sit at 24–32px in weight 500, trusting generous whitespace and the cyan accent over heavy bold. Product cards use softly rounded corners (`{rounded.md}` ~12px) with a white surface (`{colors.surface-card}`) and a thin #e5e7eb hairline, while the primary CTA button takes a full-height cyan rectangle at `{rounded.sm}`. The brand's voice is informative and reassuring — large hero sections pair a single product image with a headline and a cyan "Shop Now" button, and the persistent top bar ("Free Delivery Over £100") uses #00bbff text on a #222222 ink background, creating a high-contrast utility strip that reads as both offer and authority. The overall mood is that of a premium electronics showroom translated into a clean, high-DPI interface — cool gray, cyan, and white, with color used sparingly to direct attention.
 
@@ -366,6 +370,13 @@ components:
 - Hero content stacks vertically on mobile (image above text) instead of side-by-side
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Portola Paints"
 source_url: "https://portolapaints.com"
 captured_at: "2026-09-28T09:19:10.694653+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Portola Paints & Finishes sells specialty decorative coatings (Roman Clay, Lime Wash, Traditional Finish) through a Shopify storefront whose extracted CSS exposes a neutral, utilitarian UI palette layered over a small set of warmer accent tones. The root theme variables define an off-white canvas (#ffffff), a dark neutral foreground near-black used for text and badges, and a mid-gray button surface (#e1e1e1 region), none of which read as an intentional "brand" palette so much as a stock Shopify theme scaffold. The one clearly branded color signal is a teal-blue pair (#1990c6 / #136f99) used for the accelerated-checkout button and its hover state; this is treated here as the inferred primary action color, since paint retailers commonly reserve a saturated accent for calls to action against neutral chrome. Warmer swatch-like tones (#f1d6a8 sand, #d2e4c4 sage, #cfe3e6 pale teal) and an isolated pink (#e91e63/#eb7a8e) appear in the raw palette and are mapped as decorative accent/highlight colors suited to color-chip and gallery contexts, though their actual site usage was not confirmed. Typography combines a serif (Cardo) with a proprietary grotesque (Söhne) atop a system-font fallback stack; Cardo is proposed for display headings to suit an artisanal-finish brand, Söhne/system-ui for UI and body copy, both flagged below as unverified for licensing/availability. Layout, spacing, and radii are proposed conventions, not measured.
 
@@ -153,6 +157,13 @@ Recommended, not measured:
 Touch targets should be at least 44×44px for buttons and swatch chips; the observed `#submitBtn` height of 50px meets this. Nav collapse thresholds and drawer behavior are proposed and were not verified via live rendering.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Kali Audio"
 source_url: "https://www.kaliaudio.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep midnight canvas (#111111) and a single neon accent (#0099e5) define Kali Audio — a pro-audio monitor brand that treats its interface like a recording console: dark, legible, and utterly secondary to the sound. The brand's primary blue (#0099e5) appears sparingly — a CTA button, a product badge, a hover state — never decorative, always functional, like a channel-strip mute button that glows when engaged. Typography runs Montserrat at modest weights (400–600), set at 14–16px for body copy, with display sizes rarely exceeding 24px; the brand trusts product photography and spec sheets over typographic heroics. Cards and buttons use {rounded.sm} (8px) — a subtle softening that keeps the interface approachable without sacrificing the precision implied by studio monitors. The color palette is overwhelmingly dark: three blacks (#111111, #1e1e1e, #272727) create layered depth on surfaces, while #fafafa and #fbfbfb provide high-contrast text on dark backgrounds. Social icons and payment badges introduce a secondary palette of blues (#3b5998, #55acee, #1ab7ea) and a single pink (#f94877) that reads as a third-party widget rather than brand expression. The overall effect is a site that feels like a control room at night — dark, focused, with only the essential controls illuminated.
 
@@ -355,6 +359,13 @@ components:
 - Product badges stack vertically on mobile cards
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

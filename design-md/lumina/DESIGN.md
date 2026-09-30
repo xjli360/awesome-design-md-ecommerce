@@ -4,6 +4,10 @@ name: "Lumina"
 source_url: "https://lumina.co"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep-navy (#090a3f) and electric-blue (#2a93f4) platform for visual job postings that treats the job listing as a media-first experience rather than a text document. The brand's signature move is a saturated blue gradient from #090a3f to #2a93f4 that wraps hero sections and primary CTAs, creating a sense of depth that feels like looking into a lit screen — appropriate for a company selling webcams as the hiring interface. Warm accents of #e89e50 (a toasted amber) and #ff7a59 (coral) punctuate badges, secondary buttons, and notification dots, providing the only relief from an otherwise cool palette. Typography runs Poppins at 500–600 weight for headings and Lato at 400 for body, both geometric sans-serifs that read clean at small sizes on video overlays. Cards use `{rounded.md}` (12px) corners, while primary buttons and search inputs take `{rounded.sm}` (8px) — the brand avoids pill shapes entirely, preferring a squared-off professionalism that signals enterprise readiness. The extracted palette shows heavy blue dominance (#0283fa, #006bff, #0083fa, #4b91ed, #2e7cf7) suggesting a multi-tone blue system where each shade maps to a specific interaction state: #2a93f4 for primary, #0283fa for hover, #006bff for active. Purple accents (#8f53e7, #8459e9, #bf45d5) appear in feature badges and premium tiers, while the gray scale (#7a7a7a, #a1a1a1, #d2d2d2, #dadada) handles secondary text and disabled states. The brand's voice is direct and capability-focused — no whimsy, no illustration, just clear hierarchy and high-contrast readability against the navy backdrop.
 
@@ -466,6 +470,13 @@ components:
 - Sidebar filters (if present) collapse into a modal or bottom sheet below 744px
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

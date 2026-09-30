@@ -4,6 +4,10 @@ name: "xTool"
 source_url: "https://www.xtool.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The most calibrated detail in xTool's UI system is the primary CTA color: #00cb69, a machine-readout green borrowed from CNC status displays rather than consumer e-commerce convention, detonating against a layered grey canvas (#f8f9fd, #f2f3f5, #ecedf0) with the visual clarity of a "job running" indicator. The ink runs to #191a19 — not pure black but a near-black with a trace of olive warmth that softens the industrial reference without losing the workshop register. Type is set in InterTight, a narrow geometric sans optimized for label-dense specifications: weights cluster at 600–700 for headers and 400–500 for body, never reaching the heavy 800–900 range that would make a product spec page feel aggressive rather than precise. Montserrat appears on marketing callouts and hero headlines; Nunito Sans handles longer body paragraphs and review text.
 
@@ -349,6 +353,13 @@ components:
 - Hero subtitle copy is visually hidden on mobile to prevent text overload below the headline
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Primary"
 source_url: "https://primary.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A children's clothing brand that uses near-neutral gray (#dedede) and near-black (#121212) as its primary palette — a deliberately muted choice for a category that usually screams with primary-bright rainbows. The brand trusts its product photography and clean white canvas (#ffffff) to provide all the color, keeping the UI itself as a quiet, functional frame. Every button, card, and input uses the same soft gray (#dedede) as its resting state, creating a uniform, almost architectural feel across the interface. The near-black (#121212) appears only on text, icons, and the brand's wordmark — never as a background or decorative element. This restraint suggests a brand that wants parents to focus on the clothes, not the shopping experience. The Shopify platform gives it standard e-commerce patterns (cart drawer, product grid, size selector), but the color discipline makes Primary feel more like a design studio than a baby store. There are no hard corners anywhere — inputs and buttons use {rounded.sm}, cards use {rounded.md}, and the search field uses {rounded.full} — but the radii are subtle enough to avoid feeling playful. The brand's voice is direct and informational: size charts, fabric details, and care instructions take priority over marketing copy. The result is a shopping experience that feels calm, trustworthy, and surprisingly adult for a kids' clothing brand.
 
@@ -375,6 +379,13 @@ components:
 - Search bar collapses to icon-only on mobile, expands on tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

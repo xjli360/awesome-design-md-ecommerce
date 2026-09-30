@@ -4,6 +4,10 @@ name: "Felco"
 source_url: "https://www.felco.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Red handle on a steel blade — that single chromatic signal has identified Felco pruning shears in nurseries, vineyards, and professional orchards for over seven decades, and the digital storefront distills the same logic: a near-black canvas (#1f1f1f) against which Felco red (#e30613) functions as both brand signature and interaction cue. The site runs Instrument Sans across every weight, a geometric contemporary sans-serif that echoes the precision-engineering ethos without drifting into the cold clinical register of industrial catalogs. Headlines land at weight 600–700 in sizes that stay restrained — display tops out around 48px, letting product photography of forged-aluminum handles and hardened-steel blades do the selling. The type system favors generous line-heights (1.5 on body, 1.3 on titles) to give dense technical specifications room to breathe beside warranty language and replacement-part tables. Rounded corners stay minimal: buttons and inputs use `{rounded.xs}` to `{rounded.sm}`, and product cards barely soften at `{rounded.md}` — the brand signals durability and function, not consumer-lifestyle softness. A warm amber accent (#ffb503) punctuates promotional badges, limited-edition callouts, and star ratings, pairing with the dominant red to evoke the physical warmth of sun-lit fieldwork. The surface system layers a pure white canvas beneath soft gray (#f2f2f2) section bands, with hairline borders at #dedede separating comparison-table rows and filter panels. Product cards sit flush on white surfaces with generous `{spacing.lg}` gutters, foregrounding the tool silhouette rather than decorative chrome. Navigation keeps a fixed 72px bar on desktop with sticky category tabs for Pruning, Cutting, Maintenance — functional wayfinding that mirrors how professionals think about their kit.
 
@@ -404,6 +408,13 @@ components:
 - Hero banner CTAs stack vertically on mobile with full-width buttons.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

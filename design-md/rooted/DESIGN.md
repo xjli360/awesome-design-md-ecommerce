@@ -4,6 +4,10 @@ name: "Rooted"
 source_url: "https://heyrooted.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Electric chartreuse (#ccff00) bursting against deep forest green (#134431) — the palette reads like new growth punching through canopy shade, and that tension drives every surface on the Rooted storefront. GT Walsheim carries the type system in two cuts: a rounded geometric heading weight that feels approachable at 32–48px display sizes, and a lighter body weight that keeps long plant-care descriptions scannable without drifting into clinical sans-serif territory. The canvas sits at a warm parchment (#fafaef) rather than pure white, giving photography of soil, terracotta, and foliage a grounded warmth that sterile #fff would bleach out. Cards and product tiles use `{rounded.md}` corners with generous `{spacing.lg}` gutters, letting each plant breathe inside its frame — the layout never crowds. CTAs punch in that lime accent on the dark green ground, a combination with enough contrast to pass WCAG AA at `{typography.button-md}` size while still feeling organic rather than corporate. A secondary palette of earthy neutrals — warm beige (#f1ece8), pale sage (#e7ecd6), and a soft green-cream (#eef4db) — tiles across category banners, subscription plan cards, and seasonal campaign modules, reinforcing the botanical identity without leaning on leaf illustrations. Navigation holds steady in the darkest green (#15271a), nearly black but warm enough to avoid the harshness of pure #000. Accent flashes of burnt orange (#ff5400) mark sale badges and urgency indicators, while a surprise lavender (#aaa3fd) and dusty rose (#e19c9c) surface in seasonal collection headers and gift-card modules, proving the system can flex beyond its green core without losing coherence. Subscription is the commercial engine — plan-selector components, frequency toggles, and delivery-schedule cards all carry first-class design treatment with distinct surface colors and clear hierarchy. The overall impression is a nursery counter transplanted into a browser: soil-stained, sun-lit, and alive.
 
@@ -479,6 +483,13 @@ components:
 - Announcement bar: marquee scroll on mobile when text exceeds viewport width
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

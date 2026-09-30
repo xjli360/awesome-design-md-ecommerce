@@ -4,6 +4,10 @@ name: "Outer"
 source_url: "https://liveouter.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep teal (#223843) anchors every primary surface and call-to-action — a color that reads neither coastal nor forest but somewhere between the two, placing this outdoor furniture system in a temperate middle ground where shade fabric meets eucalyptus wood. The palette stays deliberately restrained; near-black ink (#121212) carries all body copy, a single soft gray (#dedede) handles dividers and subtle borders, and the rest is white canvas breathing around oversized lifestyle photography. Barlow, a neo-grotesque with generous x-height and open apertures, runs at comfortable weights — semi-bold 600 for headlines, regular 400 for long-form product descriptions that read more like magazine editorial than furniture spec sheets. Corners soften consistently at `{rounded.sm}` for interactive elements and `{rounded.md}` for cards, never reaching full pill shapes except on tags and small badges; the overall geometry suggests precision joinery rather than playful softness. Spacing is generous — section gaps of 64–80px let hero images command attention, and product cards sit in neat grids with `{spacing.lg}` gutters that prevent the dense material swatches and configuration options from feeling cluttered. The nav bar is minimal, transparent over hero imagery, with teal text links that darken on hover. Product pages lean heavily on a configurator pattern — inline swatches for fabric, frame finish, and sectional arrangement — all rendered in compact touch targets with `{rounded.xs}` chip borders. A persistent sticky add-to-cart bar appears on scroll, using the full-width teal `{colors.primary}` button at `{rounded.sm}` to close the sale. The system trusts its photography and generous whitespace to carry emotional weight while keeping UI chrome functionally invisible.
 
@@ -372,6 +376,13 @@ components:
 - Announcement bar text truncates with ellipsis on narrow viewports, full text on hover/tap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

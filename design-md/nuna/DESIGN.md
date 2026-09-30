@@ -4,6 +4,10 @@ name: "Nuna"
 source_url: "https://nunababy.com/usa/"
 captured_at: "2026-09-29T03:58:43.387546+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   This interpretation is drawn from the Nuna USA storefront (nunababy.com/usa/), an official Magento-based
   parent-site presentation of Nuna's car seats, strollers, and baby-gear catalog. The observed palette centers
@@ -176,6 +180,13 @@ primary nav into a drawer or overlay below 768px, and stack hero copy above imag
 table is a design recommendation only and does not reflect measured breakpoints from the live site.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Evidence is static CSS/text extraction; no rendered layout, grid structure, or breakpoint behavior was

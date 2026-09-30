@@ -4,6 +4,10 @@ name: "Puzz"
 source_url: "https://puzz.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A puzzle-and-games archive that wears its 1999 heritage as a quiet confidence — the primary green `#6aaa64` (a Wordle-correct-leaf green) and its deeper sibling `#538d4e` (the meta theme-color) suggest a brand that grew up alongside browser-based casual gaming, not a startup chasing trends. The palette leans heavily into midnight blues (`#1a1a2e`, `#16213e`, `#0f3460`) for backgrounds and nav bars, creating a dark-theme-ready canvas that makes the green CTAs and gold accent `#b59f3b` pop like correct guesses. Type runs system-native (`-apple-system`, `BlinkMacSystemFont`, `Roboto`, `Segoe UI`) — no custom font investment, which signals a lean engineering team prioritizing load speed and accessibility over brand typography. Buttons carry `{rounded.sm}` corners (8px) rather than pills, and the `{rounded.md}` (12px) on cards keeps the interface crisp without feeling toy-like. The extracted color list includes a purple `#8b5cf6` and a red `#e74c3c` that likely serve as category badges or difficulty indicators, while the `#d7dadc` and `#e2e8f0` grays handle borders and muted text. This is a brand that trusts its content — 47,000+ puzzles — over visual polish; the design system is a container, not a decoration.
 
@@ -375,6 +379,13 @@ components:
 - Sidebar content (if present) moves below main content on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

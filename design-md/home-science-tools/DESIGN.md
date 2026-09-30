@@ -4,6 +4,10 @@ name: "Home Science Tools"
 source_url: "https://www.homesciencetools.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The masthead runs #03354c — a deep-sea navy that reads closer to a microscope casing than a corporate navy — and it sets an immediate visual contract between the brand and its parent-educator audience: authoritative enough to anchor a curriculum, warm enough to invite a ten-year-old. Amber (#f1a500) breaks against that dark ground wherever a purchase action needs to happen, giving every "Add to Cart" button and sale ribbon the visual temperature of a Bunsen burner lit in a dark lab. The type pairing divides labor cleanly: Montserrat carries display headings and category labels in geometric uppercase that scans the way a supply-cabinet index should, while Outfit handles body copy, nav labels, and price figures with open apertures and generous x-height suited to a parent skimming a 200-item product grid between lesson blocks. The palette doesn't stop at one blue — it walks five distinct steps from #03354c through #395663, #4f7a92, and #4496f6 out to the sky-wash #5cbceb, letting section backgrounds, hover states, and informational callouts all coexist in the same cool hue family without competing. Teal-green (#5fb19a) marks new arrivals and ecology kit collections; red (#d14343) appears only under duress — error states, expiring-sale countdowns — because the brand reserves alarm for moments that earn it. Corner radii sit at a measured middle register: {rounded.sm} on buttons and form inputs, {rounded.md} on product cards, approachable enough for a homeschool family interface without sliding into the hyper-soft vocabulary of children's entertainment products. Grade-level badge tags, kit-type chips, and "New" markers are first-class card objects — this is a reference catalog as much as a storefront, and the entire layout from the mega-nav subject grid to the pill-shaped search bar with its navy submit orb is built around the question a parent always asks first: does this work for my kid's grade?
 
@@ -374,6 +378,13 @@ components:
 - Grade and sale badges stack vertically in top-left card corner when both present; never overlap image
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

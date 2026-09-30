@@ -4,6 +4,10 @@ name: "Snow Peak"
 source_url: "https://www.snowpeak.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A Japanese titanium cup (#b6b8ba) set on a slab of dark basalt (#141414) — that single image is the Snow Peak system. The brand's palette is drawn from mountain equipment and campfire evenings: a deep near-black ink (#141414) that anchors every header, footer, and product-detail background, paired with a warm silver-gray (#b6b8ba) that reads as raw titanium rather than polished chrome. The primary action color is a forest green (#063b26) that appears on add-to-cart buttons and membership badges, while a restrained red (#a11b1b) surfaces only on sale tags and error states. The canvas is a soft off-white (#f6f6f6) rather than pure white, giving the entire site the patina of well-worn canvas tent walls. Inter runs at 400–600 weight across the system — no heavy 700+ display weights, because the product photography (tents pitched at golden hour, titanium cooksets on granite boulders) carries the emotional weight. Buttons use {rounded.sm} corners that suggest machined metal rather than pill-shaped friendliness; product cards use {rounded.md} that mirrors the radius of a folding camp stool. The typography hierarchy is compressed — display sits at 24px, body at 14px — because the brand trusts negative space and full-bleed hero imagery over typographic volume. Every CTA is a solid rectangle of {colors.primary} with white text, never an outline or ghost button, because Snow Peak sells equipment for the outdoors, not digital services.
 
@@ -323,6 +327,13 @@ components:
 - Product detail page tabs collapse to accordion on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

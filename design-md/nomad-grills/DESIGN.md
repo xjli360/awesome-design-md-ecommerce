@@ -4,6 +4,10 @@ name: "Nomad Grills"
 source_url: "https://nomadgrills.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Steel grates, tack-welded frames, and a $399 price point that implies no wasted material — Nomad's visual language follows the same discipline as its hardware. The site anchors on a near-void navy `#112233` that reads almost as black until it sits next to true black `#121212`, where the chromatic difference surfaces as a subtle cool cast that distinguishes structural zones from body text. Branded steel-blue `#2a4d7f` — the meta theme-color — carries all interactive scaffolding: primary buttons, hover states on navigation links, and price-callout badges that the brand treats as product specs rather than marketing elements. The neutral gray axis runs from `#dedede` hairlines through `#e3e2e1` warm surfaces to `#a3a2a1` muted labels, mapping onto the powder-coat and brushed-steel tones of the grill itself without forced analogy.
 
@@ -339,6 +343,13 @@ components:
 - Announcement bar: multi-message static display on desktop; auto-scrolling single ticker on mobile to save height
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

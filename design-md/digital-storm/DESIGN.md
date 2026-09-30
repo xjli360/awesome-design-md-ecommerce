@@ -4,6 +4,10 @@ name: "Digital Storm"
 source_url: "https://www.digitalstorm.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A high-performance PC builder that communicates through dark, machined surfaces and a single accent — #313131, a near-black charcoal that serves as both background and primary color, creating a visual environment closer to a server room than a retail storefront. The brand's design language is defined by absence: no hero gradients, no lifestyle photography bleeding into text, no decorative flourishes. Every pixel is either structural (grid lines at {colors.hairline}, card borders at {colors.hairline-soft}) or informational (spec badges, configurator steps, price tags). Typography runs system-native — the stack is -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Helvetica Neue, Arial, sans-serif — with no custom typeface investment, signaling that the brand's identity lives in hardware photography and technical copy rather than letterforms. Buttons are sharp-cornered ({rounded.sm} ~4px), inputs are flat rectangles with no shadow, and the configurator UI uses a two-column layout where the left pane (options) is {colors.surface-soft} and the right pane (preview) is {colors.canvas}. The checkout flow is the only place where color shifts — a lighter {colors.surface-card} background with {colors.primary} (#313131) used sparingly for "Add to Cart" and "Configure" CTAs. The overall effect is industrial, no-nonsense, and deeply technical: a design system built for enthusiasts who want to see the specs, not the brand.
 
@@ -596,6 +600,13 @@ components:
 - Product card image aspect ratio remains 4:3 across all breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

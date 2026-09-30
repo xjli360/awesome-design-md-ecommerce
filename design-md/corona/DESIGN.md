@@ -4,6 +4,10 @@ name: "Corona"
 source_url: "https://coronatools.com"
 captured_at: "2026-09-29T03:57:47.007329+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Corona Tools presents itself as a heritage American manufacturer (est. 1928) of
   professional-grade pruning, cutting, and landscaping hardware, sold through a
@@ -170,6 +174,13 @@ This is a proposed responsive strategy, not measured site behavior:
 Touch targets should be a minimum of 40px in height, matching the one measured input `min-height` value in the source CSS. Header navigation collapse, mobile drawer patterns, and swipe/carousel behavior are proposed conventions and were not observed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

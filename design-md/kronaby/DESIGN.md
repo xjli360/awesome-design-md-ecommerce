@@ -4,6 +4,10 @@ name: "Kronaby"
 source_url: "https://www.kronaby.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every page on kronaby.com opens against uncompromising black — meta theme-color #000000 is the single color reliably extracted from a site otherwise shielded behind a Vercel security checkpoint. That black is not a dark-mode toggle or a seasonal campaign choice; it is the persistent ground state of a Swedish hybrid watch brand that has staked its identity on the idea that a smartwatch can be invisible as a smartwatch. Kronaby's physical watches — Sekel, Apex, Alto, Nord — carry traditional sweeping second hands, date windows, and slim dials that could pass for a purely mechanical piece at a glance. The site mirrors this ethos: a dark canvas where product photography provides the only warmth, where typography is kept light-weight and open-spaced rather than punchy and bold, and where the absence of any glowing notification iconography is itself a design statement. Because the live extraction returned only Vercel's own checkpoint colors (#0070f3, #3291ff — discarded as non-brand) and system-font fallback stacks, the palette and type scale below are reconstructed from Kronaby's documented brand materials and product photography: near-black surfaces, high-contrast white copy, a warm champagne accent (#c8a864) that echoes the gilt indices and sunray dials across the physical product range, and a secondary warm gray for supporting text. Typography defers to the confirmed system stack — -apple-system and Helvetica — in light weights (300–400) with wide letter-spacing at display sizes, the mark of a brand that treats whitespace and restraint as premium signals rather than filling every pixel with feature claims. Components sit in tight zero-radius or near-zero-radius rectangles rather than pill shapes: a brand selling clean dial geometry would not undercut itself with bubbly UI. The overall rhythm is generous — wide section margins, sparse navigation, and a product card that presents the watch against a single color field with minimal text below.
 
@@ -329,6 +333,13 @@ components:
 - Footer columns collapse from a 4-column grid to 2-column at tablet breakpoint and single column on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

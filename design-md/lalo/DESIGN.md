@@ -4,6 +4,10 @@ name: "Lalo"
 source_url: "https://meetlalo.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Lalo is a modern baby and toddler brand that balances playful optimism with a grounded, trustworthy aesthetic. The brand’s visual language is anchored by a deep, confident navy (`#0f234c`) and a vibrant primary blue (`#3057a7`) that together signal reliability and warmth — a far cry from the pastel pinks and baby blues of conventional nursery brands. A signature accent of electric lime (`#d4fb41`) and a sunny yellow (`#fffb00`) inject moments of joy and energy, while a rich forest green (`#376b52`) and deep teal (`#01392c`, `#004f49`) ground the palette in nature and sustainability. The brand uses a clean white canvas (`#ffffff`) with soft surfaces (`#f6f6f6`, `#ecf3ff`) and warm, peachy tones (`#faeadf`) for a gentle, approachable feel. Typography relies on Inter and Nunito Sans, giving a clean, readable, and slightly friendly character — neither too corporate nor too whimsical. Corners are soft but not pill-like: buttons use `{rounded.sm}` (8px) and cards use `{rounded.md}` (12px), while badges and accent elements can go to `{rounded.full}` for a playful touch. The overall mood is one of considered, modern parenthood — products that parents are proud to own, not just functional necessities.
 
@@ -469,6 +473,13 @@ components:
 - Search bar remains visible on all breakpoints but may reduce in width
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

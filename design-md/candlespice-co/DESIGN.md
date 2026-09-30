@@ -4,6 +4,10 @@ name: "Candlespice Co."
 source_url: "https://candlespice.com"
 captured_at: "2026-09-28T09:14:09.187203+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Candlespice Co. is a Cincinnati-area maker of small-batch soy candles, wax
   bars, room sprays, and pottery vessels, sold through a Shopify storefront.
@@ -176,6 +180,13 @@ This is a proposed breakpoint recommendation, not measured site behavior:
 Touch targets on primary/secondary buttons should maintain a minimum 44px hit area even though the observed `.btn` padding (11px 20px at 16px type) yields a smaller visual box; add invisible padding on touch devices. Product-card and collection-tile grids should collapse to a single column below 600px, per typical Shopify-theme convention, though this was not confirmed in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

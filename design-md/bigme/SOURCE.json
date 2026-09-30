@@ -57,30 +57,7 @@
     "#ffffff": {
       "count": 7,
       "sources": [
-        "https://bigmestore.com/",
-        "https://bigmestore.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://bigmestore.com/cdn/shop/t/6/assets/base.css?v=165191016556652226921698120339"
-      ]
-    },
-    "#000000": {
-      "count": 4,
-      "sources": [
-        "https://bigmestore.com/",
-        "https://bigmestore.com/cdn/shop/t/6/assets/base.css?v=165191016556652226921698120339",
-        "https://bigmestore.com/cdn/shop/t/6/assets/component-localization-form.css?v=143319823105703127341698120340"
-      ]
-    },
-    "#121212": {
-      "count": 3,
-      "sources": [
-        "https://bigmestore.com/",
-        "https://bigmestore.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
-    "#ffffff00": {
-      "count": 3,
-      "sources": [
-        "https://bigmestore.com/cdn/shop/t/6/assets/base.css?v=165191016556652226921698120339"
+        "https://bigmestore.com/"
       ]
     },
     "#f3f3f3": {
@@ -95,32 +72,14 @@
         "https://bigmestore.com/"
       ]
     },
-    "#334fb4": {
-      "count": 2,
+    "#121212": {
+      "count": 3,
       "sources": [
         "https://bigmestore.com/"
       ]
     },
-    "#00000000": {
-      "count": 2,
-      "sources": [
-        "https://bigmestore.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
-    "#dedede": {
-      "count": 2,
-      "sources": [
-        "https://bigmestore.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
-    "#0000000d": {
-      "count": 2,
-      "sources": [
-        "https://bigmestore.com/cdn/shop/t/6/assets/base.css?v=165191016556652226921698120339"
-      ]
-    },
-    "#0071ce": {
-      "count": 1,
+    "#000000": {
+      "count": 4,
       "sources": [
         "https://bigmestore.com/"
       ]
@@ -132,36 +91,6 @@
       ]
     },
     "#232323": {
-      "count": 1,
-      "sources": [
-        "https://bigmestore.com/"
-      ]
-    },
-    "#eb001b": {
-      "count": 1,
-      "sources": [
-        "https://bigmestore.com/"
-      ]
-    },
-    "#f79e1b": {
-      "count": 1,
-      "sources": [
-        "https://bigmestore.com/"
-      ]
-    },
-    "#ff5f00": {
-      "count": 1,
-      "sources": [
-        "https://bigmestore.com/"
-      ]
-    },
-    "#142fbd": {
-      "count": 1,
-      "sources": [
-        "https://bigmestore.com/"
-      ]
-    },
-    "#1532cb": {
       "count": 1,
       "sources": [
         "https://bigmestore.com/"
@@ -179,6 +108,18 @@
         "https://bigmestore.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
       ]
     },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://bigmestore.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://bigmestore.com/cdn/shop/t/6/assets/base.css?v=165191016556652226921698120339"
+      ]
+    },
     "#00000080": {
       "count": 1,
       "sources": [
@@ -189,9 +130,6 @@
   "font_families": {
     "Assistant": [
       "https://bigmestore.com/"
-    ],
-    "object-fit: contain": [
-      "https://bigmestore.com/cdn/shop/t/6/assets/component-predictive-search.css?v=118923337488134913561698120340"
     ]
   },
   "css_rules": [
@@ -352,35 +290,35 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-300",
   "tokens": {
     "colors.primary": {
+      "value": "#121212",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://bigmestore.com/",
-        "https://bigmestore.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+        "https://bigmestore.com/"
       ]
     },
     "colors.ink": {
+      "value": "#121212",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://bigmestore.com/",
-        "https://bigmestore.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+        "https://bigmestore.com/"
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://bigmestore.com/",
-        "https://bigmestore.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://bigmestore.com/cdn/shop/t/6/assets/base.css?v=165191016556652226921698120339"
+        "https://bigmestore.com/"
       ]
     },
     "colors.body": {
+      "value": "#232323",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -388,6 +326,7 @@
       ]
     },
     "colors.muted": {
+      "value": "#1c1c1c",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -395,6 +334,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#dedede",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -402,6 +342,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#f3f3f3",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -409,24 +350,23 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://bigmestore.com/",
-        "https://bigmestore.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://bigmestore.com/cdn/shop/t/6/assets/base.css?v=165191016556652226921698120339"
+        "https://bigmestore.com/"
       ]
     },
     "colors.on-primary": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://bigmestore.com/",
-        "https://bigmestore.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://bigmestore.com/cdn/shop/t/6/assets/base.css?v=165191016556652226921698120339"
+        "https://bigmestore.com/"
       ]
     },
     "colors.accent": {
+      "value": "#1990c6",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -434,6 +374,7 @@
       ]
     },
     "colors.accent-hover": {
+      "value": "#136f99",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -441,6 +382,7 @@
       ]
     },
     "colors.divider-subtle": {
+      "value": "#0000000d",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -448,6 +390,7 @@
       ]
     },
     "colors.overlay-scrim": {
+      "value": "#00000080",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -455,6 +398,7 @@
       ]
     },
     "colors.surface-dark": {
+      "value": "#242833",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -462,113 +406,374 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "Assistant, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "Assistant, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "-0.25px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "Assistant, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0.06rem"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "Assistant, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0.06rem"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Assistant, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0.04rem"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Assistant, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.04rem"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "Assistant, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 500,
+        "lineHeight": 1,
+        "letterSpacing": "0.06rem"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.button-accent": {
+      "value": {
+        "backgroundColor": "{colors.accent}",
+        "textColor": "{colors.on-primary}",
+        "hoverBackgroundColor": "{colors.accent-hover}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.divider-subtle}",
+        "textColor": "{colors.body}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-dark}",
+        "textColor": "{colors.on-primary}",
+        "headlineTypography": "{typography.display-xl}",
+        "subTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-dark}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.device-spec-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "labelTypography": "{typography.caption}",
+        "valueTypography": "{typography.body-md}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ":root,\n        .color-background-1",
+        "property": "--gradient-background",
+        "declaration": "#ffffff",
+        "url": "https://bigmestore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bce0a5d3fe05a0e72010b46669ddb60aa5bd731130ad15287ce9787a2446c587"
+      },
+      "#f3f3f3": {
+        "selector": ".color-background-2",
+        "property": "--gradient-background",
+        "declaration": "#f3f3f3",
+        "url": "https://bigmestore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bce0a5d3fe05a0e72010b46669ddb60aa5bd731130ad15287ce9787a2446c587"
+      },
+      "#242833": {
+        "selector": ".color-inverse",
+        "property": "--gradient-background",
+        "declaration": "#242833",
+        "url": "https://bigmestore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bce0a5d3fe05a0e72010b46669ddb60aa5bd731130ad15287ce9787a2446c587"
+      },
+      "#121212": {
+        "selector": ".color-accent-1",
+        "property": "--gradient-background",
+        "declaration": "#121212",
+        "url": "https://bigmestore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bce0a5d3fe05a0e72010b46669ddb60aa5bd731130ad15287ce9787a2446c587"
+      },
+      "#000000": {
+        "selector": ":root",
+        "property": "--shopify-chat-text-color",
+        "declaration": "#000000",
+        "url": "https://bigmestore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bce0a5d3fe05a0e72010b46669ddb60aa5bd731130ad15287ce9787a2446c587"
+      },
+      "#1c1c1c": {
+        "selector": "inline-style",
+        "property": "fill",
+        "declaration": "#1C1C1C",
+        "url": "https://bigmestore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bce0a5d3fe05a0e72010b46669ddb60aa5bd731130ad15287ce9787a2446c587"
+      },
+      "#232323": {
+        "selector": "inline-style",
+        "property": "fill",
+        "declaration": "#232323",
+        "url": "https://bigmestore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bce0a5d3fe05a0e72010b46669ddb60aa5bd731130ad15287ce9787a2446c587"
+      },
+      "#1990c6": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#1990c6",
+        "url": "https://bigmestore.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#136f99": {
+        "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+        "property": "background-color",
+        "declaration": "#136f99",
+        "url": "https://bigmestore.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://bigmestore.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#0000000d": {
+        "selector": ".animate--hover-3d-lift .card-wrapper:hover .card--card,.animate--hover-3d-lift .card-wrapper:hover .card--standard .card__inner,.animate--hover-3d-lift .button:not(.button--tertiary):not([disabled]):hover,.animate--hover-3d-lift .shopify-challenge__button:not([disabled]):hover,.animate--hover-3d-li",
+        "property": "box-shadow",
+        "declaration": "-1rem -1rem 1rem -1rem #0000000d,1rem 1rem 1rem -1rem #0000000d,0 0 .5rem #fff0,0 2rem 3.5rem -2rem #00000080",
+        "url": "https://bigmestore.com/cdn/shop/t/6/assets/base.css?v=165191016556652226921698120339",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "4b3b8685d64ab3f86ca25c45615c6a9f0e978fbb0ddeae11ddf843d7ec247cf5"
+      },
+      "#00000080": {
+        "selector": ".animate--hover-3d-lift .card-wrapper:hover .card--card,.animate--hover-3d-lift .card-wrapper:hover .card--standard .card__inner,.animate--hover-3d-lift .button:not(.button--tertiary):not([disabled]):hover,.animate--hover-3d-lift .shopify-challenge__button:not([disabled]):hover,.animate--hover-3d-li",
+        "property": "box-shadow",
+        "declaration": "-1rem -1rem 1rem -1rem #0000000d,1rem 1rem 1rem -1rem #0000000d,0 0 .5rem #fff0,0 2rem 3.5rem -2rem #00000080",
+        "url": "https://bigmestore.com/cdn/shop/t/6/assets/base.css?v=165191016556652226921698120339",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "4b3b8685d64ab3f86ca25c45615c6a9f0e978fbb0ddeae11ddf843d7ec247cf5"
+      }
+    },
+    "font_families": {
+      "Assistant": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Assistant",
+        "url": "https://bigmestore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bce0a5d3fe05a0e72010b46669ddb60aa5bd731130ad15287ce9787a2446c587"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

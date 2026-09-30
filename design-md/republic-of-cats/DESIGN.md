@@ -4,6 +4,10 @@ name: "Republic of Cats"
 source_url: "https://republicofcats.com"
 captured_at: "2026-09-28T10:11:28.092797+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Republic of Cats is a UK subscription cat-food brand pairing a playful, high-contrast palette with DM Sans (Arial/sans-serif fallback), the only typeface confirmed in the supplied CSS. The clearest observed evidence is the primary call-to-action: a pill-shaped button (border-radius ~45px) with a bright yellow background (#ffdc3f) and near-black text (#1d1d1b), set in DM Sans at 16px/700. A secondary dark pill variant reverses this, using #1d1d1b as background with white text, suggesting a light/dark button pairing. Body copy inherits #1d1d1b on a white canvas. Standard navigation-style buttons use small 4px radii, white backgrounds, and 14px/400 DM Sans, implying restrained, low-emphasis UI chrome for header links and menu items.
   Beyond these directly observed rules, the wider palette (teal, coral, pink, gold, navy) is inferred as an illustrative/accent system for cat-personality theming, recipe categories, or review-badge accents rather than confirmed UI roles. Soft teal tints (#e4f1f2, #c9e4ea) are proposed as gentle surface tones for cards and sections, echoing the "healthy, natural" positioning implied by the copy. Layout, spacing, and responsive behavior are not observed and are proposed conventions suited to a personalization-led DTC food subscription flow.
@@ -146,6 +150,13 @@ Proposed breakpoints (not measured):
 Touch targets should be at least 40px tall, matching the observed button heights (40px nav buttons, 50px primary CTA). Navigation is expected to collapse to a hamburger/menu (the page text includes a "≡" menu glyph) below tablet width. This section is a recommendation derived from conventional patterns, not measured site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

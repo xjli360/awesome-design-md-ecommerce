@@ -4,6 +4,10 @@ name: "AMMO NYC"
 source_url: "https://ammonyc.com"
 captured_at: "2026-09-29T03:59:03.446125+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   AMMO NYC's storefront CSS shows a restrained, utilitarian palette built around near-black
   (#121212, confirmed via the body text and secondary-button rules using rgb(25,24,24)),
@@ -161,6 +165,12 @@ Recommended, not measured from live rendering:
 Touch targets should be at least 44px tall, aligning with the accelerated-checkout button's `clamp(25px, 44px, 55px)` sizing. Primary nav should collapse to a drawer/menu below the tablet breakpoint. None of this reflects observed JavaScript or CSS media-query behavior from the site.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Evidence was extracted statically from compiled CSS bundles and page text; no live DOM, computed styles, or responsive breakpoints were observed.

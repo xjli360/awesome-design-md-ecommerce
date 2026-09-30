@@ -4,6 +4,10 @@ name: "Elkwood Leather"
 source_url: "https://elkwoodleather.com"
 captured_at: "2026-09-28T09:32:22.870400+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Elkwood Leather's storefront runs on a stock Shopify theme (base.css / Dawn-family
   tokens) layered with a warm, undyed-leather palette. The CSS custom properties
@@ -169,6 +173,13 @@ Recommended, not measured breakpoints:
 Touch targets should be at least 44px tall (aligning with the observed `min-height:44px` default on `.shopify-payment-button__button`). Navigation collapse, drawer/off-canvas cart behavior, and any sticky-header behavior were not observed in the supplied CSS and are recommendations only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

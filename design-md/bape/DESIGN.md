@@ -4,6 +4,10 @@ name: "BAPE"
 source_url: "https://bape.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Seven achromatic values — the complete extracted palette — carry the entire BAPE digital shell, from deepest-black #121212 navigation ground through #dedede hairlines to near-white #eeeeee surface lifts. All chromatic energy is deliberately exiled into the product imagery: ABC Camo in acid-washed pastels, Shark Full-Zip olive, and BAPESTA chrome arrive as eruptions against a cold neutral frame that never competes with the UI layer. The single font detection resolves to monospace, a signal that reads as military stencil and urban brutalism simultaneously — type that feels like a classified requisition form rather than a lifestyle catalog. Every letterform runs uppercase across buttons, nav labels, and product copy, a blanket refusal to soften toward the consumer. Buttons carry zero border-radius ({rounded.none}), hard black rectangles stamped on white or inverted, with no softening corner anywhere in the interface — a visual policy that holds from the Add to Cart CTA down to the size-selector grid. The nav sits at a compact 60px with a pure #121212 announcement bar above it, giving the brand ownership of the entire viewport crown. Product cards are flush and unpadded, relying entirely on APE HEAD silhouettes and camouflage print photography for visual differentiation — the card chrome contributes nothing beyond a monospace price line. On mobile the navigation collapses to a full-screen #121212 overlay rather than a slide-out drawer, a vault-door effect that preserves the brand's monolithic texture at every breakpoint. Spacing is tight and architectural: product grids run at minimal gutters, the section rhythm compressed compared to lifestyle brands, consistent with a drop-scarcity psychology that frames each product page as an inventory transaction rather than an aspiration.
 
@@ -353,6 +357,14 @@ components:
 - Product image galleries collapse from side-scroll thumbnails on desktop to swipe carousel on mobile with dot indicators in {colors.muted}
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Rowenta"
 source_url: "https://www.rowentausa.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Oxanium in the hero masthead — a geometric display face more at home on esports scoreboards and aerospace instrument panels than small-appliance retail — signals Rowenta's design intent before the first product photograph loads: precision expressed as a visual register, not a marketing claim. That typeface choice anchors a palette built on a specific saturated azure (#2768b1) that reads neither corporate-generic nor tech-startup; it sits in the middle register of confidence, recalling the blue of German precision-engineering brands without the heaviness of navy. The primary azure carries CTAs, category tabs, active states, and link-hover cues; a darker cousin (#34679f) deepens on press; a mid-tone sibling (#4480c2) handles disabled states without disappearing into the canvas.
 
@@ -416,6 +420,13 @@ components:
 - Footer column grid collapses from 4 columns to 2 (tablet) to 1 (mobile) with accordion disclosure for link lists on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

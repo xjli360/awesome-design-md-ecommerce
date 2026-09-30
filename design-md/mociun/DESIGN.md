@@ -4,6 +4,10 @@ name: "Mociun"
 source_url: "https://www.mociun.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Warm cream (#f4f2f1) fills the canvas like unbleached linen laid beneath a tray of unmounted stones — the ground against which Mociun's terracotta signature (#9e483f) and amber-gold accents (#ca934d, #d5b961) read as geological rather than decorative. Three type families layer into a hierarchy that mirrors the brand's material specificity: Ogg's high-contrast display serifs carry the largest headlines; BeausiteFit holds editorial subheadings and product titles in its fitted, book-weight cut; BeausiteSlick's hairline and thin weights handle nav labels and captions at their most refined; and Assistant grounds all interactive UI in legible neutral sans. The result is a Brooklyn atelier that communicates in patina and mineral chemistry over flash and spectacle. Primary CTAs land in terracotta (#9e483f) — a muted earth-red drawn from fired clay rather than marketing crimson — placed against the warm neutral canvas with no drop shadows or hard borders, trusting the jewelry itself to supply visual tension. Corners hold sharp or near-sharp edges ({rounded.xs} to {rounded.sm}) throughout forms, cards, and buttons: the flatness frames organically irregular stone shapes without competing with their geometry. The amber and gold tones (#ca934d, #d5b961) function as metallic accents in price emphasis, hover states, and editorial badges rather than as an all-over gold wash — gesturing toward real metal specificity. Vertical spacing is generous in editorial registers, with section breaks opening to 64px of breath, while the product grid compresses to allow stone comparison. Detail pages lean text-heavy: cut, carat, stone origin, and setting material surface directly in the product description rather than behind collapsed menus. A warm near-black (#121212) anchors primary ink, keeping Ogg headlines from reading harsh against the cream ground, while a soft gray (#444444) handles body weight where the serif might otherwise overpower supporting copy.
 
@@ -306,6 +310,13 @@ components:
 - Collection header description: visible on tablet+, collapsed to 0 height on mobile to prioritize grid
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "GotPrint"
 source_url: "https://www.gotprint.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The grass-green #8cc63f carries more signal than the house blue at GotPrint — it marks upload-complete states, proof-approved badges, and checkout confirmations, embedding the physical print-job workflow directly into the color language. The primary #3e84b6 is a workmanlike mid-blue that anchors navigation, primary CTAs, and product links without drama; it reads as competent and utilitarian rather than expressive. Below these two live an entire Bootstrap 4 alert system — success greens, info teals, warning ambers, danger reds — each with paired light backgrounds and dark text tones, which the site uses to surface job-status messages, file-requirement warnings, and order confirmations across a highly transactional UI. Type runs entirely on the system stack: Arial and Helvetica Neue at weights 400–700, sized conservatively across a tight scale. There are no custom display typefaces, no editorial serifs, no decorative ligatures — the typographic posture says "quick quote, fast checkout" rather than "premium brand moment." Cards sit at {rounded.sm} with hairline borders at #dae0e5; form inputs borrow the same 4px radius. The canvas is white (#ffffff) against a soft blue-gray surface (#f0f4f7) that gives product listing pages a light panel feel without introducing shadows. Navigation is a dense horizontal bar in #004085 navy — darker than the primary — with white labels, creating a hard authority stripe across the top that anchors the page even when the product grid beneath it gets busy. The footer mirrors this with the same navy ground. The overall system is openly pragmatic: a printing company that understands its customers need price calculators and file upload flows, not mood lighting.
 
@@ -472,6 +476,13 @@ components:
 - Breadcrumb truncates middle segments with ellipsis on narrow viewports
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

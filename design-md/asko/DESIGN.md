@@ -4,6 +4,10 @@ name: "Asko"
 source_url: "https://www.asko.com/us"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Deep Nordic navy (#14293a) — the color of a Baltic winter dusk — anchors every navigation bar, hero panel, and primary call-to-action across ASKO's digital storefront, separating the brand from the clinical silvers and appliance-white defaults that crowd the laundry category. The canvas underneath is not pure white but a warm parchment (#f7f6f4), the off-white you encounter inside a well-lit Stockholm showroom where poured-concrete floors meet birch veneer cabinetry. Typography pairs Questrial for display headings with IBM Plex Sans for body and interface text — both geometric sans-serifs, but Questrial's single 400-weight letterforms give headlines an architectural lightness that IBM Plex's heavier UI weights (500, 600) counterbalance with functional clarity. Weights stay restrained throughout: even the largest hero headline runs regular-weight at 48px, trusting generous letter-spacing and product photography — enormous full-bleed images of brushed-steel drum interiors and flush-mounted control panels — to do the persuasion. A secondary blue (#1f7bc0) surfaces in interactive links and hover states while its darker sibling (#14517e) anchors utility navigation and footer links. The neutral scale runs warmer than expected for an appliance manufacturer: grays like #b8b6b6 and #d8d6d2 lean toward taupe rather than the cool steel most competitors reach for. Corner radii stay modest — `{rounded.xs}` on buttons and inputs, `{rounded.sm}` on cards — echoing the squared-off geometry of the appliances themselves. Status messaging uses tinted surface panels: soft green (#f0fbe4) for energy-rating confirmations, pale red (#fff1f1) for stock alerts, warm amber (#fff5df) for promotional callouts, each paired with its semantic accent. Spacing is generous — `{spacing.section}` between content blocks creates the breathing room that premium positioning requires. Product cards present as clean containers on `{colors.surface-card}` with `{colors.hairline}` borders, letting the product image and a two-line specification summary speak without decorative noise. The overall impression is a digital showroom that borrows its confidence from physical retail heritage: clean sightlines, materials that feel substantial, and an editorial restraint that trusts the engineering to sell itself.
 
@@ -427,6 +431,14 @@ components:
 - Mega-menu converts from a multi-column overlay to a full-screen slide-in panel on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

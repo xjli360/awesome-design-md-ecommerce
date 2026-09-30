@@ -4,6 +4,10 @@ name: "The AC Outlet"
 source_url: "https://www.theacoutlet.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The AC Outlet's palette does something unexpected for wholesale HVAC: olive-khaki (#929457, #62623a) anchors the brand character while a coral-red (#db5757) handles every CTA — no safety orange, no construction yellow, just an earthy warmth that reads as jobsite-credible to contractors who recognize Goodman model strings on sight. The deep slate-navy (#394962) frames the navigation and structural chrome, with a darker olive topStripe carrying wholesale account status and freight messaging above the primary nav band — a two-tier top chrome that signals B2B identity before any product appears. The main canvas leans into cool industrial gray tones (#c6c7c9, #929495) rather than the clean white of consumer retail, and the full extracted palette — cool blue-grays (#677a82, #96a4a9), warm taupes (#938888, #c6b7b7), and teal-grays (#687979) — suggests a system built from careful component layering rather than a single dominant brand hue. DM Sans carries the entire typographic load without family changes: its geometric-but-approachable construction handles dense model-number strings (Goodman GSX14024, ARUF25B14) at tracked uppercase in product cards and large display headings with equal composure. Rounded corners stay deliberately minimal — {rounded.xs} and {rounded.sm} throughout — reinforcing a transactional pro interface rather than a consumer one; pill shapes and soft shadows are absent entirely. The coral accent (#db5757) is the sole warm-voltage moment in an otherwise cool palette, placing Add-to-Cart and Get Quote buttons in immediate relief without requiring additional visual weight. Trust signals — Goodman authorized-dealer status, wholesale account gates, freight-shipping thresholds, and net-30 availability — occupy prime real estate in the olive topStripe and footer, reflecting a B2B repeat-buyer flow. Search and model-number lookup dominate the UX priority queue, with category filters (Split Systems, Package Units, Air Handlers, Thermostats, Refrigerants) as the secondary path for the contractor who already knows which GSX-series unit they need.
 
@@ -412,6 +416,14 @@ components:
 - Footer 4-column grid → 2-column at tablet → single-column accordion (collapsed by default) at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

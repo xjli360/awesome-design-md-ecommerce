@@ -4,6 +4,10 @@ name: "Cora"
 source_url: "https://cora.life"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The Cora site runs on four extracted tones — near-black (#121212), slate-gray (#6e7577), pale silver (#dedede), and near-white (#eeeeee) — and makes that austerity feel deliberate rather than absent. Where most femcare brands reach for blush, botanical green, or powdery pastels to signal body-safety, Cora's visible palette is as controlled as a Swiss editorial grid: no decorative accent, no category-specific color coding between period care and bladder care, just modulated darkness calibrated against a white canvas. Type runs on Arial in the extracted stack — the site's actual web font did not surface past the JavaScript layer — set at modest weights that favor hierarchy through size and generous spacing rather than aggressive typographic contrast. Navigation sits horizontally across the top in clean, unhurried text; Font Awesome glyphs handle cart and search iconography rather than bespoke illustration. Product cards run photography-forward: the image supplies the warmth and bodily language that the UI palette deliberately withholds. Lightly rounded surfaces at {rounded.md} soften what could otherwise read as clinical severity — the rounded corner is Cora's one formal concession to approachability in a brand otherwise committed to restraint. The Shopify architecture is conventional, but the editorial pacing above the fold — body copy set like a magazine caption, subcategories named as clean categorical nouns — positions Cora as a wellness company rather than a drugstore shelf staple. Slate gray (#6e7577) functions as the sole tonal bridge, carrying secondary labels, meta-copy, inactive states, and supporting UI, producing a clean three-step value ladder (ink → muted → canvas) that disciplines hierarchy without any loud color. Section padding is generous, product grids unhurried, giving each category room to assert itself without ornamental typography filling the silence.
 
@@ -314,6 +318,13 @@ components:
 - Footer: 4-column layout → 2-column at tablet → single-column accordion at mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

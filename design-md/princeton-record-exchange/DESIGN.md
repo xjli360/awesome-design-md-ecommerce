@@ -4,6 +4,10 @@ name: "Princeton Record Exchange"
 source_url: "https://www.prex.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A dense, joyful clutter of used vinyl, CDs, and ephemera organized on a near-white canvas (#fefefe) with a sharp yellow (#ffdd00) that acts as the store’s visual shout — sale tags, price stickers, and the occasional header badge all borrow this same high-frequency accent, while a secondary orange (#f58220) and a cautionary red (#d94a00) handle urgency and markdown tiers. The site reads like a well-loved physical bin: dark ink (#1f1f1f) for headings, a softer body (#555555) for descriptions, and a full gray spectrum from hairline (#e4e4e4) through muted (#aaaaaa) to deep charcoal (#222222) for the footer and structural bones. Navigation is utilitarian — a single row of genre links (Rock, Jazz, Classical, etc.) in a sans-serif stack that defaults to system fonts, with no decorative flourishes beyond the occasional `{rounded.sm}` button. The search bar sits prominently at the top, a wide white field with a blue accent (#0089ec) for the submit action, hinting at a database-driven inventory rather than a curated editorial shop. Product cards are simple: a thumbnail, a title in bold black, a price in yellow or orange, and a condition badge. There is no hero carousel, no lifestyle photography — just rows of records, priced and labeled, waiting to be flipped through.
 
@@ -325,6 +329,13 @@ components:
 - Footer links stack vertically on mobile, with each section becoming an accordion.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

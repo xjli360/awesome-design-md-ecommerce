@@ -4,6 +4,10 @@ name: "Fisher Scientific"
 source_url: "https://www.fishersci.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Forty thousand SKUs at any given moment, and the primary visual question Fisher Scientific resolves is how to make a laboratory procurement catalog feel navigable rather than overwhelming. The answer is a strict two-register system — institutional blue (#005daa) holds wayfinding and authority, while a warm gray canvas (#efeced) absorbs the page's density without reading as sterile. Promotional voltage — yellow (#f5c51f), orange (#ed7700), brick red (#ee3134) — arrives only on sale chips and urgency banners, punching through the clinical backdrop in precisely the way a specials board punches through a hospital supply room. FisherSciengliffic, the proprietary display typeface, carries brand headings and logotype; Arial and Helvetica Neue handle the catalog at body scale, a deliberate split that keeps instrumentation-grade clarity while allowing the wordmark distinct identity. Rounded corners are nearly absent: {rounded.xs} on form fields and status chips, {rounded.sm} on action buttons — a geometry that reads instrumental rather than aspirational, consistent with the stainless-steel culture of its end users. A deep family of blues spans the interface, from the hover depth of #004985 to the hyperlink utility of #1b7dce and the soft wash of #dfedf9 in informational callout tiles — six distinct stops without requiring a second hue family. The green spectrum (#01891e through #3bad2f) functions as a legibility layer for availability ribbons, which scientists and procurement buyers read instinctively as "in stock, act now." Six-column mega-nav menus, a persistent search input anchored at every scroll position, and a sticky cart indicator define the interaction frame: this is procurement software with a brand layer, not a discovery-first shopping experience.
 
@@ -400,6 +404,13 @@ components:
 - Six-column footer collapses to single-column accordion at mobile; column headings become tap-to-expand triggers
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

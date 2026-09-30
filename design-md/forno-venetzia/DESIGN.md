@@ -4,6 +4,10 @@ name: "Forno Venetzia"
 source_url: "https://www.fornovenetzia.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The first thing that registers is heat — not metaphorical, but the exact hue of a wood-fired dome at 800°F, encoded as #d8613c across every primary CTA, promotional stripe, and product-highlight badge. Forno Venetzia pairs this kiln-born terracotta with a deep Adriatic navy (#003388) that anchors the header navigation and trust markers, setting up a chromatic tension between fire and water that echoes the brand's own name — furnace meets lagoon city. The serif stack does most of the atmospheric work: Cardo, a Venetian-revival typeface with calligraphic pen stress, holds display headlines at generous sizes and heavyweight 700, while Newsreader carries editorial body copy and product storytelling with old-style figures that keep spec sheets from reading like appliance manuals. Inter enters strictly for UI chrome — buttons, form labels, price callouts, navigation links — wherever mechanical clarity matters more than warmth. Zen Kaku Gothic Antique appears on select accent elements, lending a geometric Japanese-inspired counterweight to the European serif pair. Canvas sits at an almost-white #f9f9f9 with layered warm surfaces (#f4f4f4, #eeeeee) that prevent the sterile cast a pure white background would throw against so much brick and flame color. Product cards land at `{rounded.sm}` — enough softness to avoid a catalog-spec rigidity without competing with the rounded dome silhouettes prominent in hero photography. A golden-amber accent (#ffb100) fires on star ratings and promotional callouts, echoing the brand's flame iconography. Sage (#b1c5a4) and warm tan (#c2a990) wash over lifestyle-section backgrounds, grounding the fire palette in an outdoor-kitchen context of herb gardens, stone countertops, and Mediterranean evenings. Spacing breathes at `{spacing.section}` between content blocks, letting full-bleed oven photography command the eye. The grid caps at 1280px, tight enough that product comparison rows remain scannable. Buttons run tall (52px primary) with `{rounded.xs}` corners and uppercase Inter at weight 600 — industrial-catalog CTAs that signal durability, not luxury preciousness.
 
@@ -575,6 +579,13 @@ components:
 - Category tiles shift from grid to horizontal scroll strip on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Sassy Baby"
 source_url: "https://sassybaby.com"
 captured_at: "2026-09-28T09:07:33.721798+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Sassy Baby's storefront CSS centers on a bright teal (#00a2af) used for body text color, links, and interactive states, paired with a pure white canvas. Titles render in Nunito at 800 weight, while body and UI text use Nunito at regular weight — no secondary typeface is present in the evidence, so sans-serif is retained as the sole fallback. The palette includes soft teal tints (#f0f9fa, #ebf5fa, #f4f6f8) that are inferred as card and section backgrounds, alongside a deep purple (#230051) and coral (#f26d79) that appear only as raw values without confirmed usage — these are treated here as secondary/accent roles for badges or highlights, consistent with a playful, sensory-toy brand. Grays (#333333, #888888, #dddddd) are mapped to body copy, muted text, and hairlines respectively, though their exact application was not directly observed in a labeled rule. The interpretation favors rounded, soft-edged components (pill buttons, rounded cards) to reflect the checkout button's 25px radius and the slick-dots' fully rounded indicators, extended here as a general design language for a friendly infant/toddler toy brand. All semantic role assignments beyond directly quoted CSS are explicitly inferred.
 
@@ -150,6 +154,13 @@ The following breakpoint table is a recommendation based on common ecommerce pat
 Touch targets should maintain a minimum 44×44px hit area, matching the observed `--shopify-accelerated-checkout-button-block-size: 44px` variable. Navigation collapse behavior, carousel touch interactions (slick), and modal transitions were not observed in static CSS and should be treated as proposed only.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This interpretation is derived from static CSS extraction and a page-text excerpt; no rendered layout, computed styles, or responsive breakpoints were directly observed. Several palette colors (e.g. #230051, #f26d79, #ffe607, #3e5c9a) appear as raw hex values without an associated selector, so their semantic roles (accent, badge, error, success) are inferred rather than confirmed. Component structures — hero, product-card, nav-bar, footer — are proposed based on common ecommerce conventions and the page-text content, not extracted from labeled markup. Typography sizes beyond the observed 100%/1.15em (form elements) and 1.2em/1.6em (titles/body) line-heights are proposed estimates, as no explicit `font-size` values were present in the supplied CSS rules. Interaction states (hover, focus, active, disabled) beyond `.plain-link:hover { opacity:.8 }` were not observed. Mobile/tablet layout behavior was not present in evidence. Nunito's availability, hosting source, and licensing terms were not verified from the supplied CSS.

@@ -4,6 +4,10 @@ name: "Freestyle"
 source_url: "https://freestyle.world"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A baby-care brand that treats chlorine-free diapers as a design problem, not just a sustainability claim. The palette runs on a deep near-black ink (#121212) against a soft off-white canvas (#f1f2f5), with a signature purple (#6638b6) that appears in product badges, accent buttons, and the brand’s “TCF” certification callout — a deliberate departure from the pastel pinks and blues that dominate the category. That purple sits alongside a warm coral (#ee2737) used sparingly for sale tags and urgency markers, and a secondary lavender (#e8c7e8) that softens the brand’s educational content blocks. Typography runs FK Roman Standard for display headlines — a serif with a gentle, almost editorial weight — paired with GroteskNeue for body copy and Gumbo_Regular for accent labels, creating a mix of trustworthy authority and playful clarity. Every product card uses a {rounded.sm} corner radius, while CTAs lean into {rounded.md} to feel approachable without being pill-shaped. The brand’s “Total Chlorine Free” badge appears as a {rounded.xs} tag in {colors.primary} with white text, repeated across the product grid as a consistent visual anchor. The overall mood is clean, clinical in the best sense — like a well-designed pediatrician’s office that happens to sell diapers — with generous whitespace and a restrained use of color that lets the purple do the emotional work.
 
@@ -302,6 +306,13 @@ components:
 - Accordion sections (FAQ, product details) are collapsed by default on mobile, with the first item open on desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

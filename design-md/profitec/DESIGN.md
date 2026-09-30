@@ -4,6 +4,10 @@ name: "Profitec"
 source_url: "https://www.profitec-espresso.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Profitec stages every machine as a precision instrument rather than a kitchen appliance — each boiler housing and pressure gauge photographed dead-center against a cool #f3f3f3 ground that reads like a photographic studio backdrop rather than a design decision. The brand's German manufacturing roots manifest as restraint: no illustrative brand marks, no lifestyle photography of espresso poured over magazine-spread countertops. What carries the page is technical authority — a Pro 300 or Pro 800 earns its price through the exposed E61 grouphead, the dual PID, the hand-finished stainless steel body. The website's primary task is clearance: get the canvas clean, frame the machine, list the specifications in an order that rewards a reader who already knows what a heat exchanger does. Color extraction surfaces almost nothing beyond the near-white ground; this is intentional opacity from a brand that trusts its objects to speak without a graphic system amplifying them. Every interactive element snaps to {rounded.none}, maintaining the same hard geometry as the machines themselves — no pill shapes, no softened corners, no consumer-friendly radius. Typography likely runs thin-weight geometric sans — the default register for European precision goods — where a 300-weight display headline at large scale reads as engineer-confident rather than declarative, and all-caps spec labels with open tracking stand in for ornamentation that never arrives. Pricing sits at the prosumer tier — roughly €800 to €3,000+ — and the commerce layer reflects this: comparison tables with granular boiler-volume and pump-pressure rows, a dealer locator routing buyers to certified stockists, and product cards that lead with model number before marketing copy. The one emotional register the brand permits is its machine ladder — Pro 300 through Pro 800 signals an aspirational climb a committed home barista can follow, and the product hierarchy encodes exactly that: water tank volume and boiler type as headline specs, not lifestyle language.
 
@@ -300,6 +304,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

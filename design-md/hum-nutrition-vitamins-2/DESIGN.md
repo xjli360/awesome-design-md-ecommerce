@@ -4,6 +4,10 @@ name: "HUM Nutrition"
 source_url: "https://humnutrition.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A confident pink pulse — #ee4b9b — runs through every CTA, badge, and accent on a near-white canvas (#fefefe), signaling that this is a wellness brand unafraid of color and pleasure. The palette is a study in contrast: the hot pink sits alongside a warm marigold (#fecf0a), a soft blush (#f8c1d9), and a pale lemon (#f1f781), creating a system that feels both clinical and joyful. Body text runs in #303030 on white, with secondary copy in #545454 and #757575, keeping readability high while the brand's personality lives in the accents. The typography uses Montserrat as its primary voice — a geometric sans-serif that balances the playfulness of the color system with a clean, structured presence. Buttons are pill-shaped ({rounded.full}), cards have soft corners ({rounded.md}), and the overall spacing is generous, with {spacing.xxl} padding around sections and {spacing.xl} between content blocks. The brand's signature move is the "HUM pink" badge — a small, rounded pill in #ee4b9b with white text that appears on product cards, quiz results, and promotional banners, creating a consistent visual shorthand for "this is the thing to click." The navigation is minimal: a sticky top bar with the logo, a search icon, and a cart icon, all on a white background with a thin #e0e0e0 hairline. The overall feeling is that of a clean, modern pharmacy counter — but one designed by someone who loves color.
 
@@ -463,6 +467,13 @@ components:
 - Testimonial cards collapse from 3 columns to 1 column on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

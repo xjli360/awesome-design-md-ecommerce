@@ -4,6 +4,10 @@ name: "Monta"
 source_url: "https://www.montawatch.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The depth-gauge navy #001b32 anchors every load-bearing surface at Monta — navigation panel backgrounds, hero section overlays, footer fields — pulling the entire digital environment toward the pressure-rated instruments the brand produces. Swiss-made at an approachable price tier, yet the site enforces a discipline that never softens into affordability clichés. Futura PT carries the brand's typographic voice across headings, navigation labels, button copy, and spec callouts; its geometric monolinear construction and even stroke weights echo the indexed chapter rings and stamped case backs found on the watches themselves. Museo Sans steps in for longer editorial passages and product descriptions where Futura PT's rigidity would create fatigue over sustained reading.
 
@@ -342,6 +346,13 @@ components:
 - Collection filter tabs scroll horizontally on mobile if item count exceeds viewport width; no wrapping
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 - Exact button corner-radius on the live site inferred from visual language; a 2px value may differ from true computed radius

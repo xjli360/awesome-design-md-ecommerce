@@ -4,6 +4,10 @@ name: "Mous"
 source_url: "https://www.mous.co"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep teal (#005050) and cyan (#00bec8) brand voltage that reads as engineered precision meets underwater calm — the primary #005050 appears across every product detail page header, navigation bar, and checkout button, while #00bec8 acts as a secondary accent on hover states and interactive icons. The palette is unusually aquatic for a phone case brand: #108474 (a jade green) and #007575 (a darker teal) create a layered ocean gradient that feels deliberate rather than decorative. White canvas (#ffffff) and near-white surfaces (#f9fafb, #f0f0f0) keep the product photography — glossy aramid fiber, carbon fiber, and leather textures — as the hero. The brand uses Brandon Text (a geometric sans-serif with soft rounded terminals) for headings and body copy, giving the interface a friendly precision that matches their "limitless" product positioning. Rounded corners are generous but not pill-shaped: product cards use {rounded.md} (12px), buttons use {rounded.sm} (8px), and the search bar uses {rounded.full} (9999px) as a single soft gesture. The color #fbcd0a (a warm marigold) appears sparingly on sale badges and limited-edition callouts, providing the only warmth in an otherwise cool system. The brand's signature design move is the "Clarity" product card — a full-bleed hero image with a translucent overlay (#005050 at 60% opacity) and white text, creating a glassy depth effect that mimics the phone case's own transparency.
 
@@ -554,6 +558,13 @@ components:
 - Product card badges reposition from absolute overlay to inline below image on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

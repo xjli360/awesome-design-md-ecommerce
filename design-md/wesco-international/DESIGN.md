@@ -4,6 +4,10 @@ name: "Wesco International"
 source_url: "https://www.wesco.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Seventeen colors extracted from a single Wesco International page tell the whole story — this is not a brand anchored on one primary and two neutrals, but a traffic-management system for industrial procurement, where #bd2426 marks price alerts and urgent callouts, #9bca3e signals in-stock availability, #f68b1f flags promotional pricing, and #163959 commands the navigation bar with the authority of a regulatory standard. Type runs exclusively in Arial at every scale — no custom typeface, no web font payload — a choice that reads as deliberate when load time across a plant-floor browser matters more than brand distinctiveness. The spacing system stays compressed: 8px and 12px gaps dominate product listing grids, where showing five additional part numbers per scroll is worth more than padding generosity. Buttons carry minimal rounding ({rounded.sm}, 4px) — functional, not playful — and the primary CTA in deep navy ({colors.primary}) signals supplier trust over urgency, a deliberate departure from the alert-orange or alarm-red also present in the palette. Product cards lean entirely on text density: manufacturer name, part number in courier monospace, description snippet, unit-of-measure, and price tier compete at 13–14px without hero imagery. The three-color badge logic — lime-green availability chips, red restriction notices, orange promotional callouts — creates information-density that functions as rapid visual triage for a maintenance buyer scanning 400 line items per session. Search with autocomplete is the real homepage: a 48px input bar inside a {colors.canvas} container with a {colors.primary} submit control represents the entire value proposition compressed into one interaction. Footer menus cascade four columns deep into supplier, compliance, and account-management links — the navigation model is hierarchical and exhaustive, not editorial.
 
@@ -391,6 +395,13 @@ components:
 - Price block and availability badge are always visible at every breakpoint — never collapsed or hidden
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

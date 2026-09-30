@@ -4,6 +4,10 @@ name: "AeroGarden"
 source_url: "https://www.aerogarden.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The purple-magenta bloom of AeroGarden's LED grow-panels is the brand's sharpest design signal — a deliberate product decision that marks these countertop units as precision growing technology, not kitchen decor. That same confidence in category clarity shapes the visual system. Green carries the entire brand load: a saturated, mid-range growth green that reads closer to agricultural science than lifestyle wellness, sitting against backgrounds so clean they approach clinical whiteness. The extracted site canvas of #f6f6f6 confirms a near-zero-warmth base — AeroGarden does not reach for cream or linen to soften its technological premise. Cards, input fields, and modal surfaces step up only marginally to pure white, keeping the layering flat and readable rather than deeply shadowed.
 
@@ -399,6 +403,14 @@ components:
 - Promo banner trims to its shortest phrase on mobile; the dismiss X remains always visible and never collapses
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

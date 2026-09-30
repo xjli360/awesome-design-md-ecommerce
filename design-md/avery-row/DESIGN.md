@@ -4,6 +4,10 @@ name: "Avery Row"
 source_url: "https://avery-row.com"
 captured_at: "2026-09-29T03:58:51.437287+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Avery Row's storefront CSS evidence shows a warm, neutral palette dominated by soft creams
   (#fcf7f1, #faf7f1, #f4eee1, #f1ebdd) paired with near-black ink tones (#212121, #262626,
@@ -167,6 +171,14 @@ Recommendation only — no responsive/mobile behavior was captured in the suppli
 Touch targets should be a minimum 44×44px for nav items, swatches, and Quick Add buttons. Mega-menu categories (Shop, Christmas, Out & About, Baby Changing Bags, Feeding & Weaning, Nursery, Baby Toys & Activity, Gifting, Bundles, Print Collections) should collapse into expandable accordion groups on mobile given their depth, but this collapse behavior is proposed, not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS/text extraction only; no live rendering, computed layout, or interaction states (hover, focus, active, disabled, error) were observed beyond the third-party reviews-widget rules supplied. The semantic role of several single-occurrence colors (`#29845a`, `#ed6e41`, `#af7b88`, `#2332d5`, `#005bd3`) is inferred and could belong to unrelated third-party widgets rather than core brand styling. Font usage for Bodoni, Cardo, and Roundhand/cursive was listed in the raw font-family evidence but no selector confirmed where they apply, so they are excluded from the typography scale. All pixel sizes in the typography, rounded, and spacing scales beyond the explicitly observed `border-radius:0` and letter-spacing `0.1em` values are proposed, not measured. Mobile/responsive layout, breakpoints, and component collapse behavior were not observed and are recommendations only. Licensing and availability of the custom 'ar-larkin' and 'ar-helvetica' font files were not verified.

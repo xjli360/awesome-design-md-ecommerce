@@ -4,6 +4,10 @@ name: "Turntable Lab"
 source_url: "https://www.turntablelab.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Bebas Neue runs at full condensed compression across every display headline — a font borrowed from crate dividers and record-store signage — sitting on a near-black vinyl slab (#121212) that never lightens to true white on any primary surface. The electric cobalt #3245ff handles every interactive state: the add-to-cart button, hovered nav links, active filters. It reads against the dark canvas without softening, which gives the site a tension closer to a record sleeve than a boutique shop. The body font switches to Instrument Sans, a contemporary geometric that keeps the reading layer legible without fighting the display muscle overhead. A third axis — Inconsolata, a monospace slab — handles catalog metadata: track listings, stock codes, technical audio specs. Together the three-font system maps cleanly onto three modes of content: headline (Bebas Neue), editorial (Instrument Sans), data (Inconsolata). Buttons, cards, inputs, and section dividers carry `{rounded.none}` throughout — no softened corner anywhere, the same flat geometry as a record sleeve cut to dimension. The accent palette is unusually wide for an audio shop: amber #f7a504, red #de0f2b, purple #7f5fca, yellow #ffcb42, and a range of greens (#478947 through #02642f) are all present, functioning as genre color codes and inventory-status badges rather than brand expression. The light neutrals — #e3e4ec, #f0f0f0, #f7f7f7 — exist almost exclusively as text-on-dark surfaces or faint dividers, since the site lives primarily in dark mode. Spacing is generous in the catalog grid but tight inside product cards, squeezing maximum vinyl into a finite screen.
 
@@ -414,6 +418,13 @@ The badge system is the widest-palette element on the site, doubling as both gen
 - Footer columns stack to two on tablet, single column on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

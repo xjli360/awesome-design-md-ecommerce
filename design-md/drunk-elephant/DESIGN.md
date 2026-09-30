@@ -4,6 +4,10 @@ name: "Drunk Elephant"
 source_url: "https://www.drunkelephant.com"
 captured_at: "2026-09-28T04:09:58.947281+00:00"
 evidence_status: "historical_partial_css_evidence"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A biocompatible skincare brand that feels like a clean, clinical apothecary crossed with a playful, colorful candy shop. The canvas is a crisp, almost clinical white (`#fefefe`) that gives way to a warm, muted gray (`#f7f8fa`) on soft surfaces, creating a sense of hygienic calm. The brand's signature voltage comes from a bold, confident red (`#c8102e`), used sparingly but powerfully on primary actions and key accents, with a deeper, more serious crimson (`#af0813`) for active states. This is balanced by a surprisingly playful palette: a zesty lime green (`#84bd00`), a soft pastel pink (`#f6dcff`), a vibrant coral (`#f68f5b`), and an electric yellow (`#e6fe52`) that appear in product badges, ingredient callouts, and limited-edition packaging. The typography system is a study in contrast: the elegant, serifed "Sentinel" for display headings lends a touch of editorial sophistication, while the clean, geometric "Brown" and "Lato" families handle body copy and UI with a modern, approachable clarity. The overall effect is one of informed, joyful efficacy—a brand that trusts its science but never forgets to have fun with its colors.
 
@@ -275,6 +279,13 @@ components:
 - Hero sections may reduce height and stack text below the image on mobile.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

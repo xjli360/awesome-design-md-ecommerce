@@ -4,6 +4,10 @@ name: "Dyper"
 source_url: "https://dyper.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A baby-care brand that wraps its entire identity around a single, unmistakable marigold — #fab228 — the color of a fresh diaper's absorbent core, of morning light, of the brand's own "Bamboo" promise. That yellow isn't decoration; it's the primary CTA, the subscription-banner backdrop, the checkout accent, the color that makes the site feel like a nursery that happens to sell diapers rather than a medical-supply catalog. The palette is deliberately narrow: near-black ink (#0d0d0d) for headlines, a warm off-white canvas (#f2f2f2) that avoids clinical sterility, and two greens — a deep forest (#108474) for secondary confidence and a fresh leaf (#4a9f53) for the "eco-friendly" badge system. The brand's custom typeface, Jubel-Regular, appears in display sizes with a rounded, friendly serif that reads as both premium and approachable — not the sharp sans-serif of a tech company selling subscriptions, but a typeface that could live on a baby book. Buttons are pill-shaped (`{rounded.full}`) with generous 16px vertical padding, making them easy to tap with a hand that might be holding a wriggling infant. The subscription flow uses a three-step progress bar with numbered circles in `{colors.primary}` and `{colors.canvas}` backgrounds, each step connected by a `{colors.hairline}` line. Product cards show diapers on a clean white surface with a subtle `{rounded.md}` corner, the price in `{typography.title-md}`, and a "Subscribe & Save" badge in `{colors.primary}` with white text. The brand trusts its yellow to do the heavy lifting — there are no gradients, no shadows, no decorative flourishes. Every design decision reads as: we have one job, we do it well, and we don't need to shout.
 
@@ -449,6 +453,13 @@ components:
 - Subscription progress steps collapse from horizontal to vertical on mobile, with step numbers only (labels hidden)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

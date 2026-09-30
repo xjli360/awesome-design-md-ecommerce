@@ -4,6 +4,10 @@ name: "Cult Collectables"
 source_url: "https://cultcollectables.com"
 captured_at: "2026-09-28T04:13:21.697028+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Cult Collectables presents a high-contrast, collector-focused retail interface built on a black-and-white foundation. The observed palette is dominated by pure black (#000000) and white (#ffffff), with grayscale steps (#eeeeee, #dddddd, #cccccc, #666666, #333333) used for borders, muted text, and surface layering. A small set of saturated accents (#108474 teal, #ee0000 red, #008a00 green, #fbcd0a yellow) appear alongside payment-icon and social-brand colors (#3b5998, #1da1f2, #eb001b, #f79e1b) that are treated here as third-party marks rather than brand colors. Typography evidence shows Baskerville (a classic serif) alongside Nunito Sans and system fallbacks (Arial, Helvetica); JudgemeIcons/JudgemeStar are review-widget icon fonts, not applied to body or heading text.
 
@@ -144,6 +148,13 @@ This is a proposed, non-measured breakpoint recommendation, not an observation o
 Touch targets should be at least 44x44px for cart/search icons; the header's forced white text on black background should maintain sufficient contrast when collapsed into a mobile drawer. Sticky header behavior is suggested by CSS variables but its exact scroll offset and animation are not observed.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - This document is derived from static CSS/custom-property extraction only; no live rendering, computed layout, or DOM screenshots were available.

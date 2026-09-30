@@ -4,6 +4,10 @@ name: "PetPlate"
 source_url: "https://petplate.com"
 captured_at: "2026-09-28T04:11:00.270125+00:00"
 evidence_status: "historical_partial_css_evidence"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Steaming bowls of slow-cooked chicken and glistening veggie chunks photographed like restaurant entrées — that is PetPlate's primary design move, elevating dog food from shelf-SKU utility into something a human might want to eat. Every hero, plan-selector card, and email header leads with plated food photography rather than lifestyle shots of dogs running, which is an unusual inversion for the category. The brand's warmth flows from a signature orange — estimated near #E8703A — that appears on every primary CTA, step indicator, subscription plan highlight, and portioning badge, pulling the page together without relying on illustration or iconography overload. The canvas is clean white (#FFFFFF) with warm-tinted surface panels (#FFF9F5) that echo the food's thermal golds rather than the clinical whites common to health-positioning brands. Type is a geometric sans-serif at confident weights; headlines run heavy (700) and large to assert authority in a category historically dominated by cluttered bag copy, while body copy stays at readable 16px. Button corners are softly rounded — not pill-shaped, not sharp — sitting around 8–10px, friendly without being childlike. Subscription plan cards use a pronounced border and a subtle warm-surface fill on the selected state, reinforcing choice without anxiety. Ingredient lists, vet-formulated callouts, and USDA-sourcing badges appear as small pill chips with hairline borders, giving nutritional claims a document-grade credibility rather than a marketing-flare register. The nav is minimal: logo left, plan CTA right, no mega-menu, reflecting a brand whose conversion path is a quiz funnel rather than a browse catalog. Portion calculators and dog-profile inputs use step-progress patterns with the orange primary as the active-step color, turning a data-collection flow into something that reads like a concierge onboarding. Mobile behavior collapses the nav to a hamburger with the quiz CTA remaining sticky at the bottom of the viewport — the one interaction PetPlate never hides is the entry point to the subscription funnel.
 
@@ -442,6 +446,13 @@ components:
 - Footer columns: 1 col (mobile) → 2 col (tablet) → 4 col (desktop)
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Dainese"
 source_url: "https://dainese.com"
 captured_at: "2026-09-28T10:02:31.781400+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Dainese's storefront evidence shows a technical, high-contrast system built on a
   near-black/white base with a single saturated red (#e30613) as the brand accent,
@@ -166,6 +170,13 @@ components:
 This is a recommendation, not measured site behavior. Below `md`, navigation is assumed to collapse into a hamburger/off-canvas menu given the deep multi-level category taxonomy in the page text; category flyouts likely become accordions. Touch targets should be at least 44×44px for primary buttons and size-selector chips. Product grids are assumed to step from a single column below `md` to multi-column above `xl`, but no grid CSS was captured to confirm column counts or gutter values.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

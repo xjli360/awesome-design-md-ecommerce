@@ -4,6 +4,10 @@ name: "Fireclay Tile"
 source_url: "https://fireclaytile.com"
 captured_at: "2026-09-28T04:21:08.474560+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Fireclay Tile's public CSS shows a warm, craft-oriented palette built from
   a dark clay-brown (#312a29), a warm off-white (#fcf9f4), and a saturated
@@ -158,6 +162,13 @@ components:
 Recommended breakpoints (not measured from live rendering): mobile ≤767px, tablet 768–1023px, desktop ≥1024px. This aligns loosely with the CSS's own mobile/desktop custom-property pairs (e.g. header logo 100×26px scaling to 130×33px, header padding moving from `--spacing-3` to `--spacing-6`, and heading scale `--text-h0` moving from 3.5rem to 4.5rem), though the exact pixel threshold triggering these swaps was not present in the supplied rules. Navigation likely collapses to a hamburger/drawer pattern below tablet width; this is a standard-practice recommendation, not a verified behavior. Touch targets for buttons and nav items should maintain a minimum 44×44px hit area regardless of visual padding. Product grids should reduce column count (e.g. 3–4 desktop columns to 1–2 mobile columns) and increase row gap using `{spacing.xl}` or `{spacing.xxl}` for readability on small viewports.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

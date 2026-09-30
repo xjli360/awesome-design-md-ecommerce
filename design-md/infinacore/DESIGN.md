@@ -4,6 +4,10 @@ name: "InfinaCore"
 source_url: "https://www.infinacore.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A charging-essentials brand that runs on a #108474 teal voltage — the color of a circuit board's copper trace under green solder mask — set against a near-black #0b0d0c ink that reads as technical rather than luxury. The palette is deliberately narrow: a white #eeeeee canvas, a single accent teal, and a warm signal yellow #e9a220 that appears only on discount badges and limited-edition packaging callouts, never on primary actions. Type uses Nunito Sans at generous 18-20px body sizes with 1.5 line-height, giving product descriptions a reading-room cadence unusual for accessories retail. Every product card is a white #ffffff rectangle with a soft #d1d1d1 hairline and {rounded.sm} corners — no drop shadows, no gradients — creating a catalog-grid feel that lets the physical product photography (cables, bricks, MagSafe pucks) do the selling. The top nav is a full-bleed #0e0e0e bar with white text, a single centered logo, and a cart icon that flips to #108474 on hover. Search is a pill-shaped field with a #555555 border and {rounded.full} corners, placed in the nav's right gutter. The brand's signature move is the "power ring" — a circular #108474 stroke that animates around the hero product image on page load, suggesting wireless energy transfer. Checkout buttons are full-width teal pills with white text, 48px tall, using {typography.button-md} at 600 weight. Error states use #c60101 red, success states use #13e601 green — both applied sparingly to form validation only. The overall mood is industrial minimalism with a single warm accent: a charging brand that wants to feel like the device itself, not the lifestyle around it.
 
@@ -311,6 +315,13 @@ components:
 - Search bar: Moves from nav bar (desktop) to below hero (mobile/tablet) and becomes full-width.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

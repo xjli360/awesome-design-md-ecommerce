@@ -4,6 +4,10 @@ name: "TP-Link"
 source_url: "https://www.tp-link.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A networking brand that signals reliability through a teal-cyan primary (#4acbd6) — a color that reads as cool, technical, and connected, not warm or consumer-friendly. The palette is dominated by deep charcoal (#36444b, #1d2529) and a spectrum of grays (#a7a9ac, #bdbec0, #c8cfd2, #e9eaeb) that create a serious, infrastructure-grade atmosphere. The single accent of amber (#ffcb00) appears sparingly, likely for promotional badges or urgency indicators, while the teal carries primary CTAs and interactive elements. Typography relies on system fonts with AktivGrotesk-Corp as the brand face — a clean, neutral sans-serif that avoids personality in favor of legibility across router configuration pages and product spec sheets. The design language is fundamentally rectangular: sharp corners on product cards, navigation bars, and buttons, with only the occasional pill shape (`{rounded.full}`) for search inputs or filter tags. White canvas (#fefefe) provides breathing room for dense technical content, while hairline borders (#d8d8d8, #e1e1e1) segment information without visual noise. The overall feel is that of a control panel — functional, precise, and engineered for utility rather than delight.
 
@@ -527,6 +531,13 @@ components:
 - Multi-step product configuration (router setup wizards) collapses to single-page scroll on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

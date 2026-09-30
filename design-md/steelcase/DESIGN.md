@@ -4,6 +4,10 @@ name: "Steelcase"
 source_url: "https://www.steelcase.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The #003388 navy that Steelcase holds across every primary button, masthead strip, and brand lockup is not a corporate blue chosen for authority alone — it is the particular blue of a company whose clients measure workplace ROI in square footage and retention rates, and whose founding product was a steel wastebasket manufactured in 1912. Against that navy, a supporting cast of warm grays — #727a71 sage, #949494 mid-tone, #f0f0f0 canvas-light — keeps pages from reading as procurement documents. No proprietary typeface was detected in the extraction; Georgia and Arial anchor the type stack, consistent with an enterprise brand whose primary audience reads on IT-managed Windows machines where system fonts are ground truth. Display headers sit at modest weights (600 maximum), trusting institutional navy and generous whitespace to carry authority rather than heavy typographic mass. Product photography is large and environmental — workspace vignettes over isolated product shots — so product cards carry generous aspect ratios and minimal interior chrome. Primary buttons use {rounded.xs} corners, consistent with a professional-services aesthetic that signals precision over playfulness. The site architecture segments into large category hubs (Office, Education, Healthcare) before descending into deep product configurator pages; navigation is utility-first, built around megadropdown panels rather than editorial sequences. An unusual sage-gray (#727a71) appears as a secondary surface tone and category badge hue — warm enough to soften the navy-dominated palette without reading as mint or teal. Spec tables, configurator side panels, and resource download cards are signature surface types that distinguish this from any consumer furniture brand: the visual system must communicate at the enterprise RFP level, not the impulse-buy level.
 
@@ -343,6 +347,13 @@ components:
 - Hero text overlay shifts from left-aligned 50% wide column to full-width bottom overlay with a dark gradient scrim behind white type
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

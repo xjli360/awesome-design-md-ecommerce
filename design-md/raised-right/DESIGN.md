@@ -4,6 +4,10 @@ name: "Raised Right"
 source_url: "https://raisedright.com"
 captured_at: "2026-09-28T10:32:53.807385+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Raised Right's supplied CSS reflects a WordPress/WooCommerce build layered with a
   small set of brand-specific colors over default Gutenberg block-editor swatches.
@@ -151,6 +155,13 @@ This is a recommended breakpoint scheme, not measured site behavior; no media qu
 Touch targets should be at minimum 44×44px for buttons like `button-primary` and `button-cta`. Navigation collapse behavior, sticky headers, and mobile menu treatment are proposed conventions only, not derived from observed JavaScript or responsive CSS.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 - Evidence is static CSS/text extraction only; no rendered layout, hover states, animations, or interaction behavior were observed.

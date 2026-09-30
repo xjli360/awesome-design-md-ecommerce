@@ -4,6 +4,10 @@ name: "Dreame"
 source_url: "https://www.dreametech.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Dreame anchors its digital identity in #108474 — a deep aquatic teal that sits in the productive gap between tech-green and ocean-blue, giving product pages the measured authority of a laboratory instrument without its coldness. That primary deploys over near-black surfaces (#1f2021, #141414) that form the actual architectural ground of the site: dark-mode by design intent, not by user toggle, a choice that makes precision-engineered product photography float rather than sit on a page. Against those dark volumes, amber gold (#ffaa00) enters selectively — pricing callouts, promotional chips, and star ratings all glow warm, building a two-temperature grammar where teal signals capability and gold signals reward. A warm earth layer — sand (#d1b89c), tan (#a5886b), sienna-gold (#c19c70) — never appears in UI chrome but bleeds into hero gradient overlays and lifestyle photography, keeping the engineering palette from reading as sterile in a kitchen or living room context.
 
@@ -380,6 +384,13 @@ components:
 - Promo chips on product cards remain in absolute image-overlay position at all breakpoints; text does not wrap
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Breville"
 source_url: "https://www.breville.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Brushed aluminum given a URL — that is the immediate impression of Breville's digital surface. Where most appliance brands flood their pages with lifestyle photography and pastel gradients, Breville leads with a near-monochrome charcoal palette built on #313638, the dense ink that darkens navigation bars, headline type, and product titling like the die-cast housing of a Barista Express. Warmth enters through a single burnt-orange accent (#d35b17) reserved almost exclusively for primary CTAs and promotional badges; it reads like a heating element glowing behind tempered glass — present but disciplined. Typography pairs Archer — a geometric slab-serif from Hoefler&Co in both its Screen Smart (`Archer-Ssm`) and Book weights — with a system sans-serif stack for body copy. This split gives product names and section headlines a premium-editorial tone (`{typography.display-xl}` at 600 weight, 40px) while keeping long-form descriptions crisp at `{typography.body-md}` 16px/1.6. Cards carrying $400+ countertop ovens sit on `{colors.surface-soft}` (#f5f5f5) with `{rounded.sm}` corners and a 1px `{colors.hairline}` border — no drop-shadows, no depth tricks, trusting the product photography to do the selling. A deep plum (#421540) surfaces in limited-edition or "Luxe" tier call-outs, and a teal (#046b99) marks informational links and comparison toggles. Spacing is generous: section gaps at `{spacing.section}` (64px) let each product hero breathe, while inline spec tables compress to `{spacing.sm}` row padding so dense information stays scannable. The overall system reads as an engineer's showroom — precise, restrained, and confident that the machines themselves are the spectacle.
 
@@ -399,6 +403,14 @@ components:
 - Breadcrumbs truncate middle segments with "..." on mobile, showing only parent and current
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

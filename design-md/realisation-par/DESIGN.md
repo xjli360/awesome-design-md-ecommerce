@@ -4,6 +4,10 @@ name: "Realisation Par"
 source_url: "https://realisationpar.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Réalisation Par loads its product grid as a series of full-bleed editorial photographs before a price renders — an architecture that declares desire precedes information. The interface is a controlled void: near-black (#111111) fills every primary action, Arial at weight 300–400 handles every label, and hairline borders at #e5e5e5 trace container geometry so faintly that the garment photography feels unframed. The effect is closer to a lookbook than a storefront, and every UI decision reinforces it.
 
@@ -372,6 +376,13 @@ components:
 - Announcement bar truncates to a single key message on mobile; if multiple messages, a carousel rotates them at 4s intervals
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Micuna"
 source_url: "https://micuna.com"
 captured_at: "2026-09-28T10:15:39.359035+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Micuna's site is built on the Avada/WooCommerce stack, so most tokens
   observed are framework defaults rather than confirmed brand marks. The
@@ -165,6 +169,13 @@ components:
 Touch targets should be at least 44px, aligning with the observed 50px swatch-selector size. Navigation collapse behavior is confirmed to exist ("Toggle Navigation" text appears in page content) but its exact breakpoint and animation were not measured. This table is a recommendation only, not observed site behavior.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

@@ -4,6 +4,10 @@ name: "Warren London"
 source_url: "https://warrenlondon.com"
 captured_at: "2026-09-29T04:01:58.917671+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Warren London's storefront CSS centers on a warm, spa-like cream canvas
   (#f6eee3) paired with pure black (#000000) for text, links, and primary
@@ -171,6 +175,12 @@ Proposed breakpoint table (not measured from live rendering):
 Touch targets for buttons and nav links should maintain a minimum 44×44px hit area, using `{spacing.md}`–`{spacing.lg}` padding as defined above. Mega-menu columns (Products / By Type / Solutions / Business Customers) should collapse into stacked accordions on mobile. This entire section is a UX recommendation only; no responsive/mobile CSS or breakpoint values were present in the supplied evidence.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 

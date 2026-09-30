@@ -4,6 +4,10 @@ name: "Autographia"
 source_url: "https://autographia.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The dark navy (#163959) that anchors Autographia's interface carries the same visual authority as an archivist's binding cloth — every nav header, primary button fill, and trust callout sits in this color, signaling that provenance and authentication are the site's load-bearing commitments before a single item description is read. Against that foundation, a traffic-light status trio performs hard work at the card layer: #bd2426 flags rarity and urgency across limited listings, #9bca3e marks certified-authentic items, and #f68b1f illuminates featured and spotlight pieces. This three-tone certification language is more legible than fine-print disclaimers — the color encodes grade before the collector even reaches the product title.
 
@@ -357,6 +361,14 @@ components:
 - Hero photograph hides or becomes a blurred background fill below 480px viewport width
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

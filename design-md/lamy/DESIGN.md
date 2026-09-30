@@ -4,6 +4,10 @@ name: "Lamy"
 source_url: "https://www.lamy.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   FuturaNow headlines and English111AdagioBT calligraphic accents hold a deliberate tension across the Lamy interface — the same tension alive in a pen designed jointly by precision-manufacturing engineers and ink-devoted craftspeople. The structural palette runs dark: #111827 and #1f2937 carry navigation, price labels, and product names at near-black depth, while the canvas lifts to a near-white #f9fafb rather than full white, softening the surface without breaking precision. The one voltage color is emerald green, #059669, surfacing at add-to-cart CTAs, in-stock badges, and promotional accent marks — its {rounded.xs}-cornered pill badges keeping the geometry strict even in celebratory moments. FuturaNow is the dominant headline typeface: its geometric, Bauhaus-derived forms echo the LAMY 2000's barrel geometry and the Safari's utilitarian clip — the brand holds weight at 400 to 600, rejecting the heavy-900 heroism common to consumer electronics. English111AdagioBT appears as a script counterpoint for pull-quote moments and collection headers, a typographic acknowledgment that the product is ultimately about the act of writing, while Genos fills body copy and specification tables where information density is high. Product cards carry {rounded.sm} radius borders and #e5e7eb hairlines over #f3f4f6 surface backgrounds — a catalog structure suited to the dozens of SKU variants per pen model. The brand-signature UI is the nib-width selector: a horizontal row of {rounded.full} pill buttons turning a technical specification into a concrete, clickable choice, with ink color swatches rendered as 24×24px {rounded.full} dots bordered in #d1d5db when unselected and 2px solid {colors.primary} when chosen. Spacing is generous at the section level — {spacing.section} vertical breaks between category rows — but compact at the component level, with card padding at {spacing.base} and form elements at 48px heights; the layout reads as a German industrial catalog come to screen: methodical, unhurried, every specification present without decoration.
 
@@ -379,6 +383,13 @@ components:
 - Collection-header padding reduces from 48px to 24px on mobile; display-md font size drops to display-sm
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

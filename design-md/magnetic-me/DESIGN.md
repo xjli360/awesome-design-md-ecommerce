@@ -4,6 +4,10 @@ name: "Magnetic Me"
 source_url: "https://magneticme.com"
 captured_at: "2026-09-28T10:15:41.873608+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Magnetic Me's storefront CSS shows a black-and-cream foundation overlaid with a
   wide, saturated accent palette (red, yellow, aqua, violet, orange, pink, green)
@@ -168,6 +172,12 @@ Recommendation only — no responsive/mobile CSS was supplied for verification.
 Touch targets should be at least 40px (matching the observed `.btn` height of 40px) with `{spacing.sm}`–`{spacing.md}` internal padding. Mobile navigation should collapse the deep category taxonomy into progressive disclosure to avoid overwhelming the user given the breadth of listed subcategories.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from a static snapshot of colors, font-family names, and a handful of CSS rules (chiefly button styles); no rendered layout, computed sizes, or responsive behavior were observed. Font role assignments (e.g., "SangBleu OG Sans" for headings, "untitled sans" for body) are inferred from name and typical convention, not from selector-level evidence, and licensing/availability of the custom "Magnetic Embroidery Block/Tennessee," "Serenity," and "SangBleu OG Sans" families is unverified. The mapping of many accent hexes (yellow, aqua, violet, orange, pink, green) to specific UI roles is inferred from the button hover CSS variable names (`--color-yellow`, `--color-aqua`, etc.) without confirmed hex values for each variable. Component definitions beyond button-primary/secondary (nav-bar, product-card, hero, footer, search, badge, text-input, fabric-swatch-selector) are proposed patterns appropriate to a Shopify baby-apparel storefront and are not confirmed from supplied markup. Spacing and rounded-corner scales follow the required template structure and are not fully derived from measured values, aside from the observed `border-radius:0` on buttons.

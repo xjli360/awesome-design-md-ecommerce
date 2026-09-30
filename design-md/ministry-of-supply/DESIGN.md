@@ -4,6 +4,10 @@ name: "Ministry of Supply"
 source_url: "https://ministryofsupply.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Sk-Modernist — an angular, narrowly-spaced geometric sans-serif that Shopify sites almost never carry — cuts through the Ministry of Supply product grid with the same efficiency-first logic the brand applies to its fabrics: no humanist warmup, no ornamental curve. The primary CTA lands in #ff3d3d, a red that reads urgent against the near-white #fafafa canvas but cools quickly into surrounding charcoal (#202020) and slate (#4d565e) text hierarchies. Deep purple-indigo (#5b2dcf) surfaces as a secondary accent on hover states, selected filters, and the occasional badge — pairing purple with red is unusual in workwear, but Ministry of Supply is not a conventional apparel brand; it is a materials-science company that makes trousers. The palette carries its own internal weather system: #f59e0b amber for restocked-soon notices, #22c55e green for in-stock, #38bdf8 sky-blue for technical-feature callouts — all pulled from Tailwind system tokens visible in the extracted hex set, suggesting a utility-first frontend build sitting under the Shopify shell. Rounded corners are minimal; product cards and input fields sit on a near-square radius ({rounded.xs}) while only badges reach {rounded.full}. Spacing is compact, the product grid uses tightly packed cards with minimal gutter breathing room, reflecting the site's position as a high-conversion, feature-dense DTC store rather than an editorial lifestyle platform. The Sk-Modernist Mono variant surfaces in technical specs and material-weight callouts, treating fabric composition data the way a finance dashboard would treat a stock ticker — monospaced precision as a deliberate signal of engineering seriousness. On mobile the nav collapses to a hamburger with a full-screen overlay that preserves the left-aligned Sk-Modernist brand wordmark at 24px, keeping header identity clean even at 375px width.
 
@@ -367,6 +371,13 @@ components:
 - Hero CTA button reduces from 48px to 44px height on mobile to conserve vertical rhythm
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

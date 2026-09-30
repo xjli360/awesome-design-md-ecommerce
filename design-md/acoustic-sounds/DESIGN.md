@@ -4,6 +4,10 @@ name: "Acoustic Sounds"
 source_url: "https://acousticsounds.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep-catalog audiophile label and retailer that treats the record as an engineered artifact, not a nostalgic object. The palette is anchored on a deep teal (#006080) that reads like the felt of a turntable platter or the quiet glow of a preamp — it appears on every primary CTA, the top nav bar, and the site’s footer, establishing a consistent voltage that never competes with the album art. A secondary orange (#f04124) and a supporting amber (#794b02) serve as price tags, sale badges, and limited-edition flags, while a muted green (#43ac6a) signals in-stock availability and checkout confidence. The canvas is a warm off-white (#f5f5f5) rather than pure white, softening the reading experience across long browsing sessions. Typography runs Open Sans at modest weights (400 for body, 600 for headings) with generous line-height — the brand trusts album covers and track lists to carry the visual load rather than heavy display type. Buttons are softly rectangular (`{rounded.sm}`), product cards use `{rounded.md}` with a subtle border from `{colors.hairline}`, and the search bar sits as a full-width field rather than a pill, prioritizing scannability over friendliness. The overall mood is that of a well-lit listening room: serious but not cold, detailed but not fussy.
 
@@ -373,6 +377,14 @@ components:
 - Search bar: On mobile, the search bar moves from the nav bar to a dedicated row below, expanding to full width.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

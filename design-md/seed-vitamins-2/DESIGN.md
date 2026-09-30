@@ -4,6 +4,10 @@ name: "Seed"
 source_url: "https://seed.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A deep, near-black #313131 anchors Seed's digital presence — not as an accent but as the primary brand color itself, a deliberate departure from the pastel-and-white supplement category. The site reads as a scientific monograph translated into a consumer health brand: dense body copy in system-ui at 16px, generous line-height, and almost no decorative imagery. The color palette is intentionally austere — no secondary brand color, no gradient, no bright CTA button. Instead, the brand trusts its typographic voice and the visual weight of its product photography (probiotics in glass jars, raw ingredients on neutral surfaces) to carry the emotional load. Navigation is a thin, fixed bar with a single "Shop" link and a cart icon — no mega-menu, no category dropdowns. The hero section uses a full-width product shot with a single headline and a single CTA, pill-shaped at {rounded.full} but rendered in the same #313131 as the body text, not a contrasting color. This is a brand that refuses to shout. Every interaction feels considered: hover states are subtle opacity shifts, form fields are clean underlines, and the checkout flow is a single-column, distraction-free page. The overall effect is one of clinical precision and quiet authority — a supplement brand that wants you to read the science, not just swipe the bottle.
 
@@ -333,6 +337,13 @@ components:
 - Accordion items remain full-width at all breakpoints
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Lunchmeat VHS"
 source_url: "https://lunchmeatvhs.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A neon-lit archive of analog horror, built on a black canvas (#000000) that makes every VHS sleeve glow like a cathode-ray tube. The palette is a riot of 90s video-rental fluorescence — #f48120 tangerine, #ffd800 safety yellow, #cc0066 magenta — all competing for attention against a #1d1c1c near-black background that feels like a Blockbuster after closing time. The brand’s primary voltage is #006fcf, a deep electric blue that anchors the chaos across navigation bars and primary CTAs, while #fba900 and #f58720 serve as accent flares for badges and price tags. Typography defaults to system sans-serif stacks (no custom font declarations found), relying on weight contrast and generous letter-spacing to evoke the blocky, hyper-legible text of VHS packaging inserts. Cards use sharp {rounded.sm} corners — nothing pill-soft — and product grids stack with tight {spacing.sm} gutters that mimic the density of a rental shelf. The search bar sits as a full-width banner with {rounded.none}, a deliberate break from the pill-shaped conventions of modern ecommerce. Every button is a slab of color with no gradient, no shadow, no subtlety — the interface is loud, direct, and unapologetically nostalgic.
 
@@ -360,6 +364,13 @@ components:
 - Footer links collapse from a multi-column layout to a single column on mobile
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Sugarlift"
 source_url: "https://www.sugarlift.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Sugarlift's entire interface runs on a single axis of light — from #141414 at the darkest to #fafafa at the palest — with no chromatic accent anywhere in the extracted palette. This is not minimalism by default but a deliberate act of curation: a gallery that withholds color from its own chrome so that every painting, photograph, and mixed-media piece can carry its own luminance without competition. The nav, cards, and footers dissolve into a continuous near-white canvas ({colors.canvas}), and the only thing holding visual weight is the art itself.
 
@@ -307,6 +311,13 @@ components:
 - Filter chips: horizontal scroll strip on mobile; wrapping grid on desktop
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

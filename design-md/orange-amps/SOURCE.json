@@ -57,50 +57,13 @@
     "#ffffff": {
       "count": 16,
       "sources": [
-        "https://orangeamps.com/",
-        "https://orangeamps.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://orangeamps.com/cdn/shop/t/2/assets/base.css?v=32724456266356561951781012602"
-      ]
-    },
-    "#f57e20": {
-      "count": 10,
-      "sources": [
-        "https://orangeamps.com/",
-        "https://orangeamps.com/cdn/shop/t/2/assets/base.css?v=32724456266356561951781012602"
-      ]
-    },
-    "#000000": {
-      "count": 6,
-      "sources": [
-        "https://orangeamps.com/",
-        "https://orangeamps.com/cdn/shop/t/2/assets/base.css?v=32724456266356561951781012602",
-        "https://orangeamps.com/cdn/shop/t/2/assets/component-localization-form.css?v=91543213092922213081761309203"
+        "https://orangeamps.com/"
       ]
     },
     "#272727": {
       "count": 5,
       "sources": [
-        "https://orangeamps.com/",
-        "https://orangeamps.com/cdn/shop/t/2/assets/base.css?v=32724456266356561951781012602"
-      ]
-    },
-    "#f1f1f1": {
-      "count": 3,
-      "sources": [
-        "https://orangeamps.com/",
-        "https://orangeamps.com/cdn/shop/t/2/assets/base.css?v=32724456266356561951781012602"
-      ]
-    },
-    "#eeeeee": {
-      "count": 3,
-      "sources": [
         "https://orangeamps.com/"
-      ]
-    },
-    "#ffffff00": {
-      "count": 3,
-      "sources": [
-        "https://orangeamps.com/cdn/shop/t/2/assets/base.css?v=32724456266356561951781012602"
       ]
     },
     "#f8f8f8": {
@@ -115,32 +78,32 @@
         "https://orangeamps.com/"
       ]
     },
-    "#00000000": {
-      "count": 2,
+    "#f1f1f1": {
+      "count": 3,
       "sources": [
-        "https://orangeamps.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+        "https://orangeamps.com/"
       ]
     },
-    "#dedede": {
-      "count": 2,
+    "#f57e20": {
+      "count": 10,
       "sources": [
-        "https://orangeamps.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+        "https://orangeamps.com/"
       ]
     },
-    "#0000000d": {
-      "count": 2,
+    "#000000": {
+      "count": 6,
       "sources": [
-        "https://orangeamps.com/cdn/shop/t/2/assets/base.css?v=32724456266356561951781012602"
-      ]
-    },
-    "#00000080": {
-      "count": 2,
-      "sources": [
-        "https://orangeamps.com/cdn/shop/t/2/assets/base.css?v=32724456266356561951781012602"
+        "https://orangeamps.com/"
       ]
     },
     "#7b7b7b": {
       "count": 1,
+      "sources": [
+        "https://orangeamps.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
       "sources": [
         "https://orangeamps.com/"
       ]
@@ -175,61 +138,28 @@
         "https://orangeamps.com/"
       ]
     },
-    "#1990c6": {
-      "count": 1,
-      "sources": [
-        "https://orangeamps.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
     "#136f99": {
       "count": 1,
       "sources": [
         "https://orangeamps.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
       ]
     },
-    "#121212": {
-      "count": 1,
+    "#dedede": {
+      "count": 2,
       "sources": [
         "https://orangeamps.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
-      ]
-    },
-    "#494949ad": {
-      "count": 1,
-      "sources": [
-        "https://orangeamps.com/cdn/shop/t/2/assets/base.css?v=32724456266356561951781012602"
       ]
     }
   },
   "font_families": {
-    "Calisto": [
-      "https://orangeamps.com/",
-      "https://orangeamps.com/cdn/shop/t/2/assets/base.css?v=32724456266356561951781012602"
-    ],
-    "Calisto MT": [
-      "https://orangeamps.com/"
-    ],
-    "JudgemeStar": [
-      "https://orangeamps.com/"
-    ],
     "Lato": [
       "https://orangeamps.com/"
     ],
-    "Lato-Black": [
-      "https://orangeamps.com/"
-    ],
     "Lato-Bold": [
-      "https://orangeamps.com/",
-      "https://orangeamps.com/cdn/shop/t/2/assets/base.css?v=32724456266356561951781012602",
-      "https://orangeamps.com/cdn/shop/t/2/assets/component-predictive-search.css?v=178737904786839778771761236832"
+      "https://orangeamps.com/"
     ],
     "SofiaSans-Bold": [
       "https://orangeamps.com/"
-    ],
-    "object-fit: contain": [
-      "https://orangeamps.com/cdn/shop/t/2/assets/component-predictive-search.css?v=178737904786839778771761236832"
-    ],
-    "object-fit: cover": [
-      "https://orangeamps.com/cdn/shop/t/2/assets/component-predictive-search.css?v=178737904786839778771761236832"
     ]
   },
   "css_rules": [
@@ -390,43 +320,43 @@
     "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
   ],
   "title": "Orange Amps | Iconic British Amplifiers Since 1968\n – Orange Music Electronic Co Ltd",
-  "schema_version": 1,
+  "schema_version": 2,
   "batch_id": "expansion-20260928-300",
   "tokens": {
     "colors.primary": {
+      "value": "#f57e20",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://orangeamps.com/",
-        "https://orangeamps.com/cdn/shop/t/2/assets/base.css?v=32724456266356561951781012602"
+        "https://orangeamps.com/"
       ]
     },
     "colors.ink": {
+      "value": "#272727",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://orangeamps.com/",
-        "https://orangeamps.com/cdn/shop/t/2/assets/base.css?v=32724456266356561951781012602"
+        "https://orangeamps.com/"
       ]
     },
     "colors.canvas": {
+      "value": "#ffffff",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://orangeamps.com/",
-        "https://orangeamps.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
-        "https://orangeamps.com/cdn/shop/t/2/assets/base.css?v=32724456266356561951781012602"
+        "https://orangeamps.com/"
       ]
     },
     "colors.body": {
+      "value": "#272727",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://orangeamps.com/",
-        "https://orangeamps.com/cdn/shop/t/2/assets/base.css?v=32724456266356561951781012602"
+        "https://orangeamps.com/"
       ]
     },
     "colors.muted": {
+      "value": "#7b7b7b",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -434,6 +364,7 @@
       ]
     },
     "colors.hairline": {
+      "value": "#dedede",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -441,6 +372,7 @@
       ]
     },
     "colors.surface-soft": {
+      "value": "#f8f8f8",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -448,31 +380,31 @@
       ]
     },
     "colors.surface-card": {
+      "value": "#f1f1f1",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://orangeamps.com/",
-        "https://orangeamps.com/cdn/shop/t/2/assets/base.css?v=32724456266356561951781012602"
+        "https://orangeamps.com/"
       ]
     },
     "colors.on-primary": {
+      "value": "#f1f1f1",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://orangeamps.com/",
-        "https://orangeamps.com/cdn/shop/t/2/assets/base.css?v=32724456266356561951781012602"
+        "https://orangeamps.com/"
       ]
     },
     "colors.ink-strong": {
+      "value": "#000000",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
-        "https://orangeamps.com/",
-        "https://orangeamps.com/cdn/shop/t/2/assets/base.css?v=32724456266356561951781012602",
-        "https://orangeamps.com/cdn/shop/t/2/assets/component-localization-form.css?v=91543213092922213081761309203"
+        "https://orangeamps.com/"
       ]
     },
     "colors.border-subtle": {
+      "value": "#e3e3e3",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -480,6 +412,7 @@
       ]
     },
     "colors.neutral-200": {
+      "value": "#eeeeee",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -487,6 +420,7 @@
       ]
     },
     "colors.neutral-300": {
+      "value": "#cccccc",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -494,6 +428,7 @@
       ]
     },
     "colors.link": {
+      "value": "#1773b0",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -501,6 +436,7 @@
       ]
     },
     "colors.link-hover": {
+      "value": "#136f99",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -508,6 +444,7 @@
       ]
     },
     "colors.accent-blue": {
+      "value": "#334fb4",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -515,6 +452,7 @@
       ]
     },
     "colors.surface-warm": {
+      "value": "#fff1e3",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -522,6 +460,7 @@
       ]
     },
     "colors.ink-warm": {
+      "value": "#412d00",
       "value_status": "observed_in_css",
       "role_status": "inferred",
       "sources": [
@@ -529,110 +468,410 @@
       ]
     },
     "typography.display-xl": {
+      "value": {
+        "fontFamily": "SofiaSans-Bold, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.display-md": {
+      "value": {
+        "fontFamily": "SofiaSans-Bold, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "0px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.title-md": {
+      "value": {
+        "fontFamily": "SofiaSans-Bold, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.96px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-md": {
+      "value": {
+        "fontFamily": "Lato, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.96px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.body-sm": {
+      "value": {
+        "fontFamily": "Lato, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.3px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.caption": {
+      "value": {
+        "fontFamily": "Lato, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.3px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "typography.button-md": {
+      "value": {
+        "fontFamily": "Lato-Bold, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 700,
+        "lineHeight": 1,
+        "letterSpacing": "0.5px"
+      },
       "font_family_status": "observed_family_with_fallbacks",
       "measurements_status": "inferred"
     },
     "rounded.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "rounded.xs": {
+      "value": "2px",
       "status": "inferred"
     },
     "rounded.sm": {
+      "value": "4px",
       "status": "inferred"
     },
     "rounded.md": {
+      "value": "8px",
       "status": "inferred"
     },
     "rounded.lg": {
+      "value": "16px",
       "status": "inferred"
     },
     "rounded.full": {
+      "value": "9999px",
       "status": "inferred"
     },
     "spacing.none": {
+      "value": "0px",
       "status": "inferred"
     },
     "spacing.xxs": {
+      "value": "2px",
       "status": "inferred"
     },
     "spacing.xs": {
+      "value": "4px",
       "status": "inferred"
     },
     "spacing.sm": {
+      "value": "8px",
       "status": "inferred"
     },
     "spacing.md": {
+      "value": "12px",
       "status": "inferred"
     },
     "spacing.base": {
+      "value": "16px",
       "status": "inferred"
     },
     "spacing.lg": {
+      "value": "24px",
       "status": "inferred"
     },
     "spacing.xl": {
+      "value": "32px",
       "status": "inferred"
     },
     "spacing.xxl": {
+      "value": "48px",
       "status": "inferred"
     },
     "spacing.section": {
+      "value": "64px",
       "status": "inferred"
     },
     "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairlineColor": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.border-subtle}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}"
+      },
       "status": "inferred"
     },
     "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink-strong}",
+        "textColor": "{colors.canvas}",
+        "titleTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
       "status": "inferred"
     },
     "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "rounded": "{rounded.none}",
+        "typography": "{typography.caption}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
       "status": "inferred"
     },
     "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     },
     "components.spec-comparison-table": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "headerBackgroundColor": "{colors.ink}",
+        "headerTextColor": "{colors.on-primary}",
+        "rowHairlineColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
       "status": "inferred"
     }
-  }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ":root,\n        .color-scheme-1",
+        "property": "--gradient-background",
+        "declaration": "#ffffff",
+        "url": "https://orangeamps.com/",
+        "snapshot": "homepage.html",
+        "sha256": "548b399f5dc95e676a1d79af9dc73f23bb35aed4e6b622a8a0a8aad85dfb0891"
+      },
+      "#272727": {
+        "selector": ".color-scheme-2",
+        "property": "--gradient-background",
+        "declaration": "#272727",
+        "url": "https://orangeamps.com/",
+        "snapshot": "homepage.html",
+        "sha256": "548b399f5dc95e676a1d79af9dc73f23bb35aed4e6b622a8a0a8aad85dfb0891"
+      },
+      "#f8f8f8": {
+        "selector": ".color-scheme-3",
+        "property": "--gradient-background",
+        "declaration": "#f8f8f8",
+        "url": "https://orangeamps.com/",
+        "snapshot": "homepage.html",
+        "sha256": "548b399f5dc95e676a1d79af9dc73f23bb35aed4e6b622a8a0a8aad85dfb0891"
+      },
+      "#334fb4": {
+        "selector": ".color-scheme-5",
+        "property": "--gradient-background",
+        "declaration": "#334fb4",
+        "url": "https://orangeamps.com/",
+        "snapshot": "homepage.html",
+        "sha256": "548b399f5dc95e676a1d79af9dc73f23bb35aed4e6b622a8a0a8aad85dfb0891"
+      },
+      "#f1f1f1": {
+        "selector": ".color-scheme-2bb0387b-2641-477b-ad08-1e2858915908",
+        "property": "--gradient-background",
+        "declaration": "#f1f1f1",
+        "url": "https://orangeamps.com/",
+        "snapshot": "homepage.html",
+        "sha256": "548b399f5dc95e676a1d79af9dc73f23bb35aed4e6b622a8a0a8aad85dfb0891"
+      },
+      "#f57e20": {
+        "selector": ":root",
+        "property": "--jdgm-primary-color",
+        "declaration": "#F57E20",
+        "url": "https://orangeamps.com/",
+        "snapshot": "homepage.html",
+        "sha256": "548b399f5dc95e676a1d79af9dc73f23bb35aed4e6b622a8a0a8aad85dfb0891"
+      },
+      "#000000": {
+        "selector": ".jdgm-review-snippet-widget",
+        "property": "--jdgm-snippet-text-color",
+        "declaration": "#000",
+        "url": "https://orangeamps.com/",
+        "snapshot": "homepage.html",
+        "sha256": "548b399f5dc95e676a1d79af9dc73f23bb35aed4e6b622a8a0a8aad85dfb0891"
+      },
+      "#7b7b7b": {
+        "selector": ".jdgm-review-snippet-widget",
+        "property": "--jdgm-snippet-lighter-text-color",
+        "declaration": "#7B7B7B",
+        "url": "https://orangeamps.com/",
+        "snapshot": "homepage.html",
+        "sha256": "548b399f5dc95e676a1d79af9dc73f23bb35aed4e6b622a8a0a8aad85dfb0891"
+      },
+      "#eeeeee": {
+        "selector": ".jdgm-spinner",
+        "property": "border-top",
+        "declaration": "2px solid #eee",
+        "url": "https://orangeamps.com/",
+        "snapshot": "homepage.html",
+        "sha256": "548b399f5dc95e676a1d79af9dc73f23bb35aed4e6b622a8a0a8aad85dfb0891"
+      },
+      "#cccccc": {
+        "selector": ".jdgm-spinner",
+        "property": "border-left",
+        "declaration": "2px solid #ccc",
+        "url": "https://orangeamps.com/",
+        "snapshot": "homepage.html",
+        "sha256": "548b399f5dc95e676a1d79af9dc73f23bb35aed4e6b622a8a0a8aad85dfb0891"
+      },
+      "#fff1e3": {
+        "selector": ".gta-block__error",
+        "property": "background-color",
+        "declaration": "#fff1e3",
+        "url": "https://orangeamps.com/",
+        "snapshot": "homepage.html",
+        "sha256": "548b399f5dc95e676a1d79af9dc73f23bb35aed4e6b622a8a0a8aad85dfb0891"
+      },
+      "#412d00": {
+        "selector": ".gta-block__error",
+        "property": "color",
+        "declaration": "#412d00",
+        "url": "https://orangeamps.com/",
+        "snapshot": "homepage.html",
+        "sha256": "548b399f5dc95e676a1d79af9dc73f23bb35aed4e6b622a8a0a8aad85dfb0891"
+      },
+      "#e3e3e3": {
+        "selector": "#nm-wishlist-page-root:empty::after",
+        "property": "border",
+        "declaration": "3px solid #e3e3e3",
+        "url": "https://orangeamps.com/",
+        "snapshot": "homepage.html",
+        "sha256": "548b399f5dc95e676a1d79af9dc73f23bb35aed4e6b622a8a0a8aad85dfb0891"
+      },
+      "#1773b0": {
+        "selector": "#nm-wishlist-page-root:empty::after",
+        "property": "border-top-color",
+        "declaration": "#1773b0",
+        "url": "https://orangeamps.com/",
+        "snapshot": "homepage.html",
+        "sha256": "548b399f5dc95e676a1d79af9dc73f23bb35aed4e6b622a8a0a8aad85dfb0891"
+      },
+      "#136f99": {
+        "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+        "property": "background-color",
+        "declaration": "#136f99",
+        "url": "https://orangeamps.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://orangeamps.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      }
+    },
+    "font_families": {
+      "Lato": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Lato",
+        "url": "https://orangeamps.com/",
+        "snapshot": "homepage.html",
+        "sha256": "548b399f5dc95e676a1d79af9dc73f23bb35aed4e6b622a8a0a8aad85dfb0891"
+      },
+      "Lato-Bold": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Lato-Bold\"",
+        "url": "https://orangeamps.com/",
+        "snapshot": "homepage.html",
+        "sha256": "548b399f5dc95e676a1d79af9dc73f23bb35aed4e6b622a8a0a8aad85dfb0891"
+      },
+      "SofiaSans-Bold": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"SofiaSans-Bold\"",
+        "url": "https://orangeamps.com/",
+        "snapshot": "homepage.html",
+        "sha256": "548b399f5dc95e676a1d79af9dc73f23bb35aed4e6b622a8a0a8aad85dfb0891"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
 }

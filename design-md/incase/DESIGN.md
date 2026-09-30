@@ -4,6 +4,10 @@ name: "Incase"
 source_url: "https://www.incase.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Fourteen product colorways — lime (#9fcc4b), chartreuse (#ceea37), hot pink (#e71f7b), coral (#fda262), sky blue (#bfecf5), and nine more — stacked on a near-black (#1c1c1c) and pale ash (#eaebef) structural grid is Incase's sharpest design statement: the protective gear IS the color story. The brand sells precision-fit laptop bags and cases, and its UI treats those colorways as first-class content — large circular swatches, high-saturation product photography on bare white tiles, and a deliberately quiet typographic voice in plain Arial so nothing competes with the objects themselves. The primary CTA voltage is a bold orange-red (#ff5a2b), used sparingly on add-to-cart buttons and promotional highlights; its warmth signals action without clashing against any of the product hues in the catalog. The structural palette is tripartite: near-black (#1c1c1c) for headings and navigation, steel blue-gray (#7e838c) for secondary text and metadata, and ash (#eaebef) as the ambient page fill. Navy (#233246) and medium steel (#40799d) surface in collection banners and layered UI panels, providing depth without resorting to pure black wallpaper. Cards are sharp — {rounded.none} to {rounded.xs} — consistent with a brand that values engineered precision over softened consumer appeal. Navigation is wide and flat, exposing the full product taxonomy through a mega-menu that opens with category headings in tight uppercase Arial. Spacing is deliberate: product grids breathe at {spacing.xxl} column gaps, hero modules occupy full-viewport frames, and section separators fall at {spacing.section}. The overall effect is a storefront that presents like a clean-room specification sheet — exact, stripped, entirely confident that the products require no ornamental framing to earn attention.
 
@@ -387,6 +391,13 @@ components:
 - Search triggers a full-width takeover bar that slides down over the nav content on mobile, rather than dropping below
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

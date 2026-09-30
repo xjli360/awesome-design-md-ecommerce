@@ -4,6 +4,10 @@ name: "Bellzi"
 source_url: "https://bellzi.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A cheerful, squeezable world built on a minty-teal primary (#108474) that reads more like a candy wrapper than a brand color — it is the exact shade of a green apple Jolly Rancher, and it appears on every add-to-cart button, every header banner, and every product badge. The canvas is a warm off-white (#f9fafb) rather than pure white, giving the storefront a soft, unbleached-cotton feel that lets the plush animals pop. Accent colors arrive like sprinkles: a marigold yellow (#fbcd0a) for sale tags and star ratings, a lavender (#a89cc8) for limited-edition labels, and a pale seafoam (#c1e6e6) for category dividers. The typography stack leans on Nunito Sans for display and body — a rounded, friendly sans-serif with open apertures that mirrors the soft curves of the plushies themselves. Buttons are pill-shaped (`{rounded.full}`) and generously padded, inviting taps. Product cards use a subtle drop shadow and `{rounded.md}` corners, with the animal photo filling the full card width — no cropping tricks, just the creature in its full stuffed glory. The brand voice is direct and delighted: "Meet your new best friend" appears above every product grid. There is no cynicism here, no luxury pretense — just a clean Shopify storefront that lets the plushies do the selling. The navigation is minimal: a sticky top bar with the Bellzi wordmark, a search icon, a cart count, and a single "Shop All" link. The footer is dense with policy links and social icons, but the visual weight stays on the product photography. The overall feeling is that of a well-loved toy box — organized, colorful, and impossible to walk past without smiling.
 
@@ -451,6 +455,14 @@ components:
 - The search bar collapses from a full input to a magnifying glass icon that expands on tap.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

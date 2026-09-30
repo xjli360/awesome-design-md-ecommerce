@@ -4,6 +4,10 @@ name: "Kala Brand"
 source_url: "https://www.kalabrand.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   A cool, oceanic palette anchored on #ffcf2a — a marigold accent that cuts through a deep navy-and-charcoal system (#111111, #2c3034, #272d45) like a beam of light through dark water. The brand lives in the tension between instrument-craft seriousness and musical joy: type runs Neue Haas Unica and Greycliff CF at clean, readable weights, with display sizes that never scream but always command attention. The extracted hex set reveals a design system built on layered grays (#3a3a3a, #848484, #989898, #bfbfbf) and soft surfaces (#f4f4f6, #e5e5e5, #dbdbdb) that frame product photography — ukuleles in koa, mahogany, and spruce — against a near-black canvas. Buttons and accents pulse with #ffcf2a and a secondary teal (#00caaa), while #676986 and #9a9db1 provide muted support tones. The meta theme-color of #111111 signals a brand unafraid of darkness, letting the marigold and the wood grain do the talking. Rounded corners are restrained — {rounded.sm} on cards, {rounded.md} on buttons — never pill-shaped, always precise. The Shopify platform underpins a clean, grid-driven commerce experience where product detail pages carry the weight, navigation stays lean, and the checkout is a quiet, functional passage.
 
@@ -599,6 +603,13 @@ components:
 - Search bar collapses to an icon button on mobile, expanding to a full-screen overlay on tap.
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

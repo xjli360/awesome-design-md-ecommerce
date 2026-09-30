@@ -4,6 +4,10 @@ name: "Madewell"
 source_url: "https://madewell.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The near-square corner on a Madewell primary button — {rounded.xs}, just 2px of radius — is the first structural tell: a brand anchored in selvedge denim and workwear heritage treats softened edges as decoration it doesn't need. The palette is almost entirely warm neutrals — a slightly creamy canvas (#FAFAF8) as the page base, near-black (#1A1A1A) for primary CTAs and body ink — with one chromatic departure: a muted selvedge-indigo (#4A6080) that surfaces in hover accents and collection spotlights, present enough to signal the denim identity without performing it. Display headlines run in an editorial serif at light-to-regular weight (400–500), making category headers read like spreads from a worn paperback rather than retail signage; UI labels, filter text, and prices drop into a clean geometric sans with consistent tracking. Product photography is the real visual currency: grid-card images sit flush to card edges with no border-radius ({rounded.none}), letting raw hem detail and lived-in fabric texture own the full frame. Spacing follows an 8pt rhythm — {spacing.lg} (24px) inside product cards, {spacing.section} (64px) between editorial modules — giving the page an unhurried cadence that reads more like a catalog than a conversion funnel. Sale indicators and clearance callouts arrive in a single accent red (#C0392B), the only warm hue in the system, preserving its urgency rather than distributing it across decorative chrome. The footer inverts the palette — warm cream text ({colors.on-dark}) on dark charcoal (#2A2A2A) — signaling a transition from commerce to brand narrative; it holds email capture, social links, and a small-caps navigation grid. Every hover, focus, and disabled state functions in grayscale: the visual logic trusts that indigo-washed denim and raw cotton are the only accents the brand requires.
 
@@ -360,6 +364,13 @@ components:
 - Hero text repositions to bottom-aligned at mobile to avoid placement over complex image regions; overlay opacity increases slightly for contrast safety
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

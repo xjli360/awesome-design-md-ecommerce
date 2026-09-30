@@ -4,6 +4,10 @@ name: "Open Farm"
 source_url: "https://openfarmpet.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Two greens share the brand voltage at Open Farm — the deep forest #128230 that carries primary CTAs, nav highlights, and active states, and a brighter #1ab243 that surfaces in badge fills and hover transitions, a layering that reads less like a calculated palette split and more like a field caught in two different kinds of afternoon light. The harvest-warm #d05018 cuts against this cool axis as the urgency accent: sale callouts, limited-batch ingredient chips, and seasonal campaign banners reach for this burnt orange whenever the UI needs a conversion signal that contrasts the green-dominant system. The near-black #121212 handles all ink duties without tipping to full monochrome, keeping contrast high while staying a degree warmer than a pure black would. Moderat — Colophon Foundry's geometric sans with round apertures and even stroke weight — is the sole typeface. Its natural legibility at caption scale suits ingredient-dense product pages, while its geometric authority at display weight carries homepage claims about ethical sourcing without reading promotional. Display headlines run at weight 700; section titles step to 500; body prose sits at 400 with a 1.6 line-height that is unusually generous for ecommerce, signaling the brand expects customers to actually read the ingredient copy. Button labels use weight 600 with slight uppercase tracking, carving a distinct register from editorial text. Corner radii stay soft throughout: subscription CTAs reach for {rounded.full} pill shapes, product cards sit at {rounded.md}, and form inputs use {rounded.sm}. The same {rounded.full} shape returns on provenance chips — "Humanely Raised," "Ocean-Caught," "Non-GMO Project Verified" — functioning as trust architecture near the product title rather than decorative footnotes buried below the fold. Navigation stays white with the green wordmark and a single filled {colors.primary} CTA button in the top-right. Product tiles render on {colors.surface-soft} so the photography reads bright and farm-referencing rather than moody or editorial. A full-width subscription upsell bar pinned to the viewport bottom on PDPs uses {colors.accent-orange} as background — the one moment the orange earns its full brand weight, creating a conversion signal without requiring visual novelty.
 
@@ -322,6 +326,13 @@ components:
 - The subscription upsell bar reduces to an icon + single-line CTA on viewports below 375px and hides if the customer has already added a subscription item to cart
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

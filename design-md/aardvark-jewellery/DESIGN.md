@@ -4,6 +4,10 @@ name: "Aardvark Jewellery"
 source_url: "https://www.aardvarkjewellery.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   The name arrives before the aesthetic does — Aardvark, the first animal alphabetically, chosen for a studio handcrafting engagement rings, signals that this brand leads with personality rather than prestige. Its primary voltage is #7d3cff, a saturated violet that most bridal boutiques would classify as too digital and too confrontational; Aardvark anchors every CTA, interactive focus ring, and hover state in it without apology. Against a canvas carrying the faintest purple undertone (#fbfbfb and #fbf9ff), the interface reads simultaneously romantic and graphic — a maker's studio that knows exactly which century it lives in.
 
@@ -367,6 +371,14 @@ components:
 - Product grid increases from 2 columns at mobile to 3 at 744px and 4 at 1128px via CSS grid `auto-fill` with a minimum column width
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

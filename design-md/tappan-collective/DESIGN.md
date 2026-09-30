@@ -4,6 +4,10 @@ name: "Tappan Collective"
 source_url: "https://www.tappancollective.com"
 captured_at: null
 evidence_status: "historical_unverified"
+quality_tier: "historical_archive"
+usage_scope: "inspiration_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Every purchase action on Tappan Collective registers in #ff3300 — a warm tomato-red that lands against the near-white canvas like a gallery director's marker circling the work that's ready to ship. Against the warm linen surfaces (#e1ddc9, #fff2d8) that appear in editorial banners and featured-collection modules, that orange-red reads as curatorial authority rather than commercial urgency. goldenbook serifed headlines carry the editorial voice at display sizes, establishing an art-catalogue register that a sans-serif grid alone could not achieve, while neuzeit-grotesk and Instrument Sans handle all functional UI — pricing, artist names set in small-cap uppercase, filter labels — in deliberately quiet roman spacing that keeps the eye on the art rather than the chrome. The product grid runs dense but airy: each card surfaces only the artwork image, artist name in {typography.label-upper} small-caps, title, and price, with no borders or elevation shadows — flat surfaces all the way. Original works wear a flat dark badge at {rounded.xs}; limited editions carry print-count notation in the same uppercase label register. What makes the color system unusual for a gallery is the breadth of its taxonomy palette: emerald #00a47c, periwinkle #8da1e9, amber #ffb510, deep teal #19bcad, gold-brown #836300, purple #8500d3, and eight or nine further vivid tones appear on category and medium filter chips, giving each genre and material its own color stamp for scannable browsing. Filter chips use {rounded.full} pill geometry — the one place the design loosens its flat rectilinear posture — while all other components maintain {rounded.sm} or flat corners, holding a discipline closer to a printed catalogue than a consumer app.
 
@@ -359,6 +363,13 @@ components:
 ---
 
 ## Known Gaps
+
+- **Agent usage policy:** Historical tokens are unverified. Do not use them as current-site measurements or claim a faithful reconstruction.
+
+
+
+
+
 
 - **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 

@@ -4,6 +4,10 @@ name: "Bob's Red Mill"
 source_url: "https://bobsredmill.com"
 captured_at: "2026-09-28T09:48:09.613842+00:00"
 evidence_status: "css_values_observed_roles_inferred"
+quality_tier: "css_reference"
+usage_scope: "style_reference_only"
+layout_status: "proposed_not_measured"
+recreation_verified: false
 description: |-
   Evidence centers on a warm, earthy palette anchored by mill-red ("#e03c31") as
   the primary action color, paired with a deep umber ink ("#3e2b2e") and a soft
@@ -166,6 +170,14 @@ Recommended, not measured from the live site:
 Touch targets should be a minimum 44×44px, matching or exceeding the observed 56px `.btn` height. Primary nav is assumed to collapse into a hamburger/drawer pattern below `md`, consistent with the deep, multi-level menu text (Featured Flours, By Need, Mealtime & More, etc.) implied by the evidence, though no mobile nav markup was supplied.
 
 ## Known Gaps
+
+- **Agent usage policy:** Only evidenced CSS values are reusable facts. Token roles, spacing, dimensions and responsive rules are proposals unless an attached measurement explicitly establishes them.
+
+
+
+
+
+
 
 - **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 This document is derived from static CSS and page-text evidence only; no rendered layout, computed styles, or JavaScript-driven interactions were observed. Role assignments for muted text, hairlines, and surface-soft/accent-green colors are inferred from the general palette, not from role-specific CSS classes. Typography sizes for `title-md`, `body-md`, `body-sm`, and `caption` are proposed estimates, not measured from supplied CSS (only `display-xl`, `display-md`, and `button-md` map to directly observed rules). Breakpoints, grid columns, and mobile navigation behavior are proposed recommendations, not measured site behavior. Availability, licensing, and full character support of the proprietary "Red Mill Sans" and "Red Mill Serif" fonts were not verified. Hover/focus states beyond the two explicitly supplied `.btn` and `.product-card-link` hover rules are unconfirmed.
